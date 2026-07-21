@@ -1,0 +1,99 @@
+Source URL: https://www.keepit.com/blog/esg-vendor-selection-top-10/
+Content type: Web page
+Last modified: 2025-08-20T00:12:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Top 10 considerations for a recovery solution RFP
+As we all know, the threat of ransomware continues to grow, and so does the importance of ensuring that your business remains resilient and prepared to respond to and recover from ransomware attacks. To help you with your ransomware readiness, ESG (Enterprise Strategy Group) has created “The Ransomware Preparedness Top Ten Recovery Solution RFP” in their report focused on ransomware readiness and cyber resilience.
+Here’s what they find are the 10 most important considerations when selecting solutions for data recovery, which will help you shortlist potential data backup and recovery platforms.
+Vendor selection checklist key considerations:
+1. Data encryption (at rest and/or in flight)
+2. Ability to protect SaaS data
+3. Ability to detect ransomware in data copies/backups
+4. Integrated cloud services capabilities
+5. Ability to recover to any point or location
+6. Ability to protect endpoint devices
+7. Ability to protect virtual machines
+8. End-to-end recovery services
+9. Protected/immutable data copies/backups
+10. Continuous data protection/replication/journaling
+Understanding these factors will help guide you toward writing a more effective proposal and to evaluate and select the most effective backup and recovery services for your organization's needs. Let’s look a bit more deeply into each of them.
+Top 10 considerations for ransomware recovery solutions
+Creating an RFP (request for proposal) for ransomware recovery solutions is a critical task, so let's expand a bit on why each pointer ESG has identified is important and also add some key considerations that can be included to help you build the best protection portfolio for your specific needs.
+Of course, before you can do so, you need to evaluate which data has value to your business and is most critical to back up since no single solution does everything. For instance, those solutions focusing on on-prem VM aren’t going to be able to cover all SaaS. Likewise, if a solution is optimized for cloud data, it’s not going to be strong for on-prem configurations. So, considering your specific data protection needs beforehand will help you have the right tool for the right job:
+1. Data encryption (at rest and/or in flight)
+Importance: Data encryption is crucial for protecting sensitive information from unauthorized access and ensuring data integrity. Encryption at rest protects data stored on disks and storage devices, while encryption in flight secures data during transmission.
+Considerations:
+• Encryption standards: Specify the encryption algorithms (e.g., AES-256) and protocols (e.g., TLS, SSL) that the solution must support.
+• Key management: Detail the requirements for key management practices, including generation, storage, rotation, and destruction.
+• Compliance: Ensure the solution meets industry standards and regulatory requirements (e.g., GDPR, HIPAA).
+• Performance impact: Evaluate the impact of encryption on system performance and backup/recovery speeds.
+2. Ability to protect SaaS data
+Importance: With the increasing adoption of SaaS applications, more and more business-essential data is stored in SaaS applications, therefore ensuring the protection and backup of data hosted in the cloud is vital for business continuity, compliance, and more.
+Considerations:
+• SaaS integrations: Identify specific SaaS applications (e.g., Office 365, Salesforce) and ensure the solution supports seamless integration.
+• API support: Ensure the solution can interact with SaaS APIs for automated backup and recovery.
+• Data ownership: Clarify data ownership and access rights in the context of SaaS providers' terms of service.
+• Recovery options: Provide details on how data can be restored, including granularity (e.g., individual items vs. entire datasets).
+3. Ability to detect ransomware in data copies/backups
+Importance: Early detection of ransomware within backup data can prevent the spread and mitigate damage.
+Considerations:
+• Anomaly detection: Ensure the solution includes advanced anomaly detection techniques to identify unusual patterns indicative of ransomware.
+• Scanning tools: Integrate with malware scanning tools to analyze backup data.
+• Monitoring/notification systems: Set up real-time alerts for detected anomalies or potential ransomware activity.
+• Historical analysis: Implement capabilities to review historical backup data for signs of previously undetected ransomware.
+4. Integrated cloud services capabilities
+Importance: Leveraging cloud services for backup and recovery enhances scalability, reliability, and accessibility.
+Considerations:
+• Cloud providers: Specify preferred cloud providers (e.g., AWS, Azure, Google Cloud) and their service offerings, while also considering data protection best practices, such as air gapping in line with the 3-2-1 backup rule.
+• Cost management: Tools for monitoring and managing cloud storage costs. Many providers have additional costs based on, e.g., consumption, egress/ingress, retention, archiving departed users, and more.
+• Disaster recovery: Utilize cloud for disaster recovery solutions with geographically dispersed data centers.
+5. Ability to recover to any point or location
+Importance: Flexibility in recovery options ensures that data can be restored to different points in time or alternate locations as needed.
+Considerations:
+• Granularity: Support for granular recovery points (e.g., hourly, daily) to minimize data loss.
+• Flexibility: The ability to prioritize and recover the most critical data first is vital for ensuring business continuity.
+• Cross-platform recovery: Ensure compatibility across different platforms and environments. Multi-workload coverage from a single provider provides additional value.
+• Testing: Regularly test recovery processes to ensure reliability.
+• Failover mechanisms: Include automatic failover options for critical systems.
+6. Ability to protect endpoint devices
+Importance: Endpoint devices are often the entry points for ransomware attacks. Protecting them is essential for overall security.
+Considerations:
+• Endpoint agents: Deploy lightweight agents on endpoints to monitor and protect against ransomware.
+• Centralized management: Centralized dashboard for managing and monitoring endpoints.
+• Data encryption: Ensure data on endpoints is encrypted.
+• Backup frequency: Define how often endpoint data should be backed up.
+7. Ability to protect virtual machines
+Importance: Virtual machines (VMs) are integral to modern IT environments. Their protection is critical for maintaining business continuity.
+Considerations:
+• Hypervisor compatibility: Ensure support for major hypervisors (e.g., VMware, Hyper-V).
+• Snapshot management: Use VM snapshots for efficient backup and recovery.
+• Performance: Minimize performance impact during backup operations.
+• Disaster recovery: Integrate with DR solutions for automated VM recovery.
+8. End-to-end recovery services
+Importance: Comprehensive recovery services ensure that all aspects of data and system restoration are covered.
+Considerations:
+• Service levels: Define SLAs for recovery time and recovery point objectives.
+• Support: 24/7 support and clear escalation paths.
+• Testing and validation: Regularly test recovery processes and validate data integrity.
+• Documentation: Detailed documentation of recovery procedures and guidelines.
+9. Protected/immutable data copies/backups
+Importance: Immutable backups cannot be altered, deleted, or encrypted by ransomware, ensuring data safety.
+Considerations:
+• Immutability features: Implement write-once-read-many (WORM) technology.
+• Retention policies: Define retention periods for immutable backups.
+• Access controls: Restrict access to backup data to prevent tampering.
+• Storage solutions: Use storage solutions that support immutability.
+10. Continuous data protection/replication/journaling
+Importance: Continuous data protection (CDP) and replication ensure minimal data loss and quick recovery.
+Considerations:
+• Replication methods: Choose between synchronous and asynchronous replication based on requirements.
+• Data journaling: Implement journaling to track and store changes for quick rollback.
+• Network bandwidth: Optimize replication processes to minimize network bandwidth usage.
+• Recovery flexibility: Provide options for rolling back to specific points in time.
+Conclusion
+By addressing these key areas in your RFP, you'll be better equipped to evaluate vendors and select a ransomware recovery solution that meets your organization's specific needs. This comprehensive approach will help ensure the robustness and reliability of your data protection strategies. Ultimately, understanding your overall security structure will help you understand which tools you’ll need to use.
+This blog article is part of a series of articles on ransomware resilience and the key role data protection plays in ensuring business continuity. Below are the three other related articles in the series for further reading.
+To continue learning more about ransomware backup protection, watch our on-demand webinar.

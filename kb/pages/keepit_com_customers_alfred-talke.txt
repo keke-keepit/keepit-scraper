@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/customers/alfred-talke/
+Content type: Web page
+Last modified: 2024-05-10T20:28:40+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why TALKE Group chose Keepit for their SaaS backup needs
+The TALKE Group handles some of the world’s most hazardous logistics – Keepit handles TALKE’S backup and data protection.
+Since 2018, ALFRED TALKE GmbH & Co. KG (the German logistics service provider of chemicals and petrochemicals) has been transitioning its over 350 business-critical applications to the cloud – 90 percent in Microsoft’s SaaS-services, including MS 365, SharePoint, Exchange, and Active Directory. As one of the leading logistics service providers of chemicals globally, a data breach would not only massively affect TALKE’s business, but also the whole supply chain and the underlying industries.
+Company
+Since 1947, TALKE and it’s now 4,600 employees have transported, stored, and handled hazardous materials for companies around the world. They also offer consultations, designs, and implementations of relevant structures and systems to contain chemicals. The company has offices in Europe, the US, and Asia, with its main offices in Germany. If data is not protected properly, a data breach or ransomware attack could impact not only TALKE but also disrupt the whole supply chain, potentially affecting thousands of companies.
+Goals and Objectives
+TALKE is in a transition period, modernizing their old legacy systems and outsourcing their complete local and wide-area network – all while moving their over 350 business-critical applications to the cloud, hereunder SAP and Microsoft applications.
+So far, the digitalization process started with Microsoft 365, including OneDrive and OneNote, Exchange and Active Directory, as well as moving TALKE’s large SharePoint on-premises server into the cloud. At the same time, the company has begun to embrace Teams instead of Skype. From the get-go, backup and restore are not possible from the cloud services, which is a massive security problem.
+The goal was, therefore, to implement one backup platform to securely and easily handle backup and restore all the cloud instances, from Microsoft 365 and Exchange, to SharePoint and Teams from the very beginning.
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+Nenad Ljubetic
+Head of IT, TALKE
+Approach
+Keepit initially presented a proof of concept tailored to TALKE’s needs and requirements, built from detailed discussions, where Keepit learned about the company’s key needs and business requirements, as well as their daily work and dataflow. Under the implementation, TALKE’s IT tested the workflow of restoring data, which performed flawlessly every time.
+Results
+Since the integration of Keepit’s solution, TALKE has had a seamless backup solution with no errors and an uptime of 100 percent. Restoring files and data on request from the 4,600 employees is easy and done quickly. Shortly after the collaboration was initiated, TALKE had to restore some specific emails, which was done without restoring the whole mailbox. TALKE’s data is now backed up and secured within the borders of Europe, living up to both German and European Data Protection and Privacy regulations (GDPR).
+It’s a fire-and-forget solution, meaning that after we implemented it, there has not been the need for a lot of maintenance, and it is easy to use and to restore files as the request arrives. Having a functional and problem-free backup and restore strategy is an absolute must-have for us in our industry, and Keepit helps us with that
+Nenad Ljubetic
+Head of IT, TALKE

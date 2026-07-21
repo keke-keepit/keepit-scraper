@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/recover-an-existing-microsoft-365-user/
+Content type: Web page
+Last modified: 2026-06-30T00:48:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Recover an existing Microsoft 365 user
+If a user still exists in Microsoft 365, you can restore or import data back to this user from the connector level or you can restore data by doing an Item Restore – by browsing your data in the connector and restoring a folder or file.
+What will happen to the data will depend on the way you restore. When deciding how to recover the data, keep in mind the behavior described below:
+When you restore or import data back to this user from the connector level, you can select how we should handle duplicate items.
+The main difference between restoring and importing from the connector level is what happens in case items are in Microsoft 365 but not in the snapshot.
+When you restore
+Exchange items present in Microsoft 365 but not in the snapshot you are restoring will not be deleted, but will be transferred to the Recover deleted items folder. This folder can be found only in the desktop version of Outlook by selecting Folder > Clean up section > Recover deleted items.
+All items from the Recover deleted items folder will be restored to the Inbox from where you can move the items to the appropriate folder.
+Emails in Public Folders are moved to the Recover deleted items, but all other Public Folder data (contacts, journals, notes, tasks, etc.) will be deleted.
+OneDrive items present in Microsoft 365 but not in the snapshot you are restoring from will be deleted.
+When you import
+Exchange and OneDrive items present in Microsoft 365 but not in the snapshot you are restoring from will not be deleted.
+When you restore the user or even just some parts of the user's data by performing an Item Restore, data is returned in place and in case of duplicate items:
+- When restoring Exchange data, modified items (same item but with different timestamps) will be added to Exchange.
+- When restoring OneDrive data, modified items (same item but with different timestamps) will be overwritten.
+In an Item Restore, items present in Microsoft but not in the snapshot you are restoring from will not be deleted.

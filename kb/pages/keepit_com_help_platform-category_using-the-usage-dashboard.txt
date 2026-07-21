@@ -1,0 +1,16 @@
+Source URL: https://www.keepit.com/help/platform-category/using-the-usage-dashboard/
+Content type: Web page
+Last modified: 2026-06-23T22:22:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Using the Usage dashboard
+The usage dashboard provides a comprehensive overview of your current and historical seat usage patterns.
+Please note that only the Master Admin has access to this page.
+What you'll find
+- A monthly overview – a chart that offers insights into your historical usage patterns
+- The current total seat usage for the selected connector (the aggregated seat count for the current day)
+- A breakdown of seat counts for each licensed data area
+- Entitlements for each data area, allowing for easy tracking of available licenses
+Note: If you don't see entitlements, it means your account doesn't yet have entitlements assigned.

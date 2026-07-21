@@ -1,0 +1,58 @@
+Source URL: https://www.keepit.com/ciso-and-cio-challenges-survey/
+Content type: Web page
+Last modified: 2025-08-20T00:20:07+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+CISOs and CIOs confront growing data protection challenges in the era of AI and cloud
+Foundry survey and in-depth interviews reveal critical gaps in disaster recovery strategies and highlight the pressing need for enhanced data security measures.
+Copenhagen, Denmark. July 23, 2024 – Keepit, a global provider of a comprehensive cloud backup and recovery platform, today released a survey conducted by Foundry, as well as a study based on in-depth interviews conducted by Keepit. Both reveal critical gaps in disaster recovery strategies and highlight the pressing need for enhanced data security measures.
+In an evolving technological landscape, enterprise IT leaders are grappling with unprecedented challenges in data protection and governance, driven by the rapid adoption of cloud applications and generative AI.
+The CISOs and CIOs interviewed by Keepit for the study: “The great balancing act: Cybersecurity leaders tackle rising pressures” spoke to the necessity of rising to the challenge by adopting a mindset of continuous improvement. They are building collaborative best practices, partnering to bring in needed expertise, and investing in data-centric solutions optimized for security and simplicity.
+Data protection struggles amid cloud and AI expansion
+Enterprise disaster recovery strategies, traditionally designed for on-premises IT infrastructure, are lagging behind the surge in cloud application usage and the integration of AI technologies. Foundry's survey: “Can data protection keep pace with the shifting landscape?” underscores this trend. The respondents of the survey represent IT decision-makers from companies with over 1,000 global employees. While 70% of respondents report that their financial applications are covered by data protection strategies, a significant portion of other key systems and custom applications remain vulnerable.
+Survey highlights
+- Financial systems: 70% are covered by data protection strategies.
+- E-commerce and HR Management Systems: 50% are covered.
+- CRM and ERP systems: 48% and 42% respectively.
+- Critical transaction-based systems, custom applications, and collaboration and productivity tools: Are lagging behind with only between a third and a quarter of systems covered.
+“Anything related to finance is important, most people will agree. And it’s an obvious place to start when you map your critical systems and data. The survey shows that financial systems are by far the most incorporated in data protection strategies, and when you look at verticals, financial institutions are also a little more mature than others,” says Kim Larsen, CISO at Keepit, an industry professional with a background in advising public and private sector organizations in cyber security and cyber resilience.
+Strategic gaps and vulnerabilities
+The survey reveals that only half of the organizations have incorporated cloud-stored SaaS data into their disaster recovery plans. Another 40% plan to address this gap soon. A decision-maker participating in a recent Keepit CISO roundtable remarked, "We solved many of these challenges 10 to 15 years ago, but with the move to cloud, it's like we're starting from scratch again."
+The current state of data protection is also seen as a significant barrier to expanding the use of generative AI technologies.
+Strategic gaps:
+- Critical SaaS data applications: 50% of respondents have included cloud-stored data for critical SaaS applications in their disaster recovery plans, and 40% plan to do so.
+- AI data protection: Nearly all organizations prioritize AI data protection, with 52% already implementing tools for chatbots and AI platforms and 43% considering them.
+“Good data protection is essentially ‘data classification plus good recovery capabilities’: If you understand your data, and can recover uncorrupted versions of it fast, you have a solid foundation to ensure business continuity, compliance and recovery. But this is easier said than done: The complexity of implementing new initiatives, such as governance over data used by large language models (LLMs), and the need to balance conflicting IT demands, pose additional challenges for any industry,” adds Kim Larsen, CISO at Keepit.
+Compliance and future-proofing
+Compliance is a top concern for 73% of survey respondents heading into 2024, with data governance (53%) and enterprise backup and recovery (45%) also ranking high. Regulatory scrutiny is increasing globally, with mandates from agencies like the SEC in the US and the upcoming Digital Operational Resiliency Act (DORA) in the EU.
+Compliance challenges:
+- Regulatory mandates: New cybersecurity resilience requirements.
+- Cybersecurity risks: Continued threats, notably ransomware.
+“Cyber strategy must be perfectly aligned with the business to effectively support it. The more global an organization becomes, the more difficult this is – to align access, and comply with regulations. This is backed up in our study, where CISOs emphasized the need for a unified risk management strategy that aligns with regional regulatory requirements,” said Kim Larsen.
+Organizational maturity and risk management
+Keepit's interviews with over 30 CISOs and CIOs reveal the importance of organizational maturity in handling data security. The variability in CISOs' backgrounds and responsibilities was cited as a reason for the slow implementation of data-focused innovations.
+Key findings:
+- Cloud flexibility: 80% of organizations adopt a "cloud smart" approach, introducing new security and compliance challenges.
+- Regulatory and expertise challenges: The rise of GenAI and the need for specialized knowledge in AI and cybersecurity.
+“One thing stands out: Organizations have very different levels of maturity. A lot of the governance activities are so obvious, you would think everyone is doing them. But they aren’t. Classic difficulties include managing multiple security vendors, leading to gaps in protection. Another is circumstances – one CISO told us how he had experienced five major cyber events in the previous year, prompting a complete overhaul of their cyber response plan,” says Kim Larsen, CISO at Keepit.
+Strategies for success
+CISOs and CIOs are adopting continuous improvement mindsets, building collaborative best practices, and investing in data-centric solutions. Establishing effective data governance frameworks and engaging the board of directors are seen as crucial steps forward.
+Strategic recommendations:
+- Align with business objectives: Frame cybersecurity in the context of business goals.
+- Translate technical concepts: Communicate in terms stakeholders understand.
+- Demonstrate ROI: Highlight cost savings, risk reductions, and business benefits.
+- Board engagement: Seek feedback and support from the board for cybersecurity initiatives.
+“The conclusion is that data protection remains a cornerstone of organizational resilience in the face of growing technological advancements. As CISOs and CIOs navigate these challenges, their ability to enable and protect data-driven innovation will define their success. Robust data security and backup strategies are essential for balancing innovation and protection, ensuring that organizations can thrive in the digital age. Effective communication of cyber risks to stakeholders and demonstrating the ROI of cybersecurity initiatives are critical,” ends Kim Larsen.
+### ENDS ###
+About Foundry, and IDG, Inc. Company
+Foundry has played a key role in every major milestone, announcement, and development in modern technology since 1964. We engage and activate the world’s most influential tech buyers and early adopters via the award-winning journalism and trusted media brands they’ve turned to for decades. Our integrated ecosystem of owned and operated editorial sites, awards, events, and tech communities is engineered to enable global audience activation through innovative marketing campaigns. Backed by robust audience insights and data from across our network, Foundry sets the standard for delivering business results to help companies grow.
+With 38 offices in markets around the globe, Foundry is a wholly owned subsidiary of International Data Group, Inc. (IDG), the world’s leading tech media, data, research and marketing services company.
+To learn more about Foundry, visit foundryco.com.
+About CSO:
+CSO serves enterprise security decision-makers and users with the critical information they need to stay ahead of evolving threats and defend against criminal cyberattacks. With incisive content that addresses all security disciplines, from risk management to network defense to fraud and data loss prevention, CSO offers unparalleled depth and insight to support key decisions and investments for IT security professionals. www.csoonline.com
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguardsâ¯essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over 10,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+ 
+For more information visitâ¯www.keepit.comâ¯or follow Keepit onâ¯Linkedin.

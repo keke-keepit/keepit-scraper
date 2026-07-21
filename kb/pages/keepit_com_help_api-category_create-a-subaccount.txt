@@ -1,0 +1,126 @@
+Source URL: https://www.keepit.com/help/api-category/create-a-subaccount/
+Content type: Web page
+Last modified: 2026-06-24T11:27:55+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Example of body:
+<user_create> 
+    <login>test@keepit.com</login> 
+    <fullname>TestAccount</fullname> 
+    <acl>MasterAdmin</acl> 
+    <language>en-GB</language> 
+    <product>a9y02y-qngj1m-yvh5r8</product> 
+    <attributes>
+        <attribute>
+            <name>TestAttribute</name>
+            <value>FirstAccount</value>
+        </attribute>
+    </attributes>
+</user_create>Create a subaccount with email authentication required for account activation
+This command creates a subaccount without a password. If no password is set during account creation, an activation link will be sent to the customer's email for account activation.
+Example
+Method POST
+https://dk-co.keepit.com/users/nq2v51-5mx23m-qb7sah/users
+Body
+<user_create> 
+    <login>test@keepit.com</login> 
+    <fullname>TestAccount</fullname> 
+    <acl>MasterAdmin</acl> 
+    <language>en-GB</language> 
+    <product>a9y02y-qngj1m-yvh5r8</product> 
+</user_create>Response
+Code: 201 Created
+PowerShell script
+try { 
+    $username = '<Token username>' 
+    $password = '<Token password>' 
+    $userID = '<Account GUID>'     
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}")) 
+    $headers = @{ 
+        "User-Agent" = "PowerShell-Keepit-API-Agent-1.0" 
+        "Authorization" = "Basic $basicauth" 
+        "Content-Type" = "application/xml" 
+    } 
+    $url = "https://dk-co.keepit.com/users/$userID/users" 
+    $xmlBody = @" 
+<user_create> 
+  <login>test@keepit.com</login> 
+  <fullname>TestAccount</fullname> 
+  <acl>MasterAdmin</acl> 
+  <language>en-GB</language> 
+  <product>a9y02y-qngj1m-yvh5r8</product> 
+</user_create> 
+"@ 
+    Invoke-WebRequest -Uri $url -Method Post -Headers $headers -Body $xmlBody -ErrorAction Stop -TimeoutSec 10 
+} 
+catch { 
+    $line = $_.InvocationInfo.ScriptLineNumber 
+    Write-Host "Cannot query Keepit API due to: $_" 
+    Write-Host "at line $line" 
+} The most commonly used ACLs (user roles):
+- PartnerParent
+- MSPPartner
+- MasterAdmin
+- BackupAdmin
+- FullSupport
+- LimitedSupport
+- Audit
+- StandardSupport
+- SsoAdmin
+- PMRAdmin
+- ReadOnlySupport
+Additional information
+- The login supplied (<login> field) will be used to create a user (access token) tied to the newly created account.
+- The customer must activate their account using the link in the activation email once it is created. After activation, they will be ready to start setting up their backups.
+Create a subaccount without email authentication for account activation
+This command creates a subaccount with a password, bypassing the account activation requirement via email.
+Example
+Method POST
+https://dk-co.keepit.com/users/nq2v51-5mx23m-qb7sah/users
+Body
+<user_create> 
+    <login>test@keepit.com</login> 
+    <password>12345679</password> 
+    <fullname>TestAccount</fullname> 
+    <acl>MasterAdmin</acl> 
+    <language>en-GB</language> 
+    <product>a9y02y-qngj1m-yvh5r8</product> 
+</user_create>Response
+Code: 201 Created
+PowerShell script
+try { 
+    $username = '<API Token username>' 
+    $password = '<API Token password>' 
+    $userID = '<Account GUID>' 
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}")) 
+    $headers = @{ 
+        "User-Agent" = "PowerShell-Keepit-API-Agent-1.0" 
+        "Authorization" = "Basic $basicauth" 
+        "Content-Type" = "application/xml" 
+    } 
+    $url = "https://dk-co.keepit.com/users/$userID/users"
+$PrimaryTokenPassword = @"
+EnterYourPasswordHere!
+"@ 
+    $xmlBody = @"
+<user_create>
+  <login>test@keepit.com</login>
+  <password>$([System.Security.SecurityElement]::Escape($PrimaryTokenPassword))</password>
+  <fullname>TestAccount</fullname>
+  <acl>MasterAdmin</acl>
+  <language>en-GB</language>
+  <product>a9y02y-qngj1m-yvh5r8</product>
+</user_create>
+"@ 
+    Invoke-WebRequest -Uri $url -Method Post -Headers $headers -Body $xmlBody -ErrorAction Stop -TimeoutSec 10 
+} 
+catch { 
+    $line = $_.InvocationInfo.ScriptLineNumber 
+    Write-Host "Cannot query Keepit API due to: $_" 
+    Write-Host "at line $line" 
+} Additional information
+- The product ID must correspond to a product created in the portfolio of the creating account or one of its parent accounts.
+- A primary contact record will be created for the new account, using the provided login as the email address and, if supplied, the full name.
+- The password for the primary user (token), defined in the <password> element, should be enclosed with @" and "@ in the script to ensure proper handling of special characters. Replace the string “EnterYourPasswordHere!” with the password you wish to set.

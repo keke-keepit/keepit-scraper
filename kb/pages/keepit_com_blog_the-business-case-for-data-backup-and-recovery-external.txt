@@ -1,0 +1,14 @@
+Source URL: https://www.keepit.com/blog/the-business-case-for-data-backup-and-recovery-external/
+Content type: Web page
+Last modified: 2025-08-20T02:24:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why cloud data protection is a core business requirement
+Contributed Article: Time for a New Conversation On Cloud Data Backup
+Niels Van Ingen, Keepit’s Chief Customer Officer, has contributed a blog post on how cloud backup is essential for protecting business data and ensuring continuity.
+This conversation revolves around how cloud data protection is a must-have for any organization: protection that is secure, reliable, and accessible from anywhere. Van Ingen, a veteran of the data protection and management space, provides insight on this imperative.
+The more we advance and become smarter and more efficient through new technology, the greater the opportunity for IT to inadvertently fall out of alignment with business goals. By this I mean, technology simplifies things, so users have the opportunity to bypass IT involvement and set up new processes which start driving part of the business. The downside is if you don’t have systems in place to protect these new processes, they become adopted without the benefit of protection around it.
+What he refers to as a “wild west” mentality, he sees there is a lack of holistic data security planning which can lead to profound consequences for enterprises. Van Ingen shares how businesses should frame the discourse around cloud applications to safely manage the ever-growing dependence on them and the data they produce to minimize (or in some cases eliminate) business disruption.
+Read the full article “The Business Case for Data Backup and Recovery” from Disaster Recovery Journal.

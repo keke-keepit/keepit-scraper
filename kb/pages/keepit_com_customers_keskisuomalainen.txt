@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/customers/keskisuomalainen/
+Content type: Web page
+Last modified: 2026-01-08T11:34:13+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Largest media company in Finland chooses the Keepit cloud
+With over 2.2 million weekly readers, Keskisuomalainen is the largest media company in Finland. Migrating from on-prem Exchange to Microsoft 365 was essential to ensuring quick and efficient recovery of user data, and Keepit was the obvious choice.
+It’s crucial for us that our M365 data is safeguarded within the EU at another location than that of Microsoft. Keepit provides this for us.
+Arto Voutilainen
+ICT Architect, Keskisuomalainen
+3rd-Party Backup Is a No-Brainer
+A risk often overlooked during the cloud migration process is failing to opt for a true third-party backup and recovery provider. Microsoft’s retention periods and recovery functions are extremely limited, and many backup vendors in the market use the same data centers as Microsoft.
+If Microsoft’s data center goes out, then our data goes out too.
+Arto Voutilainen
+ICT Architect, Keskisuomalainen
+It was key for ICT Architect Arto Voutilainen to have a secure and accessible backup solution at an off-site location to ensure that company data is always accessible, even if Microsoft’s servers go offline.
+Restoring Data in a Heartbeat
+For Voutilainen, backup is an integral part of migrating the company’s on-prem data to Microsoft 365 – not only to protect existing and new data, but also to ensure quick and easy restore. Keepit provides Keskisuomalainen with simple and easy restore functions that allow Voutilainen to find and share user data directly, reducing operating costs.
+We need easy access to share M365 data with returning users and Microsoft’s built-in capabilities are simply not sufficient here.
+Arto Voutilainen
+ICT Architect, Keskisuomalainen
+Predictable and All-Inclusive Pricing
+According to Voutilainen, other backup vendors charged additional fees and had numerous limitations regarding restores. What sets Keepit apart is that everything is included in the price. Voutilainen now relies on simple and fast recovery features, making restore tasks an easy process.
+With Keepit, data availability is straightforward: We own and have full, direct access to our data at all times.
+Arto Voutilainen
+ICT Architect, Keskisuomalainen
+Keepit has supported Keskisuomalainen with their journey to the cloud and now ensures all business-critical data is backed up and protected with the highest level of security.

@@ -1,0 +1,16 @@
+Source URL: https://www.keepit.com/resources/why-compliance-and-continuity-is-good-business/
+Content type: Web page
+Last modified: 2025-08-20T00:05:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why compliance and continuity is good business for healthcare organizations â and how secure backup of Microsoft 365 data gets you there
+This e-book offers operations, security, and technology leaders in hospitals, clinics, and other healthcare delivery organizations (HDOs) essential insights into why secure backup of Microsoft 365 data is crucial for compliance and business continuity.
+Healthcare organizations must understand that while Microsoft provides infrastructure resilience, it does not cover all aspects of data protection. The potential costs of data loss from ransomware attacks, human errors, or non-compliance with healthcare regulations can be significant.
+By reading this e-book and completing the short exercises within, you will:
+- Learn why backing up your Microsoft 365 data is essential for maintaining security and compliance within your organization.
+- Discover why relying on a dedicated third-party backup provider is crucial for comprehensive data protection.
+- Evaluate your current SaaS data risk and protection readiness to identify gaps and areas for improvement.
+- Gain insights on how to effectively strengthen your budget requests and secure support from senior leadership.
+- Learn what to look for in a dedicated backup solution to ensure it meets your organization's unique needs and regulatory requirements.

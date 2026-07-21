@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/press/backupanddr/
+Content type: Web page
+Last modified: 2026-02-09T15:01:54+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit receives 2025 Backup and Disaster Recovery Award from Cloud Computing Magazine
+The Keepit platform named recipient of the Backup and Disaster Recovery Award for the second year in a row
+Copenhagen, Denmark, February 9, 2026 —Keepit, the only independent, cloud-native data protection and recovery provider, today announced that TMC, a global, integrated media company, has named Keepit platform as a 2025 Cloud Computing Backup and Disaster Recovery Award winner, presented by TMC’s Cloud Computing Magazine.
+The Cloud Computing Backup and Disaster Recovery Award recognizes technologies and vendors that have built cloud solutions that empower businesses small or large to remain active and productive under even the most challenging conditions, minimizing lost business opportunities.
+“The Keepit platform is your last line of defense – and the way to recover even if disaster strikes. Unlike other solutions in the market, Keepit does not rely on global hyperscalers and your data remains immutable. We don’t just secure your business continuity — we aim to provide peace of mind. We’re excited that Cloud Computing Magazine has recognized us for the second year in a row,” says Michele Hayes, CMO at Keepit.
+The Keepit platform protects fourteen key SaaS applications, including Microsoft 365, Entra ID, Google Workspace, and Okta. With seven data center regions and offices globally, Keepit provides over 20,000 companies with backup and recovery services.
+“Recognizing excellence in the advancement of cloud computing technologies, Cloud Computing magazine is proud to announce Keepit platform as a recipient of the Cloud Computing Backup and Disaster Recovery Award,” said Rich Tehrani, CEO, TMC. “Keepit is being honored for their achievement in bringing innovation to the market, while leveraging the latest technology trends.”
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over 20,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.
+About Cloud Computing Magazine
+Cloud Computing magazine is the industry's definitive source for all things cloud - from public, community, hybrid and private cloud to security and business continuity, and everything in between. This online magazine published by TMC assesses the most important developments in cloud computing not only as they relate to IT, but to the business landscape as a whole.
+About TMC
+For more than 20 years, TMC has been honoring technology companies with awards in various categories. These awards are regarded as some of the most prestigious and respected awards in the communications and technology sector worldwide.  Winners represent prominent players in the market who consistently demonstrate the advancement of technologies. Each recipient is a verifiable leader in the marketplace.
+TMC also provides global buyers with valuable insights to make informed tech decisions through our editorial platforms, live events, webinars, and online advertising. Leading vendors trust TMC, thought leadership, and our events for branding, thought leadership, and lead generation. Our live events, like the ITEXPO #TECHSUPERSHOW, deliver unmatched visibility, while our custom lead generation programs and webinars ensure a steady flow of sales opportunities. Display ads on trusted sites generate millions of impressions, boosting brand reputations. TMC offers a complete 360-degree marketing solution, from event management to content creation, driving SEO, branding, and marketing success. Learn more at www.tmcnet.com and follow @tmcnet on Facebook, LinkedIn, and X.

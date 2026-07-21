@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/help/entra-id-category/requirements-for-setting-up-an-entra-id-backup/
+Content type: Web page
+Last modified: 2026-07-03T23:28:11+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Requirements for setting up an Entra ID backup
+Requirements for general backup
+The Microsoft 365 service account used to handle the backup must be assigned the global administrator role.
+Requirements for eligible role assignments backup
+To back up and restore eligible role assignments, at least one of the users on the tenant must have an appropriate license:
+- Microsoft Entra ID P2 or
+- Microsoft Entra ID Governance
+Requirements for activity logs backup (for Entra ID Advanced)
+To back up Entra ID activity logs, at least one of the users on the tenant must have an appropriate license and role:
+- Entra ID Premium 1 or Premium 2 license to access the Entra ID sign-in logs in the Microsoft Entra portal.
+- Global Administrator or Security Administrator access for the Entra ID tenant.

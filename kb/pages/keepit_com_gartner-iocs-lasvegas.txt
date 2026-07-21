@@ -1,0 +1,30 @@
+Source URL: https://www.keepit.com/gartner-iocs-lasvegas/
+Content type: Web page
+Last modified: 2024-11-22T15:18:19+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Meet Keepit at Gartner IT IOCS conference 2024
+Take control of your SaaS data protection. Ensure confidence in your resilience.     
+Meet us at booth #235
+Enjoy exclusive on-site activities at our booth, including a product demo, insights from industry experts, and meeting our team.
+Don’t have your ticket yet? Register today to get our exclusive discount of $400 on your ticket by using our code LSC43EDC.
+Venue information
+The Venetian Resort Las Vegas | 3355 South Las Vegas Boulevard Las Vegas, Nevada 89109 United States
+Book a meeting with Keepit
+Join us for our speaking session
+Solution provider session
+Keepit: Unlocking Resilience with Strong Data Governance
+A resilient disaster recovery strategy is inseparable from solid data governance. This session highlights how to build a resilient infrastructure by ensuring that data governance principles are deeply embedded in disaster recovery plans. Learn how to classify and prioritize data for recovery, and effectively communicate these strategies to your executive team to strengthen business continuity efforts.
+Speaker: Kim Larsen 
+Date: December 10, 3:15pm (PDT) 
+Room: San Polo 3405-7056 
+Session Code: SPS16 
+Key Takeaways:
+- Techniques for prioritizing data and structuring recovery plans
+- Building executive buy-in for governance-driven recovery strategies
+- Best practices for conducting incident reviews and audits
+We use Keepit to back up everything from Office 365. Whether it is Exchange, OneDrive, SharePoint, or Azure AD, Keepit has us covered.
+It helps us address the risk of data loss, therefore making us compliant to GDPR. Gives IT managers a goodnight sleep knowing any lost data can be easily retrieved.
+Excellent All Round Backup, Easy To Setup And Administer - Well Priced

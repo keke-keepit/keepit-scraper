@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/press/esg-study-ransomware/
+Content type: Web page
+Last modified: 2025-08-19T23:57:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+ESG Study Reveals Granular and Air-gapped Backup Are Key in Data Recovery After a Ransomware Attack
+Nearly 90 percent of respondents admit that not all mission-critical data is protected from cyberattacks.
+Copenhagen, Denmark – April 19, 2022 – Granular and air-gapped backup are critical to data recovery, when, not if, a business falls victim to ransomware. Those are among the key takeaways from a new Enterprise Strategy Group (ESG) study, titled “The Long Road Ahead to Ransomware Preparedness”, which surveyed information technology (IT) and cybersecurity professionals working within organizations across North America and Western Europe.
+According to the report’s findings, while ransomware attacks aren’t always made public, they are a common occurrence and represent both a significant and recurring source of business disruption. Among the more than 600 respondents, 79 percent experienced a ransomware attack within the last year, with 17 percent experiencing attacks weekly and 13 percent experiencing attacks daily.
+More than three-quarters (79 percent) of the survey’s respondents said they categorize ransomware preparedness as being within the top five on their list of overall business priorities,
+“Organizations are building their own individual strategies and processes in response to a lack of industry reference architecture or a blueprint for ransomware protection,” Christophe Bertrand, Practice Director at ESG. “The results of this report serve as a critical step in understanding the most important components of data recovery after a ransomware attack, and it is our hope that organizations can use this as guidance as they work towards preparedness.”
+“The Long Road Ahead to Ransomware Preparedness” includes responses from 620 IT and cybersecurity professionals tasked with protecting against ransomware attacks at midmarket and enterprise organizations in North America (the United States and Canada) and Western Europe (UK, France, and Germany).
+The study, sponsored by Keepit, the world’s only vendor-neutral and independent cloud dedicated to Software-as-a-Service (SaaS) data protection based on a blockchain-verified solution, sought to identify proactive and reactive strategies employed by organizations to guard against the ransomware threat, analyze ransomware mitigation best practices and identify how organizations are prioritizing and planning to mitigate the ransomware threat in the coming 12 to 18 months.
+Other Key Findings Include:
+- 56 percent of respondents admitted to having paid a ransom to regain access to their data, applications, or systems but only 14 percent got all their data back following payment.
+- Only 1 in 7 organizations report protecting more than 90 percent of their mission-critical applications from cyberattacks.
+- 39 percent of successful ransomware attacks impact cloud data, and 40 percent impact storage systems.
+Additionally, some trends identified in the study include:
+- Cloud and storage systems are the most common ransomware targets across the board.
+- Granular data restores are widely preferred as a best practice over full rollback restores.
+- Granular and air-gapped backup have emerged as best practices among industry leaders, with hybrid methodologies favored.
+- Backup is the clear leader for cyber recovery strategy and can empower organizations to refuse to negotiate with ransomware hackers.
+“Public cloud infrastructure has become a destination of choice for data backup, which means that cloud data is increasingly becoming a target for cybercriminals who really want to render businesses inoperable. Organizations are concerned that their backup copies could be corrupted by ransomware attacks and protecting backup copies is a key prevention tactic,” said Jakob Østergaard, CTO at Keepit. “Our strategy is to build in security from the ground up with immutable, blockchain-verified technology, encryption, and air-gapping, and the ESG study clearly documents how.”
+As an alternative to ransom paying, the ESG study revealed that air-gapped backup and the ability to granularly restore data have emerged as best practices among industry leaders, with hybrid methodologies favored. In the context of backing up cloud data, this means allowing the backup or recovery copies to be physically and logically separated from the rest of the network.
+Air-gapping is a time-tested solution that allows backup or recovery data copies to be housed separately from the rest of the network. It is becoming a “must-have” technology when it comes to keeping cloud data out of reach of cybercriminals. The ESG report demonstrates that IT leaders will be looking for these capabilities in their current and future backup solutions, which must be hybrid to support on-premises, cloud-only, or a combination of deployment topologies.

@@ -1,0 +1,41 @@
+Source URL: https://www.keepit.com/help/entra-id-category/restore-an-entra-id-policy/
+Content type: Web page
+Last modified: 2026-07-04T00:09:59+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore an Entra ID policy
+Restore a policy
+1. In your connector, find the policy you want to restore.
+2. Optional: If you want to restore an item from an earlier point in time, open the Snapshots Viewer. Then select the appropriate snapshot.
+3. To the right of the item, click ••• > Restore.
+4. Click Yes to restore the item.
+Note: To restore multiple items at a time, select the items. In the toolbar, click Restore.
+Conditional access policies and certain authentication methods have more complex restores. For details, refer to the following articles:
+What happens when I restore a policy
+All data is restored in place.
+Assignments will also be restored, but only if the linked objects still exist in the tenant.
+Conditional access policies
+Restoring conditional access policies will update the following settings:
+- Assignments (to users, cloud apps or actions, conditions)
+- Grant and session access controls
+- Enable status
+Compliance policies
+Restoring compliance policies will update its settings (policy properties) and assignments.
+Restore limitation:
+- Device and user status read-only statistics are not restored. However, Microsoft will evaluate them automatically.
+Configuration profile
+Restoring a configuration profiles will update its settings (policy properties) and assignments.
+Restore limitations:
+- Device and user status read-only statistics are not restored. However, Microsoft will evaluate them automatically.
+- Configuration settings including the product key cannot be restored if the profile has been deleted. If the profile still exists, the configuration settings will be updated.
+Authentication methods
+Restoring authentication methods will update its settings and links to targets—users or groups for whom policies have been configured.
+Authentication strengths
+Restoring authentication strengths will update its settings (policy properties) and assignments to conditional access policies.
+Named locations
+Restoring named locations will update its settings (policy properties and assignments to conditional access policies.
+Account protection policies
+Account protection policies includes the following policies: Window LAPS, Local User Group Membership, and Account Protection Policies.
+Restoring these policies will update its settings (policy properties) and assignments.

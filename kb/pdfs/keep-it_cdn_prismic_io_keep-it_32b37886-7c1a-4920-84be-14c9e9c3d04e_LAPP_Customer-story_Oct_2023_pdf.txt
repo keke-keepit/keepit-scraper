@@ -1,0 +1,108 @@
+Source URL: https://keep-it.cdn.prismic.io/keep-it/32b37886-7c1a-4920-84be-14c9e9c3d04e_LAPP_Customer-story_Oct_2023.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-07-21
+
+============================================================
+
+Customer Story: LAPP
+LAPP chooses Keepit 
+for critical Azure AD 
+coverage and EU 
+hosting benefits
+
+On the search for a backup provider, LAPP received a recommendation from 
+Keepit partner Syngain GmbH to back up their data with the Keepit solution. 
+After a thorough evaluation, LAPP chose Keepit as their trusted backup and 
+restore solution following further endorsement from their internal engineers.
+Azure AD: The critical need for authentication
+Azure AD is a critical application when it comes to receiving authentication 
+to other business applications. For this reason, Azure AD backup was a high 
+motivator in choosing Keepit. With this backup in place, LAPP can rest assured 
+that their authentication provider is backed up, ensuring access to business-
+critical data and processes.
+—Why is Azure AD backup so critical? In 
+case of Azure AD service disruptions or 
+data inconsistencies, we would have zero 
+authentication to any of our critical business 
+applications from today to tomorrow.
+Matthias Gut
+Head of Digital Innovation & Smart Enterprise at LAPP
+—The role of Azure AD has grown 
+tremendously in the last 5 years as 
+companies increasingly consolidate their 
+active directories into this environment.
+Dr. Andreas Rebetzky
+CEO of Syngain GmbH
+EU hosting as a unique selling proposal 
+The convenience of EU hosting provided LAPP with an operational advantage. 
+This benefit allowed a smooth, easy integration into LAPP’s ecosystem.
+Customer Story: LAPP
+
+Customer Story: LAPP
+“EU hosting made life much easier for internal 
+approval and overall buy-in.” 
+Matthias Gut
+Highly recommended by LAPP’s business network
+For starters, LAPP trusted their long-term business partner Syngain GmbH in 
+their strong recommendation to trust Keepit with their data backup. And when 
+two German mid-sized companies in their network recommended Keepit for 
+its infrastructure and backup, these positive reviews encouraged them to give 
+Keepit a closer look. 
+“Two German mid-sized companies in our network 
+recommended Keepit for its infrastructure and 
+backup.”  
+Matthias Gut
+Strong, well-organized proof of concept
+With LAPP’s engineers on the case, Keepit’s solution was put to the test and 
+evaluated for network bandwidth, day-to-day functionality, administration, 
+and overall physical infrastructure fit. And after about four weeks of thorough 
+evaluation from the engineers, Keepit demonstrated a convincing proof of 
+concept. 
+For the evaluation, Keepit was evaluated among two other competitors. 
+Matthias Gut, Head of Digital Innovation & Smart Enterprise, was pleased to 
+see that Keepit was able to back up and recover a large 1GB+ Lotus Notes 
+database. These extreme cases were the types of coverage that Matthias was 
+looking for.  
+LAPP’s engineers also tested the utilization of Keepit’s network bandwidth 
+during working (daytime) hours to be sure that it wouldn’t affect any operational 
+tasks during daily business operations.  
+Finally, Keepit was evaluated for its level of support and technical acumen – 
+to make sure that Matthias and his team felt safe and could rely on Keepit in 
+potentially challenging situations. 
+After this in-depth analysis, the evaluation showed that Keepit could deliver. 
+Overall, LAPP evaluated that Keepit could provide an operationally smooth 
+integration into their ecosystem.
+
+About LAPP:  Headquartered in Stuttgart, Germany, LAPP is a leading 
+supplier of integrated solutions and branded products in the field of cable 
+and connection technology. The company’s portfolio includes standard 
+and highly flexible cables, industrial connectors and screw technology, 
+customised system solutions, automation technology and robotics 
+solutions for the intelligent factory of the future, as well as technical 
+accessories. LAPP’s core market is in the industrial machinery and plant 
+engineering sector. Other key markets are in the food industry, logistics, as 
+well as the energy and the mobility sector.  
+The company was founded in 1959 and is still fully owned by the founding 
+family to this day. In the 2021/22 financial year, it generated a consolidated 
+turnover of EUR 1,864 million. LAPP (including its non-consolidated 
+companies) currently employs approximately 5,055 people across the 
+world, produces at 19 international sites and has over 41 sales companies. 
+LAPP also cooperates with around 100 international offices. 
+ 
+You can find more information on this topic here
+About Syngain GmbH: Syngain is an exclusive partner for the digital 
+transformation for top medium-sized companies offering quality 
+consultancy through a handpicked network. More than 160 executive 
+partners and 60+ software developers in the Syngain’s network offer 
+a wide range of support for management in the strategic planning and 
+implementation of digitization projects.
+—Keepit was ultimately recommended by 
+our engineers after a thorough evaluation. I 
+wanted to have the recommendation from 
+my engineers as they’re the ones working 
+with it every day.
+Matthias Gut
+Head of Digital Innovation & Smart Enterprise at LAPP
+Customer Story: LAPP

@@ -1,0 +1,36 @@
+Source URL: https://www.keepit.com/help/pmc/managing-accounts-as-a-reseller/
+Content type: Web page
+Last modified: 2026-04-29T10:21:02+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Managing accounts as a reseller
+A Reseller account can create and manage Customer accounts. The accounts can be created either from scratch or from registered deals.
+Create new customer account
+1. Open the Accounts page.
+2. To the right of the Accounts list, click +.
+3. Select how to create a new customer account.
+Note: If you select to create an account using a registered customer, many of the steps will be prepopulated with the appropriate data as per the contract. Fill in the addition information.
+4. Select a product.
+5. Select a service period and a service start date.
+6. Enter account details.
+7. Enter the account and contact details, then click Next.
+8. Enter a username and email for the primary user, then click Next.
+This user will be assigned the Master Admin role, granting full access to the Keepit platform. 
+9. Review the details and click Create.
+Edit an account
+1. Open the Accounts page.
+2. Point to the account and select ••• > Edit.
+3. Edit the account information and click Update.
+Delete an account
+1. Open the Accounts page.
+2. Point to the account and select ••• > Edit.
+3. Open the Account settings tab.
+4. Click Cancel service.
+5. Click Yes, cancel to schedule account deletion.
+Revive an account
+1. Open the Accounts page.
+2. Click on the disabled account.
+3. Click Revive account.
+4. Select Confirm to revive the account.

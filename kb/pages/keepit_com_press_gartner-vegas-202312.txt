@@ -1,0 +1,37 @@
+Source URL: https://www.keepit.com/press/gartner-vegas-202312/
+Content type: Web page
+Last modified: 2025-08-20T00:05:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit and Baptist Health to speak on SaaS data protection, cyber resilience and compliance
+Leading SaaS data protection provider delivers insights on real-world SaaS migration and backup and recovery as the last line of defense.
+COPENHAGEN, DENMARK, Nov. 16, 2023 – Keepit, the market leader in SaaS data protection and management, is set to make waves at the Gartner Infrastructure, Operations & Cloud Strategies Conference (IOCS) from December 5 to 7, 2023. With a dedicated booth and two thought-provoking speaking sessions, Keepit reinforces its commitment to shaping discussions around next-level data protection strategies, compliance and artificial intelligence.
+Put customers first and stay compliant
+With innovation, digital transformation, and SaaS adoption forever accelerating, many companies face significant challenges— and among the more daunting is meeting constantly changing compliance and privacy regulations.
+This is the backdrop for the session titled “How Baptist Health adopted a comprehensive SaaS data protection strategy,” led by Ryan Hooley, Senior Director of Enterprise Architecture at Baptist Health, and Niels Van Ingen, Chief Customer Officer at Keepit.
+The discussion covers the challenges customers go through when modernizing their digital approach. It focuses on SaaS migration, DevOps practices, achieving cyber resilience and getting ahead of compliance matters.
+This session is anchored around healthcare but applies to many verticals: The audience will get insights into a real-world customer journey, hear examples of how compliance affects backup and recovery requirements, what data security and sovereignty issues must be addressed, and what current best practices for complete data protection really look like, to become cyber resilient.
+Cyber resilience, SaaS data and control planes, AI, and ML
+Niels Van Ingen also teams up with Jakob Østergaard, Chief Technology Officer of Keepit, to drive a session exploring what to act on to achieve robust SaaS cyber resilience in an insecure world.
+Many organizations have significant blind spots in this area, yet through digital transformation, the business depends on the many applications and associated data to be resilient.
+Titled "Supercharge Your SaaS cyber resilience in an AI-driven world," this discussion focuses on:
+- The data protection fundamentals to consider in your cloud journey
+- The “what, why, and how” of protecting the various SaaS data and control planes — such as EntraID
+- Utilizing AI/ML to continuously secure your business at a sustainable cost.
+“True data backup and recovery are the last lines of defense in safeguarding data, ensuring resilience against cyber threats and unforeseen incidents. While organizations are realizing the criticality of data protection, it can seem a daunting task to pick the technology best suited to deliver to their specific requirements. Keepit’s sessions at Gartner IOCS address the real-world challenges organizations face,” explains Jakob Østergaard.
+Gartner IOCS attendees can connect with Keepit’s experts at booth 245, featuring hands-on demonstrations of cutting-edge solutions and engage in conversations with the team about the future of data protection, compliance, and how to cut costs on your cloud journey.
+The Keepit team will also be sharing the latest insights on how to mitigate the impact of ransomware attacks by ensuring fast and complete recovery for enterprises. Research shows that a strong backup and recovery strategy can mean the difference between organizations being able to ignore extortionists and having to succumb to paying ransom again and again.
+WHAT: Solution Provider Session, “Keepit - How Baptist Health adopted a comprehensive SaaS Data protection strategy.”
+WHO: Niels Van Ingen, Keepit Chief Customer Officer, and Ryan Hooley, Senior Director of Enterprise Architecture at Baptist Health
+WHERE: Venetian Ballroom 1
+WHEN: Wednesday, Dec 6, 11:15 a.m.
+WHAT: Theater Session, "Keepit - Supercharge your cyber resilience in an AI-driven world.”
+WHO: Jakob Østergaard, Keepit Chief Technology Officer, and Niels Van Ingen, Keepit Chief Customer Officer.
+WHERE: Theater 3
+WHEN: Tuesday, Dec 5, 4:45 p.m.
+To arrange a product demonstration or meeting with a member of the Keepit team at the conference, stop by booth #245.
+About Keepit
+Keepit provides next-level SaaS data protection for companies with data stored in the cloud. Keepit is the world’s only vendor-neutral and independent cloud dedicated to SaaS data protection based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Azure AD, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

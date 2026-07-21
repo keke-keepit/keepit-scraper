@@ -1,0 +1,43 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/import-microsoft-365-data/
+Content type: Web page
+Last modified: 2026-07-07T13:08:04+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Import Microsoft 365 data
+Import is a function that restores account-related data and is available only for Exchange and OneDrive data. Users cannot import individual files or folders. They can only import all data or selected data types across chosen accounts.
+An import can restore data from an older snapshot back to the same account, or it can restore data from one user account to another. The target users can be on the same Microsoft 365 connector as the source users or on a different connector.
+Import differs from restore in that no data is deleted from Microsoft 365 if items are missing from the snapshot but are still present in Microsoft 365.
+Please note that the option to import to a new folder is not available for connectors created after the 10.11 release (September 2025).
+Import Exchange Data
+1. Find the connector you want to import data to and open the import wizard by selecting the Restore icon.
+2. Select Import, select the connector from which you want to import data, and then click Next.
+3. Select a snapshot and then click Next.
+If you want to import items that have been deleted from your tenant, make sure to restore a snapshot from a time before these items were deleted.
+4. Select Exchange and then click Next.
+5. Select what Exchange data types you want to import and then close the data types section by selecting the down arrow.
+6. From the list of users on the left side, find the user you want to import data to. To the right of that user, select from the drop-down list the user you want to import data from. Repeat for all users you want to import data to and click Next.
+7. Select how to import your data.
+- If you select To new folder, then select Next.
+ Note: This is available only for Mail, Calendar, and In-Place Archive. Keepit will create a new folder where all the data will be restored to.
+- If you select In-place, select how to handle duplicate items, and then select Next.
+ Skip duplicate items:
+ If you are importing from one user to the same user, modified items (same item but with different timestamps) will be skipped.
+ If you are importing from a different user, modified items (same item but with different timestamps) will be added to Exchange.
+ Rename duplicate items:
+ Modified items (same item but with different timestamps) will be added to Exchange.
+8. Review the summary and click Import.
+Note: Items present in the user account but not in the snapshot you are importing from will not be deleted.
+Import OneDrive Data
+1. Find the connector you want to import data to and open the import wizard by selecting the Restore icon.
+2. Select Import, select the connector from which you want to import data, and then click Next.
+3. Select a snapshot and then click Next.
+If you want to import items that have been deleted from your tenant, make sure to restore a snapshot from a time before these items were deleted.
+4. Select OneDrive and then click Next.
+5. From the list of users on the left, find the user you want to import data to. To the right of that user, select from the drop-down list the user you want to import data from. Repeat for all users you want to import data to and select Next.
+6. Select how to import your data:
+- If you select To new folder, then select Next.
+- If you select In-place, select how to handle duplicate items, and then select Next.Skip duplicate items: Modified items (same item but with different timestamps) will be skipped.Rename duplicate items: Modified items (same item but with different timestamps) will be added and renamed. The suffix "(1)" will be added to the filename.Overwrite existing items: Modified items (same item but with different timestamps) will overwrite the items in OneDrive.
+7. Review the summary and then select Import.
+Note: Items present in the user account but not in the snapshot you are importing from will not be deleted.

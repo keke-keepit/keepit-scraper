@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/press/tim-ag/
+Content type: Web page
+Last modified: 2025-12-15T11:12:29+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit and TIM AG enters distribution partnership for the DACH regionÂ
+Copenhagen, Denmark, December 1, 2025 — European cloud data protection specialist Keepit is expanding its sales network in the DACH region and has gained TIM AG, one of the leading value-added distributors, as a new channel partner. Through this collaboration, system integrators and IT service providers in Germany, Austria, and Switzerland gain access to Keepit’s fully SaaS-based backup and recovery platform, purpose-built to protect business-critical cloud data.
+Partnership for a growing SaaS backup market segment
+With this cooperation, TIM is responding to increasing demand in the channel for reliable and independent SaaS data protection solutions. Keepit offers a fully cloud-based, easily scalable, and GDPR-compliant platform that backs up data from 14 SaaS applications including Microsoft 365, Microsoft Entra ID , Google Workspace, Okta and Salesforce.“Keepit ideally complements our portfolio as a European specialist in SaaS data protection,” says Jörg Eilenstein, COO of TIM AG. “This enables our partners to offer their customers a powerful solution that reliably protects cloud data and meets the highest standards for security and compliance.”
+Keepit also views the collaboration as a strategic reinforcement of its channel presence: 
+“With TIM, we gain an experienced value-added distributor that is extremely well connected in the channel and has deep expertise in cloud and data security solutions,” explains Michael Heuer, Area VP Central Europe / DACH. “Together, we aim to help partners unlock the potential of SaaS data protection as a forward-looking business opportunity.” 
+Jan Ursi, Keepit’s Global VP of Channels, adds: “I am very pleased to once again work with the team at TIM AG to bring SaaS data protection innovation to the DACH region. The expertise and relationships that TIM AG brings to Keepit’s business—in areas such as data protection, security, and business continuity—will help meet the growing demand for digital sovereignty and specialized SaaS data protection within a rapidly expanding partner ecosystem.”
+Comprehensive support for partners
+TIM supports system integrators throughout the entire business cycle—from market analysis and technical and sales enablement programs to project development and implementation. This includes workshops, certification preparation, and technical on-the-job training.
+“We want to help our partners position SaaS data protection as a strategic topic for their customers—with a focus on data sovereignty, business continuity, and compliance,” adds Rocco Frömberg, Director Vendor Development and Operations, TIM AG.
+Keepit – Europe’s independent SaaS backup specialist
+Keepit is the only European provider exclusively focused on backing up SaaS data. Unlike hybrid or multi-cloud-based solutions, Keepit operates entirely on its own independent cloud infrastructure, with company-owned data centers in Germany and Switzerland—without global hyperscalers, without subprocessors, and on its own hardware and “immutable” tech stack.
+This ensures full data sovereignty, transparency, and control—an essential advantage for organizations that value European data protection standards and independence from US-based providers.
+Strategic outlook
+The goal of the partnership is to build a strong SaaS partner network in the DACH region over the next 12 to 24 months and, together with system integrators, further develop the cloud data protection market.
+“Together with TIM AG, we want to help partners offer their customers future-proof data protection strategies for modern SaaS environments,” emphasizes Michael Heuer, Area VP Central Europe / DACH. “Because those who rely on business-critical data in the cloud must also protect it securely there—simply, scalably, and independently.”
+About TIM AG
+TIM AG is one of the leading value-added distributors for data centre and security technologies. Founded in 1985, TIM supports system houses as a channel development partner with cross-vendor services for generating new projects, training and further education, sales and marketing – simply and efficiently. TIM also advises partners on the development of new markets and technologies, the solid establishment of strategic alliances and the sustainable expansion of business. The company – headquartered in Wiesbaden – has been growing continuously in the D-A-CH region for years. www.tim-vad.com
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over 20,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

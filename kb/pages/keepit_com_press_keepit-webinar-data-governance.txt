@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/press/keepit-webinar-data-governance/
+Content type: Web page
+Last modified: 2025-02-17T11:35:45+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit webinar series: An intelligent approach to cyber resilience through data governance strategies
+Webinar to offer practical approaches to optimize data management, communicate strategies to leadership, and enhance organizational resilience
+COPENHAGEN, DENMARK, February 14, 2025 – Keepit, a global provider of a comprehensive cloud backup and recovery platform, today announced that it will be hosting a webinar titled, “Data Governance meets Recovery: An Intelligent Approach to Resilience”, on Thursday, February 20, 2025.
+Keepit’s Kim Larsen, Chief Information Security Officer (CISO) will be joined by Ulf Feger, CISO Advisory Services, vCISO, and NIS2 Directive Senior Lead Implementer, a cybersecurity leader with extensive global experience across IT and OT security. In the session, they will cover governance strategies, aligning disaster recovery strategies with executive priorities, and integrating artificial intelligence (AI) into recovery plans.
+“Business leaders today must manage rapid data growth while countering sophisticated cyberthreats, making effective data governance crucial for a robust business continuity strategy,” said Larsen. “This informative and practical webinar will help audiences understand how robust data governance, extending beyond the CISO's office, underpins a resilient disaster recovery strategy.”
+Key takeaways from the webinar will include:
+â Effective data governance models and approachesâ¯
+â Disaster recovery planning considering the impact of AIâ¯
+â Techniques for data prioritization and classificationâ¯
+â Structuring recovery plans and conducting incident investigation.
+WHAT: Webinar: Data Governance meets Recovery: An Intelligent Approach to Resilience
+WHEN: Thursday, February 20, 2025 at 10:00 a.m. EST/4 p.m. CET
+WHO: Kim Larsen, CISO, Keepit
+Ulf Feger, CISO Advisory Services, vCISO, and NIS2 Directive Senior Lead Implementer
+REGISTRATION: Sign up here
+Participants that cannot attend live will receive a recording of the webinar. And all registrants will receive exclusive access to the latest report from Kim Larsen: “Intelligent data governance
+Why taking control of your data is key for operational continuity and innovation.”
+About Keepit:
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 15,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on LinkedIn.

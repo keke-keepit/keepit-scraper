@@ -1,0 +1,32 @@
+Source URL: https://www.keepit.com/blog/what-is-true-backup/
+Content type: Web page
+Last modified: 2025-08-20T00:34:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The Importance of Separate Backup Infrastructure
+Many companies assume that if they pay for a backup security infrastructure, their business-critical data will be stored and secured on a separate cloud – but this is often not the case.
+Instead, most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several different risks.
+In their Cloud Computing study published in 2020, Foundry reported the top challenges associated with public clouds to be:
+- Lack of cloud security skills or expertise (30%)
+- Compliance and governance (30%)
+- Security challenge and data privacy issues (38%)
+- Controlling cloud costs (40%)
+By choosing to store your backup data in the public cloud, all of your data (including your only backup copy) is being managed under the same administrative infrastructure. And this is still the case if you choose a different data center for your backup that is separate from your primary data.
+The solution: A "true backup" cloud independent of the public cloud
+We believe that offering “true backup” means we can guarantee that your company’s backup data is not stored in the same logical infrastructure as your primary data – regardless of the SaaS application or workload needing protection.
+With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
+Keepit is the only dedicated SaaS data protection cloud to date – running on autonomous regional data centers, operating on separate hardware, and managed by trusted employees independent of any public cloud.
+5 benefits of building and owning a vendor-independent backup cloud
+Having a dedicated private cloud is a fundamental requirement for any legitimate backup solution. Choosing Keepit as your reliable, vendor-neutral backup solution compared to other third-party providers comes with considerable benefits for customers:
+- Pandemic-proof: When the COVID-19 virus spread worldwide, the leading public cloud vendors could not handle customer workloads and pushed customers offline. Meanwhile, Keepit’s dedicated private cloud service continued business as usual.
+- Accessible 24/7: With a dedicated backup cloud, you never lose access to your company’s information or worry about duplication or compressed data.
+- Speedy: With Keepit, the licensing model is uncomplicated, allowing you to get up and running in no time. There are no API transaction fees, network fees, or storage consumption fees. Our intuitive and easy-to-use search tools make sure you can locate, preview, and restore data in seconds.
+- Cost effective: The higher degree of control Keepit has over the supply chain means considerable cost-saving benefits and easily scalable options. As a Keepit customer, you don’t need to worry about storage consumption fees or hidden costs. Storage is included, and you can expect predictable and straightforward pricing.
+- Constantly evolving: Unlike other third-party security and backup providers, we retain the freedom to innovate and develop our cloud storage technology behind the scenes—something that would not be possible if we were using a public cloud.
+The final word: Keep your digital eggs in separate baskets
+In the realm of backup, “divide” and “separate” are positive terms, and adhering to the 3-2-1 principle is the most effective way to safeguard your data by having it stored separately from your day-to-day operations.
+The 3-2-1 principle of backup mandates that you must have one copy of your data off site. In the days of tape backup, where fire and theft were the only credible threats to your backup data, the off-site copy effectively ensured that your backup data would survive any calamity that could befall your primary data and your primary site.
+In the cloud age, however, backups have become much more complicated: geographic dispersal is insufficient to ensure your data is secure, and hidden risks are introduced by relying on clouds that may be taken offline to protect the providers’ primary business interests.
+You can read more about that in our Security Guide: Raising the Bar for Data Protection in the Cloud Era.

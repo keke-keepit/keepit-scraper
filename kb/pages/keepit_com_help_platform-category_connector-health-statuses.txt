@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/help/platform-category/connector-health-statuses/
+Content type: Web page
+Last modified: 2026-06-18T10:38:39+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Connector health statuses
+Connector health statuses
+The health of your connector is visible in the Keepit application. Any time the status changes you will receive an email as well as a notification in the application.
+The three different statuses your connector can have are:
+- Healthy
+ Healthy connectors have a green status icon.
+ A healthy connector means that backups are running regularly.
+- Unhealthy
+ Unhealthy connectors have a yellow status icon.
+ An unhealthy connector means something may go wrong and you need to look into it.
+- Critical
+ Critical connectors have a red status icon and the entire connector will be highlighted in red.
+ A critical connector means that something is wrong and that the backup cannot run properly.
+Reasons health status can change
+Authentication no longer valid
+The most common reason for the status of a connector to change is because of an invalid authentication. This causes Keepit to lose connection with your SaaS app and as a result Keepit is unable to perform a backup. In this case, the status will change to critical and you will be prompted to reauthenticate your connector. Simply click this message and you will be taken to your SaaS application where you can sign back in.
+Keepit unable to create a snapshot
+The status of a connector can change if Keepit cannot create a snapshot over a period of time:
+- If there are no successful or active backups within the last 24 hours, the status will change to unhealthy.
+- If there are no successful or active backups within the last 48 hours, the status will change to critical.
+Note: You can also hover over the connector to see a tooltip which displays how many days have passed since the last successful snapshot.
+The reason for this can be from the side of Keepit, for example, if there was scheduled maintenance work which delayed the start of a new backup. Or it can be due to a misconfiguration or error of some kind.

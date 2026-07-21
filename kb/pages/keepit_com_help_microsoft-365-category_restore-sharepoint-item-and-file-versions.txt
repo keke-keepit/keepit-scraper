@@ -1,0 +1,40 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/restore-sharepoint-item-and-file-versions/
+Content type: Web page
+Last modified: 2026-06-30T01:38:38+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore SharePoint item and file versions
+Keepit supports the backup and restore of versions of SharePoint items in a list and files in a library.
+By default, we will not back up any versions
+In the advanced settings of your backup configuration, you can enable the backup of versions, by selecting to back up the most recent 10, most recent 100, or all versions.
+Please keep in mind that backing up versions may result in slower backup performance.
+Backed-up versions can be previewed in the Versions Viewer Previewer in the Versions history tab. 
+How versions can be restored
+You can recover your items and files in the following ways:
+- By restoring all versions
+- By restoring only the most recent version
+- By restoring a specific previous version
+ 
+All restore options offer the choice to either restore all backed-up versions or just the most recent version.
+For restoring a specific previous version, use the Versions Viewer Previewer.
+Restore SharePoint versions with the Versions Viewer Previewer
+Restore a previous version of a file
+1. Point to the file and select ••• > Versions.
+2. Go to the Version history tab to find and preview older versions of the file.
+3. Select the version you want to restore and click the restore icon.
+4. Click Yes to restore.
+Restore SharePoint versions with the Item restore
+Restore SharePoint items or files
+Restoring SharePoint items and files restores them in place.
+1. Point to the item or file and select ••• > Restore.
+2. Select what to restore:
+- Restore most recent file version: For each item, only the most recent file version will be restored.
+- Restore all file versions: All existing versions will be overwritten.
+3. Review the summary and click Restore.
+Restore SharePoint versions with the Item restore
+Restore SharePoint items or files
+Restoring SharePoint items and files restores them in place.
+- Restore most recent file version: For each item, only the most recent file version will be restored.
+- Restore all file versions: All existing versions will be overwritten.

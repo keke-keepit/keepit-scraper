@@ -1,0 +1,16 @@
+Source URL: https://www.keepit.com/blog/will-the-recycle-bin-protect-my-azure-ad-data/
+Content type: Web page
+Last modified: 2025-08-20T00:50:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Will the recycle bin protect my Entra ID (Azure AD) data?
+VideoAug. 17, 2023By Paul Robichaux
+Can my Azure AD data be safeguarded by the recycle bin?
+The answer is a resounding no. This is primarily due to two key reasons:
+- Not all objects within Azure AD are covered by a recycle bin. This limitation extends to crucial components such as Conditional Access and Intune policies.
+- Even in cases where a recycle bin is available, it's important to note that the retention periods and expiration dates for recoverable items differ significantly. Some are retained for as short as 14 days, while others are preserved for up to 2 months. Eventually, there comes a point where retrieval becomes impossible.
+Paul Robichaux, a Microsoft MVP and Senior Director of Product at Keepit, stresses the inadequacy of relying on the recycle bin as a comprehensive strategy.
+The Solution? Opt for Keepit's Backup and Recovery for Azure AD, providing unlimited and indefinite storage for your crucial data.
+For further information on Keepit's backup and recovery for Entra ID (Azure AD), visit our service page.

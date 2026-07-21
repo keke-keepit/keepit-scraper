@@ -1,0 +1,76 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-National-Gallery-customer-case-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+Customer case
+The National Gallery 
+chooses Keepit after a 
+diligent tender process
+
+UK Data Centers: the difference 
+As a publicly owned museum and governmental 
+organization, The National Gallery needs to 
+remain compliant when it comes to M365 data. 
+With Keepit, The National Gallery can store all 
+M365 data within the UK at two separate data 
+centers.
+Investing in cloud backup made simple 
+Protecting your valuable data shouldn´t be an 
+afterthought, but nor should it break the bank. 
+Keepit offers class-leading performance at 
+flexible price points. For James Mitchell and his 
+team, Keepit’s ease-of-use, the quick initial 
+setup, and the competitive price proved a winning 
+combination.
+Customer case:
+The National Gallery
+The National Gallery in London is one of the biggest art museums in the world with millions of 
+yearly visitors. With the IT team reliant on Microsoft 365, a decision was made to implement a 
+cloud-based backup system. After running a diligent tender process, The National Gallery chose 
+Keepit to protect its M365 data. 
+“During our tender process, it was evident that 
+Keepit offered the best price point and simplest 
+solution – accessing your backup is fast and 
+easy, just the way it should be.”
+-  James Mitchell 
+Infrastructure Manager 
+The National Gallery 
+“We didn’t want to invest time, money, 
+and effort into an on-premise solution. 
+As Microsoft 365 runs in the cloud, we 
+opted for a cloud-based data protection 
+provider.”
+-  James Mitchell 
+Infrastructure Manager 
+The National Gallery
+
+Reliable support that exceeds expectations 
+Mr. Mitchell was also impressed by the knowledge 
+of Keepit’s staff as well as the dedication of the 
+team to go above and beyond the call of duty. 
+About The National Gallery
+The National Gallery is one of the most visited art 
+museums in the world. It houses the UK’s national 
+collection of paintings from the 13th to the 19th 
+centuries. It is open 361 days a year and entrance is 
+free of charge. The Gallery’s aim is to enable access to 
+its collection for the education and enjoyment of the 
+widest possible public – now and in the future.
+Customer case:
+The National Gallery
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on LinkedIn.
+Your data. Here today. Here tomorrow.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+“As a Keepit customer, I got an in-depth 
+presentation of the inner workings of the 
+solution courtesy of the CTO – something 
+I highly value as an IT professional.”
+-  James Mitchell 
+Infrastructure Manager 
+The National Gallery

@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/press/trustradius-toprated-2025/
+Content type: Web page
+Last modified: 2025-08-20T02:48:40+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit continues momentum with 2025 TrustRadius Top Rated Award
+Keepit has been recognized as a leader among SaaS Backup, Data Loss Prevention, Disaster Recovery, and Enterprise Backup categories.
+Copenhagen, Denmark – June 10, 2025 – Keepit, a global leader in SaaS data backup and recovery, today announced that it has been recognized as TrustRadius Top Rated in four categories: SaaS Backup, Data Loss Prevention, Disaster Recovery, and Enterprise Backup. This recognition comes directly from customers, underscoring Keepit’s commitment to providing an intelligent and secure backup and recovery platform.
+"Earning a Top Rated award on TrustRadius is a reflection of how well a product is meeting the needs of its customers," says Allyson Havener, CMO, TrustRadius. "Keepit’s recognition is based entirely on customer feedback—real users who value the platform’s reliability, performance, and support."
+Since 2016, the TrustRadius Top Rated Awards have become the B2B’s industry standard for unbiased recognition of excellent technology products. Based entirely on customer feedback, they have never been influenced by analyst opinion or status as a TrustRadius customer. Here is a detailed criteria breakdown of the methodology and scoring that TrustRadius uses to determine Top Rated winners.
+Keepit provides independent backup to over 18,000 customers worldwide
+Keepit backup and recovery solutions are currently available for eight workloads, such as Microsoft 365, Microsoft Entra ID, Google Workspace and Salesforce. The company will expand its offering in 2025 to include applications such as Jira, Bamboo, Okta and Confluence.
+Keepit’s unique, intelligent, and cloud-native platform enables customers to safely secure their SaaS applications, ensuring full control of data regardless of unforeseen events such as outages, malicious attacks, or human error.
+“SaaS backup has become an increasingly crucial part of risk management and business continuity planning. We are thrilled that our customers rely on Keepit to safeguard critical data and value their continued feedback and support. Accolades such as the Top Rated Award mean a lot to us as a company and further validate that our solutions meet our customers' needs,” says Michele Hayes, CMO at Keepit.
+Hear from verified users on how much they value Keepit: Keepit reviews on Trustradius.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over 18,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit https://www.keepit.com or follow Keepit on LinkedIn.
+About TrustRadius:
+TrustRadius is a buyer intelligence platform for business technology. We enable buyers to make confident decisions, through comprehensive product information, in-depth customer insights, and peer conversations. We help technology brands capture and activate the authentic voice of customers to improve their products, build confidence with prospects, and engage in-market buyers to improve ROI. Founded by successful entrepreneurs and headquartered in the technology hub of Austin, Texas, TrustRadius is backed by Mayfield Fund, LiveOak Venture Partners, and Next Coast Ventures.

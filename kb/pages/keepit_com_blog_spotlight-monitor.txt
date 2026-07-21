@@ -1,0 +1,45 @@
+Source URL: https://www.keepit.com/blog/spotlight-monitor/
+Content type: Web page
+Last modified: 2025-08-20T00:41:09+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Monitoring functionality for data management and insights
+Why you need data monitoring for cyber resilience
+Knowing what’s happening with your backup data at all times is a vital piece of the data protection puzzle, because if you can’t see changes to your data, you’re at risk.
+Understanding the ever-shifting landscape of cyberthreats, navigating increasing regulatory demands, and managing complex IT environments are the daily challenges faced by IT managers, CIOs, and CISOs. Having continuous visibility into your backup data is not just an advantage: it's a necessity. Which is why, according to a recent Enterprise Strategy Group (ESG) report, 77% of organizations rely on backup scanning.
+Staying ahead requires more than just periodic check-ins. Our monitoring dashboard isn't just a tool; it's a vital part of your frontline defense in an era where malicious activities are ever evolving.
+Continuous data monitoring serves as a proactive measure that ensures your business is not only compliant with increasing regulatory requirements, but also resilient in the face of complex IT environments where security blind spots may lurk. Beyond external threats, it's about mitigating insider risks and acknowledging that malicious deletions don't only occur from the outside.
+Visible data makes a business resilient, and this is exactly why Keepit has security and data insights functionality built into our data protection platform. Our monitoring dashboard makes it simple and fast for you to boost your cyber resilience posture, because visible data makes a business resilient.
+With Keepit's monitoring dashboard, you gain the ability to have full visibility into what’s happening with your data environments, so you’re always informed and in control. This way, you can avoid unpleasant surprises and prevent data loss.
+Let’s take a look into the Keepit monitoring dashboard.
+Product overview
+SaaS data protection is a key concern for most businesses because staying compliant and operational means being resilient in the face of data loss. Insights into the health of your data are key for cyber readiness.
+The Keepit platform monitoring dashboard gives you powerful insights with total simplicity. From the monitoring dashboard, you can:
+- Spot trends and patterns
+- Track changes over time
+- Identify outliers and abnormal changes in data growth before they affect your business operations
+- Remain data resilient no matter what
+To “just” back up data isn’t enough in a security ecosystem. You need your data protection vendor to have the ability to assist in the detection of and recovery from data loss events, such as ransomware.
+Let’s look into the key features of our monitoring dashboard.
+Features and benefits
+With the Keepit monitoring dashboard, you get one view into multiple workloads. Get an overview of snapshot growth and changes between snapshots, such as files added, files removed (deleted), files modified, and more — in an instant via one dashboard.
+Let’s highlight three key benefits
+1. One platform, multi-workload awareness:
+With the Keepit platform, you get the convenience and power of one dashboard reporting on numerous applications and workloads. This means you’ll quickly get accurate insights into your entire dataset in one view, rather than having to monitor multiple monitors. One look and you get an up-to-date view of all your business-critical SaaS data.
+- Use case: You’re a large enterprise leveraging many SaaS applications for increased productivity. With this increase also comes increased complexity. Consulting multiple monitors within these many workloads and applications is daunting, impractical, and time consuming. With the Keepit platform, you get one monitor across multiple workloads, such as Microsoft 365, Entra ID (formerly Azure AD), Salesforce, and Google.
+2. Incremental forever approach:
+We create snapshots from day 0, and we look for changes in data multiple times each day with our unique identifier architecture (hash-based Merkle Tree). This large history of snapshots provides a rich opportunity to analyze and monitor the data changes between snapshots. We will be applying this approach to identify changes in any single file or document in our upcoming model for anomaly detection.
+- Use case for anomaly detection (coming soon): Let’s say that you have a file — perhaps an important budget spreadsheet — that was never modified since it was created two years ago, but now it's suddenly changed. When something unusual like this happens, you’ll have full visibility into that change via our monitoring dashboard.
+3. Simplicity and easy-to-use platform:
+Simplify the complexity of data protection monitoring with a centralized logging tool. Our monitoring dashboard creates a holistic view of cloud data usage and change/threat detection, which means enterprises, both big and small, can get their data where and when they need it.
+- Use case: Your IT team is tasked with the challenge of navigating through multiple interfaces, monitoring various workloads, and ensuring the security of critical data spread across platforms. Your IT staff spends valuable time toggling between monitors trying to identify changes and address potential security blind spots. This not only consumes time but also increases the likelihood of oversight, leaving your organization vulnerable to evolving cyber threats. 
+ 
+ With the Keepit dashboard, your IT team gains a significant efficiency boost from the simplicity of the solution. They can quickly spot trends, track changes, and identify changes across multiple workloads. This efficiency not only streamlines day-to-day operations, but also enhances productivity.
+Availability
+The monitoring dashboard is a dedicated tab within the Keepit solution as a key part of our effortless, secure, and reliable data protection platform. So, you don’t need to do anything extra to start benefiting from our next level data protection — it’s all included.
+Conclusion
+In the world of data protection, visibility into your data is non-negotiable. Keepit's monitoring dashboard provides a convenient, no-nonsense solution for IT managers, CIOs, and CISOs who understand the value of keeping a close eye on their data — all of their SaaS data across multiple workloads — in one simple dashboard.
+Gain a sense of control and confidence in an era where the fear of ransomware looms large by knowing that every change in your data is under vigilant observation. It's the peace of mind that comes from being proactive rather than reactive. Confidence in data protection transforms into confidence in decision making, strategic planning, and ultimately, the company's resilience in the face of cyber threats.
+Interested in learning more? Visit our use cases page, or if you’re ready to take the next step, book a demo to explore the functionalities and experience the impact Keepit can have on your data security. Be sure to stay tuned to learn about our upcoming data model for anomaly detection.

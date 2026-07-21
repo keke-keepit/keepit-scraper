@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/press/keepit-partner-network-launch/
+Content type: Web page
+Last modified: 2025-08-14T23:54:29+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit unveils the Keepit Partner Network, evolving to a âpartner onlyâ strategy
+Successful scaling results in additional funding to fuel further expansion and development
+COPENHAGEN, DENMARK, Jan. 16, 2024 – Keepit, a global leader in cloud backup and recovery solutions, proudly announces the launch of the Keepit Partner Network, reinforcing its commitment to a "partner first" approach and evolving it into “partner only”. This strategic move is a testament to Keepit's successful growth trajectory, reflecting its stability, and dedication to empowering partners for unparalleled success.
+A testament to success and growth
+Keepit's journey is marked by triumphs, and the launch of the Keepit Partner Network underscores its commitment to growth and stability. Bolstered by $40 million worth of new funding, a recently opened London office, and strategic hires across existing markets, Keepit is poised for continued success in the dynamic landscape of data protection.
+"The launch of the Keepit Partner Network is a pivotal moment for us. It not only mirrors our commitment to growth but underlines our new “partner only” strategy. Our recent achievements, including new funding and expanded offices, set the stage for a thriving partnership ecosystem," states Craig Bumpus, Chief Revenue Officer at Keepit.
+Keepit Partner Network already a Canalys Quadrant Scaler:
+Named as a “scaler” by Canalys , Keepit's Partner Program has rapidly ascended in the Canalys Managed Backup and Disaster Recovery Matrix 2023. This recognition highlights the program's swift growth and outstanding performance, positioning it as a strategic ally in the crucial realm of data protection during a time where data security is paramount.
+Attractive margins and dedicated support
+Tailored for resellers, Managed Service Providers (MSPs), and Distributors, the Keepit Partner Network elevates partner engagement. Partners are classified into "registered," "select," and "elite" categories based on their value to Keepit and how invested they are in growing their business with Keepit and in strengthening their technical understanding of Keepit’s products, ensuring tailored support for diverse needs. The program offers a user-friendly product that is not only easy to sell but also easy to manage.
+Partners enjoy attractive margins, dedicated sales and marketing support, and collaboration with dedicated regional partner managers who are focused on partner success. Both online and in-person technical training is available to equip partners with the knowledge needed to navigate the competitive landscape effectively.
+The ethos of being "partner only" is woven into the fabric of the Keepit Partner Network. Partners participate in summits, connecting directly with the Keepit team and C-level executives, fostering a sense of community and shared success. Keepit actively funnels leads to its partners, demonstrating a commitment to mutual growth.
+Giving customers the last line of cyber defense
+Partners incorporating Keepit's best-in-class cloud backup and recovery solution into their portfolio gain significant advantages. In an era of escalating cyber threats, Keepit ensures partners empower their clients to maintain control over critical information, serving as the last line of defense against potential data loss: With Keepit’s award-winning SaaS data protection solution for Entra ID (formerly Azure AD), and with backup and recovery for an unrivaled number of key Microsoft SaaS applications, Keepit is the go-to vendor for cloud backup for organizations and partners can reassure customers that access to Microsoft environments is always available
+Keepit Backup and Recovery for Entra ID (formerly Azure AD) has won several awards in recent months, including: "Risk management solution provider of the year" from 2023 CyberSecurity Breakthrough Awards; "2023 Product of the Year" from Redmond Magazine; and the “Data Loss Prevention” and “Disaster Recovery/Business Continuity” categories from Security Today’s CyberSecured Awards.
+The Keepit Partner Network is now live in North America and EMEA.
+To become a Keepit partner, reach out to the partner team at partner@keepit.com. Or go to keepit.com/partners/
+About Keepit
+Keepit provides next-level SaaS data protection for companies with data stored in the cloud. Keepit is the world’s only vendor-neutral and independent cloud dedicated to SaaS data protection based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Azure AD, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

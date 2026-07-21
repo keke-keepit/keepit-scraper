@@ -1,0 +1,3377 @@
+KEEPIT KNOWLEDGE BASE — COMPANY
+Generated: 2026-07-21
+Pages: 68
+============================================================
+
+Source URL: https://www.keepit.com/
+Content type: Web page
+Last modified: 2026-07-14T23:56:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+While you may think your SaaS provider offers backup and recovery, that's actually your responsibility.
+Manage resilience and retain control when faced with emerging technologies and the rise of artificial intelligence (AI). Future-proof your data protection and ensure compliance with Keepit’s independent cloud.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/about-keepit/
+Content type: Web page
+Last modified: 2025-02-23T21:46:45+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+We secure your data from your most relied-upon SaaS apps like Microsoft 365 and Entra ID (formerly Azure AD). With the only vendor-independent cloud, we make future proofing all your company’s data not only possible, but extremely fast and easy.
+How? Over 20 years ago, our founders and CTO predicted that all software would be in the cloud as a service, and that this data must be protected. Why does this vision matter? It lead to our solution being completely purpose built for cloud SaaS data.
+And since we built our solution from scratch and own and operate our own data protection cloud, we can do exactly what we need to do — quickly. It doesn’t get more next level than that.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/ai-adoption-disaster-recovery/
+Content type: Web page
+Last modified: 2026-04-20T14:57:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Research report
+Peer insights on AI adoption
+and the disaster recovery gap   
+Autonomous AI, SaaS sprawl, and limited testing are exposing gaps in enterprise disaster recovery readiness.
+This exclusive report — developed in partnership with CIO and based on insights from more than 300 senior IT decision-makers across the U.S., Europe, and APAC — explores how rapidly evolving AI environments are impacting disaster recovery (DR) strategies. Even though SaaS data protection is seen as a high priority when implementing AI solutions, the survey reveals a gap between perceived readiness and tested, validated disaster recovery capability.
+This report is for IT leaders and security decision-makers who want a peer-driven view of how AI adoption is reshaping disaster recovery — and where critical gaps remain.
+Key takeaways from the report
+- AI adoption is accelerating faster than recovery readiness. More than half of organizations report active AI implementations, while the rest are piloting or evaluating initiatives. Yet only 41% of respondents have significantly changed their approach to DR as a result of AI adoption. 
+ 
+ 
+- Confidence in DR plans doesn’t match reality. Although 94% believe their disaster recovery strategy covers agentic AI systems, only 32% test those plans monthly. This gap between confidence and validation raises concerns about organizations’ ability to recover when failures occur. 
+ 
+ 
+- Governance gaps are creating recovery risks. 33% of IT and security leaders report only partial control over the use of agentic AI in their organizations, making it harder to coordinate response and recovery when multiple systems are affected. 
+ 
+ 
+- SaaS data protection is a priority — but recovery is complex. While 56% of respondents prioritize protecting SaaS data when implementing AI solutions, many underestimate the steps required to fully restore operations — from reconnecting systems to validating workflows — in the event of disruption.
+ 
+To get the full picture, download the report now.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/awards-and-endorsements/
+Content type: Web page
+Last modified: 2026-06-16T14:52:00+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+June 10, 2026
+Keepit earns TrustRadius Top Rated Award for the fifth year running
+Keepit earns TrustRadius Top Rated Award for the fifth year running. Customers award Keepit top rating as a leader among SaaS Backup, Data Loss Prevention, Disaster Recovery, and Enterprise Backup categories.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/bt-channel-test/
+Content type: Web page
+Last modified: 2024-11-15T00:19:08+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+When the cloud goes dark: Resilience lessons from hybrid threats
+Read customer case
+Read the report
+Watch on-demand
+Watch now
+Download whitepaper
+Register now
+Careers at Keepit
+Find a partner
+test link
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/cio-brasil-jbl/
+Content type: Web page
+Last modified: 2026-03-02T22:37:53+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+A Keepit ajuda CIOs a protegerem os dados mais críticos de suas aplicações SaaS para que sua empresa continue no ritmo, sem perder o compasso. E enquanto você está aqui no CIO Brasil, também ajudamos a manter a vibe lá em cima.
+Participe para ter a chance de ganhar uma caixa de som JBL e manter a música tocando alto e claro. Anunciaremos os 3 vencedores na sexta-feira, durante o happy hour, então não deixe de nos encontrar por lá.
+Inscrever-se
+Quando seus dados estão protegidos com a Keepit, a única coisa com que você precisa se preocupar é a sua playlist.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/ciso-and-cio-challenges-survey/
+Content type: Web page
+Last modified: 2025-08-20T00:20:07+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+CISOs and CIOs confront growing data protection challenges in the era of AI and cloud
+Foundry survey and in-depth interviews reveal critical gaps in disaster recovery strategies and highlight the pressing need for enhanced data security measures.
+Copenhagen, Denmark. July 23, 2024 – Keepit, a global provider of a comprehensive cloud backup and recovery platform, today released a survey conducted by Foundry, as well as a study based on in-depth interviews conducted by Keepit. Both reveal critical gaps in disaster recovery strategies and highlight the pressing need for enhanced data security measures.
+In an evolving technological landscape, enterprise IT leaders are grappling with unprecedented challenges in data protection and governance, driven by the rapid adoption of cloud applications and generative AI.
+The CISOs and CIOs interviewed by Keepit for the study: “The great balancing act: Cybersecurity leaders tackle rising pressures” spoke to the necessity of rising to the challenge by adopting a mindset of continuous improvement. They are building collaborative best practices, partnering to bring in needed expertise, and investing in data-centric solutions optimized for security and simplicity.
+Data protection struggles amid cloud and AI expansion
+Enterprise disaster recovery strategies, traditionally designed for on-premises IT infrastructure, are lagging behind the surge in cloud application usage and the integration of AI technologies. Foundry's survey: “Can data protection keep pace with the shifting landscape?” underscores this trend. The respondents of the survey represent IT decision-makers from companies with over 1,000 global employees. While 70% of respondents report that their financial applications are covered by data protection strategies, a significant portion of other key systems and custom applications remain vulnerable.
+Survey highlights
+- Financial systems: 70% are covered by data protection strategies.
+- E-commerce and HR Management Systems: 50% are covered.
+- CRM and ERP systems: 48% and 42% respectively.
+- Critical transaction-based systems, custom applications, and collaboration and productivity tools: Are lagging behind with only between a third and a quarter of systems covered.
+“Anything related to finance is important, most people will agree. And it’s an obvious place to start when you map your critical systems and data. The survey shows that financial systems are by far the most incorporated in data protection strategies, and when you look at verticals, financial institutions are also a little more mature than others,” says Kim Larsen, CISO at Keepit, an industry professional with a background in advising public and private sector organizations in cyber security and cyber resilience.
+Strategic gaps and vulnerabilities
+The survey reveals that only half of the organizations have incorporated cloud-stored SaaS data into their disaster recovery plans. Another 40% plan to address this gap soon. A decision-maker participating in a recent Keepit CISO roundtable remarked, "We solved many of these challenges 10 to 15 years ago, but with the move to cloud, it's like we're starting from scratch again."
+The current state of data protection is also seen as a significant barrier to expanding the use of generative AI technologies.
+Strategic gaps:
+- Critical SaaS data applications: 50% of respondents have included cloud-stored data for critical SaaS applications in their disaster recovery plans, and 40% plan to do so.
+- AI data protection: Nearly all organizations prioritize AI data protection, with 52% already implementing tools for chatbots and AI platforms and 43% considering them.
+“Good data protection is essentially ‘data classification plus good recovery capabilities’: If you understand your data, and can recover uncorrupted versions of it fast, you have a solid foundation to ensure business continuity, compliance and recovery. But this is easier said than done: The complexity of implementing new initiatives, such as governance over data used by large language models (LLMs), and the need to balance conflicting IT demands, pose additional challenges for any industry,” adds Kim Larsen, CISO at Keepit.
+Compliance and future-proofing
+Compliance is a top concern for 73% of survey respondents heading into 2024, with data governance (53%) and enterprise backup and recovery (45%) also ranking high. Regulatory scrutiny is increasing globally, with mandates from agencies like the SEC in the US and the upcoming Digital Operational Resiliency Act (DORA) in the EU.
+Compliance challenges:
+- Regulatory mandates: New cybersecurity resilience requirements.
+- Cybersecurity risks: Continued threats, notably ransomware.
+“Cyber strategy must be perfectly aligned with the business to effectively support it. The more global an organization becomes, the more difficult this is – to align access, and comply with regulations. This is backed up in our study, where CISOs emphasized the need for a unified risk management strategy that aligns with regional regulatory requirements,” said Kim Larsen.
+Organizational maturity and risk management
+Keepit's interviews with over 30 CISOs and CIOs reveal the importance of organizational maturity in handling data security. The variability in CISOs' backgrounds and responsibilities was cited as a reason for the slow implementation of data-focused innovations.
+Key findings:
+- Cloud flexibility: 80% of organizations adopt a "cloud smart" approach, introducing new security and compliance challenges.
+- Regulatory and expertise challenges: The rise of GenAI and the need for specialized knowledge in AI and cybersecurity.
+“One thing stands out: Organizations have very different levels of maturity. A lot of the governance activities are so obvious, you would think everyone is doing them. But they aren’t. Classic difficulties include managing multiple security vendors, leading to gaps in protection. Another is circumstances – one CISO told us how he had experienced five major cyber events in the previous year, prompting a complete overhaul of their cyber response plan,” says Kim Larsen, CISO at Keepit.
+Strategies for success
+CISOs and CIOs are adopting continuous improvement mindsets, building collaborative best practices, and investing in data-centric solutions. Establishing effective data governance frameworks and engaging the board of directors are seen as crucial steps forward.
+Strategic recommendations:
+- Align with business objectives: Frame cybersecurity in the context of business goals.
+- Translate technical concepts: Communicate in terms stakeholders understand.
+- Demonstrate ROI: Highlight cost savings, risk reductions, and business benefits.
+- Board engagement: Seek feedback and support from the board for cybersecurity initiatives.
+“The conclusion is that data protection remains a cornerstone of organizational resilience in the face of growing technological advancements. As CISOs and CIOs navigate these challenges, their ability to enable and protect data-driven innovation will define their success. Robust data security and backup strategies are essential for balancing innovation and protection, ensuring that organizations can thrive in the digital age. Effective communication of cyber risks to stakeholders and demonstrating the ROI of cybersecurity initiatives are critical,” ends Kim Larsen.
+### ENDS ###
+About Foundry, and IDG, Inc. Company
+Foundry has played a key role in every major milestone, announcement, and development in modern technology since 1964. We engage and activate the world’s most influential tech buyers and early adopters via the award-winning journalism and trusted media brands they’ve turned to for decades. Our integrated ecosystem of owned and operated editorial sites, awards, events, and tech communities is engineered to enable global audience activation through innovative marketing campaigns. Backed by robust audience insights and data from across our network, Foundry sets the standard for delivering business results to help companies grow.
+With 38 offices in markets around the globe, Foundry is a wholly owned subsidiary of International Data Group, Inc. (IDG), the world’s leading tech media, data, research and marketing services company.
+To learn more about Foundry, visit foundryco.com.
+About CSO:
+CSO serves enterprise security decision-makers and users with the critical information they need to stay ahead of evolving threats and defend against criminal cyberattacks. With incisive content that addresses all security disciplines, from risk management to network defense to fraud and data loss prevention, CSO offers unparalleled depth and insight to support key decisions and investments for IT security professionals. www.csoonline.com
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguardsâ¯essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over 10,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+ 
+For more information visitâ¯www.keepit.comâ¯or follow Keepit onâ¯Linkedin.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/code-of-conduct/
+Content type: Web page
+Last modified: 2025-06-13T21:04:18+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+When the cloud goes dark: Resilience lessons from hybrid threats
+Read customer case
+Read the report
+Watch on-demand
+Watch now
+Download whitepaper
+Register now
+Careers at Keepit
+Find a partner
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/contact/
+Content type: Web page
+Last modified: 2026-06-29T21:59:28+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Contact us
+Have questions, need help, or want to learn more about Keepit? Our sales and support teams are always happy to help.
+Global offices
+HQ - Copenhagen,
+Denmark
+Keepit A/S
+Per Henrik Lings Allé 4, 7.
+2100 København, Denmark
+CVR: 30806883
++45 8987 7792
+sales@keepit.com
+Dallas, Texas,
+United States
+Keepit USA Inc.
+3232 McKinney Avenue Suite 820 Dallas TX 75204, USA
+TIN: 85-358 6335
++1 469-461-4892
+sales@keepit.com
+London,
+United Kingdom
+Keepit Technologies UK, LTD.
+8 Devonshire Square, London 
+EC2M 4YJ, United Kingdom
+Company reg. no.: 13785045
++44 20 3835 3727
+sales@keepit.com
+Munich,
+Germany
+Keepit Germany GmbH
+Theresienhöhe 12
+D-80339 München
+Amtsgericht München, HRB 270094
+Geschäftsführer: Morten Felsvang
+dach.sales@keepit.com
+Krakow,
+Poland
+Keepit Poland Sp. z.o.o.
+72 Dluga Street
+31-146 Krakow
+Poland
+KRS: 0000952992
+sales@keepit.com
+Paris,
+France
+Keepit France SAS
+40-42 Rue du Colisée
+75008 Paris
+France
+SIREN: 980 733 521
+VAT: FR67980733521
+sales@keepit.com
+São Paulo, 
+Brazil
+Keepit Brazil LTDA.
+Avenida Engenheiro Luís Carlos Berrini,
+No. 1748, room 1710
+Cidade Monções
+CEP 04.571-000, São Paulo, SP
+Brazil
+Company reg. no. (CNPJ): 
+65.226.572/0001-39
+sales@keepit.com
+Amsterdam, 
+Netherlands
+Keepit Netherlands B.V.
+Herikerbergweg 88
+1101 CM, Amsterdam
+the Netherlands
+KVK: 97908606
+sales@keepit.com
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/data-processing-agreement/
+Content type: Web page
+Last modified: 2026-03-12T21:16:54+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+| Name | Location | Role | 
+| Keepit Poland Sp. z o.o. (effective from 01.06.2026) | Poland | Supporting Keepit’s provision of customer support services. | 
+Data Processing Agreement
+Last updated: March 2026
+The links below contain our data processing agreements and are our legally binding contracts that we enter with our customers stating the rights and obligations of each party concerning the protection of personal data processed by Keepit on behalf of the customer.
+They include a number of guarantees to the companies that entrust us with personal data on how we process and protect personal data stored with us.
+Keepit offers different Data Processing Agreements depending on the customer’s location. Please download the applicable Data Processing Agreement below:
+Customers in Denmark, Sweden, or Norway
+Keepit offers to enter the Danish Data Protection Agency’s standard contractual clauses for data processing (cf. GDPR Article 28).
+Customers in the EU/EEA (excluding Denmark, Sweden, and Norway)
+Keepit offers to enter the European Commission’s standard contractual clauses between controllers and processors within the EU/EEA (cf. GDPR Article 28).
+Customers outside the EU/EEA
+Keepit offers to enter its standard Data Processing Agreement applicable to customers located outside the regions listed above.
+Sub-processors
+At Keepit we grow our resources responsibly. Keepit uses its wholly-owned and EU based affiliates to support the provision of Keepit’s services to our customers. Below you can find important information about the identity, location and role of each Keepit affiliate involved in the provision of our services, based on the Keepit entity that you have entered into contract with.
+For customers of Keepit A/S:
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/data-report-2026/
+Content type: Web page
+Last modified: 2026-03-26T09:18:44+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Annual Data Report 2026
+Operational truths from real backup and restore data
+Real-world SaaS backup and recovery data — based on what organizations actually do
+The Keepit Annual Data Report 2026 is built on aggregated and anonymized operational data from our production backup environment, covering backup and restore activity from January 1, 2025 to December 31, 2025 across all active Keepit data center regions. It does not rely on surveys or self-reported behavior — only observable patterns in backup and restore activity at an aggregate level.
+This report is for IT leaders and security decision-makers who want an evidence-based view of how organizations restore SaaS data in practice.
+Key takeaways from the report
+- 9 in 10 enterprises have validated bulk recovery, demonstrating a maturity in their disaster recovery preparedness.
+- Identity systems are tested four times less often than productivity systems, even though losing identity access can prevent access to all other SaaS applications.
+- 90% of restores are single file downloads, indicating that simple data loss incidents are most common, and that IT administrators appreciate the ability to do granular, immediate recovery.
+- High-profile global outages — including major cloud and security incidents — did not lead to increased recovery testing, suggesting that even visible disruptions rarely prompt validation of recovery readiness.
+To get the full picture, download the report now.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/data-sovereignty-in-the-cloud/
+Content type: Web page
+Last modified: 2026-04-17T01:30:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Research report
+Data sovereignty: Take control of your data
+Data sits at the heart of every modern organization — and at the center of its greatest opportunities and risks.
+As geopolitical tensions rise, hyperscalers consolidate control, and data privacy regulations tighten, digital sovereignty has become a defining business priority. At the core of this movement lies data sovereignty — the ability to maintain control over where your data resides, who governs it, and how it’s protected.
+This in-depth report offers guidance for IT and business leaders on navigating compliance, risk, and control in this context and specifically aims to help CIOs, CISOs, COOs, and CDOs build resilience, ensure compliance, and strengthen governance and control across international operations.
+Download the report to learn:
+- What digital sovereignty is, the three elements that comprise it, and why data sovereignty is often the most challenging of those elements to achieve
+- Why data sovereignty has become an important and urgent requirement for organizations with international operations and customers
+- Critical questions that leaders must ask and answer to achieve digital sovereignty
+- Regional perspectives for the United States, Europe, and the rest of the world
+- National snapshots outlining key data sovereignty threats, the current regulatory and legal landscape, and guidance and expert resources for eight countries
+- The road ahead: Understand how forward-thinking organizations are preparing for the future of data sovereignty — and how Keepit’s independent architecture supports vendor neutrality, data control, and resilience
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/devops-checklist/
+Content type: Web page
+Last modified: 2026-06-09T20:34:42+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The simplest way to secure your critical SaaS data
+Development environments have become the operational backbone of modern software delivery. As organizations increase dependence on platforms like Jira, Confluence, and GitHub, recent platform changes, growing cloud dependency, and evolving security risks are causing teams to reevaluate how critical development data is protected and recovered.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/disaster-recovery/
+Content type: Web page
+Last modified: 2026-06-25T14:47:11+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Guide
+When disaster strikes: Your guide to truth and recovery in the face of SaaS data loss
+SaaS resilience, control, and recovery when disaster strikes
+This guide examines the reality of SaaS data loss caused by four common scenarios and asks a practical question: When there’s a disruption to production, who’s in control of the data and how is business continuity ensured?
+One thing is clear: Resilience in the SaaS era isn’t a one-time restore exercise. Instead, it needs to be a broader strategy shaped by how data is lost, how recovery is tested, how backup data is stored, how readiness matures, and whether control remains under the sovereignty and dependency conditions an organization faces.
+Download the guide to learn about:
+- The four most common, recurring patterns of SaaS data loss — and how control is lost in each scenario 
+ 
+ 
+- What resilience actually looks like in a SaaS disruption, beyond simply having a backup 
+ 
+ 
+- How to build a disaster recovery plan that protects your organization’s business continuity 
+ 
+ 
+- Where your organization stands on the disaster recovery maturity curve 
+ 
+ 
+- What questions to ask about data sovereignty and governance before an incident forces the issue
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/egift-supported-countries/
+Content type: Web page
+Last modified: 2024-05-17T23:04:24+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+| Argentina | Norway | 
+| Australia | Pakistan | 
+| Austria | Peru | 
+| Bangladesh | Philippines | 
+| Belgium | Poland | 
+| Brazil | Portugal | 
+| Bulgaria | Qatar | 
+| Canada | Romania | 
+| China | Saudi Arabia | 
+| Colombia | Serbia | 
+| Czech Republic | Singapore | 
+| Denmark | Slovakia | 
+| Dominican Republic | Slovenia | 
+| Ecuador | South Africa | 
+| El Salvador | South Korea | 
+| Eqypt | Spain | 
+| Finland | Sri Lanka | 
+| France | Sweden | 
+| Germany | Switzerland | 
+| Greece | Taiwan | 
+| Hong Kong | Thailand | 
+| Hungary | Timor-Leste | 
+| India | Turkey | 
+| Indonesia | UAE | 
+| Ireland | UK | 
+| Israel | USA | 
+| Italy | Vietnam | 
+| Japan | |
+| Jordan | |
+| Kazakhstan | |
+| Kenya | |
+| Luxembourg | |
+| Malaysia | |
+| Marshall Islands | |
+| Mexico | |
+| Micronesia | |
+| Morocco | |
+| Netherlands | |
+| New Zealand |
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/email-confirmation/
+Content type: Web page
+Last modified: 2026-07-20T23:10:53+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+When the cloud goes dark: Resilience lessons from hybrid threats
+Read customer case
+Read the report
+Watch on-demand
+Watch now
+Download whitepaper
+Register now
+Careers at Keepit
+Find a partner
+You're almost done - click to confirm your subscription to marketing communications from Keepit.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/embedded-form-testing/
+Content type: Web page
+Last modified: 2024-06-03T14:40:40+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+When the cloud goes dark: Resilience lessons from hybrid threats
+Read customer case
+Read the report
+Watch on-demand
+Watch now
+Download whitepaper
+Register now
+Careers at Keepit
+Find a partner
+Lorem ipsum text for iframe.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/entra-id-demo/
+Content type: Web page
+Last modified: 2025-06-06T00:32:27+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Security Today's 2023 CyberSecured Awards recognize Keepit's Backup and Recovery for Entra ID (formerly Azure AD) as the best product for data loss prevention and disaster recovery/business continuity.
+Continue business as usual
+You’re backing up your Microsoft 365 data because you know it’s vital to your organization. But what about Entra ID? If Entra ID isn’t available, your users can’t work in Microsoft 365.
+Identity systems are #1 for any business
+Microsoft ranks protecting identity systems as more important than protecting human life as it ensures you and your users can maintain access to critical applications such as Entra ID.
+You’re responsible for your data
+Microsoft doesn’t guarantee complete and fast recovery of deleted or corrupted files. It’s up to you to follow recoverability best practices to ensure uninterrupted access to your data.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/erp-brasil-igloo/
+Content type: Web page
+Last modified: 2026-03-02T22:51:57+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Inscreva-se para ter a chance de ganhar o brinde mais gelado do ERP Summit! Estamos sorteando uma mochila térmica Igloo da Keepit, porque enquanto seus dados ficam seguros e protegidos com a Keepit, seus lanches e bebidas merecem ficar bem geladinhos.
+Inscrever-se
+Quando os dados das suas aplicações SaaS estão protegidos com backup da Keepit, nem um “derretimento” vai deixar você na mão!
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/esg-tech-validation/
+Content type: Web page
+Last modified: 2025-10-24T13:33:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Report
+Independent technical validation of Keepit’s data protection platform
+Keepit — Simplifying comprehensive backup and security for data of SaaS applications
+In this independent technical validation, ESG evaluates Keepit's SaaS data protection platform and confirms that it delivers secure, streamlined, and cost-effective backup and recovery across business-critical SaaS applications like Microsoft 365, Salesforce, and Google Workspace.
+The report highlights how Keepit's cloud-native architecture, vendor-independent storage model, and proprietary technology stack combine to provide clean, fast, and verifiable recoveries — even in the face of ransomware or accidental data loss.
+Key takeaways
+- True cloud-native backup for SaaS: Keepit offers a consistent, intuitive backup and recovery workflow across all major SaaS platforms, without relying on public cloud infrastructure or third-party tools.
+- Immutable and verifiable data: ESG validated Keepit’s use of Merkle tree cryptography to ensure the integrity of every data block — enabling clean restores and audit-proof recovery.
+- Secure by design: Backup data is stored in dedicated Keepit-owned infrastructure, physically isolated from the SaaS provider’s cloud to prevent cross-domain risks and downtime.
+- No tiering, always hot: All data is immediately accessible for restore, preview, or download — no rehydration needed, no archive tiers, and no delays.
+- Flat, predictable pricing: Keepit’s licensing model is based on seats — not storage volume or data transfer — ensuring simplicity and eliminating unexpected fees.
+- Enterprise-ready scalability: Keepit supports granular restore options, global data sovereignty, automated reporting, and role-based access controls to meet the needs of complex IT environments.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/fantasy-league-participation-rules/
+Content type: Web page
+Last modified: 2024-07-16T23:15:47+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Partner Fantasy Premier League 2024 - Participation Rules
+1. Eligibility
+All registered UK partners of Keepit who have received invitations are eligible to participate in the campaign. Participants must be 18 years or older to enter the competition.
+2. Registration
+Partners must sign up for the campaign through the official Keepit registration page. Registration must be completed by 1 September 2024 to be eligible for the current fantasy football season.
+3. Participation
+After successfully registering for the campaign, participants will receive an email containing instructions on how to join the fantasy football game.
+Participants will receive bi-weekly emails from Keepit containing updates on the game and Keepit partner information.
+4. Game Rules
+Participants must actively manage their team throughout the season, adhering to the official rules of the Fantasy Premier League (available at https://fantasy.premierleague.com/help/rules).
+5. Prizes and Tax
+Prizes will be awarded to the best performing participants based on the fantasy football game’s scoring system.
+The top 4 participants every month will receive gift cards valued at £60 for 1st place, £30 for 2nd place, £20 for 3rd place, and £10 for 4th place.
+At the end of the season, the top 4 participants will receive cash payouts of £1,000 for 1st place, £250 for 2nd place, £100 for 3rd place, and £50 for 4th place.
+Prizes won in this game are subject to applicable taxes, which are the sole responsibility of the participant. By accepting any prize, the participant agrees to comply with all tax requirements and acknowledges that Keepit is not liable for any tax implications arising from the receipt of the prizes.
+6. Winner Notification
+Winners will be notified via email after the end of each month and at the season’s end.
+Winners must respond within 14 days to claim their prizes, failing which the prize will be forfeited and awarded to the next eligible participant.
+7. Fair Play
+Fair play, sportsmanship, and professional conduct are expected from all participants. Any attempt to manipulate scores or engage in unethical behaviour may result in disqualification from the campaign.
+8. General Conditions
+By participating, participants agree to comply with these rules and the decisions of Keepit, which are final and binding. Keepit reserves the right to amend or update these rules at any time.
+9. Data Protection 
+Participants' personal data will be collected and processed in accordance with Keepit's Privacy Policy. Data will be used solely for the purpose of administering the campaign and communicating with participants.  
+Participants can opt out of communications at any time, but doing so will disqualify them from the campaign.
+10. Modifications and Termination
+Keepit reserves the right to modify, suspend, or terminate the campaign at any time without prior notice.
+In the event of unforeseen circumstances, Keepit reserves the right to substitute the prizes with others of equivalent value.
+11. Contact Information
+For any inquiries or issues regarding the campaign, participants can contact Adam Green agr@keepit.com
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/forrester-total-economic-impact/
+Content type: Web page
+Last modified: 2025-08-14T23:52:42+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Forrester Total Economic Impact of Keepit SaaS Data Protection
+What did the study find? 163% ROI (return on investment) over three years. Payback in less than six months with Keepit's next level SaaS data backup and recovery solution.
+The Forrester Consulting January 2024 Total Economic Impact™ study on Keepit’s next level SaaS backup and recovery solution documents that it’s, well … a keeper. Not just technologically, but financially, too.
+The study is commissioned by Keepit.
+Based on interviews with Keepit customers, Forrester has created a three-year financial model to determine the financial benefit of using Keepit to protect data in SaaS workloads.
+And the results speak for themselves:
+Keepit customers get quantifiable savings with fast, more accurate recovery from a ransomware attacks, reduced SaaS licensing cost and user efficiency.
+And they also benefit from using Keepit as a data archive, ease of use and as support for audit purposes.
+Interviews with the customers and a thorough financial analysis found that a composite organization with 10,000 seats backed up saw benefits of $1.33 million over three years.
+At a cost of $504,100 this adds up to a net present value (NPV) of $821,800 and a ROI of 163%.
+Here’s some of what our customers had to say:
+“The word essential is not an exaggeration in this context. If you have no backup of your data, then you are a threatened species.” Senior consultant, nonprofit
+“It’s important to have the confidence to have all data available all the time. If something happens, from small instances to big ones, we are now able to restore data.” Senior system manager, automotive association
+“With Keepit, we have unlimited storage. We don’t have to worry about how much data we back up.” IT manager, beverages
+“The value we get from Keepit comes also from the ease of operation and the ability to attach the future services. We have already started to develop a need for multiple other applications to be backed up with Keepit.” Senior consultant, nonprofit
+“The training given by Keepit during the implementation phase was extremely good. In 10 minutes, all my team members were onboard.” IT leader, nonprofit
+It used to take me six to eight weeks a year to manage an on-premises backup solution. Now, with Keepit, I spend only 2 hours a month managing the solution.
+Senior system manager, automotive association
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/g2-keepit-compare-report/
+Content type: Web page
+Last modified: 2026-05-21T23:11:25+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Research report
+G2 Keepit Compare Report
+Download now:
+Compare SaaS backup vendors using verified G2 customer data
+See how leading solutions perform across support, usability, and customer satisfaction — based on G2 Spring 2026 reviews. Choosing a SaaS backup and recovery solution isn’t just about features — it’s about how well the platform performs in real-world environments.
+What you’ll learn:
+- Which vendors are easiest to deploy and manage
+- How support quality impacts long-term success
+- Where customers report the highest satisfaction
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/gartner-iocs-lasvegas/
+Content type: Web page
+Last modified: 2024-11-22T15:18:19+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Meet Keepit at Gartner IT IOCS conference 2024
+Take control of your SaaS data protection. Ensure confidence in your resilience.     
+Meet us at booth #235
+Enjoy exclusive on-site activities at our booth, including a product demo, insights from industry experts, and meeting our team.
+Don’t have your ticket yet? Register today to get our exclusive discount of $400 on your ticket by using our code LSC43EDC.
+Venue information
+The Venetian Resort Las Vegas | 3355 South Las Vegas Boulevard Las Vegas, Nevada 89109 United States
+Book a meeting with Keepit
+Join us for our speaking session
+Solution provider session
+Keepit: Unlocking Resilience with Strong Data Governance
+A resilient disaster recovery strategy is inseparable from solid data governance. This session highlights how to build a resilient infrastructure by ensuring that data governance principles are deeply embedded in disaster recovery plans. Learn how to classify and prioritize data for recovery, and effectively communicate these strategies to your executive team to strengthen business continuity efforts.
+Speaker: Kim Larsen 
+Date: December 10, 3:15pm (PDT) 
+Room: San Polo 3405-7056 
+Session Code: SPS16 
+Key Takeaways:
+- Techniques for prioritizing data and structuring recovery plans
+- Building executive buy-in for governance-driven recovery strategies
+- Best practices for conducting incident reviews and audits
+We use Keepit to back up everything from Office 365. Whether it is Exchange, OneDrive, SharePoint, or Azure AD, Keepit has us covered.
+It helps us address the risk of data loss, therefore making us compliant to GDPR. Gives IT managers a goodnight sleep knowing any lost data can be easily retrieved.
+Excellent All Round Backup, Easy To Setup And Administer - Well Priced
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/gartner-iocs-london/
+Content type: Web page
+Last modified: 2024-10-18T13:25:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Meet Keepit at Gartner IT IOCS conference 2024
+Take control of your SaaS data protection. Ensure confidence in your resilience.
+Meet us at the expo hall
+Enjoy exclusive on-site activities at our booth, including a product demo, insights from industry experts, and meeting our team.
+Don’t have your ticket yet? Register today to get our exclusive discount of €400 on your ticket with the code LSCE20EDC.
+Venue information
+ExCeL London | Royal Victoria Dock, 1 Western Gateway London, England E16 1XL United Kingdom
+Book a meeting with Keepit
+Join us for our speaking sessions
+Solution provider session
+Keepit: Unlocking Resilience with Strong Data Governance
+Speaker: Kim Larsen, CISO Keepit
+November 19 at 2:15 BST  
+Session code: SPS9
+Room: Auditorium
+Key Takeaways:
+- Techniques for prioritizing data and structuring recovery plans
+- Building executive buy-in for governance-driven recovery strategies
+- Best practices for conducting incident reviews and audits
+Theater/Expo Hall Session
+Keepit: Fast-Track to Data Resilience – Practical Steps for Successful Data Recovery
+Speaker: Kim Larsen, CISO Keepit
+November 20 at 12:45 BST  
+Session code: TH23
+Room: Theater 2
+Key Takeaways:
+- Quick wins for improving data backup and recovery processes
+- Best practices for ensuring compliance and data security
+- Real-world case studies on overcoming data recovery challenges
+We use Keepit to back up everything from Office 365. Whether it is Exchange, OneDrive, SharePoint, or Azure AD, Keepit has us covered.
+It helps us address the risk of data loss, therefore making us compliant to GDPR. Gives IT managers a goodnight sleep knowing any lost data can be easily retrieved.
+Excellent All Round Backup, Easy To Setup And Administer - Well Priced
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/gartner-it-symposium-america/
+Content type: Web page
+Last modified: 2024-10-31T17:47:51+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Meet Keepit at Gartner IT Symposium/Xpo™
+Take control of your SaaS data protection. Ensure confidence in your resilience.     
+Meet us at Booth #342
+Enjoy exclusive on-site activities at our booth, including a product demo, insights from industry experts, and meeting our team.
+Don’t have your ticket yet? Register today to get our exclusive discount of $525 off your ticket with the code SYM34EDC.
+Venue information
+Walt Disney World Swan and Dolphin Resort â¨Address: 1500 Epcot Resorts Boulevard Lake Buena Vista, FL 32830 United States
+Book a meeting with Keepit
+Join us for our speaking session
+Keepit: Future-Proofing Data Governance for Tomorrow's Disaster Recovery Challenges
+Speaker: Kim Larsen, CISO Keepit
+Tuesday October 22, 2:20pm-2:40pm (EDT)
+Session code: FD10 
+Room: Future Directions Stage 
+Key Takeaways:
+- Effective data governance models and approaches
+- Disaster recovery planning that considers the impact of AI
+- Techniques for data prioritization and classification
+- Structuring recovery plans and conducting incident investigation
+Attend our Invited Lunch
+Tuesday October 22, 12:15pm-1:15pm
+Location: Dolphin, Shula’s Steakhouse, Hall of Fame 1-2
+Limited to 15 guests, secure your place in the Gartner conference app.
+Invited Lunch Hosted by Keepit: Data Governance for Resilience
+Business leaders today must manage rapid data growth while countering sophisticated cyber threats, making effective data governance crucial for a robust business continuity strategy. Join peers for an insightful discussion on extending governance beyond the CISO's office, aligning disaster recovery strategies with executive priorities, and integrating AI in recovery plans. Hosted by Kim Larsen, Keepit CISO, this lunch is a guided peer to peer discussion around the practical approaches to optimize data management, communicate strategies to leadership, and enhance organizational resilience.
+We use Keepit to back up everything from Office 365. Whether it is Exchange, OneDrive, SharePoint, or Azure AD, Keepit has us covered.
+It helps us address the risk of data loss, therefore making us compliant to GDPR. Gives IT managers a goodnight sleep knowing any lost data can be easily retrieved.
+Excellent All Round Backup, Easy To Setup And Administer - Well Priced
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/gartner-it-symposium-barcelona/
+Content type: Web page
+Last modified: 2024-11-08T16:36:00+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Meet Keepit at Gartner IT Symposium/Xpo™
+Take control of your SaaS data protection. Ensure confidence in your resilience.
+Meet us at booth #447
+Enjoy exclusive on-site activities at our booth, including a product demo, insights from industry experts, and meeting our team.
+Venue information
+International Barcelona Convention Center, 11-14 Plaça de Willy Brandt, Barcelona, Catalunya 08019 Spain
+Book a meeting with Keepit
+Join us for our speaking session
+Keepit: Bridging Data Governance and Disaster Recovery for Better Resilience
+Speaker: Kim Larsen, CISO Keepit
+November 6, 11:30am-12:00pm (EDT)
+Session code: SPS54 
+Room: Sagrada Familia 
+Key Takeaways:
+- Effective data governance models and approaches
+- Disaster recovery planning that considers the impact of AI
+- Techniques for data prioritization and classification
+- Structuring recovery plans and conducting incident investigation
+We use Keepit to back up everything from Office 365. Whether it is Exchange, OneDrive, SharePoint, or Azure AD, Keepit has us covered.
+It helps us address the risk of data loss, therefore making us compliant to GDPR. Gives IT managers a goodnight sleep knowing any lost data can be easily retrieved.
+Excellent All Round Backup, Easy To Setup And Administer - Well Priced
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/gartner-it-symposium-xpo-tailgate/
+Content type: Web page
+Last modified: 2024-10-02T17:08:28+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Meet Keepit at Gartner IT Symposium/Xpo™
+ð Get your custom tailgate kit & learn how Keepit keeps your data safe! ð
+Keepit is the undefeated champion of cloud backup and recovery. Sign up for a 30-minute meeting and claim your custom-tailored tailgate kit featuring your alma mater’s gear—perfect for game day!
+Don’t have your ticket yet? Register today to get our exclusive discount of $525 off your ticket with the code SYM34EDC.
+Not going to Gartner this year? That’s OK, you still quality for this offer by booking a meeting!
+*Items may not be exactly as shown
+Venue information
+Walt Disney World Swan and Dolphin Resort â¨Address: 1500 Epcot Resorts Boulevard Lake Buena Vista, FL 32830 United States
+Book a meeting with Keepit
+How it works
+Step 1: Sign Up for Your Meeting
+Provide your first name, email, and best contact information to get started. We’ll send you a confirmation right away.
+Step 2: Pick Your Time
+Choose a meeting time from our calendar during the Gartner IT Symposium (October 21-24), or let us know if you’d prefer to meet before the event—we’ll work around your schedule!
+Step 3: Huddle with Keepit
+Join us for a quick 30-minute meeting to discuss how Keepit’s cloud backup solutions can protect your organization’s data, no interceptions allowed!
+Step 4: Touchdown!
+Complete the meeting, and we’ll ship your custom tailgate kit—complete with a stadium blanket, water bottle, keychain, and other school swag—right to your door. Just in time for game day.
+We use Keepit to back up everything from Office 365. Whether it is Exchange, OneDrive, SharePoint, or Azure AD, Keepit has us covered.
+It helps us address the risk of data loss, therefore making us compliant to GDPR. Gives IT managers a goodnight sleep knowing any lost data can be easily retrieved.
+Excellent All Round Backup, Easy To Setup And Administer - Well Priced
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/holiday-donation/
+Content type: Web page
+Last modified: 2025-12-15T20:40:31+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+2025 holiday giving
+Thank you for trusting Keepit to protect your data
+Confirm your preference
+To celebrate, we’re spreading some holiday cheer in your honor. We’ll make a $50.00 donation on your behalf to one of three nonprofits — you choose where it goes.
+Take a moment to pick your preferred organization, and we’ll make sure your donation helps make a difference. Here are some links to learn more about each organization:
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/iam-checklist/
+Content type: Web page
+Last modified: 2026-06-09T20:30:41+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Identity-based attacks continue to rise as attackers increasingly target privileged accounts, access policies, and administrative controls. Organizations are reevaluating how identity environments are protected, recovered, and operationalized as part of broader cyber resilience strategies.
+The hidden risks of unprotected identity systems?
+Assess hidden risks across Microsoft Entra ID and Okta before compromised accounts, policy drift, or malicious changes disrupt operations.
+Identity systems now control how users access applications, how policies are enforced, and how modern organizations operate securely at scale.
+But native Identity Access Management protections are not designed for comprehensive recovery.
+This practical checklist helps organizations evaluate:
+- Identity recovery readiness
+- Configuration and policy resilience
+- Audit and compliance visibility
+- Operational recovery gaps
+- Shared responsibility risks
+Download the checklist to better understand where identity resilience challenges may exist across your environment:
+Read the case study
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Read the case study
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+Read the case study
+âOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/iam-request/
+Content type: Web page
+Last modified: 2026-06-01T20:51:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Read the case study
+We have the highest data protection needs as we handle live data, personal data for life insurances, and private insurances. We have only a very short time range to get “back to live” in case of a disaster.
+Talk to your account manager to learn why it’s important to include Entra ID and Okta in your backup and recovery strategy — all within a single platform designed to scale with your SaaS environments.
+Please fill out the form and we'll respond to you directly.
+Book a meeting with Keepit
+Read the case study
+We have the highest data protection needs as we handle live data, personal data for life insurances, and private insurances. We have only a very short time range to get “back to live” in case of a disaster.
+Read the case study
+Protecting multiple SaaS applications in one platform allows us to ensure our most important business data is consistently backed up and recoverable without increasing operational complexity.
+Read the case study
+Backing up our data with Keepit for Entra ID ensures that we never lose access to this business-critical data – which provides our organization with peace of mind.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/idc-marketscape/
+Content type: Web page
+Last modified: 2026-04-17T01:15:30+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Analyst report
+Keepit named a Leader in SaaS data protection
+Keepit has been named a Leader in the IDC MarketScape: Worldwide SaaS Data Protection 2025–2026 Vendorâ¯Assessment.â¯We believe this affirmsâ¯our focused approach to protecting SaaS data with independence, resilience, and control.
+As organizations accelerate SaaS adoption, native protection tools and generalist backup platforms often fall short. This IDCâ¯MarketScape examines vendors in the market and highlights how purpose-built SaaS data protection platforms address growing challenges around cyber resilience, compliance, and recovery. The featured excerpt explains why Keepit was recognized and where our capabilities align with today’s — and tomorrow’s — buyer needs.
+Key takeaways from the report
+- Purpose-built for SaaS 
+ The IDC MarketScape states thatâ¯Keepit is a pure-play SaaS data protection provider focused exclusively on backup and recovery for modern cloud applications.
+- Independence and data sovereignty 
+ Data sovereignty is one of Keepit's core value propositions. All customer backup data is stored in independent, Keepit-owned datacenters located in multiple global regions, ensuring retention, residency, and compliance.
+- Blockchain-like immutability  
+ All Keepit backups are stored in proprietary object storage using blockchain-like (Merkle tree) immutability. Once written, data cannot be overwritten, deleted, or modified until outside the customer's retention policy.
+- Predictable economics 
+ The private cloud infrastructure also allows Keepit to offer unlimited data retention, predictable seat-based pricing, and no volume-based or egress fees.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/ingram-recruitment/
+Content type: Web page
+Last modified: 2026-01-29T21:03:07+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit is fully enabled within Ingram Micro’s ecosystem, making it easy to:
+- Add to existing quotes
+- Bundle with managed services
+- Standardize across your customer base
+- Scale without adding operational overhead
+You gain a differentiated data protection layer — without changing your buying or selling motion. Connect now to learn how to add Keepit to your portfolio.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/job-applicant-privacy-policy/
+Content type: Web page
+Last modified: 2025-08-06T18:44:39+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+| Keepit Entity | Country | Address | 
+| Keepit A/S | Denmark | Per Henrik Lings Allé 4, 7, 2100 København, Denmark | 
+| Keepit France SAS | France | 30 Rue Godot de Mauroy, 75009 Paris, France | 
+| Keepit Poland Sp. z o.o. | Poland | 72 Dluga Street, 31-146 Krakow, Poland | 
+| Keepit Germany GmbH | Germany | Maximiliansplatz 22, D-80333 München, Germany | 
+| Keepit Netherlands B.V. | Netherlands | Herikerbergweg 88, 1101 CM Amsterdam, Netherlands | 
+| Keepit Technologies UK, LTD.* | England | 1 St. Katharine's Way, London, E1W 1UN, UK | 
+Job applicant privacy policy
+Last updated August 2025
+Thank you for applying for a job at Keepit!
+1. Who is the data controller of your personal data?
+Keepit A/S and its subsidiaries form a group of undertakings. The Keepit entity to which you apply for a position is the legal entity that is responsible for collecting and processing any information that identifies or is capable of identifying you as an individual ("personal data") in line with this Privacy Policy for Keepit Job Applicants. This entity is hereafter referred to as "Keepit", "we", "us", or "our" and serves as the data controller for processing of your personal data under the General Data Privacy Regulation ("GDPR"), UK General Data Privacy Regulation ("UK GDPR") and other applicable data protection legislations.
+This Privacy Policy for Keepit Job Applicants concerns the following Keepit entities:
+*NOTE: Where Keepit Technologies UK, LTD. acts as the data controller, the corresponding provisions of the UK GDPR will apply in the same manner as the GDPR.
+2. Purposes, types of personal data, and legal basis
+To evaluate your application, we will process the personal data, which you have disclosed in your job application and CV as well as any attachments. Typically, the categories of personal data will be contact information, educational background, professional background, and interests.
+We will also evaluate your performance and competencies during any potential interviews. The legal basis for our processing of your personal data is your application for execution of an employment contract with Keepit, cf. Article 6(1)(b) of the GDPR and our legitimate interest in processing the information you have given us as part of our overall assessment of your ability to handle the position in question cf. Article 6(1)(f) of the GDPR.
+Further, we might search the internet for relevant and available information, including content from social media. We will typically search for information regarding your previous jobs, activities, competencies, performance, as well as your general appearance. We process your personal data collected as part of the internet search on the basis of Article 6(1)(f) of the GDPR, as we have a legitimate interest in finding the most suitable candidate for the position.
+If the job position requires you to complete personality tests or similar tests you will be informed hereof when we have processed your application. The results of such tests will be treated confidentially but will be included in our evaluation of your application. Our legal basis for such processing of personal data is Article 6(1)(b) of the GDPR.
+If you are a foreign candidate outside EU/EEA, we may be legally required to obtain a copy of your passport cf. Article 6(1)(c) of the GDPR.
+If you are applying for a position where a criminal record, credit report or visa/work permit etc. is required by law, you may be required to provide these as well, in compliance with local laws cf. Article 6(1)(c) of the GDPR.
+As part of our evaluation of you and your application, we may wish to take references from your previous and/or current employers. We will only take up references from persons you have explicitly stated in your job application or have informed us of. Our legal basis for such processing is Article 6(1)(f) of the GDPR as we have a legitimate interest to ensure that your statements are true and in accordance with your previous employers.
+Special categories of personal data
+We recommend that you do not disclose sensitive personal data, such as information revealing racial or ethnic origin, religion, trade union membership, sexual orientation, health, etc. in your application. In case a certain health condition is required for the ability to perform the duties related to the position in question, we might request health information from you. Our legal basis for such processing of personal data will be dependent on the fulfilment of our employment law obligations in accordance with Article 9(2)(b) and Article 9(2)(f) of the GDPR.
+3. When will we delete your personal data?
+If you are offered a position with Keepit, your application and additional relevant personal data obtained during the recruitment procedure will be stored in your employee file.
+If you are not offered a position, we will store your application and any additional personal data obtained during the recruitment procedure for a period of 6 months following the conclusion of the recruitment process. At the end of this period we will contact you to obtain your consent to retain your personal data for an additional 6 months. If consent is granted, your personal data will be retained for this extended period for consideration in future or other job openings, if not - your personal data will be deleted.
+4. Will your personal data be disclosed or transferred to third parties?
+Your personal data may be disclosed to the following categories of third parties: (i) Keepit affiliates for recruitment coordination purposes (ii) IT service providers and hosting companies that support our recruitment process and IT systems. All third-party processors are bound by data processing agreements ensuring appropriate safeguards. For any transfers to third countries that do not benefit from an EU Commission adequacy decision, we implement appropriate safeguards such as EU standard contractual clauses to ensure adequate protection.
+We will not transfer your personal data to separate data controllers with the exception of (i) transfer of contact details to immigration authorities if you are a foreign candidate and we are legally required to do so cf. Article 6(1)(c) of the GDPR, (ii) transfer to governmental authorities (e.g. tax authorities, the police and other public authorities) when we reasonably believe it is required by law, regulation, court order, or a government request, or when necessary to safeguard the security and integrity of our services or protect our own rights cf. Article 6(1)(c) and Article 6(1)(f) of the GDPR.
+5. What rights do you have?
+You have the right to access the personal data we process about you, subject to certain statutory exceptions. You also have the right to object to the processing of your personal data and request that its processing is restricted. In addition, you have the right to request rectification, including completion if necessary or that your personal data is deleted subject to certain exceptions.
+In certain situations, you may also request that we provide you with a copy of your personal data in a structured, commonly used, and machine-readable format and request us to transmit such personal data which you have provided us with to another data controller.
+Any consent that you may have provided during the recruitment procedure may be withdrawn at any time. The withdrawal of your consent will affect the future processing of your personal data but will not affect the lawfulness of processing based on consent before its withdrawal. If you wish to withdraw a consent, you may contact us as stated below.
+6. Do you have questions, or would you like to exercise your rights?
+If you would like to exercise any of your rights, if you have any questions regarding this Privacy Policy for Keepit Job Applicants or the processing of your personal data, please contact us at dpo@keepit.com . You may always lodge a complaint with your local data protection authority. You can find the contact details for your local data protection supervisory authority at https://edpb.europa.eu/about-edpb/board/members_en.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/keepit-live-nyc-live-stream/
+Content type: Web page
+Last modified: 2025-03-20T19:21:48+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Resilience starts with intelligent choices
+Keepit is on a mission to bring intelligent resilience to the world. This is an exclusive opportunity to tap into the Resilience Strategy Summit NYC online.
+Join our live stream for exclusive access to expert insights and real-time discussions on how to connect, empower, and protect your critical data.
+| Sign up now
+Keepit Live Stream: Resilience Strategy Summit
+March 27, 2025 | 9:30 a.m.–12:00 p.m. EST  
+Sign up now to receive your exclusive live stream link
+Tune in live to:
+Hear from renowned security and risk analyst Heidi Shey on data security best practices
+Gain exclusive insights from an expert panel tackling today’s biggest IT resilience challenges
+Walk away with actionable strategies to strengthen your security posture—all from the comfort of your office
+Speakers
+Guest speaker
+Heidi Shey
+Principal Analyst, Forrester Research
+The SaaS data security imperative: Understanding risks, mitigating threats, and ensuring resilience
+In an era where data is more dynamic, dispersed, and targeted than ever, traditional security approaches are no longer enough. What defines critical data? How do organizations ensure SaaS data remains secure, compliant, and recoverable amid rising cyberthreats, regulatory pressures, and evolving business needs?
+Hear from guest speaker Heidi Shey, Principal Analyst at Forrester Research, as she breaks down the key components of a data-centric security strategy for SaaS environments. This session will explore:
+- How to define what data you need to protect
+- How to mitigate the risk behind threats and data loss scenarios unique to SaaS
+- What to consider in the selection and management of data security capabilities and controls
+Kim Larsen
+Chief Information Security Officer, Keepit
+A CISO’s look at strengthening cyber resilience and preparing for the future
+The interconnected nature of global cyberthreats makes it impractical to deviate from existing frameworks. Organizations can better prepare for upcoming national regulations and enhance protection against cyber risks through business continuity and data resilience. That’s why ensuring your organization has tamper-proof backups and effective disaster recovery capabilities is key to surviving infrastructure and data threats. Join Kim Larsen, CISO at Keepit and seasoned cybersecurity advisor with experience in NATO, the EU, and global corporations, for insights on data governance, regulatory compliance, and business continuity strategies.
+Michael Amsinck
+Chief Product and Technology Officer, Keepit
+Building a smarter, more resilient future: Our solution for intelligent resilience
+Resilience is no longer just about withstanding challenges — it’s about adapting, evolving, and thriving. Join us as we unveil our solution for intelligent resilience — leveraging AI, data-driven insights, and cutting-edge innovations to create more adaptive, secure, and sustainable solutions for the world. This session will provide an exclusive sneak peek at the future of data security.
+Panelists
+Niels Van Ingen
+Moderator
+SVP of Business Development and Strategy, Keepit
+Elizabeth "Liz" Carrizal
+IT Data Recovery Manager, NOV
+Ben Jenkins
+Area Vice Pesident - US, Canada & LATAM, Zerto
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/keepit-live/
+Content type: Web page
+Last modified: 2025-11-03T16:22:49+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Resilience starts with intelligent choices
+Keepit is on a mission to bring intelligent resilience to the world. Join us in a city near you. Together, we will connect, empower, and protect.
+| Sign up now
+NYC
+Keepit Live NYC: Resilience Strategy Summit 
+March 27
+This event has now taken place. Thanks to everyone who joined us!
+Lille
+Keepit Live Lille 
+April 1-3
+This event has now taken place. Thanks to everyone who joined us!
+San Francisco
+Keepit Live San Francisco  
+April 28–May 1 
+This event has now taken place. Thanks to everyone who joined us!
+Sydney
+Keepit Live Sydney 
+May 13–14 
+This event has now taken place. Thanks to everyone who joined us!
+Brussels
+Keepit Live Brussels 
+May 21–22 
+This event has now taken place. Thanks to everyone who joined us!
+London
+Keepit Live London 
+June 4 
+This event has now taken place. Thanks to everyone who joined us!
+Las Vegas
+Keepit Live Las Vegas 
+August 2–7 
+This event has now taken place. Thanks to everyone who joined us!
+Copenhagen
+Keepit Live Copenhagen 
+September 17 
+This event has now taken place. Thanks to everyone who joined us!
+Orlando
+Keepit Live Orlando 
+October 20–23 
+This event has now taken place. Thanks to everyone who joined us!
+Keepit Live Barcelona 
+November 10–13 
+Thank you for your interest in attending Keepit Live Barcelona during Gartner Symposium Barcelona. In addition to engagements at the Keepit booth, your registration ensures you priority access to exclusive experiences we're planning around the city.
+Join us and you will:
+Connect with fellow IT leaders
+Enjoy exclusive experiences
+Engage in meaningful conversations
+Expand your professional network with industry peers
+London
+Keepit Live London 
+November 17–18 
+Thank you for your interest in attending Keepit Live London during Gartner IOCS London. In addition to engagements at the Keepit booth, your registration ensures you priority access to exclusive experiences we're planning around the city.
+Join us and you will:
+Connect with fellow IT leaders
+Enjoy exclusive experiences
+Engage in meaningful conversations
+Expand your professional network with industry peers
+Las Vegas
+Keepit Live Las Vegas 
+December 9–11 
+Thank you for your interest in attending Keepit Live Las Vegas during Gartner IOCS Las Vegas. In addition to engagements at the Keepit booth, your registration ensures you priority access to exclusive experiences we're planning around the city.
+Join us and you will:
+Connect with fellow IT leaders
+Enjoy exclusive experiences
+Engage in meaningful conversations
+Expand your professional network with industry peers
+* Stay tuned for upcoming tour stops—more locations will be announced soon.
+Meet the innovators of intelligent resilience
+Morten Felsvang
+Co-founder
+Chief Executive Officer
+Frederik Schouboe
+Co-founder
+Chief Visionary Officer
+Kim Larsen
+Keepit
+Chief Information Security Officer
+Michael Amsinck
+Keepit
+Chief Product and Technology Officer
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/keepit-partner-day-poland/
+Content type: Web page
+Last modified: 2025-11-18T15:44:27+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Secure your SaaS data this holiday season and beyond
+Keepit delivers a next-level SaaS data protection platform designed for the cloud, offering robust security for your critical business data by storing it in a vendor-independent cloud.
+As the holiday season brings new challenges and increased risks, Keepit ensures your essential applications stay safe, boosts your organization's cyber resilience during this busy period, and future-proofs your data protection strategy so you can enjoy peace of mind and focus on what matters most.
+Keepit- immutable by design and always available, helping you stay resilient now and during the holidays.
+Please let us know if you will be attending the pre-Christmas dinner and drinks.
+Secure your spot
+Join us and you will:
+- Connect with fellow IT leaders
+- Engage in meaningful conversations
+- Expand your professional network with industry peers
+Event details
+Location: Keepit Krakow office
+Keepit Poland Sp. z.o.o.
+72 Dluga Street
+31-146 Krakow
+Poland
+Date: 
+December 9, 2025
+Time: 
+12:00 pm 
+Agenda
+12:00–13:00
+Registration, networking & light lunch
+13:00–13:20
+Welcome & introduction 
+13:20–13:40
+Customer presentation: Uniwersytet JagielloÅski
+13:45–14:20
+Ingram session: Securing Microsoft 365 – modern best practices
+14:20–15:00
+Keepit technical – product update & demo
+15:00–16:00
+Keepit partner update – strategy, roadmap, 2026 focus
+16:00–16:30
+Closing remarks & networking
+—
+17:00–20:00
+Pre-Christmas dinner and drinks
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/keepit-platform/
+Content type: Web page
+Last modified: 2026-03-30T22:38:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit’s platform is designed to make backup and recovery straightforward and intuitive. With fast setup, simple navigation, and seamless integration across all key applications, you can focus on what matters while ensuring your data remains secure, compliant, and easily recoverable — all with minimal effort.
+The ultimate SaaS data protection platform
+Keepit offers intelligent, end-to-end SaaS data protection with unmatched security, seamless integration, and flexible data retention built for modern enterprise needs.
+Intuitive and user friendly
+Effortless SaaS data protection
+Simplicity
+Get started in minutes with Keepit’s intuitive interface. Our platform requires no extensive training, enabling you to manage backups and restores without complexity or technical hassle.
+Speed
+Quickly locate and restore critical data with just a few clicks. Keepit’s platform is optimized for speed, allowing you to access the data you need without delay, so you can stay productive.
+Seamless SaaS integration
+Integrate Keepit effortlessly into your existing SaaS environments. Our platform is built to work with all the key applications, providing continuous protection with minimal setup time and effort.
+Secure, compliant, reliable
+The intelligent approach to compliance
+Keepit’s platform prioritizes cloud data integrity and compliance, providing an independent, immutable backup environment with flexible access control and retention options. From secure architecture to audit-ready logs, Keepit ensures your data remains protected, transparent, and aligned with all regulatory requirements. Now that's intelligent.
+Immutable by design
+With a resilient, independent cloud, Keepit secures data via immutability and an air-gapped architecture. Our platform safeguards against threats, ensuring that every backup is unalterable and protected.
+Intelligent data security
+Scalable for your evolving needs
+Keepit’s platform is engineered for the cloud, offering scalable, API-driven backup solutions designed to meet the demands of modern businesses. With intelligent recovery and enterprise-level adaptability, we ensure your data protection strategy stays aligned with your evolving SaaS environment.
+Purpose-built for the cloud
+Designed as a true cloud-to-cloud solution, Keepit eliminates legacy limitations. With seamless configuration and robust security, it simplifies data protection for an ever-evolving SaaS environment.
+API-only integration
+Keepit’s API-only architecture enables seamless integration. Access every feature as an API endpoint for easy configuration, provisioning, and management — flexibility that grows with your needs.
+Future-proof protection
+Designed for enterprise needs, Keepit’s platform provides intelligent recovery, data governance, and support for diverse SaaS workloads, ensuring your data protection scales as your business evolves.
+Platform features
+Quick and easy setup
+Keepit’s platform can be set up in just five minutes, regardless of your organization’s size. Easily create connectors, add or remove admins, and configure settings through an intuitive interface — making complex data management simpler.
+Instant search and granular filtering
+Find exactly what you need with Keepit’s granular search and filtering. From documents to emails, locate items with ease using inclusive filters by type, date, and size. Search across the connector and restore with one click to any destination or securely share access with secure, read-only links.
+Multiple restore paths, full control
+Keepit’s Restore Wizard offers flexible options, including in-place, cross-user, and granular restores. Recover entire datasets or specific files, choosing original or new locations. Easily handle duplicates and restore from any snapshot for fast, reliable recovery tailored to your needs.
+Comprehensive job monitoring
+Get real-time insights into your backup jobs with Keepit’s job monitor. View details on past, current, and scheduled jobs, with stats on each job’s size and status. Alerts notify you of issues, ensuring continuous protection without manual intervention.
+Role-based access controls
+Enhance security with Keepit’s Role-Based Access Control (RBAC). Assign roles for precise control over user permissions, ideal for enterprises with complex teams. Every department or subsidiary can securely manage access to their data.
+Proactive data monitoring
+Keepit’s Data Protection and Anomaly Detection Dashboards help maintain backup integrity and health and allow for early identification, investigation, and remediation of risks to data.
+Read the case study
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Read the case study
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+Read the case study
+âOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.
+Intelligent SaaS data protection
+Ready to learn more about the Keepit platform?
+Our vendor independence, broad coverage of services, fast recovery times, and dedication to security make us #1 in SaaS data backup. Built for the cloud, with simplicity and data security at the core of our identity.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/keepit-platform/ai-security/
+Content type: Web page
+Last modified: 2026-03-16T04:33:52+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+AI is the topic of the hour. Certainly, AI can bring many benefits and boost productivity, but as it evolves, so do the risks:
+- Automation can amplify mistakes
+- Agentic systems can change data at scale
+- Threat actors magnify their reach and the effectiveness of their attacks
+- Visibility and control are reduced, leading to governance issues
+Keepit helps IT and Security leaders mitigate these challenges.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/keepit-platform/responsible-ai/
+Content type: Web page
+Last modified: 2026-03-16T04:27:51+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+AI is the topic of the hour. Certainly, AI can bring many benefits and boost productivity, but as it evolves, so do the risks:
+- Automation can amplify mistakes
+- Agentic systems can change data at scale
+- Threat actors magnify their reach and the effectiveness of their attacks
+- Visibility and control are reduced, leading to governance issues
+Keepit helps IT and Security leaders mitigate these challenges.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/m365-demo/
+Content type: Web page
+Last modified: 2025-06-06T00:32:40+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Oops! Mistakes hurt
+Mistakes happen every day. Your users and administrators have access to your most vital data, and one accidental deletion means losing the critical data you rely on the most. A reliable Microsoft 365 backup helps you recover quickly from human error.
+Security threats
+Data loss from security breaches, such as ransomware and malicious deletion, will lead you to lose access to your data. Without a Microsoft 365 backup in place, your SaaS data can be lost forever.
+Access is key to compliance
+To comply, you need uninterrupted access to your data, and any data loss or disruption, such as Microsoft service outages, may lead to failures to comply. With Keepit, it’s easy.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/march-madness-0326/
+Content type: Web page
+Last modified: 2026-01-31T15:57:28+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Location
+WeWork 
+30 Churchill Place, Canary Wharf 
+What you’ll gain 
+- Real partner stories and customer cases that inspire new business 
+- Clear insight into why Keepit is a solid, long-term business partner 
+- Practical enablement to help you grow pipeline, impact, and confidence 
+- A strong community experience — with Keepit as the facilitator 
+What to expect 
+PEX is part of a new regional event series — each session is built around innovation, inspiration, collaboration, and shared growth. 
+Agenda
+13:45-14:00â¯ Registration
+14:00-14:20  Welcome and introduction — Keepitâ¯partner update, strategy 2026 focus — Alex Walsh, VP Channel, Keepitâ¯ 
+14:20-14:40â¯ UKI sales strategy update — Dan Middleton, VP UKI Sales   
+14:40-15:00â¯ How to utilise the Keepit SDR team within your organisation — Rob Mitchell, SDR Manager UKI  
+15:00-15:20  Alignment with your Keepit marketing team — Emilie Daly, Senior Marketing Manager, UKI 
+15:30  Break and networking  
+16:00-16:40â¯  One ecosystem, three perspectives: How best to make the customer–partner–vendor collaboration work — Dan Middleton, VP UKI Sales and special guests  
+16:40-17:00â¯  Keepitâ¯technical: Product roadmap update and Q&A — Neil Rawlins, SE Manager, UKI  
+18:00-21:00â¯  The Ivy, Canary Wharf — networking and refreshments â¯
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/microsoft-ignite-2024/
+Content type: Web page
+Last modified: 2024-11-12T13:31:52+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Meet Keepit at Microsoft Ignite 2024
+Take control of your SaaS data protection. Ensure confidence in your resilience.
+Meet us at booth #441 RIGHT
+Enjoy exclusive on-site activities at our booth, including a product demo, insights from industry experts, and meeting our team.
+Venue information
+McCormick Place West Building | 2301 S. Indiana Ave, Chicago IL
+Book a meeting with Keepit
+We use Keepit to back up everything from Office 365. Whether it is Exchange, OneDrive, SharePoint, or Azure AD, Keepit has us covered.
+It helps us address the risk of data loss, therefore making us compliant to GDPR. Gives IT managers a goodnight sleep knowing any lost data can be easily retrieved.
+Excellent All Round Backup, Easy To Setup And Administer - Well Priced
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/microsoft-preview-program/
+Content type: Web page
+Last modified: 2025-07-02T13:58:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit is excited to integrate our award-winning platform with Microsoft 365 Backup Storage. As a long-time ISV partner of Microsoft, we believe integrating Microsoft 365 Backup Storage with Keepit’s mature, proven platform will deliver unmatched value.
+In this preview program, you'll have the opportunity to collaborate with our product team, review and give feedback on prototypes and user stories, and provide feedback on the integrated product.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/modern-slavery-and-human-trafficking-statement/
+Content type: Web page
+Last modified: 2025-06-13T21:03:33+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Modern Slavery and Human Trafficking Statement
+Last updated: June 2025
+This Modern Slavery and Human Trafficking Statement (“Statement”) is made pursuant to section 54 of the UK Modern Slavery Act 2015 for the financial year ended 30 September 2023. It describes Keepit’s actions to ensure that slavery and human trafficking do not occur in our supply chains or any part of our business operations.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/nyc-rooftop-0513/
+Content type: Web page
+Last modified: 2026-04-30T15:11:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+NYC Rooftop Happy Hour with Keepit and Aspire
+May 13, 2026 | 230 Fifth Rooftop Bar
+Join us for a sky-high happy hour at the iconic 230 Fifth Rooftop Bar on May 13th from 4–7 PM ET.
+Come raise a glass (or two) with Keepit and Aspire as we take networking to new heights, literally. Expect refreshing drinks, tasty bites, and SaaSy conversations all while taking in those big apple views.
+Spots are limited, so don’t delay. Let’s make it a rooftop to remember!
+Secure your spot
+Event details
+ð
+ Date: Wednesday, May 13, 2026
+â° Time: 4:00 – 7:00 PM ET
+ð Location: 
+230 Fifth Rooftop Bar, 1150 Broadway 
+NYC, NY 10001
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/p1-tech-marchmadness/
+Content type: Web page
+Last modified: 2026-02-20T17:32:52+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Buckets and backups at Topgolf
+Join us for a March Madness watch party on March 19 | Topgolf El Segundo
+Where brackets, birdies, and backups stay in play.
+P1 Technologies and Keepit invite you to Topgolf on March 19 to catch the NCAA tournament, support your alma mater, and enjoy an afternoon of Buckets and backups.
+Watch the games, take a few swings, and join us for food, drinks, and casual conversation around SaaS backup strategies.
+Why attend?
+- Powerful SaaS backup strategies
+- Protecting Microsoft 365, Entra ID, Jira, Confluence, and more
+- Avoiding downtime from accidental deletion or ransomware
+Secure your spot
+Event details
+Agenda
+4:00 p.m. – Arrival and sponsor introductions  
+4:15 p.m. – Sports and networking 
+6:30 p.m. – Wrap Up with closing remarks and thank you
+When:
+March 19, 4:00 pm
+Where:
+Topgolf El Segundo  
+400 Pacific Coast Hwy, El Segundo, CA 90245
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/phishing-report/
+Content type: Web page
+Last modified: 2024-10-25T17:40:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+ð You have clicked on a simulated phishing test
+Tip 1
+Did something feel suspicious? Have you checked the sender's address? Have you spotted any differences?
+<microsoftadmin@keeepit.com>
+Tip 2
+Red flag missed. It seems like you missed something. The sender's domain looked similar to ours, but it is different. 
+Always check the sender's email address for small, but critical differences that can lead you to a malicious destination and cause major problems for Keepit. 
+Tip 3
+When in doubt, throw it out! If you have doubts, report any suspicious email and our team will help you.
+Reach us by email: Phishing@keepit.com
+â ï¸ Stay alert for more simulations in the future. These lessons also apply to your personal cyber protection routine outside of work.
+If you want to lean more, please read our brochure "Phishing: What to do?"
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/pricing/
+Content type: Web page
+Last modified: 2025-08-08T22:11:59+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Easy to budget.
+Transparent pricing.
+No surprises.
+- No hidden costs
+- Scale with ease
+- 163% ROI
+Business Essentials
+Ideal for smaller IT organizations and companies with limited retention requirements.
+Business Essentials includes:
+- Data retention - 1 year
+- SSO and MFA
+- Audit log
+Enterprise Unlimited
+Ideal for companies with larger IT organizations and extended retention requirements
+Enterprise Unlimited includes everything in Business Essentials, plus:
+- Data retention - unlimited
+- Full API support
+- 24/7 support
+Governance Plus
+Ideal for organizations in highly regulated sectors with stringent compliance needs
+Governance Plus includes everything in Enterprise Unlimited, plus:
+- Regulatory letters and amendments
+- Adjusted Data Processing Agreement (DPA)
+Explore our SaaS apps
+Benefit from bundle discounts.
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Comprehensive coverage: Groups and Teams, OneDrive, SharePoint, and Exchange Online
+Mass Restore - Restore wizard
+PST Download
+Multi-Geo Support
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+Entra ID
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Users, Groups, Role Assignments, Admin Units
+Audit logs
+Sign-in logs
+Enterprise apps, App registrations, Conditional access policies
+Intune device compliance policies and device configuration profiles
+BitLocker key protectors
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+Power Platform
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Power BI workspaces, capacities, and reports
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+Salesforce
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Salesforce Sales Cloud and Commerce Cloud support
+Support for standard and custom object types, files, and attachments
+Sandbox backup and restore with anonymization
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+Google Workspace
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Gmail, Google Drive, calendar, and task data for selected users
+Tenant-wide shared Google Drives
+Google Forms data
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+Dynamics 365
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Entities and data for Dynamics 365 for Sales, Customer Service, Field Service, Project Service Automation, and Marketing
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+Azure DevOps
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Azure Boards
+Azure Pipelines
+Azure Repos
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+Zendesk
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Tickets, views, users, groups, and organizations
+Automations, macros, and triggers
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+Confluence
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+General
+General: Users (backup only)â, Groups, Group members, Templates, Blueprints
+Pages
+Pages: Pagesâ, Page restrictionsâ, Page contentâ, Child pagesâ, Footer comments and replies, Inline comments and replies (backup only)â, Attachments
+Spaces
+Spaces: Spacesâ, Permissionsâ, Propertiesâ
+Blog Posts
+Blog Posts: âBlog postâ, Version historyâ, Restrictionsâ, Contentâ, Content version historyâ, Custom contentâ, Footer comments and version historyâ, Replies to footer content and version historyâ, Inline comments and replies (backup only), Inline comments version historyâ, Attachmentsâ, Attachments version historyâ
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+Jira
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Projects & Configurationâ
+Projectsâ: Avatar, Componentsâ, Categoriesâ, Featuresâ, Rolesâ, Versionsâ
+Requests (backup only)
+Screensâ: Tabsâ, Tab fieldsâ, Screen schemesâ
+Issues & Related Data
+Issueâ: Attachmentsâ, Commentsâ, Fieldsâ, Field configurationsâ, Field configuration schemesâ, Linksâ, Link typesâ, Prioritiesâ, Remote linksâ, Resolutionsâ, Security schemesâ, Typesâ, Type schemesâ, Type screen schemesâ, Issue votes (backup only)â, Watchersâ, Work logsâ
+General
+General: Sprintsâ, Boardsâ, Dashboardsâ, Plans (roadmaps)â, Filtersâ, Permission schemesâ, Notification schemesâ, Priority schemesâ, Statusesâ, Service desk organizationsâ, Users (backup only)â, Groupsâ, Time trackingâ, Compass components (backup only)
+Workflows
+Workflows: Workflowsâ, Workflow schemesâ, Workflow schemes drafts (backup only)â
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+Jira Service Management
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Projects: Components, Form templates, Organizations, Avatar, Properties, Issues, Work types, Roles, Queues*, Requests, Request types, Versions
+Assets: Global Statuses, Global Icons*, Object Schema, Object Types, Object Attributes, Objects, Schema Statuses
+Requests: Request, Request Attachments, Request Comments, Request Remote Links, Request Votes*, Request Watchers, Request Participants, Request Worklogs, Child Requests, Linked Requests, SLAs*
+Issues: Issue, Issue Attachments, Issue Comments, Issue Remote Links, Issue Votes*, Issue Watchers, Issue Worklogs, Child Issues, Linked Issues
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+Okta
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Security & Governance
+Securityâ: Enabled Factors*â
+Policiesâ: Definitionâ, Policy Typesâ, Rulesâ, Group Relationsâ, App Relations (IE)â
+Network Zonesâ: Definitionâ
+Applications & Integrationsâ
+Applicationsâ: Definitionâ, Usersâ, App User Schema, Groupsâ, App Grants (Scopes)â, SSO SAML metadata*â, Application Provisioning Definitionâ, Application Provisioning Featuresâ, Client Definitionâ, Client Role Assignmentsâ, Client JSON Web Keysâ, Client Secretsâ
+API service integrationsâ: Definitionâ, Integration Secrets
+Customizationsâ: SMS Template Definition*â
+âIdentity & Access Managementâ
+Usersâ: Definitionâ, Role Assignmentsâ, Groupsâ, Appsâ, Clients*â, Application links*, Linksâ, Linked Objectsâ, User types definitionsâ
+Groupsâ: Definitionâ, Role Assignmentsâ, Membersâ, Appsâ, Group rulesâ, Group schema
+Authenticatorsâ: Authenticators Definition (IE)*â, Authenticators Methods (IE)*â
+Identity Providersâ: IdP Definition*â, IdP Users*â, IdP Key Credentials*â
+Attributes Mappings (IE)*â
+Platform Management
+Organizationâ: Metadata*â, Settingsâ, Org Contactsâ, Third-party Admin Settingsâ, Default Public Client App Role, Settingsâ, Rate Limit Admin Notification, Settingâ, Per-Client Rate Limit Settingâ, Rate Limit Warning Threshold, Percentageâ
+Administrationâ: Resourcesâ, Resources setsâ, Custom Role Definitionsâ, Customer Role Permissionâ
+âGeneralâ: Thread Insight Configâ, Related IP Zonesâ, Org-wide CAPTCHA Settings (IE)*â, CAPTCHA Instances (IE)*â, User lockout settingsâ, Authentication settings (IE)ââ
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+Docusign
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Accounts* (*Backup only)
+Envelopes: Envelope status*, Comments*, Custom fields*, Documents*, Certificates*, Envelope metadata*, Recipients* (*Backup only)
+Templates: Templates**, Comments, Custom fields, Documents, Certificates, Template metadata, Tabs (**Restore of full template)
+Global users (across accounts): User data, Basic info
+Account users: User data, Basic info
+User groups: User groups, Membership
+Signing groups: Signing groups, Membership
+Permission profiles: Permission profiles, Membership
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+BambooHR
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Employee data: Employee ID, Name, Surname, Email, Address, Employee tables, Employee files, Time off requests and registrations, Time off account balance
+Company data: Company tables, Company fields, Company files, Time off types, Time off policies
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+Miro
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Teams: Boards, Spaces, Members, Settings
+Boards: Members, Connectors, Frames, Groups, Items, Tags
+Spaces: Boards, Members, Settings
+Board items: App cards, Cards, Documents, Embeds, Formats, Images, Shapes, Sticky notes, Texts
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+GitHub
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Git Repository: Blobs and trees, References, Branches, Commits, Tags
+Planning and projects: Teams
+Repositories and configurations: Repository settings, Repository collaborators
+Collaboration and Documents: Pull requests
+Metadata and other: User
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+monday.com
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Account metadata
+Boards: Definition, Groups, Items (text in data cells), Items/files (binary data in cells), Items/files (links in cells), Items/subitems, Members
+Products / Workspaces: Members, Folders, Boards
+Users: Definition, Teams, Photo
+Teams: Members, Workspaces, Boards, Photo
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+Autodesk Forma
+Business
+Essentials
+Enterprise
+Unlimited
+Governance
+Plus
+Users: User definitions, User Projects, Project memberships, Roles, Products
+Companies: Definitions, User mappings, Projects mappings
+Products / Workspaces: Definitions, Sheets, Sheet collections, Sheet versions, Files and folders, Packages, Issues, Issue comments, Issue attachments, Issue settings, Templates, Transmittals
+Data Retention
+1 Year
+Unlimited
+Unlimited
+Data Storage - Hot storage only
+Unlimited
+Unlimited
+Unlimited
+Data Traffic – No egress, ingress or transaction fees
+Unlimited
+Unlimited
+Unlimited
+Data Storage Regions - Americas, EU, EMEA, APAC
+Any
+Any
+Any
+Automated Daily Backup
+Independent, Off-Site Backup Location
+Data Redundancy - 4 copies in 2 data center locations
+eDiscovery / Search
+Granular Search - Across all snapshots
+Immutable Blockchain-Verified Storage Technology
+Instant Restore – In-place, bulk, cross-user, and to-folder restore
+High Degree of Granularity Restore
+Point-in-Time Restore - "Time machine"
+Data Export
+Activity Log - Including deletions
+Secure Preview
+Instant Secure Sharing
+Early Snapshot Expiration Prevention
+Free for Inactive Users - E.g ex-employees
+Integration with Security Information and Event Management (SIEM)
+Secure integrations with AI services
+Data Protection dashboard
+Data Monitoring dashboard
+Data Monitoring with Anomaly Detection dashboard
+Full API Support for Third-Party Integration
+Data Encryption at Rest and In-Transit
+Regular Penetration Testing
+Single Sign-On (SSO)
+Multifactor Authentication (MFA)
+Right-to-be-Forgotten (RTBF)
+Detailed Job Monitor and Notifications
+Role-Based Access Control
+Audit Log
+Custom Role-Based Access Control
+Standard Terms of Service
+Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
+Local Authorities Audit Right
+Adjusted Data Processing Agreement (DPA)
+Support Tiers
+Essential Support
+24/7 Enterprise Support
+24/7 Enterprise Support
+Support Hours
+Standard Business Hours
+24/7
+24/7
+Support Channel
+Phone
+Email
+Phone
+Email
+Target Response Time
+Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
+Personalized Onboarding Services
+One-to-one session (online)
+One-to-one session (online)
+One-to-one session (online)
+Access to Keepit Support Site
+Access to Advanced Resources
+Quarterly Business Review
+Named Customer Success Manager
+on offboarding and restore efficiencies in one year
+Trusted by 1,000s of customers
+Our everyday is busy enough with keeping everything up and running. Keepit's solution does its job in the background so that we can focus on other tasks.
+Ken Schirrmacher
+Sr. Director of IT/Interim CIO at Park’N Fly
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/qb-camp-experience/
+Content type: Web page
+Last modified: 2025-06-04T00:31:12+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+All-Access. All-In. One Day Only.
+Join us for a once-in-a-lifetime opportunity to step inside the huddle with NFL quarterback Jordan Love and elite QB coach Steve Calhoun — at one of the nation’s premier youth football camps.
+Where: Western High School, Anaheim, CA
+When: June 21, 2025 - please arrive by 7:30 a.m.
+The meet and greet with Jordan Love will take place from 8 to 8:45 a.m. All activities after that are optional and will wrap up around noon.
+This VIP experience isn’t just about watching from the sidelines. It’s about being part of the action, supporting the next generation of athletes, and getting unfiltered access to the heart of the game.
+- Exclusive meet & greet with NFL QB Jordan Love
+- Chance to win signed footballs
+- Bring a guest - kids welcome
+- Snacks and drinks provided
+- VIP swag bag for every attendee
+Whether you're a football fan, looking for a unique experience, or someone who wants to make a real impact — this is your moment.
+Space is extremely limited, and submitting your registration does not guarantee a spot. We’ll follow up shortly to confirm your attendance.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/rbc-event-0226/
+Content type: Web page
+Last modified: 2026-02-09T18:36:56+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Boots, hats, and backups
+Join us at Republic Boot Company on February 10 | Houston
+We're currently at full capacity. We really appreciate your understanding and hope to connect at a future event.
+Event details
+Agenda
+4:00 p.m. – Arrival 
+4:15 – Sponsor introductions 
+4:30 – Shopping and networking 
+7:00 p.m. – Wrap up
+When:
+February 10, 4:00 pm
+Where:
+Republic Boot Company
+1133 E. 11th Street, Houston, TX 77009
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/request-demo/
+Content type: Web page
+Last modified: 2026-04-22T13:17:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Intelligent resilience. Total control. Instant recovery.
+- Learn how to protect your SaaS data
+- Explore real-life examples for your team
+- Get pricing information
+Intelligent resilience. Total control. Instant recovery.
+Book a demo with Keepit
+Read the case study
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Read the case study
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+Read the case study
+âOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resilience-consult/
+Content type: Web page
+Last modified: 2026-06-01T20:53:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Is your SaaS backup strategy truly resilient?
+Let’s find out — in just 15 minutes.
+Request a short, personalized consultation with a Keepit team member. We’ll assess how prepared your current SaaS backup approach is for recovery, compliance, and ransomware threats — and offer next-step recommendations tailored to your environment.
+Reserve your 15-minute consultation:
+Why Keepit?
+Read the case study
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Read the case study
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+Read the case study
+âOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/salesforce-demo/
+Content type: Web page
+Last modified: 2026-04-22T10:25:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Having everything backed up in one place just makes sense.â¯ As ourâ¯techâ¯stack grows, we know Keepit can grow with us.
+Discover how simple it is to protect your Salesforce data with Keepit.
+Independent cloud storage, flexible restore options, top notch security.
+- Learn how to protect your Salesforce data
+- Explore how easy it is to connect and restore
+- Get pricing information
+Book a demo with Keepit
+Read the case study
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Read the case study
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/salesforce-request/
+Content type: Web page
+Last modified: 2026-06-01T20:56:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Read the case study
+Having everything backed up in one place just makes sense.â¯ As ourâ¯techâ¯stack grows, we know Keepit can grow with us.
+Talk to your account manager to learn how Keepit for Salesforce delivers granular, instant restore of data and metadata, and unlimited sandbox seeding — all within a single platform designed to scale with your Salesforce and SaaS environments.
+Please fill out the form and we will respond to you directly.
+Book a meeting with Keepit
+Read the case study
+Having everything backed up in one place just makes sense.â¯ As ourâ¯techâ¯stack grows, we know Keepit can grow with us.
+Read the case study
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Read the case study
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/search/
+Content type: Web page
+Last modified: 2024-04-25T09:26:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+When the cloud goes dark: Resilience lessons from hybrid threats
+Read customer case
+Read the report
+Watch on-demand
+Watch now
+Download whitepaper
+Register now
+Careers at Keepit
+Find a partner
+results for
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/service-guide/
+Content type: Web page
+Last modified: 2026-06-16T14:19:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Service Guide
+Below, you can find information about Keepit's Service Guide. In our Service Guide, you will find documents that serve as a guide to understanding the delivery of Keepit's dedicated SaaS data protection solutions for customer on a termed and consumption subscription model.
+Termed Service Guide
+Last updated April 2026
+This link contains the Service Guide for all termed customers for the delivery of Keepit's dedicated SaaS data protection solutions.
+Consumption Service Guide
+Last updated June 2026
+This link contains the Service Guide for all consumption customers for the delivery of Keepit's dedicated SaaS data protection solutions.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/spurs-thunder/
+Content type: Web page
+Last modified: 2025-12-01T20:20:50+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Don’t let your data get benched
+Join us for Thunder vs. Spurs on January 13 | Oklahoma City
+Great basketball and strong data protection have one thing in common: every play counts.
+Keepit and Alchemy invite you to join us for an exclusive night out as we bring together IT leaders for a game-night experience built around connection, conversation, and resilience — both on the court and in the cloud.
+Why attend? A great matchup — and meaningful conversation around:
+- Powerful SaaS backup strategies
+- Protecting Microsoft 365, Entra ID, Jira, Confluence, and more
+- Avoiding downtime from accidental deletion or ransomware
+Secure your spot
+Event details
+Agenda
+5:00 p.m. – Arrival and happy hour 
+5:30 – Doors open 
+6:30 – Walk to Arena West Entrance and take seats 
+7:00 – Tipoff: Thunder vs. Spurs 
+When:
+January 13, 5:00 pm
+Where:
+Bob’s Steak & Chop House, located inside the Omnia Hotel 
+100 Oklahoma City Blvd, Oklahoma City, OK 73109
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/terms-of-service/
+Content type: Web page
+Last modified: 2025-04-15T23:43:37+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Terms of Service
+Last updated: February 2024
+This link contains our terms of service and is our legally binding contract that we enter with our customers which govern the use of our cloud backup services.
+This link contains our terms of service and is our legally binding contract that we enter with our customers which govern the use of our cloud backup services.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/terms-of-use/
+Content type: Web page
+Last modified: 2025-02-23T21:08:09+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Terms of Use
+This website described who we are and what we offer at Keepit A/S including our subsidiaries.
+Please read this disclaimer before using this website. By using this website, you accept the terms and conditions set out in this disclaimer.
+Terms and conditions
+You may download material displayed on this website for non-commercial, personal use only provided you respect and keep intact all copyright, trademark and other proprietary notices contained on the materials. You may not copy, reproduce, republish, upload, post, transmit or distribute in any way the contents of this site including the text, images, audio and video for either public or commercial use or communication, without prior written permission from Keepit A/S.
+The trademarks and logos displayed on this website, are trademarks of Keepit A/S. Nothing contained on the website may be construed as granting by implication, estoppel, or otherwise any license or right to use any of the trademarks displayed on this website without prior written permission of Keepit A/S.
+The content of this website is protected by copyright laws and is the property of Keepit A/S.
+Any comments or materials sent to this website or otherwise to Keepit A/S regarding this site will be treated as non-confidential and may be used without any limitations or payment by Keepit A/S and shall be considered its property upon receipt.
+Keepit A/S shall not be liable for any loss, damage or injury whether direct, indirect, incidental or consequential, arising out of access to, use of or reliance on any information provided on this website. The same goes for any website to which this website is linked. This limitation includes damages of any viruses, which may affect your computer equipment.
+Keepit A/S disclaims any control over, relationship with, or endorsement of websites to which this website is linked.
+Everything on this website is provided on an 'As is' and 'As available' basis without any warranties or representation, either expressed or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose or infringement. By using this website, you accept the risk that the information may be incomplete or inaccurate or may not meet your needs or requirements.
+This disclaimer and the contents of this website shall be governed exclusively by Danish Law without regard to its conflict of law rules and any dispute arising out of or in relation to this Disclaimer shall, if it cannot be solved amicably, be decided solely by the Danish Courts in Copenhagen, Denmark.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/twentythree-embed-testing/
+Content type: Web page
+Last modified: 2025-02-14T14:27:16+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+While you may think your SaaS provider offers backup and recovery, that's actually your responsibility. Future-proof your data protection and ensure compliance with Keepit’s independent cloud. Your SaaS data remains resilient and accessible 24/7.
+Make the intelligent choice
+Independent cloud for resilience and recovery
+Make the intelligent choice
+Independent cloud for resilience and recovery
+While you may think your SaaS provider offers backup and recovery, that's actually your responsibility.
+Future-proof your data protection and ensure compliance with Keepit’s independent cloud. Your SaaS data remains resilient and accessible 24/7.
+Make the intelligent choice
+Independent cloud for resilience and recovery
+While you may think your SaaS provider offers backup and recovery, that's actually your responsibility.
+Future-proof your data protection and ensure compliance with Keepit’s independent cloud. Your SaaS data remains resilient and accessible 24/7.
+Make the intelligent choice
+Independent cloud for resilience and recovery
+While you may think your SaaS provider offers backup and recovery, that's actually your responsibility.
+Future-proof your data protection and ensure compliance with Keepit’s independent cloud. Your SaaS data remains resilient and accessible 24/7.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/use-cases/
+Content type: Web page
+Last modified: 2025-07-04T13:55:29+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Instant access, fast recovery. Any data loss can be disruptive, but with our granular data recovery and multiple restore options, you can get data back comprehensively and quickly with hot data storage, reducing negative impact to operations.
+“We are restoring missing data on a daily basis, and Keepit makes it possible for a single admin to manage the data of 1,500 users.”
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/use-cases/performance-tour/
+Content type: Web page
+Last modified: 2025-04-22T15:30:41+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Our storage and security design principles are guided by building software for high scalability, fast access, and securely storing vast amounts of data. Keepit’s architecture gives Keepit and our customers a fundamental edge with storage of backup data in two separate, mirrored locations.
+- Designed from the ground up as a cloud-to-cloud backup and recovery service
+- Built to provide you with instant online access to everything, from everywhere, at any time
+- Keep a close eye on SaaS data across multiple workloads — in one simple dashboard
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/use-cases/security-tour/
+Content type: Web page
+Last modified: 2025-04-22T15:28:15+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Cyberattacks hit fast. Reputations years in the making can be undone instantly. Our hallmark security protects your SaaS data — and your company — now and into the future. Benefits of the Keepit SaaS platform:
+- The simplest way to secure your critical SaaS data
+- Layers of security, including SSO and MFA
+- Keepit is ISO/IEC 27001:2013 certified, meeting the most demanding regulatory requirements
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/use-cases/usability-tour/
+Content type: Web page
+Last modified: 2025-04-22T15:29:09+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Simplicity is not a given when it comes to enterprise software. But we know that customers are demanding simple solutions that are easy to use and understand. Every single day, our engineers ensure that the complex is made it easy for you when you interact with Keepit.
+- Instant access, fast recovery
+- Audits made easy
+- Save hours offboarding and restoring users
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/vendor-evaluation/
+Content type: Web page
+Last modified: 2026-01-06T19:28:08+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Request for information (RFI) template
+Vendor evaluation for SaaS backup and recovery
+Vendor evaluation can get tedious
+Selecting the right SaaS backup and recovery vendor isn’t always straightforward — and comparing vendors side by side can quickly get messy. That’s why we’ve built a structured RFI (request for information) template that guides your evaluation process and helps you move from conversation to clear decision.
+This template includes a full list of questions, so you’ll be able to collect responses, compare capabilities objectively, and see who’s truly ready to support your resilience goals. Whether you’re evaluating one vendor or several, this template makes it easy to score each response and highlight strengths, gaps, and risks — so conversations turn into confident choices.
+Download the RFI template to:
+- Assign scores and compare vendors side by side
+- Align internal teams around clear evaluation criteria
+- Use a format that’s ready for procurement conversations
+- Choose a partner you can trust to support your resilience
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/why-keepit/
+Content type: Web page
+Last modified: 2026-01-08T22:54:01+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Built for resilience, Keepit’s independent data centers provide unmatched SaaS data protection with no-transfer guarantees, ensuring your data remains secure, irreversible, and readily restorable. Keepit’s foundational Merkle tree architecture enables immutable memory to safeguard your data as your organization explores efficiency tools, such as AI, by protecting data across critical SaaS applications. With Keepit you have peace of mind.
+Resilience starts with intelligent choices
+Keepit's independent cloud is purpose-built to provide intelligent resilience and recovery. Keep your mission critical SaaS applications and AI deployments secure. Maintain confidence, compliance, and control. That’s intelligent.
+What is intelligent SaaS data protection?
+Future-proof, secure, effortless
+Future-proofing to ensure control
+Unparalleled architecture
+The breadth and depth of our portfolio of supported workloads is only part of the story. Keepit’s commitment to epistemic integrity is embedded in the very architecture of its platform. Purpose-built for agility and uncompromising security, the Keepit Platform empowers organizations to maintain full control of their data amid the rise of emerging technologies—and to keep their most critical applications protected across every stage of AI adoption.
+Business continuity, always
+Vendor-independent SaaS data protection
+Keepit’s independent cloud aligns with the 3-2-1 backup rule and the NIST framework by storing backups separately from your primary data. Unlike other solutions, we keep your data out of the SaaS vendor’s cloud, ensuring uninterrupted access and protection, even during SaaS vendor downtime.
+Effortless recovery, every time
+Intuitive interface and easy access
+With Keepit, recover critical data or pinpoint specific files in seconds. Our intuitive interface requires no training, allowing you to locate, preview, and restore data with just a few clicks. With our API-only architecture, seamlessly integrate with your systems for instant access to data recovery and management. 
+Compliance made simple
+Streamlined regulatory support
+Keepit simplifies compliance for internal policies and global regulations, offering confident SaaS data protection aligned with GDPR, NIS2, NIST, and more. Our platform supports data retention, continuity, and audit readiness across core SaaS apps, helping you meet regulatory demands while safeguarding critical data in one platform.
+Unlimited data, predictable pricing
+Per-seat, transparent cost model
+Keepit’s flat, per-user pricing includes unlimited always-hot data storage, ingress/egress, and retention. With no hidden fees, budget confidently with volume discounts and bundle offers that scale with your needs, delivering strong ROI, SaaS license cost avoidance, and future-proof protection.
+Certified for total confidence
+Industry-leading security
+Keepit meets the highest security standards with ISO 27001 certification across all locations and annual ISAE 3402-II certification. Our unique cloud-native design protects your data with immutability and ransomware resilience, ensuring it remains secure, trusted, and accessible whenever you need it.
+Predictable pricing with positive ROI
+Keepit maximizes ROI by protecting your SaaS data and streamlining operations. Enjoy predictable pricing, reduced SaaS license costs, and significant time savings.
+Ransomware recovery benefits
+$286,052
+Reduced SaaS licensing costs
+$122,727
+On-premises backup cost avoidance
+$54,444
+What makes Keepit the intelligent choice for data protection?
+Independent cloud: Keepit’s vendor-neutral cloud stores backup data separately from SaaS providers.
+Granular restore capabilities: Instantly recover critical files or entire datasets with precision.
+Secure platform architecture: Built on a robust, cloud-native design with AES-256 encryption for data protection.
+End-to-end certifications: ISO 27001, ISAE 3402, and GDPR-compliant, ensuring the highest security standards.
+Ransomware resilience: Immutable backups provide cyber resilience against ransomware attacks.
+Archiving and data retention: Flexible retention policies and archival options for long-term data needs.
+Compliance simplified: Supports GDPR, NIS2, NIST, and more, making regulatory adherence easy.
+Broad SaaS app support: Backup and recovery for Microsoft 365, Entra ID, Salesforce, Google Workspace, and more.
+Predictable pricing model: Flat, per-user pricing with no hidden fees or added costs.
+Future-proof data protection: Scales with your needs, ensuring ROI, operational efficiency, and adaptability over time.
+Industry-leading support: Global support ready to assist whenever you need it.
+Read the case study
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Read the case study
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+Read the case study
+âOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/why-keepit/roi-calculator/
+Content type: Web page
+Last modified: 2024-09-12T15:58:12+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+To identify cost savings and business benefits of the Keepit SaaS platform, Keepit has commissioned Forrester Consulting to conduct “The Total Economic Impact™ of Keepit Dedicated SaaS Data Protection” study.
+Disclaimer: The underlying financial model for this ROI calculator has been commissioned by Keepit and delivered by Forrester Consulting based on its Total Economic Impact™ methodology. Keepit has created this tool and Forrester has not verified it for accuracy or certified its results. Although great care has been taken to ensure the accuracy and completeness of the model used in this tool, Keepit and Forrester are unable to accept any legal responsibility for any actions taken on the basis of the information contained herein. The tool is provided ‘AS IS’ and Keepit and Forrester make no warranties of any kind.
+
+------------------------------------------------------------

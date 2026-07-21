@@ -1,0 +1,31 @@
+Source URL: https://www.keepit.com/help/platform-category/create-edit-or-delete-a-keepit-user/
+Content type: Web page
+Last modified: 2026-06-23T22:41:43+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create, edit, or delete a Keepit user
+Master Admins or users with the required permission can add, edit, and delete users. There is no limitation to the number of users that are created.
+To create a user with a custom user role, click here.
+Create a new user
+1. In the lower-left corner, select the account profile > Account info.
+2. Go to the Users tab and click the + icon in the toolbar.
+3. Enter a username and email, configure the advanced settings, and then click Next.
+- Send activation email: Leave this option enabled if you want the user to receive an email with a set password link. If you disable this option, you must enter a password.
+- Set an expiration date: Enable this option if you want the user to to have an expiration date.
+4. Select a predefined role and click Next.
+For a list of available user roles, click here.
+5. Select which connectors the user should have access to, and then click Next.
+6. Review the user details and settings, and then click Create.
+Edit a user
+1. In the lower-left corner, select the account profile > Account info.
+2. Select the Users tab.
+3. Point to the user and click the gear icon.
+4. Edit the user information.
+5. Select Update.
+Delete a user
+1. In the lower-left corner, select the account profile > Account info.
+2. Select the Users tab.
+3. Point to the user and click the trash can icon.
+4. Select Delete to confirm the deletion.

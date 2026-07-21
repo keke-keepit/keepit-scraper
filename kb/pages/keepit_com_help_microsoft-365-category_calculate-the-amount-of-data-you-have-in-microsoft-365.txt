@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/calculate-the-amount-of-data-you-have-in-microsoft-365/
+Content type: Web page
+Last modified: 2026-06-29T22:50:15+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Calculate the amount of data you have in Microsoft 365
+To get an estimate of how much data you need to back up, you can check the storage usage of different areas of your Microsoft tenant.
+However, please note that the storage usage in Microsoft for OneDrive, SharePoint, and Groups & Teams may not reflect the amount of data that Keepit backs up in these areas.
+1. Open the Microsoft 365 admin center.
+2. In the left navigation panel, select Reports > Usage.
+3. Find the Storage chart for each data area:
+- For Exchange usage, under Email activity, select View more. Then select the Mailbox usage tab. Check the last day on the Storage chart to see how much storage is used.
+- For SharePoint usage, under OneDrive files, select View more. Then select the Site usage tab. Check the last day on the Storage chart to see how much storage is used.
+- For Groups usage, under Active users - Microsoft 365 Services, select View more. Then select the Groups activity tab. Check the last day on the Storage chart to see the total storage used across all group mailboxes and group sites. 
+ Important: This may not include all the data that Keepit backs up under the Groups & Teams data area.
+- For OneDrive usage, under OneDrive files, select View more. Check the last day on the Storage chart to see how much storage is used.

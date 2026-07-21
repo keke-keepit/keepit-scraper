@@ -1,0 +1,49 @@
+Source URL: https://www.keepit.com/help/pmc/configure-single-sign-on-sso-for-pmc/
+Content type: Web page
+Last modified: 2025-03-11T17:11:29+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Configure single sign-on (SSO) for PMC
+Partners and MSP Partners can configure and enable SSO for their Partner Management Console (PMC) account users.
+Types of SSO supported in the PMC
+The PMC supports both Service Provider Initiated (SP-initiated) SSO and Identity Provider Initiated (IdP-initiated) SSO. This means that it is possible to sign in to the PMC with SSO through our system (using https://dk-co.keepit.com/desktop/#/signin or a link to one of our other environments) or by using a web application on the Identity Provider's SSO page (e.g., using https://myapps.microsoft.com/).
+Preparation
+Create an SSO Admin
+In the process of setting up SSO, we recommend you create an SSO Admin. This is a dedicated user who has permission to access the SSO configuration but does not have SSO enabled, allowing them to sign in with PMC credentials. This will ensure that the other users will not get locked out of their account if SSO is configured incorrectly or an SSO certificate expires.
+Set up your identity provider
+During the configuration process, gather the following information:
+- Identity Provider URL (IDP URL)
+ Note: In Microsoft Entra, this is called the Login URL or SAML Single Sign-On Service URL.
+- Certificate (Base64) of your identity provider
+Also be sure to:
+- Assign the SSO app to all users who should have access to sign in via SSO.
+- Ensure that users have matching email addresses between your identity provider (User Principal Name in Microsoft 365) and the PMC.
+Configure SSO in the PMC
+1. Sign in to the PMC as a Partner or MSP Partner.
+2. In the lower-left corner, click your account profile > Account info.
+3. Open the Security tab and select SSO.
+4. Click + Add configuration.
+5. In the Configuration name field, enter a name.
+6. In the IDP URL field, enter the Identity Provider URL.
+The IDP URL is the URL that performs the validation of credentials. You can find the IDP URL when setting up SSO with Microsoft Entra or another identity provider. In Microsoft Entra it is called Login URL or SAML Single-Sign On Service URL.
+7. In the Certificate field, paste the text of the certificate (Base 64) code from your identity provider (e.g., Microsoft Entra).
+The Certificate (Base 64) is obtained when configuring SSO with the identity provider. Be sure to copy only the text between the begin and end markers.
+8. Turn on the Apply to my account toggle to make SSO active for your account. SSO will be enabled for all account users.
+9. Turn on the Apply to all subaccounts toggle to make SSO active for all partner and customer subaccounts.
+10. (Optional) Turn on the Make SSO mandatory toggle to require users to sign in with SSO by disabling the option to use PMC credentials.
+11. (Optional) Turn on the Allow IdP-initiated SSO toggle to allow users to sign in to the PMC directly through an IdP provider. 
+Important: The IdP-initiated flow carries a security risk and is not recommended.
+12. Click Save.
+Note: Only one SSO configuration can be enabled at a time.
+Signing in to the PMC with SSO
+To sign in with SSO, you must use the URL using one of the following URLs:
+- Denmark (Copenhagen): https://dk-co.keepit.com/desktop/signin
+- United States (Washington, DC): https://us-dc.keepit.com/desktop/signin
+- Australia (Sydney): https://au-sy.keepit.com/desktop/signin
+- United Kingdom (London): https://uk-ld.keepit.com/desktop/signin
+- Germany (Frankfurt): https://de-fr.keepit.com/desktop/signin
+- Canada (Toronto): https://ca-tr.keepit.com/desktop/signin
+- Switzerland (Zurich): https://ch-zh.keepit.com/desktop/signin
+When attempting to sign in to their accounts, users are required to input solely their email address and refrain from entering their password. Upon clicking Sign In, users will be automatically redirected to the identity provider page. Here they should complete the sign-in process using their designated identity provider login credentials.

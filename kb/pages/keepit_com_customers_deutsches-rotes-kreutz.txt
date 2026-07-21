@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/customers/deutsches-rotes-kreutz/
+Content type: Web page
+Last modified: 2024-02-09T23:39:06+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Microsoft 365 data backup by Keepit for DRK Hessen
+The migration of approximately 80% of DRK’s data to the Microsoft Cloud created a need for a comprehensive external data backup solution. Based on the requirements of the employees, fundamental conditions were specified that had to be met by an external backup and recovery solution. Of particular importance was the cloud-to-cloud backup of files from Microsoft Outlook, Microsoft Teams, SharePoint Online and OneDrive for Business.
+Restoring content in private channels from Microsoft Teams was particularly important to us. Keepit® makes that possible.
+Norbert Gerlach
+IT Director DRK Hessen e.V.
+Data protection, or the General Data Protection Regulation (DSGVO), now also influences the choice of digital applications. In this context and with a cloud solution, it was particularly important for the DRK that the data be stored in Western Europe or Germany.
+The growing number of cyberattacks also made a backup and recovery solution increasingly relevant for DRK.
+Norbert Gerlach
+IT Director DRK Hessen e.V.
+Simple and speedy implementation
+Clear and simple communication, comprehensive demo appointments, and the option of a nonbinding test phase impressed DRK Hessen and led to the decision in favor of backup and recovery from Keepit. Thanks to the straightforward implementation, Keepit’s solution was fully up and running on the customer’s system after about a week.
+Compared to a manually triggered backup, Keepit’s cloud solution now saves valuable time in the audit. If an emergency arises, all desired data relevant to the DRK can be backed up and retrieved 24/7 - in mere seconds.
+IF-Blueprint as a trusted advisor
+The expertise of IF-Blueprint’s consultants enabled DRK Hessen to become one of the first customers to also implement Keepit’s backup solution for Azure Active Directory.
+Thanks to IF-Blueprint’s extensive consulting and rapid deployment approach, the implementation was efficient and uncomplicated. According to DRK, Keepit’s backup and recovery solution has fully kept its product promise.
+Get in touch with IF-Blueprint:
+Contact our backup and recovery expert Stefan Hefele to learn more about backup and recovery services.
++49 89 262 076 700
+sales@if-blueprint.de

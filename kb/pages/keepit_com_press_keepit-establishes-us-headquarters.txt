@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/press/keepit-establishes-us-headquarters/
+Content type: Web page
+Last modified: 2025-08-19T23:57:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Establishes US Headquarters in Dallas to Complete US Market Entry
+DALLAS-FORT WORTH, TX, U.S. – January 26, 2022 – Keepit, a market leader in cloud backup and recovery, and the world’s only independent vendor-neutral and blockchain-based cloud dedicated to SaaS data protection, today announced it has formally entered the US market with the establishment of a US headquarters in Fort Worth, Texas.
+The announcement follows a $30 million investment in the company aimed at fueling Keepit’s global growth in becoming the category leader in the SaaS data protection market. Keepit protects data in key business applications including Microsoft 365, Google, and Salesforce, and covers a broad client base of major corporations and institutions across all sectors and industries globally.
+“Keepit is excited to formally establish a presence in the United States and to broaden its customer base among U.S. information technology enterprises. With the rise in and prevalence of ransomware, businesses are seeing that it’s important now, more than ever, to ensure that their data is properly backed up,” said Chris Braden, Keepit's Vice President, Sales and Channels for the Americas.
+“The fact that Keepit is built on blockchain technology gives us tremendous competitive differentiators and provides our partners with a distinct advantage and protections when it comes to their cloud-based data. The very encouraging early response from partners is a testament to the demand for Keepit's product and the huge market opportunity ahead of us.”
+As a software company specializing in cloud data backup and recovery for SaaS, Keepit has more than 20 years of experience in building best-in-class data protection services at scale. Founded in 2007 by data hosting entrepreneurs Frederik Schouboe and Morten Felsvang, Keepit's primary mission is simple - to help companies around the world protect and manage their cloud-based data.
+While all of the large SaaS business applications offer uptime and data protection against attacks, many companies using these services are unaware that they do not come with a built-in backup solution, and that data stored within these services is not automatically protected against data loss. This leaves a gap in coverage that can catch businesses off guard.
+Keepit fills this gap in protection by offering a fast, reliable and easy-to-use solution with its cost-effective, vendor-neutral cloud. Key features of Keepit's SaaS data protection solution include:
+- Fully automated backup for core SaaS applications (Microsoft Office 365, Microsoft Azure Active Directory, Microsoft Dynamics 365, Salesforce and Google Workspace);
+- Blockchain-based encryption technology that ensures data is immutable and impenetrable to any ransomware attack;
+- A vendor-neutral data center infrastructure that stores four backup copies in two separate locations, ensuring data availability;
+- Unlimited storage and archiving, and fast restore features that minimize downtime.
+In addition to its US headquarters announcement, the company is also releasing today a new report titled, “When Disaster Strikes: Recovery for SaaS Apps”, that details how and why it is critical for businesses to have a backup solution that exists independent of their SaaS vendor’s infrastructure. Using the “Acme ransomware attack” - a fictional case - as an example, the report provides guidance on where core SaaS application disaster recovery (DR) steps can fall short, and how Keepit's on-premises application remedies those shortcomings.
+Achieving DR objectives as an organization requires accounting for cloud data availability and cloud application availability. “When Disaster Strikes: Recovery for SaaS Apps” clearly explains that for the majority of businesses, the most reliable and cost-effective way to ensure availability of SaaS data is to use a third-party data protection service. The full report is available at https://hubs.li/Q012CTlq0.
+For more information about Keepit or to meet with a member of the US-based team contact press@keepit.com.
+More information about Keepit:
+About Keepit
+Keepit is a Backup-as-a-Service company that provides dedicated data protection for companies with data stored in the cloud. Keepit is the world’s only vendor neutral and independent cloud dedicated to SaaS data protection. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. For more information visit www.keepit.com or follow Keepit | LinkedIn.

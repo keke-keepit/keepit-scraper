@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/blog/evaluating-cloud-data-protection-tools-external/
+Content type: Web page
+Last modified: 2025-08-20T02:24:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Evaluating cloud data protection tools
+Infrastructure and operationsDec. 20, 2022 | 4 minutesBy Niels van Ingen
+4 Keys to consider when evaluating cloud data protection tools
+External article by Keepit expert
+Keepit’s Chief Customer Officer (and frequent contributing author to the Keepit blog) Niels van Ingen has been featured in Solutions Review as part of their “Premium Content Series” written by industry experts.
+As a true veteran in the data protection and management space — not only from a product point of view but also from a customer and business development one — Niels covers what he finds are the most important elements to consider when evaluating cloud data protection offerings.
+Those who work in IT disaster recovery understand that data is perhaps a business’ most valuable asset that needs protection all day, every day. Implementing a SaaS backup and recovery plan is essential for nearly every aspect of business operations, and those who have not made it a top priority are literally flirting with disaster.
+Read the full article entitled "4 Keys to Consider When Evaluating Cloud Data Protection Tools" on Solutions Review.

@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/resources/jira-service-management-product-sheet/
+Content type: Web page
+Last modified: 2026-06-01T19:43:11+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Jira Service Management
+When JSM data is lost, rapid recovery starts here
+When JSM data is lost, corrupted, or deleted, your service delivery, SLAs, and customer trust are at risk. Keepit protects your JSM data and configurations with automated, immutable backups and granular restore, giving your organization an independent safety net that improves resilience, speeds recovery, lowers operational risks, and ensures compliance. All in a unified platform for protecting data in critical SaaS applications, including Jira, Confluence, and other productivity, identity, collaboration, and CRM tools.

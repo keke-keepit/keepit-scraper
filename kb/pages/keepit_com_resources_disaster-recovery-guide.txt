@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/resources/disaster-recovery-guide/
+Content type: Web page
+Last modified: 2026-07-13T23:33:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+When disaster strikes: A guide to data recovery and business continuity
+This 7-step guide to data recovery and business continuity offers IT professionals, DR pros, and CIOs insight into the steps of a disaster recovery process for SaaS apps.
+Every day, businesses shift critical operations into cloud-based, software-as-a-service (SaaS) applications. At the same time, cybercriminals are directing more effort toward cloud services, putting businesses at risk.
+Most businesses have some form of continuity and disaster recovery (DR) plan, but these plans often overlook crucial SaaS app data needed to maintain or recover operations — thereby representing an essential gap in organizations’ preparedness levels. And even if SaaS data is backed up and protected, disaster recovery plans are often not continually tested and therefore can’t be relied on in the face of emergency.
+In the pre-SaaS paradigm, organizations could typically perform a full disaster recovery on their own, but the move to the cloud has introduced new complications and dependencies:
+- Full SaaS application restoration requires the tenant to be restored and repopulated with data.
+- Maintaining continuity in the meantime requires accessing SaaS data.
+This guide discusses how disaster recovery planning and DR objectives need to change to adapt to the new requirements of an agile, cloud-integrated business. By using a fictional example of a ransomware attack, we offer a seven-step guide on how to ensure business continuity if disaster strikes and illustrate in actionable terms how Keepit can help keep your business running during and after an attack.
+Read this report and learn all about:
+- Why it’s crucial — and your responsibility — to back up your SaaS data.
+- How to improve your DR plan and build SaaS resilience.
+- How Keepit can get your business back to normal with minimal disruption.

@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/blog/data-sovereignty-europe/
+Content type: Web page
+Last modified: 2025-08-20T02:48:42+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Europeâs data sovereignty challenge
+The reality of Europe’s cloud dependence
+Europe stands at a crossroads when it comes to data sovereignty. Despite its aspirations for autonomy, 97% of the cloud infrastructure and platform services market is dominated by U.S. and Chinese providers — like the US Big Three (AWS, Azure, and Google Cloud) and Chinese providers such as Alibaba, Huawei, and Tencent.
+The implications are profound. With critical European data housed within infrastructures controlled by foreign entities, the EU’s ambitions for digital sovereignty face significant hurdles. How can Europe claim true data sovereignty when its information resides under jurisdictions subject to foreign government access and control?
+The geopolitical landscape
+The global cloud market is not just about technology — it’s about politics and control. Data sovereignty speaks to the legal and regulatory control a country or region has over data generated or stored within its borders. But with most of the infrastructure controlled by non-European players, the question of true sovereignty remains unresolved.
+This dependency leaves Europe vulnerable to political shifts and foreign legislation, including policies like the U.S. CLOUD Act, which grants American authorities the right to access data stored by U.S. companies, even if it resides on foreign soil.
+A path forward for Europe
+For Europe to assert control over its digital future, it must prioritize sovereign cloud solutions. These infrastructures would guarantee data residency, security, and autonomy, shielding critical information from foreign oversight. Keepit’s architecture is purpose-built for such sovereignty, with control over the entire data and management plane, providing a viable pathway for European enterprises to regain digital control.
+Next steps: Navigating toward European digital autonomy
+To transition from dependence to autonomy, European companies should:
+- Invest in sovereign cloud solutions: Opt for providers that prioritize European data residency and compliance.
+- Strengthen compliance with regional regulations: Align with GDPR, DORA, NIS2 and local data privacy laws to build stronger protections.
+- Leverage local data centers: Prioritize data centers within Europe to avoid geopolitical risks.
+- Demand transparency and local control: Ensure your provider maintains complete transparency over data handling and security measures.
+- Promote regional cloud initiatives: Support European-based cloud initiatives that focus on sovereignty and compliance.
+A sovereign Europe starts with responsible decisions made today.

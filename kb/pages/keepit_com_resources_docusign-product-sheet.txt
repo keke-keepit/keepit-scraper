@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/resources/docusign-product-sheet/
+Content type: Web page
+Last modified: 2025-09-23T22:29:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Docusign
+Never lose a signed deal—keep contracts safe and recoverable at all times
+Contracts and agreements are fundamental to business operations, legal compliance, and financial transactions. Docusign offers limited retention and recovery capabilities. Losing or corrupting this data can lead to legal liabilities, financial losses, and operational disruptions.
+Awarded for its ease of use, Keepit ensures that Docusign data and settings are securely backed up and can be recovered swiftly in case of accidental loss or malicious attacks. Keepit effectively minimizes the impact of data loss and the burden of recovery on your teams.

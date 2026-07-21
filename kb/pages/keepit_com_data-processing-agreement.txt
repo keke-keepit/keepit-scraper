@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/data-processing-agreement/
+Content type: Web page
+Last modified: 2026-03-12T21:16:54+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+| Name | Location | Role | 
+| Keepit Poland Sp. z o.o. (effective from 01.06.2026) | Poland | Supporting Keepit’s provision of customer support services. | 
+Data Processing Agreement
+Last updated: March 2026
+The links below contain our data processing agreements and are our legally binding contracts that we enter with our customers stating the rights and obligations of each party concerning the protection of personal data processed by Keepit on behalf of the customer.
+They include a number of guarantees to the companies that entrust us with personal data on how we process and protect personal data stored with us.
+Keepit offers different Data Processing Agreements depending on the customer’s location. Please download the applicable Data Processing Agreement below:
+Customers in Denmark, Sweden, or Norway
+Keepit offers to enter the Danish Data Protection Agency’s standard contractual clauses for data processing (cf. GDPR Article 28).
+Customers in the EU/EEA (excluding Denmark, Sweden, and Norway)
+Keepit offers to enter the European Commission’s standard contractual clauses between controllers and processors within the EU/EEA (cf. GDPR Article 28).
+Customers outside the EU/EEA
+Keepit offers to enter its standard Data Processing Agreement applicable to customers located outside the regions listed above.
+Sub-processors
+At Keepit we grow our resources responsibly. Keepit uses its wholly-owned and EU based affiliates to support the provision of Keepit’s services to our customers. Below you can find important information about the identity, location and role of each Keepit affiliate involved in the provision of our services, based on the Keepit entity that you have entered into contract with.
+For customers of Keepit A/S:

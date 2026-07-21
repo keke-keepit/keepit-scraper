@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/help/platform-category/manually-start-a-backup/
+Content type: Web page
+Last modified: 2026-06-23T21:11:09+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Manually start a backup
+Manually initiate backup jobs on demand for enhanced control over your data protection.
+You can start a backup job on any connector, except if it already has a job in progress.
+Please note that when you manually initiate a backup job, the next automatic job will be scheduled 12 hours from the initiation of the manual job, not from the initiation of the previous automatic backup job.
+Manually start a backup job
+1. Navigate to the Connectors page.
+2. Hover over the connector you want to back up and select ••• > Start backup.
+3. Click Start backup.
+The backup job will be scheduled and start shortly. 
+Note: Manually starting a backup initiates an incremental backup, capturing only the changes made since the last backup. A full initial backup is performed only once—automatically triggered after a connector is created and its configuration is saved.

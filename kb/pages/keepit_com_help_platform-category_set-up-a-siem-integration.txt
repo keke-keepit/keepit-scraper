@@ -1,0 +1,75 @@
+Source URL: https://www.keepit.com/help/platform-category/set-up-a-siem-integration/
+Content type: Web page
+Last modified: 2026-06-23T23:40:38+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Set up a SIEM integration
+Use the Security Information and Event Management (SIEM) integration to send important security events to Splunk.
+You can receive audit log and/or job monitor events, all channeled through the Splunk HTTP Event Collector (HEC).
+If this feature isn't enabled for your account, please contact our support team to have it activated.
+Prepare HTTP Event Collector in Splunk
+Before you add a SIEM integration in Keepit, configure HTTP Event Collector in Splunk and create a valid HTTP Event Collector (HEC) token.
+You will need a proper HEC token and HEC URI to add a SIEM integration in Keepit.
+Create a HEC token
+When you create your HEC token, ensure that it:
+- accepts JSON (e.g., its source type is_json)
+- is enabled
+Copy the HEC token value
+While you are creating your HEC token, copy the token value.
+Find your HEC URI
+The standard form for the HEC Uniform Resource Indicator (URI) varies depending on the Splunk software type you have.
+Find the standard form on this page: Set up and use HTTP Event Collector in Splunk Web
+Ensure large enough queueSize
+Make sure that your Splunk server has a large enough queueSize. We recommend setting it to 50MB.
+This will ensure that your Splunk installation will allow Keepit to send large posts.
+Add a SIEM integration in Keepit
+1. In the lower-left corner, select your account profile > Account info.
+2. Go to Security > SIEM Integration.
+3. Click + Add integration.
+4. Enter a name for your integration.
+5. Enter the HTTP Event Collector token value.
+Note: The token's source type must be _json.
+6. Enter the HEC URI.
+7. Select which data sources to include.
+8. To activate the integration, turn on the Enable configuration toggle.
+9. Click Save.
+The SIEM integration will start syncing immediately, and after 5 minutes you will see the first set of data in Splunk.
+What information will be sent to Splunk
+We send data to Splunk with all audit log and job monitor activity every 5 minutes.
+If due to some issue we are unable to send data to Splunk at the planned interval, the next set of data will include all events that occurred since the last successful post in Splunk.
+Audit log data
+We send audit log data to Splunk every 5 minutes. This means that every 5 minutes you will receive an overview of all the events that occurred in the last 5 minutes.
+Each audit log event is posted to Splunk with the following data:
+- Time: Date and time the event occurred
+- Host: The hostname of the environment where the account is located
+- Upload time: The time when the event was uploaded to Splunk
+- Account: Account GUID
+- Connector: Connector GUID
+- ACL: ACL permission required to perform an operation
+- Method: HTTP request method
+- User: User who initiated the event
+- IP address: IP address of the user who initiated the event
+- Metadata: Additional audit log metadata
+- Event: The event recorded in the audit log
+Job monitor data
+We send job monitor activity data to Splunk every 5 minutes. This means every five minutes you will see info about all new jobs from the last 5 minutes.
+This also means that if a job takes over 5 minutes, we will send information about this job every 5 minutes, meaning you can follow the progress and status of the job.
+Each job monitor event is posted in Splunk with the following data:
+- Time: The time when the job data was uploaded to Splunk
+- Host: The hostname of the environment where the account is located
+- Upload time: The time when job data was uploaded to Splunk
+- Account: Account GUID
+- Connector: Connector GUID
+- Job: Job GUID
+- Scheduled: Time the job was scheduled
+- Planned start: The time a job was planned to start
+- Start time: The actual time a job started
+- Description: Job description (includes the type of job, type of connector, and name of connector)
+- Progress: Job progress from 0 to 1 (0: not started; 0.01-0.99: in progress; 1: complete)
+- Paused: The time a job was paused
+- End time: The time a job ended
+- Status: Status of a finished job. Status can be successful, scheduled, in progress, cancelled, incomplete, unsuccessful
+- Type: Job type
+- User: User who initiated the job

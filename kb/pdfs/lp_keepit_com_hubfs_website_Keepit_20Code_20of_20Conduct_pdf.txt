@@ -1,0 +1,230 @@
+Source URL: https://lp.keepit.com/hubfs/website/Keepit%20Code%20of%20Conduct.pdf
+Content type: PDF document
+Title: Code of conduct (Branded) compared with Code of conduct (Branded)_PS_redline
+Pages: 7
+Retrieved: 2026-07-21
+
+============================================================
+
+June 2025 
+VERSION 2.0 
+ 
+Code of Conduct
+
+June 2025 
+Page 2 of 7 
+Table of Contents 
+1. 
+Who We Are ........................................................................................................................... 3 
+2. 
+Our Code of Conduct .............................................................................................................. 3 
+3. 
+Data Protection ....................................................................................................................... 3 
+4. 
+Human Rights and Employment ............................................................................................. 4 
+5. 
+Environment ............................................................................................................................ 4 
+6. 
+Competition and Anti-Corruption ............................................................................................ 5 
+7. 
+Contracting Practices ............................................................................................................. 5 
+8. 
+Conflict of Interest ................................................................................................................... 6 
+9. 
+Professional Conduct ............................................................................................................. 6 
+10.    Violation of the Code .............................................................................................................. 6 
+11.    Grievance and Reporting ....................................................................................................... 6 
+12.    Training .................................................................................................................................. 7 
+13.    Governing Law ....................................................................................................................... 7 
+14.    Review .................................................................................................................................... 7
+
+June 2025 
+Page 3 of 7 
+1. Who We Are 
+Keepit A/S ("Keepit") is a leading provider of next-level SaaS data protection solutions, purpose-
+built for the cloud. We specialize in delivering secure, reliable, and vendor-independent cloud 
+backup and recovery services for essential business applications. 
+By owning and operating our cloud infrastructure, we ensure that our customers' data remains 
+protected, immutable, and readily accessible.  
+With over 20 years of experience in data protection and hosting services, Keepit empowers 
+businesses to safeguard their critical data against loss, ransomware attacks, human error, and 
+other disruptions.  
+Keepit is trusted by more than 15,000 companies for its ease of use and effective backup and 
+recovery of cloud data. Our commitment to innovation, security, and reliability has positioned us as 
+a leader in the cybersecurity industry.  
+At Keepit, our success relies on the confidence our stakeholders have in us - not only in the 
+services we provide but also in how we interact with customers, suppliers, authorities, business 
+partners, colleagues, and other stakeholders. Every Keeper (as defined below) and all suppliers 
+play a crucial role in building and maintaining this trust. 
+2. Our Code of Conduct 
+Keepit observes the OECD Guidelines for Multinational Enterprises on Responsible Business 
+Conduct, as amended from time to time (the “OECD Guidelines”). 
+The OECD Guidelines constitute the minimum standards for Keepit and are integrated into this 
+Code of Conduct (the “Code”), which serves as a benchmark for us to act in a manner that is 
+ethical, transparent, and sustainable, respecting human rights, the environment, and fair business 
+practices. The Code covers key areas that are essential for us to operate as a trusted partner.  
+Every person working for Keepit, whether permanently or temporarily employed, subcontracted, or 
+volunteering, is subject to the Code (in the following referred to as “Keepers”).  
+The Code applies to all our subsidiaries and to all countries in which we operate and to every 
+Keeper working on behalf of Keepit within those countries. All individuals subject to this Code of 
+Conduct are required to comply with applicable laws and regulatory decisions at all times. In cases 
+where this Code conflicts with existing legislation, the law shall prevail. 
+It is the responsibility of each manager within Keepit to ensure that the Code is known and complied 
+with by all Keepers within their respective areas of responsibility. 
+Keepit requires suppliers and their subcontractors to comply with the Code or similar standards 
+and to verify compliance by providing information hereof and allowing access to their premises, 
+employees, and documentation when needed. 
+3. Data Protection 
+We believe our services support global digital cooperation and realize the potential of digital 
+technologies to advance human well-being and mitigate the risks of misuse and missed use of 
+data. We consider data security an essential element when providing our data backup service. 
+Management of personal data is always handled following the UN Personal Data Protection and 
+Privacy Principles.
+
+June 2025 
+Page 4 of 7 
+We operate in good faith and follow the applicable laws, regulations, and internationally recognized 
+frameworks concerning our services. Keepit ensures that the data entrusted to us is handled with 
+the utmost care and confidentiality. Regarding our operation in the European Economic Area, 
+Keepit will handle personal data following the General Data Protection Regulation 2016/679 
+(“GDPR”), in addition to maintaining compliance with the OECD Guidelines.  
+4. Human Rights and Employment  
+Keepit respects fundamental and internationally recognized human rights in every area in which 
+we operate. It is our responsibility to ensure that our company upholds and protects human rights. 
+We take action to address adverse human rights impacts involving Keepit and to minimize the risk 
+of us being complicit in human rights abuses. 
+At Keepit, we consider ourselves as an equal-opportunity employer and base employment 
+decisions on qualifications, experience, and potential. No individual shall face direct or indirect 
+discrimination, harassment, or unfair treatment based on race, color, religion or belief, political 
+affiliation, sexual orientation, gender identity, age, disability, or national, social, or ethnic origin. No 
+individual shall be the subject of any form of ill-treatment, including physical and sexual abuse, as 
+well as the threat hereof. 
+Keepit is not currently under the statutory requirement to publish a modern slavery statement. 
+However, we recognize the importance of demonstrating our commitment to ensuring that modern 
+slavery does not take place within our operations. We have implemented and enforced systems 
+and controls to ensure slavery and human trafficking do not, to the best of our knowledge, occur 
+anywhere in our supply chains. To achieve this, we have established monitoring and risk 
+assessment processes, as outlined in our Modern Slavery and Human Trafficking Statement, to 
+ensure continuous oversight of our suppliers and ongoing compliance with our obligations. 
+Keepit and our suppliers, and their subcontractors who take on the role of an employer, shall not 
+engage in any practices that directly or indirectly force or pressure an employee to work against 
+their will. We and our suppliers must ensure that there is no use of child labor and that young 
+workers under the age of 18 are not subject to hazardous work, including working late hours or 
+under unsafe conditions.  
+All Keepers must be given their terms of employment in writing and must be informed about the 
+terms and conditions of their employment in a language they understand. 
+Keepit respects Keepers' right to freely associate and to be members of voluntary labor market 
+organizations or trade unions and to negotiate collectively. Union representatives shall not be 
+subject to discriminatory practices and must, to a reasonable extent, be allowed to perform their 
+representative functions in the workplace. 
+5. Environment  
+At Keepit, we commit to conducting our business in a sustainable and environmentally responsible 
+way. Our environmental initiatives include increasing the energy efficiency of our operations 
+(primarily data centers and offices), reducing resource consumption, minimizing waste, and 
+mitigating the impact on the environment. We are dedicated to implementing practices that 
+contribute to a circular economy, reduce our carbon footprint, and foster environmental 
+sustainability in all aspects of our operations. 
+As part of our commitment to environmental responsibility, we expect our suppliers to comply with 
+all applicable environmental, health, safety, and sustainability regulations, including international
+
+June 2025 
+Page 5 of 7 
+standards and frameworks, hereunder the OECD Guidelines. We encourage our suppliers to use 
+resources efficiently by applying energy-efficient, environmentally friendly, and sustainable 
+technologies to reduce waste, emissions to air, water, and soil, and the use of non-renewable 
+resources. Furthermore, suppliers should actively minimize their negative impact on biodiversity, 
+address climate change through mitigation and adaptation measures, and manage water usage 
+sustainably to contribute to global water conservation efforts. We also urge our suppliers to 
+implement practices that promote the sustainable use of natural resources, ensuring that their 
+operations contribute to long-term environmental stewardship and support the transition to a low-
+carbon economy. 
+6. Competition and Anti-Corruption  
+Keepit is determined to maintain a high standard of integrity and work ethics across all our 
+activities. We maintain a zero-tolerance policy of corruption and bribery in all forms. Corruption is 
+the abuse of entrusted power; and bribery is the offering, promising, granting, accepting, or 
+soliciting an advantage as an inducement for an action that is illegal, unethical, or a breach of trust.  
+Thus we, our suppliers or subcontractors must never accept, give, or promise gifts, hospitality, or 
+anything of monetary value that could be interpreted as intending to improperly influence a decision 
+or which could unduly affect proper business judgment or otherwise raise concerns about our 
+integrity. Only moderate gifts, rewards, or benefits which do not affect the recipient's behavior are 
+allowed, provided that the presentation, promise, or offer of such gifts, rewards, or benefits is 
+transparent and in full compliance with applicable legal and ethical standards. 
+Keepit supports free competition as the basis for all business development and innovation. We 
+must compete within the applicable legal framework, designed to promote fair competition and 
+encourage ethical and legal behavior. We will not engage in anti-competitive activities, such as 
+illegal price-fixing, market division, abuse of a dominant position, or in other situations where free 
+competition is unlawfully prevented, restricted, or weakened. We are committed to ensuring that 
+our actions align with the OECD Guidelines, ensuring that all competitive behavior is conducted in 
+an ethical, transparent, and lawful manner. 
+7. Contracting Practices 
+When Keepit is conducting business and/or entering other commitments, Keepit must embody the 
+rights and obligations of each party in appropriate written agreements to ensure compliance with 
+legal and ethical standards. This is necessary to document the proper use of Keepit’s funds and 
+assets, define the rights and obligations of each party, establish protections against liability, and 
+provide tools for handling disputes. If you are involved in negotiating with customers, partners, or 
+other third parties, you are required to understand the basic principles of business transactions. 
+Be aware that you may not:  
+• 
+commit Keepit to undertake any performance, payment, or other obligation unless you are 
+authorized to do so by your manager.  
+• 
+enter into any transaction that could facilitate improper revenue recognition, expense 
+treatment, or any other accounting irregularities on behalf of either Keepit or our business 
+connections.
+
+June 2025 
+Page 6 of 7 
+8. Conflict of Interest 
+Keepers must be impartial, and all business decisions must be based on Keepit’s legitimate 
+business interests without regard for personal circumstances or advantages. Situations that create, 
+or could create, a conflict of interest between an individual and Keepit must be identified and 
+avoided. 
+If a conflict of interest arises, the Keeper must immediately inform their immediate manager or 
+relevant compliance officer in writing. Keepers must not use their connection to Keepit for unjust 
+personal gain.  
+Purchases from family members or personal friends must also be avoided to ensure transparency 
+and fairness. If such an action is still justified, it must be clearly documented and approved by a 
+manager to mitigate any perceived conflict of interest. 
+9. Professional Conduct  
+We will always maintain professional behavior. This involves, among other things, respecting 
+common courtesy to other Keepers, applicants, customers, partners, visitors, etc. As a Keeper, 
+you must ensure that you comply with all the procedures and policies of Keepit, including this Code. 
+Upholding these standards is essential to maintain trust, foster a positive working environment, 
+and align with internationally recognized ethical principles, such as those outlined by the OECD 
+Guidelines. 
+10. Violation of the Code  
+Keepit’s observance and compliance with this Code is not legally enforceable against Keepit, or 
+against any of its employees, officers, and/or directors, without a separate, valid, and written 
+agreement with Keepit to that effect, in which case all applicable terms of that agreement, including 
+exclusions and limitations of liability, shall apply. 
+Appropriate actions are taken by Keepit against Keepers who violate the Code, other internal rules, 
+laws, or regulations. Breaches may result in reprimands, warnings, and, in severe cases, 
+dismissal/termination of the contract. Suspicion of crime is reported by Keepit to the police or 
+relevant authorities. 
+11. Grievance and Reporting  
+Concerns about possible violations of the Code must be raised promptly. Failure to raise a concern 
+can lead to Keepit being exposed to unacceptable operational and financial risks, as well as 
+reputational risk. All concerns will be evaluated for further investigation and handled with due care.  
+You may raise your concern by email: legal@keepit.com or in case of employees of Keepit 
+directly to your manager.  
+You may also raise your concern via Keepit’s whistleblower reporting system. 
+Keepit acknowledges the non-judicial grievance mechanisms related to the non-observance of 
+the OECD Guidelines by the National Contact Points for Responsible Business Conduct. More 
+information on the National Contact Points for Responsible Business Conduct can be found via 
+this link.
+
+June 2025 
+Page 7 of 7 
+12. Training  
+Our People & Culture department will make sure that every Keeper is informed about and 
+understands the Code and other relevant guidelines and policies. When deemed necessary, our 
+People & Culture department will have refreshing courses and specific training modules in addition 
+to this. 
+13. Governing Law  
+This Code is governed by and shall be construed in accordance with the substantive law of 
+Denmark, unless a written agreement with Keepit, including Keepit’s Terms of Service, as 
+amended from time to time, stipulates the application of another governing law, in which case such 
+governing law shall also apply to this Code. 
+14. Review 
+This Code will be reviewed and updated on a regular basis and as deemed necessary to ensure 
+that it remains current and effective.

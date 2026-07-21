@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/press/thierry-bedos-vp-southern-europe/
+Content type: Web page
+Last modified: 2025-08-20T02:48:40+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit appoints Thierry Bedos to accelerate growth in Southern Europe
+Expectations are high for an offering that is particularly well-suited to European market requirements for solutions that support data sovereignty
+Copenhagen, Denmark —June 30, 2025 — Keepit, global provider of cloud backup and recovery solutions designed to protect SaaS data, announces the appointment of Thierry Bedos as Vice President South EMEA. In this role, he will be responsible for accelerating the company's growth in France, Italy and the Iberian region, by strengthening Keepit's presence in the Small and Medium-sized Business (up to 1,000 employees), commercial (1,000 to 5,000) and enterprise (over 5,000 employees) segments. He will report directly to Søren Lindkvist, Senior Vice President for the EMEA region.
+“Keepit has established itself as a credible alternative to backup solutions integrated into large cloud ecosystems, thanks in particular to its independent data centers”, says Thierry Bedos. “Its approach serving compliance, sovereignty and fine-grained data protection, is particularly well-suited to the expectations of the European market. I am delighted to be joining Keepit at this key moment to be able to contribute to its development in the Southern Europe region.”
+Before joining Keepit, Thierry Bedos held the position of Vice President South EMEA at Proofpoint, where he structured sales activities in the region. He was also at Forcepoint, as Vice President South EMEA, before being promoted to Senior Vice President EMEA. At these two fast-growing software companies, he managed multicultural teams and developed strategic partner networks in a highly competitive environment.
+Over the course of his career, Thierry Bedos has built up solid expertise in the fields of SaaS, cybersecurity, Big Data and artificial intelligence, with senior positions at McAfee, SAS Institute and Oracle. He also has in-depth knowledge of distribution ecosystems, value-added resellers (VARs) and integrators in Southern European countries.
+Thierry Bedos holds an engineering degree from INSA Lyon (class of 1984) and a DESS in Business Management from IAE Lyon (1992).
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over 18,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on LinkedIn.

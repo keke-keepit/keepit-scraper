@@ -1,0 +1,30 @@
+Source URL: https://www.keepit.com/help/mcp-category/mcp-example-prompts/
+Content type: Web page
+Last modified: 2026-05-20T13:02:36+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+MCP example prompts
+MCPBy 
+Keepit MCP is designed for talking naturally. Below are example prompts organized by use case.
+Account info
+- “Who has access to my partner account and what roles do they have?”
+- “Show me all customer accounts I manage — I need their names, IDs, and additional details”
+Connector Insights
+- “Are there any connectors across my entire portfolio that are currently failing?”
+- “What's the backup health status for XYZ Corp? When did each of their connectors last back up successfully?”
+Seat usage info
+- “Which of my customers are currently over their seat limit? Show me who's in grace period and who has already expired”
+- “How has seat usage changed for Contoso Ltd over the last 3 months? I want to see the trend”
+Audit log info
+- “What changes were made across my accounts last week? Give me a full activity log”
+- “Something changed in one of my customer accounts on March 12 — can you pull the audit log for that day so I can see what happened?”
+Tips for writing effective prompts
+- Be specific about time periods. Use ISO duration codes (P7D, PT6H) or natural language ("last 7 days," "since yesterday.")
+- Include connector GUIDs when you want data about specific connectors. You can find GUIDs in the results of any connector listing query.
+- Ask for comparisons. MCP tools are composable, so prompts like "compare X with Y" work well.
+- Request specific output formats. Ask for tables, sorted lists, or summaries depending on what you need.
+- Chain follow-up questions. After getting results, ask deeper questions like "Why did that connector fail?" or "Show me the audit trail for that time window."
+- Use grouping language. Phrases like "group by," "split into," and "rank by" help the AI organize results meaningfully.
+- Start broad, then narrow. Begin with an overview prompt, then drill into specific connectors or time ranges based on what you find

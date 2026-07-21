@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-metadata/
+Content type: Web page
+Last modified: 2025-12-03T16:19:01+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Salesforce metadata
+Metadata files are located in the metadata folder within a connector. Metadata can only be restored from this folder and subfolders and not with the Restore Wizard.
+Read-only metadata cannot be restored and are marked with a pink icon.â¯
+Restore metadata
+1. In your connector, find the item you want to restore. 
+You can use the search at the top of the screen or the filter to find the item quickly.
+2. Optional: If you wish to restore an older version of the item, click theâ¯Snapshots Viewerâ¯icon, then select an earlier snapshot to view data from that point in time.
+3. Click the Restore icon for the metadata item you want to restore.
+4. Clickâ¯Yesâ¯to confirm the restore.
+Notes:
+- The display name shows the unique API name / DeveloperName.
+- In the backup, all subfolders of a metadata type are shown in the root folder of that metadata type, even if the folder structure in Salesforce is multi-level (for example reports and dashboards).

@@ -1,0 +1,56 @@
+Source URL: https://www.keepit.com/blog/mythos-keepit/
+Content type: Web page
+Last modified: 2026-05-12T07:49:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+AI is moving cyber risk to machine speed. Your recovery plan isnât.
+I’m a CISO. I believe in prevention: patch fast, reduce attack surface, segment, monitor, and hunt.
+But here’s the straight truth: if your cyber strategy assumes you’ll always stop the breach, you don’t have a strategy—you have hope. And hope doesn’t survive contact with reality.
+In April 2026, Anthropic introduced Claude Mythos (Preview)—described as capable of identifying and exploiting zeroâday vulnerabilities and turning known vulnerabilities into working exploits more quickly. The implication is simple: the path from “weakness exists” to “unauthorized access happens” is getting shorter.
+That doesn’t mean the sky is falling. It does mean we need to be honest about what changes when cyber risk moves toward machine speed.
+What Mythos changes: the tempo
+Historically, the hard part wasn’t finding weaknesses—it was turning them into reliable exploits at speed and scale. That took time, expertise, and money.
+When that barrier drops, mean time to exploit compresses and attacker throughput increases: more attempts across more targets, faster.
+If you run an enterprise patch cycle, you already know the gap: you can improve it and automate parts of it, but you’re still operating with human constraints, change windows, and business tradeoffs.
+Prevention still matters. But when the attacker’s cycle time drops, prevention alone becomes a thinner shield.
+What Mythos doesn’t change: backup isn’t prevention
+Let’s address the common objection head-on: “This is a prevention issue.”
+Correct. At the point of exploitation, this is prevention. Data protection doesn’t stop an exploit at the point of attack. Backup won’t block a zeroâday. Recovery is not a firewall.
+So if someone tries to sell you backup as a magic shield, be skeptical.
+But once attackers get in, recovery becomes the most important security control you have left—not because it’s flashy, but because it’s decisive.
+The real risk is not “breach.” It’s business impact.
+Most organizations don’t lose sleep over the abstract idea of “a breach.” They lose sleep over outages, encryption, deletion, corruption, customer impact, regulators asking hard questions, and teams spending weeks trying to work out what “good” even looks like.
+Resilience isn’t perfection. It’s recoverability. A breach is an event; recoverability is a capability.
+The overlooked threat: “AI vandalism” from the inside
+There’s a second angle that deserves attention—and it’s not only external attackers.
+As AI agents become more common in IT, we’re introducing autonomous actors with real privileges: tools that can optimize systems, migrate data, clean up repositories, or “fix” configurations. That’s useful — until it isn’t.
+If an autonomous agent misinterprets intent—or runs on flawed context—it can corrupt or delete large volumes of data quickly. And because it operates inside the environment, many classic perimeter controls don’t help you.
+Call it “AI vandalism” if you like. The point is: data integrity risk is no longer only an external threat model.
+So we need a safety net that assumes two realities at once: external compromise is possible (and faster), and internal automation can create highâimpact failure modes too.
+What “good” looks like when attackers move faster
+If you acknowledge compromise can happen, the question becomes practical: when something goes wrong, can you recover fast, clean, and with proof?
+Resilient SaaS data protection comes down to four principles:
+1) Independence: reduce dependency risk
+A stack that relies on multiple vendors and subâprocessors creates more exposure points — especially when zeroâdays exist and discovery-to-exploit timelines shrink. Independence won’t stop a zeroâday, but it reduces complexity, tightens the blast radius, and simplifies recovery and control.
+2) Immutability: the safety net must be out of reach
+If attackers gain privileged access, or an internal agent behaves badly, your last line of defense is the copy they cannot tamper with. Immutability is a design requirement: backup data cannot be overwritten, deleted, or silently altered.
+The day you need recovery is the day you should assume someone will try to take recovery away from you.
+3) Anomaly detection: know quickly when something is wrong
+When things move faster, detection matters more. You want early signals: malicious deletion, unusual change patterns, large-scale corruption, before the damage spreads or “good” becomes hard to define.
+4) Instant access + granular restore: speed and precision
+Recovery isn’t “restore everything.” In SaaS, that’s often slow and disruptive. What you need is the ability to find the last knownâgood state quickly, restore only what was affected (a user, a mailbox, a set of files, specific records), and do it without a full environment rollback.
+When attacks move faster, speed and precision in recovery become more valuable than ever.
+Three blunt questions every leader should ask
+To pressure-test your resilience posture, start here:
+- How quickly could you identify the last knownâgood version of your SaaS data—and prove it?
+- If admin access is compromised (or automation goes wrong), can your backups still be deleted or overwritten?
+- Can you restore only what was affected, fast, without a full environment rollback?
+If those questions make you uncomfortable, good. Discomfort is a signal that you’re replacing assumptions with understanding.
+Final thought: prevention is necessary — recovery is non-negotiable
+We should keep investing in prevention. But modern cyber risk is telling us something clearly: attackers are faster, environments are more complex, and autonomy inside IT is increasing.
+In that world, backup stops being a “nice-to-have” technical function and becomes a core part of security strategy — because it lets you restore integrity, availability, and trust after something goes wrong.
+Hope isn’t a security strategy. Recovery is.
+What should you do next?
+Run a restore drill this quarter. Define clear RTO/RPO for your critical SaaS apps. Validate — by testing — that your backups are isolated, immutable, and fast to restore at a granular level.

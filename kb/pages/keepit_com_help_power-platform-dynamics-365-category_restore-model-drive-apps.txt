@@ -1,0 +1,16 @@
+Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/restore-model-drive-apps/
+Content type: Web page
+Last modified: 2026-07-04T00:48:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore model-driven apps
+Before you begin, ensure that the app is part of a Microsoft solution.
+Restore a model-driven app
+1. In your connector, open your environment's folder.
+2. Navigate to Power Apps > Model-driven app.
+3. Optional: If you want to restore a record from an earlier point in time, open the Snapshots Viewer and select the appropriate snapshot.
+4. Point to the desired app and select ••• > Restore.
+5. Click Yes to start the restore.
+Important: Metadata is not restored. If the app references an entity that has been deleted, that entity will not be restored.

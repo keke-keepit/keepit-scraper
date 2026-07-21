@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/press/keepit-announces-opening-of-two-canadian-data-centers/
+Content type: Web page
+Last modified: 2025-08-15T00:32:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Announces Opening of Two Canadian Data Centers
+Company Strengthens its Canadian Presence with Local Data Centers Offering First and Only No-Transmission Guarantee
+Copenhagen, Denmark – March 30, 2022 – Keepit, the market leader in cloud backup and recovery, and the world’s only independent, vendor-neutral cloud dedicated to SaaS data protection with a blockchain-verified solution, today announced the opening of its first two data centers in Canada. Keepit is partnering with Equinix – one of the world’s leading, green-by-design digital infrastructure companies to run the data centers, enabling Keepit to provide a data storage solution that follows Canadian laws and regulations for businesses operating inside and outside of Canada.â¯
+“Our superior data center strategy is what allows Keepit’s customers to instantly recover and restore lost or compromised data,” said Keepit CTO Jakob Østergaard. “Equinix data centers are recognized globally for exceptional levels of security. And since each location has full copies of user data, with two mirrored physical locations, our clients can rest assured that their data will always be available to them, regardless of their Software-as-A Service (SaaS) vendor’s status. Keepit can confidently guarantee that our infrastructure ensures all customers' data will remain in situ, with no middleware transmissions outside regions. We are proud to be the first and only vendor that can make that claim.”
+â¯
+Keepit’s new data center investment aligns with the proliferation of the data Backup-as-a-Service (BaaS) and recovery sector, which has largely been fueled by the exponential uptick in data volumes that resulted from the increased adoption of connected technologies and digital transformation drives.
+The opening of the data centers highlights Keepit’s commitment to providing the fastest, most secure, and most efficient service to its expanding Canadian customer base, while also demonstrating the significant growth of its global network. Additionally, it will greatly increase the company’s ability to offer seamless, low-latency data backup and recovery services across leading platforms such as Microsoft 365, Google Workspace, and Salesforce.â¯
+â¯
+Keepit’s unique infrastructure is architected around multiple separate, mirrored data centers in each region, with each center operating in active-active mode; thereby, data is continually replicated between the centers. In the event of a single system failure, or even the unlikely event of the loss of a full data center, the platform’s operations will remain unaffected and Keepit’s clients’ data will remain reachable and available to be restored.
+â¯
+Keepit’s existing Canadian partners, such as XenTegra, understand the importance of providing Canadian businesses with data sovereignty via local data centers, and of data being stored separately from the primary environment and independent from the SaaS vendor’s storage locations.â¯
+â¯
+As a global information technology solutions advisor and reseller company focused on digital workspace technologies and cloud computing, XenTegra is enjoying good momentum in Canada:â¯
+"We are seeing an immense need for Keepit’s solution amongst our customers. Every customer we speak to about backup immediately asks whether their data will reside within the country; this is a huge concern for Canadian entities. Keepit’s decision to invest in local, dual, mirrored, and load-balanced data centers is a welcome move to ensure continuity of data availability, along with its independent and local dedicated private cloud infrastructure. For those reasons, XenTegra is pleased to be a Keepit partner."
+Moin Khan
+CTO at Xentegra

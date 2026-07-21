@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/gartner-it-symposium-barcelona/
+Content type: Web page
+Last modified: 2024-11-08T16:36:00+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Meet Keepit at Gartner IT Symposium/Xpo™
+Take control of your SaaS data protection. Ensure confidence in your resilience.
+Meet us at booth #447
+Enjoy exclusive on-site activities at our booth, including a product demo, insights from industry experts, and meeting our team.
+Venue information
+International Barcelona Convention Center, 11-14 Plaça de Willy Brandt, Barcelona, Catalunya 08019 Spain
+Book a meeting with Keepit
+Join us for our speaking session
+Keepit: Bridging Data Governance and Disaster Recovery for Better Resilience
+Speaker: Kim Larsen, CISO Keepit
+November 6, 11:30am-12:00pm (EDT)
+Session code: SPS54 
+Room: Sagrada Familia 
+Key Takeaways:
+- Effective data governance models and approaches
+- Disaster recovery planning that considers the impact of AI
+- Techniques for data prioritization and classification
+- Structuring recovery plans and conducting incident investigation
+We use Keepit to back up everything from Office 365. Whether it is Exchange, OneDrive, SharePoint, or Azure AD, Keepit has us covered.
+It helps us address the risk of data loss, therefore making us compliant to GDPR. Gives IT managers a goodnight sleep knowing any lost data can be easily retrieved.
+Excellent All Round Backup, Easy To Setup And Administer - Well Priced

@@ -1,0 +1,151 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/Help%20center%20documents/jsm-coverage-details.pdf
+Content type: PDF document
+Title: Microsoft Word - jsm-coverage-details
+Pages: 5
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit for
+
+Contents 
+     
+Service desks.................................................................................................................. 3 
+Forms templates............................................................................................................. 3 
+Forms answers ............................................................................................................... 3 
+Request types ................................................................................................................. 3 
+Customer requests ......................................................................................................... 4 
+Service desk queues ....................................................................................................... 4 
+Customers ..................................................................................................................... 4 
+Organizations ................................................................................................................. 4 
+Requests votes: voters .................................................................................................... 5 
+Assets ............................................................................................................................ 5
+
+As the JSM workload is added as an expansion for the Jira workload, the original limitations 
+documented for Jira still apply.  
+ 
+Service desks  
+Recreation of team-managed Service Desk projects is signiﬁcantly constrained by current API 
+capabilities. As a result, such projects are recreated as company-managed Service Desk 
+projects. Due to API limitations, particularly around the reconstruction of team-managed work 
+types, request types, and their associations, most requests cannot be restored and will be 
+missing in the recreated project.  
+ 
+Forms templates  
+Some Form templates cannot be restored due to a legacy issue on the Atlassian side. Atlassian 
+already implemented the bug ﬁx for the templates that are listed in the web UI. However, 
+templates with listed bugs created before the ﬁx implementation will not be ﬁxed automatically.  
+ 
+Forms answers  
+Some ﬁeld values may not be updated during a restore operation. 
+ 
+Create — every ﬁeld is restored exactly as it was at the time of backup. 
+ 
+Update — if a ﬁeld was empty at the time of backup but has since been ﬁlled in, the 
+restore will not delete the new value. Only values that were captured in the snapshot 
+and have since changed will be updated.  
+ 
+Partial limitation: Form submission lock 
+When a form template has the "lock form after submission" option enabled and the connector-
+authenticated user does not have administrator privileges in the space containing the 
+associated issue, the system typically returns a 403 Forbidden error. However, our 
+implementation logs a user-visible message instead: "The form (ID: {formId}) on issue (ID: 
+{issueId}) is locked. The connector-authenticated user requires Project Administrator 
+permissions to perform updates." 
+To successfully restore forms, the connector-authenticated user must have administrator 
+permissions for all service desk projects. 
+ 
+Request types  
+Due to API limitations, restore functionality only recreates essential information: name, 
+description, help text, and issue type associations. After restoration, administrators must 
+manually conﬁgure the restored request types by assigning them to groups and selecting
+
+appropriate ﬁelds to match the original setup. All essential information is captured in our 
+snapshot. 
+Currently, only recreation is supported as API endpoints for updating existing request types are 
+not available. Restore is not supported for Team-managed projects. 
+ 
+Customer requests  
+If the corresponding request type has been recreated, request ﬁelds may not be fully restored. 
+In that case, only the summary ﬁeld will be recovered.  
+Requests approvals and SLA  
+ 
+Restore for SLA is not supported due to API limitations 
+ 
+Restore for approvals is not supported due to API limitations  
+ 
+Service desk queues  
+Restore is not currently supported for queues, as there are no available API endpoints. 
+ 
+Customers  
+ 
+Restore is not supported for customer updates due to API limitations. There is currently 
+no available endpoint for updating an existing customer. 
+ 
+Atlassian servers may occasionally need time to refresh data. After a deletion or restore, 
+allow a few minutes for changes to be fully reﬂected in the system. 
+ 
+Organizations  
+ 
+Organization ﬁeld on issues: Users can add the Organization ﬁeld to issues. However, 
+due to API limitations, the Organization ﬁeld value cannot be restored during restore 
+operations. 
+ 
+Missing organizations during project restore: If a Service Desk project is restored and its 
+associated organization has since been deleted from Jira, the project will be restored 
+without the organization association.  
+During the restore process, if the organization does not exist in the target service, the 
+association between the project and the organization is skipped. The project itself is restored 
+successfully, but without the missing organization linkage.
+
+Requests votes: voters  
+Following recent Atlassian updates, restoring voters is no longer supported for issues or 
+requests. 
+Assets  
+Object schemas  
+ 
+Object schema key uniqueness: If a schema with the same objectSchemaKey already 
+exists in the target environment, a new unique key will be automatically generated 
+during restore to avoid conﬂicts, as duplicate keys are not permitted.  
+ 
+Schema name uniqueness constraint: Restore will fail if an object schema with the 
+same name already exists in the target environment, as duplicate schema names are 
+not allowed. As a workaround, you can rename the existing schema via the UI and then 
+re-run the restore successfully.  
+ 
+Object types and attributes  
+ 
+Restoring individual object types is not supported  
+ 
+Scheduling restore at the object type level is not supported  
+ 
+Partial restore (subset of object types) is not possible  
+ 
+Restore is performed only by creating a new object schema, followed by new object 
+types and new attributes  
+ 
+Existing entities on the instance are never updated or modiﬁed during restore  
+ 
+During attribute restore, selected status values for attributes of type Status cannot be 
+restored in the Type Value conﬁguration and may require manual reconﬁguration after 
+the restore process.  
+Objects  
+ 
+Restoring individual objects is not supported  
+ 
+Scheduling restore at the object level is not supported  
+ 
+Partial restore (subset of objects) is not possible  
+Statuses  
+ 
+Schema-level statuses cannot be restored independently  
+ 
+Scheduling restore for schema-level statuses is not supported  
+ 
+Schema-level statuses are only restored as part of full object schema restore  
+ 
+Existing schema-level statuses are not updated during restore  
+ 
+Global icons  
+Restore of icons is not supported due to API limitations. However, you can download the icon 
+ﬁle from the UI and upload it manually if needed.

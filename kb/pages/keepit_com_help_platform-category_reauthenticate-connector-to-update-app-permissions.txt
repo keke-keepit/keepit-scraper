@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/help/platform-category/reauthenticate-connector-to-update-app-permissions/
+Content type: Web page
+Last modified: 2026-06-18T10:35:38+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Reauthenticate connector to update app permissions
+At Keepit, we're continuously enhancing our backup and restore capabilities to better serve you. To provide you access to these new features, we may require you to grant us additional permissions through the app our platform uses to connector to your SaaS app.
+If we require additional permissions to be approved, you'll receive a notification on the Connectors page and in your backup configuration prompting you to reauthenticate your connector.
+During this time, your backup will continue running, but you may not have the fullest backup coverage or access to the latest connector features until you complete the reauthentication process.
+Reauthenticate connector to update permissions
+1. Open your backup configuration and select Proceed on the pop-up dialog.
+2. Sign in to your dedicated service account.
+Note: Ensure this account has the appropriate admin role.
+3. Accept the new permissions.
+You will be redirected back to Keepit and we will proceed backing up your data with the new permission set.

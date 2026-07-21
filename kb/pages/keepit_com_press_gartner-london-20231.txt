@@ -1,0 +1,36 @@
+Source URL: https://www.keepit.com/press/gartner-london-20231/
+Content type: Web page
+Last modified: 2025-08-15T00:32:59+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How AI capabilities take SaaS data protection to the next level
+Keepit speaks in two sessions: With Porsche Informatik on how Europe’s largest car distributor works to ensure cyber resilience today; and a showcase on how to prepare for future data protection
+COPENHAGEN, DENMARK, Nov. 16, 2023 – Keepit, the market leader in cloud data protection and management, announced today that it will be presenting and exhibiting at the Gartner IT Infrastructure, Operations & Cloud Strategies in London, UK, from November 20th to 21st.
+On Monday, November 20th, Keepit’s Chief Technology Officer (CTO) Jakob Østergaard will co-present with Josef Perlinger, Lead Program Manager Resilience, Security & Cloud at Porsche Informatik GmbH, in the session: “Keepit: Real-World M365 Cyber Resilience - Insights from Porsche Informatik.” The two talk about how Porsche Holding Salzburg, Europe’s largest car dealership, deals with the increase in cybersecurity threats by strengthening the organization’s cyber resilience with Keepit’s independent backup and recovery for Microsoft 365.
+Key takeaways from the session will include:
+• How cloud backup is crucial to fortifying Microsoft 365 against cyber threats
+• Why an independent cloud is pivotal in achieving operational resilience
+• Case studies from Porsche Informatik highlighting challenges and solutions in implementing cloud backup
+Session 2: Cyber resilience, AI and data protection
+On Tuesday, November 21st, Keepit’s CTO Jakob Østergaard is on stage again - this time, with Keepit VP of Product Henrik Brusgaard, for an Exhibit Showcase session entitled: “Keepit: Accelerating Cyber Resilience with AI-Driven Data Protection Platforms.” In the session, they reflect on the challenges of applying AI to data protection and shed light on how Keepit works to assess and select which AI capabilities to adopt, in order to match future, next-level data protection needs while adhering to existing and coming regulatory controls.
+“Harnessing the power of technological advancement while securing user activity and user data is a key charge for all SaaS platform providers, and we really look forward to discussing these questions with the audience in London. All businesses are becoming SaaS-powered. We’re seeing a continuous transition with companies typically using hundreds of SaaS apps - and IT’s biggest concern is how to secure those SaaS apps.” says Keepit CTO Jakob Østergaard.
+Gartner IT Infrastructure, Operations & Cloud Strategies Conference 2023 in London brings the world’s technology leaders together to hear top trends, find objective answers and explore topic coverage in addition to best practices.
+How's the NIS2 readiness coming along?
+One topic that will be central to the conversations for the Keepit team at IOCS is the upcoming Network and Information Security (NIS2) Directive being implemented across the EU from October 2024:
+“NIS2 will be taking the urgency of adhering to regulatory standards on data and infrastructure protection to the next level: It effectively enables regulators to hold company executives personally liable if the company fails to comply with the regulation. As backup and disaster recovery capabilities are identified as critical for compliance with NIS2, I look forward to a lot of interesting discussions on how organizations are preparing themselves,” says Jakob Østergaard.
+At the event, the Keepit team will also be sharing the latest insights on how to mitigate the impact of ransomware attacks by ensuring fast and complete recovery for enterprises. Research shows that a strong backup and recovery strategy can mean the difference between organizations being able to ignore extortionists and having to succumb to paying ransom again and again.
+WHAT: Solution Provider Session, “Keepit: Real-World M365 Cyber Resilience - Insights from Porsche Informatik”
+WHO: Jakob Østergaard, Keepit CTO, and Josef Perlinger, Lead Program Manager Resilience, Security & Cloud at Porsche Informatik GmbH
+WHERE: Arcadia, Level 2, InterContinental London, The O2
+WHEN: Monday, Nov 20, 1:15 - 2:15 pm.
+WHAT: Theater Session, "Keepit: Accelerating Cyber Resilience with AI-Driven Data Protection Platforms.”
+WHO: Jakob Østergaard, Keepit CTO, and Henrik Brusgaard, Keepit VP of Product
+WHERE: Theater 1, Exhibit Showcase, Level 1, InterContinental London, The O2
+WHEN: Tuesday, Nov 21, 10:00 - 10:20 am.
+Keepit will be exhibiting for the duration of the conference at booth #301.
+To arrange a product demonstration or meeting with a member of the Keepit team at the conference, book a meeting here.
+About Keepit
+Keepit provides next-level SaaS data protection for companies with data stored in the cloud. Keepit is the world’s only vendor-neutral and independent cloud dedicated to SaaS data protection based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Azure AD, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

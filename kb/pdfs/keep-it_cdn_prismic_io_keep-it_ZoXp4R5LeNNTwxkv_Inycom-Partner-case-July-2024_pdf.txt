@@ -1,0 +1,161 @@
+Source URL: https://keep-it.cdn.prismic.io/keep-it/ZoXp4R5LeNNTwxkv_Inycom-Partner-case-July-2024.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-07-21
+
+============================================================
+
+Partner case: Inycom
+Inycom strengthens 
+clients’ backup and 
+recovery capabilities 
+with Keepit partnership
+
+Partners since 2019, Inycom has recently strengthened 
+its alliance with Keepit by achieving Keepit’s Elite 
+Partner Certification. 
+Together, Inycom and Keepit protect over tens of 
+thousands of users globally and continue to join forces 
+in delivering next level SaaS data protection to even 
+more companies worldwide.
+A brighter future for Inycom’s clients’ 
+data retention
+Delivering clients with the Keepit solution means that 
+Inycom customers can safeguard vital data in multiple 
+locations – by storing data redundantly in two or 
+more hosting centers. The solution offers unlimited 
+data retention, integrates seamlessly with all Office 
+programs, and allows quick and easy data restores. 
+Clients can trust that their data is safe – and even in the 
+event of a ransomware attack, they’ll quickly and easily 
+be able to restore data and keep business operations 
+running.
+Direct integration with Microsoft 
+The Keepit solution is directly integrated with 
+Microsoft 365, meaning that clients can automatically 
+back up data without system disruptions. One 
+example of the importance of such an integration 
+is during the “Cerber” ransomware attacks of 2016, 
+where companies experienced the importance 
+of a robust backup and recovery solution during a 
+cyberattack. 
+“One of the aspects 
+where Keepit excels is its 
+direct integration with 
+Microsoft 365. This allows 
+for automatic backups 
+without consuming system 
+resources or disrupting 
+users.”
+Ignacio Hernando, Infrastructure and 
+Applications Consultant at Inycom
+With ransomware threats at an all-time high, Inycom affirms 
+that partnering with Keepit strengthens their ability to protect 
+themselves and customers from potential cyber threats.
+
+Optimizes and protects client 
+infrastructure
+Not only does Keepit offer an unparalleled level of 
+data security to Inycom’s clients, the solution ensures 
+that companies save time and resources due to 
+minimizing downtime in the event of data loss – not 
+to mention the time saved due to the ease of working 
+with the Keepit interface. Such a streamlined data 
+recovery process ensures business continuity and 
+supports compliance standards. 
+Providing clients with secure backup 
+and recovery
+Partnering with Keepit allows Inycom to deliver secure 
+SaaS data protection solutions to their clients. The 
+Keepit solution provides independent cloud backup, 
+allowing quick and easy restoration of deleted or 
+modified data. Effectively, this certified security 
+means that clients are fully protected against data 
+loss, whether it’s from human error, cyberattacks, or 
+malicious deletion.
+“Our partnership with 
+Keepit boosts our ability 
+to increase and improve 
+our technological 
+capabilities in the field 
+of SaaS data protection 
+and positions us in an 
+unbeatable position for 
+the coming years.” 
+Ignacio Hernando, Infrastructure and 
+Applications Consultant at Inycom
+About Inycom
+Inycom, headquartered in Spain, is a global 
+company with 40 years of experience, offers 
+value-added technological solutions and 
+services.
+Its commitment to innovation, quality 
+management through the application of a 
+Management System based on Business 
+Excellence, and belief in people as value 
+generators, enables Inycom to be a trusted 
+partner in cybersecurity and modernization 
+of infrastructures towards new application 
+frameworks, mobile devices, cloud, etc., with 
+solutions based on three pillars: Peace of 
+mind, protection, and professionalism.
+As part of the Nunsys Group, Inycom joins a 
+group, with 100% national capital, positioned 
+as a leader in the technology sector with 
+over 2,600 professionals and a presence 
+nationwide and internationally through 24 
+branches. This union strengthens the group’s 
+offering in solutions, digital services, high 
+technology, and engineering in key sectors 
+for the economy such as Banking, Insurance, 
+Health, Industry, Laboratories, Telco, or 
+Public Administration.
+
+Grow your business with the 
+Keepit partner program
+Learn how
+Keepit provides next-level SaaS data protection 
+purpose-built for the cloud, by securing data in a 
+vendor-independent cloud to safeguard essential 
+business applications, boost cyber resilience and 
+future-proof data protection.
+Headquartered in Copenhagen with offices and data 
+centers worldwide, over ten thousand companies 
+trust Keepit for its ease of use and effortless backup 
+and recovery of cloud data.   
+HQ - Copenhagen
+Denmark
+Keepit A/S
+Per Henrik Lings Allé 4, 7.
+2100 København, Denmark
+CVR: 30806883
++45 8987 7792
+sales@keepit.com
+Dallas, Texas
+United States
+Keepit USA Inc.
+3232 McKinney Avenue Suite 820 
+Dallas TX 75204, USA
+TIN: 85-358 6335
++1 469-461-4892
+sales@keepit.com
+London
+United Kingdom
+Keepit Technologies UK, LTD.
+Warnford Court
+29, Throgmorton Street
+London EC2N 2AT, UK
+Company reg. no.: 13785045
+sales@keepit.com
+Munich
+Germany
+Keepit Germany GmbH
+Maximiliansplatz 22
+380639 München
+Amtsgericht München,
+HRB 270094
+Geschäftsführer Morten Felsvang
+sales@keepit.com
+© 2024 Keepit. All rights reserved.
+www.keepit.com

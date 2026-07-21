@@ -1,0 +1,56 @@
+Source URL: https://www.keepit.com/blog/backup-volumes/
+Content type: Web page
+Last modified: 2026-05-20T10:23:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup volumes arenât exploding (yet)
+What incremental backup changes — and why AI isn’t breaking backups (for now).
+If you’ve spent any time in IT over the past year, you’ve probably heard some version of this sentence:
+“Once AI really takes off, your backup costs are going to go through the roof.”
+It sounds plausible. AI tools generate content. Content becomes data. Data needs to be backed up. QED, right?
+Well… not so fast.
+One of the reasons I enjoy working with real operational data (as opposed to vendor whitepapers, industry surveys, or analyst estimates) is that it tends to tell a more nuanced story. And in this year’s Keepit Annual Data Report, the data tells us something refreshingly boring — in the best possible way.
+Despite all the innovation, disruption, and AI-fueled speculation, backup volumes are not exploding. At least not yet. And there are some very good, very practical reasons why.
+The magic of boring numbers: ~2% per day
+Let’s start with a simple observation from the report.
+When an organization first onboards to Keepit, the initial backup is large — effectively 100% of the dataset. That’s expected. But after that first run, things settle down quickly. On average, each subsequent daily backup adds about 2% of additional data relative to the original baseline.
+That number matters. A predictable, low daily change rate means that backup growth is linear and manageable, not exponential. It also means backup performance remains fast, and backup management is simpler and easier.
+The low daily change rate also means two important things. First, the SaaS applications (such as SharePoint, OneDrive, and Google Workspace) are doing a good job of reducing network and storage overhead via file compression and intelligent versioning to help themselves. Second, and more importantly, it means that Keepit’s platform is able to deliver always-incremental backups at an operating cost that lets us skip the traditional storage-consumption-based pricing model.
+New files vs. changed files: what’s actually driving growth
+Page 13 of the report goes one level deeper by looking at what kind of changes make up that daily 2%.
+There’s a useful split here:
+- About 42% of ingested files are entirely new
+- About 58% are existing files that changed
+- But when you look at bytes, not file count, the picture flips:
+- ~68% of ingested bytes come from new files
+- ~32% come from modified files
+This tells us two important things.
+First, most edits happen to relatively small files — think documents, spreadsheets, and text-based content. Second, large files tend to be created once and rarely modified. Videos, recordings, exports, and datasets get added… and then mostly left alone.
+That’s not surprising if you’ve spent any time managing Microsoft 365, Google Workspace, or Salesforce environments. It is useful confirmation when you see it in large-scale, anonymized data.
+So where does AI fit into this?
+This is where expectations and reality tend to drift apart.
+Yes, generative AI creates new content. But today, most AI-generated data lives with the AI provider, not in your tenant. Prompts, intermediate outputs, embeddings, and model artifacts don’t automatically land in SharePoint, OneDrive, or Google Drive. At least not unless someone explicitly saves them there.
+Even when AI-generated content does end up in your SaaS environment, it often replaces or supplements traditional document creation rather than multiplying it. A generated draft replaces a manually written one. A summary replaces a longer document. The net effect on storage isn’t zero — but it’s also not explosive.
+The report cautiously speculates that AI may increase the share of new files versus modifications over time, because generative workflows favor creation over refinement. That’s a reasonable hypothesis. If true, this hypothesis also leads to an excellent benefit: backup systems that better handle incremental changes, such as Keepit, have a significant performance, storage, and management advantage.
+Nothing in the data suggests a sudden structural change in backup volume or behavior.
+Why this matters for backup strategy
+If you’re responsible for backup and recovery, this is good news — but only if you interpret it correctly.
+Predictable growth doesn’t mean backups are “set and forget.” As we’ve seen, monitoring and testing is still of critical importance. Predictable growth does mean:
+- Backup windows stay short if incremental systems are working properly
+- Network and throttling impacts remains low if you aren’t re-ingesting unchanged data
+- Cost forecasting becomes easier if you understand real change rates
+It also means that fear-driven planning — especially around AI — can do more harm than good. Over-provisioning for hypothetical data explosions often leads to unnecessary complexity and wasted spend.
+The smarter approach is the boring one: watch what actually changes, measure it consistently, and adjust when the numbers change — not before.
+The quiet role of recovery
+One more point that often gets lost in conversations about “how much data” is how that data is used after it’s backed up.
+An incremental model doesn’t just make backups smaller — it also gives you more control of restores since you have fine-grained access to every change. When most change happens in small, lightweight files, then most recovery scenarios involve the same. Our operational data tells us that single-file restores dominate because that’s usually what’s needed.
+That’s a sign of maturity, not weakness. It means backup systems are being used as operational tools, not just insurance policies.
+AI will change things — just not all at once
+None of this is an argument that AI won’t eventually affect backup patterns. It almost certainly will. As organizations integrate AI more deeply into core workflows — and as generated data becomes firstâclass business data — storage behavior will evolve.
+But the data we have today says this evolution will likely be gradual, uneven, and manageable, not explosive or catastrophic.
+Which brings us back to that opening concern.
+Backup volumes aren’t exploding. Changes are incremental. Growth is predictable. And just like when flying, boring is exactly what you want, with no unpleasant surprises or failures.
+If and when that changes, it’ll show up in the data — and we’ll be ready to deal with it then.
+Until that day, I’ll take a steady 2%.

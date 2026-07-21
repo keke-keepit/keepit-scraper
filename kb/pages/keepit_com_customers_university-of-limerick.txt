@@ -1,0 +1,35 @@
+Source URL: https://www.keepit.com/customers/university-of-limerick/
+Content type: Web page
+Last modified: 2026-07-14T18:30:53+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit chosen as partner for University of Limerick's disaster recovery strategy
+As a research-led university, the University of Limerick (UL) manages critical academic and administrative data across its Microsoft 365 environment. As the University expanded its cloud services, the IT team recognised an opportunity to enhance its disaster recovery capabilities by introducing an independent backup solution for Microsoft 365 data and key Entra ID and Intune configurations. To strengthen resilience and ensure critical data and settings could be recoveredâ¯in the event ofâ¯a major incident, the University evaluated SaaS backup and recovery solutions andâ¯ultimately selectedâ¯Keepit.â¯
+Building a stronger disaster recovery strategyâ¯
+Mark Twomey, Cloud Architect at the University of Limerick and a member of the Enterprise Architecture team within the Information Technology Division (ITD), was the technical lead for the project and part of the implementation team established for onboarding this solution.â¯His role includes evaluating cloud technologies and ensuring they integrate effectively within the University architecture and meet security and operational requirements.
+The team in UL recognised that protecting SaaS data was part of its responsibility under Microsoft’s shared responsibility model. According to Mark and Treasa Cunneen, Head of Enterprise Architecture at UL, the University had high-value information stored across itsâ¯tenant, and there was an internal expectation that the data was being backed up, just as it has been in UL’s on-prem environment.â¯
+The University also needed to support GDPR by ensuring backed up data remains within the EU. As a research-led institution, protecting research data was another important consideration during the evaluation process to ensure alignment with NIS2 if required.â¯
+Ensuring data was securely backed up and recoverableâ¯in the event ofâ¯a major incident was critical, and the University viewed Keepit as a key part of its disaster recovery strategy.â¯
+The solution had to be immutable and separate from our Microsoft environment. Because Keepit operates its own data centers, we know our backup remains isolated from the systems we rely on every day.
+Treasa Cunneen 
+Head of Enterprise Architecture, University of Limerick
+That separation gave the University confidence that its backup environment would remain available evenâ¯in the event ofâ¯a major incident affecting its Microsoft tenant, helping reduce cloud concentration risk by keeping backups isolated from the production environment.â¯
+Evaluating vendors through a rigorous processâ¯
+UL conducted a formal tender process to evaluate potential backup solutions. Following completion of this process, Keepit was selected as the successful vendor.
+Today, UL protects Microsoft 365 data for all staff and students. The University also backs up important Entra ID and Intune configurations and settings.â¯
+Protectingâ¯configurations that keep systems runningâ¯
+As device management, user management, and policy functions continue to move to the cloud, protecting this configuration data became just as important as safeguarding user files, making the ability to easily backup and restore these settings a key project requirement.
+Entra ID and Intuneâ¯containâ¯the configurations and settings that make your tenant function. If you had to rebuild all that tomorrow, it would be extremely difficult.
+Mark Twomeyâ¯ 
+Cloudâ¯Architectâ¯, University of Limerick
+The ability to protect Intune configuration profiles, compliance policies and the groups assigned to these settings as well as Entra objects, including BitLocker recovery keys, app registrations and enterprise apps playedâ¯a major roleâ¯in the University’s decision.
+The University sees thisâ¯additionalâ¯layer of protection as a significant enhancement to its disaster recovery capabilities.â¯
+Simple management with responsive supportâ¯
+Following deployment, the University found the onboarding process straightforward and collaborative. The project team worked closely with the Keepit team to configure connectors, app registrations, and prerequisites for the Microsoft environment, including onsite support during critical implementation stages.â¯
+The team at UL also values the day-to-day usability of the platform, noting that the dashboard is intuitive and easy to manage from an administrator perspective.â¯
+Keepit’sâ¯support isâ¯excellent. I can contact my account team or log a support call through the admin portal, andâ¯they’reâ¯usually back within a couple of hoursâ¯to help resolve the issue.
+Brian Kinane 
+IT networking , University of Limerick
+For UL, Keepit has become an important part of strengthening disaster recovery readiness and protecting the systems and configurations the university depends on every day.â¯

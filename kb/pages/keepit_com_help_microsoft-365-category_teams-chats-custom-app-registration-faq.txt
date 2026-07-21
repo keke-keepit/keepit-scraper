@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/teams-chats-custom-app-registration-faq/
+Content type: Web page
+Last modified: 2026-06-29T23:30:03+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Teams Chats custom app registration FAQ
+Questions and answers about upcoming changes to the configuration of Teams Chats backup
+Q: What is the purpose of custom app registrations for Teams Chats?
+A: Creation of a custom app registration helps to distribute the per-app throttling budget from the standard shared multi-tenant application Keepit uses today to an application owned and managed by the customer. This improves overall backup performance and reduces backup job duration for Teams Chats.
+Q: Am I required to create an app registration to back up Teams Chats?
+A: Yes, this ensures that your critical data is backed up as fast as possible, so that you can be sure that your data is backed up completely and on time.
+Q: What happens to my connectors that already have Teams Chats enabled?
+A: If you have Teams Chats in a dedicated connector but no app registration exists, backups will be unsuccessful, and the connector health will become critical. Backups will not succeed until you create an app registration, connect it to your account, and reauthenticate the connector.
+If you have Teams Chats in a connector with other data types but no app registration exists, backups for all other data areas except Teams Chats will be successful, but the connector health will become unhealthy. Teams Chats data will not be backed up until you create an app registration, connect it to your account, and reauthenticate the connector.
+Q: What happens to new connectors?
+A: For new connectors, if no app registration exists, Teams chats will be disabled by default. When Teams chats is enabled for backup, you will be guided through the process to connect your app registration to your account.
+Q: How do I create a custom app registration in Entra ID?
+A: We have created a knowledge base article to walk you through the configuration step-by-step. You can find the link here.
+Or watch our how-to video here.
+Q: What happens if I don’t create a custom app registration?
+A: If an app registration is not created, connected to your account, and authorized, the backup of Teams Chats data will be skipped, and the connector status will indicate that the configuration is out of date.
+If you have any questions not answered here, please reach out to support. Additionally, all feedback regarding this update is welcome.

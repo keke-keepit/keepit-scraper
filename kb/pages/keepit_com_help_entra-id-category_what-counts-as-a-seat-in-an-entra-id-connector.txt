@@ -1,0 +1,35 @@
+Source URL: https://www.keepit.com/help/entra-id-category/what-counts-as-a-seat-in-an-entra-id-connector/
+Content type: Web page
+Last modified: 2026-07-03T23:35:04+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What counts as a seat in an Entra ID connector
+What is a seat
+At Keepit, we use "seat" as the metric to measure your consumption of our services.
+Each seat you purchase represents a licensed user or an item from your organization. These are products to which you can assign Keepit services.
+Seat types
+We know not all your Microsoft products have the same value. This is why Keepit has 4 seat types:
+- Full seat
+- Light seat
+- Faculty seat
+- Student seat
+How Microsoft licenses are counted as seats
+All users backed up in the Entra ID connector are included in the seat count.
+Each unique user is assigned one seat based on the M365 licenses assigned to them. The license classification used to determine seat types for M365 also applies to Entra ID. Additionally, a few Entra ID–specific licenses are also included within the same classification framework.
+For a full license breakdown of which Entra ID license corresponds with which type of Keepit seat, see: How Microsoft products are counted as Keepit seats for Entra ID connectors
+What counts as a seat
+To qualify as a seat, the following must be true:
+- User must be selected for backup
+- User must be active
+- User not be blocked from signing in
+- User must belong to the tenant (not a guest)
+- User must have an assigned relevant Microsoft license (as described in the linked document above)
+License assignment logic
+When a user holds multiple active licenses that fall under different seat types, they are assigned to only one seat type — specifically, the one with the highest priority.
+The priority of seat types is defined as follows (from highest to lowest):
+- Full
+- Light
+- Faculty
+- Student

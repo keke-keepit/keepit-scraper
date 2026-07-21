@@ -1,0 +1,135 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-document-with-invoice-content/
+Content type: Web page
+Last modified: 2026-03-24T13:48:56+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve document with invoice content
+This command retrieves a structured document that describes the contents of the invoice.
+The reference ID can be obtained from the response to the previous request: Method GET /users/{user}/invoices
+API request
+Method GET
+/users/{account_id}/invoices/{reference}
+Optional additional header
+Key: Accept
+Value: application/vnd.keepit.v1+xml
+Example
+Method GET
+https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka/invoices/agn1sfs6hcemt
+Response
+Code: 200 OK
+Response body (partial):
+<invoice>
+    <reference>agn1sfs6hcemt</reference>
+    <product>1m2tuj-4h6ozj-rchiyz</product>
+    <product-name>Billing_quad</product-name>
+    <contact>
+        <type>p</type>
+        <email>test@keepit.com</email>
+        <companyname>CompanyName</companyname>
+        <fullname>FullName</fullname>
+        <country>PL</country>
+        <language>en-US</language>
+    </contact>
+    <currency>EUR</currency>
+    <issued>2024-07-20T00:00:00.000000Z</issued>
+    <due>2024-08-03T00:00:00.000000Z</due>
+    <items>
+        <metered-fee>
+            <description>Zendesk consumption (2024-05-31 to 2024-06-30)</description>
+            <units>11</units>
+            <unit-price>0.01</unit-price>
+            <price>0.11</price>
+        </metered-fee>
+...
+    </items>
+    <subtotal>396.00</subtotal>
+    <vat>91.08</vat>
+    <vat-percents>23.0</vat-percents>
+    <total>487.08</total>
+    <total-minor>48708</total-minor>
+</invoice>PowerShell script
+try {
+  $domain = 'https://dk-co.keepit.com'
+  $username = '<API Token username>'
+  $password = '<API Token password>'
+  $userId = '<Account ID>'
+  $reference = '<Reference ID>'  # The invoice reference from the /invoices request
+  $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+  $headers = @{
+      "User-Agent" = "PowerShell-Keepit-API-Agent-1.0"
+      "Authorization" = "Basic $basicauth"
+      "Accept" = "application/vnd.keepit.v1"
+  }
+  $url = "$domain/users/$userId/invoices/$reference"
+  $response = Invoke-WebRequest -Uri $url -Method 'GET' -Headers $headers -ErrorAction Stop -TimeoutSec 10
+  [xml]$xmlContent = $response.Content
+  foreach ($node in $xmlContent.documentElement.ChildNodes) {
+      if ($node.Name -eq 'items') {
+          Write-Host "items:"
+          foreach ($item in $node.ChildNodes) {
+              Write-Host "  - $($item.Name):"
+              foreach ($subNode in $item.ChildNodes) {
+                  Write-Host "      $($subNode.Name): $($subNode.InnerText)"
+              }
+          }
+      }
+      elseif ($node.Name -eq 'contact') {
+          Write-Host "contact:"
+          foreach ($subNode in $node.ChildNodes) {
+              Write-Host "  - $($subNode.Name): $($subNode.InnerText)"
+          }
+      }
+      else {
+          Write-Host "$($node.Name): $($node.InnerText)"
+      }
+  }
+}
+catch {
+  $line = $_.InvocationInfo.ScriptLineNumber
+  Write-Host "Error querying Keepit API: $_"
+  Write-Host "at line $line"
+}Script result
+reference: agn1sfs6hcemt
+product-name: Billing_quad
+contact:
+  - type: p
+  - email: test@keepit.com
+  - companyname: CompanyName
+  - fullname: FullName
+  - country: PL
+  - language: en-US
+currency: EUR
+issued: 2024-07-20T00:00:00.000000Z
+due: 2024-08-03T00:00:00.000000Z
+items:
+  - subscription-fee:
+      description: Monthly subscription: 2024-06-22 - 2024-07-21
+      price: 1.00
+  - metered-fee:
+      description: Zendesk consumption (2024-05-31 to 2024-06-30)
+      units: 11
+      unit-price: 1.00
+      price: 11.00
+  - metered-fee:
+      description: Power BI consumption (2024-05-31 to 2024-06-30)
+      units: 20
+      unit-price: 1.00
+      price: 20.00
+  - metered-fee:
+      description: Microsoft 365 Quad Full consumption (2024-05-31 to 2024-06-30)
+      units: 20
+      unit-price: 1.00
+      price: 20.00
+ ...
+subtotal: 396.00
+vat: 91.08
+vat-percents: 23.0
+total: 487.08
+total-minor: 48708Additional information
+- The response can use the accept header application/vnd.keepit.v0+xml or application/vnd.keepit.v1+xml.
+- key – Accept
+- value - application/vnd.keepit.v1+xml
+- If the header is omitted, the default version (v0) is used.
+- In v1, an additional <product> element is included in the response.

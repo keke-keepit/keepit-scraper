@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/partners/partners-stories/inycom-strengthens-clients-backup-and-recovery/
+Content type: Web page
+Last modified: 2026-04-23T15:56:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Inycom strengthens clientsâ backup and recovery capabilities with Keepit partnership
+With ransomware threats at an all-time high, Inycom affirms that partnering with Keepit strengthens their ability to protect themselves and customers from potential cyber threats.
+Partners since 2019, Inycom has recently strengthened its alliance with Keepit by achieving Keepit’s Elite Partner Certification.
+Together, Inycom and Keepit protect over tens of thousands of users globally and continue to join forces in delivering next level SaaS data protection to even more companies worldwide.
+A brighter future for Inycom’s clients’ data retention
+Delivering clients with the Keepit solution means that Inycom customers can safeguard vital data in multiple locations – by storing data redundantly in two or more hosting centers. The solution offers unlimited data retention, integrates seamlessly with all Office programs, and allows quick and easy data restores. Clients can trust that their data is safe – and even in the event of a ransomware attack, they’ll quickly and easily be able to restore data and keep business operations running.
+Direct integration with Microsoft
+The Keepit solution is directly integrated with Microsoft 365, meaning that clients can automatically back up data without system disruptions. One example of the importance of such an integration is during the “Cerber” ransomware attacks of 2016, where companies experienced the importance of a robust backup and recovery solution during a cyberattack.
+One of the aspects where Keepit excels is its direct integration with Microsoft 365. This allows for automatic backups without consuming system resources or disrupting users.
+Ignacio Hernando,
+Infrastructure and Applications Consultant at Inycom
+Optimizes and protects client infrastructure
+Not only does Keepit offer an unparalleled level of data security to Inycom’s clients, the solution ensures that companies save time and resources due to minimizing downtime in the event of data loss – not to mention the time saved due to the ease of working with the Keepit interface. Such a streamlined data recovery process ensures business continuity and supports compliance standards.
+Providing clients with secure backup and recovery
+Partnering with Keepit allows Inycom to deliver secure SaaS data protection solutions to their clients. The Keepit solution provides independent cloud backup, allowing quick and easy restoration of deleted or modified data. Effectively, this certified security means that clients are fully protected against data loss, whether it’s from human error, cyberattacks, or malicious deletion.
+Our partnership with Keepit boosts our ability to increase and improve our technological capabilities in the field of SaaS data protection and positions us in an unbeatable position for the coming years.
+Ignacio Hernando,
+Infrastructure and Applications Consultant at Inycom

@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/resources/foundry-survey-white-paper/
+Content type: Web page
+Last modified: 2025-08-20T00:12:59+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Survey: Can data protection keep pace with the shifting landscape?
+In an evolving technological landscape, enterprise IT leaders are grappling with unprecedented challenges in data protection and governance, driven by the rapid adoption of cloud applications and generative AI. Foundry's survey: “Can data protection keep pace with the shifting landscape?” underscores this trend.
+The respondents of the survey represent IT decision-makers from companies with over 1,000 global employees.
+Data protection strategies
+While 70% of respondents report that their financial applications are covered by data protection strategies, a significant portion of other key systems and custom applications remain vulnerable.
+- Financial systems: 70% are covered by data protection strategies.
+- E-commerce and HR Management Systems: 50% are covered.
+- CRM and ERP systems: 48% and 42% respectively.
+- Critical transaction-based systems, custom applications, and collaboration and productivity tools: Are lagging with only between a third and a quarter of systems covered.
+Strategic gaps and vulnerabilities
+The survey reveals that only half of the organizations have incorporated cloud-stored SaaS data into their disaster recovery plans. Another 40% plan to address this gap soon. The current state of data protection is seen as a significant barrier to expanding the use of generative AI technologies.
+Strategic gaps:
+- Critical SaaS data applications: 50% of respondents have included data cloud-stored in critical SaaS applications in their disaster recovery plans, and 40% plan to do so.
+- AI data protection: Nearly all organizations prioritize AI data protection, with 52% already implementing tools for chatbots and AI platforms and 43% considering them.
+Compliance and future proofing
+Compliance is a top concern for 73% of survey respondents heading into 2024, with data governance (53%) and enterprise backup and recovery (45%) also ranking high. Regulatory scrutiny is increasing globally, with mandates from agencies like the SEC in the US and the upcoming Digital Operational Resiliency Act (DORA) in the EU.
+Compliance challenges:
+- Regulatory mandates: New cybersecurity resilience requirements.
+- Cybersecurity risks: Continued threats, notably ransomware.
+The survey was commissioned by Keepit.

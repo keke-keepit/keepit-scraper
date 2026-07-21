@@ -1,0 +1,170 @@
+Source URL: https://www.keepit.com/help/api-category/filter-job-information/
+Content type: Web page
+Last modified: 2026-04-01T10:28:25+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Filter job information
+This command filters job information.
+API request
+Method PUT
+/users/{account_id}/devices/{connector_id}/jobs
+Elements table
+Root object element: filter
+This command filters job information.
+Method PUT
+/users/{account_id}/devices/{connector_id}/jobs
+Root object element: filter
+Filter only active jobs via API:
+Method PUT
+https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/devices/11ptlk-st7sly-ggba4c/jobs
+<filter>
+    <from-time>2024-10-14T08:12:14Z</from-time>
+    <to-time>2024-10-16T08:12:14Z</to-time>
+    <active-only>true</active-only>
+</filter>Code: 200 OK
+Response body:
+ <jobs>
+    <job>
+        <guid>va14e0-sa8c7o-giq88n-hsfgdx</guid>
+        <description>[backup][bl][auto][o365-admin]{Microsoft 365 Backup(8)}</description>
+        <type>backup</type>
+        <priority>0</priority>
+        <active>true</active>
+        <start>2024-10-15T00:54:29Z</start>
+        <scheduled>2024-10-15T12:54:51Z</scheduled>
+    </job>
+</jobs>try {
+    $username = '<API Token username>'
+    $password = '<API Token password>'
+    $userId = '<Account GUID>'
+    $connectorId = '<Connector GUID>'
+    $hostname = 'dk-co.keepit.com'
+    $body = @"
+<filter>
+    <from-time>2024-10-14T08:12:14Z</from-time>
+    <to-time>2024-10-16T08:12:14Z</to-time>
+    <active-only>true</active-only>
+</filter>
+"@
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+        "Content-Type"  = "application/xml"
+    }
+    $response = Invoke-WebRequest -Uri "https://${hostname}/users/${userId}/devices/${connectorId}/jobs" `
+        -Method Put -Headers $headers -Body $body -ErrorAction Stop
+    $xmlContent = [xml]$response.Content
+    $xmlContent.SelectNodes("//job") | ForEach-Object {
+        $started = if ($_.started) { $_.started } else { "Scheduled" }
+        Write-Host "GUID: $($_.guid)"
+        Write-Host "Type: $($_.type)"
+        Write-Host "Active: $($_.active)"
+        Write-Host "Started: $started"
+        Write-Host "---------------------------"
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}GUID: va14e0-sa8c7o-giq88n-hsfgdx Type: srestore Active: true Started: 2024-10-15T00:54:29Z --------------------------- GUID: p6eqb9-4t1wwi-2vnnuw-y1oh5c Type: backup Active: true Started: Scheduled ---------------------------
+Filter by job type and add a fail reason:
+Method PUT
+https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/devices/11ptlk-st7sly-ggba4c/jobs
+<filter>
+    <from-time>2024-10-14T08:27:14Z</from-time>
+    <to-time>2024-10-16T08:27:14Z</to-time>
+    <type>srestore</type>
+    <limit>100</limit>
+    <stats>
+        <name>fail_reason</name>
+    </stats>
+</filter>Code: 200 OK
+Response body:
+<jobs>
+    <job>
+        <guid>fsglzll-yvsqx2-1shdhk-fuhxgd</guid>
+        <description>[srestore] [webui2] [user] [o365-admin] {Microsoft 365 Backup}</description>
+        <execsummary><?xml version="1.0" encoding="utf-8"?><execsummary><summary>Failed to process one or more items</summary><exitreason>done</exitreason></execsummary><!-- End of Document 2024-10-15T16:46:12Z --></execsummary>
+        <type>srestore</type>
+        <priority>1</priority>
+        <active>false</active>
+        <start>2024-10-15T16:45:22Z</start>
+        <scheduled>2024-10-15T16:45:22Z</scheduled>
+        <dispatched>2024-10-15T16:45:40Z</dispatched>
+        <started>2024-10-15T16:45:40Z</started>
+        <failed>2024-10-15T16:46:12Z</failed>
+        <progress>1.0</progress>
+        <stats>
+            <stat>
+                <name>fail_reason</name>
+                <value>failed_to_restore_some_items</value>
+            </stat>
+        </stats>
+    </job>
+</jobs>try {
+    $username = '<API Token username>'
+    $password = '<API Token password>'
+    $userId = '<Account GUID>'
+    $connectorId = '<Connector GUID>'
+    $hostname = 'dk-co.keepit.com'
+    $body = @"
+<filter>
+    <from-time>2024-10-14T08:27:14.245Z</from-time>
+    <to-time>2024-10-16T08:27:14.245Z</to-time>
+    <type>srestore</type>
+    <limit>100</limit>
+    <stats>
+        <name>fail_reason</name>
+    </stats>
+</filter>
+"@
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+        "Content-Type"  = "application/xml"
+    }
+    $response = Invoke-WebRequest -Uri "https://${hostname}/users/${userId}/devices/${connectorId}/jobs" `
+        -Method Put -Headers $headers -Body $body -ErrorAction Stop
+    $xmlContent = [xml]$response.Content
+    $xmlContent.SelectNodes("//job") | ForEach-Object {
+        $guid = $_.guid
+        $type = $_.type
+        $active = $_.active
+        $started = if ($_.started) { $_.started } else { "Scheduled" }
+        $succeeded = $_.succeeded
+        $failed = $_.failed
+        $progress = $_.progress
+        $status = if ($succeeded) {
+            "Succeeded at $succeeded"
+        } elseif ($failed) {
+            "Failed at $failed"
+        }
+        $failReason = ""
+        if ($failed) {
+            $xmlContent.SelectNodes("//stats/stat[name='fail_reason']/value") | ForEach-Object {
+                $failReason = $_.InnerText
+            }
+        }
+        Write-Host "Job GUID: $guid"
+        Write-Host "Type: $type"
+        Write-Host "Active: $active"
+        Write-Host "Started: $started"
+        Write-Host "Status: $status"
+        Write-Host "Progress: $progress"
+        if ($failReason) {
+            Write-Host "Fail Reason: $failReason"
+        }
+        Write-Host "---------------------------"
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}Script result
+Job GUID: va14e0-sa8c7o-giq88n-hsfgdx Type: srestore Active: false Started: 2024-10-15T00:54:29Z Status: Succeeded at 2024-10-15T00:56:21Z Progress: 1.0 --------------------------- Job GUID: fsglzll-yvsqx2-1shdhk-fuhxgd Type: srestore Active: false Started: 2024-10-15T16:45:40Z Status: Failed at 2024-10-15T16:46:12Z Progress: 1.0 Fail Reason: failed_to_restore_some_items ---------------------------

@@ -1,0 +1,74 @@
+Source URL: https://www.keepit.com/services/backup-microsoft-dynamics-365/
+Content type: Web page
+Last modified: 2025-08-21T20:48:55+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+With Keepit for Dynamics 365, get a comprehensive coverage of your Dynamics instances and entity metadata covering more than 500 data objects.
+For all workloads we cover the following data:
+- Instances
+- Data
+- Entities
+- Records
+- Meta
+Avoid data loss, improve IT efficiency, and streamline compliance with Keepit’s simple, secure, and easy all-inclusive backup solution
+Cloud data needs backing up to be secure. According to Microsoft’s shared responsibility model, it’s up to the data owner to protect their SaaS data.
+According to ESG research, 45% of organizations using SaaS attribute data losses they’ve experienced to deletion, whether accidental or malicious.
+Native Dynamics 365 data is only retained for a maximum of 28 days with no extension possible. And it doesn’t cover all data loss scenarios.
+Recovering a record in Dynamics 365 is time consuming. With Keepit for Dynamics 365, you can restore records in minutes.
+Ensure your mission-critical data has long data retention with up to 99 years of data storage.
+Save valuable time with an intuitive user interface, rapid setup, and minimal maintenance, freeing up your IT staff to get more done.
+With Keepit for Dynamics 365, get a comprehensive coverage of your Dynamics instances and entity metadata covering more than 500 data objects.
+For all workloads we cover the following data:
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+No backup solution is better than its restore capabilities. Keepit for Dynamics 365 offers versatile restore options to support all your needs, fast and easy.
+Keepit allows to get data back again even if that data is part of a relationship – Keepit ensures you can restore those relationship if needed.
+Fast search
+Fast federated search lets you search across all backup data so you can find what you need quickly.
+Smart search
+Controllable smart search allows partial or even misspelled search terms to provide results.
+Deleted items view
+If you’re not sure what was lost, activating the Deleted Items View takes the guesswork out of finding lost data. You can view all data that ever existed and was backed up on a tenant.
+Audit Logs. Track any user activity inside the Keepit platform, allowing you to monitor, review, and investigate any potential breaches.
+Job Monitor. Detect abnormalities in the job monitor and discover changes on a snapshot basis as well as the number of changes made.
+Data Sovereignty. Keepit operates its own data centers in multiple regions globally, helping you meet sovereignty requirements.
+The Right to be Forgotten. Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.
+Security Controls. Manage who has access to data and what permissions they have with granular Role Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
+Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
+With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
+Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
+The Keepit infrastructure runs on software that was designed and built from the ground up by our team.
+Blockchain-like Merkle tree structure
+We created a uniquely powerful architecture that employs a blockchain-like Merkle tree structure that allows you to store data in an immutable format to prevent attackers from manipulating your backups so you can recover quickly with uncompromised backups.
+"Incremental forever"
+The architecture also employs an innovative “incremental forever” approach that delivers performance and cost benefits such as unlimited hot storage, no data tiering, unlimited archiving, and no snapshot expiration. These benefits would simply not be possible to provide general-purpose storage services.
+Get started in few minutes
+Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.
+Intuitive user interface
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
+API-first
+You can integrate Keepit with your existing systems thanks to our API-first approach.
+"I would definitely recommend Keepit to anyone who is thinking about having a cloud-to-cloud backup of the Office 365 or D365 environment. It is very easy to use, and you don't need a lot of training or specialists."
+Manager in IT Mechanical or Industrial
+Engineering Company, 501-1000 employees
+Yes, yet, the native Dynamics 365 backups are only kept for 28 days with no extension possible. This might put your business-critical data at risk.
+Here are the top reasons why should must back your Microsoft Dynamics 365 data:
+To learn more about why users have selected Keepit to back up their SaaS data, visit our Why Keepit page.
+Your data will be securely stored in Keepit’s independent cloud. We run our own data center regions, operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have six data center regions in:
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always go to that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the moves with all affected customers prior to execution.
+Keepit backs up entities (and their related metadata) that are available in the CRM part of Microsoft Dynamics 365.
+This includes the following applications:
+For more details, visit our Support site.
+Built from the ground up for backup and recovery, Keepit offers backup services from multiple data centers across the world. All data center locations feature a high level of certification and all data centers are managed under ISO 27001. In addition, we keep all data in 4 copies across at least 2 physical locations in each region. Safeguarding your data is key for us.
+Learn more on our Security pages.

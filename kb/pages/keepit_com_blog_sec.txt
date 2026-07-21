@@ -1,0 +1,59 @@
+Source URL: https://www.keepit.com/blog/sec/
+Content type: Web page
+Last modified: 2025-08-20T02:24:09+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What the new SEC cybersecurity rules mean for compliance
+In 2023, several key compliance changes occurred when the Securities and Exchange Commission (SEC) rolled out comprehensive cybersecurity guidelines, ushering in a new era of regulatory standards for managing cyber risks and reporting obligations.
+These guidelines not only impact publicly traded companies but also extend their influence to encompass businesses throughout their supply chain. As organizations strive for compliance, understanding and implementing data protection best practices is paramount. Here's what you need to know to align with the SEC's cybersecurity guidelines and safeguard your business.
+Understanding the SEC guidelines rules and regulations
+The SEC's cybersecurity guidelines serve a dual purpose: Bolstering cybersecurity resilience and fortifying the security posture of organizations operating in the United States.
+At a glance: Cyber resilience and security posture definitions and examples:
+- Cyber resilience, roughly speaking, helps an organization to keep going even if it faces cyberattacks. The focus is on being ready for attacks and quickly getting back on track if one happens. Some examples of cyber resilience are having backup plans, quick recovery systems, and other ways to keep working during and after an attack.
+- Security posture focuses on preventing cyberattacks from happening in the first place. The focus is on having strong defense, like locks on doors, to stop attackers from getting in. Some examples include using strong passwords, updating software regularly, immutable technology, and training employees to spot suspicious activity.
+Key aspects include cyber-incident reporting requirements, outlining cybersecurity risk management programs, and disclosing governance information pertaining to cybersecurity. The overarching objective is to ensure that organizations maintain operational readiness to execute critical functions even in the face of disruptions, such as cyberattacks or emergencies.
+SEC cybersecurity checklist: Key requirements and recommendations
+As with many of the well-known compliance mandates (NIS2, GDPR, HIPAA), the key to being compliant with SEC mandates lies in ensuring business continuity achieved through following data protection best practices:
+- Map critical systems: Begin by conducting a thorough risk analysis to identify critical processes and the underlying technology infrastructure supporting them. This entails assessing on-premises, native cloud, and public cloud environments to prioritize crucial data essential for business continuity. Don't overlook the significance of safeguarding identities and credentials, as neglecting identity and access data can have far-reaching consequences.
+- Prioritize data protection: Determine which data assets are paramount for maintaining business operations. Whether it's CEO emails, logistics data, customer information, or intellectual property, prioritize the protection and recovery of critical data in case of an attack.
+- Test disaster recovery plans: Regularly test the effectiveness of your disaster recovery plan and backup management to validate restoration capabilities promptly. Establish acceptable downtime thresholds and ensure that backups support dynamic recovery needs.
+Choosing a backup management and disaster recovery partner
+Selecting a reliable backup management and disaster recovery solution is crucial for achieving compliance with SEC guidelines. Consider the following factors when choosing a vendor:
+- Security and compliance: Choose a vendor with robust security controls and proven compliance with regulatory requirements and one that is verified by key security certifications such as end-to-end ISO/IEC 27001.
+- Recovery time: Prioritize solutions that enable granular recovery and versatile restore options to ensure swift return of critical data to minimize downtime.
+- Data immutability and encryption: Ensure data protection measures such as native immutability and data encryption to safeguard against all cyber threats, ensuring data privacy compliance.
+- Vendor independence: Choose a provider with an air-gapped infrastructure to prevent data loss and mitigate ransomware attacks via a physically and logically separate infrastructure.
+Is the SEC only for US companies?
+The SEC guidelines apply to all U.S.-listed companies. Regardless of size, organizations must focus on creating effective cyber risk management programs and robust business continuity plans.
+Although the SEC primarily regulates securities markets in the United States — overseeing the activities of publicly traded companies, investment advisors, and other market participants — the reach of the SEC extends beyond U.S. borders in certain circumstances which underscores the importance of extending cybersecurity measures to third-party vendors specializing in IT compliance with global regulations beyond the SEC.
+International reach of the SEC
+While the SEC's primary jurisdiction lies within the United States, it has the authority to enforce U.S. securities laws against foreign entities and individuals under specific conditions. These conditions often involve cases where non-U.S. entities engage in activities that affect U.S. investors or the U.S. securities markets.
+Regulating foreign companies
+Foreign companies that list their securities on U.S. exchanges or engage in offerings within the United States are subject to SEC regulations. This includes compliance with reporting requirements, disclosure standards, and other regulatory obligations enforced by the SEC.
+Extraterritorial enforcement
+The SEC may also exercise extraterritorial jurisdiction to pursue enforcement actions against foreign entities involved in securities fraud, market manipulation, or other violations that impact U.S. investors or markets. This allows the SEC to investigate and prosecute wrongdoing occurring outside U.S. borders if it has a sufficient nexus to U.S. securities laws.
+International cooperation
+Recognizing the global nature of financial markets, the SEC collaborates with regulatory authorities in other countries to promote cross-border cooperation and information sharing. This includes participating in international enforcement efforts and coordinating regulatory oversight to address misconduct that transcends national boundaries.
+While the SEC primarily regulates securities activities within the United States, its authority extends internationally in cases involving foreign companies, individuals, or activities that affect U.S. investors or markets. As such, the SEC plays a vital role in maintaining the integrity and transparency of global securities markets.
+SEC cybersecurity rule effective date, reporting requirements, and forms
+Navigating the compliance timeline for SEC cybersecurity rule requires a clear understanding of the specific deadlines tailored to different types of disclosures. Here's a breakdown of the key compliance dates and what they entail:
+1. Initial disclosures for fiscal years ending after December 15, 2023:
+- All registrants are mandated to provide cybersecurity disclosures commencing with annual reports for fiscal years ending after December 15, 2023.
+- This disclosure requirement applies to both Form 10-K and Form 20-F submissions. 
+ 
+2. Material cybersecurity incident disclosure:
+- compliance for disclosing material cybersecurity incidents begins on December 18, 2023.
+- Organizations are required to use Form 8-K and Form 6-K for reporting material cybersecurity incidents.
+- Smaller reporting companies (SRCs) are granted an extended compliance period and must begin compliance by June 15, 2024, affording them an additional 180 days.
+3. Structured data requirements:
+- Starting from fiscal years ending on or after December 15, 2024, all registrants, including SRCs, must incorporate Inline XBRL tagging for cybersecurity disclosures in Form 10-K and Form 20-F.
+- Similarly, for material cybersecurity incident disclosures in Form 8-K and Form 6-K, Inline XBRL tagging becomes mandatory by December 18, 2024. 
+ 
+4. Foreign Private Issuers (FPIs) requirements:
+- FPIs are obligated to disclose material cybersecurity incidents on Form 6-K.
+- Additionally, FPIs must outline their cybersecurity risk management strategy and governance on Form 20-F.
+Let us help you continue your compliance journey
+If you're seeking guidance on complying with the SEC guidelines and fortifying your cyber resilience and cybersecurity posture, we're here to help with cloud data backup and compliance. Let's start a conversation and discuss the steps your business needs to take to navigate these new regulations effectively.
+By proactively implementing these measures and partnering with trusted experts, businesses can not only achieve compliance with SEC guidelines, but also enhance their overall cybersecurity resilience today.

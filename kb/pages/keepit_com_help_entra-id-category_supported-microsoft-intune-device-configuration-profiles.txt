@@ -1,0 +1,119 @@
+Source URL: https://www.keepit.com/help/entra-id-category/supported-microsoft-intune-device-configuration-profiles/
+Content type: Web page
+Last modified: 2026-07-03T23:40:30+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Supported Microsoft Intune device configuration profiles
+Keepit supports backup and restore of the following Microsoft Intune device configuration profiles.
+Preview and compare Entra ID metadata
+Restore an Entra ID administrative unit
+Restore an Entra ID service principal
+Restore an Entra ID app registration
+Restoring Entra ID data with the Restore Wizard
+Restore Entra ID data to a different tenant
+What happens when I restore an Entra ID object?
+Restore an Entra ID object's relationships
+Restore an Entra ID object's licenses
+Restore an Entra ID conditional access policy
+Restore authentication methods
+Keepit supports backup and restore of the following Microsoft Intune device configuration profiles.
+| Policy Type | Supported | Comment | 
+| Android (Device Administrator) | ||
+| Custom | Yes | – | 
+| Device restrictions | Yes | – | 
+| Email (Samsung KNOX only) | Yes | – | 
+| MX profile (Zebra only) | Yes | – | 
+| PKCS certificate | Yes | Dependencies: Trusted Certificate | 
+| PKCS imported certificate | Yes | – | 
+| SCEP certificate | Yes | Dependencies: Trusted Certificate | 
+| Trusted certificate | Yes | Dependencies: PKCS, SCEP | 
+| VPN | Yes | – | 
+| Wi-Fi | Yes | – | 
+| Android (AOSP) | ||
+| Settings catalog | Yes | – | 
+| Device restrictions | Yes | – | 
+| PKCS certificate | Yes | Dependencies: Trusted Certificate | 
+| SCEP certificate | Yes | Dependencies: Trusted Certificate | 
+| Trusted certificate | Yes | Dependencies: PKCS, SCEP | 
+| Wi-Fi | Yes | – | 
+| Android (Enterprise) | ||
+| Settings catalog | Yes | – | 
+| Device restrictions | Yes | – | 
+| OEMConfig | Not supported | – | 
+| Wi-Fi | Yes | – | 
+| VPN | Yes | – | 
+| Trusted certificate | Yes | Dependencies: SCEP | 
+| PKCS certificate | Yes | Dependencies: Trusted Certificate | 
+| PKCS imported certificate | Yes | – | 
+| Derived credential | Yes | – | 
+| SCEP certificate | Yes | Dependencies: SCEP, Trusted Certificate | 
+| Yes | – | |
+| iOS / iPadOS | ||
+| Settings catalog | Yes | – | 
+| Custom | Yes | – | 
+| Derived credential | Yes | – | 
+| Device features | Yes | – | 
+| Device restrictions | Yes | – | 
+| Edition upgrade & mode switch | Yes | – | 
+| Yes | – | |
+| PKCS certificate | Yes | Dependencies: Trusted Certificate | 
+| PKCS imported certificate | Yes | – | 
+| SCEP certificate | Yes | Dependencies: Trusted Certificate | 
+| Trusted certificate | Yes | Dependencies: PKCS, SCEP | 
+| Secure assessment (Education) | Yes | – | 
+| VPN | Yes | – | 
+| Wi-Fi | Yes | – | 
+| macOS | ||
+| Settings catalog | Yes | – | 
+| Custom | Yes | – | 
+| Device features | Yes | – | 
+| Device restrictions | Yes | – | 
+| Endpoint protection | Not supported (Deprecated) | |
+| Extensions | Not supported (Deprecated) | |
+| PKCS certificate | Yes | |
+| PKCS imported certificate | Yes | – | 
+| Preference file | Yes | – | 
+| SCEP certificate | Yes | Dependencies: Trusted Certificate | 
+| Trusted certificate | Yes | Dependencies: SCEP | 
+| Software updates | Yes | – | 
+| VPN | Yes | – | 
+| Wi-Fi | Yes | – | 
+| Wired network | Yes | – | 
+| Windows 10 and later | ||
+| Settings catalog | Yes | – | 
+| Properties catalog | Not supported (Retired) | – | 
+| BIOS Configurations and other settings | Partially supported | Keepit supports backup and restore (create, not update) operations. | 
+| Custom | Yes | – | 
+| Delivery Optimization | Yes | – | 
+| Device firmware configuration interface | Yes | – | 
+| Device restrictions | Yes | – | 
+| Device restrictions (Windows 10 Team) | Yes | – | 
+| Domain join | Yes | – | 
+| Edition upgrade & mode switch | Yes | – | 
+| Yes | – | |
+| Endpoint protection | Yes | – | 
+| Identity protection | Not supported (Deprecated) | |
+| Imported Administrative templates (Preview) | Yes | – | 
+| Kiosk | Yes | – | 
+| Microsoft Defender for Endpoint (Desktop devices running Windows 10 or later) | Not supported | – | 
+| Network boundary | Yes | – | 
+| PKCS certificate | Yes | |
+| PKCS imported certificate | Yes | – | 
+| Properties catalog | Not supported | Support of the Properties catalog needs additional permissions which will be added in next iterations | 
+| SCEP certificate | Yes | Dependencies: Trusted Certificate | 
+| Trusted certificate | Yes | Dependencies: SCEP | 
+| Secure assessment (Education) | Yes | – | 
+| Shared multi-user device | Yes | – | 
+| VPN | Yes | – | 
+| Wi-Fi | Yes | – | 
+| Windows health monitoring | Yes | – | 
+| Wired network | Yes | – | 
+| Windows 8.1 and later | ||
+| Device restrictions | Yes | – | 
+| SCEP certificate | Yes | Dependencies: Trusted Certificate | 
+| Trusted certificate | Yes | Dependencies: SCEP | 
+| VPN | Yes | – | 
+| Wi-Fi | Yes | – | 
+Certain certificate-based profiles (such as PKCS, SCEP, and Trusted Certificates) have interdependencies. In most cases, restoring PKCS or SCEP policies requires the corresponding Trusted Certificate profile to be restored as well.

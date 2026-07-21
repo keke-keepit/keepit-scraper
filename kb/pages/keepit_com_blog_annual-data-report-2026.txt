@@ -1,0 +1,64 @@
+Source URL: https://www.keepit.com/blog/annual-data-report-2026/
+Content type: Web page
+Last modified: 2026-04-22T14:35:40+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Introducing the Keepit Annual Data Report 2026: Operational truths (and a few surprises)Â
+If you’ve ever tried to understand “what’s really happening” in IT, you’ve probably noticed an odd phenomenon: the more opinions you collect, the less certain you become.
+Surveys tell you what people remember. Interviews tell you what people believe. Panels tell you what people agree to say out loud. All of that can be valuable—just like weather forecasts are valuable. But neither forecasts nor opinions are the weather.
+This year, we decided to look out the window.
+That’s the simplest explanation for why we’re publishing the first-ever Keepit Annual Data Report: because we sit on a vantage point that’s rare in our industry. Keepit protects business-critical SaaS data every day, and that protection generates something quite powerful—observable operational data about backup and restore behavior.
+In a time where content is prolific, citations are optional, and source material sometimes evaporates somewhere between the headline and the hyperlink, we think there’s real value in being a provider of fact. Not “fact” as in absolute truth about everyone everywhere—but fact as in: this is what we can actually observe, at scale, in real environments.
+At Keepit, we pride ourselves on being a reliable, trusted provider, advisor, and partner to our customers. Publishing this report is an extension of that promise: fewer vibes, more verifiable signals.
+Why an Annual Data Report—and why now?
+Because resilience is finally being discussed the way it should have been all along: as an operational discipline.
+Most organizations don’t fail because they lack tools. They fail because, when something goes wrong, the recovery path is unclear, untested, or too manual to execute under pressure. Backup is the seatbelt; recovery is the crash test.
+And yet, most of what the industry “knows” about recovery maturity is built on what people say they do.
+Our question was different: What do organizations actually do when they restore SaaS data? 
+What file types do they restore? How often? When? At what scale? Does real-world behavior change when a major external event happens? 
+Those answers aren’t found in a questionnaire. They’re found in the logs of real operations—carefully anonymized, aggregated, and interpreted.
+Which brings us to the fun part.
+How we built the Keepit Annual Data Report
+Available data is a gold mine. But like most gold mines, it doesn’t come with neat little labels that say “dig deeper here.”
+So our methodology starts with discipline:
+- We used anonymized, real backup and restore telemetry from the Keepit platform.
+- We analyzed restore operations, including job types and restore destinations, and how they vary over time.
+- We looked at dataset observations, including backup size and file change ratios (because how data changes matters, just as much as how much data exists).
+- We explored user behavior patterns—for example, how restore activity differs by organization size and by application or dataset category.
+- And we examined whether external events (the kind that generate headlines and emergency meetings) actually change restore behavior.
+Importantly: this is an observational report. We are not asking customers what they think is happening—we’re analyzing what can be seen in aggregate across real environments, while maintaining privacy and security throughout.
+You’ll find the detailed methodology in the report itself. (And yes, we wrote it the way engineers write methodology sections: with enough clarity that someone could challenge it, and enough humility to admit what it doesn’t claim.)
+Key learnings (and a couple of surprises)
+The report is full of specifics, but here are a few headline takeaways to orient your reading.
+1) Identity is a notable blind spot
+Here’s one of the more striking signals: organizations test identity applications roughly four times less often than productivity applications.
+This should raise concern. “Identity” is no longer just “IT plumbing”— it’s the control plane for your business. And yet, across the industry, identity recovery is often treated like an afterthought: assumed to be stable, assumed to be reversible, assumed to be “someone else’s problem.”
+Not testing that you can recover your identity applications is risky. Because if identity can’t be recovered cleanly, you may end up with the most frustrating outcome of all: your productivity data is intact, but access to it (and to every SaaS system federated to that identity layer) is blocked, with no trustworthy tenant left to rebuild roles, policies, and relationships
+If resilience is about restoring what matters most, identity should be high on the list.
+2) “Enterprise maturity” isn’t reserved for enterprises
+One of the strongest themes is that about 9 in 10 organizations in the enterprise/commercial segment show maturity signals strong enough to support larger-scale recovery practices.
+That matters because it challenges an old narrative: that only the very largest organizations can operationalize resilience properly. The data indicates that many commercial-sized organizations (1,000-5,000 employees) already have the discipline and consistency to benefit from modern backup and recovery investments—perhaps more than they realize. While organizations of any size will experience a major lift in operational resilience, the commercial segment appears to have an unexpectedly high return on investment teed up and ready to reap.
+3) Recovery is mostly everyday—and that’s the point
+Another standout finding: is that recovery is rarely a Hollywood disaster. Most restores are practical, targeted, and urgent in the way “I need that file back now” is urgent.
+That’s good news, actually. It suggests that for many organizations, restore is not a mythical button behind glass — it’s a tool they use. But it also raises a question: if day-to-day restore is common, are we learning enough from it to be ready for the day we need more than a single file?
+4) Headline events don’t automatically change behavior
+Here’s a surprise (though perhaps it shouldn’t be): big external events don’t necessarily lead to new restore habits.
+Awareness is not the same as action. News can move priorities for a week; operations change more slowly. That gap — between what we know and what we practice — is where resilience programs either mature or quietly stall.
+The report digs deeper into these patterns with breakdowns by organization size, application categories, timing, and geography. If you enjoy the moment when data meets intuition and politely clears its throat—this is your report.
+What’s next: a blog series that goes deeper
+This post is the “opening scene.” Over the coming weeks, we’ll publish follow-up posts that unpack specific findings—what they mean, why they matter, and what practical actions they suggest.
+Here are some of the topics we’ll cover:
+- The identity recovery blind spot — Why identity systems are tested far less, and why that’s risky
+- Backup volumes aren’t exploding (yet): what incremental backup changes
+- New vs. changed data: what file and byte change ratios reveal about your backup growth
+- The commercial segment is ready for a resilience leap
+- Recovery is the real test of backup — Why backup posture is meaningless without practiced restores
+- Bulk restore readiness: what “9 in 10 enterprises” signals — A maturity model for recovery at scale
+- Most incidents aren’t catastrophic: the rise of ‘small, urgent restores’ — Designing recovery for real life
+- Granular vs bulk restore: when each matters
+- Outages didn’t change restore behavior—here’s why
+- Testing frequency: what you measure is what you can recover — A practical cadence for restore validation
+If you want the full story (and the actual charts that keep engineers honest), download and read the Keepit Annual Data Report 2026. Then join us for the follow-ups — because the most interesting part of data isn’t the number.
+It’s what the number makes you reconsider.

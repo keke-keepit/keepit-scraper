@@ -1,0 +1,149 @@
+Source URL: https://lp.keepit.com/hubfs/product-sheets/Keepit-Autodesk-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 2
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery 
+for Autodesk Forma
+Continuous access to your Forma data when Autodesk goes down
+Autodesk Forma (formerly Construction Cloud) holds a project's single source of truth 
+ drawings, issues, transmittals, RFIs, and cost data 
+ entirely within its environment. Platform outages, accidental bulk changes to 
+users or roles, and account compromise can cut off access, and Forma has no native rollback. Without an 
+independent backup, teams have no fallback when access breaks down.
+
+Awarded for its broad SaaS coverage, secure by design architecture, and ease-of-use, Keepit ensures that 
+your Autodesk Forma data is backed up and swiftly recoverable at all times, minimizing the impact of data loss 
+and the burden of recovery on your teams.
+Time-saving (
+usability
+Assured data (
+integrity
+Confidence (
+that you can recover
+Easy to implement and intuitive, Keepit 
+requires minimal expertise to use 
+ while 
+delivering confidence in your ability to 
+swiftly recover your data whenever you 
+need it.
+With Keepit, youˇre certain that your 
+backups are immut
+able  they canˇt t be 
+modified or deleted. Stored in our vendor-
+independent cloud, your data remains 
+accessible at all times.
+With our automated backups and hot 
+storage, you have all your data, 
+configurations, and relationships always at 
+your fingertips 
+ no matter what incident 
+is stalling your projects.
+The risk
+Proven benefit
+Construction was the No. 1 ransomware target within 
+manufacturing in Q3 2025, accounting for 142 of 532 incidents 
+
+ 27% of all manufacturing attacks.
+Keepit customers were able to reduce the time needed to 
+restore data for priority users by 90% after a data loss incident.
+Source: Forrester Total Economic Impact Study 2024.
+Source: Dragos Industrial Ransomware Analysis: Q3 2025 | Dragos
+˝Forma is critical to our organization. Autodesk has 
+little direct support and implementation options for 
+backing up data and therefore this will be absolutely 
+beneficial and solve a real gap in our Information 
+Security posture.˛
+April Battenfelder, Managing Director at BEAST Design Studios GmbH, Germany
+Connector Info
+Autodesk Forma
+Healthy
+Your data is protected
+
+Keep your work safe and recover the 
+intelligent way.
+KEY CAPABILITIES
+Automated backups
+Outstanding ease-of-use
+Unlimited retention
+Customize and automate backup jobs so 
+your data remains preserved and 
+recoverable whenever you need it.
+Built to protect SaaS applications, Keepit is 
+quick to implement and intuitive to use.
+Instant search and preview 
+Customize retention for up to 99 years with 
+no extra costs
+Highest security 
+Compliance and reporting 
+Easily document and prove compliance 
+with backup requirements and data 
+protection efforts.
+Easily find what you need with Keepitˇs s 
+comprehensive search. Use filters to 
+identify data, and the preview function to 
+review it before restoring.
+Stored in our vendor-independent cloud, 
+and immutable by design, Keepit offers 
+industry-leading security, keeping your 
+backups safe.
+What we cover
+Modules: Build and Data Management 
+Users
+Projects
+User definitions
+Definitions
+User Projects
+Sheets
+Project memberships
+Sheet collections
+Roles
+Sheet versions
+Products
+Files and folders
+Companies
+Packages
+Definitions
+Issues
+User mappings
+Issue comments
+Projects mappings
+Issue attachments
+Issue settings
+Templates
+Transmittals
+We continuously extend our capabilities. Find the complete, current coverage here.
+Find out how simple and 
+easy it is to use Keepit
+Book a demo
+Recovery
+24 hours
+Restore
+Restores
+40
+Visitors
+10K
+1K
+0
+Connector Info
+Autodesk Forma
+Healthy
+Your data is protected
+01/04/2023
+04/04/2023
+08/04/2023
+12/04/2023
+16/04/2023
+20/04/2023
+24/04/2023
+28/04/2023
+31/04/2023
+October 2023
+Your data. Here today. Here tomorrow
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+ For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

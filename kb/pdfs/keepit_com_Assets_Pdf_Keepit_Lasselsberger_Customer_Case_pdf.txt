@@ -1,0 +1,113 @@
+Source URL: https://www.keepit.com/Assets/Pdf/Keepit_Lasselsberger_Customer_Case.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+Lasselsberger Chooses 
+Keepit for Top Tier Data 
+Protection. 
+Customer Story: Lasselsberger
+Keepit provides Lasselsberger with scalable and 
+automated backup of all Microsoft 365 data. Before 
+migrating to the cloud, enterprise data was stored locally 
+on 1,000+ computers and servers across locations posing 
+a major risk of data loss.  A security breach on Microsoft’s 
+cloud data would result in costly downtime, affecting 
+Lasselsberger’s supply chain and daily global operations. 
+Company
+The Lasselsberger Group is a Eurasian producer of raw 
+materials, building materials and ceramic tiles based 
+in Pöchlarn, Austria. Market leadership in many areas 
+combined with a production tradition over many decades 
+as well as raw material reserves secured in the long term 
+ensures the successful growth of Lasselsberger Group.
+The Keepit platform works perfectly 
+and is the most comprehensive 
+backup and recovery solution in the 
+market.
+Mario Hinterndorfer 
+Head of Group IT Infrastructure, Lasselsberger
+Page 1
+
+Dedicated Data Protection Cloud 
+With Keepit, Lasselsberger’s M365 data is now stored 
+in a dedicated private cloud at a separate location 
+independent of Microsoft’s public cloud. Head of Group 
+IT Infrastructure Mario Hinterndorfer now enjoys peace-
+of-mind with an automatic backup in place, ensuring the 
+business is always running.
+With Keepit, we no longer have to do 
+all the manual updating of backup 
+software.
+Mario Hinterndorfer
+Fast Recovery Saves Admin Time
+Now, less infrastructure specialists are required to 
+administer all M365 data, as Keepit’s finding and 
+recovery features make restore tasks super easy and fast. 
+Retrieving data from past users was a true administrative 
+nightmare before Keepit cloud backup; sharing data 
+across Lasselsberger’s subsidiaries could take hours due 
+to unstable internet connections. With Keepit’s intuitive UI 
+and granular recovery features, finding and sharing data 
+requires only minimal administrative effort.  
+Sharing data only takes around 30 
+seconds. The backup solution provides 
+great functions and flexibility, making 
+our tasks simple and efficient. 
+Mario Hinterndorfer
+Recovery is easy and agile with Keepit: users receive a 
+secure link with a custom expiration date, allowing them 
+to choose the exact data they need to restore. Instant 
+recovery is a key value to Lasselsberger’s infrastructure 
+specialists who anticipate a major spike in Microsoft 
+Teams and OneDrive users due to increased remote work 
+during Covid-19.  
+Customer Story: Lasselsberger
+Page 2
+Not only does Keepit 
+provide us with a strong 
+and reliable backup, we 
+also get instant recovery 
+and can share data across 
+the company in less than a 
+minute.
+Mario Hinterndorfer 
+Head of Group IT Infrastructure
+Lasselsberger
+
+Customer Story: Lasselsberger
+Page 3
+Best Price-Performance Ratio 
+Cloud backup turned out to be the most cost-effective 
+solution for Lasselsberger. Compared to other vendors on 
+the market, Keepit’s price offering includes 1TB storage 
+per user and up to lifetime-long retention period. Keepit’s 
+all-inclusive pricing means no hidden costs in terms of 
+infrastructure, storage or recovery.
+Keepit provides an indispensable layer of security, 
+guaranteeing a stable, centralized backup that adapts to 
+Lasselsberger’s growing number of users. Lasselsberger 
+has now been running backup and recovery with Keepit 
+for 2 years.
+The Lasselsberger Group is a Eurasian producer of raw materials, 
+building materials and ceramic tiles based in Pöchlarn, Austria. Market 
+leadership in many areas combined with a production tradition over 
+many decades as well as raw material reserves secured in the long term 
+ensures the successful growth of the whole Lasselsberger Group.
+Get in touch with Keepit:
+Reach out for a talk and get a free 30-day trial.
++45 8987 7792
+sales@keepit.com
+Keepit has the best price-
+performance ratio for 
+a backup and recovery 
+solution compared to other 
+vendors in the market 
+like Veeam, AvePoint and 
+Barracuda. 
+Mario Hinterndorfer 
+Head of Group IT Infrastructure
+Lasselsberger

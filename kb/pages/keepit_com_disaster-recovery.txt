@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/disaster-recovery/
+Content type: Web page
+Last modified: 2026-06-25T14:47:11+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Guide
+When disaster strikes: Your guide to truth and recovery in the face of SaaS data loss
+SaaS resilience, control, and recovery when disaster strikes
+This guide examines the reality of SaaS data loss caused by four common scenarios and asks a practical question: When there’s a disruption to production, who’s in control of the data and how is business continuity ensured?
+One thing is clear: Resilience in the SaaS era isn’t a one-time restore exercise. Instead, it needs to be a broader strategy shaped by how data is lost, how recovery is tested, how backup data is stored, how readiness matures, and whether control remains under the sovereignty and dependency conditions an organization faces.
+Download the guide to learn about:
+- The four most common, recurring patterns of SaaS data loss — and how control is lost in each scenario 
+ 
+ 
+- What resilience actually looks like in a SaaS disruption, beyond simply having a backup 
+ 
+ 
+- How to build a disaster recovery plan that protects your organization’s business continuity 
+ 
+ 
+- Where your organization stands on the disaster recovery maturity curve 
+ 
+ 
+- What questions to ask about data sovereignty and governance before an incident forces the issue

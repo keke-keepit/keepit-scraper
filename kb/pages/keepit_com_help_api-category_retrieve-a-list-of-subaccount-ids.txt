@@ -1,0 +1,69 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-a-list-of-subaccount-ids/
+Content type: Web page
+Last modified: 2026-04-22T13:35:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve a list of subaccount IDs and additional information
+This command retrieves a list of subaccount IDs under the specified parent account. In other words, it returns the direct subaccounts for the given account ID.
+The account ID provided to run the request must belong to the authenticated token or be a descendant of it.
+API request
+Method GET
+/users/{parent_account_id}/users
+Optional additional header
+Key: Accept
+Value: application/vnd.keepit.v1+xml
+Example
+Method GET
+https://dk-co.keepit.com/users/nq2v51-5mx23m-qb7sah/users
+Response
+Code: 200 OK
+Response body (Accept: application/vnd.keepit.v0+xml):
+<users> â¯ â¯ <id>psmqd-3nqijs-9qi26x</id> â¯ â¯ <id>r8gxbr-kqw14l-isn2kq</id> </users>
+Response body (Accept: application/vnd.keepit.v1+xml):
+<users>
+    <user>
+        <id>psmqd-3nqijs-9qi26x</id>
+        <created>2025-11-26T15:28:08Z</created>
+        <parent_id>nq2v51-5mx23m-qb7sah</parent_id>
+        <email>test1@keepit.com</email>
+        <full_name>TestAccount1</full_name>
+        <company_name></company_name>
+    </user>
+    <user>
+        <id>r8gxbr-kqw14l-isn2kq</id>
+        <created>2026-02-21T11:02:22Z</created>
+        <parent_id>nq2v51-5mx23m-qb7sah</parent_id>
+        <email>test2@keepit.com</email>
+        <full_name>TestAccount2</full_name>
+        <company_name>MyCompany</company_name>
+    </user>
+</users>PowerShell script
+try {
+    $username = '<Token username>'
+    $password = '<Token password>'
+    $userID = '<Account GUID>'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent" = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $url = "https://dk-co.keepit.com/users/$userID/users"
+    $response = Invoke-WebRequest -UseBasicParsing -Uri $url -Method Get -Headers $headers -ErrorAction Stop -TimeoutSec 10
+    $userlist = [xml]$response.Content
+    $ids = $userlist.users.id
+    foreach ($id in $ids) {
+        Write-Host $id
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}Additional information
+- The response can have the optional accept header:
+- key – Accept
+- value - application/vnd.keepit.v1+xml
+- If the header is omitted, the default version (v0) is used.
+- In v1, additional information is displayed, such as: ID, when the account was created, parent account ID, email of the account, full name of the account, company name.

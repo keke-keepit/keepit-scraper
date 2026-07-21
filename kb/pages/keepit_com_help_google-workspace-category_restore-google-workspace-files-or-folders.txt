@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/help/google-workspace-category/restore-google-workspace-files-or-folders/
+Content type: Web page
+Last modified: 2026-06-17T15:58:39+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Google Workspace files or folders
+This article explains how to restore individual items, multiple items, and items from deleted users in your Google Workspace connector.
+Restore a Google Workspace item
+Restored items return to their original locations. If an item with the same name already exists at the destination, Keepit overwrites it.
+Important: Restoring an item overwrites any existing item with the same name at the original location. This action can't be undone.
+To restore a file or folder:
+1. In your connector, find the folder or file you want to restore.
+2. (Optional) To restore a record from an earlier point in time, click Snapshots Viewer and select the appropriate snapshot.
+3. Point to the item, then select ••• > Restore.
+4. Click Yes to confirm.
+To restore multiple items at once, select the items you want, then select Restore in the toolbar.
+Restoring deleted items in bulk
+Deleted items can't be restored in bulk by default. You can either:
+- Restore them one by one by selecting ••• > Restore.
+- Open a snapshot taken before the deletion, then select and restore multiple items at once.
+Example: To recover several files from a deleted folder, check the folder’s deletion time. In Snapshots Viewer, select a snapshot from before the deletion. The items will appear, and you can restore them in bulk.
+Restoring a deleted user
+You can restore a deleted user if they still appear in the Deleted Users section in Google Workspace. If the user was deleted more than 20 days ago and no longer appears there, they may still be restorable.

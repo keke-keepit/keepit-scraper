@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/blog/why-m365-backup-isnt-enough-entra-id/
+Content type: Web page
+Last modified: 2025-08-20T00:50:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why do I need Azure AD backup? Isnât Microsoft 365 backup enough?
+VideoJuly 11, 2023By Paul Robichaux
+In this exclusive video, Paul Robichaux, Microsoft MVP and Sr. Director of Product at Keepit, unravels the indispensable connection between Azure AD and Microsoft 365, and shares why a data protection plan must include backup of Entra ID (Azure AD).
+Learn why safeguarding Azure AD (Entra ID) data is essential for seamless productivity and continuous compliance. Discover the solution: Secure your Azure AD with backup and recovery.

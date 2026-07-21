@@ -1,0 +1,31 @@
+Source URL: https://www.keepit.com/blog/us-white-house-releases-new-cyberattack-fact-sheet/
+Content type: Web page
+Last modified: 2025-08-20T00:20:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+US White House urges businesses to brace for impact as threat from Russian hackers grows
+White House Releases New Cyberattack Fact Sheet. Here’s how Keepit helps businesses secure data.
+US President Joe Biden has warned American business leaders to strengthen their companys’ cybersecurity defenses right now. As a cybersecurity measure, the US Government via White House Fact Sheet has directly advised companies to: “Back up your data and ensure you have offline backups beyond the reach of malicious actors.”
+Why is the White House concerned?
+Senior US law enforcement and Homeland Security officials said that there is a growing concern of Russia instigating cyber attacks against the West. According to officials, potential targets are banking systems, electrical grids, and mobile networks. The US banking system is one example of a hot target for cyberattacks as a retaliatory move for sanctions against Russia’s financial system. That said, no sector nor industry is safe.
+Cautioning the private sector, US President Biden said: “If you have not already done so, I urge our private sector partners to harden your cyber defenses immediately by implementing the best practices we have developed together over the last year. You have the power, the capacity, and the responsibility to strengthen the cyber security and resilience of the critical services and technologies on which Americans rely.”
+What does this mean for cloud-based data and apps such as Microsoft 365, Salesforce, etc.?
+Backing up cloud SaaS data is the responsibility of the SaaS customer, not the vendor. However, this reality is not yet well understood by organizations, and with the lack of understanding comes significant risk: Gartner estimates that, by 2022, 70% of organizations will have suffered disruption due to unrecoverable data loss in a SaaS application.
+How Keepit can help your business comply with White House recommendations
+The White House laid out some concrete recommendations, and here are a couple of examples of how Keepit helps you adhere to them:
+“Back up your data and ensure you have offline backups beyond the reach of malicious actors”. US White House Fact Sheet.
+Backing up cloud SaaS data is the responsibility of the SaaS customer, not the vendor. Without an off-site backup of your cloud-based data, you are at risk from ransomware attacks and data loss. Even Microsoft itself recommends using a third-party backup for Office 365. This is why thousands of companies have chosen Keepit to keep their cloud data safe.
+To get the same benefits of an offline backup for your cloud SaaS data, only an infrastructure completely independent from public cloud environments can provide true backup and help you comply with the 3-2-1 backup rule.
+This premise led us to build, from the ground up, the Keepit cloud: A vendor-independent and dedicated SaaS data protection solution that is resilient and secure. Our data center strategy focuses on redundancy: Four backup copies are stored in two separate physical locations, so your data is always available, separate from the production environment, and vendor neutral.
+Recommendations for tech and software providers
+In addition to recommendations for businesses, the White House also encourages technology and software companies such as Keepit to:
+“Build security into your products from the ground up — “bake it in, don’t bolt it on” — to protect both your intellectual property and your customers’ privacy.”
+Uniquely, Keepit is not a former on-premises product that was retrofitted for the cloud. Keepit was architected and built from the ground up, specifically to offer the best possible cloud backup experience.
+Bringing on-premises legacy into the cloud is not only a cost and complexity disadvantage, it is a liability and potential security nightmare.
+A platform such as Keepit, specifically designed for backup in the cloud, allows for significant security, performance, functionality, and cost advantages over less focused solutions.
+The bottom line:
+To protect your cloud data against potentialâ¯cyberattacks, you need a true third-party backup
+With increasing numbers of business-critical SaaS applications migrating to the cloud, and in a world in which new threats arise daily, continuity planning demands a secure SaaS data backup solution—and the SaaS vendors are clear that backups are your responsibility, not theirs.
+Keepit can help you comply with the White House’s new recommendations for your SaaS cloud data backup and ensure your data always is secure and fast to recover in the event of a cyberattack.

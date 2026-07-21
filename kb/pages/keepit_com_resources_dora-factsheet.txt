@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/resources/dora-factsheet/
+Content type: Web page
+Last modified: 2025-08-20T02:52:22+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+DORA compliance factsheet â How Keepit helps you comply
+Ensure resilience and compliance under DORA
+Effective from January 2025, the Digital Operational Resilience Act (DORA) sets new cybersecurity and operational resilience standards for financial institutions. With the DORA compliance factsheet, you’ll get a comprehensive look at the regulation’s key requirements for data protection – such as the requirement for backups to be stored logically and physically separate from the production systems they backup - and how Keepit’s backup and recovery capabilities align with them. Download the factsheet now to see what DORA requires you to do for data protection and how Keepit supports these new demands.
+Compliance and future proofing
+Our checklist addresses key questions you might have, such as:
+- What is required of me? Understand the requirements of the DORA regulation and know exactly what's expected of your organization for backup and recovery.
+- What are the risks? Understand the specific challenges your organization faces in securing business-critical SaaS applications and ensuring rapid recovery.
+- How can you stay ahead? Learn how Keepit’s core benefits and product capabilities align with the regulation’s requirements so you can easily implement the necessary cybersecurity measures to ensure your cyber resilience.
+Discover how Keepit supports financial institutions with DORA compliance
+Meeting DORA’s requirements can be complex. This factsheet outlines the essential components of operational resilience and details Keepit's approach to secure, segregated backups, regular testing, and fast recovery. Keepit is trusted by thousands of financial institutions and this factsheet details real-world examples of our proven performance in financial services. Learn how Saxo Bank leverages Keepit’s platform for Microsoft 365 data backup to maintain compliance and operational resilience under stringent regulatory standards.
+Explore our DORA factsheet now to learn how Keepit’s purpose-built, independent SaaS data protection platform can support you on your own compliance journey as well.

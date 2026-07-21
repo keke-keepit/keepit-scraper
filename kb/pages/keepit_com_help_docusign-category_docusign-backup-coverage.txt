@@ -1,0 +1,12 @@
+Source URL: https://www.keepit.com/help/docusign-category/docusign-backup-coverage/
+Content type: Web page
+Last modified: 2026-06-25T12:17:45+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Docusign backup coverage
+The table below shows the detailed backup and restore coverage for Keepit for DocuSign. Note that Keepit only covers the DocuSign eSignature product.
+The table below shows the detailed backup and restore coverage for Keepit for DocuSign. Note that Keepit only covers the DocuSign eSignature product.
+This version does not support custom backup or restore configurations. All data in the Docusign instance will be included in any backup or full restore operation.
+The restore process for members within Signing Groups is limited to a maximum of 200 members.

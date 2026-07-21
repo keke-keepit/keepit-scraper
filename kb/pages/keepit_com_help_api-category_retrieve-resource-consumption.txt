@@ -1,0 +1,55 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-resource-consumption/
+Content type: Web page
+Last modified: 2026-02-06T11:17:16+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve resource consumption
+This command retrieves the resource consumption for an account.
+API request
+Method GET
+/users/{account_id}/resources
+Additional optional header:
+This command retrieves the resource consumption for an account.
+Method GET
+/users/{account_id}/resources
+Additional optional header:
+This header forces the API to return the total usage across all accounts associated with the current product assignment.
+Method GET
+https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka/resources
+Code: 200 OK
+Response body (partial):
+…
+ <resource>
+        <evaluated>2024-12-20T11:58:30Z</evaluated>
+        <name>o365-mailboxes</name>
+        <type>integer</type>
+        <limit>20</limit>
+        <usage>15</usage>
+        <violated>false</violated>
+    </resource>
+…try {
+    $username = '<Token username>'
+    $password = '<Token password>'
+    $userId = '<Account ID>'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $url = "https://dk-co.keepit.com/users/$userId/resources"
+    $response = Invoke-WebRequest -UseBasicParsing -Uri $url -Method GET -Headers $headers -ErrorAction Stop -TimeoutSec 10
+    [xml]$xmlContent = $response.Content
+    foreach ($resource in $xmlContent.SelectNodes("//resource")) {
+        foreach ($node in $resource.ChildNodes) {
+            Write-Host "$($node.Name): $($node.InnerText)"
+        }
+        Write-Host "--------------------------"
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}

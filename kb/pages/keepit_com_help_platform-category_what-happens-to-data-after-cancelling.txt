@@ -1,0 +1,9 @@
+Source URL: https://www.keepit.com/help/platform-category/what-happens-to-data-after-cancelling/
+Content type: Web page
+Last modified: 2026-04-30T15:02:29+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What happens to data after canceling your Keepit service
+If you cancel your Keepit service, the data is kept for the duration of the delete retention period. When it expires, we delete all backup history and all references to the data. Then, depending on our storage management life cycle, the storage drives are either physically destroyed or overwritten.

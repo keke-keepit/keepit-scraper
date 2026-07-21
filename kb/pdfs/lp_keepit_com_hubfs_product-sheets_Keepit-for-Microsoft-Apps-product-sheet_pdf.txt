@@ -1,0 +1,119 @@
+Source URL: https://lp.keepit.com/hubfs/product-sheets/Keepit-for-Microsoft-Apps-product-sheet.pdf
+Content type: PDF document
+Title: unknown
+Pages: 2
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery 
+for Microsoft Applications
+A single intelligent platform to protect data in key Microsoft applications
+The fast pace of SaaS adoption leads to critical gaps in data protection. Many business 
+leaders mistakenly assume that SaaS apps inherently back up all their data. This frequently 
+results in costly loss of data and processes, which often can never be recovered.
+Built in a sustainable vendor-independent cloud, Keepit securely backs up data from 
+multiple Microsoft applications and delivers confidence in your ability to recover fast when 
+mistakes or malicious activity lead to data loss. All in a single platform, ensuring full visibility, 
+control and compliance with the industry’s best ROI.
+Predictable, stable cost
+Keepit’s pricing is based on seats, 
+with no storage tiering, zero fees 
+for retention, and zero cost for data 
+ingress or egress. You’ll know in 
+advance exactly what you’ll pay; today, 
+and tomorrow.
+Fast recovery across 
+applications
+Our intelligent platform provides 
+fast recovery options for all data, at 
+all times. The broad coverage gives 
+you full visibility and control across 
+Microsoft applications, in a single 
+console.
+Confidence in the 
+security of your data
+Keepit backups are held in a 
+vendor- independent cloud, securely 
+separated from your production 
+data and immutable by design. They 
+can’t be manipulated, maliciously 
+encrypted, or deleted.
+Downtime costs an average of 
+$9,000 per minute or $540,000 
+per hour.
+Source: Splunk - The Hidden 
+Costs of Downtime 2024
+Financial impact
+84% of organizations lost data to 
+ransomware in 2023. Only 16% 
+had the ability to recover 100% 
+of their data.
+Source: ESG Ransomware 
+Preparedness Report
+The risk
+Our customers realized a 163% 
+ROI when deploying the Keepit 
+solution.  Payback was achieved 
+in under 6 months. 
+Source: Forrester Keepit Total 
+Economic Impact Study 2024 
+Proven benefit
+“Overall, Keepit contributes significantly to 
+Emmi’s risk management goals by providing 
+a reliable and scalable backup solution 
+that secures business operations.”
+Marc Baumann, Lead Data Platform Services, Emmi
+© Keepit. All rights reserved. Version 1.1
+
+KEY CAPABILITIES
+Intelligent restore options – restore objects in bulk or 
+granularly, guaranteeing fast and precise recovery 
+Proactive monitoring – Data Protection and Anomaly 
+Detection dashboards help maintain backup integrity and 
+health, and allow for early identification, investigation, and 
+remediation of risks to data   
+Compliance and reporting – easily document and prove 
+compliance and data protection efforts 
+ 
+Unlimited retention – customize retention for up to 99 years 
+at zero extra cost 
+Outstanding support – included in all subscriptions, Keepit 
+support is there for you whenever you need it 
+Integrate with SIEM – feed security-related data into SIEM 
+for further investigation and action 
+Coverage of non-Microsoft apps – extend your control 
+with our expanding coverage
+WHAT WE COVER
+What’s in the Keepit platform
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+® 2025 Keepit. All rights reserved. Microsoft, Microsoft 365, Microsoft Entra ID, Microsoft Power Platform, Microsoft Azure 
+DevOps and Microsoft Dynamics 365 are are trademarks of the Microsoft group of companies. 
+Find out how simple
+and easy it is to use Keepit
+Book a demo
+Microsoft 
+365
+Microsoft 
+Power BI
+Microsoft 
+Azure DevOps
+Microsoft 
+Dynamics 365
+Microsoft 
+Entra ID
+•	
+SharePoint
+•	
+Exchange Online
+•	
+OneDrive
+•	
+Groups and Teams
+•	
+Power Pages
+•	
+Power Automate

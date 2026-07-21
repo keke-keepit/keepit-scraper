@@ -1,0 +1,43 @@
+Source URL: https://www.keepit.com/customers/co-ro/
+Content type: Web page
+Last modified: 2026-01-08T12:12:45+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How CO-RO moved from an on-premise solution to the cloud
+CO-RO has strengthened the security of the company's Microsoft 365 data with Keepit cloud backup. CO-RO is in the process of adding more than 1,000 employees worldwide to Keepit.
+Independent Backup of Microsoft 365
+In 2015, CO-RO decided to move all employees to the Microsoft 365 platform. A year later the need for an additional and independent backup of the company's Microsoft 365 data became evident to the IT department, as Microsoft's backup and restore options were not considered sufficiently transparent and effective. As a result, CO-RO's IT team thoroughly validated a number of possible suppliers before identifying Keepit as the right backup solution for CO-RO’s Microsoft 365.
+Centrally Managed Cloud Solutions is the Future
+Previously, CO-RO operated a large data center on-premise, but the company is now in the process of moving workloads to cloud-based solutions such as Microsoft 365 and Azure. All of the solutions selected by the IT department are typically tested and implemented at the headquarters in Denmark, and afterwards at the export markets. Therefore it was critical to CO-RO that the new backup solution could be scaled and adapted not only to the number of users, but also to CO-RO's need for a secondary backup now and in the future. Tonny Nordal, Microsoft 365 manager explains:
+It is vital for us that the IT solutions we adopt can be centrally controlled, and that we can secure those solutions with centrally managed backup; just as Keepit is now securing our Microsoft 365 data from a centrally managed console.
+Tonny Nordal
+Microsoft 365 manager, CO-RO
+The most User-Friendly Solution with Quick Search Function
+According to Nordal, one of the reasons for choosing Keepit was that it allows for granular search of files and data. CO-RO wanted a more efficient solution compared to Microsoft's limited search and restore process, where you often have to go through a large pile of files to find what you need. This was simply too timeconsuming and inefficient. Keepit now enables CO-RO to pinpoint a single file or email from a single user and find this quickly. This is easy and timesaving for the employees.
+During the selection, Nordal and his colleagues also placed great emphasis on the solution being user friendly.
+Of the three candidates we had selected for our proof of concept, Keepit was by far the most user friendly. During the test scenarios we had set up, Keepit proved to deliver exactly what we needed - and not a whole lot of irrelevant features. This also means that the Keepit solution is really simple and straightforward to work with.
+Tonny Nordal
+Microsoft 365 manager, CO-RO
+Simple User Interface
+Ever since Keepit was put into operation, Nordal no longer worries about backup security:
+"It's been a really good experience to implement Keepit as our cloud backup solution. We quickly put Keepit in operation, and afterwards we really did not need to do anything else. The solution is running steadily and automatically," Nordal says.
+With Keepit, CO-RO chose a backup solution with a simple user interface that the IT maintenance staff can easily get acquainted with. The company's other employees find Keepit easy to use as well.
+One of Keepit’s greatest strengths is that Keepit is so simple and easy to understand for the users. For us, the user-friendliness of Keepit in combination with a reasonable price and the technical features made the choice obvious.
+Tonny Nordal
+Microsoft 365 manager, CO-RO
+Data Security Compliance
+At CO-RO, the Microsoft 365 platform is being used for many projects across different teams in the company. Many of the project-related documents are typically handled in SharePoint and Exchange. This is where Keepit helps CO-RO maintain a high level of data security, whilst all the users are being moved to cloud solutions. The backup solution from Keepit ensures that all data in the cloud can easily be found and restored at any given time.
+With Keepit’s unlimited retention period, CO-RO is sure to meet the statutory requirements for the archiving of product-related data. For certain products, data must be archived for up to 10 years.
+Close Dialogue with Keepit’s Support Team
+For CO-RO, Microsoft 365 is still a relatively new platform, and Keepit is regarded as an important partner in keeping the data safe and secure during the expansion of the Microsoft 365 solution within CO-RO.
+Nordal and his colleagues find the support team at Keepit to be extremely service-oriented and easy to get in touch with. CO-RO also appreciates the high level of flexibility that the company has experienced with Keepit.
+CO-RO has experienced these benefits using Keepit:
+- With Keepit's unlimited retention period, CO-RO is sure to comply with the legal requirements for data security and archiving
+- A fast and easy granular search function that saves time
+- A stable backup solution that runs automatically saves time for the IT team
+The Right Solution for CO-RO
+For a global manufacturing company such as CO-RO, implementing an increasing number of cloud solutions, it is crucial that the company's data is properly secured with an independent backup solution that can be scaled and adapted. Keepit does this.
+CO-RO is subject to a number of statutory requirements for the security and archiving of product-related data that Keepit's backup solution helps to comply with.
+During CO-RO's proof-of-concept testing of various backup solutions, Keepit proved to be the most user friendly. This, along with the option of an unlimited retention period and an efficient granular search function, made CO-RO decide to embrace Keepit as the right backup solution for Microsoft 365.

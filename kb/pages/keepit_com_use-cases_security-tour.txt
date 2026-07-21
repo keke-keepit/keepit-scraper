@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/use-cases/security-tour/
+Content type: Web page
+Last modified: 2025-04-22T15:28:15+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Cyberattacks hit fast. Reputations years in the making can be undone instantly. Our hallmark security protects your SaaS data — and your company — now and into the future. Benefits of the Keepit SaaS platform:
+- The simplest way to secure your critical SaaS data
+- Layers of security, including SSO and MFA
+- Keepit is ISO/IEC 27001:2013 certified, meeting the most demanding regulatory requirements

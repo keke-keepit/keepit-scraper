@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/resources/5-reasons-to-secure-sharepoint-online/
+Content type: Web page
+Last modified: 2025-08-14T23:52:00+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+eGuide: 5 Reasons to Secure SharePoint Online
+This eGuide offers IT professionals, SharePoint administrators, and CIOs insight into five major factors that can lead to SharePoint Online data loss, and it provides suggestions for protecting against these (and other) causes of data loss.
+Businesses must realize that Microsoft does not protect their business-critical cloud data stored in SharePoint, and that the cost of data loss from ransomware attacks, human errors, or non-compliance can be significant. Did you know that 49% of organizations have had a SharePoint environment data breach over the past two years?
+You’ll learn why it’s vital to explore a cloud backup solution for SharePoint Online, as well as the criteria you should keep in mind when choosing a solution for protecting your data.

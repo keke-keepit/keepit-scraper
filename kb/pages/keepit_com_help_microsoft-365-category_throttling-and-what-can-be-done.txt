@@ -1,0 +1,14 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/throttling-and-what-can-be-done/
+Content type: Web page
+Last modified: 2026-06-30T01:56:07+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Throttling and what can be done
+What is throttling?
+Throttling is a security mechanism that keeps a server healthy and responsive. It is called "throttling" because it limits the work load coming through the server by regulating network traffic and minimizing bandwidth congestion. As a result, you may experience slow Internet and performance speeds, which in turn can impact the speed of your backup or restore.
+Throttling is a general condition that all Microsoft 365 applications have to deal with and it is not something that can be affected or changed through configuration or regular troubleshooting.
+Microsoft offers only a limited amount of bandwidth to each of their Microsoft 365 or OneDrive customers and applications installed by those customers cannot go beyond those limits. Allocation of bandwidth is based on the number of licensed users on the platform.
+Can I do anything about it?
+If you experience slow performance in Keepit, please ensure that you are not running other data intensive solutions against your Microsoft 365 tenant, such as synchronization or secondary backup services.

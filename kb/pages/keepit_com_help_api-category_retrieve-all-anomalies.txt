@@ -1,0 +1,76 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-all-anomalies/
+Content type: Web page
+Last modified: 2026-04-01T10:26:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve all anomalies
+This command retrieves all anomalies for the connector.
+API request
+Method GET
+/users/{account_id}/devices/{connector_id}/anomalies
+Example
+Method GET
+https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/devices/11ptlk-st7sly-ggba4c/anomalies
+Response
+Code: 200 OK
+Response body:
+<anomalies>
+    <anomaly>
+        <guid>snq2mb-15zmsc-he4rbs</guid>
+        <time>2025-06-14T23:20:54Z</time>
+        <detected>2025-06-14T23:22:03Z</detected>
+        <kind>imported-files-modified</kind>
+        <status>new</status>
+        <description>
+            <snapshot-size>68295573</snapshot-size>
+            <change>43647240</change>
+            <change-percents>63.91</change-percents>
+            <change-files-count>606</change-files-count>
+            <parameters>
+                <analyzed-snapshots>60</analyzed-snapshots>
+                <size-threshold>0.1d0</size-threshold>
+                <dbscan-min-samples>4</dbscan-min-samples>
+                <dbscan-eps>0.7d0</dbscan-eps>
+            </parameters>
+        </description>
+    </anomaly>PowerShell script
+try {
+    $username = '<API Token username>'
+    $password = '<API Token password>'
+    $hostname = 'dk-co.keepit.com'
+    $userId = '<Account GUID>'
+    $connectorId = '<Connector GUID>'
+$basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $url = "https://${hostname}/users/${userId}/devices/${connectorId}/anomalies"
+    $response = Invoke-WebRequest -UseBasicParsing -Uri $url -Method GET -Headers $headers -TimeoutSec 10 -ErrorAction Stop
+    $xmlContent = [xml]$response.Content
+    $printNode = {
+        param ($node)
+        foreach ($child in $node.ChildNodes) {
+            if ($child.HasChildNodes -and $child.ChildNodes.Count -gt 1 -and $child.FirstChild.NodeType -eq 'Element') {
+                Write-Host "$($child.Name):"
+                & $printNode $child 0
+            }
+            else {
+                Write-Host "$($child.Name): $($child.InnerText)"
+            }
+        }
+    }
+    foreach ($anomaly in $xmlContent.anomalies.anomaly) {
+        Write-Host "Anomaly:"
+        & $printNode $anomaly
+        Write-Host ""
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}Script result
+Anomaly: guid: snq2mb-15zmsc-he4rbs time: 2025-06-14T23:20:54Z detected: 2025-06-14T23:22:03Z kind: imported-files-modified status: new description: snapshot-size: 68295573 change: 43647240 change-percents: 63.91 change-files-count: 606 parameters: analyzed-snapshots: 60 size-threshold: 0.1d0 dbscan-min-samples: 4 dbscan-eps: 0.7d0 Anomaly: guid: mk3vox-0ex7nq-c4g52c time: 2025-06-15T19:09:20Z detected: 2025-06-15T19:22:27Z kind: imported-files-modified status: new description: snapshot-size: 68488815 change: 43644220 change-percents: 63.72 change-files-count: 609 parameters: analyzed-snapshots: 60 size-threshold: 0.1d0 dbscan-min-samples: 4 dbscan-eps: 0.7d0 …

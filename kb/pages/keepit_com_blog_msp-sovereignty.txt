@@ -1,0 +1,53 @@
+Source URL: https://www.keepit.com/blog/msp-sovereignty/
+Content type: Web page
+Last modified: 2026-06-08T13:34:55+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The sovereignty gap: Why MSPs must rethink recovery in the SaaS era
+As DORA and NIS2 reshape Europe’s regulatory landscape, data sovereignty is no longer a legal abstraction. It is becoming a practical, operational responsibility for MSPs.
+Customers are no longer asking where their data is stored. They are asking who controls it, how quickly it can be recovered, and whether that recovery will stand up to regulatory scrutiny.
+These questions are landing directly with service providers managing SaaS applications, backup, and critical data environments. Sovereignty is no longer a compliance checkbox, it is becoming a core part of the service MSPs are expected to deliver.
+From infrastructure management to data custodianship
+For many organizations, MSPs now sit at the center of the data protection strategy. They manage SaaS environments, oversee backup, and ensure continuity in the event of disruption.
+This shifts their role significantly. MSPs are no longer just operators of infrastructure, they are custodians of data control.
+The challenge is that sovereignty is still often framed as a question of jurisdiction. In reality, it is operational. It depends on whether data can be accessed, controlled, and recovered when systems fail or access is lost.
+From uptime and capacity to resilience
+Historically, MSP offerings have been built around availability, performance, and cost efficiency. Uptime and capacity defined value, and backup was often treated as a background function.
+That model is changing.
+Regulation and customer expectations are driving a move toward demonstrable resilience. It is no longer enough to say data is protected - MSPs must prove that it can be recovered, within defined timeframes, and under real-world conditions.
+Operational data reinforces this shift. The recently published Keepit Annual Data Report 2026 shows that:
+- 90% of restore actions are single-file recoveries, reflecting how frequently real-world data loss occurs
+- Most restore activity happens during working hours, highlighting that recovery is an everyday operational need, not a rare event
+Resilience is not theoretical. It is tested daily in small but critical ways and MSPs are increasingly expected to support that reality.
+The hidden dependency risk in SaaS
+The widespread adoption of SaaS has made recovery more complex.
+Most organizations rely on multiple SaaS platforms to run critical parts of their business, often assuming those platforms provide comprehensive data protection. In reality, responsibility is shared.
+SaaS providers ensure availability, but long-term data protection and recoverability often sit elsewhere. For MSPs, this introduces a dependency risk that is not always visible to customers.
+If access to a SaaS platform is disrupted, whether by cyber incident, misconfiguration, or outage, recovery may be constrained by the platform itself. This creates the sovereignty gap: the difference between having data stored somewhere and having meaningful control over it when it matters most.
+A maturity gap and an opportunity to guide readiness
+Restore behavior scales with organization size: 28% of SMBs restore regularly, versus 91% of commercial and 95% of enterprise organizations. This is often a natural outcome of resourcing - larger firms have more dedicated IT capacity, while SMBs may treat restores as an “as-needed” task. Even major outage events didn’t produce a measurable increase in restore testing, showing that awareness alone doesn’t create routine readiness.
+That’s where MSPs and vendors can make the difference: lightweight, guided recovery checks that build confidence quickly and raise maturity over time - supported by guided recovery assistance that helps admins take the right steps when it matters.
+Designing services for sovereignty
+Closing the sovereignty gap requires a rethink of service design.
+Sovereignty cannot be addressed through policy alone. It must be embedded into how services are built and delivered. That means:
+- Ensuring data can be recovered independently of the primary SaaS environment
+- Reducing reliance on single vendors or platforms
+- Regularly testing recovery processes
+- Providing customers with clear visibility into recovery capabilities
+It also means answering increasingly detailed questions. What happens if access to a SaaS platform is lost? How quickly can data be restored? Where are the dependencies in the recovery chain? 
+ 
+These are no longer theoretical scenarios. They are becoming part of standard due diligence, particularly in regulated industries. 
+From service provision to assurance
+As expectations evolve, so too does the role of the MSP.
+Providers are moving beyond managing infrastructure to delivering assurance. Customers are no longer simply buying services, they are buying confidence that their data can be recovered, operations can continue, and regulatory obligations can be met.
+Conversations that once centered on speed, capacity, and cost are now focused on resilience, control, and accountability.
+For MSPs, this shift represents a clear opportunity.
+Providers that can define and deliver a credible sovereignty strategy will differentiate themselves in a market where performance alone is no longer enough. The ability to demonstrate control, resilience, and recoverability is becoming a key competitive advantage.
+Sovereignty redefined
+Data sovereignty is evolving.
+It is no longer defined by where data resides, but by whether organizations, through their service providers, can truly control and recover it when it matters most.
+For MSPs, this is a turning point. Those that move beyond uptime and capacity - and instead design for resilience, independence, and recoverability - will be best placed to meet both regulatory demands and rising customer expectations.
+This article was first published by ChannelPro in May, 2026.
+Ready to embark on a journey of growth and innovation? Together, let's shape the future of data protection and create lasting success. Learn more about partnering with Keepit. Are you ready to empower your business?

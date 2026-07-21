@@ -1,0 +1,43 @@
+Source URL: https://www.keepit.com/help/pmc/managing-accounts-as-a-partner/
+Content type: Web page
+Last modified: 2026-04-29T10:21:53+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Managing accounts as a Partner
+A Parent account can create and manage Partner and Customer accounts.
+Create a partner account
+1. Open the Accounts page.
+2. To the right of the Accounts list, click +.
+3. Select Partner, then Next.
+4. Select a product for the account and products to add to the partner's product portfolio.
+5. Select a service start date.
+6. Enter account details.
+7. Enter user details for the primary user.
+This user will be assigned the Partner role, granting full access to the PMC. 
+8. Review the details and click Create.
+Create a customer account
+1. Open the Accounts page.
+2. To the right of the Accounts list, click +.
+3. Select a product.
+4. Select a service start date.
+5. Enter account details.
+6. Enter a username and email for the primary user.
+This user will be assigned the Master Admin role, granting full access to the Keepit platform. 
+7. Review the details and click Create.
+Edit an account
+1. Open the Accounts page.
+2. Point to the account and select ••• > Edit.
+3. Edit the account information and click Update.
+Delete an account
+1. Open the Accounts page.
+2. Point to the account and select ••• > Edit.
+3. Open the Account settings tab.
+4. Click Cancel service.
+5. Click Yes, cancel to schedule account deletion.
+Revive an account
+1. Open the Accounts page.
+2. Click on the disabled account.
+3. Click Revive account.
+4. Select Confirm to revive the account.

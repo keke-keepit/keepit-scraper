@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/blog/moving-data-to-the-cloud/
+Content type: Web page
+Last modified: 2025-08-20T00:34:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Security in the cloud: The SaaS backup gap challenge â and solution
+Even though businesses have been gradually migrating to the cloud for the better part of the past decade, cloud security has only recently become a hot topic due to the drastic shift to remote work.
+When the COVID-19 crisis hit, many organizations had to scramble to enable their employees to work remotely. As a result, the adoption of SaaS applications spiked. For all of the benefits of migrating to the cloud, this frenzied adoption of SaaS apps has brought challenges that become more and more clear these days.
+For many businesses, the pace at which they migrated to the cloud was necessary for their business to survive – but it sometimes meant sacrificing security in order to get employees up and running as quickly as possible.
+Current cloud data security trends
+In many instances, organizations adopted applications and tools without the intent of ever using them in the cloud, often euphemistically calling them “bolt-on” solutions.
+As a result, they are not robust enough to meet the security demands of a cloud environment and are vulnerable to data leaks – and there are statistics that back this up:
+A recent cloud computing study found that 46% of companies use cloud-based applications built for the cloud – while just over half (54%) moved applications used on-premises to a cloud environment.
+And over the last year and a half, at least 79% of organizations have been the victim of one cloud information breach. Even more strikingly, 43% of companies have reported ten or more violations in the past year and a half.
+Addressing the assumption: SaaS vendor responsibility
+So, what makes SaaS data particularly susceptible to data loss – either as a result of human error or malicious intent? The answer: neglecting to back up SaaS data automatically! Only if you proactively choose to back up your SaaS data applications, will you be able to recover your cloud data in the event of system outages, deletions, and breaches.
+Many organizations make the dangerous assumption that their SaaS vendor is protecting their data and is compliant with regulations. But in fact, most have no (or very limited) data protection capabilities. Some offer data protection, but many fall short of meeting the range of cloud security challenges organizations face. The vendors only protect the applications (not the data being processed) – let alone the metadata.
+Consequently, as businesses integrate and move their work into the cloud, they encounter a fundamental challenge: The security protocols they've put in place on site aren't at all what they'll need in the cloud, where everything is software native and sophisticatedly integrated. The technology built to back up on-prem products is not geared to back up cloud products. It’s a bit like sending a text message to an old landline phone.
+How can you protect your company’s data?
+According to a 2021 study by Enterprise Strategy Group (ESG), only 13% of companies are in-house responsible for protecting all of their SaaS app data. Meanwhile, the study found that 35% rely solely on SaaS vendors to protect data, while 51% depend on both their SaaS vendor and an independent third-party solution to store backup outside of the production area.
+For many companies, their SaaS application data is a mission-critical resource at the core of their operations – and as such, these companies require the highest levels of security. So how should they protect this cloud SaaS data? The best solution is to turn to a true third-party backup and recovery provider to ensure your cloud data is safe and secure, regardless of what your SaaS vendor offers.
+Want to know more about Keepit’s security? Read our SaaS data security guide.

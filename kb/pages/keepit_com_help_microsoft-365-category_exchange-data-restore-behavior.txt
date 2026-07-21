@@ -1,0 +1,59 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/exchange-data-restore-behavior/
+Content type: Web page
+Last modified: 2026-06-30T00:36:46+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Exchange data restore behavior
+This article explains how Exchange data behaves during restore, both generally and depending on the restore method used.
+General restore behavior
+The following behavior applies to all restore methods—whether restoring from the connector level or from browsing a connector (Item Restore).
+Outlook tasks restore behavior
+- Tasks backed up before the release of version 10.5.0 (May 2025) will be restored as "to do," regardless of their original status.
+- Tasks backed up after the release of version 10.5.0 (May 2025) will retain their accurate status (e.g., "to do" or "completed") when restored.
+How restored Outlook emails are sorted
+New Outlook for Windows and Outlook on the Web (OWA)
+Restored emails are sorted based on their last modified timestamp, reflecting when the email was restored rather than its original received date.
+Currently, there is no option to customize or change this sorting behavior.
+Classic Outlook (Legacy Outlook for Windows)
+Restored emails are sorted by their original "Received" timestamp, maintaining their original chronological order. This ensures that emails appear as they did prior to being deleted or restored.
+Calendar event behavior
+When a calendar event is restored after being removed from attendees' calendars, it is recreated in the organizer's calendar.
+Method-specific restore behavior
+Certain restore behavior depends on the method used: item restore or connector level.
+Item restore
+In-place restore
+- Default behavior: All items are restored to their original location.
+- Modified items: Modified items (same item but with different timestamps) will be added to Exchange. They are not renamed but assigned unique IDs upon restore.
+- Timestamps: Restored Exchange items retain their original timestamps.
+- Deletion behavior: Items present in Microsoft 365 but not in the snapshot will not be deleted.
+To new folder
+You can restore data to a separate, newly created folder.
+- Available for: Mail, Calendar, and In-Place Archive.
+- Folder location: A new folder will be created at the root level of your Mail, Calendar, or In-Place Archive, named: Keepit_Restore_[date of restore]
+ "Keepit_Restore_[restore date]".
+- Folder requirement: The original folder must still exist in Microsoft 365. If it has been deleted, create a new folder with the same name before starting the restore.
+- Deletion behavior: Items present in Microsoft 365 but not in the snapshot will not be deleted.
+Connector level
+In-place
+- Available for: Exchange Online (Mail, Calendar, Contacts, Tasks, In-Place Archive) and Public Folders.
+- Deletion behavior:
+- Exchange items: Items present in Microsoft 365 but not in the snapshot you are restoring will be transferred to the Recover deleted items folder.
+ In the web version of Outlook, you can find this folder by selecting Deleted Items > Recover items deleted from this folder. From here, you can restore the items to the Inbox and then move them to an appropriate folder.
+ Ðn the desktop version of Outlook, you can find this folder by selecting Folder > Clean up section > Recover deleted items. From here, you can restore the items to the Inbox and then move them to an appropriate folder.
+- Public Folders:
+ Emails: Moved to the Recoverable Items folder.
+ Other data types (contacts, journals, notes, tasks, etc.) will be deleted.
+To new folder
+- Available for: Mail, Calendar, and In-Place Archive.
+- Folder location: A new folder will be created at the root level of the selected Exchange container, named: Keepit_Restore_[date of restore].
+Handling Duplicates (Connector level - In-Place)
+When restoring in place from the connector level, you can choose how duplicates are handled.
+Modified items — meaning files with the same name but different timestamps — will be handled according to the selected duplicate-handling option:
+- Skip duplicate items
+Modified items are skipped.
+- Rename duplicate items
+Modified items are added but not renamed, as each restored item gets a unique ID in Exchange.
+Items with same name and same timestamps will always be skipped, regardless of the selected option.
+Deletion behavior: In all cases, items present in Exchange but not in the snapshot will be deleted.

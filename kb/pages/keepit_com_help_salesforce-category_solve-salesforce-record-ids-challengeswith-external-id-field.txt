@@ -1,0 +1,121 @@
+Source URL: https://www.keepit.com/help/salesforce-category/solve-salesforce-record-ids-challengeswith-external-id-field/
+Content type: Web page
+Last modified: 2025-12-03T13:09:14+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Solve Salesforce record IDs challengesÂ with External ID field
+Record ID after a restore
+When a record is restored in Salesforce and the original record no longer exists, Salesforce creates a new record with a new record ID. This is standard Salesforce behavior.
+However, by storing theâ¯originalâ¯record ID in a custom External ID field, you give your integrations and data warehouse aâ¯stable keyâ¯to reference—even if Salesforce generates a new record ID upon restore.â¯
+How to capture the original record ID in a custom External ID field
+A Salesforce trigger can be used to capture the original record ID and store it in a custom External ID field.
+In this example, we use the Case object.
+Note: The solution/code can vary based on your individual organization.â¯
+Overview
+Step 1: Create a new custom field
+1. Navigate to Setup > Object Manager > Object (Case).
+2. Click Fields & Relationships > New.
+3. Select Text as the data type and click Next.
+4. Configure Field:
+- Field Label: Case ID
+- Field Name: (API): CaseId__c
+- Field Length: Set the length to 18 characters
+5. (Optionally) Select the checkbox Set this field as the unique record identifier from an external system.
+6. Set field-level security ensuring the field is visible to all profiles that need access and click Next.
+7. Add to the appropriate page layouts and click Save.
+Step 2: Create the trigger for new records
+Next, create a trigger to automatically populate the CaseId__c field with the Salesforce Case ID for new records.
+1. Click the gear icon >Developer Console.
+2. Click File > New > Apex Triggers.
+3. Enter a Name (CaptureCaseId).
+4. Select sObject (Case) and click submit.
+5. Paste the following trigger code to populate the CaseId__c field for new records:
+trigger PopulateCaseIdField on Case (after insert) { 
+    // Create a list to hold the cases to update. 
+    List<Case> casesToUpdate = new List<Case>(); 
+    // Iterate over each Case record 
+    for (Case caseRecord : Trigger.new) { 
+        // Ensure the CaseId__c field is blank before updating 
+        if (String.isBlank(caseRecord.CaseId__c)) { 
+            // Create a new instance of the Case record to update 
+            Case updatedCase = new Case(Id = caseRecord.Id); 
+            updatedCase.CaseId__c = caseRecord.Id;  // Set the custom field with the 18-character Case ID 
+            casesToUpdate.add(updatedCase); 
+        } 
+    } 
+ 
+    // Perform the update for all cases that need it 
+    if (!casesToUpdate.isEmpty()) { 
+        update casesToUpdate; 
+    } 
+}6. Select Ctrl+S to save the trigger.
+Step 3: Test the trigger
+1. Navigate to the Case Object in Salesforce and create a new case.
+2. After saving, verify that the ID was inserted into the Case ID field.
+Step 4: Create the Batch Apex class for existing records
+To update the CaseId__c field for all existing Case records, we need to create a Batch Apex class.
+1. In Setup, go to Apex Classes and click New.
+2. Paste the following code to create the batch class for updating existing records:
+global class UpdateExistingCaseIds implements Database.Batchable<SObject>, Database.Stateful { 
+ 
+    // The start method defines the query to select records 
+    global Database.QueryLocator start(Database.BatchableContext bc) { 
+        // Query all Case records where CaseId__c is blank 
+        return Database.getQueryLocator([SELECT Id, CaseId__c FROM Case WHERE CaseId__c = null]); 
+    } 
+ 
+    // The execute method processes each batch of records 
+    global void execute(Database.BatchableContext bc, List<Case> caseRecords) { 
+        List<Case> casesToUpdate = new List<Case>(); 
+ 
+        // Iterate through the cases and update the CaseId__c field 
+        for (Case caseRecord : caseRecords) { 
+            caseRecord.CaseId__c = caseRecord.Id;  // Set the custom field with the 18-character Case ID 
+            casesToUpdate.add(caseRecord); 
+        } 
+ 
+        // Perform the update for all cases in this batch 
+        if (!casesToUpdate.isEmpty()) { 
+            update casesToUpdate; 
+        } 
+    } 
+ 
+    // The finish method runs after all batches are processed 
+    global void finish(Database.BatchableContext bc) { 
+        System.debug('Batch job complete: CaseId__c field updated for all records.'); 
+    } 
+}3. Save the Class (Name populates to “UpdateExistingCaseIds”
+Step 5: Run the Batch Apex class
+To update the CaseId__c field for existing records, run the batch class:
+1. Open the Developer Console.
+2. Click Debug > Open Execute Anonymous Window.
+3. Past the following code to run the batch job:
+// Execute the batch job to update existing records UpdateExistingCaseIds batch = new UpdateExistingCaseIds(); Database.executeBatch(batch, 200); // Adjust batch size if needed
+4. Click Execute to start the batch job.
+Step 6: Monitor the batch job
+1. In Setup, search for Apex Jobs.
+2. In the Job Monitor, you can monitor the progress of the batch job. You’ll see details about how many batches have been processed, if any errors occurred, and when the job is completed.
+Step 7: Verify the results
+1. Go to the Cases tab and open some Case records.
+2. Verify that the CaseId__c field has been populated with the 18-character Case ID.
+Note: Alternatively, you can run a SOQL query in the Developer Console to verify the results:
+SELECT Id, CaseId__c FROM Case WHERE CaseId__c = null
+Step 8: Schedule the batch job
+If you’d like to schedule this batch job to run periodically (in case more records with a blank CaseId__c are added later), you can create a Scheduled Apex Class.
+1. Create the Scheduled Apex Class:
+- Navigate to Setup > Apex Classes > New
+- Paste the ScheduledUpdateCaseIds code below and save the class
+global class ScheduleUpdateCaseId implements Schedulable { 
+    global void execute(SchedulableContext sc) { 
+        UpdateExistingCaseIds batch = new UpdateExistingCaseIds(); 
+        Database.executeBatch(batch, 200);  // Adjust batch size if necessary 
+    } 
+}
+2. Click Save.
+The name defaults to: ScheduleUpdateCaseId.
+3. In Setup, search for Apex Classes.
+4. Click Schedule Apex.
+5. Give the job a name, select the ScheduleUpdateCaseId class, and set the frequency (i.e. daily, weekly).
+6. Save the scheduled job.

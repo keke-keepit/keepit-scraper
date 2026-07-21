@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/help/api-category/api-permissions/
+Content type: Web page
+Last modified: 2025-09-30T12:17:47+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+API permissions
+The examples in the documentation typically use an API token, which has Master Admin, Partner, or MSP Full Admin permissions by default. These token types provide full access to perform all described actions. The appropriate token type depends on the type of account you're working with:
+- Customer accounts (Keepit platform)
+ An API token or a Master Admin user token
+- Partner accounts (PMC)
+ An API token or a Partner token
+- MSP accounts (PMC)
+ An API token or an MSP Full Admin token
+However, you may use other types of tokens that have fewer permissions. Tokens with more limited permissions may still execute certain API requests, but some actions might be restricted, depending on the assigned role and permissions.
+If the authenticated token lacks sufficient permissions, a "Forbidden" error will be returned in the body of the API response.
+Refer to our permissions articles:

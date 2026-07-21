@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/help/platform-category/change-a-connectors-retention-period/
+Content type: Web page
+Last modified: 2026-06-18T10:24:45+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Change a connector's retention period
+This article explains how to set a custom snapshot retention period for a connector.
+You can set a custom retention period for any connector. The custom period can't exceed the retention period assigned to your Keepit account.
+Reducing the retention period below the extent of your existing backup can cause data loss. By default, a delete retention period of 30 days applies, giving you time to reverse the change before Keepit permanently deletes the affected snapshots.
+Change your retention period
+1. To the right of the connector, select the gear icon.
+2. In the lower-right corner, select the calendar icon.
+3. Select Limit retention period.
+4. Set the retention period to Years or Months.
+5. Enter a value in the retention period field.
+6. Select Update.

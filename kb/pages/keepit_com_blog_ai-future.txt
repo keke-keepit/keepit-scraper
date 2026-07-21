@@ -1,0 +1,69 @@
+Source URL: https://www.keepit.com/blog/ai-future/
+Content type: Web page
+Last modified: 2026-03-16T11:27:31+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+AI of the future: Holding the keys with agentic AI
+When you think of AI, you probably don’t picture text-only models. You picture systems that can do things: take actions, make decisions, and change the state of your environment. That’s agentic AI. And agentic AI can be a lot like Hannibal Lecter — brilliant, helpful, and then, suddenly, a monster.
+Action changes the risk profile. When software can act and not just advise or provide insights, the blast radius grows. Intelligence without reversibility is a risk multiplier. If you can’t roll it back, you don’t control it.
+Treat agentic AI like a brilliant guest — welcome the help but hold on to the keys.
+Three-part AI series recap
+In our first AI blog, AI of today, we highlighted how AI raises capability while lowering day-to-day control, and that independent, immutable backup with point-in-time rollback is the foundation for staying in control.
+In our second AI blog, AI of tomorrow, we zoomed in on AI inside backup and recovery, including what Model Context Protocol (MCP) enables: AI can interrogate systems of record you already control (instead of becoming a new data store), and evolve safely from human-driven inspection to human-in-the-loop automation.
+This third post looks further ahead: what fully agentic AI could enable in SaaS data protection and how to get the speed without surrendering the non-negotiables of independence, immutability, and testable rollback.
+First, what is agentic AI?
+The term agentic comes from the word agency — the ability to act on behalf of. Agentic AI pursues goals by calling tools/APIs and then planning and executing multi-step workflows with minimal (or no) human intervention.
+In content domains, it drafts and sends. In operations, it changes state: archives, moves, deletes, grants access, schedules jobs, and initiates restores. The difference from generative AI is one word: action.
+The upside is obvious: 24/7 response, coordinated multi-step execution, faster time from intent to outcome. The downside is just as clear: If an agent gets it wrong, it can get a lot wrong, very quickly. That’s why we don’t ‘trust the genius’ and just release it; we restrict it. Immutability and rollback are the glass wall between brilliance and harm.
+From insights to actions: The progression of AI’s ability to act
+The arc is simple:
+Tier 1: human-driven inspection → Tier 2: human-in-the-loop automation → Tier 3: fully agentic actions.
+Most organizations live between tiers 1 and 2 today. Tier 3 is the destination, and the only responsible path is to extend (not weaken) your control model.
+Simply put, the higher tier you go, the bigger the blast radius, and the more vital it is that you can prove what happened and undo it precisely and swiftly.
+Autonomy is the next interface, control is the differentiator
+Agentic AI is the next interface layer for work. Not a feature. Not a chatbot. It’s a new way of operating where intent turns into action with minimal friction. That’s why it feels inevitable: Every team wants the speed, the coverage, and the ‘always on’ execution.
+But here’s the reality: In the age of agents, the competitive advantage won’t come from who has the smartest model; it’ll come from who can govern change without slowing down.
+Agentic AI doesn’t just make progress faster, it also makes mistakes faster, too. The winners won’t be the organizations that pretend mistakes won’t happen, they’ll be the ones that can:
+Move fast → prove what happened → undo it precisely and quickly.
+Control isn’t a brake, it’s what lets you accelerate safely.
+What agentic AI could enable in SaaS data protection
+Within tight boundaries, agentic AI could help teams respond faster and with more consistency, for example by:
+- Proposing restore plans across multiple SaaS apps (including sequencing and preflight checks) based on a known-good point in time.
+- Quarantining suspected blast zones during an incident (e.g., freezing a scoped workspace or revoking specific tokens) while kicking off recovery runbooks.
+- Running continuous restore tests and reporting whether RPO/RTO targets are actually met in practice — not just on paper.
+- Assembling audit evidence packs (what changed, who did it, when, and why) and mapping them to compliance requirements.
+The common thread: Actions should be explainable, bounded, and anchored in a trustworthy history you control.
+Blast radius: Why rollback is non-negotiable
+Yes, agentic AI changes state — that’s the point. But the same power that accelerates execution can also widen the blast radius if something goes wrong. Without rollback, bad decisions become durable decisions.
+Typical failure modes to plan for:
+- Scope creep through tools: a change intended for one workspace touches an entire tenant because a parameter was too broad.
+- Hallucinated or stale parameters: the agent applies the wrong ID, scope, or timeframe and acts confidently.
+- Prompt injection: the agent accepts malicious or malformed input and ‘helpfully’ executes it.
+- Memory injection (MINJA): a form of indirect prompt injection where malicious instructions are hidden in data that the AI stores in its long-term memory (e.g., in a RAG database, user profile, or chat history).
+- Policy drift: rules evolve quietly, producing slow, silent loss that surfaces weeks later.
+- Identity mistakes: incorrect role or entitlement mapping leads to over-permissioned changes.
+- Automation loops: one agent’s ‘fix’ triggers another agent’s response, amplifying an error across systems.
+Bottom line: If an agent can act, it can also act wrong — confidently and at scale. Rollback is the locked door, and without it, Lecter walks out.
+Rolling out agentic AI must-haves
+To safely roll out agentic AI without giving up control, you need the same three keys: an immutable source of truth, auditable actions, and rollback.
+In practice, that means:
+Independent, immutable system of record
+Agents should ground decisions in a vendor-independent, immutable history — not production snapshots or recycle bins. Every action must be traceable and reversible to a known-good state (or any point in time you can prove).
+Least-privilege, scoped tools
+Expose only the minimum, tightly scoped actions an agent needs (for example, staged change plans with scoped parameters). Default to read-only. Write actions are explicit, rare, logged, and reversible.
+Approvals and guardrails
+Codify policy as code, approval gates, and blast-radius limits. Practice with simulators and dry runs; keep a human in the loop for anything irreversible.
+Full auditability
+Log tool calls, parameters, and outcomes so you can explain what happened and why — to operations, security, and regulators. Evidence is operational integrity.
+Reversibility by design
+Every agentic path must terminate in a restorable state anchored in backup history. Rollback isn’t an afterthought; it’s the safety net that makes automation safe to scale.
+Point-in-time truth sets you free to innovate:
+- Start with bounded scopes and a defined rollback point.
+- Expand only when outcomes are repeatable and evidence is clean.
+- Treat rollback as the condition for speed, not the consequence of failure.
+Welcome the genius, keep the keys.
+Agentic AI doesn’t have to be chaotic, but it does have to be contained. When you have a trustworthy, immutable source of truth and rollback, you can take bigger swings and learn faster without losing control. And if it goes wrong, it’s not a catastrophe; it’s a reversal.
+Rollback turns risky autonomy into an advantage.
+Rollback isn’t just protection, it’s what makes experimentation responsible. Agentic AI will be a force multiplier if every action can be explained, bounded, and rolled back. That’s how you get speed and safety at once.

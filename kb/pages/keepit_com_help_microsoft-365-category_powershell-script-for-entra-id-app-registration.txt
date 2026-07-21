@@ -1,0 +1,88 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/powershell-script-for-entra-id-app-registration/
+Content type: Web page
+Last modified: 2026-06-29T23:27:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+PowerShell script for Entra ID app registration
+Use this PowerShell script to generate a certificate and private key to use to connect your Entra ID app registration to Keepit.
+After you download the script and before you run it, rename the file extension to .ps1.
+Supported formats:
+- The certificate can have the following formats: CRT, CER, PEM.
+- The private key must be in the KEY format.
+<#
+.SYNOPSIS
+    .
+.DESCRIPTION
+    Create Self-signed certificate with private and public keys.  
+.PARAMETER PubKeyFileName
+    Public key file name
+.PARAMETER PrivKeyFileName
+    Private key file name
+.PARAMETER CertFileName
+    Certificate file name with extention (.cer/.pem/.crt)
+.EXAMPLE
+    C:\PS> 
+    generate-self-signed-cert.ps1 -PubKeyFileName <public key filename> -PrivKeyFileName <private key filename> -CertFileName <sertificate file name>.crt
+#>
+param (
+ [Parameter(Mandatory=$true)][string]$PubKeyFileName = $( Read-Host "Enter public key file name: " ),
+ [Parameter(Mandatory=$true)][string]$PrivKeyFileName = $( Read-Host "Enter private key file name: " ),
+ [Parameter(Mandatory=$true)][string]$CertFileName = $( Read-Host "Enter certificate file name with extention (.cer/.pem/.crt): " )
+)
+#check for certificate extention
+$ext = [IO.Path]::GetExtension($CertFileName)
+if($ext -ne ".cer" -and $ext -ne ".pem" -and $ext -ne ".crt")
+{
+   Write-Output "You should enter certificate file name with extention (.cer/.pem/.crt). Run script again"
+  Exit
+}
+$countryName = Read-Host -Prompt "Country Name (2 letter code) [AU]"
+$provinceName = Read-Host -Prompt "State or province name (full name) [Some-State]"
+$localityName = Read-Host -Prompt "Locality Name (eg, city)"
+$organizationName = Read-Host -Prompt "Organization Name (eg, company) [Internet Widgits Pty Ltd]"
+$organizationUnitName = Read-Host -Prompt "Organization Unit Name (eg, section) [Engineering]"
+$commonName = Read-Host -Prompt "Common Name (e.g. server FQDN or YOUR name) [foo.org]"
+$email = Read-Host -Prompt "Email address [foo@bar.baz]"
+$currentDir = split-path -parent $MyInvocation.MyCommand.Definition;
+Write-Output "Generating self-signed sertificate..."
+$cert = New-SelfSignedCertificate -Subject "CN=$commonName,C=$countryName,ST=$provinceName,L=$localityName,O=$organizationName,OU=$organizationUnitName,emailAddress=$email" -CertStoreLocation "$currentDir" -NotAfter (Get-Date).AddYears(2) -KeyExportPolicy Exportable -KeySpec Signature -KeyLength 2048 -KeyAlgorithm RSA -HashAlgorithm SHA256
+$binaryFile = New-TemporaryFile
+Export-Certificate -Cert $cert -FilePath $binaryFile | Out-Null
+# Certificate to Base64
+$binaryContent = [System.IO.File]::ReadAllBytes($binaryFile)
+$textContent = [System.Convert]::ToBase64String($binaryContent, [System.Base64FormattingOptions]::InsertLineBreaks)
+# Certificate file contents
+$textContentFormated = @"
+-----BEGIN CERTIFICATE-----
+$textContent
+-----END CERTIFICATE-----
+"@
+# Output to file
+[System.IO.File]::WriteAllLines("$currentDir/$CertFileName", $textContentFormated)
+# Private key to Base64
+$privateKey = [System.Security.Cryptography.X509Certificates.RSACertificateExtensions]::GetRSAPrivateKey($cert)
+$privateKeyBytes = $privateKey.Key.Export([System.Security.Cryptography.CngKeyBlobFormat]::Pkcs8PrivateBlob)
+$privateKeyBase64 = [System.Convert]::ToBase64String($privateKeyBytes, [System.Base64FormattingOptions]::InsertLineBreaks)
+# Private key file contents
+$privateKeyFileContent = @"
+-----BEGIN PRIVATE KEY-----
+$privateKeyBase64
+-----END PRIVATE KEY-----
+"@
+# Output to file
+[System.IO.File]::WriteAllLines("$currentDir/$PrivKeyFileName.key", $privateKeyFileContent)
+# Public key to Base64
+$publicKey = [System.Security.Cryptography.X509Certificates.RSACertificateExtensions]::GetRSAPublicKey($cert)
+$publicKeyBytes = $privateKey.Key.Export([System.Security.Cryptography.CngKeyBlobFormat]::Pkcs8PrivateBlob)
+$publicKeyBase64 = [System.Convert]::ToBase64String($publicKeyBytes, [System.Base64FormattingOptions]::InsertLineBreaks)
+# Public key file contents
+$publicKeyFileContent = @"
+-----BEGIN PUBLIC KEY-----
+$publicKeyBase64
+-----END PUBLIC KEY-----
+"@
+# Output to file
+[System.IO.File]::WriteAllLines("$currentDir/$PubKeyFileName.key", $publicKeyFileContent)
+Write-Output "Public/Private key pair and a self-signed certificate generated successfully!"

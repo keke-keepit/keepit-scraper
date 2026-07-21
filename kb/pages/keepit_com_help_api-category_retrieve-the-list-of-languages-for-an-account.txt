@@ -1,0 +1,43 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-the-list-of-languages-for-an-account/
+Content type: Web page
+Last modified: 2025-10-16T09:56:13+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve the list of languages for an account
+This command retrieves the list of languages configured by the partner account.
+API request
+Method GET
+/bl/partner/{partner_id}/messages/languages
+Example
+Method GET
+https://dk-co.keepit.com/bl/partner/nq2v51-5mx23m-qb7sah/messages/languages
+Response
+Code: 200 OK
+Response body:
+<languages>
+    <language>de-DE</language>
+    <language>en-GB</language>
+</languages>PowerShell script
+try {
+    $username = '<Token username>'
+    $password = '<Token password>'
+    $partnerGuid = '<partner account ID>'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $url = "https://dk-co.keepit.com/bl/partner/$partnerGuid/messages/languages"
+    $response = Invoke-WebRequest -UseBasicParsing -Uri $url -Method GET -Headers $headers -ErrorAction Stop -TimeoutSec 10
+    $xmlContent = [xml]$response.Content
+    foreach ($node in $xmlContent.documentElement.ChildNodes) {
+        Write-Host "$($node.Name): $($node.InnerText)"
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}

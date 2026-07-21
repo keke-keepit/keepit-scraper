@@ -1,0 +1,102 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Deutscher-Arzteverlag-customer-case-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+Customer case
+Reliable and fast 
+recovery for Deutscher 
+Ärzteverlag with Keepit
+
+Protecting critical Microsoft 365 data  
+Deutscher Ärzteverlag’s IT team supports 
+nearly 200 users and safeguards about 10 TB 
+of data. As the organization expanded its use of 
+Microsoft 365, it sought a way to protect Teams, 
+Exchange, and OneDrive against both accidental 
+and intentional data loss. The goal was to find a 
+reliable, easy-to-manage backup solution that 
+could restore deleted files quickly and minimize 
+operational disruption.
+Business continuity is essential to Deutscher 
+Ärzteverlag’s publishing operations. Every two 
+weeks, the company produces and distributes 
+the Deutsches Ärzteblatt, one of Germany’s 
+most prominent medical journals, to doctors 
+nationwide. Any interruption to its systems or 
+loss of data could directly affect production 
+schedules, making reliable backup and recovery 
+capabilities indispensable.
+Customer case:
+Deutscher Ärzteverlag
+For more than 70 years, Deutscher Ärzteverlag has been a trusted voice in Germany’s medical 
+community. Based in Cologne, the publisher works with highly sensitive data every day — from 
+address lists for every doctor in Germany to confidential materials for medical publications and 
+associations. According to Thomas Wübbelsmann, Head of IT Infrastructure & User Helpdesk 
+at Deutscher Ärzteverlag, keeping that information secure is nonnegotiable. His team makes 
+sure data stays confidential, available, and fully compliant with GDPR while protecting against 
+unauthorized access or breaches.
+“Keepit’s ease of use, reliability, and European 
+data centers made it the ideal solution for us — 
+ensuring full GDPR compliance and seamless 
+data protection.”
+-  Thomas Wübbelsmann 
+Head of IT Infrastructure & User Helpdesk
+Deutscher Ärzteverlag
+
+In addition, Keepit’s vendor independence 
+aligned well with Deutscher Ärzteverlag’s strategy 
+to remain flexible and avoid vendor lock-in. 
+This independence allows compatibility across 
+multiple platforms and systems, ensuring the 
+solution can adapt to future organizational needs. 
+Security features such as encryption and data 
+immutability further strengthened Deutscher 
+Ärzteverlag’s confidence in the platform. 
+Together, these measures protect data against 
+unauthorized access and tampering, reinforcing 
+both compliance and operational resilience.
+Faster recovery and greater peace of mind 
+Since implementing Keepit, Deutscher 
+Ärzteverlag has significantly improved its 
+ability to recover lost or deleted data. Restores 
+are faster and more reliable, and the IT team 
+knows the entire Microsoft 365 environment is 
+continuously protected. The transition has also 
+reduced administrative overhead, freeing staff 
+to focus on improving infrastructure rather than 
+troubleshooting recovery issues.
+Keepit’s platform also streamlines day-to-day 
+operations by making backup and recovery 
+straightforward and intuitive. With fast setup, 
+simple navigation, and seamless integration 
+across key applications, the team can keep data 
+secure, compliant, and easily recoverable — all 
+with minimal effort.
+Wübbelsmann encourages other organizations to 
+explore Keepit through a demo to see how simple 
+and secure SaaS data protection can be.
+About Deutscher Ärzteverlag
+Founded in 1949, Deutscher Ärzteverlag is one of the 
+leading medical publishers in the German-speaking 
+region. The company produces professional policy 
+magazines, association publications, and a wide range 
+of healthcare journals and books. Its strong online 
+brands complement the print portfolio and connect 
+healthcare professionals across multiple channels.
+Customer case:
+Deutscher Ärzteverlag
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+“Keepit makes backup and recovery 
+incredibly easy — and that reliability gives 
+us real confidence.”
+-  Thomas Wübbelsmann 
+Head of IT Infrastructure & User Helpdesk
+Deutscher Ärzteverlag

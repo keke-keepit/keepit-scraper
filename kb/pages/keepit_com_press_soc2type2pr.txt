@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/press/soc2type2pr/
+Content type: Web page
+Last modified: 2026-07-09T09:40:48+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Trust, verified: Keepit completes SOC 2 Type II audit, confirming security controls hold up over time
+Independent audit confirms Keepit's security and operational controls are working consistently over time, deepening trust for customers worldwide
+Copenhagen, Denmark — June 30, 2026 — Keepit, the only vendor-independent cloud dedicated to SaaS data protection, today announced the successful completion of its System and Organization Controls 2 (SOC 2) Type II audit. The achievement follows Keepit's SOC 2 Type I attestation, announced in August 2025, and marks the completion of the full SOC 2 journey — from establishing controls to proving they work, day in and day out, under independent scrutiny.
+Understanding the difference between Type I and Type II
+The two report types serve distinct purposes. SOC 2 Type I evaluates whether an organization's security controls are properly designed at a specific point in time — it is, in effect, a snapshot. SOC 2 Type II goes further: an independent auditor examines whether those controls have been operating effectively over a sustained period, typically anywhere from three to 12 months. That means gathering real evidence: access logs, incident response records, change management documentation, and verifying that security processes work in practice, not just on paper.
+Where Type I says "the controls are in place," Type II says "the controls are working, and here is the proof." For customers evaluating a vendor's security posture, that distinction matters.
+What the audit covers
+The SOC 2 Type II examination was conducted by an independent auditor over a six-month evidence period — within the standard window of three to 12 months — and evaluated Keepit's controls across security, availability, and confidentiality, the Trust Services Criteria established by the American Institute of Certified Public Accountants (AICPA). The six-month scope was a deliberate choice: Keepit intends to run the audit on an annual basis, and the period was timed to fit the organization's activities and establish a sustainable recurring cadence. The audit assessed how Keepit handles data access and permissions, how the company responds to security incidents, how changes to systems are controlled, and whether security processes hold up consistently over time.
+“SOC 2 Type II isn’t just a badge. It’s an external audit report that proves we’ve built security and operational controls and that we’ve kept them working consistently over time. An independent auditor spent months acquiring evidence for the past year on how we handle data, who gets access to what, how we respond to incidents, and whether our security processes work in practice,” said Kim Larsen, Group Chief Information Security Officer at Keepit.
+Larsen added that the attestation is in high demand from customers across geographies:
+“In Europe, ISO 27001 has long been the benchmark customers use to evaluate a vendor's security posture. In the US, SOC2 Type II plays that same role — it's the report enterprise procurement and security teams expect to see before signing a contract. Having both means we can walk into any market in the world and meet that bar."
+A company-wide achievement
+Completing a SOC 2 Type II audit requires more than a security team working in isolation. Keepit's effort spanned Security, Delivery, Legal, Operations, Internal IT, People and Culture, and more — teams documenting processes, validating controls, and preparing evidence for an independent auditor reviewing six months of real operational activity.
+“SOC 2 Type II gives our customers something they can actually use — an independent, evidence-based report they can hand to their own security and procurement teams to confirm that Keepit’s controls don’t just exist on paper,” Kim Larsen noted.
+Building on a strong compliance foundation
+The SOC 2 Type II report builds on Keepit’s existing security and compliance credentials, including its ISO 27001 certification and SOC 2 Type I attestation. Together, these independent validations reflect Keepit’s approach to data protection: transparent, auditable, and designed to give customers confidence that their backup data is in safe hands.
+Keepit’s platform stores backup data in a vendor-independent cloud with no third-party sub-processors, ensuring customers retain sovereignty over where their data lives and who can access it. The SOC 2 Type II attestation provides an additional, independently verified layer of assurance that those commitments hold in practice.
+Accessing the report
+Customers, partners, and auditors can request a copy of the SOC 2 Type II report by contacting Keepit at security@keepit.com. Please note that the report can only be shared under a mutual non-disclosure agreement (NDA) or a signed contract.
+About Keepitâ¯â¯
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguardsâ¯essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no third-party sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and dataâ¯centersâ¯worldwide, more than 25,000 companies trust Keepit for its ease of use and effortless, backup and recovery of cloud data. â¯â¯â¯
+For more information visitâ¯www.keepit.comâ¯or follow Keepit onâ¯Linkedin.â¯â¯

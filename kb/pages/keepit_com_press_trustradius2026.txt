@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/press/trustradius2026/
+Content type: Web page
+Last modified: 2026-06-16T10:04:48+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit earns TrustRadius Top Rated Award for the fifth year running
+Customers award Keepit top rating as a leader among SaaS Backup, Data Loss Prevention, Disaster Recovery, and Enterprise Backup categories.
+Copenhagen, Denmark – June 10, 2026 – Keepit, a global leader in SaaS data backup and recovery, today announced that it has been recognized as TrustRadius Top Rated in four categories: SaaS Backup, Data Loss Prevention, Disaster Recovery, and Enterprise Backup. This recognition comes directly from verified customers, underscoring Keepit’s commitment to providing a secure backup and recovery platform to its customer base worldwide.
+Unlike many industry awards, TrustRadius Top Rated awards are based 100% on verified customer feedback, never influenced by analyst opinion or status as a TrustRadius customer. Since 2016, the TrustRadius Top Rated Awards have become the B2B’s gold standard for unbiased recognition of excellent technology products.
+Here is a detailed criteria breakdown of the methodology and scoring that TrustRadius uses to determine Top Rated winners.
+"The Top Rated awards are based entirely on feedback from verified users, making them a trusted recognition for product excellence. Keepit earning four Top Rated awards across Data Loss Prevention, Enterprise Backup, Disaster Recovery and SaaS Backup tells you something real about how they’re performing with IT teams who depend on them every day. The reviews keep coming back to two things: point-in-time recovery for Microsoft 365 that actually works, and backup data that sits outside the provider’s retention window entirely. Congrats to the Keepit team for their hard work,” says TrustRadius Senior Vice President Growth, Rajat Bhatnagar.
+“To win the Top Rated award is one of the most meaningful recognitions we can receive because it comes straight from our customers — no filters, just honest experience. It’s proof that organizations around the world trust Keepit, and genuinely benefit from using our platform. As organizations become more dependent on SaaS applications, Keepit’s platform remains a crucial last line of defense against data loss, giving businesses the confidence to face whatever comes their way. The customer voices make the mission all the more real,” says Michele Hayes, CMO at Keepit.
+Keepit’s cloud backup and recovery platform currently secures sixteen SaaS applications — through immutable backups, organizations can secure business-critical applications in an independent cloud, separate from global hyperscalers. Keepit ensures customer data is always accessible, recoverable, and stored in a region of their choosing.
+Hear from verified users on how much they value Keepit: Keepit reviews on TrustRadius.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no third-party sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 20,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data. â¯
+For more information visit www.keepit.com or follow Keepit on LinkedIn
+About TrustRadius:
+TrustRadius, an HG Insights Company, is a buyer intelligence platform for business technology. Through comprehensive product information, in-depth customer insights, and peer reviews, buyers are enabled to make confident decisions. TrustRadius also empowers technology brands to capture and activate the authentic voice of customers, which improves products, buyer trust, and engagement with in-market buyers. TrustRadius was acquired by HG Insights in June 2025.

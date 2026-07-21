@@ -1,0 +1,117 @@
+Source URL: https://lp.keepit.com/hubfs/product-sheets/Keepit-Microsoft-Dynamics-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 2
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery 
+for Microsoft Dynamics 365
+Keep processes running with vendor-independent backup
+From CRM and finance to supply chain and HR, Dynamics 365 powers the core of your 
+business. But if data is lost or systems fail, sales stop and operations stall.
+Native Dynamics 365 tools offer only basic protection and limited retention, and under 
+Microsoft’s shared responsibility model*, you’re still accountable for your data. 
+Keepit solves this with intelligent tools to back up and restore Dynamics 365 data and 
+metadata in minutes, so your business can keep running without interruption.
+Be confident that you can recover
+Have all your data always at your fingertips 
+with comprehensive, automated backups 
+of your data — including metadata and 
+custom tables.
+Flexible restore options
+Restore records flexibly and granu-
+larly, from specific entities to point-
+in-time snapshots. Keepit prioritizes 
+recovery plans to get your business 
+running again — fast.
+Time-saving usability 
+Easy to implement and intuitive, Keepit 
+requires minimal expertise to use. You 
+can focus on managing your Dynamics 
+365 environment instead of complex 
+backup processes.
+“We searched the market extensively for backup 
+and restore products ahead of choosing Keepit 
+as the right solution for the University’s needs for 
+long-term data retention.”
+Lasse Thomsen, Information Systems 
+Manager, Oxford University Innovation Ltd
+85% of organizations reported 
+at least one data loss incident 
+in the past 12 months. 
+Source: Proofpoint “The 2024 Data Loss 
+Landscape”
+The risk
+Keepit customers were able to reduce the 
+time needed to restore data for priority 
+users by 90% after a data loss incident. 
+Source: Forrester Total Economic Impact Study 2024
+Proven benefit
+90% of those reporting data loss 
+incidents suffered consequences, 
+including business disruption, revenue 
+loss, and reputational damage. 
+Source: Proofpoint “The 2024 Data Loss Landscape”
+Financial impact
+* Microsoft Dynamics 365 guidance, implementation guide
+
+KEY CAPABILITIES
+The best coverage 
+Keepit delivers the most 
+comprehensive, granular backup for 
+all key Microsoft 365 applications, 
+offering unmatched coverage in the 
+market.
+Instant search
+Find what you need fast with Keepit’s 
+powerful search. Use filters to locate 
+entities, metadata, and tables and 
+then restore or share with a secure link 
+in one click.
+Unlimited retention
+Customize retention for up to 99 
+years with no extra costs. Even as 
+attachments pile up and data grows, 
+you can safely store everything 
+without added complexity.
+Selective metadata restore
+Restore customizations such as 
+entities, fields, and relationships 
+without rolling back the entire 
+Dynamics 365 environment.
+Proactive monitoring
+Gain full visibility into backup health 
+with Data Protection and Anomaly 
+Detection Dashboards, enabling early 
+identification and quick remediation 
+of potential risks to your Dynamics 
+365 data.
+Highest security
+Keepit’s vendor-independent 
+cloud and immutable-by-design 
+architecture ensure your backups stay 
+protected.
+Secure your Microsoft Dynamics 
+365 data in minutes with Keepit
+Take control of your Dynamics 365 data with Keepit
+Book a demo
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+All entities’ associated metadata and all custom tables for the following applications
+COVERAGE
+Dynamics Sales
+Dynamics 365 
+Field Service
+Dynamics 365 
+Customer Insights
+Dynamics 365 
+Customer Service
+Dynamics 365 
+Project Operations
+Find complete 
+coverage here.

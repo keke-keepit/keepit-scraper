@@ -1,0 +1,110 @@
+Source URL: https://keep-it.cdn.prismic.io/keep-it/bfc3d466-2b22-4b78-b551-570bc4bb1bfd_Deakin_university_case.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+From 2-week 
+to 2-hour data 
+recovery
+Deakin University levels up their 
+data protection with Keepit
+Customer case:
+Deakin University
+
+When the shift to the cloud was suddenly right 
+in front of them, Deakin University needed a 
+secure solution to back up and recover their 
+SaaS data. Tim Forshaw, Data Centre Manager, 
+Deakin University, shares that through his 
+extensive research he found Keepit to be faster, 
+more secure, and more user friendly than other 
+vendors on the market. 
+Keepit offers confidence in recovery  
+– no matter what
+Knowing that Microsoft’s native offering 
+wasn’t enough, Tim proposed Keepit due to 
+its independent, cloud-only status. The Keepit 
+solution provided the promise that Deakin 
+University’s Microsoft 365 apps would be 
+completely secure. Even if data was temporarily 
+deleted, all could be recovered completely.
+Significantly faster data recovery 
+In the past, it could take Deakin University 
+weeks to organize a data recovery. They would 
+typically hire a skilled engineer to work through 
+the lengthy process of organizing tapes, ▶
+“Universities are big targets for cyber-
+criminals. And we fully trust Keepit with 
+our data. There are no question marks.” 
+– Tim Forshaw, Data Centre Manager, Deakin University
+“We use Keepit, and we’ll 
+shout it from the rooftops. 
+It just does what it says 
+it’s going to do. We don’t 
+have outages. If we need 
+to recover a mailbox from 
+3 years ago, we’ve got it 
+within hours.”       
+– Tim Forshaw, Data Centre Manager, 
+Deakin University
+Customer case:
+Deakin University
+
+archive boxes, and more. Now that the 
+university is using the Keepit solution, their 
+data recovery process typically takes place 
+the same day. Now, when Tim Forshaw’s team 
+recovers data, the recovery time unit is in hours 
+or minutes instead of several weeks.
+Improved business relationships and reputation
+The benefits of working with Keepit have a 
+positive domino effect when it comes to the 
+university’s business partners – and especially, 
+their legal team. 
+For larger data recovery requests, Tim’s team 
+works with their solicitor to work through all the 
+details. In addition to aiding in the efficiency 
+of his team, Tim shares that working with 
+Keepit has made a world of difference for their 
+solicitors, too. 
+Whenever they meet with the solicitors on a 
+specific data recovery case, the legal team is 
+confident that they can quickly work through 
+the case because Tim’s team can recover all 
+needed data using the Keepit solution. As 
+Tim says, “Keepit makes us look good. Keepit 
+makes them look good.” ■
+Learn how Keepit can securely 
+back up and recover your data
+About Deakin University
+Included in the top 1% of universities 
+worldwide, Deakin is a leading 
+university enabling globally 
+connected education for the jobs of 
+the future and research that makes 
+a difference to communities across 
+the globe. 
+Deakin offers a personalised 
+experience enhanced by world-
+class programs and innovative 
+digital engagement. The university 
+has four outstanding campuses 
+in Melbourne, Geelong and 
+Warrnambool, and a premium online 
+learning platform.
+Request demo
+“It makes a big difference at the solicitors office when they know they can 
+meet with us and feel confident that our team can probably get any data 
+they need – due to Keepit’s reliable backup and recovery solution.” 
+– Tim Forshaw 
+Data Centre Manager, Deakin University
+“It used to take 2 weeks for a highly trained engineer 
+to recover data for us. Now there’s no need for a  
+Senior CIS admin to do it. Our team can work on it,  
+and we can say, ‘We’ll have it this afternoon.’”
+– Tim Forshaw, Data Centre Manager, Deakin University
+Customer case:
+Deakin University

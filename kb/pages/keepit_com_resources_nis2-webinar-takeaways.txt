@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/resources/nis2-webinar-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Prepare for NIS2: Webinar key takeaways
+The NIS2 directive, set to be enacted into local law by October 17, 2024, implements the most comprehensive cybersecurity regulation in global history. It aims to bolster Europe’s defense against cyber threats by standardizing cybersecurity measures across the EU, particularly for organizations with critical infrastructure.
+To help organizations prepare for NIS2 and shed light on what is required to be compliant, Keepit organized a webinar, hosting an expert panel consisting of Soren Skibsted, Co-Chair of IBA’s Presidential Task Force on Cyber Security, Senator Dr. Andreas Rebetzky, Security and Infrastructure Advisor to CIOs, and Mikkel Oxfeldt, General Counsel at Keepit. The discussion focused on what organizations need to know about the content of the NIS2 directive, specifically Article 21, which addresses the importance of maintaining business continuity.
+You can watch the on-demand webinar here anytime: Prepare for NIS2: Business continuity is critical. Here's how to get it right.
+ 
+You can also download our key takeaways document to get all your questions answered, such as:
+- What are your responsibilities under NIS2?
+- What are organizations’ main challenges and concerns?
+- What does a winning NIS2 strategy look like?
+ 
+The handout includes our Map-Prioritize-Test framework to help guide you through the process of getting your business ready for the regulation and know how to comply with the business continuity and disaster recovery requirements of NIS2.

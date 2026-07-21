@@ -1,0 +1,12 @@
+Source URL: https://www.keepit.com/help/zendesk-category/your-zendesk-api-requests-usage/
+Content type: Web page
+Last modified: 2025-03-11T20:09:11+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Your Zendesk API requests usage
+Keepit uses Zendesk APIs to back up and restore your Zendesk data. To prevent you from exceeding your Zendesk API request limit, we use an internal throttling mechanism to control how many API requests we are using per minute. This mechanism will ensure that you can continue to work in Zendesk without any disruptions.
+How do we do this?
+We monitor the number of requests remaining in the current minute. If we see the number is close to reaching the limit, we will automatically pause any ongoing backups or restores.
+We also monitor the time in seconds until the limit is refreshed so that we know when we can continue the backups and restores.

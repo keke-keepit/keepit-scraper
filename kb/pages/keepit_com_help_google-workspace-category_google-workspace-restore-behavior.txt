@@ -1,0 +1,14 @@
+Source URL: https://www.keepit.com/help/google-workspace-category/google-workspace-restore-behavior/
+Content type: Web page
+Last modified: 2025-07-17T14:36:15+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Google Workspace restore behavior
+Location
+Google Workspace items are restored to their original location. It is important to note that items with the same name in the same location will be overwritten.
+Format
+Google Workspace items (Docs, Sheets, Slides, and Apps Scripts) are restored in their original formats.
+Google Calendar tasks
+Due to API limitations, Google Calendar tasks with an assigned time are restored to the due date without the time. This means that in the Calendar, the tasks will be applied to the whole day, rather than to a particular time.

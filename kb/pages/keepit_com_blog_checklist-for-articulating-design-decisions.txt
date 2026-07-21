@@ -1,0 +1,49 @@
+Source URL: https://www.keepit.com/blog/checklist-for-articulating-design-decisions/
+Content type: Web page
+Last modified: 2025-08-20T00:30:47+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+6-step checklist for articulating design decisions
+Nice to know for UX, Product Designers, and Product Managers
+In the process of designing any digital product, there is always a time when you, as a UX or Product designer, need to make a tough decision.
+It’s often combined with the limited time and pressure from customers, engineers, managers, and everyone else in the product development cycle.
+You may need to accept thatâ¯panic,â¯fear, and lack ofâ¯self-confidenceâ¯are often part of the decision-making process.
+Sounds familiar? In this article, I’ll share a six-step decision-making framework that will not only make your process faster but also easier to articulate to all those involved.
+When making a decision, we form opinions and choose actions via mental processes which are influenced by biases, reason, emotions, and memories. The simple act of deciding supports the notion that we haveâ¯free will. We weigh the benefits and costs of our choice, and then we cope with the consequences. Factors that limit the ability to make good decisions include missing or incomplete information, urgent deadlines, and limited physical or emotional resources.
+Psychology Today
+The ability to think critically is key to making good decisions without succumbing to common errors, bias, or intuition. “There is a need for disciplined intuition and what I mean by disciplined is delayed intuition. One of the many problems with our intuitions is they come too fast and we tend to confirm them.” (Kahneman, Daniel. Thinking, Fast and Slow. New York: Farrar, Straus, and Giroux, 2011.)
+When you look at all possible sources of information with an open mind, you can make an informed decision based on facts rather than intuition.
+Let's move on to putting the decision-making framework into action.
+Design Decision Framework
+This process will ensure that you make a good decision in a complex situation, but it may be unnecessarily complicated for small or simple decisions. In these cases, jump ahead to step 5.
+Step 1. Investigate the problem
+Start by considering the decision in the context of the problem it is intended to address. You need to determine whether the stated problem is the real issue or just a symptom of something deeper.
+To make a proper problem investigation, first you need to know the user that is facing this problem, why it happens, and how often it occurs – to name a few. There are many things to know about your user and product when you’re working on a new problem. To make sure that you understood the core problem, using the 5 Whys framework can be helpful.
+Step 2. Set up the environment
+Enable people to take the discussions without any fear of the other participants rejecting them and their ideas. Make sure that everyone recognizes that the objective is to make the best decision possible in the circumstances, without blame. This is often referred to as psychological safety, and it’s a key part of the process.
+Step 3. Generate good alternatives
+The wider the options you explore, the better your final decision is likely to be. Generating a number of different options may seem to make your decision more complicated at first, but the act of coming up with alternatives forces you to dig deeper and to look at the problem from different angles. Make sure that all of your options are good enough – you don't need to create options just for illusion of choice or quantity.
+When you're satisfied with the choice of realistic alternatives, it's time to evaluate the value, feasibility, and risks of each one.
+Step 4. Select the best solution
+This is the step where you make a decision!
+In the design process, you can't really develop a product by yourself, so you will probably make a decision as a group of people – and of course more people make it a more complicated decision process. It is optimal to keep the total number from 3 to 7, depending on your company process.
+If there’s a tendency for certain individuals to dominate the process, you can arrange anonymous voting or assign a facilitator who will ensure equal participation.
+To simplify the final decision, you can use the product design principles of your company to find the solution that will perfectly fit into your brand and strategy.
+Product design principles (or, in short, design principles) are value statements that describe the most important goals that a product or service should deliver for users and are used to frame design decisions.
+To make small design decisions—components, colors, alignment—lean into your design system and guidelines, as they should cover most of the cases. If they don’t, make a note and discuss it with a design system owner to make sure that your idea will fit into the general strategy.
+If your product, for one reason or another, does not have an established design system, you can use well-known systems like Material Design, IBM, etc.
+Step 5. Evaluate your decision
+Now is the time to check your decision one more time. Before you start to implement your decision, take a long, dispassionate look at it to be sure that you have been thorough and that common errors haven't crept into the process.
+Your final decision is only as good as the facts and research you used to make it. Make sure that your information is trustworthy and try to avoid confirmation bias.
+Of course, sometimes you are limited by resources for implementation, release date, or budget, so it’s impossible to implement the best solution. And that’s okay! As a designer, you should always remember that the development of the product is an iterative process, so you just need to choose the most suitable option in the current circumstances for your product to evolve, even if you personally do not like the solution. If this decision will have a balance of usefulness for the user vs. resources used - then you made the right decision.
+Step 6. Communicate your decision and take action.
+Once you've made your decision, you need to communicate it to everyone affected by it in an engaging, informative, and inspiring way.
+Get them involved in implementing the solution by discussing how and why you arrived at your decision. The more information you provide about risks and projected benefits, the more likely people will be to support it.
+Summary
+- Remember, we’re all humans. It’s okay to have emotions involved in the decision process – you just need to know how to handle it.
+- Think critically and make an informed decision based on facts rather than intuition – don’t allow the desires of others to dictate your decision.
+- You’re not alone: collaborate with your project team.
+- Communicate the decision that you made in an engaging and inspiring way. Explain why you came up with this decision – don't present a decision as a fact.
+Involved or interested in design? For further reading, check out our other blog posts by the Keepit design team, such as how Keepit puts UX first and why customers love Keepit’s ease of use.

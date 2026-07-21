@@ -1,0 +1,68 @@
+Source URL: https://www.keepit.com/help/entra-id-category/restore-authentication-methods/
+Content type: Web page
+Last modified: 2026-07-04T00:14:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore authentication methods
+Restoring authentication methods will update the settings and links to targets—users or groups for whom policies have been configured. This means if the authentication methods have target groups or users, these objects will once again have this configuration applied to them.
+When restoring authentication methods, you can also recreate linked targets that have been deleted from the tenant.
+- For registration campaigns, targets can be both users and groups.
+- For policies and settings, targets can only be groups.
+- Password protection authentication methods do not have target users or groups.
+Important: Due to new functionality introduced in release 10.13.0, snapshots created after this release have a different structure and different restore options. For details on how to restore and what applies to older snapshots, see the section below: Restoring authentication methods (snapshots from before release 10.13.0).
+Restoring authentication methods (snapshots created after 10.13.0 release)
+Restore authentication methods
+1. In your Entra ID connector, navigate to Policies > Authentication Methods.
+2. Select the type of authentication method you'd like to restore.
+3. Optional: If you want to restore an older version of the item, click the Snapshots Viewer icon, then select an earlier snapshot. You will now be viewing data from that particular time.
+4. Select ••• > Restore.
+5. Choose whether to restore targets.
+- If you select Restore only selected item, click Next.
+- If you select Also restore targets, click Next.
+6. Select which policies or settings to restore.
+7. Review the summary and select Restore.
+What happens when you restore authentication methods?
+Restoring authentication methods will restore their properties and settings and reestablish the following relationships:
+- Targets: Links to users and groups for whom authentication methods have been configured.
+Note: A relationship can be reestablished only if the linked target still exists in Entra ID.
+Restoring authentication methods together with targets
+When targets are restored, the process recreates any missing target users and groups. For each recreated user or group, all attributes and relationships are restored. All recreated targets receive new IDs.
+Existing targets are updated as follows:
+- Users: Attributes, manager relationships, group ownership, group and unit memberships, role assignments, and licenses are updated
+- Groups: Attributes, member and owner links, group and unit memberships, role assignments, and licenses are updated
+Groups and users that exist in Entra ID but are not present in the snapshot will have their links to authentication methods removed. However, these users and groups will not be deleted from Entra ID.
+Definition file within each authentication method
+Each authentication method folder contains a definition file that includes the method’s configuration.
+This file can be previewed or restored independently.
+Restoring this file does not restore targets.
+Restoring authentication methods (snapshots from before 10.13.0 release)
+Restore authentication methods
+1. In your Entra ID connector, navigate to Policies > Authentication Methods.
+2. Select the type of authentication method you'd like to restore.
+3. Optional: If you want to restore an older version of the item, click the Snapshots Viewer icon, then select an earlier snapshot. You will now be viewing data from that particular time.
+4. Select ••• > Restore.
+5. Choose whether to restore targets.
+- If you select Restore only selected item, click Next.
+- If you select Also restore targets, click Next, then select the restore method for the related items and click Next again.
+6. Select which policies or settings to restore.
+7. Review the summary and select Restore.
+What happens when you restore authentication methods?
+Restoring authentication methods will restore their properties and settings and reestablish the following relationships:
+- Targets: Links to users and groups for whom authentication methods have been configured.
+Note: A relationship can be reestablished only if the linked target still exists in Entra ID.
+Restoring authentication methods together with targets
+When targets are restored, the process recreates any missing target users and groups. For each recreated user or group, all attributes and relationships are restored. All recreated targets receive new IDs.
+Groups and users that exist in Entra ID but are not present in the snapshot will have their links to authentication methods removed. However, these users and groups will not be deleted from Entra ID.
+If you select create missing and update existing targets:
+- Deleted users and groups will be recreated.
+- For each existing user, their attributes, manager link, group ownerships, group and unit memberships, role assignments, and licenses will be updated.
+- For each existing group, their attributes, member and owner links, group and unit memberships, role assignments, and licenses will be updated.
+If you select only create missing targets:
+- Only users and groups that have been deleted will be recreated.
+Note: We cannot reestablish deleted users' memberships to distribution and mail-enabled groups. In this case, the restore job will be marked as incomplete, and these relationships will be skipped.
+Scope of targets restored
+The set of targets restored depends on where the restore option was selected:
+- Starting from the authentication methods level (restores all applicable target groups and users).
+- Down to the Include Targets or Exclude Targets folders, where only targets relevant to that specific context will be restored.

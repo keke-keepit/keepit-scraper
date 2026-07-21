@@ -1,0 +1,47 @@
+Source URL: https://www.keepit.com/blog/nis2-key-to-compliance/
+Content type: Web page
+Last modified: 2025-08-20T02:48:38+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+NIS2 Directive: A key to compliance is business continuity
+As the timeline to implementation of the NIS2 Directive shortens, businesses find themselves contemplating the necessary steps for implementing robust cyber security and IT compliance. The impending deadline of October 17, 2024, necessitates a strategic approach to meet the regulatory requirements outlined in NIS2.
+This article provides actionable insights into how organizations can proactively prepare for NIS2 compliance, with a particular focus on backup management and disaster recovery as integral components for ensuring business continuity — a key focus of the new directive, specifically article 21.
+Let’s jump into the essential steps businesses can take now to fortify their defenses against cyber threats by following a best practice framework.
+If you’re looking for a general overview of all things NIS2, such as who does NIS2 apply to, read our blog, “What is the NIS2 Directive?”
+What to do now: Get your business ready with best practices
+Article 21 of the NIS2 Directive sets out clear cybersecurity risk-management measures “to protect network and information systems” that focus on ensuring business continuity through “backup management and disaster recovery.”
+At the minimum, the best practice would be to back up vital data, create a strong disaster recovery plan, and then test these processes to know that they work as expected (meaning you have protected your business-critical data and it can be recovered). Luckily, to help elaborate on this practice, there’s a framework to follow to help guide you through the process: Map, prioritize, test.
+Map-Prioritize-Test framework to ensure compliance
+This framework is helpful for businesses to prepare for compliance with the expected NIS2 requirements by boosting cyber resiliency, most notably by maintaining business-critical functions through protecting key business infrastructure. Here’s more detail about what each leg of the framework entails:
+1. Map critical systems
+Assess and analyze critical infrastructure across on-premises, native cloud, and public cloud environments. Identify and prioritize crucial data, ensuring business continuity. Don't overlook SaaS applications like Entra ID; safeguarding identity and credential data is vital.
+Neglecting identity and access data can impact business continuity even if other data is fully restored. Microsoft recognizes identity systems as more critical than human life support systems due to how important this data is for businesses: Read what Microsoft has to say about the importance of backing up Entra ID (formerly Azure AD).
+2. Prioritize: What is critical to maintain access to?
+Understanding the nature of your data is key to strengthening your organization's data resilience. As you consider the types of data you handle, such as SaaS data from Microsoft 365 (M365) or Entra ID, it becomes evident that not all data holds equal importance. This realization forms the basis for strategic prioritization, a critical step in preparing for NIS2 compliance.
+Whether safeguarding CEO emails, logistics data, customer information, intelligence dashboards, or proprietary code, identifying the priority for recovery establishes a strategic foundation. This speeds up recovery time and minimizes downtime, ensuring that your business continuity efforts are precisely aligned with the specific datasets crucial for sustaining your operations.  
+ 
+By determining what needs to be recovered first, you ensure that your business continuity efforts are targeted and aligned with the specific data sets crucial for sustaining your operations. This strategic prioritization not only optimizes your backup plan but also enhances your preparedness for compliance with the NIS2 Directive.
+3. Test that your backup works
+This critical phase of the framework involves validating the effectiveness of your backup and disaster recovery processes. Testing is a key element of continuity, because with regular testing, your business ensures that data recovery is possible in the event of a real crisis — this is best practice data security and compliance in line with the NIS2 framework.
+Ensuring the effectiveness of your backup and disaster recovery processes is crucial for maintaining data integrity and business continuity. The following guidelines outline key steps in the testing phase, aimed at validating your organization's readiness to swiftly recover critical data in diverse scenarios.
+From prompt validation of restoration capability to involving relevant stakeholders, this comprehensive testing phase guideline ensures confidence in your disaster recovery plan and ongoing resilience against potential threats:
+- Validate restoration capability promptly: 
+ Promptly validate that your backup systems can efficiently restore critical data without compromising integrity.
+- Determine acceptable downtime: 
+ Establish the maximum allowable time for data recovery, aligning with recovery time objectives set during prioritization.
+- Regularly test backups for confidence: 
+ Frequently test your backups to instill confidence in your disaster recovery plan and promptly address any identified issues.
+- Consider different scenarios: 
+ Simulate diverse scenarios, testing the recovery of individual files, entire databases, and complete systems to identify weaknesses.
+- Document and analyze results: 
+ After each testing session, document and analyze the time, accuracy, and challenges encountered to gain insights for improvement.
+- Involve relevant stakeholders: 
+ Collaborate with IT teams, data custodians, and business continuity managers to ensure comprehensive testing aligns with broader goals.
+- Update and improve: 
+ Continuously update recovery plans based on testing insights, addressing weaknesses, refining procedures, and adapting to evolving threats.
+As organizations diligently adhere to the rigorous testing guidelines outlined above, they pave the way for a robust IT compliance policy essential for NIS2 readiness. The elements of backup management and disaster recovery, as emphasized by Article 21 of NIS2, not only acknowledge its far-reaching impact but also serve as proactive measures against evolving cyber threats.
+Keepit as an established expert in EU compliance
+Keepit, being a European company based in Denmark, understands the intricacies of EU regulations and their profound impact as we’re also subject to them ourselves. We operate without any sub-processors and maintain our own independent cloud operations within the EU, utilizing data centers in Denmark, Germany, and the UK. With a commitment to excellence in compliance, Keepit holds end-to-end ISO 27001 certification and is audited in accordance with ISAE 3402 type 2.
+To guide your company through the complexities of legislative directives such as NIS2, NIS, and GDPR, we invite you to explore a demonstration of how Keepit can assist in ensuring comprehensive compliance.

@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/services/backup-azure-devops/
+Content type: Web page
+Last modified: 2025-02-23T21:39:31+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Pipelines protection
+Azure DevOps Pipelines are the backbone of CI/CD (continuous integration and continuous development/deployment). Keepit protects these critical automations with “last known-good” point-in-time restores and change identification that help you quickly roll back your pipelines to a good state and keep your DevOps on track.
+Boards protection
+Azure DevOps Boards plays a pivotal role in project management and enables teams to drive both effectiveness and efficiency through collaboration, optimization, and visualization. Ensuring Boards data is never lost or inaccessible is key to minimizing risk of disruption. Keepit’s backup includes work items, boards, backlogs, team sprints, queries, and delivery plans.

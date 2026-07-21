@@ -1,0 +1,59 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/what-counts-as-a-seat-in-a-microsoft-365-connector/
+Content type: Web page
+Last modified: 2026-06-30T00:19:54+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What counts as a seat in a Microsoft 365 connector
+What is a seat
+At Keepit, we use "seat" as the metric to measure your consumption of our services. Each seat you purchase represents a licensed user or an item from your organization. These are products to which you can assign Keepit services.
+In our Microsoft 365 connector, we have four licensing areas (resources) where we count seats:
+- Exchange
+- OneDrive
+- SharePoint
+- Teams & Groups
+How Microsoft licenses are counted as seats
+For a full license breakdown of which M365 license corresponds with which type of Keepit seat, see: How Microsoft licenses are counted as Keepit seats
+What counts as a seat
+Seats in Exchange / OneDrive
+Exchange and OneDrive are counted separately but follow the same basic pattern.
+Requirements for a user to count as a seat
+To qualify as a seat in Exchange / OneDrive, the following must be true:
+- User must be selected for backup in the relevant configuration directly or indirectly (groups-based)
+- User must be active
+- User must have an assigned relevant Microsoft Office 365 license with an appropriate plan enabled (this includes licenses such as Enterprise Mobility + Security E3 that may not include a mailbox but that have the Exchange foundation in the product plan)
+- User must belong to the tenant (not a guest)
+If all of the above requirements are met, then this counts as one seat for Exchange/OneDrive.
+Additional information
+- A seat automatically includes the backup of In-Place archives.
+- Public Folders are not counted as seats.
+- If a shared mailbox is selected for backup and meets all the same requirements as a user, then it is counted as a seat.
+- An inactive user is treated the same as a deleted user. While it may still have a license, it won't be backed up or counted as a seat. 
+ 
+Seats in SharePoint / Groups & Teams
+Requirements for a user to count as a seat
+Since it is not possible to directly select users, we look at which users actually have access to the resources we are backing up.
+To qualify as a seat in SharePoint or Groups & Teams, the following must be true:
+- User must part of the site or group
+- For Groups & Teams, this means the user is a member or owner of the group
+- For SharePoint, this means the user is an admin, owner, member, visitor of the site, or user with unique permissions
+- User must be a member of at least one group or site
+- User must be active (not active users are placed under deleted tab in Admin panel)
+- User must not be a guest
+- User must have at least one license that grants access to groups or sites
+If all of the above requirements are met, then this counts as one seat for SharePoint/Groups & Teams.
+Users of which sites / groups are counted
+Only SharePoint is backed up:
+- We count users from all types of sites (communication sites, site collections, and team sites) as SharePoint seats.
+Only Groups & Teams is backed up
+- We count only members of groups (not team sites) as Groups & Teams seats.
+Both SharePoint and Groups & Teams are backed up
+- We count users from communication sites and site collections as SharePoint seats.
+- We do not count users from teams sites as SharePoint seats, unless they are also using communication sites or site collections in which case they will count as SharePoint seats.
+- We count members of groups as Groups & Teams seats.
+Additional information
+Global admin service accounts that are used to set up backups/create connectors (even though they are made a group member or site administrator) are not counted as seats. However, if they are selected for backup in Exchange or OneDrive, they will be counted as a seat.
+Subsites
+Since it is impossible to be a member of a subsite without being a member of the top-level site, there is no reason to count users of subsites.
+This means that we only count users of the top-level sites and ignore subsites.

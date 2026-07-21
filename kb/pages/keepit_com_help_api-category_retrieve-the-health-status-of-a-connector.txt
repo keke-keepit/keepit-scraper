@@ -1,0 +1,54 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-the-health-status-of-a-connector/
+Content type: Web page
+Last modified: 2026-04-01T10:29:44+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve the health status of a connector
+This command retrieves Ð° connector’s current health status
+API request
+Method GET
+/users/{account_id}/devices/{connector_id}/health
+Example
+Method GET
+https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/devices/11ptlk-st7sly-ggba4c/health
+Response
+Code: 200 OK
+Response body:
+<devhealth>
+    <health>healthy</health>
+</devhealth>PowerShell script
+try {
+    $username = '<API Token username>'
+    $password = '<API Token password>'
+    $userId = '<Account GUID>'
+    $connectorId = '<Connector GUID>'
+    $hostname = 'dk-co.keepit.com'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $response = Invoke-WebRequest -UseBasicParsing `
+      -Uri "https://${hostname}/users/${userId}/devices/${connectorId}/health" `
+      -Method Get -Headers $headers -ErrorAction Stop -TimeoutSec 10
+    $xmlContent = [xml]$response.Content
+    $healthStatus = $xmlContent.SelectSingleNode("//health").InnerText
+    Write-Host "Health Status: $healthStatus"
+}
+catch {
+        $line = $_.InvocationInfo.ScriptLineNumber
+        Write-Host "Cannot query Keepit API due to: $_"
+        Write-Host "at line $line"
+}Script result
+Health Status: critical Health Status: healthy
+Additional information
+- Possible health values:
+- Healthy
+- Unhealthy
+- Critical
+- If there are no successful or active backups within the last 24 hours, the status will change to unhealthy.
+- If there are no successful or active backups within the last 48 hours, the status will change to critical.
+- Any time the status changes you will receive an email.
+- You can find more information on the connector health statuses in the following article.

@@ -1,0 +1,20 @@
+Source URL: https://www.keepit.com/press/opinion-piece/
+Content type: Web page
+Last modified: 2025-08-15T00:32:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Coronavirus Is Becoming the Crucial Test for All Cloud Platforms, Already Showing Serious Signs of Weakness
+Coronavirus is the biggest global challenge since World War II. This pandemic is affecting not only public health worldwide, but also the world economy.
+Regardless of size, businesses are impacted, and many are trying to take every precaution to protect their employees and themselves. Some employees with physical jobs (in warehouses, factories, or stores) are being sent home and into quarantine, while others are directed to work from home with VPN solutions and a myriad of video conferencing.
+All of this is uncharted territory: never before have so many people been forced to stay at home, accessing the outside world only through the Internet, whether it be Netflix or Office 365. Likewise, tens and thousands of Danes have been asked to work from a home-based workspace that is largely underpinned by a massive presence of cloud services with Office 365 or G Suite, Teams, Dropbox or OneDrive, not to mention Salesforce.
+Not Without Problems
+It takes some getting used to for both employees and companies to get the most out of the home workplaces. At Keepit, we have sent all employees home with their computers, utilizing Office 365 and Teams to keep the steam in the machinery running.
+And we are not the only ones: almost all Danish companies today use platforms such as Office 365, Dropbox, and OneDrive, and the peak time is noticeable. Microsoft is experiencing a 40 percent increase in new Teams users these days, or to put it another way, Microsoft Teams has just as many new users over the past week as Slack’s total number of users: 12 million. Microsoft Teams is currently reaching 32 million users - a number that is increasing every day.
+This is a huge increase in no time, and of course this is not without problems. We can expect the compulsory digitalization of companies in the context of COVID-19 to be the crucial test of cloud services, and some are already beginning to show signs of weakness: Microsoft Teams went down in the middle of European primetime, when it was most needed. The video conference service Zoom is experiencing large spikes of traffic, forcing them to invest massively in new data centers and bandwidth, and even Slack, whose traffic consists primarily of text, is experiencing large fluctuations in accessibility.
+On the consumer side, we see Netflix and YouTube having to lower the video quality in order to keep up with the demand by saving bandwidth, something that has never happened before.
+And What About the Security?
+Adding to this are the many IT security challenges that will inevitably arise. CFCS has already announced that they expect a massive increase in the number of cyberattacks targeting employees who work from home these days via what are essentially insecure home networks. We will inevitably see victims - including death victims in the form of companies – as a result of virtual corona infection from IT criminals.
+While cloud consumption is rising dramatically these days, including users who have not previously used cloud services to this extent, the level of IT security does not necessarily increase. Microsoft and Google – to mention the two big players in the market – may well protect your data from intrusion, but if something happens to your data, you are solely responsible.
+Whether it is caused by an IT cyberattack or just an employee working in an unfamiliar setting erasing critical files by mistake, these files cannot be restored again. Therefore, it is crucial that companies build up the habit of backing up data stored in the cloud from Office 365, Teams, OneDrive, and Salesforce. If this does not happen, the good intentions alone of working from home will not save the company in these times.

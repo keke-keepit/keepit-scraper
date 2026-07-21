@@ -1,0 +1,12 @@
+Source URL: https://www.keepit.com/help/miro-category/miro-backup-coverage/
+Content type: Web page
+Last modified: 2025-11-26T20:16:39+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Miro backup coverage
+The table below shows the detailed backup and restore coverage of the latest version of Keepit for Miro.
+The table below shows the detailed backup and restore coverage of the latest version of Keepit for Miro.
+This version does not support custom backup or restore configurations. All data in the Miro instance will be included in any backup or full restore operation.
+For a list of coverage details, please download this document.

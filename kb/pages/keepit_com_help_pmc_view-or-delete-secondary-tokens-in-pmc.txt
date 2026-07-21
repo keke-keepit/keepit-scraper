@@ -1,0 +1,59 @@
+Source URL: https://www.keepit.com/help/pmc/view-or-delete-secondary-tokens-in-pmc/
+Content type: Web page
+Last modified: 2025-07-17T10:33:49+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+View or delete secondary tokens in PMC
+What are secondary tokens?
+Secondary tokens are created for a user (a primary token) to allow them to authenticate requests to the server.
+These are typically session tokens (created automatically when a user signs in) and API tokens (created manually to integrate with PMC's API).
+View secondary tokens
+All user roles (except for SSO Admin) can view and manage active secondary tokens for their user and for other account users.
+Secondary tokens can found in the user's info page in the Security tab.
+To view and manage your secondary tokens:
+1. In the lower-left corner, select your account profile > User info.
+2. Go to Security > Secondary tokens.
+To view and manage secondary tokens of other users:
+1. In the lower-left corner, select your account profile > Account info.
+2. Open the Users tab.
+3. Point to the user and click the gear icon.
+4. Go to Security > Secondary tokens.
+Delete secondary tokens
+You can delete active secondary tokens for your user and for other account users.
+Delete secondary tokens for your user
+To delete a token:
+1. In the lower-left corner, select your account profile > User info.
+2. Go to Security > Secondary tokens.
+3. Point to the token and click the trash can icon.
+4. Click Delete.
+To delete your authorization token:
+The authorization token is your current browser sign-in session. This token is marked with a key icon.
+1. In the lower-left corner, select your account profile > User info.
+2. Go to Security > Secondary tokens.
+3. Point to the browser-sign in token and click the trash can icon.
+4. Click Delete & sign out.
+Deleting your authorization token will sign you out.
+To delete all your tokens:
+1. In the lower-left corner, select your account profile > User info.
+2. Go to Security > Secondary tokens.
+3. Click Delete all tokens.
+4. Click Delete & sign out.
+Deleting all your tokens means you will also delete the authorization token you are currently signed in with.
+Delete secondary tokens for other users
+To delete a token
+1. In the lower-left corner, select your account profile > Account info.
+2. Open the Users tab.
+3. Point to the user and click the gear icon.
+4. Go to Security > Secondary tokens.
+5. Point to the token and click the trash can icon.
+6. Click Delete.
+To delete all tokens
+1. In the lower-left corner, select your account profile > Account info.
+2. Open the Users tab.
+3. Point to the user and click the gear icon.
+4. Go to Security > Secondary tokens.
+5. Click Delete all tokens.
+6. Click Delete.
+If a user is currently using a token, the token will no longer be able to send requests.

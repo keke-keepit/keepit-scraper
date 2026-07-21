@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/help/pmc/seat-usage/
+Content type: Web page
+Last modified: 2026-04-23T15:17:51+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Seat usage
+Use the usage page to get an overview of seat consumption for all your partner and customer accounts. This is also where you can download CSV reports.
+All amounts are based on the last completed backup.
+Seat usage overview
+Track your Partner account seats and see how your usage scales over time.
+Filter by date to view daily insights or select a longer range to track usage trends across sub-accounts.
+View usage by customer and connector type, including peak seat counts and account limits.
+Viewing seat usage per account
+To view detailed seat usage, click the Go to usage button at the customer account level. Here, you can monitor seat consumption by workload, connector type, and seat type.
+Usage graphs & time ranges
+Data is displayed in a visual graph to help you track trends. You can adjust the view using the following time ranges:
+- Last 7 days
+- Last 30 days
+- Last 6 months
+- Custom range
+When viewing usage for a specific day, the graph also displays the seat limit assigned for that date, allowing you to compare actual usage against your set capacity.
+Downloadable CSV Reports
+You can export seat usage data as a CSV report for both Partner and Customer accounts. The data included in the export will reflect the specific time range you have selected in the dashboard.
+How to Download a Report
+Depending on your current view, there are two ways to export your data:
+- For the current account: On the Seat usage card, select Download report.
+- For a sub-account (Partner view): While on the Partner usage page, locate the specific sub-account in the list. Hover your mouse over the account row and click the Download CSV icon on the right.

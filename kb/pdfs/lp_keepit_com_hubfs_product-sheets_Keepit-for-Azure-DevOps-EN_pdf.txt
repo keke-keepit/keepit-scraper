@@ -1,0 +1,121 @@
+Source URL: https://lp.keepit.com/hubfs/product-sheets/Keepit-for-Azure-DevOps-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 2
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for 
+Microsoft Azure DevOps
+ Protect and swiftly recover Microsoft Azure DevOps data for business continuity
+Lose Microsoft Azure DevOps data and you’ve lost your software development brain and 
+nervous system. Under the shared responsibility model, Microsoft ensures the availability 
+of the platform, but your data is your responsibility. Without proactive backups or disaster 
+recovery strategies, the smallest mistake or malicious act can severely cripple your 
+organization’s software development lifecycle. 
+Awarded for its impenetrable architecture and ease-of-use, Keepit ensures that your data 
+remains accessible and can be recovered swiftly and accurately at all times. Keepit effectively 
+minimizes the impact of data loss and the burden of recovery on your teams.
+Assured data integrity
+With Keepit, you’re certain that your 
+backups are immutable — they can’t 
+be modified or deleted. Stored in 
+our vendor-independent cloud, your 
+data remains accessible at all times.
+Confidence that 
+you can recover 
+Have all your data always at your 
+fingertips with comprehensive, 
+automated backups of your data 
+and metadata.
+Time-saving usability
+Easy to implement and intuitive, 
+Keepit requires minimal expertise to 
+use — while delivering confidence 
+in your ability to swiftly recover your 
+data whenever you need it.
+“We quickly figured out that we needed a backup as 
+Microsoft does not meet our retention requirements.  
+Also, the restore options provided are extremely limited.”
+Stefan Toefferl – Senior Data Center Engineer, ALPLA
+THE RISK
+PROVEN BENEFIT
+In the first half of 2025, Azure DevOps had 74 incidents 
+reported, affecting pipelines, repos, boards, and 
+others.
+Source: DevOps Platforms Show Cracks: GitHub Incidents Surge 58%, Azure, GitLab 
+and Jira Also Under Pressure
+Keepit customers were able to realize a 163% return 
+on investment when deploying the Keepit solution. 
+Payback was achieved in under six months.
+Source: “Forrester TEI Report 2024”
+
+KEY CAPABILITIES
+Automated backups 
+Customize and automate backup jobs 
+so your data remains preserved and 
+recoverable whenever you need it.
+Proactive monitoring  
+Data Protection and Anomaly 
+Detection Dashboards help maintain 
+backup integrity and health and allow 
+for early identification, investigation, 
+and remediation of risks to data. 
+Flexible restore options
+Restore objects in bulk or granularly to 
+guarantee fast and precise recovery.
+Instant search and preview 
+Find what you need fast with Keepit’s 
+powerful search. Use filters to identify 
+data, and the preview function check 
+it before restore or share with a secure 
+link in one click.
+Unlimited retention 
+Customize retention for up to  
+99 years with no extra costs.
+Compliance and reporting 
+Easily document and prove 
+compliance with backup requirements 
+and data protection efforts.
+Find out how simple and 
+easy it is to use Keepit
+Book a demo
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Retain access to all your software development data in Azure DevOps with Keepit
+WHAT WE COVER
+Projects and organization 
+Projects 
+Teams 
+Iterations 
+Areas 
+Members 
+Users 
+Agent Pools 
+Deployment Pools 
+Repositories
+Planning and tracking 
+Azure Boards 
+Backlogs 
+Boards 
+Work Items 
+Queries 
+Team Sprints 
+Delivery Plans 
+Reporting and collaboration 
+Dashboards (including 
+widgets)  
+Wiki (project wiki)
+Build and release pipeline 
+Pipelines 
+Releases 
+Environments 
+Deployment Groups 
+Agent Queues 
+Library
+Find the complete 
+coverage here.

@@ -1,0 +1,54 @@
+Source URL: https://www.keepit.com/help/api-category/change-token-permissions-and-other-details/
+Content type: Web page
+Last modified: 2026-03-24T15:05:17+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Change token permissions and other details
+This command allows you to change the permissions and details of primary and secondary tokens.
+API request
+Method PUT
+/users/{account_id}/tokens/{aname}
+Elements table
+Root object element: token
+This command allows you to change the permissions and details of primary and secondary tokens.
+Method PUT
+/users/{account_id}/tokens/{aname}
+Root object element: token
+Method PUT
+https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/tokens/test@keepit.com
+<token_update>
+    <acl>FullSupport</acl>
+</token_update>Code: 200 OK
+Response body:
+Successfully updated access token.
+try {
+    $username = '<API Token username>'
+    $password = '<API Token password>'
+    $hostname = 'dk-co.keepit.com'
+    $userId = '<Account GUID>'
+    $tokenAname = 'test111@keepit.com'
+    $acl = 'FullSupport'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"   = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+        "Content-Type"  = "application/xml"
+    }
+    $url = "https://$hostname/users/$userId/tokens/$tokenAname"
+ 
+    $xmlBody = @"
+<token_update>
+    <acl>$acl</acl>
+</token_update>
+"@
+    $response = Invoke-WebRequest -Uri $url -Method Put -Headers $headers -Body $xmlBody -ErrorAction Stop -TimeoutSec 10
+    $response.Content
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot update Keepit token due to: $_"
+    Write-Host "at line $line"
+}Successfully updated access token.
+The most commonly used ACLs:

@@ -1,0 +1,54 @@
+Source URL: https://www.keepit.com/services/mcp-integration-toolbox/
+Content type: Web page
+Last modified: 2026-03-12T14:56:21+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit connects AI to your backup environment — without exposing your data. It runs inside your infrastructure, uses your API controls, and keeps every action auditable and reversible. You get faster insights, stronger governance, and AI on your terms.
+MCP integration toolbox
+Simplify backup management using your AI assistants
+Ask. Get answers. Stay in control.
+Introducing the MCP integration toolbox
+Why Keepit’s MCP integration toolbox
+AI assistants are powerful — but traditional integrations often require sending data to third-party services. That’s not acceptable for backup and compliance environments. Keepit MCP takes a different approach.
+It’s a locally deployed server that translates natural language into Keepit API calls. All communication happens within your network perimeter. No cloud relay. No hidden processing.
+You get conversational access to your backup estate while maintaining your existing security model, audit trail, and access controls. This isn’t AI layered on top. It’s AI connected securely to what you already trust.
+Top benefits
+Full data control without compromise
+Keepit MCP runs 100% on your premises. It uses API-only access with token-based authentication and supports air-gapped deployments with local AI models.
+You benefit from the AI capabilities without risking control or compliance.
+Faster answers, less friction
+Instead of navigating dashboards in the Keepit application, you can use your AI assistant to check connector health, pull audit logs, review job performance, and generate compliance reports.
+You get results in seconds through conversation — in any language.
+Built-in governance and accountability
+All MCP interactions are logged in Keepit’s audit trail. Version 1 is read-only, so no changes can be made to your environment.
+You gain speed without sacrificing oversight, compliance, or reversibility.
+Key capabilities
+Connector management
+Backup health checks can be simpler and easier, with no need to dig through dashboards. With this integration, you can instantly see how your connectors are performing and identify issues before they become bigger problems. It gives you clear, conversational visibility into coverage gaps and operational risk — without changing a single setting.
+- List connectors and view health status.
+- Identify misconfigurations or anomalies.
+Job monitoring
+When backups run constantly, small issues can hide in plain sight. MCP lets you ask direct questions about running and historical jobs, so you can spot failures, delays, and performance trends quickly. Instead of searching through logs, you get clear answers about success rates, duration patterns, and potential bottlenecks — all in seconds.
+- View running jobs.
+- Analyze historical performance.
+- Track success and failure rates.
+Audit and compliance
+Audit requests rarely come with extra time. MCP makes compliance reporting faster by letting you pull logs, filter events, and generate reports through simple prompts. Every interaction remains logged in Keepit, so you maintain accountability while accelerating response times. It’s structured oversight — delivered through conversation.
+- Pull audit logs for any time range.
+- Filter by severity or event type.
+- Generate compliance reports on demand.
+Snapshot management
+When you need to recover, finding the right snapshot quickly matters. Keepit’s MCP helps you locate and verify backups, and confirm retention alignment without manual searching. You gain confidence in your recovery points and visibility into historical data, while keeping your environment unchanged and fully governed.
+- Locate snapshots by date.
+- Verify backup completeness.
+- Track retention compliance.
+Frequently asked questions
+IT operations teams, compliance officers, MSPs, and anyone who needs quick access to backup information without navigating complex interfaces.
+Is my data safe? 
+Yes. All processing happens within your infrastructure. The MCP server translates requests into API calls to metadata only. It does not transmit or store data externally.
+Any MCP-compatible client works. We recommend Claude Desktop for ease of use, or any LLM/Jan for local model deployment.
+No. Version 1 is read-only. Future write capabilities will include safeguards and confirmations.
+The MCP server is free and open-source. You only pay for your existing Keepit subscriptions.
+Most deployments take about 10–15 minutes.

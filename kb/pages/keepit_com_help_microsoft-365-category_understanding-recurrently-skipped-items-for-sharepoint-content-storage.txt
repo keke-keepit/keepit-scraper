@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/understanding-recurrently-skipped-items-for-sharepoint-content-storage/
+Content type: Web page
+Last modified: 2026-06-29T23:59:33+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Understanding recurrently skipped items for SharePoint content storage
+Overview
+When backing up SharePoint, you may see thousands of "skipped sites" with paths like /contentstorage/CSP_GUID. These are not actual SharePoint sites -- they're storage containers automatically created by Microsoft apps. Microsoft locks these containers by design for apps like Microsoft Loop for example.
+Keepit tries to back them up but gets "Site Collection is locked" errors. After 5 attempts, they show up in your Recurrently Skipped Items report. This is expected behavior, not a backup failure.
+Impact on Your Reports
+Your reports may show an increased number of SharePoint sites in the skipped items. 
+You can safely ignore these entries. They don't represent actual backup gaps.
+If you'd like to stop seeing them in your reports, contact Keepit Support and we can filter them out for you.
+Need help?
+Contact Keepit Support if you need help with your backup reports.

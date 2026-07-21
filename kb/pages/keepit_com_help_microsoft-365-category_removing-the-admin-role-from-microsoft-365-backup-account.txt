@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/removing-the-admin-role-from-microsoft-365-backup-account/
+Content type: Web page
+Last modified: 2026-06-29T23:05:39+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Removing the admin role from the Microsoft 365 backup account
+A Privileged Role Administrator (PRA) or Global Administrator (GA) is required to create a connector, but these roles are not necessary for backups to run successfully. Once the connector is created, you can remove the admin role from the service account immediately—you do not need to wait for the initial backup to complete. The service account can then be assigned a different admin role or remain a regular user without admin center access.
+However, keep in mind that PRA or GA rights are required to reauthenticate a connector. If you remove the admin role from the service account, you will need to reassign it each time reauthentication is necessary.
+An admin role may also be recommended to backup or restore certain data.
+Remove the Privileged Role Admin or Global Admin role
+1. In the Microsoft 365 admin center, select Users > Active users.
+2. From the list of users, find and select the Global admin user used to set up the backup.
+3. Under Roles select Manage roles.
+4. Select User (no admin center access) or desired admin role.
+5. Select Save changes.
+What happens to groups after I remove the admin role?
+Must the service account remain as a group member?
+Even if the Privileged Role Admin or Global Admin role is removed, the service account will automatically remain a member of all groups.
+The service account must stay a member for all data to be backed up.
+You should remove the service account only in the case that you have authenticated a connector with the wrong account.
+Will new groups be backed up even if the user is no longer a PRA or GA?
+When the connector is created, the Privileged Role Admin or Global Admin user grants the Keepit app in Microsoft certain permissions, including the permission to make the service account a member of all groups. We retain this permission even if the admin role is removed from the user. This means we can still make this user a member of all new groups that are created in Microsoft and accordingly back them up.

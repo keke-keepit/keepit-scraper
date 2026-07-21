@@ -1,0 +1,14 @@
+Source URL: https://www.keepit.com/entra-id-demo/
+Content type: Web page
+Last modified: 2025-06-06T00:32:27+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Security Today's 2023 CyberSecured Awards recognize Keepit's Backup and Recovery for Entra ID (formerly Azure AD) as the best product for data loss prevention and disaster recovery/business continuity.
+Continue business as usual
+You’re backing up your Microsoft 365 data because you know it’s vital to your organization. But what about Entra ID? If Entra ID isn’t available, your users can’t work in Microsoft 365.
+Identity systems are #1 for any business
+Microsoft ranks protecting identity systems as more important than protecting human life as it ensures you and your users can maintain access to critical applications such as Entra ID.
+You’re responsible for your data
+Microsoft doesn’t guarantee complete and fast recovery of deleted or corrupted files. It’s up to you to follow recoverability best practices to ensure uninterrupted access to your data.

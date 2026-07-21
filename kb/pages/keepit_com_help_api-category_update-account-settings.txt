@@ -1,0 +1,50 @@
+Source URL: https://www.keepit.com/help/api-category/update-account-settings/
+Content type: Web page
+Last modified: 2025-10-16T10:00:45+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Update account settings
+This command updates the settings of an account. It can be executed either directly at the account level or from the parent account.
+API request
+Method PUT
+/users/{account_id}
+Elements table
+Root object element: user_update
+This command updates the settings of an account. It can be executed either directly at the account level or from the parent account.
+Method PUT
+/users/{account_id}
+Root object element: user_update
+Method PUT
+https://dk-co.keepit.com/users/psmqd-3nqijs-9qi26x/
+<user_update>
+     <product>a9y02y-qngj1m-yvh5r8</product>
+</user_update>Code: 200 OK
+Response body:
+Account updated successfully
+try {
+    $username = '<Token username>'
+    $password = '<Token password>'
+    $subaccountID = '<Subaccount GUID>'
+    $productID = '<Product ID>'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent" = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+        "Content-Type" = "application/xml"
+    }
+    $url = "https://dk-co.keepit.com/users/$subaccountID/"
+    $xmlBody = @"
+<user_update>
+    <product>$productID</product>
+</user_update>
+"@
+    $response = Invoke-WebRequest -Uri $url -Method Put -Headers $headers -Body $xmlBody -ErrorAction Stop -TimeoutSec 10
+    Write-Host $response.Content
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}

@@ -1,0 +1,32 @@
+Source URL: https://www.keepit.com/blog/fast-and-simple-ediscovery-with-backup-and-recovery/
+Content type: Web page
+Last modified: 2025-08-20T00:20:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Fast and simple eDiscovery with backup and recovery
+What is eDiscovery? (With a customer Microsoft Office 365 use case)
+Fast and simple eDiscovery with backup and recovery
+Electronic discovery (sometimes known as eDiscovery, e-discovery) is one of those terms that means slightly different things in different contexts.
+For example, in legal spheres, eDiscovery involves identifying, preserving, collecting, processing, reviewing, and analyzing electronically stored information (ESI). The term also shows up in digital forensics, which focuses on identifying, preserving, collecting, analyzing, and reporting on digital information—clearly very similar, but not quite equivalent.
+In general, eDiscovery is the electronic aspect of identifying, collecting, and producing electronically stored information, such as emails, documents, databases, audio, and video files, and also includes metadata such as time-date stamps, file properties, and author and recipient information. In other words—regardless of the specific driving need—eDiscovery refers to finding and retrieving electronically stored ‘stuff’.
+Sounds easy enough, right? But as anyone who’s performed eDiscovery knows, today’s information-enabled organizations produce an awful lot of that stuff. In fact, the tendency for every single action we take to produce a digital trail led public-interest technologist Bruce Schneier to observe that “data is the exhaust of the information age” [Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World, pg. 4]. (Think about the amount of data an O365 eDiscovery might entail.)
+Consequently, the sheer volume of electronically stored information makes eDiscovery a logistical challenge. Now, add in the time-specific nature of many requests—as in, needing to retrieve a file or record as it existed at a certain time on a certain date, a certain number of years ago—and the challenge becomes even greater.
+Backup: Enabling a quick, simple, and reliable eDiscovery solution
+While the retention utilities included with software-as-a-service (SaaS) applications and cloud services may be adequate for retrieving something that’s a few weeks old, they certainly aren’t intended to provide—nor are they capable of providing—a substitute for long-term backup and the use cases it enables, including disaster recovery and eDiscovery (e.g., eDiscovery for Office 365).
+To be resilient in the face of outages, compromises, and misconfigurations (or simply to find a crucial piece of information), your organization needs to be able to search and access SaaS and cloud data quickly and easily. Imagine the difference between a recovery mission aided by coordinates and a map versus a vague notion that someone is somewhere.
+Fortunately, with the right backup solution in place, eDiscovery really can be a breeze, especially for Microsoft Office 365 eDiscovery needs. Let’s look at a real-world example.
+ALPLA: Use case experience with Keepit
+With around 22,000 employees across 45 countries, ALPLA is one of the world’s leading manufacturers of high-quality plastic packaging.
+The company’s rapid global expansion and cloud migration required an agile Microsoft 365 backup and recovery solution that could meet ALPLA’s need for 10-year data retention, and Keepit is proud to fulfill this need.
+With other solutions, finding the right data to restore can be a tedious task, especially when very little information is provided by users—but Keepit’s unique and intelligent eDiscovery tools and search features make it easy. In the words of Stefan Toefferl, Senior Data Center Engineer at ALPLA: “Keepit provides search filters that make eDiscovery simple, allowing us to quickly find and restore an exact file.”
+One of the features most valued by ALPLA is the option to share a secure link to download a file, quickly getting the data back to the users. It’s features like this Public Links (40-second demo video) that makes Keepit more than just an ordinary backup and that helps our customers to become more efficient in their daily IT operations.
+Risk management in the digital age with eDiscovery tools
+The nature of backup and restoration is that you often don’t know when something might be needed: unexpected audits, legal discovery, cybersecurity incidents, or even an employee needing to recover something that they deleted years ago—these can all happen at any time.
+That’s why truly managing risk requires a third-party backup solution that:
+- Protects users and groups by providing snapshot-based restoration and timeline-based comparative analysis
+- Preserves roles and permissions, with change tracking and straightforward comparisons
+- Enables compliance and eDiscovery, for instance by capturing audit and sign-in logs, supporting log analysis, ensuring long-term retention, and enabling restoration to another site
+- Accommodates growth into policies and devices by preserving device information and conditional access policies
+To help enterprises avoid disruption due to lost or inaccessible SaaS data, Keepit has architected a dedicated, vendor-neutral SaaS data backup solution that is resilient, secure, and easy to use. And it's not only for Microsoft eDiscovery: Head to our services page to learn more about what we offer.

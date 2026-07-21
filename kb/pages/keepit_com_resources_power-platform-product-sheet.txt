@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/resources/power-platform-product-sheet/
+Content type: Web page
+Last modified: 2026-01-30T16:45:19+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Microsoft Power Platform
+Secure what your teams built with Power Platform and recover it when it matters
+Your teams have invested significant time building low-code apps, automations, and reports in Microsoft Power Platform. Under the shared responsibility model, protecting that data and those workflows ultimately falls on you while Microsoft’s native Power Platform backups are limited, offering only short-term retention and full environment restores instead of granular recovery.
+With Keepit, you can safeguard your Power Platform environment with automated, secure backups and fast, point-in-time recovery. So even if accidental deletions or malicious activity occur, your business-critical workflows stay intact — and your teams stay productive.

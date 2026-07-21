@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/restore-groups--teams-data-with-the-restore-wizard/
+Content type: Web page
+Last modified: 2026-06-30T01:48:38+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Groups & Teams data from the connector level
+Use the connector-level restore to restore entire groups along with their team data or to restore only parts of your group data.
+To restore individual channels or posts, see Restore team channels and posts.
+To restore individual groups or teams items, use the Item Restore.
+Note: Wiki pages are backed up, but they cannot be restored, only downloaded or shared.
+Restore group and team data
+1. To start the connector-level restore, click your connector's Restore icon.
+2. Select Restore > Next.
+3. Select a snapshot from the time you want to restore. Then click Next.
+4. Select Groups & Teams > Next.
+5. Select the groups and data types you want to restore. Then click Next.
+Tip: To recover a whole group, select all data types.
+6. Choose how to handle duplicate items. Then click Next.
+Skip duplicate items
+- Modified items (same item but with different timestamps) will be skipped.
+- Modified plan tasks (same item but with different timestamps) will overwrite the plan tasks in Groups.
+Overwrite existing items
+- Modified items (including plans) (same item but with different timestamps) will overwrite items in Groups & Teams.
+7. Review the summary. Then click Next.
+Important:
+Group conversations, calendar events, plan tasks, and files present in Groups & Teams but not in the snapshot will be deleted. Team channel posts and replies present in Groups & Teams but not in the snapshot will not be deleted.

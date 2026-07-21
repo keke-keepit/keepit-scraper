@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/blog/german-digital-sovereignty/
+Content type: Web page
+Last modified: 2026-01-20T14:20:49+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why German CISOs need to rethink their cloud decisions
+Digital sovereignty as a strategic imperative
+In recent years, digital sovereignty has shifted from a niche concern to a core strategic priority — especially in Germany, where trust, data protection, and independence have long been valued. The latest State of Cybersecurity report from HarfangLab — based on a Q2 2025 survey of more than 800 IT and cybersecurity leaders across Germany, France, Belgium, and the Netherlands — underscores this shift. Seventy-eight percent of European executives surveyed say their company’s leadership is more concerned about digital sovereignty today than a year ago. That awareness is particularly strong in Germany (81 percent) and France (83 percent). At the same time, 70 percent believe European companies are too dependent on foreign technologies and should reduce this reliance — prompting seven in ten organizations to consider switching to European cybersecurity providers.
+This shows a growing awareness of the legal and geopolitical dimensions of digital infrastructure — and rising expectations for providers and operators.
+What happens in a crisis or conflict?
+It’s no longer enough to focus only on technical performance or the feature sets of cloud providers. Decision-makers are increasingly asking: Where is our data physically located? What laws apply? Who could theoretically or practically access it — and what happens in a crisis or conflict?
+For many companies, these are no longer abstract questions. They’re central to risk management and long-term digital strategy.
+These questions resonate strongly in Germany, where the tradition of data protection runs deep. Strict data protection laws were in place well before the GDPR. This makes Germany well-positioned to lead the current debate on digital sovereignty in Europe. Regulations like the GDPR and the NIS2 Directive provide a clear and binding framework — pushing decision-making toward greater responsibility, transparency, and long-term resilience.
+The impact of extraterritorial laws
+Another critical issue is the impact of extraterritorial laws like the U.S. CLOUD Act. This law allows U.S. authorities to access data from U.S.-based companies — even if that data is stored on servers outside the U.S., including in Germany. For many companies, that’s a contradiction: How can you control your own security architecture if foreign governments can legally access your sensitive data?
+This reality shows that technical security isn’t enough — what’s needed is control over the contractual, technical, and legal frameworks.
+In this context, it’s no surprise that many organizations are revisiting on-premises models or hybrid architectures. But the desire for control mustn’t stall innovation. There are alternatives to full in-house management. At Keepit, we’ve developed a cloud backup architecture purpose-built for the needs of European companies. We run our own independent infrastructure across several global regions — including the EU, in Germany and Denmark — and enforce strict separation between zones. Data stored in Germany stays in Germany. Access from other regions — even within our own systems — is technically impossible.
+Our independence from hyperscalers like AWS, Microsoft Azure, and Google Cloud is also key. This strategic choice protects our users from global dependencies and indirect access paths. By owning and operating our infrastructure, we guarantee not only where data is stored but also who controls access — with full transparency. Our users know where their data is, what jurisdiction it falls under — and who isn’t allowed to see it.
+No need to compromise
+For Keepit, digital sovereignty isn’t a theoretical ideal. It’s a cornerstone of modern cybersecurity. The latest HarfangLab report makes it clear: Companies in Germany and across Europe are no longer willing to compromise when it comes to control over their data. The path to a sovereign and secure digital future may not be simple — but with the right partners and carefully chosen infrastructure, that future can be shaped.
+At Keepit, we’re here to support that journey — with transparent, compliant, and self-operated solutions. Because digital sovereignty isn’t just about data protection — it’s the foundation of resilience and the ability to act in an increasingly complex digital world.

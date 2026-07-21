@@ -1,0 +1,47 @@
+Source URL: https://www.keepit.com/help/platform-category/configure-sso-in-keepit/
+Content type: Web page
+Last modified: 2026-06-23T23:13:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Configure SSO in Keepit
+As a Master Admin, you have the capability to configure and enable single sign-on (SSO) for both yourself and other users on your account.
+Types of SSO supported by Keepit
+Keepit supports both Service Provider Initiated (SP-initiated) SSO and Identity Provider Initiated (IdP-initiated) SSO. This means you can sign in to Keepit with SSO either through our system (using https://dk-co.keepit.com/desktop/#/signin or a link to one of our other environments) or by using a web application in the Identity Provider's SSO page (e.g., using https://myapps.microsoft.com/).
+Preparation
+- Create an SSO Admin
+In the process of setting up SSO, we recommend creating an SSO Admin. This dedicated user has permission to access the SSO configuration but does not have SSO enabled, allowing them to sign in with Keepit credentials. This will ensure that the Master Admin and other users will not get locked out of their account in case SSO is configured incorrectly or an SSO certificate expires. For a step-by-step guide, see the article Create an SSO Admin role.
+- Configure your identity provider
+Configure your identity provider to prepare for SSO access and register Keepit as a trusted party.
+For detailed guides, go to:
+During the configuration process, gather the following information:
+- Identity Provider URL (IDP URL)
+ Note: In Microsoft Entra, this is called the Login URL or SAML Single Sign-On Service URL.
+- Certificate (Base64) of your identity provider
+Configure SSO in Keepit
+1. In the lower-left corner, select your account profile > Account info.
+2. Open the Security tab and select SSO.
+3. Click + Add configuration.
+4. Ensure the Enable configuration toggle is on for SSO activation at the next login.
+5. Enter a name in the Name field.
+6. Enter the Identity Provider URL in the IDP URL field.
+In Microsoft Entra this is called Login URL or SAML Single-Sign On Service URL.
+7. In the Certificate field, paste the text of the certificate (Base 64) code from the identity provider.
+Important: You can copy the certificate with or without the begin and end markers, but note that including just one of the markers will make the certificate invalid.
+8. (Optional) Turn on the Make SSO mandatory toggle to require users to sign in with SSO exclusively.
+9. (Optional) Turn on the Allow IdP-initiated SSO toggle to allow users to sign in to Keepit directly through an IdP provider.
+If you enable this option, you will see the Keepit app in your identity provider. Clicking it will redirect you to Keepit and automatically sign you in.
+Important: This option carries security risks and is not recommended.
+10. Click Save.
+Note: Only one SSO configuration can be enabled at a time.
+Signing in to Keepit with SSO
+To sign in with SSO, users must use the URL that corresponds to their region:
+- Denmark (Copenhagen): https://dk-co.keepit.com/desktop/signin
+- United States (Washington, DC): https://us-dc.keepit.com/desktop/signin
+- Australia (Sydney): https://au-sy.keepit.com/desktop/signin
+- United Kingdom (London): https://uk-ld.keepit.com/desktop/signin
+- Germany (Frankfurt): https://de-fr.keepit.com/desktop/signin
+- Canada (Toronto): https://ca-tr.keepit.com/desktop/signin
+- Switzerland (Zurich): https://ch-zh.keepit.com/desktop/signin
+When attempting to sign in to their accounts, users are required to input solely their email address and refrain from entering their password. Upon clicking Sign In, users will be automatically redirected to the identity provider page. Here they should complete the sign-in process using their designated identity provider login credentials.

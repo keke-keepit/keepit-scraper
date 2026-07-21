@@ -1,0 +1,34 @@
+Source URL: https://www.keepit.com/blog/backing-up-jira-service-management/
+Content type: Web page
+Last modified: 2026-06-18T13:42:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Jira Service Management
+Atlassian’s Jira, as well as Jira Service Management (JSM), has become central to IT and service operations. It manages incidents, requests, SLAs, and customer communication—often across the entire organization.
+As Atlassian discontinues the support for on-premises services, customers need to start planning their move to the cloud — including how they will back up and recover their data. There’s a common assumption that data is inherently protected, but in reality, SaaS data protection works differently—and that difference matters.
+Shared responsibility in Jira Service Management
+JSM, like most SaaS applications, follows a shared responsibility model. Atlassian secures and operates the platform, but customers are responsible for their data—how it’s protected, retained, and recovered.
+This means that while the service is available, recovery is limited. Native capabilities do not fully cover:
+- Granular restore of tickets, attachments, or configurations
+- Long-term, business-aligned retention
+- Protection from accidental or malicious deletion
+- Full rollback to a previously good state
+In short, availability is their responsibility, but recovering and restoring data is up to you.
+Why Jira Service Management data needs independent backup
+Losing data in Jira Service Management can directly impact service delivery. At an operational level, data loss can lead to disrupted service desks and stalled tickets or slower incident response due to missing context.
+At a broader level, JSM acts as a system of record. It supports audits, compliance, and post-incident analysis. When data is missing or incomplete, organizations risk losing traceability, audit readiness, and operational insight.
+Atlassian offers some native backup and recovery services as an add-on, but with limited retention and no point-in-time restoration capabilities. It’s also important to remember that having your backups stored within your production environment means you’re vulnerable to platform failure.
+Keepit Backup and Recovery for Jira Service Management
+Keepit provides business continuity throughout your service management with independent backup and recovery for Jira Service Management Cloud.
+What Keepit provides:
+- Independent protection: Data is stored outside the production environment
+- Automated backups: Continuous coverage without manual processes
+- Granular restore: Recover individual issues, requests, and configurations without restoring entire environments
+This gives organizations greater control over data and recovery—supporting both operational resilience and compliance needs.
+As JSM becomes more embedded in critical workflows, ensuring that its data can be reliably recovered is no longer optional—it’s part of maintaining service continuity in the cloud.
+Keepit protects your DevOps organizations most critical tools
+The Keepit platform delivers independent backup and recovery for your most important product development and collaboration tools. From Jira and Confluence to collaboration tools like monday.com, Keepit offers a one-stop-shop solution for SaaS backup and recovery.  
+ 
+Start ensuring your team’s business continuity today by making sure you can not only recover but restore all your critical processes if disaster strikes.

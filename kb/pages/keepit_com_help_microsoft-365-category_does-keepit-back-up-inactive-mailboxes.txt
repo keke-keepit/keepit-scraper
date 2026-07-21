@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/does-keepit-back-up-inactive-mailboxes/
+Content type: Web page
+Last modified: 2026-06-29T23:44:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Does Keepit back up inactive mailboxes?
+Keepit does not back up inactive mailboxes.
+A mailbox is considered to be inactive after the following two steps are taken:
+1. The mailbox is placed on Litigation Hold or has a Microsoft 365 retention policy applied to it;
+2. The mailbox or corresponding Microsoft 365 user is deleted.
+A mailbox that is placed on Litigation Hold or has an Microsoft 365 retention policy applied to it but has NOT been deleted is considered to be active. We do back up such active mailboxes.

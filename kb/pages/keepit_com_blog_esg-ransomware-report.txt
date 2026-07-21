@@ -1,0 +1,56 @@
+Source URL: https://www.keepit.com/blog/esg-ransomware-report/
+Content type: Web page
+Last modified: 2025-08-20T00:20:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How the next ransomware attack will hurt you: The numbers are in
+75% of organizations have been victims of at least one successful ransomware attack in the past year, disrupting them operationally and financially.
+These attacks have become a constant battle between ever more sophisticated attackers and the IT and cybersecurity professionals tasked with keeping them at bay.
+In fact, a new survey (co-sponsored by Keepit) tells us that 65% of those IT and cybersecurity professionals name ransomware among the top 3 threats to their organization's viability, and 13% of those even name it the biggest threat.
+If you are responsible for protecting your organization’s data, are you prepared for the next ransomware attack? If you are concerned about gaps in your strategy, you’re not alone. Many feel their organizations do not have the proper preparation in place to handle the increase in frequency and impact of attacks. So read on, learn where attacks are being targeted, and how to increase your level of preparedness.
+The statistics are fresh and based on a new Enterprise Strategy Group survey of 600 European and North American IT and cybersecurity professionals personally involved with protecting against and recovering from ransomware attacks.
+Get all the latest numbers on ransomware attacks in the full report.
+What ransomware attackers go after
+We have reliable data both on which parts of your IT environment are at risk, and which data classes the attackers are most likely to go after. So, let’s take them each in turn.
+The parts of your IT environment most at risk
+Attackers can enter your network at many different points, placing a significant burden on IT departments. But with this data, you will have a better idea of where to strengthen your defenses.
+The element most affected by ransomware attacks — indicated by 38% of survey respondents whose organization experienced a successful ransomware attack - is their key IT infrastructure. Anyone who controls even a small part of your IT infrastructure has tremendous power over you. They no longer even need to kidnap your files. For example, if they can disrupt, or gain control over, your Active Directory, they can shut your operations down for all practical purposes.
+For obvious reasons, your storage systems are also an attractive destination for attackers. Whether on-prem or in the cloud, there is a lot of gold in your data assets.
+But the survey respondents tell us that there are also plenty of other targets under assault in their IT environments. These include networks and connectivity, cloud-based data, IoT operations infrastructure, and last but not least data protection infrastructure.
+Especially the last one deserves a special mention. Ransomware attacks are increasingly targeting backup copies of data — something that 74% of survey respondents were concerned about.
+This is why at Keepit we have gone to great lengths to create backup solutions that eliminate this very risk to the data protection infrastructure by insulating your backup in our independent cloud. With our true third-party protection, your data is stored in separate, isolated, immutable storage that is physically and logically separated from the rest of your IT environment. So the risk of attackers being able to reach your backups is greatly reduced.
+While the industry is slowly realizing the importance of such “air-gapped” and immutable solutions, this is not common practice within the backup solutions industry just yet.
+The data classes most at risk
+The data class most targeted by the attackers — cited by 58% of the respondents whose organization had experienced a successful ransomware attack — is the one that you are required by law to protect: regulated data. This hurts in any way you can imagine, both for you and those that entrust you with their data.
+ 
+But a close second is sensitive infrastructure configuration data. Affecting the infrastructure at its core is a very effective way for attackers because it makes it easier for them to steal or damage data and to evade detection.  
+In essence, this is how many attackers first gain entry. Once inside, they “climb the ladder” to compromise an account with admin privileges. And then, they can start breaking things such as configuration settings and access rules, and start stealing.
+We recently saw a brazen example of just such an attack. In this case, attackers caused major disruptions and financial losses by compromising both on-prem and cloud-based systems. The attacker:
+- Entered the target network by compromising an on-premises account
+- Leveraged that account to compromise the on-prem Active Directory
+- Used that access to pivot to and compromise Azure AD
+ 
+All of the target's Azure storage and compute resources were deleted. If you don’t have a backup of your Azure AD data, building your settings and access control up from the ground again will be difficult and time-consuming, leaving you vulnerable to further attacks in the interim. 
+Other data classes the survey respondents indicated are usually targeted are intellectual property data and mission-critical data. Any attack on mission-critical data is frustrating and costly as companies struggle to restore data and operations. But temporary or permanent loss of sensitive intellectual property information is not only hurtful in the short-term until operations are resumed, but can be enormously damaging in the long-term.
+All these four types of data are highly desired by the attackers. You can see exactly how much, and a lot more, in the report itself.
+As you can see, your IT infrastructure has a major bullseye on its back that bad actors constantly try to hit. Unfortunately, sometimes they will succeed. So, you had better have the right plan in place to deal with the consequences when it happens.
+How the ransomware attacks hurt
+When asked in the survey how all those successful ransomware attacks have impacted the respondents’ businesses, the two standout examples were data loss and data exposure.
+But the list of painful effects is long. Some worth mentioning are operational disruptions, direct impact on employees, customers and partners (such as access to personally identifiable information), and financial, compliance and reputational damage.
+If you want to know in more detail what pains to expect and prepare for, I recommend that you look through the the official report.
+Storytime: Scary ransomware stories from the real world
+Now that you know what the attackers are after, where they hit you and what the main effects will be, let’s get a bit more tangible and look at some recent examples of successful attacks.
+Ransomware attackers sure are creative, so you need to be able to anticipate their moves. And for that, it is useful to follow the related news and learn what has worked (for the attackers) in the past.
+Here is some recommended reading to bring yourself up to date:
+- An attack on one of Toyota's key suppliers disrupted their production. During the shutdown, Toyota lost a third of its global output and suffered a significant financial loss. Read the story. 
+ 
+- Third-party, unauthorized access was made at Bridgestone Americas, prompting a shutdown of the computer network and production at its factories in North and Middle for about one week. Read the story.
+ 
+- A ransomware attack hit agricultural equipment manufacturer AGCO, causing it to shut down manufacturing facilities. It took 17 days to return to full operation. Read the story.
+What to make of all this
+Attacks will happen, and some of them will succeed — you can’t stop them all. But with the right preparation, you can take a lot of the power out of the attackers’ hands by being able to immediately restore the data you’ve lost and clean up after the attack. So it’s all about resilience and management.
+Arm yourself with the right insight. The above information is a great start — you now know which data classes and elements of your IT environment to prioritize — but it only scratches the surface. Download the full report to get the full picture.
+Prevention will only take you so far, so move beyond a simple defensive strategy. How much downtime and data loss can your business really afford? Ensure you can handle the disruption and keep your business operational through the storm. To help mitigate the operational disruptions and avoid the data loss that is so common-place today, you need to invest in a solid plan to protect your business-critical data.
+Now is the time to secure your data and improve your resilience levels — before the next ransomware attack hits you.

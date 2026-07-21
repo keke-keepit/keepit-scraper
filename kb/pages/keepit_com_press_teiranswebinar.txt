@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/press/teiranswebinar/
+Content type: Web page
+Last modified: 2025-08-14T23:55:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Study reveals Keepit gives customers up to 90% faster targeted restore time following a ransomware attack
+Company to follow up on Total Economic Impact study with webinar “The ROI of ransomware recovery” on March 26. Registration open.
+COPENHAGEN, DENMARK, March 20, 2024 – Keepit, a global provider of cloud backup and recovery solutions, today announced the results available to organizations leveraging Keepit SaaS data protection: The Keepit solution provides organizations the ability to restore and recover backed-up data after a ransomware attack in a quick, efficient and accurate manner. These findings stem from a recent study conducted by Forrester Consulting, commissioned by Keepit, which quantifies the value of the world’s sole vendor-independent cloud dedicated to SaaS data protection.
+Keepit commissioned Forrester Consulting to conduct a Total Economic Impact™ (TEI) study and examine the potential return on investment (ROI) enterprises may realize by deploying Keepit SaaS data protection. The purpose of this study was to provide a framework to evaluate the potential financial impact of Keepit SaaS data protection on end users. To better understand the benefits, costs, and risks associated with this investment, Forrester interviewed four representatives with experience using Keepit. For the purposes of this study, Forrester aggregated the interviewees’ experiences and combined the results into a single composite organization that is represented as a manufacturing organization with $2 billion in annual revenue.
+While ransomware attacks have become increasingly common and organizations face the risk of losing critical data, Keepit offers strong protection, providing a crucial lifeline for recovering user data after cyberattacks or other events. With Keepit, information technology (IT) administrators can quickly find, restore, and save data. Additionally, the study also shows that Keepit's SaaS data protection solution helps prevent the negative effects of ransomware attacks and saves time and money for IT teams, resulting in smoother, more time-efficient SaaS backup operations.
+Benefit worth $819,100
+According to the study the Keepit solution limits the impact of a ransomware attack for the composite organization the study has based its calculations on “by allowing it to recover and restore data quickly, preventing data loss and reducing downtime. This benefit is worth $819,100.”
+And, the study finds, “the time needed to restore the tier-one users is 90% lower than the time the composite would spend restoring its data without Keepit, which has been identified by interviewees to be at least three weeks.”
+“We can prove it’s possible to significantly lower downtime during recovery from a ransomware attack. Lowering downtime is a sure-fire way to maximize return on your investment in a backup solution. Because it’s not a question of if an attack will happen, the question is how to bounce back when it does,” says Paul Robichaux, Microsoft MVP and senior director of Product at Keepit.
+Three quarters of security decision-makers suffered a breach in the last 12 months, and in the study, Forrester research recommends that “backups are the best insurance policy against an attack, but to be effective they need to be part of a planned and tested backup and recovery process.”
+The study participants noted that their organizations planned for a disaster scenario in the event of a ransomware attack and were aware of the exposure risk and potential losses they could suffer as a result.
+As a follow-up to the Forrester study, Keepit will be holding a webinar at 2 p.m. EDT on March 26, titled, “The ROI of Ransomware Recovery”. Hosted by Keepit’s Paul Robichaux, the webinar will feature guest speakers Brent Ellis, Forrester senior analyst, and Elia Gollini, Forrester associate consultant.
+Key takeaways from the webinar will include:
+â Actionable insights and recommendations on how to address current gaps in disaster recovery planning.
+â Insight into best practices for ensuring business continuity during a ransomware attack.
+â Information about the return on investment (ROI) organizations have realized when deploying Keepit for ransomware recovery.
+To register for the webinar, visit the sign-up page
+Download the Forrester Total Economic Impact study here
+To experience the ROI calculator Keepit developed and introduced after the study was completed, visit it here. The calculator is designed to provide users with tailored insights into the financial benefits of Keepit’s solutions for their specific organizational needs.
+About Keepit
+Keepit provides next-level SaaS data protection for companies with data stored in the cloud. Keepit's vendor-independent cloud dedicated to SaaS data protection is based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Azure AD, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

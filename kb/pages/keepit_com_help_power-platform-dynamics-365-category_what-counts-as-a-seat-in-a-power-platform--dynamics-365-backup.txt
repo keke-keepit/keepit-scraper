@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/what-counts-as-a-seat-in-a-power-platform--dynamics-365-backup/
+Content type: Web page
+Last modified: 2026-07-09T09:21:12+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What counts as a seat in a Power Platform / Dynamics 365 backup
+What is a seat
+A seat is the metric Keepit uses to measure your consumption of our services. Each seat you purchase represents one licensed user.
+Dynamics 365
+Requirements for a user to be counted as one seat
+- User must be an active user under a Dynamics 365 subscription
+- Dynamics 365 Sales
+- Dynamics 365 Customer Service
+- Dynamics 365 Field Service
+- Dynamics 365 Project Service Automation
+- Dynamics 365 Marketing
+- If the user is in multiple Dynamics 365 applications (modules), we count the user just once
+Power Platform
+Power Apps, Power Automate, and Power Pages are bundled together as a single offering. You don't purchase or license them separately — when you back up Power Platform, all three are included.
+Keepit counts seats based on the number of assigned licenses in your Microsoft 365 tenant. Your M365 seat count determines the seat count for your Power Platform backup.

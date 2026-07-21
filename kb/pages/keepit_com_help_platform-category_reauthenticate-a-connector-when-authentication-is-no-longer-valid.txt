@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/help/platform-category/reauthenticate-a-connector-when-authentication-is-no-longer-valid/
+Content type: Web page
+Last modified: 2026-06-18T10:28:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Reauthenticate a connector when authentication is no longer valid
+If you see the message that your connector's authentication is no longer valid, this means that Keepit cannot perform a backup and your health status is critical.
+The most common reason this happens is because your authentication gets expired or revoked. In that case, Keepit loses connection with your SaaS application.
+If you have a Microsoft connector, it could be because of conditional access. For more details, see: My Microsoft 365 connector's authentication is no longer valid
+To renew the authentication, simply reauthenticate your connector. You can do this by clicking "reauthenticate" on your connector's status on the Connector's page.
+Note: Only users with the Master admin or Backup admin roles, or with the appropriate permission can reauthenticate connectors.

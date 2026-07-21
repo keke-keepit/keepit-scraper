@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/press/gartner-symposium-2023/
+Content type: Web page
+Last modified: 2025-08-15T00:32:59+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How to rapidly recover critical cloud data no matter what
+Keepit and Baptist Health to present at Gartner on how next-level SaaS data protection revolutionizes healthcare compliance
+COPENHAGEN, DENMARK, Oct. 11, 2023 – Keepit, the market leader in cloud data protection and management, today announced that it will be presenting and exhibiting at the Gartner IT Symposium/Xpo™ 2023 conference taking place from October 16 to October 19 in Orlando, Florida.
+At the Symposium, the Keepit team will be sharing the latest insights on how to mitigate the impact of ransomware attacks by ensuring fast and complete recovery for enterprises. Research shows that a strong backup and recovery strategy can mean the difference between organizations being able to ignore extortionists and having to succumb to paying ransom again and again.
+And on Tuesday, October 17, Keepit’s Senior Director of Product and Microsoft MVP Paul Robichaux will co-present with Ryan Hooley, Senior Director of Enterprise Architecture at Baptist Health, in a session titled, “Keepit: From On-Prem to Cloud - How to Revolutionize Healthcare Compliance.”
+Session attendees will learn how healthcare compliance affects backup and recovery requirements and get insights into the data security and sovereignty issues that must be addressed when migrating from on-prem to cloud. Additionally, attendees will learn how Baptist Health's collaboration with Keepit's cloud-native solution helped to ensure patient data protection while navigating this transition.
+The Gartner IT Symposium/Xpo™ 2023 will be held at the Walt Disney World Swan and Dolphin Resort. The conference provides an opportunity for information technology (IT) and cybersecurity executives to explore the technology, insights, and trends shaping the future of IT and business while getting expert guidance on best practices to define and validate IT strategies. Attendees will gain real-world insights of how to execute on key initiatives. Topics covered will include accelerating business transformation, cybersecurity, customer experience, data analytics, executive leadership, and the impact of generative artificial intelligence (AI) on every industry and job role.
+WHAT: Speaker session: “Keepit: From On-Prem to Cloud - How to Revolutionize Healthcare Compliance”
+WHO: Keepit’s Senior Director of Product and Microsoft MVP Paul Robichaux and Ryan Hooley, senior director of Enterprise Architecture at Baptist Health
+WHERE: Swan Ballroom 4
+WHEN: Tuesday 17, 3:45pm EST
+REGISTRATION: https://www.gartner.com/en/conferences/na/symposium-us/register
+Keepit will be exhibiting for the duration of the conference at booth #349.
+To arrange a product demonstration or meeting with a member of the Keepit team at the conference, book a meeting here.
+About Keepit
+Keepit provides next-level SaaS data protection for companies with data stored in the cloud. Keepit is the world’s only vendor-neutral and independent cloud dedicated to SaaS data protection based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Azure AD, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

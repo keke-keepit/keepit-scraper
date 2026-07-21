@@ -1,0 +1,30 @@
+Source URL: https://www.keepit.com/customers/basisbank/
+Content type: Web page
+Last modified: 2026-01-08T12:04:47+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why Basisbank needed extra security for their Microsoft 365 data
+Basisbank chose Keepit to add an extra layer of security for their Microsoft 365 data and comply with FSA legal regulatory requirements.
+Taking control of data security
+Basisbank currently has two mail systems and plans to migrate completely to the Microsoft 365 cloud solution. It is crucial that Basisbank relies on a stable and independent Microsoft 365 backup solution in a secondary location as soon as the two mailing systems and thus the implicit extra data copy are terminated.
+Our biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. When we decide to move all mailboxes to Microsoft 365, we cannot live with the fact that our Microsoft 365 data makes us 100% dependent on Microsoft. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.
+Flemming Selchau
+IT Manager, Basisbank
+Selchau sees a much simpler set-up with Microsoft 365 cloud solution and Keepit’s automatic cloud backup at a secondary location. Keepit’s primary function is to ensure that Basisbank will not compromise the data security, although both solutions are located in the cloud.
+Meeting regulatory requirements
+As a financial company, Basisbank is subject to a number of legal obligations and specific regulatory requirements regarding outsourcing, which must be respected when embracing a cloud-based solution like Microsoft 365.
+Microsoft's backup options were not sufficient, neither in terms of the legal requirements, nor Basisbank's internal requirements. By implementing Keepit as a secondary independent backup solution, Basisbank fulfills the requirement of providing full data security for Microsoft 365.
+Keepit as a functional tool
+Besides ensuring automatic backup of the company's Microsoft 365 data, Basisbank’s chosen solution also had to offer a quick search and restore process. Selchau wanted Keepit to fill in the missing functionality that he experienced with Microsoft 365, serving as a daily tool ensuring a simple and efficient workflow for employees.
+We wanted to be able to use the extra backup application for something more in our daily work. For example, Keepit allows us to easily find and restore a lost email. Rather than spending 14 days working on this, Keepit ensures a much more efficient operation.
+Flemming Selchau
+IT Manager, Basisbank
+An accessible and affordable solution
+The price of the solution has been an important parameter in choosing a backup supplier.
+Microsoft 365 is a relatively affordable solution, and a third-party backup solution should measure up to this. The balance between price and performance has to be right. And I think Keepit has got that just right.
+Flemming Selchau
+IT Manager, Basisbank
+The right solution for Basisbank
+Basisbank acknowledged that an independent backup for Microsoft 365 was a necessity to maintain a high level of security. Rather than rely on one supplier, Keepit adds an extra layer of security for Basisbank's Microsoft 365 data, whilst ensuring legal regulatory requirements.

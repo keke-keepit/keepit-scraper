@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/help/platform-category/share-data-with-a-secure-share/
+Content type: Web page
+Last modified: 2026-06-23T21:21:41+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Share data via a secure share
+To make a file or folder accessible to others, create a secure share and send the link to anyone who needs access.
+1. In your connector, locate the file or folder you want to share.
+2. Optional: To share an older version of the item, click the Snapshots Viewer icon and select an earlier snapshot. You'll now be viewing data from that point in time.
+3. Point to the item and click the Share icon.
+4. Secure the link with a password, an expiration date, SSO authentication, or trusted IP restrictions.
+5. Click Create to generate the link.
+6. Copy the link and share it.
+All secure shares you create are available on the Secure shares page, where you can view details, and reconfigure, copy, or delete any share.
+Additional information
+- Shares from the latest snapshot always reflect the most current data. If the item changes, the link updates automatically.
+- Shares from an older snapshot can be locked to that specific version of the item.

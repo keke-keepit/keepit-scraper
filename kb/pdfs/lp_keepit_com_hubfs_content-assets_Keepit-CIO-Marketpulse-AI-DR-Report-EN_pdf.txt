@@ -1,0 +1,331 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/Keepit-CIO-Marketpulse-AI-DR-Report-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 6
+Retrieved: 2026-07-21
+
+============================================================
+
+S P O N S O R E D C O N T E N T  
+|  
+M A R K E T P U L S E
+Peer insights on AI adoption and 
+the disaster recovery gap
+SP ONSORED BY
+Autonomous AI, SaaS sprawl, and limited testing are 
+exposing gaps in enterprise disaster recovery readiness.
+Market
+ Pulse
+
+2
+CIO  |  Keepit  |  Peer insights on AI adoption and the disaster recovery gap
+Market
+ Pulse
+Organizations are rapidly 
+adopting agentic AI. In a recent 
+survey conducted by Foundry, 
+more than half report active AI 
+implementations, while the rest are 
+piloting or evaluating initiatives.
+Given the pace of AI adoption, it’s 
+critical to ensure your business is 
+resilient and can recover quickly 
+when an incident occurs. AI agents 
+typically operate autonomously 
+across SaaS environments and 
+interact with multiple systems at 
+once. If granted broad permissions, 
+an AI agent may update data across 
+several systems simultaneously, 
+allowing errors to propagate before 
+teams have a chance to intervene.
+These characteristics heighten 
+the risks of inadvertent data 
+exposure or loss. Evidence of AI-
+related risk is already emerging, 
+according to IBM research1, which 
+found that 13% of organizations 
+have already reported breaches 
+involving AI models or applications.
+Despite these risks, most IT leaders 
+(94%) say they’re confident their 
+current disaster recovery (DR) plan 
+covers agentic AI systems. And 
+yet, only 32% test their DR plans 
+on a monthly basis. Considering 
+the speed at which AI is heading 
+into production, there is a gap 
+between perceived readiness and 
+real-world recovery capability.
+AI adoption moves 
+beyond IT
+Most IT and security leaders 
+report being well-informed about 
+AI deployments. But as agentic AI 
+adoption spreads from centralized 
+IT teams into the wider organization, 
+even small blind spots can disrupt 
+incident response and recovery.
+About the research
+Foundry surveyed 301 IT decision-
+makers in Australia, France, Germany, 
+New Zealand, the UK, and the US, at 
+companies with 1,000+ employees. 
+Respondents have roles in IT 
+networking, and/or security, and 
+make decisions around AI services 
+and platforms. The online survey was 
+sponsored by Keepit and conducted 
+from Nov. 19 to Dec. 15, 2025.
+1Brancati, M. (2025) IBM report: 13% of organizations reported breaches of AI models or applications, 
+97% of which reported lacking proper AI access controls, IBM Newsroom.
+
+3
+CIO  |  Keepit  |  Peer insights on AI adoption and the disaster recovery gap
+Market
+ Pulse
+The respondents recognize that 
+agentic environments can introduce 
+new challenges around disaster 
+recovery. They are concerned, for 
+example, about not understanding 
+AI’s risks, no accountability for AI 
+systems, and low organizational 
+awareness (see Figure 1).  
+“AI was originally brought into the 
+organization through IT,” says Kim 
+Larsen, CISO, Keepit. “Now, individual 
+teams are deploying it themselves as 
+they look to automate their processes 
+and workloads. That can move things 
+forward quickly, but it also makes it 
+more challenging to see how systems 
+and data connect—and know what 
+to do when something goes wrong.”
+Governance matters 
+for recovery
+In agentic AI environments, 
+governance guides how 
+responsibility, decision-making, and 
+recovery actions are coordinated 
+when issues arise. However, the 
+results show that controls and 
+governance are not keeping pace 
+with the rapid adoption of AI. 
+Figure 1 
+| 
+Top disaster recovery concerns in agentic AI environments 
+Lack of understanding of AI’s risks
+
+55%
+No ownership or accountability for AI systems
+
+47%
+Low organizational awareness or priority
+
+44%
+Budget or resource constraints
+
+43%
+Integration with SaaS platforms
+
+41%
+Limited tools for backing up AI-related data or models
+
+40%
+Compliance / regulatory issues
+
+39%
+Lack of internal expertise
+
+38%
+Service downtime
+
+35%
+S O U R C E : F O U N D R Y
+
+4
+CIO  |  Keepit  |  Peer insights on AI adoption and the disaster recovery gap
+Market
+ Pulse
+For example, 33% of IT and 
+security leaders say they 
+only have partial control 
+over the use of agentic 
+AI in their organizations. 
+“In real-world recovery 
+scenarios, the problem 
+is rarely the absence of 
+backups,” Larsen says. “It’s 
+knowing who is in charge 
+of the recovery and which 
+systems are restored first 
+when multiple systems are affected. 
+When decisions are delayed, recovery 
+takes longer than necessary.”
+Backup does not 
+equal recovery
+Data protection is widely 
+recognized as essential; 91% 
+report having dedicated SaaS 
+backup or DR solutions in place. 
+However, this widespread adoption 
+does not translate into uniformly 
+high confidence in recovery abilities. 
+More than half (51%) say they are 
+either not confident or only somewhat 
+confident that their existing DR 
+plans cover scenarios involving 
+agentic AI or automation tools. 
+“What often surprises teams is how 
+many steps sit between having a 
+backup and actually being operational 
+again when an incident occurs,” Larsen 
+says. “Restoring data is just one part of 
+the process. Reconnecting systems, 
+validating data, and confirming that 
+workflows function correctly can 
+take far longer than teams expect.”
+Furthermore, only 56% place a 
+high priority on protecting SaaS 
+data and DR when implementing 
+AI solutions. This pattern extends 
+to testing practices; only 32% test 
+their DR plans on a monthly basis. 
+Considering the autonomous 
+nature of agentic AI, quarterly or 
+annual testing is insufficient.
+
+5
+CIO  |  Keepit  |  Peer insights on AI adoption and the disaster recovery gap
+Market
+ Pulse
+“Low testing frequency may be 
+enough for more static environments,” 
+Larsen says. “But as agentic AI 
+introduces faster change and more 
+interconnected systems, teams 
+often need to test more frequently 
+to ensure they’re prepared. Testing 
+isn’t just about meeting a schedule. 
+It’s how teams discover how 
+failures spread and how well they 
+can respond when it matters.”
+The constraints holding 
+back true DR
+Similar to infrequent DR testing, only 
+41% of respondents say that they have 
+significantly changed their approach 
+to disaster recovery as a result of AI 
+adoption. Despite acknowledging that 
+agentic AI is a game-changer for the 
+business, there is little evidence that IT 
+and security teams are keeping pace 
+with how AI is affecting data protection 
+and mitigating potential risks.
+Figure 2 
+| 
+Top barriers to achieving a resilient SaaS DR strategy 
+S O U R C E : F O U N D R Y
+Limited understanding of AI’s impact on DR planning
+Budget or resource constraints
+Lack of internal skills or training on modern DR practices
+Insufficient tools or visibility across SaaS environments
+Shadow IT / Lack of control between IT and business units
+Overreliance on SaaS vendor backup capabilities
+No clear ownership or accountability for SaaS data protection
+Low organizational awareness of DR importance
+Lack of leadership support or executive prioritization
+14%
+43%
+14%
+38%
+13%
+32%
+13%
+8%
+28%
+10%
+11%
+17%
+39%
+9%
+11%
+34%
+14%
+9%
+10%
+32%
+11%
+11%
+8%
+27%
+7%
+12%
+27%
+10%
+8%
+15%
+9%
+10%
+9%
+14%
+11%
+13%
+
+6
+CIO  |  Keepit  |  Peer insights on AI adoption and the disaster recovery gap
+Market
+ Pulse
+However, they are facing substantial 
+challenges. Asked to rank the top 
+three barriers to achieving a resilient 
+SaaS disaster recovery strategy, IT 
+leaders cited a limited understanding 
+of AI’s impact on DR planning, 
+budget or resource constraints, 
+and a lack of internal skills.
+As shown in Figure 2, there isn’t 
+really one dominant challenge. 
+Enterprises are facing a host of 
+challenges, which may explain the 
+lag between AI deployment and the 
+evolution of recovery planning.
+“Teams often struggle because 
+there isn’t a shared understanding 
+of what ‘good’ recovery looks like in 
+an AI-driven environment,” Larsen 
+says. “Without that reference 
+point, it’s hard to decide where to 
+focus—whether on tools, training, 
+processes, or ownership—and 
+efforts tend to become fragmented, 
+which dilutes progress.”
+Build resilience through 
+stronger disaster 
+recovery planning
+Taken together, the Foundry research 
+findings point to a consistent theme: 
+While backup is common, recovery 
+capability is less consistently 
+understood, tested, or validated. This 
+gap affects an organization’s ability 
+to attain operational resilience. 
+“Resilience starts with clarity,” Larsen 
+says. “You need to know what matters 
+most, who leads recovery, and where 
+the weak points really are. Teams 
+that plan and practice regularly 
+don’t have to figure things out in the 
+moment; they follow the plan.” 
+The organizations that succeed 
+with AI aren’t just the ones that 
+are able to deploy quickly; they’re 
+the ones that build resilience into 
+every stage of adoption, ensuring 
+the business remains operational 
+even when systems fail.
+Find out how to not only improve but 
+also master disaster recovery in the 
+age of agentic AI by downloading 
+this maturity framework and guide.

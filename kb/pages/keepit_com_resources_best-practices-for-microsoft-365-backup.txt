@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/resources/best-practices-for-microsoft-365-backup/
+Content type: Web page
+Last modified: 2025-08-14T23:52:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+On-demand webinar: How to establish best practices for M365 backup and recovery
+Presented by: Paul Robichaux, Microsoft MVP and Keepit’s Senior Director of Product Management.
+In this webinar, you’ll learn the best practices for backup and recovery of Microsoft Office 365 data.
+Your Microsoft 365 data is critical to your business.
+Attend this session to receive expert advice on how to protect your data. According to a study by the ESG, 81% of Microsoft Office 365 users had to recover data, but only 15% were able to recover 100% of their data. Many IT professionals are surprised to learn that Microsoft is not responsible for their data, exposing them to irreparable data loss. Getting backup and recovery right can help organizations mitigate the effects of ransomware attacks, improve IT efficiency, and ensure compliance. Don’t miss out on this webinar to learn how to establish best practices.
+You’ll get specific insights on:
+- The main causes of data loss
+- Why relying on native Microsoft 365 won’t sufficiently protect your data
+- The key differences between on-prem vs. cloud backup and recovery
+- How to ensure your backups are secure
+- How to ensure you can recover when disaster strikes
+- How to configure backups to ensure compliance with relevant standards and regulations

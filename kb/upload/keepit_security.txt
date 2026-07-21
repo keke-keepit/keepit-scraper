@@ -1,0 +1,278 @@
+KEEPIT KNOWLEDGE BASE — SECURITY
+Generated: 2026-07-21
+Pages: 8
+============================================================
+
+Source URL: https://www.keepit.com/security/
+Content type: Web page
+Last modified: 2026-01-08T23:19:46+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The Keepit platform safeguards your data against threats, ensuring that every backup stored on our cloud is unalterable and protected. With immutable SaaS data protection, you’re ensuring business continuity and compliance.
+Platform security
+Intelligent platform security built for the cloud. Keepit's broad service coverage ensures secure data protection and recovery solutions for your critical SaaS data.
+Intelligent SaaS data protection
+Simple and transparent
+Effortless integration of SaaS backup
+Keepit’s API-only architecture enables seamless integration. Access every feature as an API endpoint for easy configuration, provisioning, and management — flexibility that grows with your needs.
+Data availability
+The Keepit architecture is centered around a multiple data center strategy for redundancy. Each one of our regions employs two regional data centers, each data center being a complete mirror of the other.
+The two data centers operate in active-active mode, continually keeping data replicated between the centers. This keeps your data reachable and available for restore even in the unlikely event of the loss of a full data center.
+Scalability
+Keepit’s platform is effortlessly scaled to your organization's needs. Keepit’s fully automated and intelligent backup algorithm ensures maximum throughput and allows you the ability to deploy multiple independent instances of Keepit for increased scalability.
+Predictable pricing for unlimited data
+Keepit offers predictable pricing with its unlimited data model. There are no extra fees for data ingress or egress, making planning your budget simple and reliable.
+Read more about scalabilityConfidence in disaster recovery
+Keepit enables business continuity
+Become more resilient by reducing risk and enabling seamless recovery through robust backup. Keepit provides granular and instant recovery, if and when your system is impacted by ransomware or human error. With Keepit, your disaster recovery plan is future-proofed for business continuity.
+Data integrity
+Keepit has been built to be tamper proof, guaranteeing that data stays immutable. The application does not expose any APIs or other means that allow data overwrites. Furthermore, the application uses a blockchain algorithm which makes any low-level tampering impossible and easily evident.
+Keepit features a deletion retention of all configured backup connections of at least one month, thereby completely protecting the customer from data loss due to ransomware attacks.
+Data retention
+Data only leaves the platform when it falls outside of the customer-configured retention period.
+Data security and encryption in transit
+Keepit employs encryption in transit using HTTPS secured with modern TLS when accessing your data through primary workload vendor APIs. For an additional layer of security, Keepit will typically exchange traffic directly with workload providers over major internet exchanges.
+Once data reaches Keepit, it’s encrypted before being stored on our storage systems. For this purpose, we employ AES encryption directly on our storage systems. The storage media upon which your data resides is kept in two mirrored, physically secure data centers.
+A wide range of security measures are used to protect and safeguard your data. Encryption in transit and at rest is implemented, using industry best practices.
+Learn more about intelligent disaster recoveryEffortless compliance
+Compliance
+Keepit makes it easier to adhere to compliance requirements, whether it’s NIS2 or GDPR. Keepit’s independent cloud provides you with the confidence that your data is stored securely. Our data centers in seven regions guarantee data sovereignty.
+Security certifications
+Keepit stores your data in our regional data centers, separate from your SaaS vendor’s data. To ensure the highest operational security standards, Keepit holds both the ISO/IEC 27001 and the ISAE 3402-II certifications (audited by Deloitte annually).
+Read more about compliance and continuityThe intelligent choice
+Effortless and transparent - a trusted partner in disaster recovery and achieving compliance. Intelligently built solutions make for an intelligent choice.
+Intelligent data protection
+Explore Keepit’s enterprise-level SaaS backup solutions
+Read the case study
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Read the case study
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+Read the case study
+âOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.
+Want to learn more? Get in touch to hear more about the Keepit platform
+Ensure business continuity with Keepit
+Get visibility on your data with intelligent data monitoring
+Trust in the compliance of your data protection strategy
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/security/compliance-gdpr/
+Content type: Web page
+Last modified: 2024-06-06T14:31:51+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The NIS2 Directive
+ 
+Keepit enables compliance with the EU directive on protecting digital infrastructure, sensitive business data, and personal data. For cyber resiliency, having a backup stored separately from primary data in an independent cloud infrastructure is essential. This ensures compliance and business continuity through 24/7 data accessibility and robust recovery functionality, hallmarks of Keepit’s backup and recovery service.
+Read more about NIS2
+GDPR
+Keepit facilitates GDPR compliance, offering robust data protection against ransomware and aiding in implementing necessary workflows for regulatory adherence. We stand as the only backup provider fully implementing GDPR's Article 17 and Article 32, making Keepit an indispensable tool in your GDPR compliance journey.
+Read our GDPR whitepaper
+CER
+Keepit makes compliance easier by providing robust backup and recovery solutions, ensuring data resilience for critical entities. With Keepit, organizations can proactively manage risks and safeguard essential services, aligning with CER (Critical Entities Resilience Directive) requirements for comprehensive risk assessment and resilience planning.
+Read more about CER
+SEC guidelines
+Compliance entails describing cybersecurity risk management programs, disclosing governance information, and implementing clear risk assessments, response, and recovery plans. Investments should prioritize business-critical systems supporting essential functions. SaaS applications like M365 and Entra ID fall into this category, both of which Keepit protects.
+Read more about SEC guidelines 
+HIPAA
+The Health Insurance Portability and Accountability Act (HIPAA) imposes requirements on the retention of related documents. These must be retained for at least six years from creation or, for policies, from the last effective date. Such requirements often exceed what SaaS applications' built-in capabilities offer. Keepit supports up to 99 years of custom-configured retention.
+Get our HIPAA e-book
+DORA
+The Digital Operational Resilience Act (DORA) was introduced by the EU to enhance the digital operational resilience of the financial sector. Article 12 specifies backup and recovery requirements, emphasizing the need for robust data protection and business continuity measures. Keepit can help you meet DORA compliance with segregated backup systems, granular data recovery, and immutable data integrity, ensuring data availability.
+Read more about DORA
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/security/compliance/
+Content type: Web page
+Last modified: 2024-07-18T23:16:41+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The NIS2 Directive
+ 
+Keepit enables compliance with the EU directive on protecting digital infrastructure, sensitive business data, and personal data. For cyber resiliency, having a backup stored separately from primary data in an independent cloud infrastructure is essential. This ensures compliance and business continuity through 24/7 data accessibility and robust recovery functionality, hallmarks of Keepit’s backup and recovery service.
+Read more about NIS2
+GDPR
+Keepit facilitates GDPR compliance, offering robust data protection against ransomware and aiding in implementing necessary workflows for regulatory adherence. We stand as the only backup provider fully implementing GDPR's Article 17 and Article 32, making Keepit an indispensable tool in your GDPR compliance journey.
+Read our GDPR whitepaper
+CER
+Keepit makes compliance easier by providing robust backup and recovery solutions, ensuring data resilience for critical entities. With Keepit, organizations can proactively manage risks and safeguard essential services, aligning with CER (Critical Entities Resilience Directive) requirements for comprehensive risk assessment and resilience planning.
+Read more about CER
+SEC guidelines
+Compliance entails describing cybersecurity risk management programs, disclosing governance information, and implementing clear risk assessments, response, and recovery plans. Investments should prioritize business-critical systems supporting essential functions. SaaS applications like M365 and Entra ID fall into this category, both of which Keepit protects.
+Read more about SEC guidelines 
+HIPAA
+The Health Insurance Portability and Accountability Act (HIPAA) imposes requirements on the retention of related documents. These must be retained for at least six years from creation or, for policies, from the last effective date. Such requirements often exceed what SaaS applications' built-in capabilities offer. Keepit supports up to 99 years of custom-configured retention.
+Get our HIPAA e-book
+DORA
+The Digital Operational Resilience Act (DORA) was introduced by the EU to enhance the digital operational resilience of the financial sector. Article 12 specifies backup and recovery requirements, emphasizing the need for robust data protection and business continuity measures. Keepit can help you meet DORA compliance with segregated backup systems, granular data recovery, and immutable data integrity, ensuring data availability.
+Read more about DORA
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/security/compliance/nis2/
+Content type: Web page
+Last modified: 2025-02-23T21:36:55+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Is your company part of Europe’s critical infrastructure, directly or indirectly? And are you prepared to meet the NIS2 cybersecurity standards? Like GDPR, NIS2 brings a dramatic shift in cybersecurity risk management and reporting standards.
+Article 21 of the directive explicitly mandates the establishment of “robust backup and disaster recovery plans” to ensure business resilience and business continuity.
+Because if water, electricity and transportation is brought to a stop, recovery must be a matter of hours, not weeks.
+What implications does this have on your day-to-day business?
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/security/data-centers/
+Content type: Web page
+Last modified: 2026-03-09T23:58:27+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Built for the cloud, our intelligent platform is designed for usability, security, and compliance. Secure by design, Keepit owns its tech stack and operates its own data centers in seven regions to ensure your SaaS data is always protected and compliant with local regulations.
+Data center security
+Keepit was intelligently built to protect your cloud data. Our data centers are free of third-party sub-processors, ensuring meticulous security standards are met.
+Usability, data security and compliance
+Guaranteed data sovereignty
+Data centers in seven regions
+Keepit operates a cloud in multiple regions, across the Americas, Europe, UK, and Asia-Pacific – currently in USA, Canada, Australia, Germany, Switzerland, Denmark, and the UK. Each cloud is run from data center locations provided by Keepit data center partners Equinix and Cibicom. The data center regions are completely isolated from one another, offering full data sovereignty to our customers.
+As Keepit owns its own cloud and stores data in local data centers, customers can back up their data independently of Privacy Shield agreements.
+Data center locations
+To meet data sovereignty requirements, data is stored in Keepit’s data hosting locations in either Americas, Europe, or Asia-Pacific. Each data center location is completely isolated from each other, offering full data redundancy and sovereignty to our customers.
+With this structure, we keep four copies of data across at least two physical locations in each region. This ensures your data is always secure, accessible and compliant with local regulations. All data centers are ISO 27001 certified.
+Read more about data center certificationsCertified security
+Keepit’s security certifications
+To ensure the highest operational security standards, Keepit holds both the ISO/IEC 27001 and the ISAE 3402-II certifications (audited by Deloitte annually).
+Our trusted data center partners
+Keepit’s primary data center partner is Equinix. Equinix data centers are globally recognized for exceptional levels of security. Each data center has full copies of user data, with two mirrored physical locations, our clients can rest assured that their data will always be available to them, regardless of their SaaS vendor’s status.
+Keepit can confidently guarantee that our infrastructure ensures all customers' data will remain in situ, with no middleware transmissions outside regions.
+Read more about Keepit's certificationsGet more visibility on your data
+Visible data makes a business resilient, and this is exactly why Keepit has security and data insights functionality built into our data protection platform. With the data monitoring dashboard, you can quickly identify outliers and abnormal changes in data growth before it affects your business.
+Read more about data visibilitySustainability
+Our data centers run on 100% renewable energy
+Since 2023, all our data centers located in the Americas and EMEA are powered by 100% renewable energy.
+Keepit reached this important green energy milestone ahead of other cloud-based backup vendors who store customer backups with Microsoft, Amazon, and Google. The three tech giants aim to become 100% emission-free between 2025 and 2030.
+Keepit’s primary data center partner Equinix is one of the world’s leading, green-by-design digital infrastructure companies to run data centers.
+More than green energy
+Beyond running data centers with 100% renewable energy, we take pride in having constructed our technology stack from the ground up, specifically designed to efficiently address data storage challenges. This approach reflects a commitment to optimizing resource utilization and delivering a service that is not only effective but also resource efficient.
+Read more about sustainability with KeepitThe intelligent choice
+Guaranteed data sovereignty, certified security, more visibility - all within a sustainable solution. Intelligently built solutions make for an intelligent choice.
+Intelligent data protection
+Explore Keepit’s enterprise-level SaaS backup solutions
+Read the case study
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Read the case study
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+Read the case study
+âOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.
+Want to learn more?
+Get in touch to hear more about the Keepit platform
+Ensure business continuity with Keepit
+Get visibility on your data with intelligent data monitoring
+Trust in the compliance of your data protection strategy
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/security/ransomware-recovery/
+Content type: Web page
+Last modified: 2026-03-10T15:33:36+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Gartner reveals the alarming costs of ransomware: $850,700 average ransom, but a whopping $4.54m total impact when considering downtime, people hours, device cost, network cost, and more.
+In 99% of attacks, backups and security products are targeted. It’s not if, but when ransomware strikes. How much loss can your business endure per ransomware attack?
+Read the ESG ransomware report to learn which measures organizations have in place to defend against ransomware and which best practices you can follow.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/security/secure-by-design/
+Content type: Web page
+Last modified: 2025-02-23T21:38:45+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The Keepit platform safeguards your data against threats, ensuring that every backup stored on our cloud is unalterable and protected. With immutable SaaS data protection, you’re ensuring business continuity and compliance.
+Secure by design
+Intelligent platform security built for the cloud. Keepit's broad service coverage ensures secure data protection and recovery solutions for your critical SaaS data.
+Intelligent SaaS data protection
+Simple and transparent
+Effortless integration of SaaS backup
+Keepit’s API-only architecture enables seamless integration. Access every feature as an API endpoint for easy configuration, provisioning, and management — flexibility that grows with your needs.
+Data availability
+The Keepit architecture is centered around a multiple data center strategy for redundancy. Each one of our regions employs two regional data centers, each data center being a complete mirror of the other.
+The two data centers operate in active-active mode, continually keeping data replicated between the centers. This keeps your data reachable and available for restore even in the unlikely event of the loss of a full data center.
+Scalability
+Keepit’s platform is effortlessly scaled to your organization's needs. Keepit’s fully automated and intelligent backup algorithm ensures maximum throughput and allows you the ability to deploy multiple independent instances of Keepit for increased scalability.
+Predictable pricing for unlimited data
+Keepit offers predictable pricing with its unlimited data model. There are no extra fees for data ingress or egress, making planning your budget simple and reliable.
+Read more about scalabilityConfidence in disaster recovery
+Keepit enables business continuity
+Become more resilient by reducing risk and enabling seamless recovery through robust backup. Keepit provides granular and instant recovery, if and when your system is impacted by ransomware or human error. With Keepit, your disaster recovery plan is future-proofed for business continuity.
+Data integrity
+Keepit has been built to be tamper proof, guaranteeing that data stays immutable. The application does not expose any APIs or other means that allow data overwrites. Furthermore, the application uses a blockchain algorithm which makes any low-level tampering impossible and easily evident.
+Keepit features a deletion retention of all configured backup connections of at least one month, thereby completely protecting the customer from data loss due to ransomware attacks.
+Data retention
+Data only leaves the platform when it falls outside of the customer-configured retention period.
+Data security and encryption in transit
+Keepit employs encryption in transit using HTTPS secured with modern TLS when accessing your data through primary workload vendor APIs. For an additional layer of security, Keepit will typically exchange traffic directly with workload providers over major internet exchanges.
+Once data reaches Keepit, it’s encrypted before being stored on our storage systems. For this purpose, we employ AES encryption directly on our storage systems. The storage media upon which your data resides is kept in two mirrored, physically secure data centers.
+A wide range of security measures are used to protect and safeguard your data. Encryption in transit and at rest is implemented, using industry best practices.
+Learn more about intelligent disaster recoveryEffortless compliance
+Compliance
+Keepit makes it easier to adhere to compliance requirements, whether it’s NIS2 or GDPR. Keepit’s independent cloud provides you with the confidence that your data is stored securely. Our data centers in seven regions guarantee data sovereignty.
+Security certifications
+Keepit stores your data in our regional data centers, separate from your SaaS vendor’s data. To ensure the highest operational security standards, Keepit holds both the ISO/IEC 27001 and the ISAE 3402-II certifications (audited by Deloitte annually).
+Read more about compliance and continuityThe intelligent choice
+Effortless and transparent - a trusted partner in disaster recovery and achieving compliance. Intelligently built solutions make for an intelligent choice.
+Intelligent data protection
+Explore Keepit’s enterprise-level SaaS backup solutions
+Read the case study
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Read the case study
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+Read the case study
+âOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.
+Want to learn more? Get in touch to hear more about the Keepit platform
+Ensure business continuity with Keepit
+Get visibility on your data with intelligent data monitoring
+Trust in the compliance of your data protection strategy
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/trust-center/
+Content type: Web page
+Last modified: 2025-12-17T13:46:55+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+NIS2 Directive
+Keepit enables compliance with this EU directive by protecting digital infrastructure and sensitive data through independently stored air-gapped backups. Our 24/7 accessibility and robust recovery measures ensure both cyber resilience and business continuity, core elements of NIS2. 
+Read more about NIS2
+GDPR
+Keepit’s platform facilitates GDPR adherence with enhanced data protection, especially against ransomware. We are the only backup provider fully supporting GDPR Articles 17 and 32, helping implement necessary workflows to achieve compliance. 
+Read our GDPR whitepaper
+CER
+With Keepit’s resilient backup solutions, critical entities align with CER (Critical Entities Resilience Directive) requirements, proactively managing risks to safeguard essential services and improve resilience through secure data storage and recovery. 
+Read more about CER
+SEC Guidelines
+Meeting SEC requirements involves strong cybersecurity practices. Keepit assists by protecting vital SaaS applications like Microsoft 365 and Entra ID, offering clear risk assessments, response plans, and business continuity support for essential functions. 
+Read more about SEC guidelines
+HIPAA
+Keepit’s solutions meet HIPAA’s retention requirements by securely storing data for up to 99 years, surpassing standard SaaS capabilities. This helps organizations retain compliance with healthcare regulations and maintain critical records. 
+Get our HIPAA e-book
+DORA
+In alignment with the EU’s DORA requirements, Keepit supports the financial sector with segregated backup systems (air gapped), granular recovery capabilities, and immutable data storage, ensuring business continuity and operational resilience. 
+Read more about DORA
+
+------------------------------------------------------------

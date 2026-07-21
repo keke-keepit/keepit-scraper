@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/help/github-category/github-backup-coverage/
+Content type: Web page
+Last modified: 2026-05-29T14:55:05+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+GitHub backup coverage
+GitHubBy 
+To enable GitHub backup and restore functionality, we use the Git Native Protocol (GNP), which facilitates direct and efficient transfer of repository data, including commits, branches, and objects, between client and server, bypassing the overhead of HTTP.
+The table below shows the detailed backup and restore coverage of the latest version of Keepit for GitHub.

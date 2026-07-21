@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/help/github-category/how-github-seats-are-counted/
+Content type: Web page
+Last modified: 2026-04-29T15:07:29+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How GitHub seats are counted
+Licenses
+GitHub offers three licensing tiers — Free, Team, and Enterprise — which differ in price and capabilities. From Keepit's perspective, these tiers are irrelevant. Seat counting is based entirely on user roles, not license type.
+Roles
+What Keepit does consider are roles: members and outside collaborators. Both represent active access relationships that must be captured and restored as part of the metadata backup.
+When a customer connects a GitHub organization, all members and outside collaborators are automatically included in the backup scope. There is no option to selectively exclude individual users.
+Members
+Members are full-fledged organization participants. The default "Member" role grants access to view and create teams, participate in public team discussions, redact comments, and see the organization's overall structure. Members can be added to teams.
+Outside collaborators
+Outside collaborators are people outside the organization who have been granted access to specific repositories. Unlike members, they cannot be added to teams. This model is well-suited for consultants, contractors, or interns who need scoped repository access without full organizational membership.
+How seats are counted
+Outside collaborators are treated identically to members for seat-counting purposes. Both roles are returned by the same API endpoint, so there is no distinction between them in how they are counted or billed.
+The following account types are excluded from seat counts:
+- Suspended accounts
+- Dormant accounts
+- Service accounts
+- Bot accounts
+These do not appear in the API user list and are therefore not counted. Only active members and outside collaborators are captured in the backup and billed as seats.

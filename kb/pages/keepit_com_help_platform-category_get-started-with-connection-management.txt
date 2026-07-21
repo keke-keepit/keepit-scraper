@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/help/platform-category/get-started-with-connection-management/
+Content type: Web page
+Last modified: 2026-06-18T10:47:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Get started with connection management
+Overview
+Connection management gives you control over which applications Keepit uses to back up and restore your data. Instead of relying on a single, broadly scoped enterprise app, you can use separate, scoped apps per workload (Exchange, SharePoint, Teams, etc.) and per region if needed. This helps enforce least-privilege access while maintaining backup reliability.
+Key concepts
+What’s a “connection”?
+A Ñonnection is your tenant’s connection record in Keepit. It holds one or more applications (app registrations) and manages their permissions, authentication, authorization, and health. Connectors link to a connection, which in turn uses one or more apps.
+What is an application?
+An application in this context is a non-user identity that contains authentication information, permissions, and APIs used to read data for backup or write data for restore.
+What’s the difference between a system app and a customer-owned app?
+- System app: Pre-defined, Keepit-owned app you can install in your tenant and grant consent.
+- Custom app: Single-tenant app you register in your organization and link to Keepit for full control.
+Note: Not all data areas support both kinds of apps.
+What is a capability?
+A capability is a named set of permissions (e.g., "Exchange backup," which defines the permissions required to backup Exchange Online). Keepit maps technical API permissions to human-readable capabilities so you can consent only what’s needed.
+Enabling connection management
+Connection management is enabled per account. If you need more granular control over applications or permissions used by Keepit and don’t see the Connections tab on the Account Info page, please contact Keepit Support or your account team.

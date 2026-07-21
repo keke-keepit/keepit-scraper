@@ -1,0 +1,40 @@
+Source URL: https://www.keepit.com/blog/scarcity-of-cybersecurity-experts/
+Content type: Web page
+Last modified: 2025-08-20T00:30:47+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Is a scarcity of security experts a growing global data risk?
+And what you can do to protect your critical SaaS data
+Cybersecurity is a critical concern for all organizations. The rapid growth of technology and the increasing sophistication of cyberthreats have made it essential to have experts in the field of cybersecurity to protect against the potential risks. Add on to this the ever-expanding compliance demands from legislation such as the NIS2 Directive and CCPA, it becomes even more challenging to navigate.
+The demand for cybersecurity and IT job roles is increasing at a pace that outstrips companies' ability to recruit. Given that cybersecurity is a vital aspect of any enterprise that handles sensitive and confidential data, it is crucial to locate and retain specialized talent in this field, but how big is the problem?
+A recent report by the World Economic Forum (WEF) has highlighted a significant shortage of security experts worldwide. They believe this shortage contributes to a growing list of global risks, including cyberattacks, data breaches, and other forms of cybercrime.
+The importance of data protection and management
+With the rise in cybersecurity threats, it is essential for businesses to prioritize data protection and management. This includes securing data, preventing data loss, and complying with regulations and standards. Data protection and management solutions also help businesses maintain their reputation and customer trust, as well as improve their operational efficiency.
+According to WEF, the rapid pace of technological change has made it challenging for security experts to keep up with the latest developments, leading to this shortage of experienced professionals. WEF shares that this shortage of security experts is a major concern for organizations as it makes them vulnerable to a range of cyber threats. Cyber criminals are becoming increasingly sophisticated, and organizations need to be equipped with the necessary tools and expertise to protect themselves.
+What is the cybercrime situation now?
+The number of incidences and the costs associated with cybercrime are on a steep rise – WEF projects $10.5 trillion by 2025. Cybercrime is big business: The Conti ransomware group, according to Reuters, has targeted over 1,000 victims, garnering more than $150 million in the process. Their prolific success led to the U.S. offering a $15 million reward for information.
+Cybergangs are organized and functioning like legitimate companies – the Wired’s article “The Workaday life of the World’s Most Dangerous Ransomware Gang” tells how the Conti ransomware gang has a CEO and even an HR department. These groups sure aren’t matching the image of the hacker in a mask, in a dark room, working on a laptop computer: They’re sophisticated, skilled, and clearly very successful by these dollar figures above.
+In the face of this, companies are scrambling to protect themselves and their data, with more and more businesses understanding the risks and therefore are placing data security high on their agenda (and bolstering their security with bigger budgets). And they had better hurry: The threat environment is likely to only get worse. The World Economic Forum (WEF) Global Risks Report 2023 explores some of the most serious risks coming over the next two and 10 years.
+What's the expected global risk from cybercrime and cyber insecurity?
+Of the global risks expected to have the greatest impact over the next two and the next 10 years, “widespread cybercrime and cyber insecurity” comes in at number eight for both timespans.
+In the second visual, “cybercrime and cyber insecurity” moves all the way up to the fourth position for businesses, highlighting the heightened importance of data protection and security to companies. It’s worth mentioning that in all of these, it’s the only result within the Technological category, and perhaps the one with the most agency: Companies taking action and intervening with a data protection plan can mitigate their exposure. (More on this below.)
+Increased State Intervention: Is data backup now akin to compulsory auto insurance?
+Compliance becomes an ever increasingly important part of data protection. The trend already appears to be solidified with the European Parliament recently putting forth legislation via the NIS2 Directive which adds on increased responsibility, heightened fines toward the company and C-suite of which the latter may be subject to suspensions for failures to comply. Read blog post about the NIS2 Directive.
+“Risks from Cybersecurity Will Remain a Constant Concern”
+And here we get to the crux of the issue: According to the WEF, “These problems are compounded by a scarcity of security experts.”: A challenging situation made more difficult. According to Cybersecurity Ventures, there’s a total of 3.5 million unfilled cybersecurity jobs.
+How are companies expected to combat the increasing risk from cybercrimes and the increased demands from state and government while at the same time there are reports of an all-too-small pool of security candidates to hire from? One SaaS data protection provider effectively addresses these concerns by providing a service that follows data protection best practices.
+How Keepit can help businesses compensate for the shortage of security experts
+Keepit is a software-as-a-service company that provides dedicated data protection for companies relying on cloud SaaS data. By increasing cybersecurity and resiliency and increasing the impact of a company’s existing workforce (all with an impressive ROI: Read the blog post here), Keepit supports business growth into the future by ensuring compliance and data protection. TechTarget suggests enterprises should “support [their] existing talent” as a means of addressing the cybersecurity skills gap, specifically to “automate routine tasks.”
+Keepit provides an intuitive interface and simplified processes, an easy-to-use data protection solution that can enable personnel with less cybersecurity expertise to manage and maintain the system effectively. This can save companies the cost and time of hiring and training specialized cybersecurity experts while increasing cybersecurity posture.
+We have been able to split the responsibilities for data protection among different teams. This setup allows teams to work efficiently and independently.
+Michael Bojko
+System Engineer at Porsche Informatik
+By providing an easy-to-use cloud SaaS data backup and data management solution across a suite of SaaS applications including Microsoft 365, Salesforce, Google Workspace (to name but a few), Keepit enables companies to continue into the future with confidence. Businesses can even get Azure AD data protection for free with the Identity Basic offering from Keepit. Read about backup and recovery for Azure Active Directory.
+Compensate for the shortage of security experts by having an automated data protection and management system in place. This reduces the need for manual intervention, which can be time-consuming and requires specialized skills.
+Our everyday is busy enough with keeping everything up and running. Keepit's solution does its job in the background so that we can focus on other tasks.
+Ken Schirrmacher
+Sr. Director of IT/Interim CIO at Park 'N Fly
+Where should you start? Learn more about data management and protection
+Keepit enables companies to have peace of mind, regardless of any new legislation or cybercrime events. Learn more about our service offerings.

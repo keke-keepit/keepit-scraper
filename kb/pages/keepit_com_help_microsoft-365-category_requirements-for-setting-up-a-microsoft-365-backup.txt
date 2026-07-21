@@ -1,0 +1,37 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/requirements-for-setting-up-a-microsoft-365-backup/
+Content type: Web page
+Last modified: 2026-06-29T22:33:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Requirements for setting up a Microsoft 365 backup
+To ensure that your Keepit backup is performed correctly and to avoid problems down the line, we recommend the following when setting up your Microsoft 365 account:
+Create a unique account for the backup
+Set up a dedicated Microsoft 365 service account to handle the backup. This will prevent future problems. For example, if the employee responsible for backup leaves the company, the backup account can be passed on to someone else.
+We recommend you name the account and email as descriptively as possible (e.g., Keepit Backup / keepit_backup@company.com). This will avoid confusion as this user will be made a member of all groups.
+Assign the Privileged Role Admin or Global Admin role to the service account
+When creating the new service account, assign it the Privileged Role Admin (PRA) or Global admin (GA) role. This is essential for creating a new connector, as a service account is required to install the enterprise application and grant consent for the requested permissions.
+A PRA or GA is also required to reauthenticate a connector and for certain types of backups and restore. For more info, see Removing the Global admin role from the backup service account.
+Ensure service account is member of backed up groups and teams
+Once the connector is created, the service account will automatically become a member of all groups and teams being backed up. Service account group membership is required for all private groups in order to back up Private Group Conversations, Private Group Calendars, and Private Group Plans.
+For dynamic groups, ensure that the service account meets all membership rules applied to the group so that it can be added as a member. For more info, see Not all of my dynamic group data is being backed up.
+Assign a license to the service account
+You must assign the service account a license. This will ensure that all your data is properly backed up.
+The license is also what grants the service account access to Microsoft Groups and Teams, which in turn will allow the Keepit software to make the user a member of all Microsoft 365 Groups and Teams. This is vital because Keepit can only back up Microsoft 365 Groups and Teams that the service account is a part of.
+The following license plans give the Global admin access to Microsoft Groups and Teams: Microsoft 365 Business Basic; Microsoft 365 Business Standard; Microsoft 365 Apps for business; Microsoft 365 Apps for enterprise; Office 365 E1, E3, or E5; E4 (for anyone who purchased this plan prior to its retirement). For more info about license plans, see How do I get access to Microsoft Teams?
+The service account must also have a license for the backup of Public Folders. (One of the licenses mentioned above.)
+Grant the service account Owner level permissions
+If you want to back up Public Folders, ensure that the service account has Owner level permissions on all folders.
+If you have existing Public Folders, make sure to grant the service account Owner level permissions at the root level, as well as check that the service account has these permissions on all sub-folders down the entire hierarchy. To set Owner permissions, you can either set them manually for each subfolder, or you can use the client permissions script (https://aka.ms/PFPermissionScript) to apply permissions to subfolders.
+If you create a new Public Folder, any public folders created after this one will inherit the permissions of the parent public folder.
+Create an app registration in Entra ID and connect it to Keepit to back up Teams Chats data
+To minimize the impact of Microsoft's per-app throttling, we require you to create an app registration in your Entra ID specifically for backing up Teams Chats. This will improve overall Microsoft 365 backup performance and ensure Teams Chats backups are timely and complete. For more info, see Create an app registration in Entra ID.
+(Optional) Add the service account to Conditional Access Policies
+Include the service account in your Microsoft Entra ID conditional access (CA) policies before setting up the backup. This step guarantees that the connector authentication process meets all necessary requirements.
+Adding the service account to the CA policies allows us to proactively identify any potential authentication issues. If a CA policy requires multi-factor authentication (MFA) or imposes other restrictions, it may impact the service account's authentication. Configuring the policies beforehand helps you catch and address such issues.
+Remember, if there are any changes to the CA policies or if the service account is added to more policies after the initial connector setup, the connector will need to be reauthenticated.
+(Optional) Create AD groups for easier and better organized backup configuration
+Create dedicated groups of users from your Active Directory (your company directory in Microsoft). You will then be able to choose these AD groups in the Keepit configuration when selecting what accounts to back up, making it easy to configure the backup of multiple users at a time. This will also bring you more control over what users are being automatically added to the backup. For more info, see Selecting users for Exchange and OneDrive backups.
+Keepit supports the backup of users in different types of Microsoft 365 groups, including unified groups, security groups, mail-enabled security groups, distribution lists, and dynamic groups (security group type). For more info about groups in Microsoft, see: Compare Groups.
+In Microsoft 365, you can create groups by selecting Groups > Active groups in the left navigation pane, and then choosing Add a group. For a full guide on how to create groups, see Create a group in Microsoft 365 admin center.

@@ -1,0 +1,30 @@
+Source URL: https://www.keepit.com/blog/inside-real-threat/
+Content type: Web page
+Last modified: 2026-01-21T14:27:31+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Inside a real breach: How immutability broke the kill chainÂ
+In cybersecurity, timing is everything. Breaches don’t unfold over days or weeks, they unfold in minutes — sometimes while the coffee is still warm. During our Black Hat webinar, I walked through a real case where attackers moved fast, only to find an unbreakable barrier: immutability.
+The attack: Minutes to compromise
+It started with a single click. A support admin opened a link that looked harmless, but inside it was a token-stealing phish. Nothing flashy, no Hollywood montage, just a quiet grab.
+Within one minute the crew, later tied to the China-linked group Silk Typhoon, had a valid session cookie, and that cookie walked past multi-factor prompts and conditional access checks like it owned the place.
+In the second minute, they chained the stolen token with a zero-day vulnerability and dropped a tiny web shell into a Kubernetes pod running in an Azure cluster. One command later they dumped Microsoft 365 service principal secrets, and suddenly they had delegated rights across dozens of tenants — no alarms, no drama, but very effective.
+The perimeter collapsed almost instantly.
+The next move: Kill the evidence, kill the backups
+Attackers know that as long as backups exist, recovery is possible, so the first play is classic anti-forensics:
+- Purge audit logs to blur the timeline
+- Send bulk delete calls to take out restore points
+- Erase the evidence and remove the safety net.
+It’s simple and cruel.
+The break in the kill chain
+Then came the turn, when around minute five the plan failed. The backup storage layer used WORM (write once, read many) immutability applied at ingest. When the delete calls hit, the system answered with a hard stop: 403, object locked.
+No matter how many admin flags they flipped, history would not budge, and the storage refused to honor them. That’s the sound of an attacker bouncing off glass.
+From minutes to days: The gift of time
+The breach moved fast, but immutability stretched the incident response window into days, and in security, days are a lifetime.
+That time meant the defenders could investigate, rotate secrets, contain scope, and recover — not argue with someone on a leak site.
+The takeaway
+Backups are always a target, and the last line of defense is the first thing an attacker tries to remove. However, when backups are immutable, deletion attempts will fail, even with powerful credentials in hand.
+In this case, the difference between containment and catastrophe came down to immutability, full stop.
+If you want the full walk-through with live commentary, click on the on-demand session, and bring a coffee.

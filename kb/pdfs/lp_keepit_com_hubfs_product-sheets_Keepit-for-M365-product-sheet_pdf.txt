@@ -1,0 +1,137 @@
+Source URL: https://lp.keepit.com/hubfs/product-sheets/Keepit-for-M365-product-sheet.pdf
+Content type: PDF document
+Title: unknown
+Pages: 2
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and  
+Recovery for Microsoft 365
+Keep your business running with the best Microsoft 365 protection
+Company-wide loss of email brings disruption to every part of the business and has a ripple 
+effect — even after recovery. Microsoft sits at the heart of your operations, and with this 
+centrality comes risk, from accidental data deletion to unexpected systems downtime.
+Under the Shared Responsibility Model, protecting data falls on you and as Microsoft states, 
+“one of the most important steps you can take to protect your data is to have a reliable backup 
+and restore plan.”*
+With the market’s most comprehensive Microsoft 365 coverage, Keepit keeps your business 
+rolling with instant access to all your data, always.
+* Source: Microsoft, Learn Azure Security Fundamentals
+Unlimited storage
+Keep unlimited backups without 
+any extra costs. Free up space in 
+Microsoft, cut storage fees, and 
+advance your compliance efforts.
+Business continuity
+Keep your business running with 
+instant access to clean copies of 
+your data, from documents to user 
+permissions, anytime you need them.
+Time-saving usability
+Set up a Microsoft 365 connector in 
+minutes. Quickly find what you need 
+and restore anything, from a single 
+record to an entire dataset, in just a 
+few clicks.
+“We considered Microsoft’s backup and archiving capabilities 
+to be insufficient for our purposes and were impressed by 
+the scope of Keepit’s backup and archiving capabilities, 
+as well as the granularity of their restore function.”
+Thomas Ulrich – Head of Digital Workplace & Support Services, Saxo Bank
+THE RISK
+85% of organizations reported at 
+least one data loss incident in the 
+past 12 months.
+Source: Proofpoint “The 2024 Data Loss Landscape”
+PROVEN BENEFIT
+Keepit customers were able to 
+reduce the time needed to restore 
+data for priority users by 90% after a 
+data loss incident. 
+Source: Forrester Total Economic Impact Study 2024
+FINANCIAL IMPACT
+90% of those reporting data loss 
+incidents suffered consequences, in-
+cluding business disruption, revenue 
+loss, and reputational damage.  
+Source: Proofpoint “The 2024 Data Loss Landscape”
+
+KEY CAPABILITIES
+The best coverage
+Keepit delivers comprehensive, 
+granular backup for all key Microsoft 
+365 applications, offering unmatched 
+coverage in the market
+Unlimited retention
+Customize retention for up to 99 years 
+with no extra costs, including data 
+archiving for inactive users.
+Instant search
+Find what you need fast with Keepit’s 
+powerful search. Use filters to locate 
+emails, docs, and more. Restore or 
+share with a secure link in one click. 
+Highest security
+Keepit’s vendor-independent 
+cloud and immutable-by-design 
+architecture ensure your backups 
+stay protected.
+Proactive monitoring
+Data Protection and Anomaly 
+Detection Dashboards help maintain 
+backup integrity and health and allow 
+for early identification, investigation, 
+and remediation of risks to data.
+Secure your Microsoft 365 
+data in minutes with Keepit
+Get a demo
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on LinkedIn.
+Your data. Here today. Here tomorrow.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Take control of your Microsoft 365 data with Keepit
+WHAT WE COVER
+Exchange Online
+Outlook Mail
+Contacts
+Tasks
+Calendar
+In-Place Archives
+Public Folders
+Sub-Folders
+User Permissions
+Groups and Teams
+Chats
+Conversations
+Calendar
+Planner
+Files
+Channels
+Wiki pages
+One-on-one, 
+group, and meeting 
+chat messages
+Files in Public & 
+Private Channels
+Channel Tabs
+SharePoint
+OneDrive
+Documents (including 
+OneNote)
+Form Templates
+Style Library
+Find the 
+complete 
+coverage here.
+SharePoint
+Customization
+Document Libraries
+Lists
+Pages
+Permissions
+Settings
+Site Columns
+Site Content Types
+Term Store

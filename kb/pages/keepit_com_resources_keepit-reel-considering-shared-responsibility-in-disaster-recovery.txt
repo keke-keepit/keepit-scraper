@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/resources/keepit-reel-considering-shared-responsibility-in-disaster-recovery/
+Content type: Web page
+Last modified: 2025-08-20T02:24:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Reel: Considering shared responsibility in disaster recovery
+In this Keepit Reel, Niels van Ingen, CCO at Keepit and Brent Ellis, Senior Analyst from Forrester delve into disaster recovery and data backup. They discuss the shared responsibility model, cloud backup, and infrastructure, emphasizing the importance of having the right tools and identifying associated risks.
+Ongoing education and critical questioning are crucial for effective risk management in backup and disaster recovery strategies. This entails understanding where responsibility lies and ensuring all risks are accounted for.

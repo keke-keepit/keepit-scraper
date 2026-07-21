@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/resources/surviving-ransomware-webinar-key-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Surviving ransomware: Webinar key takeaways
+ESG conducted their most recent ransomware study in 2023, surveying 600 enterprise IT and cybersecurity professionals across North America and Western Europe.
+To discuss the findings of the report, Keepit and ESG organized an industry webinar. The webinar panel included Paul Robichaux, Microsoft MVP and Keepit’s Senior Director of Product Management, Dave Gruber, Principal Cybersecurity Analyst at ESG, and Christophe Bertrand, Practice Director at ESG.
+You can watch the on-demand webinar to listen to the discussion: Surviving ransomware: 2023 data protection insights and strategies.
+ 
+You can download our key takeaways document to get all the most important insights, such as: 
+- 75% of organizations experienced at least one successful ransomware attack in 2023.
+- Nearly one in three express serious concerns about the security of their backups.
+- Only 16% of organizations were able to recover 100% of their data.
+The handout includes our data protection checklist for you to assess how well you're currently prepared to protect your data from the ransomware threat and our recommendations for what a winning ransomware recovery and data protection strategy looks like.

@@ -1,0 +1,54 @@
+Source URL: https://www.keepit.com/blog/entra-id-cross-tenant-restore/
+Content type: Web page
+Last modified: 2026-03-16T11:49:05+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Cross-tenant restore for Entra ID: Test, verify, and rebuild identity with KeepitÂ
+When identity fails, everything that depends on it fails, too.
+Entra ID is a core identity and access management (IAM) service for Microsoft 365 and your connected apps. It’s the control plane that determines who can sign in and what they can access. If users can’t authenticate (or if security teams can’t trust the tenant), collaboration and access can grind to a halt.
+For many organizations, business continuity isn’t just about recovering data, it’s about restoring the identity layer that makes access possible in the first place.
+If you’re not already backing up Entra ID, start there. Entra ID contains cloud-only objects and configurations that on-prem approaches don’t fully cover, and native recoverability isn’t designed to be a comprehensive backup strategy. For a deeper explainer on why Entra ID backup matters, see our earlier blog post.
+Now comes the next question: How do you prove you can restore (and safely) without experimenting in production? We’re introducing cross-tenant restore, a new feature in Keepit’s Entra ID offering, to help customers test, verify, and rebuild identity in a separate tenant.
+What is cross-tenant restore for Entra ID?
+Cross-tenant restore is a new feature in Keepit’s Entra ID offering that lets you restore Entra ID objects from one Microsoft tenant into another tenant.
+Instead of restoring only back into the production tenant, you can rebuild directory objects and configuration in a clean, separate test tenant — ideal for sandbox testing, change verification and recovery planning.
+With Keepit, cross-tenant restore supports restoring key Entra ID objects, including:
+- Users
+- Groups
+- Administrative units
+- Roles
+- Policies
+- App registrations
+- Service principals
+Why cross-tenant restore matters
+Backing up identity is essential. But for many organizations, the real risk shows up later when it’s time to validate a restore or test a change and production is the only place to do it.
+Cross-tenant restore addresses that problem directly by giving you a safe place to restore identity data and confirm it’s recoverable.
+1) Verify your backup and restore process, support compliance testing requirements
+Backups are only as valuable as your ability to restore them. Cross-tenant restore makes it possible to validate recovery outside your production tenant.
+That can be useful even before a crisis. A restore into a test tenant gives teams tangible evidence that identity objects and configurations can be recovered. It also helps build confidence in both the process and the platform.
+This kind of verification is foundational to business continuity planning. It can also support resilience expectations in regulations such as DORA, which emphasize documented and tested continuity and recovery capabilities.
+2) Test Entra ID changes without risking production
+Entra ID changes often have outsized impact. Conditional Access policies, role assignments, and app registrations can affect sign-in behavior and access across the organization.
+With cross-tenant restore, teams can spin up a test tenant that mirrors production identity configuration closely enough to:
+- Validate planned changes,
+- Experiment with policy adjustments,
+- Troubleshoot “what if” scenarios,
+- And confirm expected outcomes before rollout.
+This makes change management safer, and it reduces the chance that a well-intended update becomes an outage. Since Entra ID licenses are free of charge, it’s feasible to keep a secondary Entra ID tenant available for ongoing verification and change testing. Cross-tenant restore makes it practical to populate that tenant with the identity objects you need, without putting production at risk.
+3) Business continuity when the primary tenant is down or untrusted
+Cross tenant support is important in a number of disaster scenarios. If the primary tenant is compromised or untrusted, cross-tenant restore lets you rebuild critical Entra ID objects in a clean tenant so you can plan and execute recovery without relying on the affected environment.
+That matters for business continuity because Entra ID is what enables access. When the primary tenant is down, misconfigured, or undergoing cleanup after an incident, users may be unable to sign in and apps that depend on Entra ID may stop authenticating. Cross-tenant restore gives you a way to recreate the identity layer in a separate tenant so key employees can re-establish access to essential applications and continue critical work while the primary tenant is being remediated.
+This is best understood as partial disaster recovery as you’re restoring identity objects and configuration, not instantly recreating your entire Microsoft 365 environment. Full Microsoft 365 or Power Platform functionality in a secondary tenant still depends on licensing and provisioning, so it’s vital to check licenses in the target Entra ID tenant to ensure everything is restored correctly.
+How it works in Keepit
+The workflow is designed to be straightforward:
+- Choose same-tenant restore or cross-tenant restore
+- Select the target domain in the destination tenant
+- Choose the snapshot from which the data should be restored
+- Select which data areas to restore (users, groups, admin units, roles, policies, app registrations, service principals, and more)
+- Review a detailed summary before execution, including counts and scope
+In practice, that means you can restore exactly the Entra ID objects you need, either back into the same tenant or into a separate tenant, with a clear preview of scope before anything changes.
+Version 1 — and built to evolve
+Cross-tenant restore is available as an initial release (V1). We’re listening closely to customer feedback to shape what comes next, and we’re expanding on that coverage driven by evolving customer needs.
+Read more about Keepit for Entra ID.

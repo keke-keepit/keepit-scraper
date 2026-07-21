@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/help/platform-category/keepit-security-and-gdpr-compliance/
+Content type: Web page
+Last modified: 2026-04-30T15:02:30+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit security and GDPR compliance
+Keepit Security and Compliance
+For decades, a central aspect of any serious backup implementation would be the storage of backup tapes in a vault off site, also known as the "air gap." This simple procedure ensured that even if your entire infrastructure was compromised you still had a full copy of all your recent data. In other words; you were practically invulnerable to ransomware.
+At Keepit we designed our platform to provide the same level of security for your modern cloud workloads. This was not an afterthought, this was not bolted on, this was a core principle from when we designed our service.
+At the technical level, we employ blockchain technology, cryptography and purpose-built APIs, systems, and service segregation. Each of our regions operate active-active from separate physical locations to guard not just against the forces of criminals seeking to compromise your data, but to protect against the forces of nature too.
+For you as a user, you will notice that - just like a tape in a vault - you cannot alter your backup datasets. You cannot re-write history. You cannot even delete your account without going through a 30-day hold. What this means to you is that an attacker who takes your identity will face the same restrictions. In other words, you are again practically invulnerable to ransomware.
+GDPR Article 17
+A common question that arises from this is how do we comply with GDPR Article 17 (The Right to be Forgotten), now that the backup history cannot be modified. This is a fair question, especially as (at the time of this writing) there are no court rulings on this yet.
+It is the position of the UK Information Commissioner's Office (ICO) that a company needs to comply with a valid Article 17 request to delete data on live systems (your primary systems). The ICO accepts that data can typically not be deleted immediately from backup systems, and that such data therefore will reside in the backup set until the end of the backup retention period.
+At Keepit we find this to be a very reasonable interpretation of the legislation as it grants individuals the highest protection possible while still accepting the reality of real-world backup systems and the inherent conflict between the necessity of immutable backup and the desire for dataset expiry.
+We believe that Keepit is an essential tool in helping you on your path to GDPR compliance. Like with any other legislation you will need to implement workflows to actually achieve compliance.
+SEC §240.17a-4
+SEC part 240 regulates among other things the use of electronic media and how to back it up. It mandates not only six plus years of retention on your backup (which Keepit will readily provide) but also two years of easy access (which again Keepit will not just provide but generously exceed as your entire history is always easily and instantly accessible).
+Further, Paragraph (f)-2-(ii) mandates that backups must be immutable. This was a natural byproduct of the old "tape in a vault" backup systems, but in the modern world of cloud backup not all vendors are able to provide this level of security.
+As Keepit is designed from the ground up to provide this level of security, we believe that Keepit is an essential tool in helping you on your path to SEC compliance.

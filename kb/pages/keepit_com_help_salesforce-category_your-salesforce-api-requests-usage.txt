@@ -1,0 +1,45 @@
+Source URL: https://www.keepit.com/help/salesforce-category/your-salesforce-api-requests-usage/
+Content type: Web page
+Last modified: 2026-02-25T11:39:58+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Setting your Salesforce API request thresholdÂ
+Keepit uses Salesforce APIs to back up and restore your Salesforce data.
+Salesforce provides each organization with a fixed daily allocation of API requests, shared across all connected integrations and applications. The total number of available API requests depends on your Salesforce edition, the number of user licenses, and any additional API capacity you may have purchased. Once this daily limit is reached, further API calls are blocked until the allocation resets.
+To help you manage this limit, Keepit allows you to define a minimum threshold for remaining API requests. Keepit continuously monitors Salesforce’s “API requests remaining” value and, based on the percentage you configure, automatically determines whether backup and restore jobs should continue running or pause to avoid exceeding your limit.
+Backup process
+When the connected applications, including Keepit, reach the configured threshold, any ongoing backups or restores will pause.
+In case of a backup, a partial snapshot is created, and the backup will resume from where it paused once new API calls become available (midnight Pacific Time). Note that data in partial snapshots is available to you in the Keepit application.
+Default threshold
+The default threshold is set to 50%. This ensures that 50% of the total number of your available API requests remain reserved for (unexpected) critical operations in your applications. If you notice a high number of partial backups and don’t need 50% available for critical usage, you may want to decrease the threshold.
+Initial backup
+The initial backup is a full backup and requires more API requests than subsequent incremental backups. We recommend setting the threshold higher for the initial backup and pausing any non-critical applications that are using API requests. This helps prevent bottlenecks and ensures your Salesforce data is secured more quickly.
+Once the initial backup is completed, set the percentage back to a level that preserves enough API requests for (unexpected) critical operations while still allowing room for efficient incremental backups.
+Bi-monthly backup
+Every 30th backup, we perform a full scan of your entire Salesforce database to ensure that no items were missed in the daily backups. Due to the volume of data scanned, these backups can take longer than usual and consume more API requests.
+Restore process
+If a restore fails because the limit was reached, you can try increasing your Salesforce API request and then restoring again. Once complete, decrease the limit again to your preferred usage.
+Creating a new connector
+If you have reached your Salesforce API request limit, you won't be able to create a new connector. Please try again after new API calls become available (midnight Pacific Time).
+Adjusting your Salesforce API request limit in Keepit
+You can define a custom percentage of your Salesforce API requests that must remain available in your Salesforce organization. This percentage applies to total API usage across all connected applications, not just Keepit.
+Keepit consumes API requests to run its jobs. When your remaining requests reach the percentage you defined, Keepit will automatically pause all jobs to avoid using your organization’s reserved API capacity.
+How the limit works
+- Lower limits allow Keepit to use more API requests.
+ A very low threshold gives Keepit access to most of your available requests.
+ For example: Setting the limit to 0% allows Keepit to use all available API requests until none remain in Salesforce.
+- Higher limits restrict how many requests Keepit can use.
+ If the limit is set too high, Keepit might not have enough API requests to run or complete jobs.
+ For example: With a 90% limit, Keepit can use only the remaining 10% of your API requests, which may not be sufficient.
+100% is not allowed
+You cannot set the threshold to 100%, because Keepit requires access to a portion of your available API requests to operate properly.
+To adjust the API request limit:
+1. Open the Salesforce connector configuration and open the API limit tab.
+2. Use the slider to set your preferred API request threshold.
+3. Click Save.
+Audit log
+Any changes made to the API limit are automatically recorded in the audit log.
+Increase your API limit in Salesforce
+If your default API limit in Salesforce is insufficient for your business requirements, you can request a temporary or permanent increase to the limit. For instructions on how to do this, refer to Salesforce's documentation: Increase your organization's API limit

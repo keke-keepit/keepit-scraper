@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/help/platform-category/using-the-data-monitoring-dashboard/
+Content type: Web page
+Last modified: 2026-06-23T22:17:01+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Using the Data Monitoring dashboard
+The Data Monitoring Dashboard provides valuable insights into data changes between snapshots, allowing you to monitor and identify unusual activity in data.
+Please note that only the Master Admin has access to this page.
+Using the charts
+Snapshot size: line chart
+Follow data growth trends over time.
+The chart displays data from the most recent 60 snapshots or the current number of completed snapshots if fewer than 60.
+Changed item count and data size: line chart
+Select Added, Modified, or Removed from the dropdown list.
+- Added – items added since the last backup
+- Modified - items changed since the last backup
+- Removed – items removed from the backup because they no longer exist in the SaaS application
+Track the following trends over time:
+- Changed item count: Number of added, modified, or removed items
+- Changed item data size: Amount of data affected by the added, modified, or removed items
+The chart displays data from the most recent 60 snapshots or the current number of completed snapshots if fewer than 60.
+Changed item data size: pie chart
+View the breakdown of the size of added, modified, and removed items for the current day or for the last week.
+Notes:
+- In certain scenarios, added items may be displayed as "modified." This occurs when an item is partially added during a previous backup, such as when the item is still uploading to the cloud storage when the Keepit backup is initiated. Consequently, the snapshot change for added items won't incorporate the size of this file but will be included in the items count.
+- When a new connector is added, the number of added items in the first snapshot may be significantly higher in comparison to the subsequent snapshots. As a result, the added items line may be displayed very close to the bottom of the chart, making it challenging to see the comparison. After a number of snapshots are made, it will become easier to compare the data.

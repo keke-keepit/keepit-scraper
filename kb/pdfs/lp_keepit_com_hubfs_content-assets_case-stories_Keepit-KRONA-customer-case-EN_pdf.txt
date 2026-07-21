@@ -1,0 +1,150 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-KRONA-customer-case-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-07-21
+
+============================================================
+
+Krona revolutionizes security 
+and data protection of their 
+Google Workspace with  
+Keepit and IT partner Movti
+Customer case:
+Krona
+
+Recently, Krona went through a process of 
+improving its internal information security, thanks 
+to its partnership with Movti and the adoption of  
+Keepit’s backup and recovery services.  
+Krona’s cybersecurity challenges  
+Even though the team at Krona was aware of the 
+security resources offered in products it was 
+already using, the company was experiencing 
+difficulty with the information retention period the 
+former plans were offering. 
+In other words, keeping these records for longer 
+than necessary was an issue that left much to be 
+desired at the time. 
+The reality of not having a unified, easily 
+accessible platform for making fast backups and 
+displaying information was also something the 
+company’s IT team was missing. 
+Customer case:
+Krona
+Consulting with Movti was key to success  
+At this time, Movti was already Krona’s partner in 
+the Google Workspace project, which was also 
+a success story for deploying and adopting the 
+solution. 
+Gilharde Wasneski, Krona’s Information 
+Architecture and Security Coordinator, 
+explained that the company needed to protect 
+its information, and there were several suppliers 
+offering solutions for doing this. They had 
+confidence in Movti as their business partner, so 
+when Movti presented the Keepit solution as the 
+ideal option for the challenges we faced, Krona 
+was confident that this was the right solution. 
+“POC (proof of concept) was carried out where 
+our technology team tested the product. 
+Through this trial, we saw Keepit’s  potential and 
+how it met our needs.” 
+– Gilharde Wasneski, Information Architecture and Security 
+Coordinator at Krona
+
+About Krona
+Krona is a leading Brazilian company in 
+the pipes and fittings market, offering 
+an extensive catalog of products within 
+the civil construction, infrastructure, 
+agricultural and industrial sectors
+Founded in 1994, the company’s main 
+focus is on quality, innovation and 
+sustainability in its products. With a 
+successful track record, the company 
+today stands out for its technical 
+expertise, production capacity and 
+commitment to sustainable development.
+Customer case:
+Krona
+The process of deploying and using Keepit 
+After testing and finalizing negotiations, it was time to 
+deploy Keepit.
+A major differentiator is its intuitive, user-friendly interface, 
+allowing users to protect their important data efficiently, 
+guaranteeing the security and integrity of the information.
+“The deployment process was very quick; every-
+thing happened within the same week. Its usability 
+is truly a differentiator for both the IT team and our 
+colleagues.” 
+– Gilharde Wasneski, Information Architecture and  
+Security Coordinator at Krona
+Results and the impact of using the solution
+After using the solution, today Krona sees significant 
+improvements throughout the company’s information 
+security process - thanks to Keepit’s resources and how  
+easy it is to use. 
+The solution has produced important results, such as:
+•	
+Greater data security and regulatory compliance 
+•	
+Increased operational efficiency in the IT team 
+•	
+Reducing the burden on local infrastructure; 
+•	
+Cost savings (when compared to conventional solutions) 
+•	
+Greater support for growth and innovation 
+•	
+Rapid recovery after data loss  
+•	
+Reduced risk of failures and interruptions
+
+Keepit future proof
+Take the next step toward protecting your SaaS data
+Keepit provides next-level SaaS data protection 
+purpose-built for the cloud, by securing data in a 
+vendor-independent cloud to safeguard essential 
+business applications, boost cyber resilience and 
+future-proof data protection.
+Headquartered in Copenhagen with offices and data 
+centers worldwide, over ten thousand companies 
+trust Keepit for its ease of use and effortless backup 
+and recovery of cloud data.   
+HQ - Copenhagen
+Denmark
+Keepit A/S
+Per Henrik Lings Allé 4, 7.
+2100 København, Denmark
+CVR: 30806883
++45 8987 7792
+sales@keepit.com
+Dallas, Texas
+United States
+Keepit USA Inc.
+3232 McKinney Avenue Suite 820 
+Dallas TX 75204, USA
+TIN: 85-358 6335
++1 469-461-4892
+sales@keepit.com
+London
+United Kingdom
+Keepit Technologies UK, LTD.
+Warnford Court
+29, Throgmorton Street
+London EC2N 2AT, UK
+Company reg. no.: 13785045
+sales@keepit.com
+Munich
+Germany
+Keepit Germany GmbH
+Maximiliansplatz 22
+D-80333 München
+Amtsgericht München
+HRB 270094
+Geschäftsführer Morten Felsvang
+sales@keepit.com
+© 2024 Keepit. All rights reserved.
+www.keepit.com
+Request demo

@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/help/monday-category/create-a-monday-connector/
+Content type: Web page
+Last modified: 2026-06-22T13:15:42+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create a Monday connector
+Requirements
+We recommend creating a dedicated user with admin permissions in your monday.com account.
+These permissions ensure the user has the access needed to back up and restore data.
+Create a connector
+Follow these steps to create a monday.com connector and set up your backup configuration.
+1. On the Connectors page, selectâ¯Add connectorâ¯>â¯Add monday.com Ñonnector.â¯
+2. Clickâ¯Sign inâ¯to begin the authentication process.
+3. In the Monday sign-in page, enter the credentials of an admin account.
+4. Review the permissions requested by the Keepit application and select Authorize to grant access.
+5. After authentication, you'll be redirected to Keepit where you can configure your connector.
+Here you can:
+- Change the name of the connector
+- Manage user access to the connectorâ¯by selecting theâ¯lockâ¯icon
+- Limit the retention periodâ¯by selecting theâ¯calendarâ¯icon
+6. Selectâ¯Create.
+Your connector will be created, and the first backup will be scheduled.â¯

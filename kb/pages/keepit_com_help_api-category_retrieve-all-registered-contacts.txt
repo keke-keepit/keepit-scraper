@@ -1,0 +1,50 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-all-registered-contacts/
+Content type: Web page
+Last modified: 2025-10-16T09:55:32+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve all registered contacts
+This command retrieves all contacts registered for the indicated account.
+API request
+Method GET
+/users/{account_id}/contacts
+Example
+Method GET
+https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka/contacts
+Response
+Code: 200 OK
+Response body:
+<contacts>
+    <type>f</type>
+    <type>e</type>
+    <type>p</type>
+</contacts>PowerShell script
+try {
+    $username = '<Token username>'
+    $password = '<Token password>'
+    $userId = '<Account ID>'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $url = "https://dk-co.keepit.com/users/$userId/contacts"
+    $response = Invoke-WebRequest -Uri $url -Method GET -Headers $headers -ErrorAction Stop -TimeoutSec 10
+    $xmlContent = [xml]$response.Content
+    foreach ($node in $xmlContent.documentElement.ChildNodes) {
+        Write-Host "$($node.Name): $($node.InnerText)"
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}Additional information
+Only one contact is allowed per contact type. The response will list all contact types—and therefore all registered contacts—for the specified account.
+The supported contact types are:
+- p – Primary contact
+- e – Emergency contact
+- f – Financial contact
+- l – Legal contact

@@ -1,0 +1,63 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-list-of-invoices-for-account/
+Content type: Web page
+Last modified: 2026-04-01T10:25:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve list of invoices for account
+This command retrieves a list of all invoices ever issued for an account.
+API request
+Method GET
+/users/{account_id}/invoices
+Optional additional header
+Key: Accept
+Value: application/vnd.keepit.v1+xml
+Example
+Method GET
+https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka/invoices/
+Response
+Code: 200 OK
+Response body:
+<invoices>
+    <invoice>
+        <reference>agn1sfs6hcemt</reference>
+        <product>1dht2j-5q7osj-rhcizy</product>
+        <product-name>Billing_quad</product-name>
+        <issued>2024-07-20</issued>
+        <currency>EUR</currency>
+        <total>487.08</total>
+    </invoice>PowerShell script
+try {
+  $domain = 'https://dk-co.keepit.com' 
+  $username = '<API Token username>'
+  $password = '<API Token password>'
+  $userId = '<Account ID>'
+  $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+  $headers = @{
+      "User-Agent" = "PowerShell-Keepit-API-Agent-1.0"
+      "Authorization" = "Basic $basicauth"
+      "Accept" = "application/vnd.keepit.v1"
+  }
+  $url = "$domain/users/$userId/invoices"
+  $response = Invoke-WebRequest -Uri $url -Method 'GET' -Headers $headers -ErrorAction Stop -TimeoutSec 10
+  [xml]$xmlContent = $response.Content
+  foreach ($invoice in $xmlContent.SelectNodes("//invoice")) {
+      foreach ($node in $invoice.ChildNodes) {
+          Write-Host "$($node.Name): $($node.InnerText)"
+      }
+      Write-Host "__________________________"
+  }
+}
+catch {
+  $line = $_.InvocationInfo.ScriptLineNumber
+  Write-Host "Cannot query Keepit API due to: $_"
+  Write-Host "at line $line"
+}Script result
+_________________________ reference: agn1sfs6hcemt product-name: Billing_quad issued: 2024-07-20 currency: EUR total: 487.08 ________________________ reference: agn1sfs6hd1ld product-name: Billing_quad issued: 2024-06-20 currency: EUR total: 1002.45 ________________________
+Additional information
+- The response can have the accept header application/vnd.keepit.v0+xml or application/vnd.keepit.v1+xml.
+key – Accept
+value – application/vnd.keepit.v1+xml
+- If the header is omitted, the default version (v0) is used.
+- In v1, an additional <product> element is included in the response.

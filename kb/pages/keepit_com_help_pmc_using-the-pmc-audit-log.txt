@@ -1,0 +1,82 @@
+Source URL: https://www.keepit.com/help/pmc/using-the-pmc-audit-log/
+Content type: Web page
+Last modified: 2025-03-11T17:10:29+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Using the PMC Audit Log
+The audit log records events initiated by all users on your PMC account.
+How do I access the audit log?
+Partner and MSP Partner users have access to the audit log.
+The audit log page can be opened by clicking on Audit Log in the left menu in the PMC.
+What does the audit log show?
+The following information is included for each event recorded by the audit log:
+- Event: Event that occurred
+- User: User who initiated the event
+- Area: Type of event
+- Company name: The company name of the impacted account
+- Account ID: Account ID of the affected account
+- IP address: IP address of the user who initiated the event
+- Time: Date and time the event occurred
+What types of events does the audit log track?
+The log is categorized by user, account, security, and subaccount events.
+- User events track all events related to account sign-ins, tokens, and users
+- Account events track changes to account details
+- Security events track changes to SSO and MFA settings
+- Subaccount events track changes made to partner and customer subaccounts
+What events does the audit log record?
+The audit log records every time a user:
+User events
+- Creates secondary token (when a user signs in to PMC or when an API token is created)
+- Deletes secondary token (when a user signs out of PMC or API token is deleted)
+- Creates new user
+- Changes username
+- Changes user email
+- Changes user expiration date
+- Changes user password
+- Changes user role
+- Deletes user
+Account events
+- Changes company email
+- Changes company name
+- Changes account language
+Security events
+- Enables SSO
+- Disables SSO
+- Creates SSO configuration
+- Edits SSO configuration
+- Deletes SSO configuration
+- Enables MFA
+- Disables MFA
+- Updates MFA settings: Trusted IPs
+- Updates MFA settings: TOTP
+Subaccount events
+- Creates new account
+- Deletes account
+- Changes subaccount language
+- Changes product
+- Creates custom property
+- Edits custom property
+- Deletes custom property
+- Adds product to subaccount product portfolio
+- Changes company name
+- Changes contact email
+- Creates new user
+- Changes username
+- Changes user email
+- Changes user expiration date
+- Changes user password
+- Changes user role
+- Deletes user
+Note
+In some cases, the log will show two MFA-related events even if just one action was taken.
+If TOTP was previously enabled and then a user adds or edits an IP range, or Ñf an IP range was previously set and then a user enables TOTP, then you will see in the logs two messages:
+Updated MFA settings: Trusted IPs
+Updated MFA settings: TOTP
+Filtering audit logs
+You can enter terms in the filter field to narrow down the audit data.
+You can also use the available filter categories by selecting the filter icon. Make your selections and then select Apply filters.
+Downloading the audit log
+You can download a CSV file of the audit log by selecting the download icon in the toolbar.
+If you filter the list before starting the download, the CSV file is also filtered this way.

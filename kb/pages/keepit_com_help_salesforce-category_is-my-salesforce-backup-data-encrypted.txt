@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/help/salesforce-category/is-my-salesforce-backup-data-encrypted/
+Content type: Web page
+Last modified: 2025-03-11T20:13:36+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Is my Salesforce backup data encrypted?
+If the system admin that was used to create the connector has the "View Encrypted Data" permission, data in the backup will not be encrypted. After a restore it will be encrypted by Salesforce again, using the currently deployed encryption key.
+If the system admin doesn't have the "View Encrypted Data" permission, data in the snapshot will be masked and we will not be able to restore it.

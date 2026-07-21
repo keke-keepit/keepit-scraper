@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/help/google-workspace-category/check-if-google-user-is-an-admin-who-can-create-connector/
+Content type: Web page
+Last modified: 2025-03-11T20:16:34+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Check if Google user is an Admin who can create connector
+Sign in to http://admin.google.com/ with your Google admin credentials.
+- If you are still on http://admin.google.com/ and can see the admin panel, then your Google user is an administrator who can create a Google Workspace connector.
+- If you are redirected to https://apps.google.com/user/hub and can see the Your apps panel, then your Google user is a regular user who cannot create a Google Workspace connector.

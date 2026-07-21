@@ -1,0 +1,163 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Pacific-National-customer-case-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-07-21
+
+============================================================
+
+Pacific National gains peace 
+of mind for the long haul with 
+Keepit’s cloud backup solution
+Customer case:
+Pacific National
+
+Managing the risk of data loss was critical 
+Prior to working with Keepit, Pacific National 
+carried out a series of risk assessments and 
+determined that the native restore tools from 
+Microsoft were not as efficient  or user-friendly 
+when compared to what Keepit could offer. With 
+the conclusion that a major Microsoft 365 cyber 
+incident could lead to mass data loss for their 
+organization, Pacific National turned to Keepit 
+for its independent, third-party backup and 
+recovery solution.
+Essentially, even if Microsoft is having service 
+problems, Pacific National would still be able 
+to reliably access their data since all backups 
+are separate from Microsoft’s native backup 
+solution. With Keepit, their organization can now 
+reliably back up Microsoft 365, Microsoft Entra ID, 
+Microsoft DevOps, and Microsoft Dynamics 365 – 
+and rest assured that their data will be available and 
+recoverable even in the event of an unexpected 
+cyber event or accidental data deletion.
+“The native restore tools from Microsoft are not as 
+efficient or user-friendly as Keepit’s backup and 
+recovery. We do not want to risk data loss in the 
+event of a major Microsoft 365 incident. Keepit’s 
+tools save my engineer’s significant time”
+- Wilbur Palijo 
+IT Infrastructure Manager 
+Pacific National
+Customer case:
+Pacific National
+Australia’s largest private rail freight company, Pacific National, chose Keepit to protect their 
+business-critical cloud data. In an initiative to ensure that the organization has the most secure 
+data backup and recovery solution in place, the organization chose Keepit due to its unparalleled 
+independent cloud data coverage (especially the critical access to Microsoft Entra ID) – and the 
+promise that the business can always access their data – even in the event of a cyberattack.
+
+About Pacific National:
+As Australia’s largest private rail freight 
+company, Pacific National is integral in 
+keeping Australia’s economy moving. With 
+a rich history dating back to 1855, they 
+are incredibly proud of their heritage and 
+the essential role they continue to play in 
+supporting Australia’s supply chain.
+The company is built on solid foundations 
+with a team of dedicated people, guided by 
+common values, working together as one. 
+They care about each other and the work 
+they do. Because of this, ‘we care more’ is 
+the Pacific National core philosophy.
+A heavy reliance on access to Microsoft Entra ID 
+Pacific National shares that they, like many organizations, 
+are immensely dependent on access to Microsoft Entra ID. 
+Loss of access would impact business operations, disrupt 
+the nations supply chain, and potentially result in financial 
+losses. Causing a negative domino effect across other 
+cloud applications, Pacific National would face significant 
+downtime if access to Microsoft Entra ID were blocked.
+The organization chose Keepit for Entra ID due to its ability 
+to mitigate accidental or malicious object deletions. The 
+solution provides historical records of configuration and 
+policy changes. Additionally, an impressive list is protected 
+in the Entra ID back up, including: users, devices, groups, 
+objects, app registrations, service principals, conditional 
+access policies, and compliance policies.
+Entra ID holds the key to the organization’s business critical 
+data; with Keepit for Entra ID in place, Pacific National can 
+rest assured that this data is fully secure and recoverable.
+‘Keepit ticks all the boxes’ 
+Pacific National evaluated various SaaS backup solutions 
+and ultimately chose Keepit due to a range of benefits and 
+features provided by the solution. The private rail freight 
+company cites ease of use, product maturity, and backup 
+frequency as their top reasons for choosing the solution.
+A broad array of global backup data centers, dedicated 
+technical support, and cost-effectiveness were also 
+key factors in selecting Keepit. With seamless product 
+maintenance, the solution proved to be a tool that could 
+deliver the organization’s needs while being extremely user-
+friendly and taking up minimal time resources for the team.
+“Fortunately, we have not lost access to Entra ID, 
+and we hope that we never do, as the consequences 
+would be catastrophic. Backing up our data with 
+Keepit for Entra ID ensures that we never lose 
+access to this business-critical data – which 
+provides our organization with peace of mind.”
+- Tony Azzi 
+Senior Infrastructure Engineer 
+Pacific National
+“Keepit is a reliable, robust, 
+and a mature backup 
+solution. It allows for 
+granular recovery of Entra 
+ID, Microsoft 365, and other 
+cloud workloads with ease.” 
+- Tony Azzi 
+Senior Infrastructure Engineer 
+Pacific National
+Customer case:
+Pacific National
+
+Keepit future proof
+Take the next step toward protecting your SaaS data
+Keepit provides a next-level SaaS data protection 
+platform purpose-built for the cloud, by securing 
+data in a vendor-independent cloud to safeguard 
+essential business applications, boost cyber 
+resilience and future-proof data protection.
+Headquartered in Copenhagen with offices and data 
+centers worldwide, over ten thousand companies 
+trust Keepit for its ease of use and effortless backup 
+and recovery of cloud data.
+HQ - Copenhagen
+Denmark
+Keepit A/S
+Per Henrik Lings Allé 4, 7.
+2100 København, Denmark
+CVR: 30806883
++45 8987 7792
+sales@keepit.com
+Dallas, Texas
+United States
+Keepit USA Inc.
+3232 McKinney Avenue Suite 820 
+Dallas TX 75204, USA
+TIN: 85-358 6335
++1 469-461-4892
+sales@keepit.com
+London
+United Kingdom
+Keepit Technologies UK, LTD.
+Warnford Court
+29, Throgmorton Street
+London EC2N 2AT, UK
+Company reg. no.: 13785045
+sales@keepit.com
+Munich
+Germany
+Keepit Germany GmbH
+Maximiliansplatz 22
+D-80333 München
+Amtsgericht München
+HRB 270094
+Geschäftsführer Morten Felsvang
+sales@keepit.com
+© 2024 Keepit. All rights reserved.
+www.keepit.com
+Request demo

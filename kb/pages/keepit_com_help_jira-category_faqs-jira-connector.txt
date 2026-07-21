@@ -1,0 +1,64 @@
+Source URL: https://www.keepit.com/help/jira-category/faqs-jira-connector/
+Content type: Web page
+Last modified: 2026-01-30T12:10:15+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Jira connector FAQs
+Why isn't my backup starting?
+If your connector isn’t starting a backup, check the following:
+- Organization ID
+ Make sure you entered only your Atlassian domain during connector creation, for example:
+ your_company.atlassian.net
+- User permissions
+ Verify that the user who created the connector has all required Jira permissions.
+Can I modify or edit a connector after creating it with the wrong Organization ID?
+No, you can’t edit the Organization ID after a connector is created. If an incorrect Organization ID is used, the Jira connector won’t start backing up data. In this case, we strongly recommend creating a new connector with the correct Organization ID.
+Should I use a dedicated user for the connector?
+Yes, we strongly recommend creating and using a dedicated Atlassian user specifically for the connector.
+Avoid using Atlassian service accounts, as they often come with restrictions or inherited permission limitations that may affect the connector’s ability to access all required Jira data and projects.
+Using a dedicated user ensures:
+- Full transparency of permissions
+- Easier troubleshooting
+- Stable access without unexpected permission changes
+- Consistent connector behavior during backup and restore operations
+Make sure this dedicated user has all necessary project and system permissions before creating the connector.
+I created a connector using the wrong user. Can I change the user?
+Yes, you can change the user, but:
+- The new user must have identical permissions and settings as the original user.
+- After updating the permissions, you must reauthenticate the connector.
+Recommended:
+Create a new connector using the new user, verify that the data is correct, and then delete the old connector.
+Why isn't all my data visible in the snapshot?
+Jira’s API shares data in small portions, so the first snapshot will include only some of your data.
+With each backup, the snapshot will grow until all the data has been backed up.
+My backup size decreased in the last backup. Why?
+This usually indicates a permissions issue.
+Please verify that the connector user still has full access to:
+- All relevant projects
+- All required project settings and entities
+If nothing has changed on your end, contact support for assistance.
+Why am I receiving a 404 error in some projects?
+404 errors typically appear in Service Desk / JSM projects when the connector user does not have access to certain work types / request types.
+How to fix this:
+- Navigate to the affected project in Jira.
+- Go to Project Settings > Request Types / Work Types.
+- You will likely see that the connector user does not have access.
+- Go to Access / People, and add the user as a Project Administrator.
+- Return to Request Types and confirm the user can now view all work types.
+Why is my project failing to restore?
+A project might fail to restore for two main reasons:
+- The project is team managed.
+ Due to Jira API limitations, team-managed projects cannot be restored.
+- The project is currently in Jira’s “Trash.”
+ If the project is in the trash, the restore will fail. Recover it from the trash first.
+Why are issue IDs/keys different after a restore?
+Jira does not allow issues to be created using the original IDs or keys. When an issue is restored, Jira creates a new issue and assigns it a new ID and key.
+If your workflows depend on old issue keys/IDs, you’ll need to manually update any linked items to point to the newly created issue.
+Why are some issue fields missing after a restore?
+Due to limitations in the Jira API, not all issue fields can be restored. As a result, some differences in issue appearance or metadata may be expected.
+Some differences in issue appearance or metadata should be expected.
+Why do restored issue comments show the restore date instead of the original date?
+Since issue restoration requires recreating the issue and its sub-entities, comments inherit the new creation date, not the original one.
+For more details about limitations, see the coverage details document found here.

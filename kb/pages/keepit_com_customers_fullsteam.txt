@@ -1,0 +1,40 @@
+Source URL: https://www.keepit.com/customers/fullsteam/
+Content type: Web page
+Last modified: 2026-07-14T18:25:24+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Fullsteam strengthens compliance and business continuity with independent SaaS backup and recovery
+Fullsteam provides industry-specific software and integrated payments technology that help businesses operate efficiently and grow. Its platforms support essential financial and operational processes across multiple industries, so downtime has real consequences and business continuity is nonnegotiable. The US-based company’s data protection strategy supports more than 2,700 identities and over 108 TB of data across several enterprise SaaS platforms.
+Business continuity is critical to Fullsteam because our platforms support essential financial and operational processes, and any disruption directly impacts customers, revenue, and trust.
+JP Peters 
+Senior Director of Enterprise Services, Fullsteam
+Compliance-driven protection at scale
+Fullsteam’s requirements are shaped by scale, complexity, and compliance obligations. The organization relies on multiple enterprise SaaS applications that require comprehensive backups to support disaster recovery and precise, targeted restores for key business processes.
+Compliance restrictions on where data may be stored made regional data residency a critical factor in the evaluation process.
+As the team assessed alternatives to its previous backup solution, the priorities were clear: scalability across multiple SaaS applications, stronger restore capabilities, and more granular role-based access control within Entra ID and Microsoft 365.
+We were looking for a solution that provided more granular role-based access control for individuals to back up or restore data within Entra ID and Microsoft 365.
+Stephen Johnson 
+Director of Platform Engineering, Fullsteam
+The goal was to delegate backup and restore responsibilities within Enterprise IT without relying solely on a Global Administrator, while maintaining strong governance.
+Delegated access without compromising control
+Keepit’s detailed permission structure allowed Fullsteam to assign appropriate access across multiple layers of the IT organization. That change improved operational flexibility while preserving control.
+The team also prioritized protecting Entra ID and Intune configuration policies to ensure identity and device management settings could be recovered if needed.
+Fast recovery and continuous data access were essential. Even short outages can create operational risk, customer impact, and compliance exposure.
+Cost and functionality were primary drivers, along with the ability to scale beyond Microsoft to support additional SaaS platforms over time. The evaluation began after Fullsteam’s VP discovered Keepit at a technology conference and brought it back to the team as a potential replacement provider.
+Why Fullsteam chose Keepit
+Keepit’s US data centers played an important role due to compliance requirements restricting where Fullsteam data may reside.
+Vendor independence was another key factor. Keepit’s architecture supports an independent product roadmap, creating opportunities to extend backup services to other SaaS platform owners within the organization.
+Security was equally critical. Encryption combined with immutable backups ensures data cannot be altered or deleted, preserving reliable recovery points.
+Encryption combined with immutable backups ensures our data cannot be altered or deleted, which is essential for reliable recovery and the security of our organization.
+Stephen Johnson 
+Director of Platform Engineering, Fullsteam
+Keepit’s simple cost structure, including unlimited storage, has made spending predictable. The solution delivers similar cost to the previous platform, with improved usability and expanded opportunity to provide backup services to other application owners internally.
+For organizations evaluating their options, Fullsteam’s IT leadership offers clear guidance:
+If you want a solution that offers reliability, flexibility, scalability, and predictable pricing, Keepit is the answer.
+JP Peters 
+Senior Director of Enterprise Services, Fullsteam
+Independent recovery by design
+Keepit provides a vendor-independent SaaS data protection platform purpose-built for cloud environments. By storing backups in an independent cloud and combining encryption with immutability, the platform creates a secure foundation for reliable recovery. Flexible access controls and scalable architecture enable organizations to protect multiple applications while maintaining governance and compliance.
+For Fullsteam, that means stronger operational resilience without added complexity, and confidence that its data is here today and here tomorrow.

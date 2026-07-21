@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/help/zendesk-category/create-a-zendesk-connector/
+Content type: Web page
+Last modified: 2026-06-22T13:16:13+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create a Zendesk connector
+Follow these steps to create a Zendesk connector and set up your backup configuration.
+1. On the Connectors page, select Add connector > Add Zendesk Ñonnector.
+2. Enter your company domain and then select Sign in.
+3. Sign in to Zendesk with an Admin account.
+4. Read through the permissions and select Allow.
+Note: You will be prompted for permissions only the first time you create a connector. Afterward, Keepit retains the permissions it needs.
+5. You will be redirected back to Keepit where you can configure your connector.
+Here you can:
+- Change the name of the connector
+- Configure your backup
+- Manage user access to the connector by selecting the lock icon
+- Limit the retention period by selecting the calendar icon
+6. Select Create. Your connector will be created and the first backup will be scheduled.

@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/press/imfrance/
+Content type: Web page
+Last modified: 2025-12-18T08:16:41+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit and Ingram Micro launch strategic go-to-market relationship in France
+Copenhagen, Denmark, December 18, 2025 – Keepit, the only independent, cloud-native data protection and recovery provider, today announced a new strategic go-to-market relationship in France with Ingram Micro, a leading business-to-business (B2B) platform company for the global technology ecosystem. This collaboration strengthens Keepit’s ability to reach French resellers, managed service providers (MSPs), and managed security service providers (MSSPs) with a robust SaaS data protection solution via Ingram Micro’s local channel infrastructure.
+Under the agreement, Ingram Micro France will integrate Keepit’s cloud backup and recovery platform into the Ingram Micro portfolio and will support marketing, sales, distribution, and partner enablement. This arrangement will provide partners with flexibility in acquiring and bundling Keepit’s SaaS data protection offerings. French VARs, MSPs, and MSSPs will gain streamlined access to Keepit’s vendor-independent data protection services, backed by Ingram Micro’s local sales, financing, and channel support capabilities, including financing options tailored for local requirements.
+“France is a strategic market for us, and teaming with Ingram Micro gives us the channel reach and operational support we need to accelerate adoption,” said Jan Ursi, VP of Global Channels at Keepit. “This agreement ensures that French organizations can protect their SaaS data via a vendor-agnostic, European cloud solution delivered through trusted local partners.”
+“As French organizations increasingly seek secure and scalable SaaS data protection, our new alliance with Keepit brings a robust, cloud-native solution to Ingram Micro’s Network and Security portfolio,” said Robert Stockford, Director of Cyber Security, EMEA, Ingram Micro. “This collaboration empowers our French channel partners to better safeguard their customers’ critical business applications, enhance cyber resilience, and ensure long-term data protection readiness across the country.”
+Keepit’s cloud backup and recovery platform is built to ensure that customers always retain access to their data—independent of the original SaaS environment. In France, data sovereignty, compliance, and resilience are key demands; Keepit’s architecture, which avoids middleware and enforces immutability, aligns strongly with those requirements.
+This new agreement further enhances the reach of the Keepit Partner Network, which empowers resellers, MSPs, and distributors across EMEA, North America, and ANZ to offer secure, cloud-native data protection.
+To become a Keepit partner in France, contact partner@keepit.com or visit keepit.com/partners.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over 20,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on LinkedIn.

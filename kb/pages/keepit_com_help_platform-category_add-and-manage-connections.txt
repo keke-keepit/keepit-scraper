@@ -1,0 +1,79 @@
+Source URL: https://www.keepit.com/help/platform-category/add-and-manage-connections/
+Content type: Web page
+Last modified: 2026-06-23T20:46:24+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Add and manage connections
+A connection links the Keepit platform to your organization through one or more applications and defines which data Keepit can access.
+Each organization can have only one connection, but multiple connectors can use the same connection to access that organization’s data.
+When you create a connection, you can choose whether to create it using a system or a custom application. Later, if needed, you can add additional applications.
+- A system app is a Keepit-owned application that comes with predefined permissions required to back up and restore your data.
+- A custom app is a customer-owned, single-tenant application that you register within your organization and link to Keepit. With a custom app, you can choose which permissions to grant to Keepit.
+Before you add a connection, ensure you have prepared a service account that meets the needed requirements.
+Add a connection with a system app
+1. In the lower-left corner, click your account icon > Account info.
+2. Select the Connections tab.
+3. Click Add connection.
+4. Enter a name for your connection and select the workload it you would like to backup.
+5. Select System for the application type and click Next.
+6. Ensure your service account meets the requirements and then click Next to start the authentication process.
+7. Sign in with your service account and grant the requested permissions when prompted.
+8. Review the summary and click Done. 
+Your connection is now ready to be used in a connector to back up your data.
+Add a connection with a custom app
+Custom apps are currently supported only for Microsoft 365 and Okta connectors.
+I. Navigate to the Connections page
+1. In the lower-left corner, click your account icon > Account info.
+2. Select the Connections tab.
+3. Click Add connection.
+II. Enter basic information for your connection
+1. Enter a name for your connection.
+2. Select the workload you'd like to backup.
+3. Select Custom app and enter your organization ID.
+4. Click Next.
+III. Add capabilities
+1. Click Add capability and select the desired capability.
+2. Add as many capabilities as needed.
+3. Select Next.
+IV. Add permissions to your app in your organization
+Configure the necessary app permissions within your organization’s environment.
+Ensure that these permissions align with those that you added to your app in Keepit.
+V. Enter app details
+1. Back in the Keepit platform, enter a name for your app and the App ID.
+2. Add your authentication secrets.
+3. Click Next.
+VI. Sign in and grant permissions
+1. Enter the credentials of an admin user.
+2. Grant the requested permissions when prompted.
+VII. Review and finish
+1. Review the connection and application details.
+2. Confirm the capabilities and permissions are correctly set.
+- If we detect any missing or excess permissions, you will be notified. After closing the wizard, head to your organization app management to update them.
+3. Click Done. 
+Your connection is now ready to be used in a connector to back up your data.
+Manage your connections
+The Connection Management page is where you to view, add, and manage your connections and applications.
+Where to find your connections
+- In the lower-left corner, click your account icon > Account info.
+- Select the Connections tab.
+Top level
+At the top level, you can see a list of all your connections, along with their capabilities and organization IDs.
+Here, you can also check their status, which indicates whether any applications in the group are in a critical state or require attention.
+This is also where you can add a new connection.
+Inside each connection
+Click on the connection to find connection details.
+This is where you can:
+- Change a connection name
+- Add or change a service account
+ This is account is used to impersonate permissions.
+- Check an application's status
+ You can see if any applications are in a critical state or require attention.
+- Manage your applications
+- View an application's capabilities
+- Add an application
+- Reauthenticate an application
+- Remove an application
+- See related connectors
+ Connectors that are using this connection for authentication

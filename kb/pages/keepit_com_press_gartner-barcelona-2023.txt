@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/press/gartner-barcelona-2023/
+Content type: Web page
+Last modified: 2025-08-15T00:32:59+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How to bolster cyber resilience and ignore ransomers.
+Keepit CTO to present with Porsche Informatik on how Europe’s largest car dealership address escalating cybersecurity threats
+COPENHAGEN, DENMARK, Nov. 2, 2023 – Keepit, the market leader in cloud data protection and management, today announced that it will be presenting and exhibiting at the Gartner IT Symposium/Xpo™ 2023 conference taking place in Barcelona, Spain, from November 6th to November 9th.
+On Wednesday, November 8th, Keepit’s Chief Technology Officer (CTO) Jakob Østergaard will co-present with Peter Friedwagner, Head of Infrastructure, Cloud & Security at Porsche Informatik, in a session titled, “Keepit: Real-World M365 Cyber Resilience - Insights from Porsche Informatik”. Session attendees will learn how Porsche Holding Salzburg, Europe’s largest car dealership, addresses escalating cybersecurity threats and has bolstered the organization’s cyber resilience with Keepit's independent backup and recovery for Microsoft 365.
+Key takeaways from the session will include:
+â Tips on how to align Microsoft 365 cloud backup withâ¯enterpriseâ¯riskâ¯management.
+â Actionableâ¯insights into the strategic advantages ofâ¯independentâ¯backup for Microsoft 365â¯for operational resilience inâ¯enterprises.
+â Porsche Informatik’s blueprint forâ¯overcoming cyber challenges.
+The Gartner IT Symposium/Xpo™ 2023 will be held at the International Barcelona Convention Center. The conference provides an opportunity for information technology (IT) and cybersecurity executives to explore the technology, insights, and trends shaping the future of IT and business while getting expert guidance on best practices to define and validate IT strategies, as well as real-world examples of how to execute on key initiatives. Topics covered will include accelerating business transformation, cybersecurity, customer experience, data analytics, executive leadership, and the impact of generative artificial intelligence (AI) on every industry and job role.
+At Symposium, the Keepit team will also be sharing the latest insights on how to mitigate the impact of ransomware attacks by ensuring fast and complete recovery for enterprises. Research shows that a strong backup and recovery strategy can mean the difference between organizations being able to ignore extortionists and having to succumb to paying ransom again and again.
+WHAT: Solution Provider Session, “Keepit: Real-World M365 Cyber Resilience - Insights from Porsche Informatik”
+WHO: Jakob Østergaard, Keepit CTO, and Peter Friedwagner, Head of Infrastructure, Cloud & Security at Porsche Informatik
+WHERE: Room 113 & 114, Level P1, International Barcelona Convention Center.
+WHEN: Wednesday, Nov 8, 4:15 - 4:45 pm CET
+Keepit will be exhibiting for the duration of the conference at booth #645.
+To arrange a product demonstration or meeting with a member of the Keepit team at the conference, book a meeting here.
+About Keepit
+Keepit provides next-level SaaS data protection for companies with data stored in the cloud. Keepit is the world’s only vendor-neutral and independent cloud dedicated to SaaS data protection based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Azure AD, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

@@ -1,0 +1,63 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/using-the-teams-chat-viewer/
+Content type: Web page
+Last modified: 2026-06-30T01:16:02+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Using the Teams Chat Viewer
+The Teams Chat Viewer is a browser-based tool that converts downloaded Microsoft Teams chat JSON files from Keepit into a readable format. This tool enables customers to view, analyze, and export Teams chat conversations with features including perspective switching, dark mode, chat summaries, and PDF export capabilities.
+Getting started
+Download the HTML viewer.
+Download the file to your computer by right clicking on the link and then selecting Save link as.
+Access the Teams Chat Viewer here.
+Save it somewhere easy to access (for example, Desktop or Downloads).
+How to use the Teams Chat Viewer
+Downloading chats from Keepit
+1. In your connector, locate the chat conversations you want to view.
+2. Select the desired chats (you can select multiple).
+3. Click the download option to export the chats as JSON files.
+4. Save all JSON files to a local folder.
+Important: The viewer expects individual JSON files, not folders. Ensure you have the actual JSON files ready for upload.
+Loading chats into the viewer
+1. Open the downloaded HTML viewer file in your web browser.
+- Double-click the file, or
+- Right-click and select Open with > [Your preferred browser]
+The Teams Chat Viewer interface will appear.
+2. Drag and drop all downloaded JSON files into the designated drop zone.
+- You can select and drag multiple files at once. All files will be processed immediately.
+3. View the chat conversation.
+Navigating the interface
+Switching perspectives
+The viewer allows you to see the conversation from different participants' viewpoints:
+- Look for the perspective switcher in the interface.
+- Select the participant whose perspective you want to view.
+- The chat will recontextualize to show messages from that user's viewpoint.
+Enabling dark mode
+For improved readability in low-light conditions:
+- Locate the dark mode toggle in the viewer interface.
+- Click to enable/disable dark mode.
+- The theme will switch immediately.
+Viewing chat summaries
+To see aggregate information about the conversation, enable the Chat Summary option.
+The summary panel will display:
+- Total messages: Count of all messages in the conversation
+- Participants: Number of people involved in the chat
+- Timeline: Chronological visualization of the conversation
+Exporting chats
+Creating a PDF export
+Once your chat is loaded and configured as desired (perspective, etc.), click the Download PDF button from the tool bar.
+The viewer will generate a PDF file of the current view. You can then save the file to your preferred location.
+Note: The downloaded PDF will not include Dark Mode formatting.
+Start over
+Clicking the the restart button will allow you to import another set of chat JSON files.
+Technical notes
+Data privacy and security
+- The Teams Chat Viewer runs entirely client-side in your browser.
+- No chat data is uploaded to external servers.
+- JSON files are processed locally on your machine.
+This ensures complete data privacy and security compliance.
+File format
+- The viewer accepts JSON files exported from Keepit's Teams Chat backup.
+- Each JSON file represents one chat conversation.
+- Multiple files can be loaded simultaneously for batch viewing.

@@ -1,0 +1,57 @@
+Source URL: https://www.keepit.com/newsroom/press-kit/
+Content type: Web page
+Last modified: 2026-06-23T08:06:54+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Press kit
+Meet our spokespeople and experts and find their bios and photos here. You can also find our company description, logo, and other visuals here. Anything missing? Get in touch.
+Company description
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection.
+Unique, separate, and immutable data storage with no third-party sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery.
+Headquartered in Copenhagen with offices and data centers worldwide, more than 25,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data. â¯
+For more information visit www.keepit.com or follow Keepit | LinkedIn
+Spokespeople
+Morten Felsvang
+CEO and Co-founder
+Morten Felsvang is co-founder and the CEO of Keepit. Together, he and Frederik Schouboe founded Keepit in 2007. Prior to Keepit, the two co-founded and led Cohaesio, a managed hosting provider and data center operator; and before that the web and mail hosting company Surftown.
+Morten Felsvang holds a master's degree in engineering from DTU (Technical University of Denmark).
+Find Morten on LinkedIn.
+Frederik Schouboe
+CVO and Co-founder
+Frederik Schouboe is Chief Visionary Officer and co-founder of Keepit, the world’s only independent vendor-neutral cloud dedicated to SaaS data protection. In 2007, Frederik and his friend Morten Felsvang were running a successful data hosting company. They saw the emergence of the cloud and responded by founding Keepit. The mission was simple: to help companies protect their data in the cloud. They pioneered a vendor-neutral backup and recovery cloud to ensure continuous data availability for customers.
+Today, Keepit is the world’s only independent cloud dedicated to SaaS data protection. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. Leading analysts agree Keepit is the fastest and most secure enterprise-class SaaS backup and recovery service.
+Jakob Østergaard
+Chief Technology Officer
+Jakob Østergaard is CTO at Keepit, a leading cloud backup and recovery solution, built on zero trust architecture and immutable blockchain technology. He has a M.Sc. in Computer Science and Applied Mathematics and has worked with IT research and development since 2001.
+He has played a key role in the design and implementation of several cross platform networked software systems and is an expert in distributed systems, telemetry acquisition and processing, as well as data storage and processing.
+Find Jakob on LinkedIn.
+Michael Amsinck
+Chief Product Officer
+With a strong background in product development and leadership, Michael Amsinck brings a wealth of experience and insight and years of experience from leadership roles at Cision, Brandwatch, and Falcon.io, with responsibility for overseeing large teams and ensuring alignment across sales, marketing, product, and engineering. A process-driven approach and focus on strategic communication are critical in ensuring that product development efforts are fully aligned with the company’s overall business objectives.
+Find Michael Amsinck on LinkedIn
+Kim Larsen
+Group Chief Information Security Officer
+Kim Larsen is Group Chief Information Security Officer at Keepit and has more than 20 years of leadership experience in IT and cybersecurity from government and the private sector.
+Areas of expertise include business driven security, aligning corporate, digital and security strategies, risk management and threat mitigation adequate to business needs, developing and implementing security strategies, leading through communication and coaching.
+He is an experienced keynote speaker, negotiator, and board advisor on cyber and general security topics, with experience from a wide range of organizations, including NATO, EU, Verizon, Systematic, and a number of industry security boards.
+Find Kim Larsen on LinkedIn
+James Dwyer
+Chief Revenue Officer
+James Dwyer is Chief Revenue Officer at Keepit, where he leads the company’s global revenue organization and drives international go to market execution across sales, partnerships, customer success, and business development. He is a seasoned go to market executive with deep expertise in data security, data access, and data management, recognized for building and scaling high performing teams through periods of rapid growth and transformation.
+Prior to joining Keepit, James led global revenue organizations across private and public companies, driving growth and customer retention while consistently delivering strong business results and industry recognition.
+Find James Dwyer on LinkedIn
+Michele Hayes
+Chief Marketing Officer
+Michele Hayes is the Chief Marketing Officer at Keepit. As an accomplished corporate leader with a demonstrated history of delivering exceptional results in marketing and sales, her ability to drive exponential returns on marketing investments, optimize budgets, and build high-performing teams has played a pivotal role in the growth and success of multiple technology vendors, including Absolute, Rubrik, Symantec, Centrify, Riverbed, and Juniper Networks.
+Michele’s visionary approach and commitment to excellence continue to make a significant impact on the cyber industry.
+Find Michele on LinkedIn.
+Mikkel Oxfeldt
+General Counsel, Attorney-at-law
+Mikkel Oxfeldt is General Counsel, Attorney-at-law at Keepit. He started his career in private practice in 1999 advising IT-services providers and Telecoms and has been individually named in Legal 500. Later moved inhouse having various roles ranging from medium-sized scaleups to large, listed businesses.
+Mikkel has built the legal department at Keepit with the mantra of providing commercially sound legal advice in a timely fashion. Mikkel joined Keepit in 2020 together with the A-round funding from One Peak Partners.
+Paul Robichaux
+Senior Director of Product Management
+Paul Robichaux is Senior Director of Product Management at Keepit and a Microsoft MVP (Most Valuable Professional) – a title he has been awarded every year since 2003. Paul has worked in IT since 1978 and held a number of CTO and senior product development positions in the software industry. Paul is a prolific contributor to the Microsoft community: He is the author of an impressive amount of books and articles about Microsoft technologies, including the best-selling Office 365 for IT Pros, a contributing editor for Practical 365, and produces a continuous stream of videos, podcasts, and webinars. He is based in Alabama in the United States.
+For more brand assets, visit the Keepit brand center

@@ -1,0 +1,38 @@
+Source URL: https://www.keepit.com/press/keepit-roadmap-2025/
+Content type: Web page
+Last modified: 2025-08-20T02:30:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit presents roadmap for the future of data protection
+Data backup and recovery capabilities have not kept pace with the rapid adoption of SaaS applications in businesses. Keepit is changing that.
+Copenhagen, Denmark — April 2, 2025 — Keepit, the world’s only independent, cloud-native data protection, backup and recovery provider, today announced a product roadmap designed to future-proof the cyber resilience of organizations navigating an increasingly complex threat landscape.
+As companies rapidly adopt SaaS applications, backup and recovery capabilities have not kept pace, leaving critical business data vulnerable to outages, cyber threats, and compliance risks. In effect, companies are onboarding numerous applications without proper backup and recovery solutions. The average enterprise uses approximately 112 SaaS applications, according to BetterCloud research.
+This means a significant amount of business data—critical and otherwise—is not being backed up and, therefore, cannot be recovered or restored. This poses serious risks to business continuity, security, and compliance.
+And organizations are clearly concerned about and focusing on closing that gap—as analyst firm Gartner states, by 2028, 75% of enterprises will prioritize backup of SaaS applications as a critical requirement, compared to just 15% in 2024.
+“Legacy backup and recovery solutions are not able to adapt and scale to rise to that challenge. Having a platform that is purpose-built for the cloud is a clear advantage to us, because it enables us to build exactly what our customers and the markets need,” says Michael Amsinck, Keepit’s Chief Product and Technology Officer.
+To address the realities of the new SaaS landscape, Keepit has been developing its unique data protection platform and now presents two major enhancements to its solution.
+Covering more cloud apps: From eight to hundreds in three years
+- Introducing the ability to back up and recover data from many more SaaS applications. This is made possible by our new Domain-Specific Language (DSL), which accelerates development for each application while seamlessly integrating with the unique Keepit platform. The rollout begins with seven applications in 2025 — Jira, Bamboo, Okta, Confluence, DocuSign, Miro, Slack — with rapid expansion to follow. The ultimate goal is full coverage of all SaaS applications used by enterprises, spanning HR, finance, sales, production, and more.
+New and improved capabilities: One source of data truth
+- Anomaly detection: Provides enhanced monitoring, compliance, and security insights, enabling proactive identification of irregularities. Anomaly detection will be available to Keepit customers in early May, 2025.
+- Data protection dashboards: Offers centralized control and simplified reporting, enhancing visibility and management of data protection efforts. Data protection dashboards were made available to Keepit customers in January 2025.
+With these upgrades, Keepit will offer a comprehensive backup and recovery solution for all SaaS applications, ensuring full control of data regardless of unforeseen events such as outages, malicious attacks, or human error.
+Purpose-built for full control
+This groundbreaking approach to SaaS backup and recovery is made possible by Keepit’s unique, intelligent, cloud-native, purpose-built architecture.
+"With continued enhancements, Keepit ensures businesses can back up, recover, and protect all SaaS data efficiently. We control our stack. We control our data centers. We control our cloud. Ultimately, we control every aspect of our solution," said Michael Amsinck.
+Building on existing strengths
+The new capabilities and expanded coverage build upon the existing strengths of the Keepit platform, including:
+- Data centers: Keepit operates data centers in multiple regions, including the United States, Canada, Australia, Germany, Switzerland, Denmark, and the United Kingdom. These data center regions are completely isolated from one another, ensuring full data sovereignty for customers. Because Keepit owns its cloud and stores data in local data centers, customers can back up their data independently of Privacy Shield agreements.
+- Air-gapping: Logical air-gapping ensures that backed-up data is segregated and protected through a combination of encryption, hashing algorithms, and role-based access controls, creating a secure barrier around sensitive information.
+- Immutable storage: Built on a resilient, independent cloud architecture, Keepit ensures every backup remains unalterable and protected, safeguarding against threats and ensuring business continuity.
+- API-first architecture: Seamlessly integrates with security information and event management (SIEM) systems, keeping security teams informed of potential risks.
+- Effortless data protection: Keepit's intuitive interface allows for quick setup and seamless integration across all key applications, enabling users to manage backups and restores without complexity or extensive training.
+- Unlimited hot storage: Keepit provides instant access to all backups via always-hot storage, eliminating storage fees and allowing users to set unique retention policies across different connectors, from short-term to 99-year retention.
+- Comprehensive audit logs: Track every action with Keepit's audit log, accessible via the UI or API for third-party integration. Compliance features ensure adherence to regulations such as GDPR, NIS2, and HIPAA, with secure access controls.
+- Scalable and secure: Engineered for the cloud, Keepit's platform offers scalable, API-driven backup solutions designed to meet the demands of modern businesses, ensuring data protection strategies evolve alongside SaaS environments.
+For more information on Keepit's data protection solutions and upcoming developments, visit www.keepit.com
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over fifteen thousand companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/how-restored-outlook-emails-are-sorted/
+Content type: Web page
+Last modified: 2026-06-30T00:55:11+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How restored Outlook emails are sorted
+New Outlook for Windows and Outlook on the Web (OWA)
+Restored emails are sorted based on their last modified timestamp, reflecting when the email was restored rather than its original received date.
+Currently, there is no option to customize or change this sorting behavior.
+Classic Outlook (Legacy Outlook for Windows)
+Restored emails are sorted by their original "Received" timestamp, maintaining their original chronological order. This ensures that emails appear as they did prior to being deleted or restored.

@@ -1,0 +1,9 @@
+Source URL: https://www.keepit.com/services/backup-microsoft-365/microsoft-teams/
+Content type: Web page
+Last modified: 2025-02-23T21:37:29+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Now that you've implemented Microsoft Teams, you need to protect this data, too. Always stay in control of your Teams data with the most complete backup and recovery on the market.Born in the cloud, Keepit protects businesses from damaging data loss with rock-solid security and easy restore into Teams.
+Customers worldwide choose Keepit as their third-party backup provider for safeguarding their data. A proper backup and recover strategy is key to ensuring your business continues during any disruption or data loss, something that Microsoft expects you to do.

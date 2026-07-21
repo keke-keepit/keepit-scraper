@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/security/compliance/
+Content type: Web page
+Last modified: 2024-07-18T23:16:41+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The NIS2 Directive
+ 
+Keepit enables compliance with the EU directive on protecting digital infrastructure, sensitive business data, and personal data. For cyber resiliency, having a backup stored separately from primary data in an independent cloud infrastructure is essential. This ensures compliance and business continuity through 24/7 data accessibility and robust recovery functionality, hallmarks of Keepit’s backup and recovery service.
+Read more about NIS2
+GDPR
+Keepit facilitates GDPR compliance, offering robust data protection against ransomware and aiding in implementing necessary workflows for regulatory adherence. We stand as the only backup provider fully implementing GDPR's Article 17 and Article 32, making Keepit an indispensable tool in your GDPR compliance journey.
+Read our GDPR whitepaper
+CER
+Keepit makes compliance easier by providing robust backup and recovery solutions, ensuring data resilience for critical entities. With Keepit, organizations can proactively manage risks and safeguard essential services, aligning with CER (Critical Entities Resilience Directive) requirements for comprehensive risk assessment and resilience planning.
+Read more about CER
+SEC guidelines
+Compliance entails describing cybersecurity risk management programs, disclosing governance information, and implementing clear risk assessments, response, and recovery plans. Investments should prioritize business-critical systems supporting essential functions. SaaS applications like M365 and Entra ID fall into this category, both of which Keepit protects.
+Read more about SEC guidelines 
+HIPAA
+The Health Insurance Portability and Accountability Act (HIPAA) imposes requirements on the retention of related documents. These must be retained for at least six years from creation or, for policies, from the last effective date. Such requirements often exceed what SaaS applications' built-in capabilities offer. Keepit supports up to 99 years of custom-configured retention.
+Get our HIPAA e-book
+DORA
+The Digital Operational Resilience Act (DORA) was introduced by the EU to enhance the digital operational resilience of the financial sector. Article 12 specifies backup and recovery requirements, emphasizing the need for robust data protection and business continuity measures. Keepit can help you meet DORA compliance with segregated backup systems, granular data recovery, and immutable data integrity, ensuring data availability.
+Read more about DORA

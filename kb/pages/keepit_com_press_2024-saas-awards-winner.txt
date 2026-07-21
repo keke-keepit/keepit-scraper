@@ -1,0 +1,32 @@
+Source URL: https://www.keepit.com/press/2024-saas-awards-winner/
+Content type: Web page
+Last modified: 2025-08-20T00:13:00+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit platform named winner at the 2024 SaaS Awards
+Keepit named winner in the 2024 Cloud SaaS Awards program in “Best Use of SaaS in a Cloud Ecosystem” category.â¯
+COPENHAGEN, DENMARK. August 13, 2024 – Keepit, a global provider of a comprehensive cloud backup and recovery platform, announced today its success in the 2024 Cloud SaaS Awards program by being named a winner in the “Best Use of SaaS in a Cloud Ecosystem” category.â¯Keepit was also a finalist in the “Best Security Innovation in a SaaS Product (SME)” and “Best Security Innovation in a SaaS Product (Enterprise)” category.
+A long-established awards program spanning 56 categories, The SaaS Awards recognizes the leading innovations and applications of software-as-a-service solutions across a wide range of use cases and sectors. The program received entries from organizations worldwide, including North America, across Europe, and APAC.
+“The Keepit platform is a must for companies looking to ensure cyber resiliency. We are honored to have been named as a winner at the 2024 SaaS Awards. This, alongside the slew of other recent accolades, underscores our cloud native roots and commitment to providing our customers with best-in-class data protection”, says Michele Hayes, CMO at Keepit.
+CEO of The Cloud Awards, James Williams, said: “We’re thrilled to reveal the winners of the 2024 SaaS Awards after three intense rounds of judging. It’s been an outstanding edition of the awards this year, and the team and I would like to thank all those organizations that entered.
+“Keepit has demonstrated an unwavering commitment to innovation and excellence and is a more than deserving winner of Best Use of SaaS in a Cloud Ecosystem. The caliber of the finalists this year was particularly high, which is a testament to this wonderful achievement.
+“A huge congratulations to Keepit, and to all of 2024’s winners. We are extremely excited to see how they continue to drive the industry forwards in the coming years.”
+â¯
+Secure by design, the Keepit cloud is owned and run by Keepit. Customer data is kept in a separate, dedicated infrastructure, with the backed-up data stored fully isolated from the SaaS vendor’s cloud. With a user-friendly interface, robust data security, and the ability to adapt to your cloud environment, Keepit ensures your data is always accessible and protected.   
+ 
+Recognition for the Keepit platform
+The Keepit platform has also been named “Best Cybersecurity Backup Service” by the Business Awards UK, 2024 Cybersecurity and Resilience Awards and "Best Security Solution for Data Management / Data Protection" by the Cloud Security Awards 2024. Keepit was recognized in four categories at the Global Infosec Awards 2024 (at RSA), including “Most Innovative Compliance”, “Publisher's Choice Cyber Resilience”, “Best Product Data Recovery”, and “Hot Company Ransomware Recovery”.
+About the Cloud Awardsâ¯â¯â¯â¯â¯â¯
+The Cloud Awards is an international program which has been recognizing and honoring industry leaders, innovators and organizational transformation in cloud computing since 2011. The Cloud Awards comprises five awards programs, each uniquely celebrating success across cloud computing, software-as-a-service (SaaS), cloud security, artificial intelligence (AI), and financial technologies (FinTech).
+â¯â¯â¯â¯â¯
+Winners are selected by a judging panel of international industry experts. For more information about the Cloud Awards, please visit https://www.cloud-awards.com/.â¯â¯â¯â¯â¯â¯
+â¯â¯â¯
+About The Cloud Awards Programâ¯â¯â¯â¯â¯â¯
+The Cloud Awards identifies and celebrates the most innovative organizations, technologies, individuals and teams in the world of cloud computing. The program spans 36 categories, including ‘Best Cloud Infrastructure’ and ‘Best Cloud Automation Solution’.
+About The SaaS Awardsâ¯â¯â¯â¯â¯â¯
+The SaaS Awards focuses on recognizing excellence and innovation in software solutions. Categories range from Best Enterprise-Level SaaS to Best UX or UI Design in a SaaS Product.â¯â¯â¯â¯â¯â¯
+About Keepit:
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over 10,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

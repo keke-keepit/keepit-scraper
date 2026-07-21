@@ -1,0 +1,39 @@
+Source URL: https://www.keepit.com/gartner-iocs-london/
+Content type: Web page
+Last modified: 2024-10-18T13:25:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Meet Keepit at Gartner IT IOCS conference 2024
+Take control of your SaaS data protection. Ensure confidence in your resilience.
+Meet us at the expo hall
+Enjoy exclusive on-site activities at our booth, including a product demo, insights from industry experts, and meeting our team.
+Don’t have your ticket yet? Register today to get our exclusive discount of €400 on your ticket with the code LSCE20EDC.
+Venue information
+ExCeL London | Royal Victoria Dock, 1 Western Gateway London, England E16 1XL United Kingdom
+Book a meeting with Keepit
+Join us for our speaking sessions
+Solution provider session
+Keepit: Unlocking Resilience with Strong Data Governance
+Speaker: Kim Larsen, CISO Keepit
+November 19 at 2:15 BST  
+Session code: SPS9
+Room: Auditorium
+Key Takeaways:
+- Techniques for prioritizing data and structuring recovery plans
+- Building executive buy-in for governance-driven recovery strategies
+- Best practices for conducting incident reviews and audits
+Theater/Expo Hall Session
+Keepit: Fast-Track to Data Resilience – Practical Steps for Successful Data Recovery
+Speaker: Kim Larsen, CISO Keepit
+November 20 at 12:45 BST  
+Session code: TH23
+Room: Theater 2
+Key Takeaways:
+- Quick wins for improving data backup and recovery processes
+- Best practices for ensuring compliance and data security
+- Real-world case studies on overcoming data recovery challenges
+We use Keepit to back up everything from Office 365. Whether it is Exchange, OneDrive, SharePoint, or Azure AD, Keepit has us covered.
+It helps us address the risk of data loss, therefore making us compliant to GDPR. Gives IT managers a goodnight sleep knowing any lost data can be easily retrieved.
+Excellent All Round Backup, Easy To Setup And Administer - Well Priced

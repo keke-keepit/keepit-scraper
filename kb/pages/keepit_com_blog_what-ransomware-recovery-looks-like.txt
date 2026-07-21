@@ -1,0 +1,41 @@
+Source URL: https://www.keepit.com/blog/what-ransomware-recovery-looks-like/
+Content type: Web page
+Last modified: 2025-08-20T00:13:01+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What does ransomware recovery look like?
+Ransomware recovery isn’t a one-size-fits all type of thing, and as such, it’s important to be thinking about data protection best practices and how to minimize the impact of an eventual ransomware attack — because it’s a matter of when it happens to you, not if.
+Because of the complexity of SaaS deployments and all the differing policies, it’s easy to overlook some details and have data protection gaps — gaps that will become painfully obvious when you’re trying to recover from ransomware or another data loss scenario.
+So, that’s why I want to equip you with some of my recommended steps that you can use to hopefully make good business decisions about how you can prepare for the time when ransomware comes to you.
+Here’s a checklist of six points for disaster recovery and business continuity that I would encourage you to keep in mind and think about to boost your cyber resiliency:
+1. You’ve done a risk assessment to find the most critical infrastructure and data assets to protect.
+2. You’ve created a prioritized, granular DR (disaster recovery) plan supported by your software.
+3. You’ve backed up all your mission-critical data.
+4. You regularly test and verify your recovery processes.
+5. You’re recovering from backups that are immutable and tamper proof.
+6. Your backups remain available on a separate, air-gapped infrastructure.
+Let’s dive deeper into the details of the six steps I’ve recommended
+Point 1: Do a formal risk assessment
+The first thing I’d recommend you check is that you've done a formal risk assessment to identify what the most critical infrastructure and data assets are for you to protect. This is obviously going to vary according to your business. Where are you located? What line of business are you in? What are the biggest risks that your business faces? And so on.
+It's very likely you've already done some of that work for sort of generic cybersecurity reasons, but you need to carry it to the next step and say, “All right, if I have assessed the risk of different security threats and the impact that they may have, what's the second order risk assessment if one of those risks turns into a vulnerability that is successfully exploited? What does it mean for my business continuity capabilities?”
+Point 2: Create a prioritized, granular DR plan
+Second, you should be able to check off the box that says you've created a prioritized, granular disaster recovery plan that's supported by your software. I see far too many customers who come to us and say, “Hey, good news, we're buying your solutions so our SaaS data will be protected.” I say, “OK, that's great. Tell me about your disaster recovery plan.” And their answer is, “Well, we're just getting started. We don't really have a plan yet.”
+If I'm honest, I'd rather you build a plan and then call Keepit rather than call Keepit and then build your plan because your plan has to incorporate things that don’t involve SaaS data recovery. Just to cite one example from a real customer that we're working with: Suppose that your operations are in a part of the world that is subject to hurricanes.
+That means for every hurricane that you see, you're going to see several other events — high winds, flooding, storm surge, and so on. How do you tell people not to come to work because the building is flooded? You may not be able to rely on Teams or on Zoom or on another cloud-based communication system to do that. That's a part of your disaster recovery plan.
+Point 3: Create a backup of all your mission-critical data
+I like to emphasize to people that recovering your data is the first necessary part of restoring your business operations. It's not completely sufficient all by itself just to say, “Oh, I have a backup” because if I walked up to you and said, “Oh, you had a disaster, great, here's a USB stick that has all of your data on it” that probably wouldn't be enough to get your business up and running again. It would help, but it wouldn't be enough all by itself.
+Point 4: Test regularly and verify your backups
+Having a backup of your mission critical data and knowing that that backup is valid because you have regularly tested and verified the recovery is critical. This helps you know, in the gravest extreme, where your data is, that it’s intact, that it hasn’t been tampered with, and that you have people available to you who can coordinate and execute or restore leading to a recovery. Super important.
+Those are the things most people think of when they think of what does good recovery look like. Do I have a backup and does my backup work? That's not to minimize the importance of these questions, but they're only part of the overall evaluation that you should be doing.
+Point 5: Ensure your backups are immutable and tamper proof
+Next, when you do a recovery, ensure the source backups that you're using to do that recovery are immutable and tamper proof — and you can prove it. Why do I say that? Well, if you have a backup and you don't know for certain that it is immutable, then you’ve got a potential exploitable data protection gap. (Read more about immutable data protection.)
+As we see persistent nation-state scale attacks becoming more common, one increasingly common tactic is for the attacker to attack your repository of backups, too. (Attacks such as Midnight Blizzard.) When you think about how traditional backup systems are constructed, if an attacker can get into your on-premises environment, they can probably escalate privileges and pivot to kill your on-prem backups. Now you may say, “Oh hey, no problem, I've got backups in the cloud.”
+Well, guess what?
+If your cloud environment is linked to your on-prem environment, as it almost always will be with Azure and very probably is with AWS (Amazon Web Services), then an attacker who can compromise an account and then escalate privileges in the cloud can take that privilege to account, pivot to the cloud, and start blowing things up. This is the whole focus of the Mango Sandstorm attacks that Microsoft wrote about last year. So, the only way to protect yourself against that is to have your backups isolated. Which leads me to my final point.
+Point 6: Keep backups on a logically separate, air-gapped infrastructure
+You can call them air gapped, and you can call them isolated. The term isn’t as important as the notion that you want your backups to be stored somewhere that doesn’t have direct directory or security connectivity to your production systems. This way, if your production system is compromised, you're able to get into your backup environment, verify the presence of your backups, verify the integrity of your backups before you start doing a restore. Read about why air-gapped backup is your best defense against ransomware.
+Final words
+From conducting a comprehensive risk assessment to fortifying your backups within an air-gapped, immutable backup, each step is a crucial layer in the armor of cyber defense. The importance of proactive measures can’t be overstated, so I hope the pointers outlined above are helpful for you and your DR plan.
+If you’d like to learn more about ransomware recovery, be sure to catch our on-demand webinar, The ROI of ransomware recovery.

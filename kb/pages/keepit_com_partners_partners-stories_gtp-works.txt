@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/partners/partners-stories/gtp-works/
+Content type: Web page
+Last modified: 2024-03-28T00:04:29+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+For GTP Works, Only Keepit Is Good Enough for Its Clients
+GTP Works provides a vast range of technology services to its clients throughout the UK and Greece. The company previously recommended an alternative backup solution to its clients but has now switched to Keepit, which it offers as part of a comprehensive Office 365 security package that covers any need imaginable, as well as a standalone product.
+The importance of proper backup
+Both GTP Works and Keepit believe in educating companies and organizations on the importance of a solid, secure backup of your cloud-based data. Mr. Venianakis references the case of a client who relied solely on Microsoft’s backup capabilities to restore lost Outlook data. It turned out they could only restore conversations sent within the past 20 days, which wasn Ìt nearly enough to cover their needs.
+24/7 Support
+Keepit offers tailored support solutions with service agents that speak your language and go the extra mile to make sure that any question gets answered promptly and correctly. According to Mr. Venianakis, Keepit provides a high level of support in a timely fashion.
+I’ve even had cases where I’ve started a support case in the middle of the night and it’s been addressed immediately. That is impressive.
+George Venianakis
+Managing Director, GTP Works
+Simple, fully transparent pricing – the way it should be
+As well as Keepit’s best-in-class SaaS backup solution, Mr Venianakis is also impressed with Keepit’s flexible and easy-to-grasp price plans.
+"Keepit’s price model is crystal clear – there are no hidden costs, which makes it easy for us to offer Keepit to our customers." George Venianakis, Managing Director, GTP Works.

@@ -1,0 +1,56 @@
+Source URL: https://www.keepit.com/help/pmc/using-the-partner-management-console/
+Content type: Web page
+Last modified: 2026-02-26T13:49:32+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Using the Partner Management Console (PMC)
+The Partner Management Console (PMC) is where you can access all critical business tools and information you need to drive your business with Keepit.
+This is where you can:
+- See an overview of your account
+- Create and manage subaccounts
+- Quickly understand your customers' backup status
+- Instantly identify connectors in a critical state, accounts expiring soon, and accounts exceeding seat usage.
+Dashboard
+This is where you can find your account details and see if any connectors are in a critical state and need action.
+Account Info
+An overview of your account details.
+Click ••• to edit account details, view subaccounts, or create subaccounts.
+Connector and account monitoring
+- Critical state shows all connectors across all customer accounts that are in a critical state.
+- Expiring soon shows accounts scheduled for deletion and services expiring soon.
+- Exceeding usage shows which accounts have reached their seat limit.
+- Trial (POC) shows the details for all Trial (POC) accounts.
+- Renewals shows customer accounts up for renewal in the next 3 months.
+For more information, go to PMC Connector and Account Monitor
+Have any feedback?
+This is where you can leave your suggestions and ideas to help us make the PMC even better.
+Accounts
+The Accounts page is where you can find all your subaccounts. This is also where you can create new accounts.
+Product Portfolio
+The Product Portfolio page is where you can find a list of all available products.
+Seat Usage
+The usage page is where you can get an overview of seat consumption for all your partner and customer accounts. This is also where you can download CSV reports.
+Audit Log
+The audit log records events initiated by all users on your PMC account.
+For additional information on the audit log and a list of all events recorded in the log, go to Using the PMC Audit Log
+Your Account Info
+In the lower-left corner, select your account profile > Account info.
+In the Account settings tab, you can view and edit your account details and contact info.
+In the User tab, you can view and manage all the users that have been created on your account.
+In the Messages tab you can set up your customer messages and messages configuration.
+In the Languages tab you can setup your account languages.
+In theâ¯Productâ¯tab, you can find your Product info, including product name, Product ID.
+In the Security tab, you can configure SSO and MFA.
+Your User Info
+In the lower-left corner select your account profile > User info.
+In the User info tab, you can see your login information and change your password. You can also change your advanced settings.
+In the Security tab, if MFA is enable for your account, this is where you can see your MFA information and reset your TOTP. In the Security tab you can also setup your Secondary tokens
+Other Features
+Messages
+See messages concerning your account.
+Support
+Find a quick link to the Keepit support site.
+Terms of Service
+Open and review the Terms of Service.

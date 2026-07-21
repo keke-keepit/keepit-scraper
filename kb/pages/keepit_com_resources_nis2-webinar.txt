@@ -1,0 +1,14 @@
+Source URL: https://www.keepit.com/resources/nis2-webinar/
+Content type: Web page
+Last modified: 2025-08-14T23:52:52+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Prepare for NIS2: Business continuity is critical. Here's how to get it right
+WebinarBy Mikkel Oxfeldt
+The NIS2 directive adopted by the European Parliament implements the most comprehensive cybersecurity regulation in global history. In this webinar, an expert panel consisting of Soren Skibsted, Co-Chair of IBA’s Presidential Task Force on Cyber Security, Senator Dr. Andreas Rebetzky, Security and Infrastructure Advisor to CIOs, and Mikkel Oxfeldt, General Counsel at Keepit, will dive into the purpose and content of the NIS2 directive and specifically article 21, which addresses the importance of maintaining business continuity in critical infrastructures facing cyber threats.
+Join us, and you will walk away with:
+- A clear understanding of the purpose of the directive and the cost of non-compliance
+- Insight into best practices to meet the requirements for business continuity and disaster recovery
+- Next steps your organization toward compliance and how to have confidence in your vendor selection process

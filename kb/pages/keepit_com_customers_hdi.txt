@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/customers/hdi/
+Content type: Web page
+Last modified: 2025-11-28T13:13:53+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+HDI trusts Keepit to comply with European regulations
+Insurance solutions provider HDI handles some of the most sensitive personal data available in its operations, making it critical for it to choose a backup and recovery partner it can trust. Keepit ensures HDI's Microsoft Entra ID is not only securely backed up but also compliant with regulations such as the Digital Operations Resilience Act (DORA).
+Nonstop availability at the center of compliance
+As an insurance company, HDI handles sensitive data that is overseen by some of the toughest regulations in Europe, including the Digital Operational Resilience Act (DORA). "In Germany, for example, we need to have 24/7 availability as we're considered critical infrastructure and regulated under BaFin and DORA; insurance fees need to be paid out in the case of a crisis," explains Philipp Poppe from HDI.
+Keepit's solution can provide HDI with needed confidence that all backups will be available, if needed. Other features such as immutability by default and granular recovery make it easier to comply with any and all regulations and to provide the necessary documentation for audits.
+We have the highest data protection needs as we handle live data, personal data for life insurances, and private insurances. We have only a very short time range to get 'back to live' in case of a disaster.
+- Philipp Poppe,
+HDI Cloud, Product Manager Core Services
+Keepit's independent cloud and data centers as a differentiator
+Keepit is the world's only vendor-independent cloud for SaaS data protection. With data centers in seven regions, including Europe, customers can be sure of both data security and sovereignty.
+Keepit Backup for Microsoft Entra ID gives companies like HDI visibility into their data by detecting what changes have occurred and allowing them to correct them quickly - something an insurance provider like HDI requires to keep its systems compliant.
+Keepit has their own data centers, so we are completely non-reliant on Microsoft Entra ID in case of service outages.
+- Niko Pieper, 
+HDI Cloud Core Services
+Uncomplicated procurement process
+In addition to the benefits of Keepit's platform, HDI also appreciated the swift and uncomplicated cooperation during the procurement process. As a backup and recovery partner is considered critical outsourcing, HDI needed to be sure its chosen provider could meet their high expectations.
+"We chose to do a proof of concept in our procurement and ended up with Keepit after testing multiple solutions. The discussions around the contract and the purchase with both Keepit and our joint partner Bechtle were very cooperative, which helped us to reach some timelines, which were tight," told Philipp Poppe, and continued: "Very fast replies and easy discussions were also needed for our procurement department, which isn't always that easy, especially at a German insurance company."
+Simplicity and ease of use
+"We are three people managing a very complex infrastructure, so an easy-to-use solution was a must," said Niko Pieper. Keepit's platform has been purpose-built for the cloud and is easily integrated with existing systems. The solution requires little to no training and can be set up quickly to ensure the customer's backups are visible almost instantly.
+We really appreciated how easy it was to set up Keepit, and (now) it’s very fast to find what information you need when using the platform.
+- Niko Pieper, 
+HDI Cloud Core Services

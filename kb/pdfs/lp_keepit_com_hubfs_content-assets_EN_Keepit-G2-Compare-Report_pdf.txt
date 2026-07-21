@@ -1,0 +1,356 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-G2-Compare-Report.pdf
+Content type: PDF document
+Title: unknown
+Pages: 10
+Retrieved: 2026-07-21
+
+============================================================
+
+G2 Keepit 
+Compare Report
+Side-by-side comparisons with 
+alternative SaaS backup solutions
+The information contained in this guide 
+represents data from G2 Spring 2026 
+Comparison Reports for SaaS backup 
+software in collaboration with Keepit to 
+help software buyers choose a SaaS data 
+protection solution they can trust.
+
+G2 Keepit Compare Report  |  2
+Source: G2 Spring 2026 Index Reports for SaaS Backup, G2.com, Inc.
+Purpose
+Choosing a SaaS backup and recovery solution often comes down to more than just features 
+— it’s about trust, reliability, and long-term data protection strategy. 
+This report provides a side-by-side comparison of Keepit and alternative SaaS backup 
+solutions based on verified user feedback from G2. It is designed to help IT and security 
+teams evaluate how platforms perform in real-world environments, across usability, support, 
+and overall satisfaction.
+About G2
+G2 is the world’s largest and most trusted software marketplace. More than 90 million 
+people annually — including employees at every Fortune 500 company — use G2 to make 
+informed software decisions based on peer reviews. 
+To ensure credibility, G2 verifies reviewers through LinkedIn or business email validation, and 
+all reviews are moderated before publication. Rankings and scores reflect authentic user 
+experiences and publicly available data. 
+Data note: All data in this report is sourced from the G2 SaaS Backup category and reflects available 
+metrics from G2 Spring 2026 Reports. Metrics shown may vary by vendor based on review volume and data 
+availability.
+•	 Built for independent, resilient data protection 
+•	 Simple to manage, fast to recover 
+•	 Predictable pricing and scalable 
+•	 Designed for compliance and control 
+•	 One platform for multiple SaaS applications 
+G2 Keepit Compare Report
+Why users choose Keepit
+
+G2 Keepit Compare Report  |  3
+Source: G2 Spring 2026 Index Reports for SaaS Backup, G2.com, Inc.
+The right backup and recovery solution for SaaS applications
+Cost and scalability
+Compliance
+Recovery
+Management
+Security
+Predictable pricing model 
+Unlimited storage and data 
+consumption 
+Zero hidden costs
+Do not pay for keeping data 
+from departed users
+Independent data centers 
+Data residency options 
+Built-in redundancy
+No third-party data sub 
+processers 
+Unlimited retention
+Broad coverage of critical 
+SaaS applications
+Search capabilities
+Live document preview 
+before restore
+Point-in-time navigation/
+restore
+Recovery from single item 
+to tenant level
+Simplicity and ease-of-use
+Automated backups
+Backup configuration
+Flexible retention policies 
+Immutable blockchain-
+verified storage
+Configurable admin 
+permissions
+Multi-geo configuration
+SSO and MFA
+ISO 27001 certified 
+platform and data centers
+Considerations when choosing
+
+G2 Keepit Compare Report  |  4
+Source: G2 Spring 2026 Index Reports for SaaS Backup, G2.com, Inc.
+Keepit vs. Acronis Cyber Protect Cloud
+Overall rating
+G2 comparison highlights
+What customers say about Keepit
+Where Keepit is different
+•	 Independent backup architecture, separate from SaaS production environments 
+•	 Immutable backups by default with strong encryption  
+•	 Unlimited storage with long-term retention  
+•	 Focused SaaS backup platform designed for simplicity and reliability
+4.7/5
+4.7/5
+Meets 
+requirements
+92%
+91%
+Quality of 
+support
+92%
+89%
+Ease of admin
+91%
+91%
+Storage 
+capacity
+96%
+95%
+Product 
+direction
+97%
+95%
+“I use Keepit for Office365 backups, benefiting from unlimited storage, 
+peace of mind, and simple restores. The powerful search feature and user 
+self-restoration save me time.”
+Michael F., Verified Keepit user 
+“It is very easy to setup and to use. It is very easy to add new connectors.”
+Verified user in manufacturing, Enterprise (>1000 emp.)
+Note: Comparisons reflect available G2 data within the SaaS Backup category. 
+Metrics may vary by vendor based on available data from G2 Spring 2026 Reports.
+
+G2 Keepit Compare Report  |  5
+Source: G2 Spring 2026 Index Reports for SaaS Backup, G2.com, Inc.
+Keepit vs. AvePoint Confidence Platform
+Overall rating
+G2 comparison highlights
+What customers say about Keepit
+Where Keepit is different
+•	 Independent architecture not tied to a third-party hyperscaler 
+•	 Consistent user experience across workloads in a single platform 
+•	 Predictable pricing with unlimited storage 
+•	 Designed to reduce operational overhead for IT teams 
+4.7/5
+4.5/5
+Meets 
+requirements
+92%
+91%
+Ease of use
+91%
+91%
+Likelihood to 
+recommend
+94%
+92%
+Ease of admin
+91%
+90%
+Storage 
+capacity
+96%
+94%
+“I love Keepit for its ease of use and straightforward interface, which makes 
+the process of managing backups intuitive and efficient.”
+Dan P., Director of Information Services, Mid-market (51-1000 emp.) 
+“I use Keepit for secure, reliable cloud backup of SaaS data, offering 
+unlimited storage, cost-effectiveness, and compliance with ISO 27000. It 
+ensures data sovereignty and long-term retention, especially for Entra ID 
+and M365 data, providing peace of mind for customers.”
+Sabu S., IT Manager, Mid-market (51-1000 emp.)
+Note: Comparisons reflect available G2 data within the SaaS Backup category. 
+Metrics may vary by vendor based on available data from G2 Spring 2026 Reports.
+
+G2 Keepit Compare Report  |  6
+Source: G2 Spring 2026 Index Reports for SaaS Backup, G2.com, Inc.
+Keepit vs. Barracuda Cloud-to-Cloud Backup
+Overall rating
+G2 comparison highlights
+What customers say about Keepit
+Where Keepit is different
+•	 Independent cloud architecture designed for resilience and isolation 
+•	 Strong focus on usability and fast, granular recovery 
+•	 Unlimited storage with long-term retention 
+•	 Built specifically for SaaS data protection, not adapted from broader portfolios
+4.7/5
+4.5/5
+Meets 
+requirements
+92%
+90%
+Ease of use
+88%
+Quality of 
+support
+92%
+88%
+Storage 
+capacity
+96%
+93%
+Product 
+direction
+97%
+93%
+“Keepit provides a comprehensive backup solution that ensures our data 
+is safe and easily recoverable. Its ease of integration with our current 
+infrastructure has simplified our backup management, reduced the risk of 
+data loss, and given our team peace of mind.”
+Verified Keepit user in healthcare, Mid-market (51-1000 emp.)
+“Support is very good and responds in a good time.”
+Rafael A, Infra Analyst, Mid-market (51-1000 emp.)
+Note: Comparisons reflect available G2 data within the SaaS Backup category. 
+Metrics may vary by vendor based on available data from G2 Spring 2026 Reports.
+91%
+
+G2 Keepit Compare Report  |  7
+Source: G2 Spring 2026 Index Reports for SaaS Backup, G2.com, Inc.
+Keepit vs. Cohesity
+Overall rating
+G2 comparison highlights
+What customers say about Keepit
+Where Keepit is different
+•	 Purpose-built SaaS backup and recovery platform with a streamlined 
+user experience 
+•	 Independent architecture separate from production environments 
+•	 Faster time to value with minimal setup and administration 
+•	 Predictable storage model with long-term retention
+4.7/5
+4.4/5
+Meets 
+requirements
+92%
+Ease of use
+91%
+Quality of 
+support
+92%
+91%
+Likelihood to 
+recommend
+90%
+SaaS App 
+Variety
+88%
+83%
+“Reliable backup solution with seamless integration and excellent support.”
+Verified Keepit user in Healthcare, Mid-market (51-1000 emp.)
+“Great service, you can contact them directly and they are eager 
+to help. Good, stable product.”
+Stefaan R., Windows server administrator, Enterprise (>1000 emp.)
+Note: Comparisons reflect available G2 data within the SaaS Backup category. 
+Metrics may vary by vendor based on available data from G2 Spring 2026 Reports.
+91%
+91%
+94%
+
+G2 Keepit Compare Report  |  8
+Source: G2 Spring 2026 Index Reports for SaaS Backup, G2.com, Inc.
+Keepit vs. HYCU
+Overall rating
+G2 comparison highlights
+What customers say about Keepit
+Where Keepit is different
+•	 Reliable backup and recovery solution
+•	 Independent, vendor-neutral backup architecture 
+•	 Unlimited storage with long-term retention built in 
+•	 Consistent experience across multiple SaaS applications
+4.7/5
+4.7/5
+Meets 
+requirements
+92%
+Quality of 
+support
+94%
+92%
+Storage 
+capacity
+Likelihood to 
+recommend
+Product 
+direction
+“With Keepit, headaches with cloud backups are a thing of the 
+past. Keepit solves central challenges for us in data protection and 
+compliance – without complex configuration.”
+Verified user in Aviation & Aerospace, Enterprise (>1000 emp.)
+“We use it extensively for Microsoft 365 and Google Workspace, and it 
+consistently delivers high availability and compliance-grade protection.”
+Bogdan M., Senior IT Administrator, Mid-Market (51-1000 emp.)
+Note: Comparisons reflect available G2 data within the SaaS Backup category. 
+Metrics may vary by vendor based on available data from G2 Spring 2026 Reports.
+92%
+96%
+97%
+97%
+88%
+92%
+89%
+
+G2 Keepit Compare Report  |  9
+Source: G2 Spring 2026 Index Reports for SaaS Backup, G2.com, Inc.
+Thousands of IT professionals rely on Keepit to protect their SaaS data. Across G2 reviews, 
+customers consistently highlight ease of use, reliability, and responsive support. 
+Read all Keepit reviews →
+“A game-changer in data protection: I appreciate 
+Keepit’s reliable backup, easy recovery, intuitive 
+interface, and excellent customer support.”
+Paramjeet S. 
+Mid-market (51-1000 emp.)
+“I like Keepit’s ease of use, simple deployment, 
+advanced settings and comprehensive coverage. 
+The low overhead required to keep this product 
+running and usefulness for the company is what 
+makes it shine.”
+Ken S.  
+Mid-market (51-1000 emp.)
+“Sleek and simple to use robust SaaS backup 
+platform. I like the modern and easy UX, support 
+for a wide range of SaaS applications and it is very 
+efficient in search and restore.”
+Sagar K.  
+Enterprise (>1000 emp.)
+What customers say about Keepit
+“I was able to configure the backup system in just a 
+few clicks.”
+Verified user in financial services 
+Mid-market (51-1000 emp.) 
+“I really appreciate Keepit’s reliability and its 
+seamless integration with Microsoft 365. It 
+functions as a ‘set it and forget it’ backup system 
+for my 365 data, ensuring peace of mind with its 
+trustworthy performance.”
+Verified user in Telecom 
+Small business (50 or fewer emp.)
+“Protects our office 365 data with no day-to-day 
+effort from us.”
+James C. 
+Mid-market (51-1000 emp.)
+“It helps us address the risk of data loss, therefore 
+making us compliant to GDPR.”
+Richard B. 
+Small business (50 or fewer emp.)
+“Comprehensive and full featured backup tool 
+Restoration of Salesforce backups is quick and 
+much easier than our previous system.”
+Lee F.  
+Mid-market (51-1000 emp.)
+
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing 
+data in a vendor-independent cloud to safeguard essential business applications, boost cyber 
+resilience, and future-proof data protection. www.keepit.com
+Backup, recover, and restore your SaaS data
+See Keepit in action
+Resilience starts with intelligent choices
+Book a demo
+© 2026 Keepit. All rights reserved
+4.7 out of 5

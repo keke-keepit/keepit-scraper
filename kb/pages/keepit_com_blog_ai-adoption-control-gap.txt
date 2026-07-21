@@ -1,0 +1,44 @@
+Source URL: https://www.keepit.com/blog/ai-adoption-control-gap/
+Content type: Web page
+Last modified: 2026-06-30T10:01:07+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The illusion of control: What 300 IT leaders told us about adopting AI
+AI is everywhere right now. Open a browser, open a Microsoft product, sit in any board meeting — it's the only thing anyone wants to talk about. So, when we sponsored a survey of more than 300 senior IT decision-makers, I expected the numbers to show an industry moving fast.
+They did. What surprised me was the confidence. Many organizations believe agentic AI is already under control, but recovery habits have barely changed. That is the gap: AI is accelerating, confidence is high, and the recovery muscle is not getting stronger at the same pace.
+By agentic AI, I mean systems that do more than generate content. They can take actions, call tools, move through workflows, and change data. That is why governance and recovery matter so much.
+The adoption-control gap
+More than half of respondents (53%) said agentic AI is fully implemented across the organization, with another 40% running limited pilots or departmental rollouts.
+Let's start with fully implemented. It should mean you have mapped and classified your data, know what enters AI tools, understand your AI footprint across connected services, trained the workforce, and built governance that keeps up. If those answers are soft, fully implemented is optimistic.
+The pressure is real. Cisco found that 97% of CEOs plan to integrate AI into their operations, while only 1.7% of CIOs feel fully prepared. That distance between executive expectation and operational readiness is exactly where the illusion lives.
+And it's not only the AI you chose, it's also the shadow AI you didn't. People bring their own tools, often without understanding where data goes. At a recent roundtable, one CISO told us his company may have around a thousand agents running, and they're no longer sure what all of them touch.
+Now looking at control, confidence climbs again: 67% say IT and security have full control and clear governance over agentic AI. The remaining third say governance is still developing.
+That should concern us more than comfort us. It’s also, weirdly, where it becomes more fun to be a CISO again. Policies on data classification, governance, and criticality suddenly matter to everyone, but a policy is worthless if it can't keep pace with change. The faster AI moves, the further static governance drifts from reality.
+AI doesn't stay in one lane
+AI refuses to stay where you put it. IT and operations lead at 78%, but cybersecurity and risk management is already second at 57%.
+Every new workflow expands the surface area to govern. A single, confident claim of control gets harder with every tool, agent, and third-party connection.
+Why the illusion is more dangerous now
+AI raises risk on two fronts at once. Externally, the same superpowers we give developers are available to attackers. Reconnaissance that used to take time can now happen in seconds, and every connected system becomes part of your exposure.
+Internally, AI helps good people make mistakes faster. A person can only do so much damage in a minute; an AI can do the equivalent before anyone notices. Give a carpenter a hammer and they build something beautiful. Give a child the same hammer and they'll build something too, while breaking a few things on the way.
+It's brilliant at changing things and poor at rewinding them. Point an enthusiastic agent at your OneDrive to do something interesting, and you can create an irreversible change in seconds. We have seen mailbox clean-up agents send replies to emails more than a year old. The intention was good. The result was not.
+The recovery gap should worry all of us
+We ran a similar survey a year ago, before the AI conversation took over, focused on how often organizations test recovery plans, where the data showed that 1 out of 10 had not tested at least annually. This year, the Foundry survey found that only 1% rarely or never tested their disaster recovery plans.
+Keepit’s Annual Data Report found that 9 out of 10 commercial and enterprise organizations performed bulk restores at least once in the previous year, supporting the findings in the Foundry survey.
+With AI accelerating attacks and accidents, you'd expect more organizations to move toward monthly or weekly recovery testing. Instead, nothing moved. Our read is that teams are so absorbed in implementing AI that they have stopped exercising the muscle that saves them when something goes wrong — at precisely the moment the risk to their infrastructure is racing ahead at the speed of AI.
+What teams are actually worried about
+When we asked about disaster recovery in an agentic-AI environment, the biggest high-concern issue was lack of understanding of AI risks: 55% rated it a 9 or 10. No clear ownership or accountability followed at 47%.
+Ownership matters. IT can own access, offboarding, billing, and the plumbing, but AI isn't like email. It can do too many things for accountability to stay obvious. The rule is simple: just because AI helped you do something doesn't mean you're not accountable.
+What real control looks like
+The illusion is fixable: Start with live data governance and classification and work with the people closest to the systems and data so policy becomes something they use, not something they ignore.
+Stand up a center of excellence to choose tools, set guidelines, and own the governance framework. Make training mandatory, graduated, and continuous. No training, no AI access.
+Treat recovery as a playbook, not an improvisation. Know your critical data, where it lives, how long you can survive without it, and the order in which systems come back. Decide that in calm, not in a crisis, and test more often than you used to.
+Finally, build intentional control. You need an independent, immutable system of record you can roll back to. Scope control ensures agents reach only intended data. Make agents visible with auditable rights and build guardrails with full audit trails so you can always answer what changed and why.
+The maturity gap is real — and it's the place to start
+Only 28% of organizations rate their SaaS disaster recovery as optimized — automated, integrated, continuously improving. A combined 40% are still reactive or developing as AI raises the stakes. If you're in that 40%, you don't need to fix everything at once, but you do need to know which step is next.
+The one thing to take away
+Slow down, just a little: Don't deploy AI for the sake of AI. Decide the outcome, prove small wins, build advocates, and spread deliberately. Gartner predicts more than 40% of agentic AI projects will be cancelled by the end of 2027 because of cost, unclear value, or inadequate risk controls. Intentionality is how you stay out of that number.
+Cost and dependency matter too. AI can look cheap in a pilot and expensive at scale. As teams rely on AI to draft, analyze, summarize, or automate, they also need a plan for working when AI is unavailable.
+Above all, keep the human in the loop. We hire people for empathy and judgment — the things AI does not have. Control today is mostly an illusion. You earn the real thing through data governance, training, tested recovery, and intentional, auditable rollout.
+Want to know where your organization sits on the recovery maturity curve? Keepit's disaster recovery maturity framework maps the five stages and what it takes to move up.

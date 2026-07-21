@@ -1,0 +1,30 @@
+Source URL: https://www.keepit.com/press/azure-ad-advanced-protection-launch/
+Content type: Web page
+Last modified: 2025-08-15T00:32:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Leading SaaS Data Protection Provider Keepit Launches Advanced Protection for Microsoft Azure AD
+New Cloud Data Protection and Recovery Solution Offers Unrivaled Protection for Azure AD Users
+COPENHAGEN, DENMARK – November 29, 2022 – Keepit, the market leader in cloud data protection and management, today announced the launch of its Azure AD Advanced connector, its full data protection solution for Microsoft Azure Active Directory. Keepit is the world’s only independent, vendor-neutral cloud dedicated to Software-as-a-Service (SaaS) data protection with a blockchain-verified solution.
+Azure AD Advanced is an extension of the Azure Active Directory (AD) connector that Keepit added to its multi-cloud backup and recovery solution in a software update earlier this year. Other offerings from the company include coverage for Microsoft Power BI and Azure DevOps, which allows Keepit to offer top-of-the-line data protection for the key Microsoft cloud services.
+“Although Microsoft has invested quite a bit of money in providing user-oriented recovery such as versioning, recycle bin, and preservation features, native protection tools for the directory are weak and have time restrictions,” said Paul Robichaux, Keepit’s Senior Director of Product and a Microsoft Most Valuable Professional (MVP).
+With our leading protection for Azure AD, Keepit helps companies close any Azure AD gaps in their security strategy as well as recover business-critical identity and application objects that Microsoft doesn’t protect.
+With more than 550 million users, Azure AD is considered the heart of the Microsoft cloud ecosystem – making it imperative to protect it from compromises. Azure AD is used by organizations to help control, through secure authentication, who has access to data and user information.
+Failing to properly backup Azure AD can leave companies at risk of experiencing security gaps that can lead to significant downtime, data loss, and lack of access to critical resources. Protecting Azure AD allows for quicker disaster recovery, enhances overall security, safeguards against day-to-day data loss, and improves information technology (IT) efficiency.
+To bolster coverage and recovery, Keepit’s new Azure AD Advanced release includes the following features:
+- Conditional Access policies: Keepit enables IT admins to preserve, restore, inspect, and track differences in Azure AD Conditional Access policies
+- Application registrations: Keepit backs up application objects that have been registered in Azure AD.
+- Service principals/Enterprise applications: Keepit backs up service principals registered in the Azure AD tenant along with their assigned permissions.
+- Intune device configuration policies and device compliance profiles: Keepit helps organizations backup and recover their security-critical Intune device compliance and configuration policies in Azure AD to protect against unwanted or accidental changes that might affect device access.
+- BitLocker key protectors: in an industry first, Keepit allows customers to protect and restore BitLocker key protectors to ensure continued access to BitLocker-encrypted devices.
+ 
+Keepit’s new Azure AD Advanced release allows customers to enable data protection instantly, helping to avoid scenarios that require rebuilding the Azure AD environment from scratch. In addition to protecting data in Microsoft Azure AD, Keepit also provides fully automated coverage for other key business applications, including Microsoft 365, Microsoft Dynamics 365, Google Workspace, Salesforce and Zendesk.
+With its unmatched ease-of-use, fast restore features that minimize downtime, and cost-effectiveness, Keepit continues to be the solution that organizations rely on to protect their cloud-based data.
+About Keepit
+Keepit is a software-as-a-service company that provides dedicated data protection for companies with data stored in the cloud. Keepit is the world’s only vendor neutral and independent cloud dedicated to SaaS data protection.
+Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. For more information visit www.keepit.com or follow Keepit | LinkedIn.
+Media Contact:
+Katrine Palsby for Keepit
+press@keepit.com

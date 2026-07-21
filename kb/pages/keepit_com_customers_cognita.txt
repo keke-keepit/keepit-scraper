@@ -1,0 +1,33 @@
+Source URL: https://www.keepit.com/customers/cognita/
+Content type: Web page
+Last modified: 2025-11-28T13:25:59+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Cognita and Keepit: Scaling operations during international expansion
+Growing at a rapid pace, global schools group Cognita required a compliant and reliable backup and recovery platform to secure their vast amounts of sensitive student data in Microsoft 365 and Google Workspace. During the process of enhancing their group systems, Keepit has proven to be a crucial partner by supporting the organization to scale and meet ever-increasing cybersecurity standards, provide cost-effective backup and prepare the schools to tackle an evolving regulatory landscape.
+A platform that covers multiple workloads seamlessly
+As a leading global schools group, Cognita and its IT team take cybersecurity seriously. As they
+were embarking upon a standardization of their group processes, including re-architecting their systems, backing up Microsoft 365, Microsoft Entra ID and Google Workspace data was a top priority. Keepit came recommended to Cognita by Phoenix Software, a longstanding partner focused on modernizing workplaces through cutting-edge technologies.
+The Keepit platform gives full visibility and control over Cognita’s systems, providing one scalable backup platform that covers multiple SaaS workloads. This helps Cognita to be confident that all their critical data is backed up and easy to monitor. “We’ve now got complete confidence and visibility that all of our Microsoft 365 and Google Workspace user data is being backed up on a single platform,” says James Mallett, Head of Global Infrastructure at Cognita. He continues; “Since Microsoft doesn’t guarantee our data, I need a solution like Keepit. Data retention is absolutely key for us, and ultimately the data is my responsibility.”
+My job is to ensure business continuity, compliance and resilience. I wouldn’t be fulfilling my responsibilities if I didn’t rely on a third-party backup provider like Keepit.
+– James Mallett, 
+Head of Global Infrastructure, Cognita
+Confidence and support in achieving data residency
+With increasing regulations putting a spotlight on data sovereignty, Cognita is ensuring their ability to respond to any and all requirements coming their way. “Data residency is definitely a conversation we’re following. We are continuously engaging with experts in our regions to ensure that we are doing the right things. A solution like Keepit can help us stay ahead of the curve by providing data centers in multiple locations,” says James Mallett.
+With seven data center regions, across the Americas, Europe, UK, and Asia-Pacific, Keepit can help Cognita store data in varying locations across the world, taking into consideration local regulations and requirements.
+A solution like Keepit can help us stay ahead of the curve by providing data centers in multiple locations.
+– James Mallett, 
+Head of Global Infrastructure, Cognita
+A platform that is easy to use – and budget
+“The benefit with Keepit is that we can easily replace the users when we need to – and because it’s a flat fee per user, we have the ability to control our budgets,” explains James Mallett.
+With unlimited data retention and storage, Cognita has one less thing to worry about when dealing with student data. Other Keepit features such as the data monitoring dashboard facilitate full visibility and control over data, and who is accessing it.
+Ease of use also ensures that limited IT resources are used appropriately. “Like all other IT teams, we don’t have enough hours in the day to do all the things we’d like, so an easy, smooth interface is a huge advantage to Cognita,” explains James Mallett.
+Easy integration and future-proof backup
+Keepit is easily integrated with existing, automated processes, giving IT and HR the confidence that employee data is backed up and retained properly, all throughout the user lifecycle. Adding, moving and removing employees is seamlessly synchronized with Microsoft 365 and Keepit licensing to ensure accuracy and business continuity.
+“I’ve used different backup platforms for Microsoft 365. I found that Keepit is a lot more responsive and a lot quicker,” says James Mallett when describing the Keepit platform. “We are really looking forward to rolling out Keepit backup and recovery for other important applications.”
+The Keepit platform is poised to facilitate even more workloads, ensuring companies like Cognita can secure more applications through a one-stop shop solution.
+With Keepit, I can confidently attend any SLT meeting and can assure them that every user data is backed up.
+– James Mallett, 
+Head of Global Infrastructure, Cognita

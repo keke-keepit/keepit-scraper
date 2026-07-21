@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/help/platform-category/understanding-snapshot-creation-and-backup-success/
+Content type: Web page
+Last modified: 2026-06-23T21:05:29+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Understanding snapshot creation and backup success
+If no changes have occurred in your tenant, a new snapshot will not be created. This is because the previously created snapshot will reflect the current state of your tenant.
+Each time a backup job runs, it checks for any changes in your tenant, backing up all new and modified items and removing items that no longer exist. A new snapshot is then generated to include these updates. For data that remains unchanged, the snapshot simply references previously backed-up data. However, if there are no changes to any data, no new snapshot is created.
+In such cases, even though a new snapshot is not created, the backup will still be marked as successful.

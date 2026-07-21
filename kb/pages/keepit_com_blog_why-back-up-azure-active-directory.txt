@@ -1,0 +1,58 @@
+Source URL: https://www.keepit.com/blog/why-back-up-azure-active-directory/
+Content type: Web page
+Last modified: 2026-02-03T09:18:44+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why backing up Entra ID (Azure AD) is a risk management imperative
+What would happen to your organization’s day-to-day operations if your Entra ID (Azure Active Directory) stopped working?
+How long would it take to recover — and would you even be able to recover, fully?
+Today’s CIOs, CISOs, and other IT leaders wear many hats. With the global surge in cybercrime — particularly ransomware attacks — and occasional outages of cloud services, enterprise risk management is just the latest headpiece.
+Increasingly, IT professionals recognize that under the shared responsibility model, protecting SaaS data in cloud services is the customer’s job, not the cloud provider’s; however, comparatively few realize that failing to create backups of the data associated with identity and access management (IAM) services introduces business risk.
+Too many organizations will find out the hard way that not having a backup of Entra ID (formerly Azure AD) can have costly consequences — and we don’t want you to be one of them!
+That’s why in this post we will:
+- Provide a short overview of what Entra ID is — and why it’s so critical
+- Share a real-world example of what can happen when Entra ID is compromised
+- Explain why Entra ID backups are essential
+- Introduce Keepit Backup and Recovery for Entra ID
+Let’s get started!
+Microsoft Entra ID is a foundational enabler of countless organizations
+Entra ID (Azure Active Directory) is Microsoft’s cloud-based IAM service. Managing more than 1.2 billion identities and processing over 8 billion authentications every day, Entra ID is a foundational piece of infrastructure in countless organizations—from small businesses all the way up to the world’s largest organizations.
+Serving as a universal platform to manage and secure identities, Entra ID helps team members sign in and access:
+- External resources: e.g., Microsoft 365 — including SharePoint, Teams, OneDrive, and Exchange — the Azure portal, and thousands of software-as-a-service (SaaS) applications
+- Internal resources: e.g., apps on your corporate network and intranet, along with any cloud apps developed by your own organization
+Behind the scenes, IT administrators use Entra ID to control access to your apps and your app resources based on the specifics of each user’s role and your business requirements. In Microsoft’s words, “For example, you can use Entra ID to require multi-factor authentication when accessing important organizational resources.
+Additionally, you can use Entra ID to automate user provisioning between your existing Windows Server AD and your cloud apps, including Microsoft 365. Finally, Entra ID gives you powerful tools to automatically help protect user identities and credentials and to meet your access governance requirements.”
+In short: Entra ID is part of the infrastructure of modern organizations—and, as is the case with any piece of infrastructure, very bad things happen very quickly if it stops working.
+What would happen if Entra ID (Azure AD) was compromised?
+When IAM services work as intended, you barely notice them—especially with modern conveniences like single sign-on (SSO). Maybe you encounter the occasional multi-factor authentication (MFA) requirement, but, for the most part, all of the real-time, behind-the-scenes magic is not transparent to the end user.
+But what if the magic suddenly stopped due to an outage, attack, or some other interruption?
+We don’t need to speculate, because a 2021 press release from the U.S. Department of Justice recounts the experience of a California-based company that was the victim of a retributive attack in which a former IT consultant sabotaged the organization’s O365 user accounts:
+The attack affected the bulk of the company’s employees and completely shut down the company for two days. As the company’s Vice President of Information Technology (IT) explained, the impact was felt inside and outside the company. Employees’ accounts were deleted – they could not access their email, their contacts lists, their meeting calendars, their documents, corporate directories, video and audio conferences, and Virtual Teams environment necessary for them to perform their jobs. Outside the company, customers, vendors and consumers were unable to reach company employees (and the employees were unable to reach them). No one could inform these buyers what was going on or when the company would be operational again.
+Unfortunately, even after those two days, the problems remained. Employees were not receiving meeting invites or cancellations, employees’ contacts lists could not be completely rebuilt, and affected employees could no longer access folders to which they previously had access. The Carlsbad Company repeatedly handled multitudes of IT problems for three months. The Vice President of IT closed by saying, “In my 30-plus years as an IT professional, I have never been a part of a more difficult and trying work situation.”
+So, to recap:
+- The company was effectively shut down—completely—for two days
+- Customers, as well as internal team members, were severely impacted
+- The ripple effects lasted 4400% longer than the outage itself
+And bear in mind that these outcomes were the result of one angry contractor. It’s not hard to envision a scenario—say, a sophisticated ransomware attack or a prolonged infrastructure outage—with even larger consequences.
+How can such a disaster be avoided?
+Why Entra ID backups are essential
+First, it’s important for IT leaders to recognize that the M365 Recycle Bin was never intended to be an enterprise-level recovery solution, and — as is the case with SaaS applications — your idea of disaster “recovery” may be meaningfully different from Microsoft’s.
+To be resilient in the face of Entra ID outages, compromises, and misconfigurations, your organization needs to be able to search and access Active Directory data quickly and easily, both to use while recovery is underway and to speed up the recovery itself.
+That’s why truly managing risk requires a third-party backup solution that:
+- Protects users and groups by providing snapshot-based restoration and timeline-based comparative analysis
+- Preserves roles and permissions, with change tracking and straightforward comparisons
+- Enables compliance and eDiscovery, for instance by capturing audit and sign-in logs, supporting log analysis, ensuring long-term retention, and enabling restoration to another site
+- Accommodates growth into policies and devices by preserving device information and conditional access policies
+Again, these requirements extend well beyond the functionality of Microsoft’s backup capabilities, because they have a much broader and deeper intent.
+Keepit Backup and Recovery for Azure Active Directory (Entra ID)
+Keepit Backup and Recovery for Entra ID provides full protection for the core of your business. This free backup solution is a simple — yet powerful — service to help you take control by safeguarding your Azure AD infrastructure from accidental deletions, ransomware, and other potentially devastating Active Directory outages.
+Providing the most complete Entra ID (Azure AD) backup coverage in the market, our service:
+- Helps you avoid disruption due to lost or inaccessible data by enabling instant search and comprehensive recovery across Users, Groups, Roles, Administrative Units, Audit Logs, and Sign-In Logs
+- Simplifies data compliance by allowing you to view Entra ID at points in the past to quickly see what changes have occurred and — if necessary — correct them
+- Is always secure, using Blockchain-based encryption technology to ensure backups are immutable to modification (e.g., by ransomware) and data loss
+- Is cost effective, removing expensive costs associated with long-term on-premises or cloud-based storage
+ 
+As we wrote in the introduction, too many organizations will learn from experience that an Entra ID disruption can have costly consequences.
+Keepit Backup and Recovery for Entra ID helps you avoid their fate. Get your free Entra ID protection today.

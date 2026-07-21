@@ -1,0 +1,47 @@
+Source URL: https://www.keepit.com/blog/why-m365-data-backup-for-healthcare-organizations/
+Content type: Web page
+Last modified: 2025-08-20T00:30:46+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why Microsoft 365 backup for healthcare organizations
+It’s easy to get a false sense of security and assume that your Microsoft 365 data is safe and secure because M365 automatically backs up your SaaS data for simple recovery, right?
+Well, not so fast.
+While M365 and most other SaaS platforms offer some sort of data protection and recovery features, it’s bare bones at best. For healthcare organizations, this opens Pandora’s box for compliance and continuity issues that can end up costing hundreds of thousands of dollars in fines. And on top of that, add the inability to serve patients and conduct daily business.
+It's critical to have timely and secure access to patients’ highly sensitive personally identifiable information (PII), protected health information (PHI), financial information, intellectual property, and credentials. However, given how this information has grown exponentially, data loss prevention has never been more necessary to ensure business continuity.
+It’s crucial to understand that retention requirements far exceed what SaaS applications typically deliver natively, making it vital to close the gap with a reliable backup and recovery tool.
+For healthcare organizations, compliance and continuity are the two main factors driving the need for third-party SaaS backup.
+Regulatory compliance
+The Health Insurance Portability and Accountability Act of 1996 (HIPAA) makes healthcare delivery organizations legally obligated to preserve certain types of information for periods that exceed a SaaS service’s built-in capabilities.
+As the HIPAA Journal explains, each state has its own laws governing the retention of patients’ medical records. To complicate things further, those retention periods can vary considerably. 50 states with 50 retention requirements: Is this something your healthcare organization wants to (or can afford to) manage?
+Individual U.S. state laws govern the retention of patients’ medical records, while HIPAA imposes requirements on how long HIPAA-related documents must be retained.
+According to the HIPAA Journal, “In Florida, physicians must maintain medical records for five years after the last patient contact, whereas hospitals must retain them for seven years. In North Carolina, hospitals must maintain patients’ records for 11 years from the date of discharge, and records relating to minors must be retained until the patient has reached 30 years of age.”
+The hard truth is that SaaS services do not deliver the level of backup and recovery required for healthcare organizations, and what they do provide isn’t seamless.
+Business continuity
+Imagine the worst-case scenario where your mission-critical data is suddenly gone—it’s not hard to imagine since it happens to companies every day. Healthcare organizations rely on the information stored in SaaS systems to maintain their business continuity. If the information suddenly becomes unavailable, then significant disruption results.
+Continuity considerations
+Things can (and do) go wrong with SaaS data: a simple misconfiguration can cause primary data sources to become unavailable, making accidental deletion a real risk, which may not be discovered until it’s too late to recover from the SaaS app – and may be unrecoverable even if you do find it quickly.
+In fact, according to ESG Research, the most common reasons for data loss are service outages and accidental deletion, as seen here:
+Still, accidents, misconfigurations, and other ‘innocent’ causes aren’t the only ways to lose data.
+In recent years, ransomware gangs have set their sights on the healthcare sector and, unfortunately, have been successful in their efforts to disrupt and demand payment for the data’s return.
+Fulfilling regulatory obligations
+Few people like being told what to do, but it turns out that governments do have the authority to compel action.
+In the U.S., federal and state laws impose strict requirements around data retention for different healthcare records and information types. Additionally, regulations are subject to change, adding more pressure to comply to avoid a regulatory audit and heavy fines. Failure to comply can lead to significant financial and legal exposure, such as lawsuits, fines, settlements, and certification losses, further increasing the risk of data breaches.
+For Healthcare delivery organizations (HDOs) committed to minimizing or avoiding these risks, having a proper backup and recovery practice in place is key to compliance.
+Third-party backup and recovery services help you stay compliant by ensuring your data remains immutable and tamperproof. Immutable data and metadata make it possible for you to document and recover not just all data but all data processing, ensuring that auditors have complete visibility of everything that has impacted the data.
+If complying with laws (and avoiding potentially hefty fines) isn’t enough to secure the budget, there are other reasons to invest in SaaS backup, such as mitigating downtime and costs.
+Protecting business continuity
+In a presentation titled “Conti Ransomware and the Healthcare Sector,” the United States Department of Health and Human Services (HHS) relayed that:
+- the average length of a general ransomware incident is 19 days.
+Cybersecurity provider Sophos reported that 25% of healthcare organizations disrupted by ransomware took up to a month to restore operations. Sophos' research also suggests that:
+- the average remediation cost for healthcare organizations soared to USD 1.85M in 2021 (up from USD 1.27M in 2020).
+Keeping services operational is essential for maintaining the revenue that sustains an organization. That’s why having reliable backups that can quickly and easily be restored is paramount.
+Unfortunately, the reality is that data outages are a matter of when, not if, making your ability to recover key data (and fast!) a necessary part of business continuity planning. Additionally, the shorter the outage, the lower the recovery and remediation costs, making loss avoidance a compelling part of the value proposition.
+Recovery processes and costs can also include Digital Forensics and Incident Response (DFIR) activities, whether mandated by cyber insurance coverage, necessary for root cause analysis, driven by a motivation to prosecute, or some other reason.
+Third-party backups assist DFIR activities by providing trustworthy information that extends further back in time than what can be pulled from SaaS applications.
+But being able to restore services quickly from a dedicated SaaS backup doesn’t just protect revenue and minimize recovery costs, it also means you avoid paying the ransom and lower your cyber insurance fees.
+How to protect your SaaS data today
+If you can recognize some of the data backup and recovery vulnerabilities discussed here within your own healthcare organization, the good news is that it’s easy and cost effective to address those challenges and help secure your organization’s data.
+Unintentional and malicious data losses don’t offer the convenience of a “heads up,” so it’s a wise business decision to have a proper backup and recovery solution in place before you need it – and as such, it should be an integral part of your cybersecurity approach. Only backup allows you to go back in time and recover to before bad things happened!
+If you’d like to learn more about compliance and continuity for healthcare organizations, access the Keepit healthcare eBook here.

@@ -1,0 +1,38 @@
+Source URL: https://www.keepit.com/resources/key-trends-and-challenges-in-saas-data-protection/
+Content type: Web page
+Last modified: 2025-08-14T23:51:37+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+On-demand webinar: The Key Trends and Challenges for SaaS Data Protection in 2022
+Presented by: Christophe Bertrand, Practice Director at ESG, and Lasse Thomsen, Information Systems Manager at Oxford University Innovation.
+In this webinar, key speakers from ESG and Oxford University Innovation will help you understand what it takes to be prepared for today's SaaS data protection challenges. They'll also provide real-life examples of data loss and recovery and explain how you can implement best practices for data protection in your business.
+The risks of cloud data loss and unavailability are rising
+The world is constantly changing. Knowing the key challenges of SaaS data protection -and how to overcome them- can help prepare you for a potential data loss incident and avoid or reduce downtime.
+In this webinar, Christophe Bertrand, from the renowned analyst firm ESG, will guide you through a detailed analysis of why the risks of cloud data loss and unavailability continue to increase, why traditional backup and disaster recovery must evolve in the light of ransomware and why organizations must consider new ways and solutions to protect their data.
+Next, Lasse Thomsen from Oxford University Innovation will tell you why he thinks you need a 3rd party backup and recovery solution for your SaaS data and how Keepit has saved him on two specific data loss occasions. He will then dive into his hands-on experience of using and working with Keepit.
+To provide you with even more real-life insights, we've arranged a Q&A session where Lasse will answer Christophe’s most relevant – and toughest - questions on SaaS data protection challenges, as well as provide advice on best practices.
+Don’t miss this hour of invaluable data and real-life insights from some of the brightest minds in the SaaS data protection space!
+What you'll learn in this webinar:
+- The Key Trends and Challenges for SaaS Data Protection in 2022 by Christophe Bertrand from ESG
+- The Real-life Challenges and Solutions for SaaS Data Protection by Lasse Thomsen from Oxford University Innovation
+- Lasse’s best practices, including how he approaches this complex environment, and how he prepares for ransomware
+You’ll get specific insights on:
+- How often does ransomware has a financial and operational impact (spoiler: Very often!)
+- What the average restore times are for SaaS-based applications
+- The SaaS data protection disconnect
+- Top reasons for SaaS data loss
+- Two actual events where Oxford University Innovation needed a backup & recovery solution
+- Lasse's best practices for data protection
+- Why Oxford University Innovation chose Keepit and how it is to work with us
+- And much more!
+Get tons of valuable insights on what the future brings and learn how to protect your cloud data.
+Meet the speakers
+Christophe Bertrand, Practice Director at Enterprise Strategy Group (ESG)
+Christophe covers Data Protection: Backup, BC/DR, DRaaS, GDPR, and Ransomware at ESG. Christophe has 30 years of experience and has spent most of his career in the data storage and data protection space with companies such as Legato Systems (now EMC), VERITAS, Maxtor, Hitachi Data Systems, DataDirect Networks, and most recently Arcserve.
+ 
+Read more about Christophe here. 
+Lasse Thomsen, Information Systems Manager, Oxford University Innovation (OUI)
+Lasse has 20 years of 3rd level support and consultancy and +10 years of hands-on IT management experience from the NHS, Lego, and Zurich before joining Oxford University Innovation as an Information Systems Manager. He has a broad skill range in Microsoft-based systems and has been part of major business transformation projects for Office 365 and Dynamics 365.
+Read more about Lasse here.

@@ -1,0 +1,135 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Data-protection-factsheet.pdf
+Content type: PDF document
+Title: unknown
+Pages: 1
+Retrieved: 2026-07-21
+
+============================================================
+
+of organizations 
+have updated their 
+disaster recovery 
+(DR) plans to include 
+SaaS data.
+are planning 
+updates within six 
+to 12 months...
+40%
+50%
+ONLY
+Are organizations leaving critical SaaS 
+applications unprotected?
+Senior decision-makers are not confident in their ability to protect SaaS data — but does this 
+stem from gaps in operations and cyber resilience planning? Let’s dive deeper into leadership 
+concerns and the reality of where organizations stand.
+THE SAAS DATA PROTECTION GAP
+But is this lack of confidence based on perception or reality?  
+Let’s look at the research to see what IT teams are actually doing.
+The data confirms executives’ concerns. 
+IT teams are struggling to keep SaaS data fully protected.
+of executives report 
+moderate to severe 
+lapses in confidence 
+about their SaaS data 
+protection.
+31%
+Concerns among c-level 
+respondents
+TOP 3
+If leaders aren’t 
+confident, should 
+organizations be worried?
+THAT’S NOT GOOD ENOUGH.  
+If critical SharePoint data or Microsoft user 
+accounts are left unprotected, businesses 
+risk costly downtime.
+but cyberthreats 
+won’t wait.
+of IT teams cite 
+budget constraints 
+as a major blocker.
+Other barriers include:
+•	 Limited expertise in managing SaaS 
+data protection
+•	 The complexity of managing multiple 
+backup vendors
+56% 
+SaaS applications IT teams 
+planned to prioritize in 2024
+TOP 3
+But what about SharePoint, Entra ID, or other 
+business-critical tools?
+TOP 3
+Flexible, easy-to-deploy 
+architecture
+Visibility into risks affecting 
+critical SaaS applications
+Comprehensive backup 
+across all SaaS applications
+TH E VE RD ICT
+SOURCES
+CONCLUSION
+SOLUTION
+RE ALIT Y
+CONCE RNS
+Go to survey
+Assess your cyber resilience now
+of organizations have  
+less than half of their SaaS 
+applications covered.
+38% 
+[1]  The “SaaS data protection confidence survey” 
+was conducted by Gatepoint Research for 
+Keepit and gathered responses from 100 
+senior decision-makers (C-level, Directors, 
+and VP) in global enterprise organizations 
+across industries such as finance, healthcare, 
+technology, and manufacturing.
+[2]  Foundry survey: 107 IT decision makers 
+(VP, Directors, and Managers) in global 
+organizations with more than 1000 employees 
+(commercial and enterprise segments) were 
+surveyed about their current data protection 
+strategy and their future plans.
+Source: Gatepoint [1]
+Source: Foundry [2]
+Source: Foundry [2]
+Source: Gatepoint [1]
+Source: Gatepoint [1]
+1
+3
+2
+What’s preventing solid 
+SaaS protection?
+Which SaaS applications  
+are being protected?
+Bridging the confidence and coverage gap
+must-haves for a strong SaaS data protection strategy in 2025
+CRM PLATFORMS 
+(Salesforce, HubSpot)
+ERP SYSTEMS 
+(NetSuite, SAP, Workday)
+COLLABORATION AND 
+PRODUCTIVITY 
+(Microsoft 365, Slack) 
+THE RISING VOLUME OF DATA  
+That  must be protected
+COMPLIANCE RISKS
+GROWING EXTERNAL THREATS  
+(Cyberattacks, ransomware, outages)
+1
+2
+3
+1
+2
+3
+BUDGET ROAD BLOCK
+Senior leaders lack confidence in SaaS 
+data protection — and the data confirms 
+they should be concerned.
+How does your organization compare?
+It’s time to align leadership concerns with  
+real-world action.
+Executives are right to worry 
+Is SaaS data protection keeping up?
+Are we really protected?

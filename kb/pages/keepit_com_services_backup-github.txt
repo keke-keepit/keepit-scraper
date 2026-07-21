@@ -1,0 +1,97 @@
+Source URL: https://www.keepit.com/services/backup-github/
+Content type: Web page
+Last modified: 2026-03-09T17:10:45+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup and Recovery for GitHub
+Keep your GitHub data always safe and recoverable in a cloud-native, sovereign platform.
+Why back up GitHub?
+Your data and your settings are your responsibility
+Understanding GitHub’s shared responsibility model is essential to mitigate data loss and its consequences; neglecting it leaves you at risk. GitHub secures the platform and infrastructure; you secure your data, access, and configurations. Accidental or intentional deletions of repository data remain your responsibility to recover.
+Native capabilities are not enough
+GitHub provides a few native retention controls, but these are limited and do not constitute a backup solution. These controls help manage storage and lifecycle but do not replace a dedicated backup strategy for all data and metadata. Your work may get permanently lost without a third-party backup solution.
+The cost of losing your work
+Data loss in GitHub — malicious or accidental — can erase critical source code, compromise security and compliance evidence, and halt development, leading to costly delays, rework, and risks to product integrity and business continuity. Neglecting this risk may lead to long-term reputational damage and jeopardize the future of the business.
+Top benefits
+Time-saving usability
+Easy to implement and intuitive, Keepit requires minimal expertise to use — while delivering confidence in your ability to swiftly recover your data whenever you need it.
+Confidence in recovery
+Have your data always at your fingertips with comprehensive, automated backups and flexible restoring of repositories, settings, metadata and more.
+Centralized management
+A unified platform for all backups across critical SaaS applications — provides transparency, visibility, and easy reporting for managers and leadership.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+What we cover
+- Blobs and trees
+- References
+- Branches
+- Commits
+- Tags
+- Teams
+- Repository settings
+- Repository collaborators
+- Pull requests
+- User
+We continuously extend our capabilities. Find the complete, current coverage here.
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic
+Head of IT, TALKE Group Germany 
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+Frequently asked questions
+Like with most SaaS applications, GitHub secures their platform and infrastructure, and customers are responsible for their own data, access management, and configurations. On top of being responsible for recovering data in the case of accidental or intentional loss, customers also take responsibility over data compliance.
+Relying solely on native capabilities leaves you vulnerable when the platform itself is compromised. So, third-party backup is the only surefire way to mitigate any damage resulting from cyberattacks, downtime, or human error.
+Keepit offers simple, per-seat pricing. Full conditions depend on the service package you choose. For more details, visit our pricing page.
+Awarded for its broad SaaS coverage, impenetrable architecture, and ease-of-use, Keepit ensures that your GitHub data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams.
+Your data will be securely stored in Keepit’s independent cloud. We run our own data centers, operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have seven data center regions in:
+- Americas: Washington D.C., USA and Toronto, Canada
+- Europe: London, United Kingdom and Zurich, Switzerland
+- EU: Copenhagen, Denmark and Frankfurt, Germany,
+- Asia-Pacific: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always stay in that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the move with all affected customers prior to execution.

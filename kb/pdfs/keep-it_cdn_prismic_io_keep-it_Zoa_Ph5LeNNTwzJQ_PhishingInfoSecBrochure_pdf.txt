@@ -1,0 +1,124 @@
+Source URL: https://keep-it.cdn.prismic.io/keep-it/Zoa_Ph5LeNNTwzJQ_PhishingInfoSecBrochure.pdf
+Content type: PDF document
+Title: unknown
+Pages: 7
+Retrieved: 2026-07-21
+
+============================================================
+
+INTERNAL
+PhishingWhat to do? 
+Name
+: Maryna Tokarska
+Work 
+T itle
+: Security Analyst (SOC)
+Email
+: mto@keepit.com
+Date
+: 20
+. 09 .202
+3
+Current 
+Version: 
+2 .0 [change of dedicated for phishing email 
+address
+– phish
+ing@
+keepit.com
+]
+Previous
+Version: 1.0 
+[introduction of brochure]
+
+Table of content
+1. Introduction
+2. What is Phishing? 
+3. How does it look like 
+(a few examples from our colleagues)?
+4. Typical signs of phishing and how to recognize it?
+5. How to avoid it?
+6. What should I do if I suspect email might be the phishing email?
+7. Summary
+
+Introduction
+Hello everyone!As many of us recently had gotten a phishing email let's recall a few main points about this attack. And also, here are some recommendations at the end of this letter.What is Phishing?Phishing is a type of social engineering attack, which means it targ
+ets the weaknesses of human 
+psychology rather than technical vulnerabilities. The attacker will masquerade as a legitimate individual or organization and then send the victim a phony message using this assumed moniker.  Many phishing attacks will bait th
+eir targets with a sense of urgency: an account that’s been 
+accessed by an unknown party, an impending draft out of a victim’s bank account, or an action that needs to be taken to maintain employment.  
+How does it look like (a few examples from our colle
+agues)?
+Example 1
+– CEO Phishing
+
+Example 2 
+– CEO Phishing on your smartphone
+Example 
+3 – CEO Phishing on your personal Gmail account.
+
+Typical signs of phishing and how to recognize 
+it?
+You should take a moment and read it from top to 
+bottom . Only than you will spot errors. 
+1. 
+Sense of urgency
+(fear tactics
+) – emotions cut 
+rational thinking. 
+2. Imitating known brands 
+– fake email address
+.
+3. 
+Impersonal 
+– if you are a client company knows your name. 
+4. 
+Language 
+– punctuation and grammar mista
+kes 
+5. 
+Rollover 
+with mice 
+shows a malicious link 
+6. 
+Scare tactics 
+– punishment, additional fees etc. 
+7. Impersonal; not real customer service
+lack of basic data. 
+8. The copyright date is incorrect. Location is incorrect 
+9. File (ZIP /pdf )  attached  
+- can consist m
+alware
+. 
+Never open suspicious links and/or attachments in the phishing e
+-
+mails like the ones above!
+How to avoid it? 
+1. Pay attention to warnings from the InfoSec and other sources. 
+2. Never respond to requests for private info. 
+3. Stop & think before you click. 
+4. Never open links and/or attachments in the suspicious emails.
+5. Beware of messages that sound urgent or too good to be true (free iPhone). 
+6. Do not share your corporate email address
+on suspicious/malicious sites. 
+7. Do not use your corporate email for personal purposes. 
+8. Turn on MFA whenever you can.
+
+What should I do if I suspect email might be the phishing email?In case of finding the phishing email please immediately send us it as an 
+attachment (
+1) to 
+Phishing
+@keepit.com
+And report this email
+(2) as in the example below 
+of 
+the attached screenshot and after that delete that message from your inbox or any other folder:
+
+SummaryIf you have any doubts about an email that you receive 
+- please do not hesitate to contact 
+InfoSec Team 
+so we can
+assist
+you.
+Stay cybersecure!
+InfoSec Team InfoSec@keepit.com

@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/i-authenticated-my-microsoft-365-connector-with-the-wrong-account/
+Content type: Web page
+Last modified: 2026-06-30T02:00:36+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+I authenticated my Microsoft 365 connector with the wrong account
+Any Microsoft Privileged Role Admin or Global Admin service account can be used to authenticate a connector in Keepit. However, we recommend you create a dedicated account for backup, in particular, because this account will automatically become a member of Groups and Teams.
+If you do accidentally authorize a different account, you can easily reauthenticate with the proper service account.
+Reauthenticate your connector
+1. On the Connectors page, point to your connect and select the gear icon.
+2. In the lower-right corner, click the reauthenticate shield icon.
+3. Select Authenticate to be redirected to Microsoft. Sign in with the correct service account.
+The next backup will be performed using the correct account.
+Remove service account from Groups & Teams
+A service account that authenticates a connector automatically becomes a member of all Teams & Groups that are backed up.
+If you authenticated with the wrong account, you may want to remove this account from Groups & Teams.

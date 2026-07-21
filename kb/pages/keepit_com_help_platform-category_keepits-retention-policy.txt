@@ -1,0 +1,16 @@
+Source URL: https://www.keepit.com/help/platform-category/keepits-retention-policy/
+Content type: Web page
+Last modified: 2026-04-30T15:02:30+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit's retention policy
+Keepit's data retention period is unlimited by default, but it is possible to have a different time period assigned to your account.
+You can also set a custom retention period for your connector, but it cannot extend beyond the retention period that is assigned to your account.
+How retention works
+If your retention period is 12 months, each full tenant backup is retained for one year. These backups (restore points) contain copies of all data that was on your tenant at the time the backup job started. You will have access to these restore points for 12 months from the time they were created.
+Let's say you have a file that is backed up for the first time on January 1, 2019. This file is untouched until May 1, when you make some changes to it. And then finally, you decide to delete the file on June 1. Accordingly, a copy of the original file will be retained until April 30, 2020, a copy of the changed file will be retained until May 31, and from June 1 the file will no longer be available.
+Snapshot retention
+Keepit also lets you set a custom snapshot retention period for your connector. If you have certain data that cannot be retained for the full retention period assigned to your account, you can create a separate connector for this data and then set a cap on the retention period. Keep in mind that this period cannot extend beyond the retention period that is assigned to your Keepit account.
+It is important to remember that reducing your data retention can result in the loss of data if you decrease it below the extent of your existing backup. To help prevent unwanted data loss, your data has a delete retention period of 30 days. This means that if you change the snapshot retention, there is a set time that these changes can be undone before snapshots are deleted irreversibly.

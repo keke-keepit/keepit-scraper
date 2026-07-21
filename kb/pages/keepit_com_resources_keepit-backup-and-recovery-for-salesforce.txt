@@ -1,0 +1,12 @@
+Source URL: https://www.keepit.com/resources/keepit-backup-and-recovery-for-salesforce/
+Content type: Web page
+Last modified: 2025-08-14T23:39:53+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Salesforce
+Reduce the impact and the burden of restoring your data and processes
+Data corruption in Salesforce can occur due to accidental overwrites, integration errors, or system failures, making recovery complex and time-consuming. Without precise restore capabilities, businesses lose critical data, break relationships, or restore unnecessary information. Incomplete, manual, or outdated methods lead to operational disruption and compliance risks.
+Keepit eliminates those problems by providing you with intelligent capabilities needed to keep your data and metadata safe and easily recoverable, while ensuring visibility into the health of backups in a single platform across SaaS applications.
+Read more by downloading the Keepit Backup and Recovery for Salesforce product sheet.

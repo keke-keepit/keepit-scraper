@@ -1,0 +1,20 @@
+Source URL: https://www.keepit.com/partners/partners-stories/sep/
+Content type: Web page
+Last modified: 2024-03-27T23:35:01+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+German Backup Specialist SEP Partners with Keepit to Provide Highest Level of Data Security
+SEP, one of Germany’s most prominent backup providers, provides enterprise companies with backup and disaster recovery solutions and services. In partnering with Keepit, SEP can provide their customers with a trusted platform to protect and manage SaaS cloud applications like Microsoft 365.
+With the SEP Cloud Application Protection Service powered by Keepit, we can now offer backup for cloud applications like Microsoft 365, Dynamics 365, Salesforce, and Google Workspace to our clients, which is a huge benefit.
+Susanne Moosreiner
+Administration Director at SEP
+It Simply Works!
+According to SEP Administration Director Susanne Moosreiner, Keepit provides a complete cloud-based solution that is easy to set up, easy to use, and ensures GDPR compliance. While other vendors require additional storage and retention fees, Keepit allows SEP to offer an all-inclusive seat pricing to their clients.
+GDPR Compliance & Data Sovereignty
+Compliance and data protection regulations are of the utmost importance for SEP and their clients. As a German and European vendor, SEP is required to comply to GDPR regulations and ensure that all client data is stored within the EU. As data remains within Europe/Germany, SEP can guarantee full control, ensuring data sovereignty.
+"It is key for us and our clients that Keepit has data centers in Europe and is compliant with GDPR regulations." Susanne MoosreinerAdministration Director at SEP
+Localized Support for the German Market
+By partnering with Keepit, SEP has chosen to handle everything from sales to implementation and support of the cloud backup solution, which is especially important in the German market.
+"We face our customers throughout the whole sales and onboarding process, offering a localized experience to companies in the DACH-region". Susanne MoosreinerAdministration Director at SEP.

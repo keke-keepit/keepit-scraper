@@ -1,0 +1,50 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-product-details/
+Content type: Web page
+Last modified: 2025-10-15T13:43:02+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve product details
+This command retrieves the product details that are assigned to the account.
+API request
+Method GET
+/users/{account_id}/product
+Example
+Method GET
+https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka/product
+Response
+Code: 200 OK
+Response body:
+<product>
+    <id>a9y02y-qngj1m-yvh5r8</id>
+    <name>Demo1</name>
+    <flexquota>false</flexquota>
+</product>PowerShell script
+try {
+    $username = '<Token username>'
+    $password = '<Token password>'
+    $userId = '<Account ID>'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $url = "https://dk-co.keepit.com/users/$userId/product"
+    $response = Invoke-WebRequest -UseBasicParsing -Uri $url -Method GET -Headers $headers -ErrorAction Stop -TimeoutSec 10
+    $xmlContent = [xml]$response.Content
+    foreach ($node in $xmlContent.documentElement.ChildNodes) {
+        Write-Host "$($node.Name): $($node.InnerText)"
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}Additional information
+- An account may or may not have a product assigned to it. You can determine this by checking the /users/{account_id} response.
+- If no product is assigned to the current account, it will inherit resources from the product assigned to its parent account, continuing recursively up the hierarchy until a product is found.
+- This request will return a "404 Not Found" if no product is assigned to the account or to any of its ancestor accounts.
+- The "grace-expires" element appears only when either:
+- A resource limit defined on the assigned product has been violated, or
+- A provisions limit has been exceeded.

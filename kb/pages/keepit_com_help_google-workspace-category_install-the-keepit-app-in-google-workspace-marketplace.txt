@@ -1,0 +1,16 @@
+Source URL: https://www.keepit.com/help/google-workspace-category/install-the-keepit-app-in-google-workspace-marketplace/
+Content type: Web page
+Last modified: 2025-03-17T15:28:46+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Install the Keepit App in Google Workspace Marketplace
+As part of setting up your backup, you'll need to install the Keepit app in Google Workspace Marketplace.
+Follow the steps below to complete the installation:
+1. Sign in to Google Admin page with your Google Admin account credentials.
+2. In the left-hand menu, select Apps > Google Workspace Marketspace app > Apps list.
+3. Click Install app.
+4. Enter Keepit backup in the search box to find the Keepit for Google Workspace app, then select the app.
+5. Click the Install button and follow the install guide.
+Important: During the installation, ensure to install the app for Everyone at your organization.

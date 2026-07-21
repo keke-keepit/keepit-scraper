@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/resources/foundation-of-recovery-data-classification/
+Content type: Web page
+Last modified: 2025-08-20T02:24:09+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Reel: Foundation of recovery - Data classification
+In this Keepit Reel, Niels van Ingen, CCO at Keepit, sits down with Kim Larsen, CISO at Keepit, to discuss the importance of embracing a broader strategy centered on resilience.
+This insightful discussion reveals how effective data classification not only underpins recovery efforts but also serves as a cornerstone for building resilience in today’s rapidly evolving digital landscape.

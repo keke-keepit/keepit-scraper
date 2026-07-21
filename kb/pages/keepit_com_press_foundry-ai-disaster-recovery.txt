@@ -1,0 +1,32 @@
+Source URL: https://www.keepit.com/press/foundry-ai-disaster-recovery/
+Content type: Web page
+Last modified: 2026-04-21T14:02:41+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+New survey highlights gap between perceived AI readiness and tested disaster recovery capability
+With only 41% having significantly changed their approach due to AI, organizations’ ability to fully recover after data loss incidents hinges upon recreating real-world scenarios before disaster strikes
+Copenhagen, Denmark — April 21, 2026— Keepit, the only vendor-independent cloud dedicated to SaaS data protection, today announced the results of its survey “Peer insights on AI adoption and the disaster recovery gap”. Even though SaaS data protection is seen as a high priority when implementing AI solutions, the survey of senior IT decision-makers revealed a gap between perceived readiness and tested, validated disaster recovery capability.
+Key findings:
+- 94% of respondents say they’re confident their current disaster recovery plan covers scenarios involving agentic AI systems.
+- 33% of IT and security leaders say they have only partial control over the use of agentic AI in their organizations.
+- 56% of respondents place a high priority on protecting SaaS data and disaster recovery when implementing AI solutions.
+- Only 41% of respondents have significantly changed their approach to disaster recovery planning due to accelerated AI adoption.
+- 32% of respondents conduct monthly testing of disaster recovery plans.
+According to the survey, 94% of respondents say they are confident their disaster recovery plans cover agentic AI systems, yet only 32% test those plans on a monthly basis. This gap between confidence and validation raises concerns about organizations’ true ability to recover when failures occur—especially as AI-driven automation increases system interdependencies and accelerates the spread of errors.
+Governance and testing lag behind AI adoption
+The implementation of AI raises the bar for governance and recovery planning — and the survey showed that many organizations haven’t evolved their disaster recovery approach accordingly.
+The survey revealed that 33% of IT and security leaders say they have only partial control over the use of agentic AI in their organizations, and 52% have doubts about whether their recovery plans cover agentic AI scenarios. Only 41% of respondents say they have significantly changed their approach to disaster recovery as a result of AI adoption.
+“Organizations need to put more emphasis on creating long-term, structured and tested disaster recovery plans. This also means putting a spotlight on data governance and accountability, which is the foundation for any resiliency plan,” says Kim Larsen, Group Chief Information Security Officer at Keepit, and continues: “ It all boils down to knowing who is in charge of recovery and which systems are restored first when multiple systems are affected. When decisions are delayed, recovery takes longer than necessary.”
+Building confidence in recovery
+Confidence in recovery is built through regular testing. The survey showed a gap between confidence and tested recovery capability: While backup is common, recovery capability is less consistently understood, tested, or validated. These findings are backed up by the Keepit Annual Data Report 2026 that showed recovery practices remain a work in progress for many, especially smaller, organizations. 
+“One of the challenges faced in adopting agentic AI is adequately protecting identity and access management. The Keepit Annual Data Report 2026 showed that restoration of identity systems is tested four times less often than restoration of productivity systems, highlighting a lack of recovery maturity. This is particularly concerning for identity applications which are critical to managing agentic AI: Losing access to identity systems can cut off access to all other SaaS applications and bring operations to a halt – making it paramount to protect them," adds Kim Larsen.
+About the survey
+In the survey, sponsored by Keepit and conducted by Foundry, 301 IT decision-makers in Australia, France, Germany, New Zealand, the United Kingdom, and the United States responded and described the state of their disaster recovery readiness as AI adoption accelerates. Respondents have roles in IT networking, and/or security, and make decisions around AI services and platforms. The online survey was conducted from November 19 to December 15, 2025.
+About Foundry, an IDG Inc. company:
+Foundry is one of the world’s leading tech media, data, and marketing services companies, and is the proud owner of the global tech sector’s most revered media brands – CIO, Computerworld, CSO, InfoWorld, Macworld, Network World, PCWorld, Tech Advisor, and TechHive. 
+To learn more, visit foundryco.com. 
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no third-party sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 20,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.  
+For more information visit www.keepit.com or follow Keepit on LinkedIn

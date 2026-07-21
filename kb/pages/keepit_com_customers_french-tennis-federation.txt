@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/customers/french-tennis-federation/
+Content type: Web page
+Last modified: 2025-06-09T18:38:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The search for vendor-independent backup  
+Realizing that Microsoft would not be responsible for recovering lost data, the French Tennis Federation began to search for a vendor-independent backup and recovery solution that would also be easy to implement, agile and secure. “At the time, we had no backup for cloud-based applications, and my focus was to find a European backup solution that was as independent as possible. I did some research and found a company called Keepit in Denmark,” explains Frank Labat, IT Technical Director at the French Tennis Federation.  
+Keepit owns and operates its own cloud and data centers, making sure backed up data is always online, even in cases of vendor downtime. This was exactly what the French Tennis Federation was looking for — backing up their data in an environment separated from their production environment.  
+Expected and unforeseen benefits 
+Due to the nature of its operations, the French Tennis Federation deals with a lot of seasonal employees. This means a lot of arrivals and departures, and more data to process — and recover. Keepit helps to facilitate this process while ensuring the security of the data being handled.  
+“Keepit has brought us what we initially wanted — independent backup. It has also brought us quite specific uses that we hadn’t identified at the beginning, such as centralized and traceable archiving, and the ability to integrate everything into the same platform.”  
+- Frank Labat, IT Technical Director at the French Tennis Federation
+ 
+Continued partnership  
+A relationship that started with backing up Microsoft 365 has grown into a well-established, developing partnership in which the federation has integrated Power BI and Microsoft Entra ID with the Keepit platform.  
+“There are many new developments in the pipeline for Microsoft. The plan is that every time we add new assets to Microsoft 365, they can be integrated with Keepit,” says Frank Labat.

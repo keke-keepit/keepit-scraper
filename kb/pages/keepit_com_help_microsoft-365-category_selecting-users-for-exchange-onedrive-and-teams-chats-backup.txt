@@ -1,0 +1,16 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/selecting-users-for-exchange-onedrive-and-teams-chats-backup/
+Content type: Web page
+Last modified: 2026-06-30T17:02:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Selecting users for Exchange, OneDrive, and Teams chats backup
+This article explains how to select which users and groups Keepit backs up for Exchange, OneDrive, and Teams chats, and how to keep new users protected automatically.
+Use AD groups
+We recommend using Active Directory (AD) groups to add users to your backup. This makes it easier to configure the backup of multiple users at a time and gives you more control over what new users are added to the backup.
+If you haven't already, create dedicated groups of users in your Active Directory. You can then select these AD groups in the Keepit configuration when you choose which user accounts to back up.
+Note: Dynamic distribution list groups don't appear in the backup configuration because these groups don't have members. Instead, they act as email filters that dynamically determine recipients for each email sent to the group.
+Add new users and groups automatically
+The backup configuration automatically adds new users and groups to your backup, so your users and data stay protected without extra setup.
+Here's how the auto-add options work:

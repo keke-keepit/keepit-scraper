@@ -1,0 +1,103 @@
+Source URL: https://www.keepit.com/blog/why-healthcare-organizations-ransomware/
+Content type: Web page
+Last modified: 2025-08-20T00:30:46+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why healthcare organizations are vulnerable to attacks
+And what they can do to thwart them
+Statistically speaking, a ransomware attack can and will likely happen to your healthcare delivery organization (HDO), and if you don’t believe it, let these stats sink in for a minute:
+- 66% of healthcare organizations were hit by ransomware in 2021 (Source: Sophos’ State of Ransomware in Healthcare 2022).
+- 38% of attacks on healthcare—where the attack type is known—were ransomware (Source: IBM Security X-Force Threat Intelligence Index 2022).
+- 19 days: the average length of a ransomware incident (Source: United States Department of Health and Human Services).
+To make matters worse, the impact is felt throughout the entire organization when a ransomware disruption happens. The 2021 HIMSS Healthcare Cybersecurity Survey reported that the most significant security incidents caused disruption to:
+- Systems/devices impacting business operations (32% of survey respondents);
+- IT Operations (26% of respondents);
+- Systems/devices impacting clinical care (21% of respondents).
+5 reasons why HDOs are vulnerable to ransomware attacks
+Other than the goldmine of valuable data and enormous leverage gained by shutting down critical services (and potentially lifesaving), here are five main reasons why ransomware gangs target healthcare organizations:
+1. Comparatively weak defenses
+HDOs are focused on providing healthcare services and rarely have the dedicated budget to build and maintain a solid cybersecurity position.
+2. Lack of cybersecurity specialists
+There’s a reason why the world’s largest enterprises either have staff-dedicated security teams or work closely with third-party specialists. Security is a specialized field, and HDOs typically lack the same resources – or their experts are already overburdened.
+3. An ever-expanding attack surface
+The IT environment within most HDOs is a complex and expanding mix of legacy systems, traditional on-premises equipment, specialized devices, and hybrid clouds, creating plenty of opportunity for attackers to find and exploit vulnerabilities to gain entry, establish persistence, and escalate their intrusions.
+4. A large employee base
+Many—if not most—ransomware attacks begin with a successful phishing email. Phishing campaigns that target HDO employees are executed with skill, and it only takes one mistake from one employee to bypass defenses.
+5. Poor detection, response, and remediation capabilities
+Security is a very specialized field, and many HDOs lack these skills in-house and haven’t proactively engaged third-party providers.
+While backups aren’t intended to prevent ransomware attacks (and can’t prevent the attackers from publishing what they steal), they have been proven to mitigate the impact by minimizing service disruption, lowering costs, and ensuring business continuity and compliance. Read our healthcare continuity and compliance article,
+The bottom line: The native backup features built into SaaS applications are woefully inadequate to support a disaster recovery process like the one needed after a ransomware detonation.
+SaaS data protection is your responsibility. Period.
+Backing up cloud SaaS data is the responsibility of the SaaS customer, not the vendor. This applies to all of your SaaS applications, including OneDrive, Teams, SharePoint, Exchange, Azure AD, Salesforce, Google Workspace, and practically any other service from any other vendor.
+In its own cloud documentation, Microsoft’s “Division of Responsibility” states that all information and data fall under “responsibility always retained by the customer.” If you’re not convinced data loss could happen to you, ESG Research found that 81% of Microsoft 365 users had to recover data, and only 15% could recover 100% of their data.
+While SaaS apps like M365 may provide recycle bins, your data is still at risk because these bins have limited storage durations and can be emptied or bypassed with hard deletes, rendering data unrecoverable. Some companies also attempt to replace backup with workarounds, such as litigation hold, but our blog post elaborates on why legal hold is not a reasonable replacement for backup.
+Putting items on retention or legal hold can preserve data longer, but an e-discovery search to find missing or deleted data won’t allow you to do a direct restore. Additionally, the data you export may or may not be in a usable, restorable format.
+In fact, in the Microsoft services agreement, Microsoft explicitly instructs customers to back up their data, which is directly in line with the shared responsibility model mentioned above:
+We strive to keep the Services up and running; however, all online services suffer occasional disruptions and outages, and Microsoft is not liable for any disruption or loss you may suffer as a result. In the event of an outage, you may not be able to retrieve Your Content or Data that you’ve stored. We recommend you regularly backup Your Content and Data that you store on the Services or store using Third-Party Apps and Services.
+Microsoft services agreement
+Ransomware gangs are well organized and now targeting backups
+Ransomware gangs aren’t dumb and don’t lack resources. While the perception may be that ransomware groups are a small team of backroom hackers, they actually operate like Fortune 500 enterprises. Their operations are funded by the proceeds of their crimes, and often supported by a shockingly well-developed ecosystem of specialized services, with some even enjoying the protection of nation states.
+Because the potential financial rewards are so high, ransomware teams constantly evolve their tactics, techniques, and procedures (TTPs) to find new ways to get into IT environments, inflict maximum damage, and gain maximum leverage.
+It was only a matter of time before ransomware operators began targeting backups, leading Microsoft to warn in its 2021 Digital Defense Report that “information disruptors and attackers aggressively search for backup facilities.”
+For example, the Conti ransomware deletes Windows Volume Shadow Copies before encryption and disables 146 Windows services related to backup, security, and database capabilities.
+The Conti gang and their affiliates also routinely employ multi-week dwell times as part of the strategy to maximize discovery and find and corrupt backups.
+Not yet convinced? These TTPs are just part of why their ransom message confidently states: “As you know (if you don’t – just Google it), all the data that our software has encrypted cannot be recovered by any means without contacting our team directly.”
+As a result of these ever-evolving tactics, the CISA Alert DarkSide Ransomware: Best Practices for Preventing Business Disruption from Ransomware Attacks recommends “ensuring that backups are implemented, regularly tested, and isolated from network connections.” What is true backup? Learn more about it from our blogpost.
+5-factor business case for a dedicated SaaS backup and recovery solution
+1. Fulfilling regulatory obligations
+Third-party backup and recovery services help you:
+- Stay compliant by ensuring your data remains immutable and tamperproof;
+- Secure data and metadata;
+- Document and recover not just all data but all data processing;
+- Ensure auditors have full visibility of everything that has impacted the data.
+2. Protecting organizational continuity
+Keeping services operational is essential for maintaining the revenue that keeps an organization running—and having reliable backups that can be quickly restored is vital for returning to partial or complete service.
+Sophos reported that 25% of healthcare organizations disrupted by ransomware took up to a month to restore operations.
+3. When disaster strikes: Disaster recovery preparedness
+Data outages in the real world are a matter of when, not if, making your ability to quickly recover essential data an important part of business continuity planning. Learn more in our disaster recovery guide.
+4. Avoiding ransom payments
+If you fear having to face ransom payment demands, consider these stats from Sophos:
+- 61% of healthcare organizations disrupted by ransomware in 2021 paid the ransom. This statistic suggests that no matter how often the board or the finance team says, “We won’t pay the ransom,” there’s a better-than-even chance that when faced with a brutal reality of business disruption, they will pay.
+- It turns out that paying the ransom isn’t even a guarantee that services will be fully restored. Even ignoring buggy ransomware decryptors (unfortunately a real thing), Sophos’ investigations revealed, “On average, in 2021, healthcare organizations that paid the ransom got back only 65% of their data.”
+- And if you’re feeling lucky, the Sophos report noted, “Only 2% of those that paid the ransom in 2021 got ALL their data back.”
+That’s a poor return for ransoms that typically range from USD 1M to $25M USD.
+Those high ransom amounts also mean that even if the business case is made entirely on ransom avoidance, it’s a good bet that a dedicated SaaS backup solution will pay for itself in costs alone the very first data loss incident—not to mention the guaranteed access to and quality of data returned alongside the ease-of-use third-party backup software solutions offer.
+Furthermore, as the United States government focuses more on ransomware and its criminal enterprises, paying a ransom may even violate federal laws.
+5. Filling cyber insurance gaps and meeting coverage requirements
+If you have cyber insurance, you may be wondering if you’re protected from having to pay ransom payments. The reality is that you probably aren’t.
+- A 2021 research report by MDR provider eSentire found that only 60% of security professionals whose organizations have cyber insurance indicated that their insurer covers the cost of lost business.
+- In “The Long Road Ahead to Ransomware Preparedness,” ESG Research reported that only 66% of organizations with cyber insurance were covered for ransoms.
+Cyber insurance is — at best — a poor solution and having dedicated backups can help lower premiums and protect against areas not covered by insurance policies. We are already seeing a trend where coverage mandates backup.
+Ultimately, as mentioned above, paying the ransom does not guarantee your organization will be able to recover data and metadata with great enough fidelity to put you back into operation.
+How to mitigate the impact: Cloud SaaS data backup
+When it comes to a data backup solution to circumvent ransom payments, you simply cannot afford not to protect yourself.
+There is no shortage of cases where companies pay the ransom and get “data” back, but these companies paying the ransom don’t ever know what condition that data will be in. The way to ensure that your data is safeguarded is to back it up with third-party backup.
+SaaS applications and cloud technology have made everyone’s lives easier, however, assuming data in the cloud is safe by default is a cautionary tale in the making and is an assumption that you are likely to regret.
+What to do about ransomware: Test your SaaS data risk and protection readiness
+Completing the following short assessment will help you better understand your SaaS data risk and protection readiness. Simply note a 'yes' or 'no' in response to the following statements.
+Data risk assessment:
+- We have strong IT defenses in place, including endpoint, cloud, and network protection and robust logging.
+- We have a Security Operations (SecOps) team, Managed Detection and Response (MDR) service, or a similar real-time security function to contain threats that bypass our defenses.
+- We understand our threat surface, including legacy systems and hybrid IT environments.
+- We have a robust vulnerability discovery and management program.
+- All our employees undergo regular, healthcare domain-specific Phishing and Security Awareness Training (PSAT).
+SaaS Data Protection Readiness:
+- We have a backup and recovery solution in place for our M365 application data beyond the limited functionality included within M365.
+- We can access our data 24/7, even if primary systems are unavailable.
+- We have a retention policy in place and regularly verify that the procedure is followed.
+- We comply with HIPAA and other regulatory requirements that apply to our region.
+- We have tested our M365 restoration processes and are confident that we can fully restore any of our M365 data if it were to be lost.
+- We are satisfied with the time it takes to restore data, whether we need to restore a specific file or perform a full disaster recovery.
+- We are satisfied with the time it takes to offboard employees.
+- We stopped paying SaaS licensing for departed employees.
+- We can remotely monitor the status of our SaaS applications’ backups.
+- We can easily get an overview of the total body of data backed up from our SaaS applications.
+- We are satisfied with the number of resources we apply to backup and related IT tasks.
+- We understand that cybercrime operators target healthcare delivery organizations and their TTPs target backups.
+For both risk and protection readiness, add up the number of times you answered “No.
+- If you scored 2 out of 5 or higher on the Data Risk Assessment, your SaaS data is at high risk.
+- If you scored 3 out of 12 or higher on the SaaS Data Protection Readiness, then it is likely you will encounter serious problems recovering data in the event of a disruption.
+To learn more about healthcare organizations and how to secure data in the cloud, access the comprehensive (and complimentary) Keepit healthcare eBook here.
+If you're interested in learning more about Keepit's backup and recovery solution for protecting and managing cloud SaaS data, continue to Keepit services page.

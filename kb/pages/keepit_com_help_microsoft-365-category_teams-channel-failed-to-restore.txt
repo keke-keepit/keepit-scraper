@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/teams-channel-failed-to-restore/
+Content type: Web page
+Last modified: 2026-06-30T02:05:35+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Teams channel failed to restore
+It is likely that your channel failed to restore because it was deleted and it is being kept as a deleted channel in Teams. During this time, if you attempt to restore a channel from Keepit, the channel will not restore and the restore job will be marked as failed. This is because the channel must be permanently deleted from Microsoft before it can be restored from Keepit. According to Microsoft, a channel is kept as a deleted channel for 30 days before it is removed, however this is not always the case - the channel may be kept longer.
+To check if a channel is deleted, go to Teams and to the right of the team name, select ••• > Manage team, and then open the Channels tab.
+If the channel is deleted but still not removed from Teams, you will find it under the Deleted section.
+A deleted channel can be restored from Teams. To restore it, click the Restore icon on the right of the deleted channel.
+If the channel is completely removed from Teams, you will be able to restore it from Keepit.

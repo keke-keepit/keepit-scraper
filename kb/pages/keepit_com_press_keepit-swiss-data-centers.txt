@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/press/keepit-swiss-data-centers/
+Content type: Web page
+Last modified: 2025-08-14T23:55:27+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit announces the opening of two new data centers in Switzerland
+New locations enable Keepit and partners to guarantee data storage solution that complies with local Swiss laws and regulations
+COPENHAGEN, DENMARK, April 10, 2024 – Keepit, the market leader in cloud backup and recovery and provider of the world's only vendor-independent cloud for SaaS data protection, today announces the opening of its first two data centers in Switzerland. Keepit is partnering with Equinix - one of the world's leading green digital infrastructure companies - to operate the data centers. The new locations will enable Keepit to offer a data storage solution that complies with Swiss laws and regulations, for businesses inside and outside Switzerland.â¯
+"Our superior data center strategy enables Keepit's customers to instantly recover lost or compromised data," says Jakob Østergaard, CTO of Keepit. "Equinix data centers are known worldwide for their excellent security standards. With each site holding full copies of user data - with two mirrored physical locations - our customers can be assured that their data is always available, regardless of the status of their SaaS provider. Through this infrastructure, Keepit can guarantee that all customer data remains in place without transferring middleware to servers outside the regions. We are proud to be the first and only provider that can make this claim."
+As part of the steady growth in the space of Backup-as-a-Service (BaaS) and data recovery, Keepit has decided to invest in the new Swiss data centers. Due to the exponential increase in data volume - driven by networked technologies and digitalization - the need for secure and data protection-compliant backup solutions is also increasing. Keepit also has data centers in Germany, Denmark, UK, US, Canada and Australia.
+The opening of the data centers underscores Keepit's commitment to providing the fastest, most secure and efficient service to its growing customer base and partner network in Switzerland. The new locations will enable Keepit to offer locally stored seamless, low-latency data backup and recovery services for leading SaaS platforms such as Microsoft 365, Entra ID, Azure DevOps, Power Platform, Dynamics 365, Google Workspace, Salesforce and Zendesk.
+Keepit's unique infrastructure consists of multiple separate, mirrored data centers in each region, with each center operating in active-active mode; this means that data is continuously replicated between centers. In the event of a single system failure, or even in the unlikely event of the loss of an entire data center, the operation of the platform remains unaffected. Keepit customers' data is therefore always available and can be restored at any time.
+Keepit is working with Swiss IT consultancy firm Joker IT on this project. Joker IT considers Keepit's new data centers a game changer for their Swiss customers who can now store their data locally, in compliance with Swiss regulations.
+Yannic Graber, founder of Joker IT and Microsoft MVP, says: “With Keepit’s launch of Swiss data centers and with our expertise, we're bringing the pinnacle of data privacy and compliance right to the heart of Switzerland. Together, we're dedicated to empowering our customers with a cutting-edge SaaS backup solution that not only meets but exceeds the Swiss standards for digital workplace security.”
+About Keepit 
+Keepit provides next-level SaaS data protection for companies with data stored in the cloud. Keepit's vendor-independent cloud dedicated to SaaS data protection is based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Azure AD, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. For more information visit www.keepit.com or follow Keepit on LinkedIn. 
+Keepit Media Contact: 
+Katrine Palsby
+kpa@keepit.com

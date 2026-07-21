@@ -1,0 +1,14 @@
+Source URL: https://www.keepit.com/resources/data-protection-factsheet/
+Content type: Web page
+Last modified: 2025-08-20T02:30:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The SaaS data protection gap: Are organizations leaving critical SaaS applications unprotected?
+During 2024, Keepit conducted two surveys to investigate organizations’ current data protection measures and resilience capabilities. The results revealed senior decision-makers are not confident in their ability to protect SaaS data — but does this stem from gaps in operations and cyber resilience planning? This infographic dives deeper into leadership concerns and the reality of where organizations stand.
+Who did we survey? 
+- The “SaaS data protection confidence survey” was conducted by Gatepoint Research for Keepit and gathered responses from 100 senior decision-makers (C-level, Directors, and VP) in global enterprise organizations across industries such as finance, healthcare, technology, and manufacturing. Watch our webinar, “Protecting your SaaS data: Pitfalls and challenges to overcome”, to receive all the insights from this survey.
+- Together with Foundry, Keepit conducted a study designed to understand data protection technology trends in the market and how they impact data strategy and compliance decisions. 107 IT decision makers (VP, Directors, and Managers) in global organizations with more than 1000 employees were surveyed about their current data protection strategy and their future plans. To access all insights from this study, download the whitepaper here.
+What did we find out?
+The results reveal a troubling gap in confidence among executives and show that while businesses increasingly rely on SaaS tools and the data stored in them, many leaders are not fully confident in their ability to safeguard this data. Read on to find out more about the reasons for this lack of confidence, the current state of SaaS data protection in reality, and what organizations plan to do to improve their resilience.

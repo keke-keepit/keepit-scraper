@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/press/stratus-award/
+Content type: Web page
+Last modified: 2025-09-24T15:32:59+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit recognized as a 2025 Stratus Award winner in Security
+2025 Stratus Awards honored visionary companies that are reshaping the digital frontier
+Copenhagen, Denmark—September 23, 2025— Keepit, the only vendor-independent cloud dedicated to SaaS data protection, today announced that it has been named a winner in the 2025 Stratus Awards for Cloud Computing, a leading awards program, now in its 12th year, that honors companies, products and individuals innovating in the cloud to power the future of business.
+Keepit was recognized in the Security category for its platform, which demonstrates leadership and excellence in the application of cloud technologies to create scalable, secure and transformative outcomes. The Stratus Awards were judged by more than 500 technology leaders.
+Celebrating cloud and security innovation
+“Keepit helps companies secure their most critical asset —data— by providing reliable backup in an independent cloud, securing it in our seven data center regions across the globe, providing our customers with an answer to growing data sovereignty concerns. We are honored to receive this recognition from the Business Intelligence Group,” said Michele Hayes, CMO at Keepit. “This award validates our team’s commitment to delivering meaningful, cloud-first solutions that drive results for our customers and partners.”
+“Cloud computing is reshaping every corner of the business landscape, and this year’s winners represent the best of what’s possible,” said Russ Fordyce, chief recognition officer of the Business Intelligence Group. “From enabling smarter infrastructure to unlocking the power of AI, the organizations we’re celebrating today are defining the future of the cloud. Congratulations to Keepit and all of our 2025 winners.”
+The Keepit platform has been honored with prestigious awards in 2025
+The Keepit platform has received multiple accolades in 2025, including multiple category wins at the 2025 Global Infosec Awards, “Data Security Solution of the Year” in 2025 Data Breakthrough Awards Program, and a 2025 Cloud Computing Security Excellence Award.
+You can view a full list of Keepit’s industry awards on Keepit's website.
+To learn more about the 2025 Stratus Awards for Cloud Computing and see the full list of winners, visit https://www.bintelligence.com/awards/stratus-award-for-cloud-computing.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 18,000 companies trust Keepit for its ease of use and effortless, backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on LinkedIn.
+About Business Intelligence Group
+The Business Intelligence Group was founded with the mission of recognizing true talent and superior performance in the business world. Unlike other industry award programs, these programs are judged by business executives with real-world experience. The organization's proprietary scoring system measures performance across multiple business domains and rewards companies whose achievements are significant and measurable.
+Eliana Starbird
+Chief Nominations Officer
+Business Intelligence Group
++1 909-529-2737
+contact@bintelligence.com

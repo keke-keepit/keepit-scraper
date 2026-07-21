@@ -1,0 +1,71 @@
+Source URL: https://www.keepit.com/help/salesforce-category/preserving-audit-fields-during-restore-in-salesforce/
+Content type: Web page
+Last modified: 2026-04-03T11:07:33+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Preserving audit fields during restore in Salesforce
+When restoring records into Salesforce, standard audit fields are typically set to the user performing the restore and the current date. However, Salesforce provides specific permissions that allow original audit values to be preserved during record creation. This article explains what is supported and what to expect.
+What are audit fields?
+Audit fields include:
+- CreatedById
+- CreatedDate
+- LastModifiedById
+- LastModifiedDate
+By default, these fields are system controlled and not editable in the Salesforce UI.
+Record owner (OwnerId)
+The Record owner (OwnerId) is a standard field, not a system audit field.
+By default:
+- The owner must be an active user
+- Additional permissions are required to assign records to inactive users
+Required Salesforce permissions
+To preserve original audit values during restore, the following settings must be enabled in Salesforce:
+1. User-level permissions
+The authenticated user performing the restore must also have:
+- Set audit fields upon record creation
+- Update records with inactive owners
+These can be assigned via Profile or Permission Set.
+Note: Both org-level and user-level permissions are required. Without both, Salesforce will not allow audit field preservation.
+What happens during restore?
+Created fields
+When permissions are properly enabled:
+- CreatedById will be set to the original user
+- CreatedDate will be set to the original date
+Last modified fields
+Last Modified behavior depends on what happens during the restore process.
+Scenario 1: Clean insert (No additional updates)
+If the record is inserted without any additional updates or relinking:
+- LastModifiedById is preserved from the snapshot
+- LastModifiedDate is preserved from the snapshot
+In this case, original Last Modified values can be retained.
+Scenario 2: Post-insert updates or relinking
+If the restore process performs additional updates (such as relationship relinking or data adjustments):
+- LastModifiedById is set to the Authenticated User
+- LastModifiedDate reflects the time of the update
+This is expected behavior. Any update after insert causes Salesforce to stamp the record with the user and time of that update.
+Inactive owners
+If Update Records with Inactive Owners is enabled:
+- Records can be restored with their original owner, even if that user is inactive
+If this setting is not enabled:
+- Salesforce will not allow assignment to an inactive owner
+- The owner will be reassigned to an active user (typically the Authenticated User, depending on restore behavior and business logic)
+Important notes
+- Applies to both Records and Files
+- If the original user does not exist in the target org, Salesforce cannot assign:
+- CreatedById
+ OwnerId
+- Audit fields are not editable in the standard UI and are only supported via API-based operations (e.g., restore, data load)
+- Audit fields can only be set at the time of record creation
+- They cannot be updated afterwards through any operation
+- This is standard Salesforce functionality
+- Any update action performed after insert will cause Salesforce to update the Last Modified fields
+Summary
+To preserve audit fields and support inactive owner assignment during restore:
+- Enable required settings in User Interface Settings
+- Assign the same permissions to the Authenticated User
+What to expect:
+- Created fields can be preserved when permissions are enabled
+- Last Modified fields are preserved only when no updates occur after insert
+- If updates or relinking occur, Salesforce will update Last Modified fields accordingly
+This ensures the most accurate historical data possible while still adhering to Salesforce platform rules.

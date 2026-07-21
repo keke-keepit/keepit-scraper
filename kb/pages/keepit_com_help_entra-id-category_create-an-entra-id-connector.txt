@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/help/entra-id-category/create-an-entra-id-connector/
+Content type: Web page
+Last modified: 2026-07-03T23:30:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create an Entra ID connector
+Before you create a connector, ensure the Microsoft 365 service account used to handle the backup is assigned the Global Admin role.
+For users with Entra ID Advanced, we recommend creating separate connectors for Activity Logs. You can use the same global administrator account to create each connector.
+Before you begin: Ensure you are signed out of all personal Microsoft accounts and only signed into the account you will use for backup. Alternatively, sign in to Keepit using an incognito window.
+1. On the Connectors page, in the upper-right corner, select Add connector > Add Entra ID Ñonnector.
+2. Select Sign in to be redirected to the Microsoft sign-in page. Enter the M365 credentials for your global admin service account.
+3. Review the permissions and select Accept to allow access.
+Note: You will be asked for permissions only the first time you create a connector. After that, Keepit retains the necessary permissions for ongoing backups, reducing the need for repeated authorization.
+4. You will be redirected back to Keepit to configure your connector.
+Here you can:
+- Change the name of the connector
+- Configure the backup of groups and administrative units by clicking the gear icon next to Users, Groups, Administrative units
+- Manage user access to the connector by clicking the lock icon
+- Limit the retention period by clicking the calendar icon
+For Entra ID Advanced:
+- Configure the backup of logs by clicking the gear icon next to Activity Logs
+ Here you can also specify how many hours or days of activity logs to include in the initial backup.
+ Important: Limiting the backup's activity log time span may shorten the initial backup duration.
+- Configure the backup of policies by clicking the gear icon
+5. Select Create. Your connector will be created and the first backup will be scheduled.

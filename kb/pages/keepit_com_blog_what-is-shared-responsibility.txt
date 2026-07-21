@@ -1,0 +1,128 @@
+Source URL: https://www.keepit.com/blog/what-is-shared-responsibility/
+Content type: Web page
+Last modified: 2026-02-03T09:17:02+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Shared responsibility: Why your Microsoft 365 is not backed up, and how to fix it
+While most cloud service providers, including Microsoft 365, offer some degree of data backup, you might be surprised how minimal it actually is. This brings us to the discussion of shared responsibility and why it can’t be ignored if you want complete data protection and backup.
+Because Microsoft 365 is so commonplace in business, it’s easy to assume that so long as you stick with them, you have the basics covered. That, unfortunately, is not correct when it comes to cloud backup and recovery. Here are two hard truths you need to take into consideration when you plan your SaaS data protection:
+1. Your cloud service providers are not responsible for the safe keeping of your data.
+2. You are responsible for keeping your data and metadata safe.
+In this blog post, you will learn:
+- What shared responsibility means.
+- What cloud services like Microsoft 365 currently offer to retrieve lost data.
+- How to make sure your cloud data is actually secure.
+What you risk by not backing up your cloud data
+Let’s start by looking at the exposure a company faces that does not participate in shared responsibility.
+Depending on the nature of one’s business, several risk scenarios could arise if you rely solely on cloud service vendors for backup (and the vendors themselves recommend that you do not rely solely on their services):
+- You lose access to critical intellectual property documentation such as patents.
+- You may no longer be in compliance by losing access to certain required information.
+- The entire company loses access to emails and other collaboration tools such as SharePoint and other apps, thereby preventing employees from doing anything.
+- Critical systems such as Salesforce, which are based on multiple automations that have been painstakingly built up over time, will need to be rebuilt.
+When data loss happens to a large business it can result in thousands of unhappy employees and customers. For small to medium-sized businesses the consequences can be even more severe if they lack the IT resources and know-how to immediately address the problem.
+The eventual outcomes range from customer inconvenience and disgruntled employees to severe legal problems and potential business catastrophe. In other words, your business continuity is at stake.
+Common data loss threats
+Data loss threats don’t always originate from outside the organization, as demonstrated by a study conducted by the Enterprise Strategy Group (ESG) which showed that human error from within the organization is one of the single biggest contributors to data loss.
+A breakdown of data loss causes is illustrated in the following graphic:
+f you lose data for any of these reasons, cloud vendors like Microsoft will not provide data backup because they adhere to the “shared responsibility” model that states it’s not their responsibility. More on that later.
+The 3 “backup features” currently available in Microsoft 365
+In essence, cloud service customers have three functionalities that many think serve as backup of their data.
+1. Litigation Hold
+The purpose of litigation holds is to help if you are involved in a legal process and need to preserve information exactly as it is at a specific point in time. It is clearly not designed as a backup or recovery tool, because:
+- Retrieving just a single email requires going through 8-10 demanding steps.
+- Based on your licensing plan, your cost of storage may be significantly higher.
+2. Versioning
+Microsoft automatically saves versions of your documents at regular intervals, so you can just go back and open a previous version, right?
+Technically yes, but:
+- You only get the random actual documents. What you don’t get is structure—nothing is where you left it, and there are no folders. So, at scale, this quickly becomes unmanageable.
+- If there is a ransomware attack, all versions may be encrypted.
+- There is zero protection against dangerous and potentially crippling ransomware.
+Speaking of ransomware attacks, check out our popular Disaster Recovery Guide for a seven-step guide on how to keep your business running in a disaster situation.
+3. Recycle Bin
+Just like the bins around your office, the Microsoft recycle bins are emptied regularly. How frequently depends on the application. For example:
+- In Exchange: mail items disappear after 30 days, and calendar items after 20 days.
+- In Teams: channels, teams, and group items go away after 30 days.
+- In OneDrive and SharePoint, they’re removed every 93 days.
+- In SharePoint backup, items disappear after 14 days.
+As useful and convenient as they are for users, these features can lull employees into a false sense of security because if the worst happens, they are not reliable.
+Now that you know what’s at stake, let’s dive into the issue of shared responsibility.
+A Crash Course in Shared Responsibility
+What is Shared Responsibility?
+Although no official dictionary definition exists, in a nutshell, shared responsibility means you and each cloud vendor take shared ownership for accessing your data in the cloud.
+Don’t be surprised to learn that Microsoft is not responsible for protecting your data. They are very clear on this issue. You can read a summary of their shared responsibility policy for Microsoft 365 in this short article, and here’s the bottom line (in Microsoft’s own words):
+"You own your data and identities. You are responsible for protecting the security of your data and identities, on-premises resources, and the cloud components you control (which varies by service type)".
+Regardless of the type of deployment, the following responsibilities are always retained by you:
+- Data
+- Endpoints
+- Account
+- Access management
+As you can see in the table below, the division of responsibility between you and Microsoft, depends on your hosting. (For the purpose of this blog post, pay attention to the SaaS column.)
+Source: Microsoft
+As you can see, Microsoft assumes some responsibility for its piece of the cloud service, but it’s up to the customer to protect the critical data that represents the lifeblood of its business.
+Microsoft 365 does have some built-in features to retrieve deleted data such as versioning, litigation hold, and recycle bins, however, these also have limitations and are nowhere near viable alternatives to genuine backup.
+Who uses the shared responsibility model?
+Originally, AWS developed the concept, and today it’s used more or less identically by all cloud services. So, shared responsibility doesn’t just apply to specific vendors or types of services but to cloud computing in general.
+If you want to dig deeper and explore how some of the main cloud service providers refer to shared responsibility, follow the links below to learn what each says on their respective websites.
+What Microsoft recommends instead: The 3-2-1 backup principle
+So, if Microsoft is not responsible for your cloud data, what steps do they recommend?
+Simply put, they recommend keeping your eggs in different baskets. The most effective way to safeguard your data is to use the 3-2-1 backup principle, which goes like this:
+Store your data separately from your day-to-day operations
+You must keep one copy of your data off site (or in cloud computing, on another cloud from that of your primary data). Years ago, offsite storage was mainly to protect against fire and theft. Today, it’s more complicated than simply separating data geographically. And you can’t fully rely on cloud access from your SaaS provider, which could be taken offline to protect the providers’ own business interests.
+If you want to learn more about what Microsoft recommends what to do if you experience a ransomware attack, you can find a good summary here.
+Let’s move on to some actionable advice on what you can do next to bridge the huge security gap left by shared responsibility.
+5 ways to find a backup solution that works
+If you decide to heed the advice of Microsoft, Google, and the other cloud service providers, and find a reliable third-party backup solution, here are some important considerations:
+1. Find out who is actually responsible for data loss in applications such as OneDrive, Groups and Teams, SharePoint, and Exchange within your organization. Is there a dedicated person or team, or is the responsibility spread across the organization? 
+2. Make sure backup copies are stored outside of Microsoft 365's domain. Always have offsite, immutable, backup copies that are stored separately from your primary data. Never store in the same logical infrastructure as your primary data. 
+3. Look for comprehensive coverage for your SaaS data, in order to include as much data and metadata as possible in your backup. 
+4. Look for fast and granular recovery so you can recover from a single item, all the way up to the tenant level to achieve precision recovery at scale.  
+5. Look for a third-party tool that is compliant and offers long-term retention and a variety of security controls.
+How to Find the Right Microsoft 365 Backup Vendor
+There are great solutions available, and like everything else, you need to find the one that best meets your needs. To help you in that regard, here are the most important considerations:
+Microsoft 365 coverage
+- Does it support all of Microsoft 365, with all associated data types, such as Teams private chat, channel chat, versioning, and public folders, etc.?
+Data recovery
+- Can you restore all business-critical data in place?
+- Is all data restored in its original format?
+- Is all data restored — from a single item up to tenant level?
+Role-based access control and compliance
+- Can you configure backup admin permissions?
+- Is the audit log tamper-proof?
+- Can you limit access rights across specific data connectors?
+Data storage
+- Are data centers independent from the SaaS provider?
+- Are there options for data residency?
+- Are redundancies built in?
+- Can you store copies of your data in two separate data centers?
+Pricing
+- Is the license model clear and transparent?
+- Is data consumption included?
+- Are there any hidden costs (for example, for departed users)?
+Search capabilities
+- Can you search universally across all snapshots in a single view?
+- Can you preview documents live?
+- Can you control search and restore delegation?
+- Can you perform point-in-time navigation or restore?
+Simplicity
+- Can you easily manage and unify backup sets of cloud apps?
+- Can you share public links to end users, and download all the data types and levels?
+- Is the interface intuitive?
+Backup configuration
+- Is the backup deployment simple and configurable?
+- Can you scale across any size organization?
+- Are the retention policies flexible across the instance?
+- Can you segment Microsoft 365 data to meet business requirements?
+Security
+- Is the storage engine tamper-proof?
+- Are there SSO and MFA options?
+- Are the data centers ISO27001 certified? And what about the software development and operations organization?
+Backup management
+- Is the solution 100% cloud-based with no maintenance required?
+- Are new users automatically added to the backup?
+- Can you automate notifications and backups?
+- Is there an open API allowing for third-party integration?
+In summary:
+We’ve covered the concept of shared responsibility, touched on what the cloud service providers cover, and where your responsibility lies. We’ve also shared some advice on what you should look for in a backup and recovery solution.
+I hope you come away from reading this blog post feeling better equipped to perform your cloud data risk assessments. If you have any questions, you are of course welcome to reach out.

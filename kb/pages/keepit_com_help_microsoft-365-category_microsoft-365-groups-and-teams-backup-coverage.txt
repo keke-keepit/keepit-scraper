@@ -1,0 +1,37 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/microsoft-365-groups-and-teams-backup-coverage/
+Content type: Web page
+Last modified: 2026-06-29T23:37:31+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Microsoft 365 Groups and Teams backup coverage
+Available Groups & Teams data types
+- Conversation
+- Calendar
+- Planner
+- Files
+- Channels
+- Posts (Team channel conversations and announcements) and replies 
+ Note: The message ID is used as the name of subjectless channel posts
+- Files (for public channels a link to the group's files and for private channels a folder with the channel's files)
+- Wiki pages (backed up but cannot be restored, recoverable only by copy-pasting data out or downloading raw files)
+- Tabs (Website, Planner, Word, Excel, PowerPoint, Visio, PDF, Document Library, OneNote, SharePoint, Stream, Calendar, Forms, Power BI, Flow, and Azure DevOps)
+- Meeting recordings (stored in the OneDrive of the user who started the recording)
+- SharePoint
+- Team sites
+- Notebooks
+Understanding the relationship between Groups & Teams and SharePoint
+Microsoft 365 Groups, Teams, and SharePoint team sites are closely connected, with overlapping data. Here’s how they relate:
+- Microsoft 365 Groups and SharePoint: Every Microsoft 365 Group is automatically linked to a team site in SharePoint.
+- Microsoft Teams and Groups: A group can also have a team in Microsoft Teams. This team is created either manually or automatically, depending on your organization's Microsoft settings.
+- Teams and SharePoint: When a team is created in Teams, a corresponding Microsoft 365 Group is automatically generated, which in turn creates a team site in SharePoint.
+In Keepit, data from Groups & Teams is backed up in the Groups & Teams folder, while the corresponding group’s team site and notebook are backed up in the SharePoint folder.
+To back up a group’s team site and notebook, you do not need to enable the SharePoint data area separately. Instead, you can simply select the SharePoint checkbox in the Groups & Teams advanced backup settings.
+Where to find team sites and notebooks
+SharePoint data type selected
+- If the SharePoint data type is selected, a SharePoint folder containing team sites will be created in Keepit. This happens even if the SharePoint data area is disabled in the main Microsoft 365 configuration window. Links to the SharePoint team site and notebook will appear under Groups & Teams > group name.
+- This applies even if a group is included in the backup under Groups & Teams, but its team site is excluded in the SharePoint backup settings.
+- If a group is excluded from the backup in the Groups & Teams settings but its team site is included in the SharePoint backup settings, the group will not have a folder under Groups & Teams. However, the team site will still be backed up and can be found in the SharePoint folder.
+SharePoint data type deselected
+- If the SharePoint data type is deselected, but the group’s team site is selected in the SharePoint backup settings, the team site will still be backed up. However, no link to the team site will appear in the group’s folder under Groups & Teams. Instead, the backed-up site will be located in the SharePoint folder.

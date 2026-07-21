@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/press/businessuk2025/
+Content type: Web page
+Last modified: 2025-08-20T02:30:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit named Best Cybersecurity Backup Service by Business Awards UK for the second year in a row
+Keepit empowers businesses to protect data by providing an intelligent, scalable platform to ensure business continuity.
+Copenhagen, Denmark – March 13 – Keepit, a global provider of a comprehensive cloud backup and recovery platform, announced today its success at the Business Awards UK, 2025 Cybersecurity and Resilience Awards by being named “Best Cybersecurity Backup Service” for the second year in a row. The Keepit platform secures customer data in a cloud-native, vendor-independent cloud, ensuring true backup in case of data loss or disruption.
+Keepit empowers businesses to protect their most asset —data— by providing an intelligent, scalable platform to ensure business continuity.
+“We’re honoured to once again be recognised as a leader in cybersecurity by the Business Awards UK. The future of SaaS data protection starts with intelligent choices – by companies who are ensuring their backup and recovery capabilities are in safe hands. Keepit is committed to supporting UK customers with our data protection platform, enabling business continuity through intelligent resilience”, says Michele Hayes, CMO at Keepit.
+Keepit is cloud-native and purpose-built for SaaS environments
+- Scalable and adaptive. Unlike on-prem solutions forced into the cloud, Keepit scales seamlessly as your business grows.
+- Purpose-built for SaaS. Our solution is designed to work smoothly across applications, ensuring seamless protection.
+Read more about the Keepit solution and intelligent resilience here.
+Headquartered in Copenhagen, Denmark, with offices in the US, Germany, and the UK, Keepit counts The National Gallery and Oxford University Innovation Ltd among its UK customers.
+Keepit's commitment to innovation, security, and reliability has positioned the company as a leader in the cybersecurity industry. The Keepit platform was recently recognized by the Cloud Awards 2024/25 in the “Best Cloud-Native Project / Solution” and “Best Cloud DR / Business Continuity Solution” categories. Keepit was also awarded at the 2024 Backup and Disaster Recovery Awards, underscoring the company’s commitment to intelligent recovery. A list of Keepit awards and endorsements can be found on the company website.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 15,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit keepit.com or follow Keepit on LinkedIn.

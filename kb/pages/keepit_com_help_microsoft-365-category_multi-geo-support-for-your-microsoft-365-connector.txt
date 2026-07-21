@@ -1,0 +1,33 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/multi-geo-support-for-your-microsoft-365-connector/
+Content type: Web page
+Last modified: 2026-06-29T22:46:25+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Multi-Geo support for your Microsoft 365 connector
+Keepit supports Microsoft multi-geo tenants by enabling you to configure a connector to back up data from your global location or from one specified satellite location.
+To activate this feature for your account, please reach out to our support team.
+Creating a connector with Multi-Geo support
+When you create a Keepit Microsoft 365 connector, by default that connector will back up data from the central location.
+If you want to back up data from all locations (global), or only from a specific satellite location, make sure to choose the desired location before you save your connector configuration.
+Choose a geo location for your connector
+Once you have added your Microsoft 365 connector and granted the necessary permissions, you will be redirected to the connector's configuration.
+1. In the lower-right corner of the configuration window, select ••• > Geo Location.
+2. Select a geo location from the dropdown list, which will show all the locations you have defined with Microsoft. Choosing Global means that all geo locations (the primary central and all satellite locations) will be backed up.
+3. Click Update.
+4. Select Save. Your connector will be created with your selected geo location and your first backup will be scheduled.
+Changing the geo location
+You can change the geo location that the connector reads from after you have created a connector. Once you change the location, only data from the newly selected location will be backed up, but snapshots from the previous geo location will still be accessible.
+Change your connector's geo location
+1. Open your connector's configuration.
+This can be done from the Dashboard page by selecting ••• > Configure in the connector info card. Or from the connector's page by selecting the gear icon.
+2. In the lower-left corner of the configuration window, select ••• > Geo Location.
+3. Select a geo location from the dropdown list.
+Global means that all geo locations (the primary central and all satellite locations) will be backed up.
+4. Click Update.
+Important: Your backup configuration will be reset to backup all data in the new location. In case you want a custom backup, configure the backup before you save.
+5. Select Save.
+Note: The backup of public folders will be disabled if you select a satellite location. This is because public folders must remain in the central geo location in multi-geo organizations.
+Restoring to a different location
+Groups and Teams data is restored to the geo location where the global admin who created the connector is located. If you need to restore this data to a different location, first reauthenticate the connector with a global admin in that location.

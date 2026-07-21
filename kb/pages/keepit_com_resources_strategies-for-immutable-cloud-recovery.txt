@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/resources/strategies-for-immutable-cloud-recovery/
+Content type: Web page
+Last modified: 2025-08-25T23:38:03+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Red Team Tales and SaaS Strategies for Immutable Cloud Recovery
+Immutability is just the beginning of achieving resilience by design. Securing static data isn't enough to actively retain control before, during, and after an incident. As organizations increasingly rely on SaaS and multi-cloud platforms, understanding who truly has control of your data—and how that control can be asserted, audited, and reclaimed—is vital to long-term resilience.
+This session explores the following viewpoints: - Strategic view – our SVP of Product will lay out emerging SaaS-backup architectures and policy controls. - Adversarial view – Red Team Manager, will reconstruct a recent cloud-breach scenario to show exactly how attackers erase or encrypt backups and how immutable protection can break the kill-chain. 
+Speakers 
+Bart Binder |  Red Team Manager and Cybersecurity Analyst, Keepit 
+Niels van Ingen |  Senior VP of Business Development and Strategy, Keepit

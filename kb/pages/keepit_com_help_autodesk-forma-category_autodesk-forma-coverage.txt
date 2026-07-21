@@ -1,0 +1,34 @@
+Source URL: https://www.keepit.com/help/autodesk-forma-category/autodesk-forma-coverage/
+Content type: Web page
+Last modified: 2026-07-09T09:22:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Autodesk forma coverage
+The table below shows the detailed backup and restore coverage for Keepit for Autodesk Forma.
+The table below shows the detailed backup and restore coverage for Keepit for Autodesk Forma.
+| Element | Backup Supported | Restore Supported | Comments | 
+| Users | |||
+| User definitions | â | â | |
+| User Projects | â | â | |
+| Project memberships | â | â | Membership across all Forma users in the tenant | 
+| Roles | â | â | |
+| Products | â | â | |
+| Projects | |||
+| Definitions | â | â | |
+| Sheets | â | â | |
+| Sheet collettions | â | â | |
+| Sheet versions | â | â | |
+| Files and folders | â | â | |
+| Packages | â | â | |
+| Issues | â | â | |
+| Issue comments | â | â | |
+| Issue attachments | â | â | |
+| Issue settings | â | â | |
+| Templates | â | â | |
+| Transmittals | â | â | |
+| Companies | |||
+| Definitions | â | â | |
+| User mappings | â | â | |
+| Projects mappings | â | â | |

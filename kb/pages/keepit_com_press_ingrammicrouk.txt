@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/press/ingrammicrouk/
+Content type: Web page
+Last modified: 2025-08-20T02:30:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit and leading B2B platform company Ingram Micro announce strategic go-to-market relationship in the UK
+New UK alliance enables the IT channel to help customers safeguard essential business applications through broader access to Keepit’s innovative SaaS data protection services
+COPENHAGEN, DENMARK, April 23, 2025 – Keepit has teamed with Ingram Micro, a leading business-to-business platform company for the global technology ecosystem, to expand access to Keepit’s vendor-independent cloud solution for data backup and recovery for value-added resellers (VARs), managed service providers (MSPs), and managed security service partners (MSSPs) in the UK. The agreement will also help strengthen Keepit’s position in the UK market as a premium global provider of SaaS data protection solutions and services.
+The surge in SaaS application usage, coupled with the exponential increase in data creation, has ushered in an era where businesses are constantly at the mercy of cyberthreats and evolving data compliance regulations. In the 2024 report “The Hidden Cost of Downtime” Splunk and Oxford Economics calculated that downtime costs Global 2000 companies $400B annually. That’s $200M per company per year, which is roughly 9% of profits. And, according to cybersecurity consulting firm NCC Group, 2024 saw the highest volume on ransomware attacks observed since 2021.
+Ingram Micro, which has the ability to reach nearly 90% of the global population, will assist in marketing, selling, and supporting the Keepit portfolio while enhancing flexibility in purchasing and financing solutions that incorporate Keepit’s SaaS data protection services.
+"Our relationship with Ingram Micro will help expand our UK footprint, elevate Keepit’s partner engagement commitment, and help take our channel business to the next level,” said Liz Barnhart, VP of Global Strategic Alliances at Keepit. “As the importance of data security continues to rise, this agreement will provide channel partners with a new and effective way to procure our technology and better support their business growth."
+“The need for secure, scalable SaaS data protection is more critical than ever,” said Jeffrey Drager, Senior Manager, Networking and Security, Ingram Micro. “Expanding our Network and Security portfolio with Keepit’s cloud-native data protection solution will enable our shared channel partners to help their customers safeguard essential business applications, boost their cyber resilience, and future-proof their data protection.”
+Keepit Partner Network continues to empower channel partners
+The Keepit Partner Network, launched in January 2024, underscores Keepit’s commitment to empowering resellers, MSPs, and distributors through its “partner only” strategy. The Keepit Partner Network is live in North America, EMEA, and ANZ .
+To become a Keepit partner, reach out to the partner team at partner@keepit.com or go to keepit.com/partners/
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 15,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data. â¯
+For more information visit keepit.com or follow Keepit on LinkedIn.
+Keepit Media Contact:
+A3 communications
+Orestis Bastounis, keepit@a3communicationspr.com

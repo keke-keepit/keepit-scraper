@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/help/platform-category/reasons-you-may-need-to-reauthenticate-your-connector/
+Content type: Web page
+Last modified: 2026-06-18T10:26:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Reasons you may need to reauthenticate your connector
+To create a connector, you must authenticate it with a proper service account, which grants Keepit the permissions it needs to access your data. We then retain the permissions and continue to back up your data as long as the authentication is valid.
+After the initial authentication, you may need to reauthenticate your connector due to one of the following reasons:
+- The authentication between your SaaS app and Keepit becomes invalid
+- We need you to grant us new permissions
+- You granted Keepit permissions with the wrong account
+Your backup stopped because authentication no longer valid
+If the authentication between your SaaS app and Keepit is no longer valid we stop having access to your data and cannot continue to perform a backup.
+The most common reason this happens is because your authentication token gets expired or revoked. In that case, Keepit loses connection with your SaaS application.
+When we detect that the authentication is no longer valid, your connector's health will become critical and you will be notified on the Data Protection Dashboard and the Connectors page.
+Note: If you have a Microsoft connector, authentication may fail due to conditional access, read more here: My Microsoft 365 connector's authentication is no longer valid
+Your backup is running but new permissions need to be granted
+Keepit is constantly improving our backup and restore capabilities. From time to time, before we can provide you access to these new features, we need you to grant us new permissions. Your backup will continue to run, but you may not have the fullest backup coverage or latest connector features until you grant us the permissions.
+If you need to grant us new permissions, you will see a notification on the Connectors page.
+Click the message "Reauthenticate connector to update permissions." Sign in using the proper admin credentials and accept the permissions. You will then be redirected back to Keepit and will proceed backing up your data with the new permission set.
+Your backup is running using the wrong service account
+Any account with the proper admin role or level of permissions can be used to authenticate a connector in Keepit. However, we recommend you use a dedicated account for the backup.
+If you accidentally authorize a different account, you can reauthenticate with the proper service account from your connector's configuration.
+Note: If you have a Microsoft 365 connector, the account will automatically become a member of Groups and Teams. If you authenticated with the wrong account, you may want to remove it from Groups and Teams.

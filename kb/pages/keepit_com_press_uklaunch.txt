@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/press/uklaunch/
+Content type: Web page
+Last modified: 2025-08-14T23:54:53+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit opens UK headquarters to complete UK market entry
+A game changer for SaaS data protection in the UK
+COPENHAGEN, DENMARK, Feb. 21, 2024 – Keepit, a global leader in cloud backup and recovery solutions, today signaled its commitment to the UK market, announcing the opening of a UK headquarters in the City of London and the expansion of its UK team, led by industry veteran Jerry Mumford, VP for UK, I, and MEA. Launched in 2007 and built exclusively for SaaS applications, Keepit is the only vendor-independent cloud dedicated to SaaS data protection.
+This announcement builds on a recent $40 million refinancing package from HSBC Innovation Banking and launch of the Keepit Partner Network as the company evolves to a partner-only strategy. Over the past three years, Keepit has seen 100% YOY growth in the UK and is on target to repeat this in 2024. The opening of a local office highlights the company’s plans to expand its local market share and cements its commitment to providing its UK customers with local support.
+“Establishing a stronger base in the UK is an important step for Keepit: an opportunity to build on the foundations we already have here, and grow our partner ecosystem and customer base,” said Jerry Mumford, Keepit VP for UK, I and MEA. “The UK market is significant, with a robust IT infrastructure and high levels of new technology adoption. But that means it is also a key target for cybercriminals and of course data loss can seriously impact business continuity. Our commitment to vendor independence, broad service coverage, fast recovery times, and dedication to security, will mean that more UK organizations will have the resilience to keep their businesses running, even when disaster strikes.”
+Headquartered in Copenhagen, Denmark, with offices in the US, Germany, and now the UK, Keepit counts The National Gallery and Oxford University Innovation Ltd among its UK customers. Key benefits of the Keepit Platform include:
+- Data protection for all major SaaS applications in a single platform, including Azure DevOps, Dynamics 365, Entra ID (formerly Azure AD), Google Workspace, Microsoft 365, Power Platform, Salesforce, and Zendesk
+- Vendor-independent cloud: Keepit ensures backup data is stored separately from the production data, on its independent cloud, meaning data is always accessible even if a SaaS vendor has downtime.
+- Data sovereignty: with six isolated data center regionsâ (one of which is in the UK), Keepit’s customers can always be 100% certain that they can customize their backups to comply with local regulatory requirements.
+- Instant recovery: fast, easy, and granular search and restore features means data can be located, previewed, and retrieved with just a few clicks.
+- Certified, cloud-native design: Keepit is ISO/IEC 27001:2013 and ISAE 3402-II certified. Unique security and ransomware protection keeps data available and immutable by default.
+- Predictable costs: customers pay one flat fee per user which includes unlimited data storage, ingress/egress, and retention.
+- Simple and intuitive software: the simple interface and API-first architecture of the Keepit Platform requires no training, and can easily be integrated into existing systems, meaning customers can get up and running in minutes.
+Plus, all Keepit’s data centers in the Americas and EMEA are powered by 100% renewable energy to limit their environmental impact and help its customers meet sustainability targets. Keepit reached this important green energy milestone ahead of other cloud-based backup vendors.
+One of Keepit's UK customers is the National Gallery, which protects its Microsoft365 data within the UK at two separate data centers to meet compliance regulations. Keepit’s ease-of-use, the quick initial set-up, and the competitive price appealed to the IT team. National Gallery infrastructure manager James Mitchell said, "during our tender process, it was evident that Keepit offered the best price point and simplest solution – accessing your backup is fast and easy, just the way it should be."
+Meet with Keepit at:
+â Tech Show, London, March 6-7. Visit Keepit in hall N1 - N13, at stand S122.
+â Infosec, London, June 4-6
+About Keepit
+Keepit provides next-level SaaS data protection for companies with data stored in the cloud. Keepit's vendor-independent cloud dedicated to SaaS data protection is based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Azure AD, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. For more information visit www.keepit.com or follow Keepit on Linkedin.

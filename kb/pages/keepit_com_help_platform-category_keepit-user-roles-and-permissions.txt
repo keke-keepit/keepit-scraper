@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/help/platform-category/keepit-user-roles-and-permissions/
+Content type: Web page
+Last modified: 2026-06-23T22:38:54+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit user roles and permissions
+Keepit offers eight predefined roles that can be assigned to users who need access to a Keepit account. A role is a set of permissions that defines what a user can do in the platform.
+Users can perform the actions of their roles only on connectors they have access to.
+Here's a table of available user roles and what permissions are available for each one:

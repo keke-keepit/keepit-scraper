@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/press/canalyschampion/
+Content type: Web page
+Last modified: 2025-08-20T02:30:18+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit named champion in Canalys Managed BDR Leadership Matrix 2025
+Keepit recognized for its leading SaaS backup and recovery solution by channel partners and Canalys analysts
+Copenhagen, Denmark — April 30, 2025 — Keepit, the world’s only independent, cloud-native data protection, backup and recovery platform provider, today announced it's been named champion in the Canalys Managed BDR Leadership Matrix 2025. Since 2024, the Keepit Partner Network has been empowering channel partners through its leading SaaS backup and recovery solutions.
+Companies labeled “Champions” in the Canalys Managed BDR Leadership Matrix 2025 demonstrate the highest levels of excellence in channel and technology capability over the previous 12 months compared with their industry peers, as rated by channel partners and Canalys analysts.
+“Keepit’s evolution to Champion in the Matrix has come as a result of its investment in the channel, geographical expansion, positive MSP feedback, and product advancements,” said Robin Ody, Principal Analyst at Canalys. “In 2024, Keepit launched its Partner Network, appointed a new Chief Product Officer to oversee SaaS data protection, built relationships with cloud marketplace distributors, and expanded its global infrastructure. The company consistently provides high-value content for MSPs (Managed Service Providers) —including assets and webinars focused on cyber resiliency, cyber insurance, and compliance strategies—which are well received and impactful.”
+“Our channel partners are facing challenges that demand secure and reliable backup and recovery solutions. Keepit’s offering supports MSPs to expand their portfolios to include an intelligent backup solution that ensures cyber resilience and business continuity, while providing a local partner with global presence,” says Liz Barnhart, Vice President, Global Strategic Alliances at Keepit.
+Backup and disaster recovery are critical to MSP platform strategies
+In today’s environment of growing ransomware threats, stricter regulations, rising cyber-insurance requirements, and increasingly complex SaaS stacks, backup and disaster recovery have become essential. MSPs are on the frontlines, and vendors that offer integrated backup solutions are better positioned to build strong MSP platform plays—especially when complementing cybersecurity and remote monitoring and management (RMM) offerings.
+The Keepit Partner Network supports MSPs' growth
+Launched in January 2024, the Keepit Partner Network reflects Keepit’s deep commitment to empowering resellers, MSPs, and distributors through a “partner first” strategy. Now active across the Americas, EMEA, and ANZ, the program is designed to help MSPs drive business growth, increase gross profit, and expand service portfolios with offerings focused on cyber readiness, data recovery, regulatory compliance (including NIS2, DORA and GDPR), and more.
+Keepit’s unique, vendor-independent architecture—driven by fully self-managed software and infrastructure, with no sub-processors—continues to be in high demand among both partners and customers. By storing data in local data centers across the Americas, Europe, the UK, and Australia, Keepit enables customers to meet data sovereignty requirements within their regulatory region—independently of Privacy Shield agreements.
+To become a Keepit partner, reach out to the partner team at partner@keepit.com or go to keepit.com/partners/
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over fifteen thousand companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit keepit.com or follow Keepit on LinkedIn.

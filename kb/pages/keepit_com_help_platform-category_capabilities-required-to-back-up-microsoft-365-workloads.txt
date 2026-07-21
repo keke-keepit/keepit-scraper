@@ -1,0 +1,39 @@
+Source URL: https://www.keepit.com/help/platform-category/capabilities-required-to-back-up-microsoft-365-workloads/
+Content type: Web page
+Last modified: 2026-06-23T20:40:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Capabilities required to back up Microsoft 365 workloads
+This article explains which capabilities to select when creating a custom Microsoft 365 application in Keepit, and how those capabilities map to Microsoft permissions. Use it as a reference when configuring an app registration for specific workloads.
+Before you start
+Keepit supports two ways of connecting Microsoft 365 to your backup account:
+Default application
+A Keepit-managed application that backs up all supported workloads except Teams Chats.
+Custom applications
+App registrations that you create in your own Microsoft Entra tenant. You can:
+- Use a single custom application for multiple workloads, or
+- Create dedicated applications per workload
+Backing up Teams Chats always requires a custom application.
+How capabilities work
+Each custom application in Keepit is configured with a set of capabilities. A capability represents a specific data protection function (for example, "Exchange backup and restore").
+Each capability maps to one or more Microsoft APIs and permissions, such as Microsoft Graph, SharePoint, Exchange Web Services (EWS).
+When you select a capability in Keepit, the required Microsoft permissions are shown so you can grant them in your Entra ID app registration.
+Important requirement
+"Directory access" is required for every custom application.
+This capability allows Keepit to read basic directory data (users, groups, and tenant metadata) so it can identify what needs to be backed up or restored.
+Always select "Directory access" together with any workload-specific capabilities.
+Microsoft Exchange Online (mailboxes)
+Use these capabilities to back up user mailboxes, including email, calendars, contacts, and tasks.
+Where to find Exchange Online permissions in Entra ID
+Keepit currently uses Exchange Web Services (EWS) to protect Exchange Online data. This requires the full_access_as_app application permission from the Office 365 Exchange Online API.
+Although Microsoft removed this API from the Microsoft APIs tab in November 2020, it is still available (currently expected until late 2026). It has simply been moved within the interface.
+To grant the required permission:
+1. In your Entra ID app registration, go to API permissions > Add a permission.
+2. Select the APIs my organization uses tab (not Microsoft APIs).
+3. Search for the full name Office 365 Exchange Online.
+- Searching for just “Exchange” will not return results.
+4. Open Office 365 Exchange Online > Application permissions, and select full_access_as_app.
+5. Add the permission and grant admin consent.
+Note: This additional step is only required while Keepit uses EWS for Exchange Online data protection. Once Keepit moves Exchange Online backup to Microsoft Graph (Q2 2026), the full_access_as_app permission and the APIs my organization uses workaround will no longer be needed.

@@ -1,0 +1,42 @@
+Source URL: https://www.keepit.com/blog/ciso-approved-backup/
+Content type: Web page
+Last modified: 2025-08-20T02:24:11+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What is CISO-approved backup?
+Background of Keepit’s CISO Kim Larsen
+My journey into cybersecurity started long ago when I was a police officer. I was working in serious crime investigation, which then took me to the internet as the world went to cyber, and eventually I joined the intelligence service in Denmark as CSO. After that, I was working with NATO and the EU as a delegate to the security committees.
+This background has been incredibly beneficial as it taught me to handle crises, assess risks, and maintain a certain calmness under pressure. These skills are vital in the cybersecurity world, where threats are ever-present and evolving daily. As a police officer, I was trained to see risks that others might overlook, and this perspective has been invaluable in my career role as a CISO.
+Understanding the cybercrime landscape
+One of the significant challenges in cybersecurity, as I see it, is the dynamic nature of cybercrime. Criminals can constantly change their tactics and crime scenes, making it difficult to combat them. Therefore, it’s crucial to have a strong collaboration between governments and enterprises to prevent these crimes effectively. The cooperation between different sectors is vital because cybersecurity threats don’t respect borders, and international collaboration is often required to address them.
+Having the right level of security is key to earning customer trust.
+The critical role of a CISO in backup solutions
+At Keepit, we recognize that we are the last line of defense for an enterprise. When everything else fails, businesses rely on their backup systems to recover and continue operations. This is why backup solutions need to be robust, reliable, and secure. My role involves ensuring that we stay ahead of compliance regulations, understand the threats we face, and mitigate those risks effectively.
+Bringing backup to the forefront
+Traditionally, backup systems have been viewed as something in the corner (or quite literally the basement), often neglected until disaster strikes, where it’s hoped everything will work for a recovery.
+However, I believe that backup solutions, like those provided by Keepit, should be brought to the forefront of an organization’s strategy. Our solution ensures that data is not only backed up but secure, readily accessible, and restorable, aligning with the critical needs of modern enterprises, such as ensuring business continuity and compliance even in the face of disruptions.
+Backup systems aren’t just an IT concern but should be a significant consideration for management, C-level, and the board. Regular testing and daily engagement with backup solutions are essential to ensure they are ready when they are desperately needed — after an attack or other data loss event.
+The Keepit approach to backup
+At Keepit, we provide backup solutions for software-as-a-service (SaaS) environments. This means that we back up data and allow businesses to work live with the information, whether it’s a regional backup or a cloud backup. One of the key features of our solution is the ability to reverse cloud backups to local backups. This ensures that businesses can always access their data, even if they lose connection to their cloud provider, such as Microsoft, Google, or Amazon. This dual approach provides a significant advantage in terms of compliance and business continuity.
+Security measures and certifications
+We pride ourselves on using a well-proven, robust data center solution and maintaining rigorous security standards. Our security measures are based on ISO 27001 certification, which, while not providing security on its own, assures our customers that the entire Keepit organization lives up to the highest international security standards and ensures that we have the necessary controls in place. We focus on maintaining strict control over access, keeping IDs updated, and ensuring that only authorized personnel have access to our servers.
+Identity management and zero trust
+Credential management is critical in cybersecurity. While the concept of zero trust is often more theoretical, we strive to implement as many controls as possible to minimize risks. To me, zero trust is mostly theory because I don’t think anyone has total control over all of the processes in their infrastructure. For a deeper understanding of zero trust principles, you can refer to the NIST Zero Trust Architecture.
+So, my advice is to build a control framework that, first of all, protects your critical assets and ensures that you have identified and protected those frameworks of controls that work. By doing that you also map what you might not have sufficient control over, be aware of that, and then protect it even more than you do with the rest of your assets.
+It’s essential to understand which assets you need to protect the most and to build a governance framework around those assets. This approach helps in identifying and safeguarding the crown jewels of your enterprise; it’s all about asset identification.
+He who defends everything, defends nothing.
+Frederick the Great
+Compliance and regulations
+Compliance with regulations is a global concern. Whether it’s GDPR or NIS2 compliance in Europe or other data protection laws in the US like DORA (Digital Operational Resilience Act) and others around the world, businesses need to be aware of and comply with these regulations. It’s not just about having a certificate; it’s about living the compliance regulations and integrating them into the enterprise culture. Trust is paramount in our industry, and if customers don’t trust us, they won’t buy our services.
+The impact of AI and future threats
+Artificial Intelligence is rapidly changing the threat landscape. The ability of AI to mimic human behavior and infiltrate systems is a growing concern. It’s crucial to know where your data is and ensure it’s adequately protected. This includes being cautious about using public AI services and understanding what data can be shared and what must remain secure.
+Data management challenges
+One of the biggest challenges in data management is knowing where your data is and how it’s protected. This includes understanding where data is stored when it’s in the cloud, how it’s transported, and how employees share it. Most data breaches occur due to unintentional data sharing rather than malicious intent. Therefore, it’s essential to provide clear guidelines and establish a framework that aligns with how employees work.
+Balancing security and collaboration
+The foundation of any business is data sharing, but this must be balanced with security needs. Over-classification of data can impede collaboration and productivity. It’s about finding the right balance where security measures protect the most critical data while allowing for effective collaboration within the organization.
+The importance of regular testing
+A backup solution is only as good as its last test. Regular testing ensures that the backup system is functional and ready to be deployed when needed. It’s essential to integrate this testing into the daily operations of the organization rather than waiting for a disaster to strike.
+Conclusion
+A CISO-approved backup solution is one that is robust, reliable, and secure. It involves regular testing, strong compliance with regulations, effective identity management, and a balanced approach to data security and collaboration. If you have active backup that is also used on a daily basis for file recovery, for example, the chance that it works and that your organization knows how to use it is significantly raised in case of a large-scale incident.

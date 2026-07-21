@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/power-platform-dynamics-365-backup-coverage/
+Content type: Web page
+Last modified: 2026-07-04T00:35:54+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Power Platform / Dynamics 365 backup coverage
+The table below shows the detailed backup and restore coverage for Microsoft Power Platform and Dynamics 365 data.
+The table below shows the detailed backup and restore coverage for Microsoft Power Platform and Dynamics 365 data.
+The following entities are not supported due to API limitations.
+Standard entities exceptions
+authorizationserver, calendarrule, childincidentcount, msdyn_nonrelationalds, entity, entitykey, entityrelationship, managedproperty, multientitysearch, officedocument, dataperformance, optionset, partnerapplication, similarityrule, syncattributemappingprofile, dependency, invaliddependency, runtimedependency, audit, lookupmapping
+Related restore exceptions
+connection, queueitem, opportunityclose, syncopations, appaction, appconfig, appelement, appnotification, appsetting, appusersetting, comment, userrating, workflowdependency, post
+We back up the published (Live) version of Power Apps Canvas Apps. Draft or non-published changes are not supported due to Power Platform API limitations. Unpublished changes remain in the app’s most recent editor state and are not exposed through supported APIs. Once an app is published, it becomes part of what we can reliably capture and restore.
+This behavior is consistent with how Microsoft Power Apps handles app exports, which only include the published version.
+Entities used by the CRM applications of Microsoft Dynamics 365.
+Covered Dynamics 365 applications
+Dynamics 365 for Sales
+Dynamics 365 for Customer Service
+Dynamics 365 for Field Service
+Dynamics 365 for Project Operations
+Dynamics 365 for Customer Insights 
+The Dynamics 365 backup includes the entities' associated metadata and all custom tables.

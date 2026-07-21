@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/about-keepit/
+Content type: Web page
+Last modified: 2025-02-23T21:46:45+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+We secure your data from your most relied-upon SaaS apps like Microsoft 365 and Entra ID (formerly Azure AD). With the only vendor-independent cloud, we make future proofing all your company’s data not only possible, but extremely fast and easy.
+How? Over 20 years ago, our founders and CTO predicted that all software would be in the cloud as a service, and that this data must be protected. Why does this vision matter? It lead to our solution being completely purpose built for cloud SaaS data.
+And since we built our solution from scratch and own and operate our own data protection cloud, we can do exactly what we need to do — quickly. It doesn’t get more next level than that.

@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/resources/vendor-evaluation-checklist/
+Content type: Web page
+Last modified: 2026-01-06T17:18:49+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Your vendor evaluation checklist: SaaS backup and recovery
+Evaluation checklist to simplify your vendor selection
+Choosing the right SaaS backup and recovery vendor shouldn’t be a guessing game. When downtime, data loss, or ransomware strike, you need partners that can deliver fast, reliable recovery — not vague promises. That’s why we built this vendor evaluation checklist.
+It’s designed to help you evaluate vendors consistently and objectively. The questions map to the managed stage of our disaster recovery maturity framework — where DR is integrated with security, compliance, communications, and leadership decision-making. Organizations at this level don’t just react to incidents — they anticipate them.
+By using this checklist, you’ll get deeper insight into which vendors can truly support your SaaS resilience strategy and help you move toward proactive, business-aligned recovery.
+What questions and topics are part of the checklist?
+Below are the core sections included in the vendor evaluation checklist. Each one walks you through the right questions to ask — and why it matters for achieving mature SaaS resilience: 
+- Backup coverage and data protection
+- Backup and restore features
+- Storage and retention
+- Security and compliance
+- Monitoring, reporting, and observability
+- Vendor capabilities and reputation
+Use these sections to guide vendor conversations and ensure every evaluation is consistent, measurable, and aligned with your organization’s expectations for resilience.
+Request for information (RFI) template
+To make this process easier and to simplify your vendor evaluation, we’ve created a downloadable template you can use to score vendors on these different questions. Get the RFI template now to simplify your vendor evaluation.

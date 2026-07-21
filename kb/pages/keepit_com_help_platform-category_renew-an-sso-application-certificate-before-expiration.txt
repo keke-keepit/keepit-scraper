@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/help/platform-category/renew-an-sso-application-certificate-before-expiration/
+Content type: Web page
+Last modified: 2026-06-23T23:23:14+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Renew an SSO application certificate before expiration
+If the certificate used for single sign-on (SSO) to Keepit is nearing its expiration, it’s important to renew it promptly. We recommend renewing certificates before they expire to avoid any disruption in SSO access.
+However, if the certificate expires before you can update it in Keepit, the SSO Admin will still be able to access the SSO configurations and update the certificate.
+Renew the certificate
+1. In Microsoft Entra, navigate to the Enterprise application you created for SSO.
+2. In the application’s left-hand menu, select Single sign-on.
+3. In the SAML Signing Certificate section, click the pencil icon to manage the certificate.
+4. Click + New Certificate, choose a duration of up to 3 years, and then click Save.
+5. Click the More options (three dots) icon next to the new certificate and select Make certificate active. 
+This will roll over your existing certificate into the newly created certificate.
+6. Download the new certificate (Base64), copy the text, and paste it into the SSO configuration in Keepit.
+Important: You can copy the certificate with or without the begin and end markers, but note that including just one of the markers will make the certificate invalid.
+Rolling over the certificate in Microsoft Entra and updating it in your app may cause brief downtime. Please plan accordingly when performing these steps to minimize disruption.
+Visit the following link for more information: Tutorial: Manage certificates for federated single sign-on

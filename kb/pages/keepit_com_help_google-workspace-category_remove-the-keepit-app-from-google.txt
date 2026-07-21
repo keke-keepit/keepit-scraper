@@ -1,0 +1,14 @@
+Source URL: https://www.keepit.com/help/google-workspace-category/remove-the-keepit-app-from-google/
+Content type: Web page
+Last modified: 2025-03-11T20:16:53+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Remove the Keepit app from Google
+1. Sign in to https://admin.google.com with an administrator’s credentials.
+2. Open the Apps page.
+3. Select Google Workspace Marketplace apps.
+4. Select Keepit for Google Workspace.
+5. On the left, select DELETE APP.
+6. Select DELETE APP to confirm the removal of Keepit for Google Workspace.

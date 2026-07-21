@@ -1,0 +1,63 @@
+Source URL: https://www.keepit.com/help/salesforce-category/create-a-salesforce-connector/
+Content type: Web page
+Last modified: 2026-07-03T13:19:37+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create a Salesforce connector
+This article explains how to install the managed package and create a Salesforce connector in Keepit. Before you begin, set up the Salesforce user Keepit authenticates with. For instructions, see Create a Salesforce user for Keepit.
+About the External Client App
+To connect Keepit to your Salesforce organization, you install a managed package called keepit-sf-managed-package. This package uses an External Client App (ECA) to handle OAuth authentication between Salesforce and Keepit, replacing the older Connected App setup method that Salesforce is phasing out.
+The package contains:
+- External Client App — establishes the secure OAuth connection that allows Keepit to access your Salesforce data.
+Before you begin
+Make sure you have:
+- System Administrator profile in Salesforce.
+- Master Admin or Backup Admin role in Keepit.
+- A dedicated Salesforce user configured for Keepit. For instructions, see Set up a Salesforce user for Keepit.
+Step 1: Install the managed package
+1. In Keepit, go to Connectors and select Add connector > Add Salesforce connector.
+2. Select the environment: Production or Sandbox.
+3. Select Install and sign in with your System Administrator credentials.
+4. Select Install for Admins Only, then approve the installation of the application.
+5. Keepit installs the managed package in your Salesforce organization.
+Note: If you previously installed the package in this organization, select Skip this step. If you're setting up a sandbox that has been created or refreshed, don't skip this step. Reinstalling is required to reestablish the connection.
+6. Return to the Keepit connector setup page and continue.
+7. When prompted, sign in with the Salesforce user that has the Keepit Backup Admin permission set assigned.
+Note: If your organization's login policy prevents sign-in from login.salesforce.com, select Use Custom Domain and enter your custom domain before signing in.
+8. Review and approve the permission request on the Salesforce authorization page. Keepit returns you to the connector configuration page.
+Step 2: Configure the connector
+1. In the Name field, enter a name for the connector.
+2. Move the toggle to configure API request usage.
+3. (Optional) Select the lock icon in the lower-right corner to manage user access to the connector.
+4. (Optional) Select the calendar icon in the lower-right corner to set a custom retention period.
+5. Select Start backup. Keepit schedules the first backup.
+Set up restore target organizations
+Warning: This section is required if you plan to restore data to a Salesforce organization other than the one you're backing up from.
+The ECA package must be installed and the Keepit Backup Admin permission set assigned in any target Salesforce organization you want to restore data into. This applies to sandboxes, developer orgs, and separate production organizations.
+For each restore target, repeat the full setup:
+1. Create a Keepit Backup Admin permission set with all required permissions and assign it to the system administrator in the target organization.
+2. Install the ECA package using the same installation link from the Keepit connector setup flow.
+3. Authorize a connector for the target organization in Keepit.
+Common scenarios that require this:
+- Restoring production data into a sandbox for testing or validation.
+- Restoring data into a developer org.
+- Disaster recovery testing in a separate Salesforce organization.
+- Data migration between two production organizations.
+Troubleshooting
+Package installation fails or shows an error
+- Confirm you're signed in as a System Administrator in Salesforce.
+- Check that your Salesforce organization allows managed package installation. Some organizations restrict this under security settings, or the user installing the package doesn't have the required permissions.
+The installed package isn't visible after installation
+- Wait a few minutes. Salesforce can take time to make new items visible.
+- Salesforce sends an email when the package has been installed.
+- If you still don't see keepit-sf-managed-package under Setup > Installed Packages, contact Keepit Support.
+Authorization fails or returns an error
+- Confirm the user has the permission set with all required permissions assigned before attempting authorization.
+- Confirm the user has the API Enabled permission in their Salesforce profile or via permission set.
+- Check that the user can sign in to Salesforce normally.
+Connector shows as disconnected after setup
+- Verify the Keepit Backup Admin permission set is still assigned to the authenticating user.
+- Check whether the user's password or MFA settings have changed since authorization.
+- Select Reauthenticate on the connector in Keepit to reauthorize the connection.

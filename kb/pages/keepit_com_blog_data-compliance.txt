@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/blog/data-compliance/
+Content type: Web page
+Last modified: 2025-08-20T00:34:15+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Data compliance makes third-party security a must
+The very mention of data governance and compliance can send shivers down the spines of corporate IT professionals, particularly for those who recognize they aren’t ready to handle a major data breach or other situation that compromises mission-critical data.
+The increased focus on data compliance creates even more headaches as state and federal regulations are constantly changing, adding more pressure to comply as a means to avoid a regulatory audit and the unpredictability of a public relations nightmare.
+Why is regulatory compliance so important?
+The answers can vary from company to company but protecting mission-critical data is not only necessary for business continuity, failure to comply can lead to financial and legal exposure such as lawsuits, fines, settlements, certification losses, and data breaches. Some estimates say compliance failures cost businesses nearly $1.5 billion annually and growing.
+If you believe data compliance won’t adversely affect your company, look at these real-world examples of what can happen:
+- Target Corporation agreed to an $18.5 million settlement with 47 states for its 2013 holiday data breach where cybercriminals stole $40 million in credit and debit records.
+- Uber’s sub-par handling of its 2016 data breach that impacted 57 million rider and driver accounts cost the company almost $150 million.
+- Equifax lost over $575 million in 2017 when it failed to fix a critical vulnerability that compromised the financial and personal information of over 150 million individuals.
+- Marriott International received a $124 million fine from the General Data Protection Agency in 2018 when a cyber incident dating back to 2014 containing over 338 million guest records came to light.
+The solution? Deploy a third-party cloud backup service
+For companies committed to minimizing or avoiding these risks, it pays to be nimble and prepared particularly since data backup and recovery are so inextricably linked to compliance. Think, for example, how difficult it would be to pass an audit with missing data.
+So, who is ultimately responsible for data backup and recovery? If you believe it’s your cloud service provider, think again. You may be surprised to learn that most SaaS vendors don’t automatically back up data for long periods and lack critical, built-in security measures to protect data. While they may be able to back up some of your data during a breach incident, most lack the ability to quickly and easily recover your data and make it immediately accessible.
+That’s why third-party backup and recovery services like Keepit are your best bet to ensure business continuity, stay in compliance, and keep costs predictable.
+Part of what makes Keepit’s backup and recovery solution so effective is how we deploy blockchain technology, which makes it possible to achieve data immutability to meet increasing compliance standards without having costs skyrocket.
+Blockchain has gained market familiarity and acceptance in the cryptocurrency industry like Bitcoin and Ethereum because its hashing technology helps improve transparency and data security around distributed transactions.
+One of blockchain’s drawbacks with cryptocurrency, however, is authentication, which is slow and resource demanding. Keepit’s solution, on the other hand, features all the benefits of blockchain technology but is fast and doesn’t consume expensive resources. This, in turn, makes achieving compliance much easier and more convenient.
+How to increase your focus on compliance
+So, what's the fastest and most cost-effective third-party data protection your company can deploy? Enter the Keepit cloud.
+Because it is built on secure, blockchain-verified technology, Keepit ensures data remains immutable and tamperproof – always. This is important for compliance because with immutable data and metadata, it’s possible to document and recover not just all data but all data processing, further ensuring that auditors have full visibility to everything that has impacted the data.
+Learn more about how Keepit's compliance features can help your company quickly recover from any data loss event – even ransomware attacks – to keep your company’s data always secure, always available, and always compliant with the latest regulations.
+Keepit is a dedicated backup and recovery service providing your company with secure cloud data backup for the core SaaS applications, including Microsoft 365, Salesforce, and Google Workspace.

@@ -1,0 +1,981 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Annual-Data-Report-2026.pdf
+Content type: PDF document
+Title: unknown
+Pages: 23
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Annual Data 
+Report 2026
+Operational truths from real 
+backup and restore data
+
+Keepit Annual Data Report
+Introduction....................................................................................................................................................3
+Methodology.................................................................................................................................................4
+Chapter 1: Restore operations and job type..................................................................................5
+Job types...............................................................................................................................................................5
+Restore destinations.............................................................................................................................................6
+Job types by month...............................................................................................................................................6
+Initiated restores by weekday and time of day....................................................................................................8
+Weekdays..............................................................................................................................................................8
+Time of day............................................................................................................................................................9
+Job types by segment......................................................................................................................................... 10
+Job types by region.............................................................................................................................................. 11
+Chapter 2: Data set observations......................................................................................................12
+Backup size...........................................................................................................................................................12
+File change ratios.................................................................................................................................................13
+Regional change ratio trends ............................................................................................................................. 14
+Chapter 3: User behavior....................................................................................................................... 15
+Restores by organization size ..............................................................................................................................16
+Restores by application/dataset categories .....................................................................................................17
+Impact on restore activity by external event...................................................................................................... 18
+Conclusion................................................................................................................................................... 20
+Glossary...........................................................................................................................................................21
+Job types..............................................................................................................................................................21
+Business segments..............................................................................................................................................21
+Dataset and backup terminology........................................................................................................................21
+Backup size...........................................................................................................................................................21
+Application categories.......................................................................................................................................22
+Usage terminology..............................................................................................................................................22
+© 2026 Keepit. All rights reserved
+Content
+Keepit Annual Data Report 2026  |  2
+
+As a company dedicated to keeping business-critical SaaS data safe and always available, 
+no matter the incident, Keepit occupies a unique vantage point in the global data pro-
+tection landscape. Every day, our platform processes millions of real‑world backup and 
+restore operations across customers, regions, and SaaS applications. This gives us direct 
+insight into how organizations actually protect, access, and recover their SaaS data — not 
+how they intend to, or how they believe they do.
+The Keepit Annual Data Report is built on that operational reality. It’s based on aggregated 
+and anonymized  behavioral data drawn from our production backup environment, reflect-
+ing backup and recovery activity across all active Keepit data center regions: Denmark, 
+Germany, Switzerland, UK, Australia, Canada, and USA. At no point does the analysis rely on 
+surveys, self‑reported behavior, or individual customer cases. Instead, it examines observ-
+able patterns: how often data is backed up, how frequently restores occur, what types of 
+recovery actions are initiated, and how backup systems behave under everyday — as well 
+as unusual — conditions.
+We believe this perspective is relevant well beyond Keepit’s customer base. Backup and 
+recovery are often discussed in abstract terms — policies, architectures, or compliance 
+requirements — while the day‑to‑day mechanics of data recovery remain poorly under-
+stood. By focusing on what actually happens when organizations restore data, this report 
+aims to ground those discussions in evidence.
+Our goal is not to prescribe best practices or rank maturity, but to contribute transparency 
+to an area that is foundational to digital resilience. By sharing population‑level insights de-
+rived from real backup and recovery activity, we hope this report helps IT leaders, security 
+professionals, and decision‑makers better understand the operational realities behind 
+data protection — and make more informed choices as a result.
+I hope you enjoy reading it.
+Jakob Østergaard
+Chief Technology Officer
+Keepit
+Introduction
+Keepit Annual Data Report 2026  |   3
+© 2026 Keepit. All rights reserved
+
+Methodology
+Data sources and scope
+This report is based on aggregated and anonymized query results derived from Keepit’s production backup 
+environment between January 1, 2025 and December 31, 2025. In a few cases where explicitly stated, we 
+included data for 2024 as well. The dataset reflects backup and restore activity across Keepit customers 
+and includes data from all active data center regions: Denmark, Germany, Switzerland, United Kingdom, 
+Canada, USA, and Australia. The analysis focuses on population‑level patterns and trends rather than orga-
+nization‑specific behavior. At no point were individual customers, users, or datasets identifiable within the 
+analytical process.
+Data extraction and anonymization
+To ensure strict separation between operational systems and analytical work, the dataset was extracted 
+internally and anonymized prior to analysis. Data preparation was conducted by designated internal stake-
+holders, who transferred the anonymized dataset to a dedicated server environment intended exclusively 
+for analytical purposes. This approach ensured that analysts operated only on de‑risked data and had no 
+access to live systems or customer‑identifiable information.
+Data preparation and indexing
+Before analysis commenced, the anonymized dataset was ingested and indexed to support efficient que-
+rying and aggregation. Aggregated tables were created to enable analysis at scale while minimizing reli-
+ance on granular operational records. This preparation improved query performance, ensured consistency 
+across analytical outputs, and reduced the risk of exposing sensitive operational detail while preserving 
+analytical validity.
+Analytical approach
+The analysis examined structural characteristics and recurring patterns related to backup and restore activ-
+ity, including backup volumes, restore frequency and size, failure occurrences, change activity, and access 
+behavior. Queries were executed against the aggregated dataset to surface distributions and trends ob-
+servable across the full dataset. Results were interpreted at an aggregate level suitable for external report-
+ing, with emphasis on comparability and clarity.
+Validation and analytical review
+Analytical outputs were reviewed iteratively to assess internal consistency, validate assumptions, and de-
+termine relevance for publication. Findings were discussed between internal stakeholders and the external 
+analysts to ensure that interpretations were supported by the data and that methodological constraints 
+were appropriately reflected. Results that were insufficiently robust, overly granular, or ambiguous were 
+excluded or further refined prior to inclusion.
+Reporting and synthesis
+Final results were synthesized and contextualized for reporting by the report author, with validation input 
+from the external analyst. All findings are presented in aggregated form and are intended to illustrate 
+general trends and behaviors across the dataset rather than precise measurements of individual customer 
+environments.
+Methodological limitations
+The findings presented in this report are subject to several limitations. The use of anonymized and aggre-
+gated data restricts the ability to account for contextual variables such as organizational size, industry, or 
+IT maturity. The analysis reflects the structure and availability of operational data at the time of extraction; 
+changes to underlying data models may affect comparability over time. In addition, aggregation may ob-
+scure low‑frequency or edge‑case events that could be significant at an individual organizational level. 
+These limitations should be considered when interpreting the results.
+Keepit Annual Data Report 2026  |   4
+© 2026 Keepit. All rights reserved
+
+Chapter 1
+Restore operations and job type
+This chapter examines restore operations in practice. It analyzes how and when admini­
+strators restore data, preferred recovery methods, and variations across time, regions, 
+and business segments, offering insight into real-world recovery behavior and operation­
+al priorities.
+Job types	
+	
+
+ 
+By far the most common restore action is the “single file download” (90%).
+Single file downloads are possible as an administrator using the user interface or as an end user with a 
+“shared link” shared by an administrator. However, the number of such shared links created are insignificant 
+compared to the number of downloads, and therefore the download numbers we observe are overwhelm-
+ingly the result of administrator driven restore operations.
+The second most common user-initiated job type is “bulk restore” (5%), third comes “zip download” (4%), 
+and least common is “PST download” (1%).
+PST download
+Restore
+Zip download
+Single ﬁle
+1%
+5%
+4%
+90%
+Relative share of restore types
+Figure 1
+What does that indicate?
+The fact that the “single file download” is the most 
+common restore action indicates that simple data 
+loss incidents are the most common, and that ad-
+ministrators appreciate the ability to do a simple, 
+immediate recovery, rather than engage in more 
+comprehensive restore operations.
+Overall, across both regions and segments, “bulk 
+restore” is the second most popular — an indication 
+that when a single file download does not suffice, 
+administrators prefer to put data back into its orig-
+inal environment and repopulate live systems with 
+backed-up data so users can pick up where they left 
+off. 
+As a close third comes downloading folders of doc-
+uments (zip), while downloading entire mailboxes 
+(PST) is not popular. The implication is that a zip file 
+is immediately useful on the computer to which it’s 
+downloaded, whereas a PST file needs to go through 
+a PST import workflow through a mail client.
+Keepit Annual Data Report 2026  |   5
+© 2026 Keepit. All rights reserved
+
+Restore destinations
+When administrators bulk restore, they almost always restore into a new destination (93% on average) or 
+restore into the old destination where the files are missing. Restore jobs only overwrite data in 7% of cases.
+Files changed – indexed
+Files missing – indexed
+Restored files indexed
+Figure 2
+0
+20
+40
+60
+80
+100
+120
+2025-01
+2025-02
+2025-03
+2025-04
+2025-05
+2025-06
+2025-07
+2025-08
+2025-09
+2025-10
+2025-11
+2025-12
+What does that indicate?
+This indicates that when administrators restore, the object they are restoring was actually lost on primary 
+storage. It also indicates that administrators are cautious when they restore and generally prefer to not 
+overwrite what is on the tenant already. They would rather move the compromised data out of the way and 
+do a ‘clean’ restore than risk overwriting data unintentionally.
+Job types by month
+When looking for seasonality, the patterns we observe for the different restore types vary. For single file 
+downloads (the most popular restore operation), there are no really slow months. We do see February and 
+the months of September, October, and November as being clearly more busy.
+For the bulk restore options (bulk restore, zip download, PST download), December and January are quiet 
+months for restore operations.
+December is at 89% of monthly average. January is at just 65%.
+In January, restore jobs and zip downloads are down 36% from November, then rise again in February. 
+Interestingly, PST downloads seem much less affected by seasonality.
+See figures 3A and 3B:
+© 2026 Keepit. All rights reserved
+Chapter 1: Restore operations and job type
+Keepit Annual Data Report 2026  |  6
+
+Relative restore types by month
+Figure 3A
+PST download
+Restore
+Zip download
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Relative restore types by month, incl. single file
+Figure 3B
+PST download
+Restore
+Zip download
+Single file
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+What does that indicate?
+This indicates that more errors happen and are discovered when more work is done. With many people out 
+of office in December and January fewer users lose — or realize they lose — data and request to have it re-
+stored. 
+The impact of vacation on restore operations appears to be corroborated by the fact that PST downloads 
+are less affected by seasonality, because PST downloads may serve an important function for certain regu-
+latory and business support workflows (as  discussed in the section below: “Job types by segment”).
+© 2026 Keepit. All rights reserved
+Chapter 1: Restore operations and job type
+Keepit Annual Data Report 2026  |  7
+
+Initiated restores by weekday and time of day
+Weekdays
+Restores are initiated seven days a week, but they follow the work week and are spread out evenly from 
+Monday through Friday. While there are restores seven days a week, the majority of restore jobs (90%) are 
+initiated Monday through Friday, with only a smaller part happening on weekends (10%).
+The exception is the US, where the weekend sees 20% of initiated restores.
+Other observations are that in the UK and Canada, there is more activity on Sundays (1.98% and 5.18% re-
+spectively) than on Saturdays (0.79% and 1.98 respectively). 
+And in Switzerland, there is almost no activity on Sundays (0.4%).
+ 
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+Mon
+Tue
+Wed
+Thu
+Fri
+Sat
+Sun
+Relative restore activity by weekday
+Figure 4
+Australia
+Canada
+Switzerland
+Germany
+Denmark
+UK
+USA
+What does that indicate?
+In all regions, we do see that the majority of restores happen during the work week. The very low activity in 
+Switzerland on Sundays reflects the Swiss tradition of respecting Sunday as a day of rest. 
+© 2026 Keepit. All rights reserved
+Chapter 1: Restore operations and job type
+Keepit Annual Data Report 2026  |  8
+
+Time of day
+Companies initiate restores 24/7, but as applies to the weekdays, the number of jobs are significantly higher 
+during regular work hours, between 7 a.m. and 5 p.m. (often around 7-11% per hour of all restores are initiated 
+in those hours).
+Noteworthy exceptions are for Germany and again Switzerland: Around midnight, there is a spike for both 
+countries (Germany 7% and Switzerland 11%). Interestingly, the Swiss do more restores an hour around mid-
+night than they do during any single hour for the rest of the day. 
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+Relative restore activity by hour
+Figure 5
+Australia
+Canada
+Switzerland
+Germany
+Denmark
+UK
+USA
+What does that indicate?
+As already established in “Job types by month,” restore activity correlates with work activity. Therefore, it’s 
+no surprise that we see the bulk of restores during the normal hours of the work day.
+The fact that restore activities happen during regular work hours also indicates that restores are primarily 
+done by in-house IT teams, following the rhythm of the organization and not outsourced to external teams 
+in other time zones.
+The Swiss being very active around midnight may suggest that there is an over-representation in the Swiss 
+region of specific industries with specific procedures and requirements around restores. Another possibili-
+ty is that there is an over-representation of companies that operate mainly in other time zones which choose 
+to locate their data in the Swiss region.
+© 2026 Keepit. All rights reserved
+Chapter 1: Restore operations and job type
+Keepit Annual Data Report 2026  |  9
+
+Job types by segment
+For all business segments (small/medium businesses, commercial, and enterprise), if we disregard the “sin-
+gle file download” option, bulk restore jobs are more commonly used than bulk downloads (zip downloads 
+and PST downloads).
+•	 For the enterprise segment, “restore” is significantly higher (55.3%) than “zip download” (39.3%). “PST download”  
+is 5.46%.
+•	 For the commercial segment, “restore” and “zip download” are almost the same: “Restore” is 44.93%, “zip down-
+load” is 42.44%. “PST download”  is  quite high (comparatively) at 12.63%.
+•	 For SMB, “restore” is somewhat higher (50.34%) than “zip download” (42.51%). “PST download” is 7.15%.
+The single file download option is, as previously established (Figure 3B), by far the most popular option for 
+restoring data. This is relatively uniform across the segments, with single file download accounting for 91.7% 
+of the restores in SMB, 89.5% of restores in commercial, and 88.2% of the restores in enterprise. 
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Commercial
+Enterprise
+SMB
+Relative restore types by segment
+Figure 6
+PST download
+Restore
+Zip download
+What does that indicate?
+The business segments follow the overall trends of restore versus downloads. The only surprise is the share 
+of PST downloads for the commercial segment. Presumably, there is a historical explanation for that: PST 
+was the only way to move a mailbox between computers in the 1990s. While most SMBs will be too young to 
+have adopted PST, and most enterprises will have migrated on to more scalable solutions, the commercial 
+segment  (1,000-5,000 employees) is a different story: Many of them will be old enough to have adopted 
+PST and to have developed an in-house ecosystem around it. 
+With the single file download option being the simplest option, it’s no surprise that it’s preferred whenever 
+it’s sufficient for the job at hand. Larger and more mature organizations use single file download slightly less 
+often than the smaller organizations, but the difference is miniscule (from 88.2% in enterprise to 91.7% in 
+SMB).
+© 2026 Keepit. All rights reserved
+Chapter 1: Restore operations and job type
+Keepit Annual Data Report 2026  |  10
+
+Job types by region
+When we look at restore differences by region, it’s interesting to look at the nuances when we disregard the 
+single file download option:
+•	 In all Keepit data centers, the most common job type is “restore” (50%), followed by “zip download” (42%), with 
+“PST download” coming in last (8%).
+•	 In the German data centers, the most common job type is “restore” (57.96%), followed by “zip download” (33.33%) 
+and “PST download” (8.72%).
+•	 In the Swiss data centers, the difference is the most dramatic — here, “restore” is at  85.13%, followed by “zip 
+download” (14.46%) and “PST download” (a mere 0.41%).
+Regional exceptions to “restore” as the most common job types are the US and Australian data centers:
+•	 In the US, the most common job type is download at 59.97%“(with 51.1% from “zip download” and 7.97% from PST 
+download). “Restore” is 40.92% — a 31.8% difference.
+•	 In Australia, the most common job type is download at 62.58 %“(with “zip download” at 53.15 % and PST download 
+at 9.43%). “Restore” is 37.42% — a 40.2% difference.
+Single file download numbers dominate as the preferred choice in all regions — however, with a noticeably 
+lower preference in the Swiss region: Here, it’s the preferred choice in “only” 75.8% of cases. In other regions, 
+it’s the preferred choice in 90% of cases (from 86% in Canada to 92% in the US).
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+Australia
+Canada
+Switzerland
+Germany
+Denmark
+UK
+USA
+Relative restore types by region 
+Figure 7 
+PST download
+Restore
+Zip download
+What does that indicate?
+Germany and Switzerland stand out both in their preference for full bulk restore operations over bulk down-
+loads and in their restore timing, with activity around midnight not uncommon. At the same time, single file 
+downloads remain the dominant restore method across all regions, despite the fact that restoring directly 
+back into the original tenant would often be more efficient.
+While Switzerland also shows a strong preference for single file downloads, administrators there more 
+frequently restore data back into the tenant rather than downloading it. Taken together with other regional 
+distinctions, this pattern may reflect a different industry composition in the Swiss region — potentially with 
+a higher share of regulated sectors — where downloads and file transfers are less favored.
+© 2026 Keepit. All rights reserved
+Chapter 1: Restore operations and job type
+Keepit Annual Data Report 2026  |  11
+
+Chapter 2
+Data set observations
+This chapter examines structural characteristics of backed-up datasets. It analyzes back­
+up size development, file and byte change ratios, and regional variation, highlighting how 
+data grows, changes, and behaves over time across different environments.
+Backup size
+When an organization first starts using Keepit Backup and Recovery, the first backup of the entire dataset is 
+a major one. In relative terms, if the initial backup is 100%, subsequent backups each pull an additional 2% 
+of data each.
+There are exceptions: occasional spikes for some customers. This is typically caused by major organiza-
+tional changes — i.e., mergers, acquisitions, or other operations that add significant datasets to the existing 
+backup.
+20%
+40%
+60%
+80%
+100%
+Avg. backup size per day since first backup indexed
+Figure 8
+100
+0
+200
+300
+400
+500
+600
+700
+What does that indicate?
+This is a demonstration of the effectiveness of Keepit’s “always incremental” strategy: Once a dataset is 
+stored, only new files and changes to the original files are added. The complete file is not stored every time 
+it’s changed. By keeping the daily backup size small, ongoing backups are fast, minimizing risk of conges-
+tion and impact of service outages.
+Keepit Annual Data Report 2026  |   12
+© 2026 Keepit. All rights reserved
+
+File change ratios
+When we look at the average ratio of new files versus changed files ingested in a backup, there are fewer 
+new files (42%) than changed, existing files (58%).
+When we look at the average ratio of new bytes, we see that the majority (68%) of ingested bytes come from 
+the 42% new files, and only 32% of ingested bytes come from modifications to the 58% existing files. 
+New files
+Changed files
+42.3%
+57.7%
+New vs. changed backup files
+Figure 9
+67.5%
+32.5%
+New bytes
+Changed bytes
+New vs. changed backup bytes
+Figure 10
+What does that indicate?
+A possible explanation is that changes are made to lighter text files and not to heavier video files — plans, 
+information, and documentation documents are updated, whereas recordings of meetings and events are 
+not but take up a lot of space. 
+It’s reasonable to speculate that this trend will be amplified in the future as organizations integrate gen-
+erative AI into their workflows — systems that often promote generation of new data rather than support 
+refinement of existing data.
+© 2026 Keepit. All rights reserved
+Chapter 2: Data set observations
+Keepit Annual Data Report 2026  |  13
+
+Regional change ratio trends
+There are no significant regional differences when we look at new versus changed files. 
+But when we look at bytes in new files versus changed files, two regions stand out from the global average 
+of 68%:
+•	 The Swiss top the charts with 80% of all ingested bytes coming from new files rather than modified files. 
+•	 In Canada, on the other hand, only 60% of ingested bytes came from new files rather than modified files.
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Australia
+Canada
+Switzerland
+Germany
+Denmark
+UK
+USA
+New vs. changed backup files 
+Figure 11
+New files
+Changed files
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Australia
+Canada
+Switzerland
+Germany
+Denmark
+UK
+USA
+New vs. changed bytes during backup
+Figure 12
+New bytes
+Changed bytes
+What does that indicate?
+These differences could stem from a difference in the types of data that are backed up. Emails, for example, 
+are always “new” data: An email in a mailbox is typically never edited. Documents, however, would tend to 
+get edited over time. If, for example, the Swiss back up more emails and the Canadians back up more docu-
+ments, this is the exact type of difference we would observe.
+© 2026 Keepit. All rights reserved
+Chapter 2: Data set observations
+Keepit Annual Data Report 2026  |  14
+
+Chapter 3
+User behavior
+This section examines how organizations use backup and recovery in practice, including 
+how often data is restored, which datasets are accessed, and whether external events 
+influence restore activity or testing behavior across organizations, applications, and 
+company sizes.
+At Keepit, we recommend that organizations regularly test that their backup works, and not only that, but 
+that the organization is able to restore critical data to the business environments to ensure business con-
+tinuity in the event of data loss or outage events. This is important for business continuity, compliance, and 
+brand image.
+What we hope to see in this data is that organizations run regular restores — once a year at the bare minimum. 
+That would indicate that they perform regular testing.
+Restores by organization size
+We see a correlation between size of the organization and restore frequency: Small and medium-sized 
+businesses (SMBs) are less likely to restore regularly (28% do), while 91% in the commercial segment and 
+95% in the enterprise segment are actively conducting and testing restores.
+Bulk restores by company size
+SMB
+Commercial
+Enterprise
+9+ restores
+15.6%
+79.8%
+84.2%
+If we look at percentages for bulk restore activities, we find that 78.37% of SMBs, 13.76% of commercial, and 
+9.02% of enterprise performed zero bulk restore jobs.
+Looking at how often the individual organization initiates a restore, the majority of organizations will initiate 
+at least a yearly or a half-yearly restore.  
+Number of restores/downloads
+Commercial
+Enterprise
+SMB
+Relative accounts, single and bulk, by segment, 2025
+Figure 13
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9+
+0%
+20%
+40%
+60%
+80%
+Keepit Annual Data Report 2026  |   15
+© 2026 Keepit. All rights reserved
+
+Relative accounts, bulk only, by segment, 2025
+Figure 14
+Number of restores/downloads
+Commercial
+Enterprise
+SMB
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9+
+0%
+20%
+40%
+60%
+80%
+What does that indicate?
+The data suggests that restore activity increases with organizational size, which is a natural outcome of hav-
+ing more dedicated IT resources, more complex environments, and more frequent operational change. It’s 
+also encouraging that most commercial and enterprise organizations show regular restore activity, indicat-
+ing that recovery is not just a theoretical capability but something that is exercised in practice.
+At the same time, the figures point to an opportunity — especially in the SMB segment — to build more 
+routine recovery readiness. Many smaller organizations may experience fewer high-impact incidents day to 
+day, and they often operate with limited administrative capacity. In that context, restores can easily become 
+an “as-needed” activity rather than a scheduled practice. Introducing lightweight, guided recovery exer-
+cises (even simple, repeatable checks) can help SMBs increase confidence, shorten response time when 
+incidents occur, and steadily raise operational maturity over time. 
+It’s also worth noting that “restore testing” can take multiple forms. While full bulk restore jobs provide the 
+strongest validation of end-to-end readiness, even simple file downloads can confirm data accessibility, 
+validate that teams know where to find the right data, and reinforce familiarity with recovery tooling. Build-
+ing maturity is therefore not only about frequency, but also about progressing from ad hoc retrieval toward 
+more structured, guided recovery workflows.
+© 2026 Keepit. All rights reserved
+Chapter 3: User behavior
+Keepit Annual Data Report 2026  |  16
+
+Restores by application/dataset categories
+Keepit operates with two categories of applications:  “Productivity applications” and “identity applications.” 
+Productivity applications hold the datasets that organizations use to process data and communicate in their 
+day-to-day operations — e.g., Microsoft 365, Google Workspace, Salesforce.
+Identity applications manage the identities, access rights, rules, permissions, and policies that enable the 
+productivity applications to function and comply with the organization’s data regulations — e.g., Microsoft 
+Entra ID and Confluence’s Okta.
+Because of the nature of identity application data and the way that our statistical material is collected, we’ll 
+disregard single file downloads in the following analysis and only consider “real” bulk restore jobs as well as 
+bulk downloads.
+When we look at how often organizations restore the two categories, we see that, on average, productivity 
+applications are restored four times as frequently as identity applications. 
+In other words: For every four companies who run a yearly test on their productivity workload, only one of 
+them (25%) will have run a test on their identity applications.
+Scheduled bulk restores by category of application: 
+Productivity applications (e.g., Microsoft 365, Google Workspace, Salesforce) 
+Yearly
+Half-yearly
+Quarterly
+Bi-monthly
+Monthly
+26.8%
+12.3%
+5.0%
+2.4%
+0.7%
+Identity applications (e.g., Microsoft Entra ID, Okta)
+Yearly
+Half-yearly
+Quarterly
+Bi-monthly
+Monthly
+6.5 %
+1.9%
+0.7%
+0.4%
+0.2%
+Accounts with regular restore schedule 2025
+Grouped by Identity/Productivity
+Figure 15
+Identity
+Productivity
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+© 2026 Keepit. All rights reserved
+Chapter 3: User behavior
+Keepit Annual Data Report 2026  |  17
+
+What does that indicate?
+The difference in restore activity between productivity and identity applications suggests that many orga-
+nizations are further along in operationalizing recovery for day-to-day collaboration and business systems 
+than they are for identity applications. This is understandable: Productivity datasets are the most visible to 
+end users, and restore needs often surface quickly when business content is missing or changed. 
+Identity systems, however, have a distinct role in enabling access across the broader SaaS environment. 
+Strengthening recovery readiness for identity applications can therefore be seen as the next step in SaaS 
+data protection maturity — expanding recovery planning from “business content” to the “access layer” that 
+makes business operations possible. As awareness and tooling evolve, guided recovery practices and clear 
+runbooks can help make identity recovery testing more approachable and easier to include in regular oper-
+ational routines.
+Impact on restore activity by external event
+To understand if external, high-profile events cause any changes in restore behavior, we looked into two 
+events of 2024 and one event of 2025 that could have caused data loss or unavailability. These are events 
+we expected would lead IT professionals to double-check their disaster readiness, whether or not their 
+organizations were directly impacted by the events. 
+We analyzed user behavior around these three events that caused worldwide outages and received exten-
+sive media coverage in the IT media. What makes them interesting to analyze is the fact that they generated 
+a lot of global  awareness, and that each outage came from a different technological origin. 
+1.	 The solar flares of May 2024: solar activity affecting Earth’s magnetic environment.
+2.	 The CrowdStrike incident of July 2024: a defective endpoint protection update that crashed Microsoft Windows 
+systems.
+3.	 The Microsoft outages of October 2025: an Azure control plane misconfiguration causing widespread outages on 
+Microsoft 365, Entra ID, and more.
+The result: None of these events prompted any change in user behavior. We do not see any sign of increase 
+in activity to test that backups were working in the days and weeks following the event. 
+Solar flares
+0
+0,5
+1
+1,5
+2
+2,5
+3
+Any
+PST download
+Restore
+Zip download
+2024-04-30 to 2024-05-07
+Figure 16
+-2w
+-1w
+main
++1w
++2w
+Percent active
+Period
+© 2026 Keepit. All rights reserved
+Chapter 3: User behavior
+Keepit Annual Data Report 2026  |  18
+
+CrowdStrike
+2024-07-18 to 2024 -07-25
+Figure 17
+0
+0,5
+1
+1,5
+2
+2,5
+Any
+PST download
+Restore
+Zip download
+-2w
+-1w
+main
++1w
++2w
+Percent active
+Period
+Microsoft outages
+0
+0,5
+1
+1,5
+2
+2,5
+2025-10-28 to 2025-11-04
+Figure 18
+-2w
+-1w
+main
++1w
++2w
+Any
+PST download
+Restore
+Zip download
+Percent active
+Period
+What does that indicate?
+The data shows no measurable increase in restore testing activity following the outage events. One inter-
+pretation is that organizations did not experience widespread, immediate restore needs as a direct result 
+of these events — an encouraging sign that many environments remained operational despite external 
+disruption.
+More broadly, the results also suggest that “awareness moments” do not automatically translate into chang-
+es in recovery routines. This highlights an opportunity: Organizations can use external events as structured 
+triggers for guided recovery checks — short, repeatable validations that reinforce confidence without 
+requiring large-scale, disruptive exercises. Over time, this kind of guided approach can help teams build 
+steady recovery maturity rather than relying on reactive learning during high-pressure incidents.
+© 2026 Keepit. All rights reserved
+Chapter 3: User behavior
+Keepit Annual Data Report 2026  |  19
+
+Conclusion
+Recovery is the true test of backup
+The data in this report points to a clear operational takeaway: Backup creates value when organizations 
+can recover — confidently, correctly, and efficiently, whether the need is small and immediate or broad and 
+time-critical. 
+Restore activity is strong among larger organizations. In enterprise and commercial segments, most organi-
+zations perform restores regularly, indicating that recovery is not only planned but exercised. This reflects a 
+growing level of operational maturity: Many organizations are actively validating that they can regain access 
+to data when it matters. 
+The same patterns also highlight an important maturity opportunity in the SMB segment. A significant share 
+of SMBs did not initiate restores during the year, and bulk restore activity is less common. From an SMB 
+perspective, this can be explained by limited administrative bandwidth and the perception that backup is 
+something you configure once and rarely touch. The practical implication is not that backup is ineffective, 
+but that recovery confidence may be harder to establish without periodic, lightweight testing. Structured, 
+guided recovery exercises can help smaller organizations build readiness gradually — without turning re-
+covery into a complex project. 
+The report also shows that restore behavior is dominated by single file downloads. This reflects real oper-
+ational needs: Many incidents are granular, and retrieving a specific file is fast and convenient. At the same 
+time, organizations benefit from ensuring they can also execute recovery workflows that scale — where 
+larger datasets, multiple users, or entire environments must be restored. Developing proficiency in bulk 
+restore is a key step in maturity, turning recovery from an improvised response into a repeatable capability. 
+We also observe a consistent execution pattern in bulk restores: Administrators typically restore into a new 
+destination, or where files are missing, and overwrite is comparatively rare. This suggests a cautious, risk-
+aware approach — favoring clean recovery paths that minimize the chance of unintended changes. This is 
+a healthy operational instinct, and it further supports the value of practicing guided restore workflows so 
+teams can act quickly while maintaining control. 
+Finally, the findings highlight a maturity gap between productivity and identity applications. Identity data is 
+restored and tested less frequently than productivity data, even though identity services underpin access 
+across many SaaS environments. As organizations expand their SaaS protection strategies, improving iden-
+tity recovery readiness is a natural next step — supported by clearer procedures, better visibility, and guided 
+recovery assistance. 
+Keepit believes AI can help lower the barrier to doing recovery well. Guided recovery — enabled by MCP 
+(Model Context Protocol) — opens the door to “asking for help” in the moment that matters. An MCP-en-
+abled assistant can help identify unhealthy tenants or suspicious patterns in protected data and guide 
+administrators through the right recovery steps, turning recovery into a manageable, repeatable process. 
+Even with AI support, regular rehearsal remains valuable — because confidence in recovery is built through 
+practice. 
+If you would like to discuss what these findings mean for your environment — and how to strengthen maturity 
+in bulk restore and guided recovery — please reach out to Keepit to learn more.
+ /Jakob Østergaard 
+Keepit Annual Data Report 2026  |   20
+© 2026 Keepit. All rights reserved
+
+Glossary
+Job types
+Backup
+When organizations perform or schedule backups of their data, storing data in the Keepit cloud.
+Restore
+A restore in Keepit means putting data back into its original environment — repopulating live 
+systems with backed‑up data so users can continue working.  Typical use case: operational 
+recovery, e.g., restoring a deleted email back into a user’s mailbox.
+Bulk restore
+A restore operation where more than one file is restored at once, as opposed to a single file 
+download.
+Single file download
+When an administrator locates a single file in a backup set — via browsing or search — and 
+downloads it directly through the web interface, either for themselves or to share with an end 
+user.
+Zip download
+Downloading folders of documents as a compressed zip file — retrieving and exporting data 
+rather than restoring it to a live system. Typical use case: audits, compliance, or manual review.
+PST download
+Downloading entire mailboxes as PST files. Typical use case: mailbox archiving, migration, or 
+integration into PSBulk restore T‑based business support workflows.
+Business segments
+SMB*
+Fewer than 1,000 seats
+Commercial
+1,000–5,000 seats
+Enterprise
+More than 5,000 seats
+*Small and medium‑sized business
+Dataset and backup terminology
+Backup size
+The total volume of data included in a backup at a given point in time.
+File number
+The total number of files included in a backup dataset.
+Day One
+The initial backup of a dataset when an organization first starts using Keepit, serving as the 
+baseline for subsequent incremental backups.
+New files
+Files that did not previously exist in the backup dataset and are ingested for the first time.
+Changed files
+Existing files that have been modified since the previous backup and are therefore re‑ingested.
+New bytes
+The total volume of data ingested from files that are new to the backup dataset. New bytes 
+represent the size contribution of files that did not previously exist in the dataset and are backed 
+up for the first time.
+Changed bytes
+The total volume of data ingested as a result of changes to existing files. Changed bytes 
+represent the size contribution of modifications made to files that already exist in the backup 
+dataset.
+Keepit Annual Data Report 2026  |   21
+© 2026 Keepit. All rights reserved
+
+Application categories
+Productivity 
+applications
+Applications used for day‑to‑day work, communication, and collaboration (e.g., Microsoft 365, 
+Google Workspace, Salesforce).
+Identity applications
+Applications that manage identities, access rights, permissions, and policies, enabling pro­
+ductivity applications to function securely and in compliance with organizational requirements 
+(e.g., Microsoft Entra ID, Okta).
+Usage terminology
+Initiated restore
+A restore action actively started by a user or administrator (used throughout the report to 
+describe actual restore behavior).
+Keepit Annual Data Report 2026  |   22
+© 2026 Keepit. All rights reserved
+
+Keepit provides a sovereign SaaS data protection 
+platform purpose-built for the cloud by securing 
+data in a vendor-independent cloud to safeguard 
+essential business applications, boost cyber 
+resilience, and future-proof data protection.
+Headquartered in Copenhagen with offices 
+and data centers worldwide, more than 20,000 
+companies trust Keepit for its ease of use and 
+effortless backup and recovery of cloud data.  
+For more information, visit www.keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved.
+keepit.com
+Your data. Here today. 
+Here tomorrow.

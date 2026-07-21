@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/security/compliance/nis2/
+Content type: Web page
+Last modified: 2025-02-23T21:36:55+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Is your company part of Europe’s critical infrastructure, directly or indirectly? And are you prepared to meet the NIS2 cybersecurity standards? Like GDPR, NIS2 brings a dramatic shift in cybersecurity risk management and reporting standards.
+Article 21 of the directive explicitly mandates the establishment of “robust backup and disaster recovery plans” to ensure business resilience and business continuity.
+Because if water, electricity and transportation is brought to a stop, recovery must be a matter of hours, not weeks.
+What implications does this have on your day-to-day business?

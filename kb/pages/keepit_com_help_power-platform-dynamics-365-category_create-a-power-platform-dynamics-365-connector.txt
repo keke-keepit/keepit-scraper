@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/create-a-power-platform-dynamics-365-connector/
+Content type: Web page
+Last modified: 2026-07-04T00:28:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create a Power Platform / Dynamics 365 connector
+Follow these steps to create a Power Platform / Dynamics 365 connector and set up your backup configuration.
+1. On the Connectors page, select + Add connector > Add Power Platform / Dynamics 365 connector.
+2. Select Continue to be redirected to the Microsoft sign-in page. If you are not already signed in, enter your Microsoft account credentials.
+3. Read through the permissions and grant access by selecting Accept.
+Note: You will be prompted for permissions only the first time you create a connector. Afterward, Keepit retains the permissions it needs.
+4. You will be redirected to Keepit where you can configure your connector.
+Here you can:
+- Change the name of the connector.
+- Select which environments to include in the backup.
+- Manage user access to the connector by selecting the lock icon.
+- Limit the retention period.
+5. Select Create. 
+Your connector will be created, and the first backup will be scheduled.

@@ -1,0 +1,40 @@
+Source URL: https://www.keepit.com/blog/the-roi-of-cloud-backup/
+Content type: Web page
+Last modified: 2025-08-20T00:34:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Cloud backup ROI and what the cost of data loss is
+When considering a cloud backup provider, it is essential to make a strong business case for investment. While the solution may have impressive features such as automated backup, high security, and an easy-to-use interface, the most important question remains - what's the return on investment (ROI)?
+Can you present a compelling business case to stakeholders and leadership to convince them of the investment? This post will help you articulate the return on investment of a cloud backup solution.
+Why backup for SaaS data, and why now?
+Organizations are increasingly relying on SaaS solutions for business-critical applications – it has become apparent that even the big providers suffer outages. Recently, Microsoft customers suffered problems with Teams and Exchange Online.
+That follows an outage by Atlassian a couple months earlier. These SaaS apps are so ingrained in daily operations that they often contain the institutional knowledge critical to run the business. If you’ve ever experienced lack of access to files, messages, and other critical data, you are probably looking for a backup solution to ensure your business can keep running no matter what happens.
+To understand the financial impact of backup and recovery solutions, we need to evaluate the different costs involved.
+What is the financial impact of not having a cloud backup solution?
+1. Impacts of cyberattacks
+Cyberattacks are a real threat and 79% of organizations have suffered a ransomware attack in the past year, according to a study conducted by IT research firm ESG. A devastating ransomware attack could leave employees unable to use core business applications, and the disruption cloud last for days, weeks, or even months at a time, resulting in significant costs.
+According to Forrester, a successful ransomware attack resulting in disruption to operations for an organization with 5,000 employees for five days would cost more than $5million (USD). The same ESG study found that only 50% of the organizations were able to recover all their data in a clean and recent state.
+The average cost of a data breach varies from year to year and can be influenced by several factors, such as the size of the organization, the number of records compromised, and the type of data that was lost.
+The most recent "Cost of a Data Breach Report" by the Ponemon Institute found that the global average cost of a data breach in 2022 was $3.86 million, but this cost could be significantly higher for certain industries, such as healthcare and financial services, with average costs of $6.45 million and $5.03 million, respectively.
+But it’s not only the industry that is a variable for the impact, it’s also the country: According to an IBM data breach report, for the twelfth year in a row, the US leads with the highest average cost of a data breach, coming in at a staggering $9.44 million – more than the double of the $4.35 million global average.
+For large data breaches with 100 million records or more, the average cost could range from $5 million to $15.6 million and top out at $200 million, according to Verizon’s Data Breach Investigations.
+It's important to note that the cost of a data breach goes beyond “just” financial expenses. The reputation and brand damage caused by a breach can have long-lasting impacts on an organization, so it is crucial for companies to have robust security measures in place to prevent data breaches and minimize the potential impact if one does occur.
+2. Accidental deletions
+Accidental deletions result in data loss approximately 20% of the time, according to ESG’s Tech Validation Report. Verizon reports that 85% of breaches were caused by or involved human error or intentional malicious behavior: This could include mistakes such as falling for phishing scams, using weak passwords, or losing unencrypted devices, as well as intentional actions such as theft of data or insider threats.
+This highlights the importance of not only implementing technical security measures but also educating and training employees on cybersecurity best practices to minimize the risk of a breach caused by human error.
+A properly implemented cloud backup solution enables employees to quickly and reliably restore critical data. Depending on the data loss, the savings could easily be in the millions of dollars when considering the average cost of a data breach was nearly $4 million in 2022.
+3. SaaS licensing fees
+Companies are often obligated (especially by increasingly demanding legislation e.g., GDPR and NIS2) to keep ex-employee user accounts active after their exit date to access user data which would otherwise be purged by the SaaS vendor.
+It is common for approximately 10% of employees to leave every year. This number can be much higher if organizations use a lot of temporary staff or contractors. The license fees to keep departed users active can be saved by using a cloud backup provider that retains your data as long as you’re a customer.
+4. Archiving costs
+Are you investing in data archiving repositories? Typically, organizations depend on separate archiving tools to help move inactive data into long-term storage systems. This helps optimize resources in the active system to help users to quickly access data. By having a cloud backup provider – especially with unlimited storage & retention as Keepit offers – you can avoid investing in a separate archiving tool.
+5. IT administration efficiencies
+IT administrators face a significant amount of time and effort in the offboarding of employees and the recovery of deleted documents, whether intentional or accidental. For a hypothetical company of 5,000 employees with a 10% turnover rate, the time saved in offboarding alone can lead to a substantial financial benefit.
+According to the Bureau of Labor Statistics, the average hourly earnings in the US is $33.03. By reducing the time spent on offboarding from an hour to just one minute with a backup solution, the net savings can reach thousands of dollars per year: $16,515 without a backup solution compared to only $275.25 with a backup solution.
+Furthermore, the manual search for deleted files can also be time-consuming and costly, but with the right backup solution, IT administrators can easily locate these files in just a matter of minutes, saving time and resources in the process.
+A solid return on a critical investment
+Keepit commissioned Forrester Consulting to conduct a total economic impact (TEI) study to evaluate the potential economic impact for businesses that utilize the company’s data protection services.
+Based on interviews with five Keepit customers across a range of industries, Forrester generated a composite organization from which it produced a financial model that outlined three-year, risk-adjusted potential savings from utilizing Keepit.
+The TEI includes two categories of savings, quantifiable and unquantifiable. Forrester determined that in addition to unquantifiable savings like recovery from a ransomware attack, Keepit offers a 78% return on investment (ROI) and a net present value (NPV) of $225K. To see how a dedicated backup solution can pay for itself in just six months, download the full Forrester TEI study.

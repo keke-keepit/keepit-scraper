@@ -1,0 +1,47 @@
+Source URL: https://www.keepit.com/help/github-category/recover-a-git-repository-from-a-github-backup/
+Content type: Web page
+Last modified: 2026-03-19T13:01:31+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Recover a Git repository from a GitHub backup
+Introduction
+This package contains only raw Git repository data (the contents of a .git directory). It is not a working tree – no source files appear until Git recreates them. Because .git is normally hidden by default, the unpacked repository may look empty.
+Contents:
+- Git metadata and objects (a .git directory or its files).
+Not a working tree:
+- The files remain encoded and invisible until Git checks out a commit.
+To access source files:
+- Restore the .git directory into a repository
+- Run a Git checkout (following the instructions provided).
+Requirements for restore
+A Git client must be installed and available in your system’s PATH.
+Manual local restore
+Follow these steps:
+1. Download the Repository Content folder.
+2. Unpack the folder.
+3. Open folder in a terminal.
+4. Run the script appropriate for your operating system:
+- init_git_repo_linux.sh
+- init_git_repo_windows.cmd
+The repository is ready for use on a local machine only.
+Linux and Windows scripts have been added to the downloadable archive to facilitate local execution. These scripts were implemented to streamline the retrieval of the index files required for restoration. While these tools are provided for convenience, users may employ alternative methods for generating index files or restoring repositories locally if their workflow requires it. However, utilizing the provided scripts remains the recommended approach to ensure data consistency.
+Uploading restored files to a remote
+Restoring a local repository and pushing it directly back to an active remote carries significant risk. If the backed-up .git data and the remote history have diverged, a direct push, particularly a force push (git push --force), can:
+- permanently overwrite or delete commits on the remote server
+- corrupt the local clones of collaborators
+- disrupt downstream forks and automated CI/CD pipelines
+To mitigate these risks, we recommend a strategy of total isolation. This approach is ideal for teams needing to collaborate on restored history without impacting the primary production environment.
+1. Create a new environment
+Initialize a new, empty repository or fork under a separate account or organization (e.g., restored-repo-fork). Do not initialize it with a README or license to ensure it remains a clean destination for your pushed data.
+2. Add the new remote
+Open your terminal in the restored local repository and map it to the new destination:
+git remote add fork <new-remote-url> 
+git fetch fork
+3. Perform a standard push
+Push all branches and tags to the new remote. This operation is non-destructive to your original remote:
+git push fork --all 
+git push fork --tags
+The primary benefit of this strategy is Zero-Risk Deployment. By keeping the restored data in an isolated repository, the integrity of the original remote is guaranteed. If specific changes need to be reintegrated later, you can safely do so via Pull Requests from the restored fork back to the original project.
+While the isolated restoration is our recommended best practice, it is not the only available solution. If your specific requirements necessitate a different synchronization strategy, you may proceed with your preferred workflow; however, we strongly advise a full audit of the remote status before performing any write operations.

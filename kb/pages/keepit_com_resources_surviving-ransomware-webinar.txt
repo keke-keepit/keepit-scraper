@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/resources/surviving-ransomware-webinar/
+Content type: Web page
+Last modified: 2025-08-20T00:05:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Surviving ransomware: 2023 data protection insights and strategies
+WebinarBy Paul Robichaux
+As ransomware attacks rise in impact and frequency, businesses across the globe are pressured to improve their resilience against ransomware.
+In this webinar, industry experts from Enterprise Strategy Group and Keepit will guide you through the latest insights on data protection and ransomware recovery so that you can learn how to back up – and never lose access to – your data.
+The findings are based on a new report titled: "2023 Ransomware Preparedness: Lighting the Way to Readiness and Mitigation," which surveyed 600 European and North American IT and cybersecurity professionals.
+Download the report here.
+Learn how to:
+- Protect your dataand recover from a ransomware attack
+- Employ best practicesand data protection strategies that effectively combat the threat of ransomware
+- Secure a backupand recovery solution that creates a solid last line of defense

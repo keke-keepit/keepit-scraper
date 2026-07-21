@@ -1,0 +1,31 @@
+Source URL: https://www.keepit.com/press/securitytoday-cybersecured-awards/
+Content type: Web page
+Last modified: 2025-08-15T00:32:59+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit honored with dual wins at Security Todayâs CyberSecured Awards 2023
+Ground-breaking data protection solution for Azure AD (Entra ID) wins more awards
+COPENHAGEN, DENMARK, Dec. 19, 2023 – Keepit, a global leader in SaaS data protection, is proud to announce its double triumph at the prestigious 2023 Security Today CyberSecured Awards. The company secured top honors in two categories: Data Loss Prevention and Disaster Recovery/Business Continuity.
+- WINNER #1 in the category: Data Loss Prevention
+- WINNER #2 in the category: Disaster Recovery/Business Continuity
+- PRODUCT: Keepit Backup and Recovery for Azure AD (Entra ID)
+ 
+Security Today, a leading source for security professionals, unveiled the winners in a press release, recognizing Keepit's outstanding contributions to the cybersecurity landscape. The CyberSecured Awards celebrate innovation and excellence in cybersecurity solutions.
+Keepit's winning product, Keepit Backup and Recovery for Azure AD (Entra ID), was highlighted for its groundbreaking capabilities in cloud protection. The solution addresses critical gaps in cloud security strategy by offering the most extensive coverage of Azure AD cloud objects on the market.
+Key features of Keepit Backup and Recovery for Azure AD:
+- Comprehensive coverage: Keepit covers a wide range of Azure AD objects, including Users, Groups, Roles, Administration Units, App Registrations, Enterprise apps, Conditional Access Policies, Intune Device Policies, BitLocker Recovery Keys, Audit Logs, and Sign-In Logs.
+- Unparalleled security: Keepit is the only data protection provider to store customer data in a separate, dedicated infrastructure. This guarantees that backed-up data is fully isolated from the SaaS vendor's cloud, providing enhanced security and compliance.
+- Global business continuity: Customer data is stored in two separate physical data centers across six regions worldwide, ensuring uninterrupted business continuity.
+- Rapid deployment and recovery: Keepit's solution allows companies to go from having no backup of Azure AD to a running backup in just a few minutes, with minimal training or administration required.
+- Extensive platform support: In addition to Azure AD, Keepit offers backup and recovery solutions for Microsoft 365, Dynamics, Power Platform, Azure DevOps, Google Workspace, Salesforce, and Zendesk.
+Last line of defense for an overlooked threat
+Azure AD, a prime target for hackers, faces 50 million password attacks per day, making it 50 times more likely to be compromised than consumer Microsoft accounts. Keepit's solution ensures the protection of critical identity and application objects and is the last line of defense for companies who want and need to prevent data loss and ensure business continuity.
+“We come across many organizations who are only just realizing how vulnerable they are to attacks on Azure AD, because there’s no backup for the access identities and policies. Without access to Azure AD, users will have no access to the entire M365 environment, so when Azure AD is compromised it has huge implications. Our ability to offer a solution to that risk is a lifesaver for our customers, and with Keepit’s Azure AD solution, they have assurance they will never, ever lose access to their Microsoft 365 data," says Michele Hayes, CMO at Keepit.
+Keepit's commitment to innovation, security, and reliability has positioned the company as a leader in the cybersecurity industry. The dual recognition at Security Today's CyberSecured Awards 2023 underscores Keepit's dedication to providing cutting-edge solutions for data protection and business continuity.
+Earlier this year, Keepit Backup and Recovery for Azure AD (now Entra ID) also won ”Product of the year 2023” from Redmond Magazine and “Overall Risk Management Solution Provider of the Year” from CyberSecurity Breakthrough Awards.
+For more information about Keepit and its award-winning solutions, please visit keepit.com.
+About Keepit
+Keepit provides next-level SaaS data protection for companies with data stored in the cloud. Keepit is the world’s only vendor-neutral and independent cloud dedicated to SaaS data protection based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Azure AD, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

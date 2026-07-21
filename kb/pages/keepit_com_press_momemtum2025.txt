@@ -1,0 +1,51 @@
+Source URL: https://www.keepit.com/press/momemtum2025/
+Content type: Web page
+Last modified: 2025-08-20T02:30:23+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit achieves exceptional growth in a tough 2024 market
+Expanded footprint, new partnerships, new funding and recognitions define a year of success for data protection specialist
+Copenhagen, Denmark — February 19, 2025 — Keepit, the world’s only independent vendor of cloud backup and recovery solutions designed to protect SaaS data, today announced a remarkable year of growth and innovation, marking its position as a key player in the SaaS data protection space. The company has achieved significant milestones, including record revenue growth, strategic expansions, and numerous industry accolades.
+“Continuous dialog with customers, partners, and the community, along with an agile product development organization, is key to our success and ability to attract investments— propelling Keepit to new heights”, said Morten Felsvang, Keepit Co-founder and Chief Executive Officer.
+Revenue growth and customer retention
+Keepit’s financial performance makes it one of the fastest growing SaaS companies in its market, with a robust business momentum. Growth is fueled by strong customer loyalty, as evidenced by an impressive customer retention rate — a direct result of the trust and value customers place in Keepit’s solutions.
+Recent funding boost
+In December 2024, Keepit secured a $50 million investment round led by existing investor One Peak and EIFO, the Export and Investment Fund of Denmark
+“This funding underscores the confidence in Keepit’s mission to protect SaaS data globally and accelerates the company’s ability to innovate and expand its operations across key markets. The investment will enable Keepit to strengthen its leadership position, enhance its product offerings, and scale our global team to meet increasing demand”, adds Morten Felsvang.
+Strategic global expansion: New offices in London and Paris
+In 2024, Keepit significantly expanded its global footprint to support its growing customer base and market demand:
+- United Kingdom: In January 2024, Keepit opened its first London office in the City to serve its rapidly growing UK and Ireland presence. Additionally, the company established a presence in Scotland, to further strengthen regional support.
+- Southern Europe: In October 2024, Keepit inaugurated its Paris office to spearhead its go-to-market strategy in France, Italy, and Spain, led by Regional Vice President Thierry Bedos.
+The opening of offices in these two key markets marks a commitment to have a local presence to support partners and customers in the regions.
+Data center strategy: Two new data centers in Switzerland  
+In 2024, Keepit opened two new data centers, underscoring Keepit's commitment to providing the fastest, most secure and efficient service to its growing customer base and partner network in all regions – this time in Switzerland.  Keepit now operates data centers in seven regions, always guaranteeing data sovereignty and compliance. 
+Executive leadership expansion
+Keepit bolstered its leadership team with key executive appointments to drive its strategic initiatives, including:
+- Kim Larsen, Chief Information Security Officer (CISO)
+- Michael Amsinck, Chief Product Officer (CPO)
+- Fahad Qureshi, Vice President of Americas
+- Thierry Bedos, Regional Vice President of Southern Europe
+- Liz Barnhart, Vice President of Global Alliances
+Expanding partner ecosystem
+Keepit’s success is further amplified by its growing global partner network, which delivers unparalleled SaaS data protection solutions across multiple regions:
+- Americas: Collaborations with Alchemy Technology Group, P1 Technologies, Centre Technologies, and Movti have strengthened Keepit’s footprint in the US and Latin America.
+- ANZ: Partnerships with Vectec, blueAPACHE, and CSW-IT have positioned Keepit as a key player in Australia and New Zealand.
+- EMEA: Partnerships across DACH, Benelux, Nordics, UK, and Southern Europe—including Komposite, SPIE ICS, Nunsys, and Omega Peripherals—have expanded Keepit’s reach in Europe.
+Industry awards and recognitions
+In 2024, Keepit’s innovative solutions and commitment to excellence were given industry recognition through 17 prestigious awards, including 13 in FY24 alone. Notable recognitions include:
+- Cybersecurity Breakthrough Awards
+- Cloud Security Awards
+- Global Infosec Awards (4 total): “Most Innovative Compliance,” “Publisher’s Choice Cyber Resilience,” “Best Product Data Recovery,” and “Hot Company Ransomware Recovery”
+- G2 Leader EMEA and Global Leader
+Keepit also received analyst recognition from Spark Matrix, as a “Leader for Cloud Data Protection for SaaS Applications” further cementing its reputation in the space.
+Commitment to partners: Launch of Keepit Partner Network
+Keepit introduced the Keepit Partner Network in 2024, empowering partners to deliver innovative SaaS backup and recovery solutions. These initiatives underscore Keepit’s commitment to fostering collaboration and driving mutual success.
+Vision for 2025 and beyond
+Looking ahead, Keepit is poised to accelerate its global expansion strategy, prioritizing key markets across the Americas and Europe, and other high-growth regions. Keepit also plans to intensify its focus on product innovation, delivering intelligent resilience and recovery through broader workload coverage, as well as deeper data management and intelligence capabilities for the enterprise. The company will continue strengthening its partner ecosystem while delivering cutting-edge solutions to safeguard SaaS data worldwide.
+In 2025, Keepit will tour the world with “Keepit Live”, a series of onsite events introducing the Keepit vision and solutions to select audiences.
+For more information, visit Keepit.com.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguardsâ¯essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over fifteen thousand companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visitâ¯www.keepit.comâ¯or follow Keepit onâ¯Linkedin.

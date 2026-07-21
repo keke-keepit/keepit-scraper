@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/help/monday-category/monday-backup-coverage/
+Content type: Web page
+Last modified: 2026-06-02T11:35:27+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Monday backup coverage
+The table below shows the detailed backup and restore coverage of the latest version of Keepit for monday.com.
+The table below shows the detailed backup and restore coverage of the latest version of Keepit for monday.com.
+For a list of coverage details, please download this document.

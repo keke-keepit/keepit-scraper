@@ -1,0 +1,31 @@
+Source URL: https://www.keepit.com/help/platform-category/generate-a-backup-integrity-report/
+Content type: Web page
+Last modified: 2026-06-23T22:28:46+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Generate a backup integrity report
+Stay on top of your data protection by generating backup integrity reports that highlight recurrently skipped items — content that may not be getting backed up as expected.
+This feature analyzes data from the last 5 backups to detect potentially vulnerable items. If specific folders, files, or objects are repeatedly skipped across these backups, they’ll be flagged.
+Backup integrity reports help you identify items that are frequently skipped during backup, understand the scope and risk of incomplete backup coverage, and take proactive action before critical data is lost.
+When reports are available
+Backup integrity reports become available when recurrently skipped items are detected for a connector.
+On the Data Protection Dashboard, you’ll see a "Needs Attention" notification along with the number of recurrently skipped items displayed in the Backup Integrity card.
+If you are viewing all connectors, the count will include recurrently skipped items across all connectors. Generating a report from this view will aggregate skipped items from all connectors.
+To generate a report for a specific connector, select it from the dashboard dropdown before downloading.
+Generate a backup integrity report
+1. Open the Data Protection Dashboard.
+2. Locate the Backup Integrity card.
+3. Click the download icon in the upper-right corner of the card.
+The report will download as a CSV file to your default download folder.
+What's in the report
+Type: The name of the skipped item
+Path: The location of the item within the backup
+Size: The size of the item
+Updated: The last time we tried to back up the item
+How to use the report
+Use the report to review skipped items and evaluate their importance.
+Items with large sizes are likely more important. Items with a size of 0 may be less critical.
+For deeper analysis, check your backup job reports from the Job Monitor page. These reports include skip reasons for each item.
+If additional assistance is required, you can contact Support and share the list of skipped items for review. To help Support process your request more quickly, please include only the items you are most concerned about.

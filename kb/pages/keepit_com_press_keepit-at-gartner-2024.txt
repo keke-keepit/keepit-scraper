@@ -1,0 +1,43 @@
+Source URL: https://www.keepit.com/press/keepit-at-gartner-2024/
+Content type: Web page
+Last modified: 2024-10-21T11:59:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit at Gartner 2024: Bridging data governance and disaster recovery
+Keepit unlocks the tools for cyber resilience at Gartner conferences across the US and Europe in coming weeks
+COPENHAGEN, DENMARK. October 21, 2024 – Keepit, a global provider of a comprehensive cloud backup and recovery platform, today announced its presence at the 2024 Gartner IT Symposium/Xpo™ and Gartner IOCS conferences in the Americas and Europe this fall.
+At the Gartner conferences, the Keepit team will share the latest insights on how to build resilience through robust data governance frameworks. “Future-proofing your business and building resilience starts with careful and thorough investigation into your company’s data: what data do you have, where is it stored and who has access to it? These fundamentals will help companies plan their disaster recovery efforts and strengthen their stance against any outside disruptors”, says Kim Larsen, CISO at Keepit.
+Keepit will be attending and speaking at four Gartner events this fall to highlight the importance of data governance frameworks and provide actionable insights into building organizational resilience. Key takeaways from these speaking sessions will include effective data governance models and approaches, disaster recovery planning, techniques for data prioritization and classification, structuring recovery plans and conducting incident investigation.
+The 2024 Gartner conferences provide opportunities for information technology (IT) and cybersecurity executives to explore technology, insights, and trends shaping the future of IT and business. Topics covered will include cybersecurity, emerging technologies, digital and business transformation and the ever-increasing impact of generative artificial intelligence (AI) on every industry and job role.
+2024 Gartner IT Symposium/Xpo™, Orlando, Florida, 21-24 October, 2024
+WHO:    Kim Larsen, CISO at Keepit    
+WHAT: Keepit: Future-Proofing Data Governance for Tomorrow's Disaster Recovery Challenges     
+WHERE: Future Directions Stage               
+WHEN:  Tuesday 22 October, 2:40 PM    
+REGISTRATION: keepit.com/gartner-it-symposium-america/
+2024 Gartner IT Symposium/Xpo™, Barcelona, 4-7 November, 2024
+WHO:    Kim Larsen, CISO at Keepit    
+WHAT: Keepit: Bridging Data Governance and Disaster Recovery for Better Resilience  
+WHERE:  Sagrada Familia, Level 4 AC Forum         
+WHEN:  Wednesday Nov 6, 11:30-12:00  
+REGISTRATION: /gartner-it-symposium-barcelona
+2024 Gartner IOCS London, 19-20 November, 2024
+SESSION 1:
+WHO:   Kim Larsen, CISO at Keepit    
+WHAT: Keepit: Unlocking Resilience with Strong Data Governance   
+WHERE:  Auditorium, Level 0, ExCeL London        
+WHEN:  Tuesday Nov 19, 14.15-14.45
+SESSION 2:
+WHO:   Kim Larsen, CISO at Keepit    
+WHAT: Keepit: Fast-Track to Data Resilience – Practical Steps for Successful Data Recovery   
+WHERE:  Theater 2, Exhibit Showcase, ExCeL London       
+WHEN:  Wednesday Nov 20, 12:45-13:05
+REGISTRATION: keepit.com/gartner-iocs-london/
+2024 Gartner IOCS Las Vegas, 10-12 December, 2024
+Keepit has a solution provider session in Las Vegas. More information to come.
+Keepit will be adding more details about upcoming Gartner events and speaking sessions later this fall. You can find the latest details on our events page.
+About Keepit:
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over ten thousand companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit keepit.com or follow Keepit on Linkedin.

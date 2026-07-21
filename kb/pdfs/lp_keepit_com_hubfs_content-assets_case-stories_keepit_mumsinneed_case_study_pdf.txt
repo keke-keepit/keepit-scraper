@@ -1,0 +1,133 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/keepit_mumsinneed_case_study.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-07-21
+
+============================================================
+
+Mums In Need secures 
+sensitive Google Workspace 
+data with Keepit 
+Customer case:
+Mums In Need
+
+A charity looking to secure its Google 
+Workspace data 
+Mums In Need is on a mission to help women 
+rebuild their lives after experiencing domestic 
+abuse. This Sheffield-based charity supports 
+mothers affected by emotional abuse and post-
+separation abuse in South Yorkshire and the 
+surrounding area.
+As Laura Riley, CEO at Mums In Need, laid out their 
+requirements for data protection, it became clear 
+that a cloud-based backup solution was essential. 
+The entire organization stores its data in the cloud, 
+using Google Workspace with their volunteers, 
+trustees, ambassadors and patrons who log into 
+the platform from various locations across the 
+United Kingdom.
+Keepit is a set-and-forget solution, and 
+everything is available from one screen - so we 
+can check how much data is being backed up and 
+ensure everything is running smoothly.”
+- Laura Riley, CEO at Mums In Need
+Customer case:
+Mums In Need
+Simplicity, peace of mind and compliance were top of mind for Mums In Need when choosing 
+a backup and recovery provider. As a small organization without a specialized IT staff, Keepit’s 
+solution was the perfect choice for securing sensitive data in Google Workspace.
+
+About Mums In Need:
+Mums In Need (MIN) is a Sheffield-based 
+registered charity working to confront 
+coercive control. They support mothers 
+in Sheffield and the wider South Yorkshire 
+area who have left an abusive relationship 
+and are looking for help and guidance to 
+rebuild their lives.  
+Mums In Need provides practical guidance 
+and emotional support so their clients can 
+gain an understanding of exactly what 
+they can do to help their families. Mums In 
+Need empower women with the skills and 
+confidence to move forward with their 
+lives, and is working towards being a charity 
+with national reach in the UK.
+Keepit’s “set-and-forget” solution was the right fit 
+Mums In Need looked for a solution that would fulfill the 
+requirements of a small organization without specialized 
+IT staff – Keepit was the right fit. “We looked for a service 
+that could protect cloud data. After reviewing players 
+in that market, we settled on Keepit because it met our 
+requirements most closely. It’s a backup service that 
+protects our cloud data and makes it easy for us to restore it, 
+should we need to,” says Laura Riley.
+Sensitive data requires backup you can trust 
+A charity such as Mums In Need handles sensitive data 
+related to personal matters. It was vital for the organization 
+to have full control over the data they process and store.
+Independent data centers to ensure compliance 
+When looking at criteria for a backup and recovery service, 
+the fact that Keepit owns and operates its own data 
+centers was a clear advantage. Keepit has data centers in 
+seven regions to ensure that customers comply with local 
+regulations.
+“Data is the heart of our organization. We must 
+retain the trust of the women using our service and 
+Keepit is critical to this process.”
+“We are confident that our data is 100% protected 
+and compliant.”
+- Laura Riley, CEO at Mums In Need
+- Laura Riley, CEO at Mums In Need
+Customer case:
+Mums In Need
+
+Keepit future proof
+Take the next step toward protecting your SaaS data
+Keepit provides a next-level SaaS data protection 
+platform purpose-built for the cloud, by securing 
+data in a vendor-independent cloud to safeguard 
+essential business applications, boost cyber 
+resilience and future-proof data protection.
+Headquartered in Copenhagen with offices and data 
+centers worldwide, over ten thousand companies 
+trust Keepit for its ease of use and effortless backup 
+and recovery of cloud data.
+HQ - Copenhagen
+Denmark
+Keepit A/S
+Per Henrik Lings Allé 4, 7.
+2100 København, Denmark
+CVR: 30806883
++45 8987 7792
+sales@keepit.com
+Dallas, Texas
+United States
+Keepit USA Inc.
+3232 McKinney Avenue Suite 820 
+Dallas TX 75204, USA
+TIN: 85-358 6335
++1 469-461-4892
+sales@keepit.com
+London
+United Kingdom
+Keepit Technologies UK, LTD.
+Warnford Court
+29, Throgmorton Street
+London EC2N 2AT, UK
+Company reg. no.: 13785045
+sales@keepit.com
+Munich
+Germany
+Keepit Germany GmbH
+Maximiliansplatz 22
+D-80333 München
+Amtsgericht München
+HRB 270094
+Geschäftsführer Morten Felsvang
+sales@keepit.com
+© 2025 Keepit. All rights reserved.
+www.keepit.com
+Request demo

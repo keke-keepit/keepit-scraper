@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/press/opinion-piece-in-digitalisation-world/
+Content type: Web page
+Last modified: 2025-08-20T00:05:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit CEO in Digitalisation World: An Opinion Piece on security
+An increasing amount of organizations choose to rely on the many cloud solutions on the market today
+An increasing amount of organizations choose to rely on the many cloud solutions on the market today. In most cases, however, they forget to protect themselves against data loss, and the cloud giants won’t have your back when data go missing.
+The Office suite is a crucial everyday tool for everyone, from small one-man companies to bigger enterprises. It is therefore hardly surprising that more and more organizations, big and small, choose to use Microsoft’s Office 365, Exchange Online, Sharepoint Online or OneDrive for Business as a core part of their organization.
+No matter the provider, cloud solutions offer a flexible, simple and scalable platform that helps organizations: Your data are accessible from all your units, you can scale up or down quickly, easily manage access policies and rest assured that your data are safe and secure in the cloud.
+… Or are they now?

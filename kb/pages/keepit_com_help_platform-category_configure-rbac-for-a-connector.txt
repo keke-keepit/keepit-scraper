@@ -1,0 +1,32 @@
+Source URL: https://www.keepit.com/help/platform-category/configure-rbac-for-a-connector/
+Content type: Web page
+Last modified: 2026-06-18T10:25:35+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Configure role-based access control (RBAC) for a connector
+What is role-based access control (RBAC)?
+Role-based access control (RBAC) allows you to manage which users have access to specific connectors.
+Managing access to a connector
+Each new connector is accessible only to specific user roles – Master Administrators, Compliance Admins, and Audit users. In the case that a connector is created by a Backup Administrator, it is also accessible to the Backup Administrator that created the connector.
+Important: All connectors that were created before the launch of Keepit 3.0 (Q1 2020) are available to all existing users until the Master Administrator or Backup Administrator restricts access.
+Using the RBAC configuration, users with the proper permissions can grant access to the connector to other users, who can perform only the actions of their assigned roles.
+Only two user roles have permissions to manage access:
+- Master Administrator can manage access for all connectors
+- Backup Administrator can manage access only for those connectors that he has access to
+To manage access
+Before you begin, make sure you have created the necessary users. A step-by-step guide can be found here.
+1. To the right of the connector, select the gear icon.
+2. At the bottom of the connector configuration window, select the lock icon.
+3. Select users to grant access to and deselect users to revoke access from.
+Note: It is not possible to change the access for a Master Administrator, Compliance Admin, SSO Admin, or Audit user:
+- Master Administrators always have universal access to all connectors to prevent getting locked out of a connector.
+- Audit users always have access to the audit logs for each connector, never to a connector's configurations or data.
+- SSO Admins have access only to SSO configurations, never to a connector's configuration or data.
+Accordingly, these roles are faded in the list and it is not possible to select or deselect these check boxes.
+5. Select Save selection to apply your changes.
+What happens when a user with restricted access signs into Keepit?
+When a user with restricted access signs in, unavailable connectors will be faded, and no connector details such as connector status or backup size will be visible. The user will not be able to open the connector configurations, browse connector data, or take actions such as initiate a restore.
+Changing a user role
+The system remembers which connectors a user had access to when assigned certain user roles. For example, let’s say a user is assigned the Standard Support user role and is given access to one specific connector. Then the user is assigned the SSO user role, which means he has no access to any connectors. But now if he is re-assigned the Standard Support user role – or if he is assigned the Backup Admin, Full Support, or Standard Support user role – he will automatically have access again to the above-mentioned connector.

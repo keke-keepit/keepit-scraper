@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/press/cloudawards/
+Content type: Web page
+Last modified: 2025-08-20T02:24:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit celebrates dual wins at the 2024/25 Cloud Awards for intelligent backup and recovery solutions
+Keepit was named winner in the “Best Cloud-Native Project/Solution” and “Best Cloud DR/Business Continuity Solution” categories.
+Copenhagen, Denmark – January 15 – Keepit, a global provider of a comprehensive cloud backup and recovery platform, announced today its success in the 2024/25 Cloud Awards program by being named winner in the “Best Cloud-Native Project / Solution” and “Best Cloud DR / Business Continuity Solution” categories.â¯
+The Cloud Awards is one of the longest-running awards platforms of its kind, recognizing the latest achievements and innovations in cloud computing. Organizations that reached the finalist stage have had their nominations reviewed by the judging panel, resulting in the winners named today. The program received entries from organizations of all sizes from across the globe, including the USA and Canada, the UK and Europe, the Middle East, and APAC.
+The program itself covers multiple aspects of cloud computing across 36 categories, including overall excellence (e.g.: innovation and disruption), systems and processes (e.g.: Payroll and Automation), certain technologies (e.g. SaaS and IoT), pieces of work (e.g.: projects, migrations or integrations), and workplace excellence (e.g.: consultancy, most promising startup, and ‘green’ credentials).
+“More than 15,000 companies worldwide already include the Keepit platform as a part of their disaster recovery plans. By providing companies with instant and continuous access to their data, we’re helping to ensure business continuity and peace of mind. We’re honored to have received these accolades from the Cloud Awards,” says Michele Hayes, CMO at Keepit.
+"Keepit has proven itself a leader in disaster recovery and business continuity with its purpose-built SaaS data protection platform, earning the title of 'Best Cloud DR / Business Continuity Solution.' By leveraging immutable, tamper-proof storage in an independent cloud, Keepit provides organizations with peace of mind, even in the face of cyberattacks or unexpected data loss. Its adherence to the highest security standards and cost-effective, predictable pricing model ensures companies remain operational, compliant, and secure. The Cloud Awards is proud to honor Keepit for its pivotal role in protecting business-critical data and ensuring uninterrupted continuity in an increasingly unpredictable digital landscape,” says Cloud Awards Technical Director, Annabelle Whittall.
+Secure by design, the Keepit cloud is owned and run by Keepit. Customer data is kept in a separate, dedicated infrastructure, with the backed-up data stored fully isolated from the SaaS vendor’s cloud. With a user-friendly interface, robust data security, and the ability to adapt to your cloud environment, Keepit ensures your data is always accessible and protected.
+About the Cloud Awardsâ¯â¯â¯â¯â¯â¯
+The Cloud Awards is an international program which has been recognizing and honoring industry leaders, innovators and organizational transformation in cloud computing since 2011. The Cloud Awards comprises five awards programs, each uniquely celebrating success across cloud computing, software-as-a-service (SaaS), cloud security, artificial intelligence (AI), and financial technologies (FinTech).
+Winners are selected by a judging panel of international industry experts. For more information about the Cloud Awards, please visit https://www.cloud-awards.com/.â¯â¯â¯â¯â¯â¯
+About The Cloud Awards Programâ¯â¯â¯â¯â¯â¯
+The Cloud Awards identifies and celebrates the most innovative organizations, technologies, individuals and teams in the world of cloud computing. The program spans 36 categories, including ‘Best Cloud Infrastructure’ and ‘Best Cloud Automation Solution’.
+About The Cloud Security Awardsâ¯â¯
+The Cloud Security Awardsâ¯celebrates innovation in the cybersecurity industry. The program includes a wide range of categories, including 'Best Web Security Solution,' 'Cloud Security Innovator of the Year,' and 'Best Security Solution for Finance or Banking.'
+About The FinTech Awardsâ¯â¯â¯â¯â¯â¯
+The FinTech Awards focuses on the major innovations in the world of financial technology, including personal and corporate banking, insurance, and wealth management, business finance processes, and FinTech use within a selection of sectors, across 23 categories.
+About Keepit:
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 15,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data. â¯
+For more information visit www.keepit.com or follow Keepit on LinkedIn.

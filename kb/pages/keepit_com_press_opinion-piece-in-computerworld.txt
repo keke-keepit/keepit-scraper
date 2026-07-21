@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/press/opinion-piece-in-computerworld/
+Content type: Web page
+Last modified: 2025-08-15T00:32:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Who Is Leading Your Digital Transformation: The CEO, The CTO, or COVID-19?
+Major global crises are one of the most powerful catalysts for transformation, and COVID-19 is no exception. Many companies are forced to become digital these days just to have the slightest chance of surviving the crisis.
+We are now well over a month and a half into the corona crisis and it’s safe to say that everyday life has been turned upside down for everyone.
+While our healthcare system is fighting a commendable battle, Danish companies have also had their own struggles to survive. Companies are being forced to send employees home, production is stalling, and in the IT industry, we are also seeing both layoffs and bankruptcies despite efforts from the government. It is serious and it will have consequences for many years to come.
+One thing is certain, though: the companies that are best-suited for the crisis and seem to be doing the best are those that have already completed a major digitalization, and thus, have managed to remove analogue chokepoints.
+And The Winners Are…
+These are the companies that could, relatively easily, move their tasks home. These are the companies that already had a significant share of the company's sales online. These are the companies that had already digitalized the company's data, workflows, and processes not only to be optimized, but also to ensure the best possible flexibility for employees.
+Larger retail chains in the UK have gone from a turnover of millions of pounds to zero in just two months simply because they only had physical stores.
+In Denmark, we see the Salling Group investing almost half a billion Danish kroner in an online war to try to keep up with online supermarkets such as Aarstiderne and Nemlig.com, with the latter experiencing a doubling of revenue.
+Many companies have rapidly executed a digitalization of work processes and initiated new sales opportunities to maintain a sales flow and secure cash.
+It is impressive how agile, creative, and adaptable most Danish companies have been since the beginning of the corona crisis, and it creates confidence that many companies will probably withstand the potential hardships.
+The Change Is Here To Stay
+The use of online cloud services such as Office 365 and Teams will have a major impact on the ordinary day-to-day work processes, which are likely to become far more flexible and informal. And I can guarantee that this change is here to stay - even after we get our daily routines going again. Cloud services are a salvation in these corona times, and in addition, they fit well with our demands for a modern and flexible workplace.
+But a migration to the cloud is not just something you do in a week. Just ask any CIO that has completed a digitalization process of any business - it requires care and thought. Today, digital data is a company's most important asset, and there are many pitfalls.
+Take Good Care Of Your Data
+Therefore, it is key that you think through the whole process if you have had to digitalize your work processes and methods to adapt to the Corona crisis.
+A classic example is the adaption of new cloud services: When companies facilitate the necessary framework for home workplaces with services such as Teams, OneDrive, and Office 365, it should be done with care. Unfortunately, it is far from clear to everyone that data is not protected in neither Microsoft’s nor Google's cloud solutions.
+If, for example, you are hit by a ransomware attack that targets your data in the cloud, be it your emails, files, contact information, and so on, there is no help from Microsoft to retrieve those data.
+It is solely your responsibility to protect and secure your data in the cloud. Therefore, it’s crucial that you remember to implement your cloud data in your existing backup strategy. On top of all of this, there is a growing number of ransomware attacks, already doubled since the outbreak of COVID-19.
+It's all about being agile without losing sight of the big picture, about making sure it’s the company that’s steering the digitalization and not COVID-19 dictating it. Forced digitalization can actually make companies better off after the crisis, not only in terms of productivity, but also in creating the best and most flexible framework for the increasingly demanding workforce.
+This is only true when things are handled right from the start, because otherwise you end up with an ill-conceived solution that could very well do more harm than good.

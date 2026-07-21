@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/help/platform-category/respond-to-an-application-status/
+Content type: Web page
+Last modified: 2026-06-23T20:52:44+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Respond to an application status
+Each application has a status that helps you identify if any action is needed to maintain proper backup and restore functionality.
+At the connection level, the status indicates whether any applications within the connection are in a critical state or require attention.
+No issues
+An application that has no issues has valid access to the organization and possesses the required permissions. Backups and restores are running normally.
+Needs Attention
+An application that needs attention means the application currently has valid access and backups and restores are functioning normally. However, it may have extra permissions or may need additional permissions to enable new features.
+How to resolve a needs attention status:
+- If the application has excess permissions:
+ Remove the unnecessary permissions from the application in your organization. Afterward, reauthenticate the application in Keepit to grant the updated permission set.
+- If new permissions are required:
+ Reauthenticate the application and grant the additional permissions when prompted.
+Critical
+An application with a critical status means the application cannot connect to the organization or lacks required permissions. As a result, backups and restores cannot run properly until the issue is resolved.
+How to resolve a critical status:
+- If authentication is no longer valid:
+ Reauthenticate the application and grant the permissions.
+- If required permissions are missing:
+ Add the missing permissions to the application in your organization, then reauthenticate the application to grant the permissions.
+For more details, go to Reauthenticate a connection application

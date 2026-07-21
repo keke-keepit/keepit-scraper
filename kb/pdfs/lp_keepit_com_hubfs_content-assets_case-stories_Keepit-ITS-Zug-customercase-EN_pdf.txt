@@ -1,0 +1,108 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-ITS-Zug-customercase-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+Customer case
+ITS Zug simplifies multi-
+tenant Microsoft 365 backup 
+with Keepit
+
+A more stable approach to multi-tenant backup 
+ITS Zug protects large volumes of Microsoft 365 
+data across Exchange, OneDrive, SharePoint, and 
+Teams for multiple organizations. The previous 
+backup solution created ongoing operational 
+challenges, with recurring issues several times 
+per week that required constant intervention, 
+time-consuming troubleshooting, and repeated 
+rework. Restore processes were often unreliable 
+or overly complex, resulting in significant day-
+to-day effort and making backup operations 
+unpredictable and resource-intensive instead of 
+a stable part of the environment.  
+With multiple tenants to support, the team 
+needed a more consistent and predictable way to 
+manage backups at scale. Reducing operational 
+effort while maintaining confidence in backup 
+integrity became a key priority. 
+Centralized protection, independent design 
+ITS Zug selected Keepit to provide centralized 
+SaaS backup for Microsoft 365 across its tenant 
+Customer case:
+ITS Zug
+IT Services Zug AG (ITS Zug) provides centralized IT services for public administrations and 
+schools in the Canton of Zug. Supporting multiple organizations across complex Microsoft 
+365 environments, the team is responsible for protecting critical data while meeting strict 
+requirements for data protection, availability, and security. 
+As Microsoft 365 usage rapidly expanded across multiple tenants, ITS Zug needed a backup 
+solution that could deliver consistent protection at scale while significantly reducing operational 
+complexity. Reliability, fast recovery, and strong security were essential to maintaining continuity 
+for the organizations they support. 
+“Our environments support multiple 
+organizations with high expectations for 
+availability, security, and data protection. We 
+needed a solution we could rely on without 
+adding operational overhead.”
+-  Natascha Markzoll 
+System Engineer
+IT Services Zug AG
+
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. www.keepit.com
+Your data. Here today. Here tomorrow.
+© 04/15/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+About IT Services Zug AG
+IT Services Zug AG (ITS Zug) is a central IT service 
+provider for public administrations and schools in the 
+Canton of Zug, Switzerland. ITS Zug enables public 
+sector organizations to deliver reliable digital services 
+while maintaining compliance and operational 
+stability.
+Customer case:
+ITS Zug
+“Managing backup with Keepit is almost 
+boring — in the best possible way. It 
+simply works. We no longer spend time 
+troubleshooting backups, and recovery is 
+fast and straightforward.”
+-  Natascha Markzoll 
+System Engineer
+IT Services Zug AG
+environments. Keepit’s independent architecture 
+separates backup data from the Microsoft 
+production environment, strengthening security 
+by isolating backup data from production and 
+supporting a zero-trust architecture. 
+With a clear separation between production and 
+backup environments, the IT team gains greater 
+control and resilience in the event of data loss or 
+cyber incidents. Granular recovery capabilities 
+make it possible to quickly restore individual 
+emails, files, and collaboration data, helping 
+maintain continuity while minimizing disruption to 
+users. 
+Reliable recovery with less operational effort 
+Since implementing Keepit, ITS Zug has 
+significantly reduced the time spent managing 
+backup operations. Backups now run consistently 
+and reliably, allowing the IT team to focus 
+more on strategic priorities rather than routine 
+troubleshooting. 
+Fast, granular restore capabilities ensure users 
+can quickly regain access to important data when 
+needed. With confidence in the stability of the 
+backup environment, daily monitoring is no longer 
+a burden on the team.
+Today, ITS Zug benefits from a scalable and 
+dependable backup environment that supports 
+the needs of public sector organizations while 
+reducing operational complexity. With reliable 
+protection in place, the team can focus on 
+delivering secure and efficient IT services that 
+support schools and public administration across 
+the canton.

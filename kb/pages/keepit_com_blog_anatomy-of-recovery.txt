@@ -1,0 +1,44 @@
+Source URL: https://www.keepit.com/blog/anatomy-of-recovery/
+Content type: Web page
+Last modified: 2026-01-20T14:17:13+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The anatomy of recovery: Why testing is the heart of business resilience
+Disaster recovery isn’t a one-time task—it’s an ongoing commitment. Mounting cyber threats, hybrid attacks, and strict regulatory oversight means recovery planning is no longer optional. It's the foundation for business resilience.
+Disasters are broader than you think
+Natural disasters still top the list of major disruptions—fires, floods, earthquakes, and storms can cripple operations by severing infrastructure. But increasingly, it's not just nature that brings systems down.
+Recent examples show how vulnerable businesses are to the failure of underlying services. A severed submarine cable, a telecom outage disabling emergency lines, or a botched software update that halts transportation—these aren’t hypothetical scenarios. They’re modern-day reminders that global infrastructure dependencies are fragile and easily disrupted.
+To mitigate this, organizations must identify their most vulnerable points and build redundancy into systems—both technically and operationally.
+The silent threat: Human error
+While cyberattacks and natural events make headlines, human error remains one of the leading causes of data loss. Misconfigured retention policies, accidental deletions, and administrative oversights continue to plague enterprises of all sizes. The most sophisticated IT environments are not immune.
+Often mistakes aren’t discovered until it’s too late. And when data is lost, relying on SaaS vendors for recovery is a gamble. Native restore features may exist, but they’re typically limited, difficult to test, and not built to guarantee full-scale business continuity.
+Having independent, regularly tested backups is the only reliable way to safeguard against the full range of human-induced incidents.
+Culture is a security tool
+Mistakes happen. What matters is how organizations respond. A mature security culture ensures that employees feel empowered to report issues promptly—without fear of blame. The worst-case scenario isn’t a mistake—it’s a mistake that goes unreported and escalates.
+Security isn’t just about firewalls and patches. It’s about communication, education, and trust. Training must be real, relevant, and engaging. Employees should understand what phishing looks like in their specific business context. Developers should practice spotting malicious code. Security isn’t a one-size-fits-all effort; it’s a cultural investment.
+When vendors fail
+Cloud vendors aren’t perfect. History shows that even the largest players occasionally lose customer data due to bugs, misconfigurations, or internal errors. From lost security logs to deleted pension data, these incidents underscore a hard truth: shared responsibility doesn’t mean guaranteed protection.
+Whether it's a coding bug deep within a service stack or a botched update affecting core systems, customers bear the brunt when data is lost—and they’re often powerless to recover without third-party backups. The only remedy is to assume failure is inevitable and prepare accordingly.
+Rising risks: Shadow IT, AI, and supply chains
+Security perimeters are dissolving. Shadow IT introduces unmanaged apps into corporate networks, often housing sensitive data unknown to IT teams. Employees, in a bid for productivity, may upload proprietary data into generative AI tools without realizing the risk.
+Supply chains also present growing vulnerabilities. Software delivered through trusted channels can be compromised, as seen in high-profile breaches where malicious updates slipped past defenses undetected.
+The antidote? Intelligent monitoring, rigorous classification, and a thorough understanding of where sensitive data resides.
+The case for testing—and testing again
+Every plan is theoretical until it is tested. Recovery strategies must be validated in real-world conditions—not just once, but regularly. Testing isn’t an inconvenience. It’s how businesses discover gaps before attackers do.
+Regulations like DORA and NIS2 now demand evidence of effective, recurring testing. It’s not enough to have a plan on paper—organizations must prove their ability to recover. Fortunately, with the right tools and automation, testing can be simple, even mobile-friendly.
+Modern disaster recovery must be as agile as DevOps. Recovery tests should be frequent, frictionless, and minimally disruptive.
+Defining what matters most
+You can’t protect everything. But you can protect what matters most. Effective disaster recovery begins with classification—identifying the systems, data, and applications that are most critical to business continuity.
+With hundreds of SaaS applications in use across a typical enterprise, organizations must prioritize recovery based on business impact, not just IT ownership. Recovery isn't a single push-button event. It's a sequence. Knowing what to bring online first—whether it's payroll, CRM, or security tools—is key to minimizing downtime and revenue loss.
+Ownership also matters. Risk needs to be assigned, not just acknowledged. When system and data owners are accountable, they’re more likely to engage in the planning process.
+What good looks like
+A robust recovery strategy includes:
+- Clear classification of critical systems and data
+- Prioritized recovery plans that reflect actual business dependencies
+- Regular, automated testing of restore capabilities
+- Tamper-proof, immutable backups in a separate, secure cloud
+- Risk ownership embedded in every department
+- Training programs that are engaging, continuous, and context-specific
+Recovery is more than just technology. It’s culture, governance, and foresight.

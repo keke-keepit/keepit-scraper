@@ -1,0 +1,46 @@
+Source URL: https://www.keepit.com/blog/user-experience-first/
+Content type: Web page
+Last modified: 2025-08-20T00:30:46+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How Keepit puts user experience first
+Keepit is known for delivering a certain quality of User Experience (UX), which is reflected in customer feedback examples, such as:
+"Keepit's user-friendliness is a financial win-win" from customer story SIG and another from Park 'N Fly saying, "I like to call Keepit a Steady Eddie. I know it's working; I know it's running, and I don't have to sweat it."
+Behind Keepit's simple design and ease of use lies a deliberate approach, rooted in the idea that our whole system, from the deepest backend layers to the user interface, is built to support a solid User Experience.
+However, in the software field, UX has been interpreted in various ways and caused confusion in how it differs from User Interface Design. So, what is UX to Keepit? And how does Keepit go about all this in practicality?
+Foundation of UX
+UX goes beyond the immediate visual impression and beyond isolated interactions within the product. It is a silent ambassador that ensures a seamless experience throughout any touchpoint. A journey sprinkled with an undefined X factor that leaves our user with instant recognition without the need for explanation -a quality that flows through every vein of Keepit.
+An experience starts before the product is even used by our customers. As Don Norman, the inventor of UX, puts it, "No product is an island […] It is a cohesive, integrated set of experiences […] Make them all work together seamlessly."
+Leveled circulation
+On both conscious and unconscious levels, a human experience is perceived and processed as a sum of different events. The more you know about people, the better experience you will be able to design. To translate such a complex sum into a consistent Keepit experience, we use our Design System as a single documented source.
+Here all Keepers will find Design Principles, components, guidelines, patterns, and themes. However, the UX circulates on more levels. To grasp this in a software context, mapping out different levels of the experience can help.
+Interaction level
+On this level, we work with both look and feel when interacting with the product, from visual design to Information Architecture to navigation. The focus is to design the experience of a certain interaction that a user has with Keepit to perform a task, such as restoring data in Keepit's application.
+However, a user interaction can also exist outside the product interface. One example is receiving support. Each of these interactions are single strokes of experiences that play a role in the relationship with our customer.
+On the interaction level, our Design Principles, guidelines, and patterns play a central role. We operationalize this with a pyramid logic in layers, with a theme on the top level and dos and don’ts on the bottom level. Here is an example:
+Design principle: Keepit sets me free
+What users should feel:
+In every interaction, I as a user should feel the freedom of being in control. This means being offered the most relevant choices at the right time. The choices should lower my cognitive load so that I feel enabled to effortlessly succeed at my tasks.
+Examples of what users should think:
+"I control the situation" - "This is unbelievably easy"- "Keepit makes me better at my job"- "I get what I need when I need it"
+Examples of what users should see:
+Recognizable patterns – An easy first entry to the system – Understandable language
+What designers should do:
+Always give feedback – Build a strong visual hierarchy – Know and understand the user – Always remember what problem we are solving for the user
+What designers should not do:
+Don't make the user wait, don't speak in system language, don't overload the user with information
+Journey level
+Zooming into the journey level, we recognize that putting UX first is not isolated in the product interaction itself. The key word here is "journey". Mapping out journeys enables us to discover user needs and pain points, in the quest of providing seamless and consistent experiences across Keepit’s channels.
+There are methods to identify key needs and transform them into design challenges. Apart from organized methods, such as usability tests, analytics, and organized customer interviews, there are also more organic user dialogues. From support, through live events, from sales, and so on. In all these touchpoints there are chances to identify key user needs and discover how the Keepit product can solve real user problems.
+The key point here is to identify where the needs and pain points are rooted; define the root problem and translate this into design challenges. Further down the road, when ideating on design solutions, the user experience should be consistent in every chosen design solution. Again, this is where the User Experience pyramid, with its design principles at the top, plays its role as a foundation for the other experience levels.
+A level connecting the dots
+This means that UX is related to the spirit of Keepit, across the whole company. Throughout the different areas of expertise of Keepit, UX connects the dots and remembers to keep the users' needs at the core of what we do: to deliver simple and safe backup solutions that can set our customers free from the worries of losing data. Keepit's UX delivers this X factor in its tone of voice, the product's look and feel, user touchpoints, and customer dialogues.
+Keepit's UX goal is to deliver a consistent heartbeat of look and feel throughout the user journey, anytime, anywhere – pumping it through Keepit's veins.
+UX metrics
+As designers, we recognize the challenge in measuring UX, since we are dealing with human behavior and attitude. Here we use deliberate approaches such as confirmation bias. When working on improvements to Keepit's UX, our main goal is to gather insight, combined with quantitative results.
+We want to understand the context and situation that the user is in when encountering Keepit, as well as how this context affects the user.
+We also want to know what works, what doesn't, and why. These insights are gathered through activities such as user interviews and observations. The outcome should be an understanding of user values, supported by quantitative data on average numbers or rates. Additionally, usability metrics give value to the work of measuring. Our different approaches have the common mission of delivering an excellent User Experience, based on data-informed decisions.
+Help the Keepit design team
+We are always looking for people who would like to provide feedback on our solution and help us create the best design in the world. Please sign up here if you are interested in becoming part of the user feedback forum.

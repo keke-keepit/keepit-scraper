@@ -1,0 +1,31 @@
+Source URL: https://www.keepit.com/help/api-category/authentication/
+Content type: Web page
+Last modified: 2025-09-30T12:19:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Authentication
+API credentials
+To access the API, the username and password of a token associated with the account must be used in order to authenticate the API requests.
+When an account is created, a user with full permissions is automatically generated. This admin user can then create additional users via the user interface or API.
+It is also possible to create a dedicated user specifically for API access. By default, API tokens inherit the same permissions as the primary token (user account) that created them.
+For details on how to create an API token:
+- Keepit platform: Create an API token
+- PMC: Create an API token in the PMC
+The user credentials used must have the necessary permissions to perform the required actions.
+For a list of user roles and permissions:
+- Keepit platform: Keepit user roles and permissions
+- PMC: User roles and permissions in PMC
+Basic authentication
+Basic authentication is widely supported by many API tools, including Postman, as well as by various scripting and programming languages, such as PowerShell.
+Postman example
+PowerShell example
+try { 
+â¯â¯â¯â¯â¯â¯â¯ $username = '<API Token username>' 
+â¯â¯â¯â¯â¯â¯â¯ $password = '<API Token password>' 
+â¯â¯â¯â¯â¯â¯â¯ $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}")) 
+â¯â¯â¯â¯â¯â¯â¯ $headers = @{ 
+â¯â¯â¯â¯â¯â¯â¯â¯â¯â¯â¯ "User-Agent" = "PowerShell-Keepit-API-Agent-1.0" 
+â¯â¯â¯â¯â¯â¯â¯â¯â¯â¯â¯ "Authorization" = "Basic $basicauth" 
+â¯â¯â¯â¯â¯â¯â¯ }

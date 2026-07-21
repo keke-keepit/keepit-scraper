@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/resources/fundamentals-of-recovery-and-restoration/
+Content type: Web page
+Last modified: 2025-08-20T02:30:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Reel: Fundamentals of recovery and restoration
+In this Keepit Reel, Kim Larsen, CISO at Keepit, sits down with Ben Jenkins, VP of Sales North America at Zerto, for a conversation about the realities of disaster recovery planning.
+This informative discussion challenges the assumption that backup equals recovery and explores the urgent need for businesses to shift their focus from prevention to recovery preparedness. From outdated backup technologies and inaccurate recovery estimates to the difficulty of restoring off-site copies, Kim and Ben dive into real-world examples of outages and ransomware attacks to highlight the importance of having a documented, tested, and repeatable recovery process.

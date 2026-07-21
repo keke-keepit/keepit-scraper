@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/help/power-bi-category/what-counts-as-a-seat-in-a-power-bi-backup/
+Content type: Web page
+Last modified: 2025-03-11T20:19:58+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What counts as a seat in a Power BI backup
+What is a seat
+At Keepit, we use “seat” as the metric to measure your consumption of our services.
+Conditions for a Microsoft Power BI user to count as a seat
+To be counted as a seat, the following must apply:
+- The user must be a member of the tenant (guests are not counted as seats)
+- The user must have access to Power BI (i.e., must have a valid Power BI plan)
+- The user must be active (not deleted or blocked)
+Seat types
+Depending on its license type, the user will be assigned a seat type:
+- Full
+- Light
+E5 licenses
+Most Microsoft E5 licenses have a Power BI Pro included which means that any active user with an E5 will be counted as a full seat. Additionally, each "Power BI Premium per capacity" license is counted as 500 Power BI Premium seats equaling 500 full seats.

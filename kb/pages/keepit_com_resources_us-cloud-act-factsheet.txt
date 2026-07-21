@@ -1,0 +1,12 @@
+Source URL: https://www.keepit.com/resources/us-cloud-act-factsheet/
+Content type: Web page
+Last modified: 2025-08-20T02:30:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit and the U.S. CLOUD Act
+Learn about Keepit's infrastructure model and the implications of the U.S. CLOUD Act for our operations. In this document:
+- Infrastructure ownership and colocation services
+- Global data center presence
+- Data encryption and protection

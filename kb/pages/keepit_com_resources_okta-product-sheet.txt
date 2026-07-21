@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/resources/okta-product-sheet/
+Content type: Web page
+Last modified: 2025-08-14T23:40:01+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Okta
+Identities and access securely backed up and recoverable — on a sovereign platform
+Although it’s known Okta is critical for identity and access management, it’s not as widely known, that under the shared responsibility model, you are responsible for the security and integrity of data stored within Okta.
+That’s why implementing independent backup is a core component in ensuring business continuity, security, compliance, and resilience. Awarded for its ease of use, Keepit ensures that data stored in Okta is securely backed up and can be recovered swiftly and accurately when incidents occur. It effectively minimizes the impact of data loss and the burden of recovery on your teams.

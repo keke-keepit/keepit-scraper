@@ -1,0 +1,78 @@
+Source URL: https://www.keepit.com/blog/identity-blind-spot/
+Content type: Web page
+Last modified: 2026-05-07T11:13:54+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The identity recovery blind spot: Why identity systems are tested far less, and why thatâs risky
+If you want to start a lively argument among IT people, ask a deceptively simple question: “What’s your most important SaaS application?”
+You’ll get answers like Microsoft 365, Salesforce, ServiceNow, Workday, maybe even “our ERP, which I’m not naming because it’s held together with hope and stored procedures.” All fair answers.
+But the one that quietly sits underneath most of those systems — the one that enables access to the rest — is identity. Whether or not you realize it, your identity management (IdM) system is your most important SaaS application, because without it, nothing else works.
+That’s why one data point in the Keepit Annual Data Report 2026 jumped out at me, hard: organizations test restores for identity systems roughly four times less often than they test restores for productivity systems.
+Let’s just pause there for a second, because the irony is impressive.
+Identity is the thing that controls who gets in to your Microsoft 365 tenant. It’s the gatekeeper for Salesforce. It controls access to basically everything. And yet, when it comes to restore testing, identity is the thing we practice the least.
+That’s not just a gap. It’s a blind spot.
+The “brain and body” problem: Entra ID is the brain, Microsoft 365 is the body
+I’ve said for a while that Microsoft Entra ID is the brain and Microsoft 365 is the body.
+Microsoft 365 is where the work happens: mailboxes, files, Teams chats, calendars, documents, workflows, and all the things people point to when they say “the business runs on this.”
+Entra ID is what makes those things usable: authentication, authorization, conditional access, tokens, app registrations, service principals, group membership, role assignments, device identity, and on and on.
+If the body gets hurt, you can often work around it—at least for a while. Someone loses a file? Restore it. A mailbox gets mangled? Recover it. A Teams channel disappears? Bring it back.
+But if the brain goes offline, it doesn’t matter how healthy the body is.
+When identity access fails, users don’t “lose a document.” They lose the ability to reach the entire SaaS estate. And in many organizations, that means downtime that spreads fast.
+Why do we test identity recovery so much less?
+The report is observational — it’s based on what organizations actually do, not what they say they do. So it doesn’t speculate about motivations. But having spent a lot of time with customers (and their scars), I can tell you there are some predictable reasons identity recovery testing gets neglected:
+· Identity failures feel unlikely—until they aren’t. Most people don’t wake up thinking “today is the day our identity system will betray us.” They assume it’s durable, redundant, and managed. Sometimes it is. Sometimes the problem isn’t availability—it’s configuration drift, accidental changes, or malicious changes.
+· Identity is scary to touch. Restoring identity objects feels riskier than restoring a file. And honestly, it can be. Identity systems are full of interconnected, high-impact configuration that can break sign-ins in creative ways.
+· The blast radius is hard to predict. A bad conditional access change can block an executive. A broken app registration can take down an automation pipeline. A removed role assignment can stop your security team from doing their jobs. These don’t always look like “restore events,” so they don’t always trigger “restore thinking.”
+· People confuse “we can rebuild” with “we can recover.” Yes, you can rebuild a tenant. Yes, you can recreate configuration. But doing that quickly, correctly, under pressure, while the business is locked out is… aspirational.
+The operational reality: losing identity access can stop recovery of everything else
+Here’s the part that makes the “four times less testing” statistic feel dangerous: identity is usually part of the recovery chain, not just part of production access.
+In a serious incident, you may need to:
+· Access SaaS admin portals
+· Access backup and recovery tooling
+· Access ticketing and incident communications
+· Access runbooks, documentation, and stored secrets
+· Access the systems used to restore other systems
+If identity is the control plane for your environment, and you can’t authenticate admins, your recovery plan becomes a PDF you can’t open, stored in a SharePoint site you can’t access, behind an MFA challenge you can’t satisfy.
+This is the kind of risk that doesn’t show up in neat little RTO and RPO spreadsheets. It shows up when you realize your “restore” procedure starts with “log in,” and you can’t.
+Identity recovery isn’t just “restore users”
+When people hear “identity recovery,” they often think about restoring user accounts or passwords. That’s part of it, but it’s not the whole story—especially in modern SaaS environments.
+A practical identity recovery posture needs to consider, at a minimum:
+· Privileged access and role assignments (who can administer what)
+· Conditional access policies (what controls sign-in and how)
+· MFA and authentication method configuration
+· App registrations and service principals (what automations and apps rely on)
+· Group membership and dynamic group rules
+· Enterprise applications and SSO configuration
+· Directory objects that underpin access (including devices, where relevant)
+If any of those are compromised or accidentally changed, your “incident” might not look like data loss. It might look like permanent lockout.
+And lockout is a special kind of outage because it blocks the very actions you need to fix the outage.
+What should identity restore testing actually look like?
+This is where I want to be extremely practical.
+Testing identity recovery doesn’t have to mean “flip the production tenant on its head once a quarter and see what happens.” (Please don’t do that. Your coworkers will not appreciate it.)
+Instead, treat identity recovery like any other operational discipline: define what you’re testing, define success, and practice in a controlled way. Examples include:
+1) Test restoring a small, meaningful set of identity objects
+ Pick a handful of representative objects—some users, some groups, a couple of app registrations, and a few key policies—and validate you can recover them in a way that preserves expected behavior.
+2) Validate break-glass access paths
+ Break-glass accounts aren’t glamorous, but they exist for a reason. Validate they work, that they’re excluded from the right policies, and that their credentials and procedures are accessible when you need them.
+3) Practice “policy rollback” scenarios
+ A surprising number of identity incidents come from well-intentioned changes. Simulate a bad conditional access change and validate how quickly you can return to a known-good state.
+4) Include identity in larger recovery exercises
+ If you do tabletop exercises or recovery drills, don’t treat identity like “assumed working infrastructure.” Make it an explicit dependency: “How do we recover if identity is impaired?”
+A cadence suggestion: test the thing that can lock you out
+The report emphasizes testing behavior as a signal of maturity. And I agree with that framing: confidence comes from practice, not from documentation.
+So here’s the uncomfortable question implied by the data: if identity systems are tested four times less frequently than productivity systems, what does that say about our real confidence in identity recovery?
+I’m not going to prescribe a universal cadence for every organization. But I will say this:
+If your identity system is the gatekeeper for your SaaS environment, then testing it “occasionally” is not a strategy. It’s hope.
+At minimum, identity recovery should be practiced regularly enough that:
+· The people responsible know the process
+· The process doesn’t rely on tribal knowledge
+· The access paths are validated
+· The recovery sequence is understood (what comes first, what depends on what)
+The big takeaway
+It’s easy to talk about backup and recovery in terms of terabytes and retention periods. It’s harder—but more useful—to talk about it in terms of operational reality: what do you do when something breaks, and can you do it under pressure?
+The Keepit Annual Data Report 2026 gives us a rare lens into what organizations actually practice. And one of its clearest signals is that identity recovery testing is lagging—by a lot.
+If Entra ID is the brain and Microsoft 365 is the body, then neglecting identity recovery testing is like doing physical therapy while ignoring the possibility of a stroke.
+It’s not that restoring files doesn’t matter. It does. But if you can’t authenticate, you can’t restore anything else.
+That’s the identity recovery blind spot. And it’s worth fixing , before you’re disowned by your own identity infrastructure...

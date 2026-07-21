@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/press/cybersecured25/
+Content type: Web page
+Last modified: 2025-12-19T15:06:06+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit platform crowned in three categories at Security Todayâs Cybersecured Awards 2025
+Keepit was honored in Cloud Security, Data Loss Prevention and Disaster Recovery/Business Continuity for the second year in a row
+COPENHAGEN, DENMARK, December 19, 2025 – Keepit, a global provider of a comprehensive cloud backup and recovery platform, is proud to announce it has been recognized at the prestigious 2025 Security Today CyberSecured Awards. The company secured top honors in three categories: Cloud Security, Data Loss Prevention, and Disaster Recovery/Business Continuity.
+Immutable backups as the last line of defense in the age of AI
+Security Today, a leading source for security professionals, has recognized Keepit’s outstanding contributions to the cybersecurity landscape. The CyberSecured Awards celebrate innovation and excellence in cybersecurity solutions.
+The Keepit platform currently protects thirteen key SaaS applications, including Microsoft 365, Microsoft Entra ID, Okta, Google Workspace and more. Through unrivaled SaaS security, the Keepit platform helps companies mitigate risk of data loss due to human error or cyberattack.
+“With the increasing use of SaaS applications and AI in critical business operations, immutable backups and rapid recovery are at the center of modern data resilience. We’re honored that the Keepit platform was selected as a winner by Security Today’s CyberSecured Awards — a recognition that underscores our commitment to security, reliability and best-in-class data protection for our customers”, says Michele Hayes, CMO at Keepit.
+The Keepit platform received multiple accolades in 2025, including multiple category wins at the Global Infosec Awards at RSA, “Business Continuity Cyber Solution of the Year” in the 2025 Cybersecurity Breakthrough Awards, and a 2025 Stratus Award for Security.
+You can view a full list of Keepit’s industry awards on our website.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 20,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

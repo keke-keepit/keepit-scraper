@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/help/power-bi-category/power-bi-backup-data-coverage/
+Content type: Web page
+Last modified: 2025-03-17T14:38:24+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Power BI backup data coverage
+Power BI backup coverage
+The Power BI connector protects reports and dataflows created in Power BI workspaces.
+Your data in Keepit is structured as follows:
+Workspace
+- Dataflows
+- Reports
+Power BI backup limitations
+- We do not back up personal workspaces (My workspaces)
+- We do not back up taskflows
+- Only reports that can be downloaded as a .pbix can be backed up. This means we do not back up reports created in Power BI service. We only back up reports created in Power BI Desktop and published to the Power BI service, or those reports where the .pbix file was uploaded to the Power BI service. For a full list of limitations, see Download a report from the Power BI service to Power BI Desktop.
+- We do not back up capacities, but we back up which capacities are assigned to a workspace
+- We do not back up datasets separately, but reports that we back up contain copies of datasets, which we also back up. Because a single dataset can be part of many workspaces, your backup may have duplicate datasets.
+- We back up where sensitivity labels are applied, but not their configurations

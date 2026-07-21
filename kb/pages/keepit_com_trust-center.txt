@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/trust-center/
+Content type: Web page
+Last modified: 2025-12-17T13:46:55+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+NIS2 Directive
+Keepit enables compliance with this EU directive by protecting digital infrastructure and sensitive data through independently stored air-gapped backups. Our 24/7 accessibility and robust recovery measures ensure both cyber resilience and business continuity, core elements of NIS2. 
+Read more about NIS2
+GDPR
+Keepit’s platform facilitates GDPR adherence with enhanced data protection, especially against ransomware. We are the only backup provider fully supporting GDPR Articles 17 and 32, helping implement necessary workflows to achieve compliance. 
+Read our GDPR whitepaper
+CER
+With Keepit’s resilient backup solutions, critical entities align with CER (Critical Entities Resilience Directive) requirements, proactively managing risks to safeguard essential services and improve resilience through secure data storage and recovery. 
+Read more about CER
+SEC Guidelines
+Meeting SEC requirements involves strong cybersecurity practices. Keepit assists by protecting vital SaaS applications like Microsoft 365 and Entra ID, offering clear risk assessments, response plans, and business continuity support for essential functions. 
+Read more about SEC guidelines
+HIPAA
+Keepit’s solutions meet HIPAA’s retention requirements by securely storing data for up to 99 years, surpassing standard SaaS capabilities. This helps organizations retain compliance with healthcare regulations and maintain critical records. 
+Get our HIPAA e-book
+DORA
+In alignment with the EU’s DORA requirements, Keepit supports the financial sector with segregated backup systems (air gapped), granular recovery capabilities, and immutable data storage, ensuring business continuity and operational resilience. 
+Read more about DORA

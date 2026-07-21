@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/recover-outlook-notes/
+Content type: Web page
+Last modified: 2026-07-10T14:31:18+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Recover Outlook Notes
+Keepit backs up and restores Outlook Notes as EML files. After you restore, you may want to create a new note and copy the text of the restored file. This will make it easier to continue working with the file.
+Recreate the note from restored file
+1) Restore the note from Keepit. It will appear in your Notes as an EML file.
+1) Open the EML file.
+2) Copy the content of the file.
+3) Create a new note.
+4) Paste the content from the restored file to the new one.
+Now you will be able to edit the note and continue working with it.
+After you have created the new note and saved the copied content, you can delete the EML file.

@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/help/platform-category/why-connector-size-and-total-folder-sizes-may-not-match/
+Content type: Web page
+Last modified: 2026-06-18T10:40:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why connector size and total folder sizes may not match
+You may notice that the size of folders within a connector doesn't match the total connector size shown on the Connectors page. This discrepancy is due to hidden folders with system metadata—data used for technical purposes.
+So if you see a discrepancy in size, don't worry. All of your data is securely backed up and accessible, and this discrepancy is not a system error.

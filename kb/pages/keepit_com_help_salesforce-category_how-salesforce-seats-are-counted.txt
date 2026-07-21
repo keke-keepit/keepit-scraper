@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/help/salesforce-category/how-salesforce-seats-are-counted/
+Content type: Web page
+Last modified: 2025-12-01T17:11:03+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How Salesforce seats are counted
+Keepit sums up all used Salesforce and Salesforce Platform licenses across all connected Salesforce environments irrespective if the same user exists in multiple environments. The type of Salesforce environment (production or sandbox) does not matter.
+Important: Keepit will also back up the data of deactivated users.
+The number of used licenses can be found in the company information section of Salesforce setup (Setup > Company Settings > Company Information). 
+Example: Keepit is connected to a production and a sandbox environment.  
+The company information section of the production environment shows the following numbers:

@@ -1,0 +1,12 @@
+Source URL: https://www.keepit.com/resources/keepit-for-microsoft-entra-id-product-sheet/
+Content type: Web page
+Last modified: 2025-08-14T23:39:37+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Microsoft Entra ID
+Industry-leading coverage of Microsoft Entra ID
+Microsoft Entra ID holds identities and provides authentication and authorization for your organization’s critical SaaS applications. Losing its objects and policies — due to cyberattacks, accidental deletion, or outages — means disruption to your business and additional stress for you and your team.
+Awarded for its ease-of-use, Keepit’s leading coverage of Microsoft Entra ID ensures that your data is securely backed up in our vendor-independent cloud and can be recovered, or rolled back swiftly and accurately when incidents occur. It effectively minimizes the impact of data loss and eliminates the burden of rebuilding the Microsoft Entra ID environment.
+Read more by downloading the Keepit Backup and Recovery for Microsoft Entra ID product sheet.

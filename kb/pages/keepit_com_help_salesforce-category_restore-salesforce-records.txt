@@ -1,0 +1,34 @@
+Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-records/
+Content type: Web page
+Last modified: 2026-07-14T13:56:05+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Salesforce records
+Keepit provides two methods to restore your Salesforce records.
+Item restore
+Item restore allows you to restore records by browsing inside the connector. You can navigate the data structure and select specific records to restore.
+- Point to a record and click the restore icon.
+- Open a record and click the restore icon at the top-right of the File Previewer.
+- Select one or multiple records and click Restore in the toolbar.
+Notes:
+- Records restored via the connector browser can only be restored to the same Salesforce instance.
+- The snapshot used for restoration is chosen with the Snapshot Viewer.
+For more details, see: Restore Salesforce records via the connector browser
+Connector-level restore
+This allows you to restore from the top level of a connector without manually browsing the data hierarchy.
+The restore also lets you:
+- Restore records from multiple object types
+- Restore only specific fields of records
+- Anonymize fields
+- Restore records to a different location
+- to a different production environment
+- to a sandbox environment
+When using the connector-level restore, you have three ways to select records to restore:
+- Restore all records in the entire organization 
+ Restores all records in the selected snapshot. This option is only available when restoring to the same environment.
+- Manually select specific records
+ Allows to select one or more records from various object types.
+- Upload a CSV file
+ Allows to select records by specifying the record IDs in a CSV file.

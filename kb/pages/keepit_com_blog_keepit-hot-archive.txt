@@ -1,0 +1,51 @@
+Source URL: https://www.keepit.com/blog/keepit-hot-archive/
+Content type: Web page
+Last modified: 2026-07-20T09:38:00+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Hot Archive: Archive your SharePoint data without losing access to it
+SharePoint Online has a way of quietly becoming one of the biggest line items in a Microsoft 365 bill. Sites multiply, files accumulate, and before long you're paying production storage prices for data nobody has opened in years.
+Most of that data can't simply be deleted: It may be needed for reference, for audits, or simply because someone will ask for it eventually. So, it sits in production, and the costs keep climbing — both the direct storage costs once you exceed your included limits and the indirect cost of managing data that no longer earns its place.
+That's the problem Hot Archive is built to solve — and if you're already protecting SharePoint Online with Keepit for Microsoft 365, the solution is closer than you think.
+What is Hot Archive?
+Hot Archive is a new stand-alone add-on for Keepit for Microsoft 365 customers. It lets you move rarely used SharePoint Online data out of production and into long-term preservation within Keepit — while keeping it fully accessible via the Keepit platform’s always-hot storage. Hot Archive isn't a separate archiving product; it's an add-on capability built on top of the Keepit backup and recovery solution you already use.
+Here's how it works:
+- Identify the SharePoint sites or individual items you want to preserve
+- Archive the selected data into a dedicated archive connector in the Keepit platform
+- Stub the data from SharePoint production automatically
+- Remove SPO data via scripted operation or manually
+- Access it whenever you need it — browse, preview, download, and restore on demand
+The result: Your SharePoint production environment gets leaner and cheaper to run, and your archived data stays a few clicks away instead of disappearing into cold storage.
+Why “hot” matters
+Traditional archiving treats archived data as data you've set aside: it goes into cold storage, and getting it back involves friction. Microsoft's own archive tier for SharePoint is a good example. It's genuinely useful for what it does, but it's cold storage — content archived for more than seven days takes around 24 hours to reactivate, reactivation runs through the SharePoint admin center rather than the end user, and once you've reactivated content, you can't re-archive it again for several months.
+That friction is fine for data you're almost certain you'll never touch, but it's a real problem for data that's merely resting: the project that gets revived, the site legal suddenly needs, the files a returning customer asks about. Another detail to consider is that Microsoft’s archiving doesn’t include stubbing.
+With Keepit Hot Archive, archived data is still readily accessible. You can restore it on demand, and there are no restrictions on moving data between production and the archive. Your archive connectors appear in the Keepit platform alongside your connectors, with the preview, download, and restore capabilities you already know from Keepit for Microsoft 365.
+Why not just use Keepit backups?
+That's a fair question. The need is to reduce SPO production data volumes. As a Keepit for Microsoft 365 customer, your SharePoint data is already backed up, but today, everything follows the same retention, and everything stays in SharePoint production, where it keeps costing you money.
+Hot Archive changes that. Automated scans, ignore rules, and data selection features let you build dedicated archive connectors that hold only the data you've chosen, with their own retention. Then you can confidently remove that data from production — because you know exactly where it is and how to get it back without any friction.
+The result is that SPO production data volumes can be reduced without any reduction in accessibility to the archived data within Hot Archive.
+What do I need to run it?
+You need an active Keepit for Microsoft 365 subscription — Hot Archive builds on your existing SharePoint Online protection and isn't available as an independent product. Hot Archive is a customer-configurable module: Your team installs, configures, and runs it.
+What's next for Hot Archive?
+This release covers SharePoint Online, where storage costs bite hardest — and it's the first step in a bigger plan. We're building full archiving capabilities directly into the Keepit platform, with an iterative rollout starting in Q4 2026: no module installation, rule-based scanning with multiple parameters, full reporting and auditing, and the same experience as setting up any other connector. From 2027, we plan to expand coverage to other data sources.
+Frequently asked questions
+Is Hot Archive a preview, beta, or trial?
+No. Hot Archive is a fully functional, supported, and paid-for Keepit product, delivered as a stand-alone add-on module.
+Who is it for?
+Keepit for Microsoft 365 customers who need to preserve large amounts of SharePoint Online data and want to reduce their storage costs.
+Do I need to be a Keepit customer to use it?
+Yes. Hot Archive is an integral part of the Keepit backup and recovery solution, adding capabilities on top of your existing Keepit for Microsoft 365 functionality. It can't be purchased as an independent archiving solution.
+Are there any requirements on my side?
+Yes. Your team installs, configures, and runs the Hot Archive module, so you'll need internal technical skills and resources to operate it.
+How do I get started?
+Contact your Keepit representative. Our product team can support demos and discussions before you sign up.
+Are there fees to bring data back from the archive?
+No. Restore is on demand, and there are no restrictions on moving data between SharePoint production and your archive.
+Why pay for archiving when my data is already in my Keepit backups?
+Backups today don't distinguish between frequently used and rarely used data — and the data still sits in SharePoint production, costing you money. Hot Archive lets you build dedicated archive connectors with their own retention, holding only the data you select, so you can confidently remove it from production.
+Will my archive connectors show up in the Keepit platform?
+Yes. They appear like all other connectors. Some platform capabilities won't be available for archive connectors; this is fully documented.
+How is it supported?
+Like all Keepit products, Hot Archive is supported in line with the conditions of your service package.

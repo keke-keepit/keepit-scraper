@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/why-cant-i-reauthenticate-my-power-platform-dynamics-365-connector/
+Content type: Web page
+Last modified: 2026-07-04T00:50:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why can't I reauthenticate my Power Platform / Dynamics 365 connector?
+If you're encountering difficulties reauthenticating your Power Platform / Dynamics 365 connector, it's likely due to your use of an outdated version of the Keepit application in Microsoft.
+To successfully reauthenticate, you'll need to first delete the old app from Microsoft, then you can grant permission for the new one.
+Delete an old Keepit app from Microsoft
+Follow these steps to delete the old app:
+Important: To reauthenticate a connector, the user have the appropriate admin roles.
+1. Sign in to the Microsoft 365 admin center.
+2. Under Admin centers, select Microsoft Entra.
+3. Select Enterprise applications and then click on the Keepit Dynamics CRM app.
+4. In the Delete Application section, click the View properties link.
+5. Select Delete.
+6. Back in Keepit, click the "Your connector needs to be reauthenticated" status.
+7. Select Accept to grant updated permissions for the app.
+Note: The "Your connector needs to be reauthenticated" status will disappear only after the next backup will start.

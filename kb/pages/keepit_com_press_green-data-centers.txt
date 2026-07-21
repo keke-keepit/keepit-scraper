@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/press/green-data-centers/
+Content type: Web page
+Last modified: 2025-08-19T23:57:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Completes Mission to Power All of its Data Centers in the Americas and EMEA with 100% Renewable Energy
+Keepit Gets the Jump on Tech Industry Giants Looking to Operate Eco-Friendly Data Centers
+COPENHAGEN, DENMARK – March 14, 2023 – Keepit, the market leader in cloud data protection and management, announced today that all of its data centers located in the Americas and EMEA are now powered by 100% renewable energy. Keepit operates 10 data centers across the U.S., Canada, Germany, the UK, and Denmark. The data centers are powered by energy sources that fall under local renewable energy guarantee schemes: GoOs (Guarantees of Origins) in the EU, REGOs (Renewable Energy Guarantees of Origin) in the UK, and RECs (Renewable Energy Certificates) in the U.S. and Canada.
+Keepit’s move to power its data centers with 100% renewable energy is part of a growing trend among tech’s biggest players to use clean energy wherever possible. Keepit reached this important green energy milestone ahead of other cloud-based backup vendors who store customer backups with Microsoft, Amazon, and Google. The three tech giants aim to become 100% emission-free between 2025 and 2030.
+“Powering our data centers with clean energy has always been a priority for Keepit, so we’re proud to have reached this important goal of executing on our mission to be an ecologically responsible company,” said Jakob Østergaard, Keepit's CTO.” “Providing our customers with cost-effective and reliable cloud-based backup and recovery solutions is made even more appealing to customers by knowing we’re delivering on our commitment to operate carbon-free.”
+Keepit recognizes the importance of limiting the environmental impact of cloud service operations and that reducing the carbon footprint is an important step in addressing the issue. “In addition to providing the best cloud backup solution out there, Keepit wants to set an example for the industry to show that it is indeed not just possible, but feasible in every way — including financially — to move to fully renewable energy for powering our data centers,” Jakob Østergaard said.
+About Keepit
+Keepit is a software-as-a-service company that provides dedicated data protection for companies with data stored in the cloud. Keepit is the world’s only vendor neutral and independent cloud dedicated to SaaS data protection.
+Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. For more information visit www.keepit.com or follow Keepit | LinkedIn.
+Media Contact:
+Katrine Palsby, Keepit
+press@keepit.com

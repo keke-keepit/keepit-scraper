@@ -1,0 +1,50 @@
+Source URL: https://www.keepit.com/help/platform-category/backup-schedule-and-frequency-faqs/
+Content type: Web page
+Last modified: 2026-06-23T21:00:49+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup schedule and frequency FAQs
+How often does the backup run and how are backup jobs are scheduled?
+Keepit schedules two backups per day by default. The backup jobs are scheduled automatically to run every 12 hours.
+- If a backup job lasts less than 12 hours, the next backup will be scheduled 12 hours from the start of the prior backup.
+- If a backup jobs lasts longer than 12 hours, the next backup will begin as soon as the prior job completes.
+For example, if a backup job starts at 8 a.m. and lasts less than 12 hours, the next backup job will be scheduled for 8 p.m. If a backup job starts at 8 a.m. but lasts more than 12 hours, for example 14 hours, the next backup job will be scheduled to begin as soon as the prior backup job completes. This means the next backup job should start at 10 p.m. The following backup job will be scheduled for 10 a.m.
+If a backup job requires an extended time to complete, Keepit automatically creates a partial snapshot every 4 hours until the full dataset is backed up.
+For more about partial snapshots, see: What are partial snapshots?
+When does the first backup start?
+Your backup will be scheduled immediately after you configure your connector.
+How can I check if the backup is running?
+Connectors page
+You can easily check if your backup is running from the Connectors page.
+Here you'll see when the last backup was completed and how many backups were made in the last 48 hours.
+If a backup is currently in progress, you will see the percentage progress as well as how much data was backed up in the last 24 hours. Keep in mind that it will show a negative number if the user reduces the size of the backup dataset.
+Job monitor
+You can also track backup progress in the Job Monitor.
+Here you can also see when all past jobs started and ended, and you can open the backup report to get more details.
+Data Protection Dashboard
+During the initial backup, you can monitor its progress on the Data Protection dashboard. A label labeled "Initial Backup" will display the backup's progress as a percentage.
+Once the first snapshot—whether full or partial—is made, coverage insights will begin to appear.
+What factors affect backup frequency?
+Keepit typically schedules two backup jobs per day. However, the actual number of backup jobs and their duration can vary depending on a range of factors. Here’s an overview of what can impact the frequency and speed of your backups:
+Different stages of a backup
+Keepit has two different stages of a backup:
+- Initial backup stage: During the initial stage, all selected data is backed up for the first time, which can take several days or even weeks depending on the data volume. In this stage, usually a single backup job is running throughout the onboarding period.
+- Incremental backup stage: After the initial backup, the system moves to incremental backups, capturing only changes made since the last backup. Incremental backups are typically faster and align with the environment’s defined schedule.
+Duration of backup jobs
+Backup job durations vary. Since two jobs are scheduled per day, each job should ideally complete within 12 hours. However, if a job takes longer, fewer backup jobs may be completed in a 24-hour period.
+Changes to connector configuration
+Adjusting your connector settings can impact backup frequency. For example, if you add a new data type after the onboarding stage, Keepit must perform an initial backup for this new data, which can extend the duration of subsequent backup jobs. Meanwhile, previously configured data types continue with incremental backups.
+External factors
+Several external factors outside of Keepit’s control can affect backup performance:
+- Throttling: Common in cloud environments, throttling slows down data processing. Although Keepit continuously optimizes to minimize throttling, severe throttling can delay or even halt a backup job.
+- Cloud service maintenance: Scheduled or unscheduled maintenance by the cloud provider can impact backup timing.
+- Provider-side errors: Errors from the cloud service provider can disrupt backup operations.
+- Customer setup and data migration: If your data is being actively migrated, backup performance may vary.
+Changes in cloud data
+Even after the initial backup, if data is still in the process of migration, new data added to your environment can lead to larger backups than expected during incremental stages.
+Variation in data types and volume
+The types and amount of data being backed up affect backup performance:
+- Data variety: Data type-specific factors can influence backup speed.
+- File size and quantity: Large numbers of small files take longer to back up because each file is processed individually. Although Keepit maintains a high data throughput, backup speed may appear slower when handling numerous small files.

@@ -1,0 +1,97 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Swisscontact-Use-Case-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+Customer case
+Swisscontact 
+chooses Keepit to 
+safeguard critical data
+
+Stringent data protection requirements 
+Swisscontact operates in multiple regions with 
+varying regulatory requirements. Microsoft 
+365 serves as the backbone for the company’s 
+infrastructure, enabling it to operate efficiently 
+and focus on their mission of fostering sustainable 
+development. Keepit provides extensive 
+coverage for all key workloads in Microsoft 365, 
+including Exchange Online, OneDrive, SharePoint 
+and Teams.  
+The company’s projects often involve sensitive 
+data, including personal information and financial 
+records, which means stringent data protection 
+measures are paramount. Swisscontact required 
+a solution that ensured the confidentiality, 
+integrity, and availability of their Microsoft 365 
+data. Compliance with regulations such as GDPR, 
+as well as safeguarding against data incidents 
+and cyber threats, were other important criteria 
+considered during the procurement process.
+“Swisscontact is committed to transparency 
+and accountability. This means we must always 
+ensure data integrity and security.”
+- Richard Schweizer, 
+Senior ICT Manager at Swisscontact
+Customer case:
+Swisscontact
+Swisscontact, a leading international development organization that promotes economic, social, 
+and environmental development, chose Keepit as a backup and recovery partner to secure its 
+business-critical data, ensure data integrity and remain compliant. Keepit’s data centers in 
+Switzerland ensure that Swisscontact can trust their processes align with legal requirements.
+
+About Swisscontact
+Swisscontact is an independent, nonprofit 
+development organization established in 1959 by 
+representatives of the Swiss private sector and civil 
+society. Its work focuses on private sector-led, 
+sustainable economic development and improved 
+quality of life for all in developing and emerging 
+countries. A key focus is to strengthen the skills 
+of individuals and foster the competitiveness of 
+businesses.
+“Our primary goal was to find a service that 
+could ensure the safety and integrity of our data, 
+especially given the increasing complexity of 
+our IT environment and the critical nature of our 
+operations,” explains Richard Schweizer, Senior 
+ICT Manager at Swisscontact.
+Swiss data centers help to ensure data 
+sovereignty  
+By storing data locally within Switzerland, Keepit 
+ensures compliance with Swiss data protection 
+laws and regulations. This is crucial for Swisscon-
+tact, as it guarantees that its data management 
+practices align with all legal requirements.
+Keepit provides vendor-independent backup and 
+recovery, storing customer data in seven different 
+data center regions across the globe. Customer 
+data is always available, secure and compliant.
+Ease of use and favorable cost 
+As a nongovernmental organization with limited 
+financial resources,  Swisscontact benefited from 
+Keepit’s per-seat pricing structure. The flat rate 
+includes unlimited data storage, and there are no 
+additional fees for ingress, egress or data transfer. 
+“Keepit provided their backup solution at a very 
+favorable rate, enabling us to implement robust 
+data protection measures without straining our 
+budget,” adds Richard Schweizer, Senior ICT 
+Manager at Swisscontact.  The company also 
+appreciated the user-friendly interface and ease 
+of recovery.  
+Customer case:
+Swisscontact
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+“Keepit’s intuitive interface has made it 
+easier for our team to manage backups and 
+recoveries efficiently.”
+- Richard Schweizer, 
+Senior ICT Manager at Swisscontact

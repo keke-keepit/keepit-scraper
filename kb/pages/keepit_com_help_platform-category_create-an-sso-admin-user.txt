@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/help/platform-category/create-an-sso-admin-user/
+Content type: Web page
+Last modified: 2026-06-23T23:10:31+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create an SSO Admin user
+In the process of setting up SSO, we recommend that the Master Admin create an SSO Admin – a dedicated user who has permission to access the SSO configuration. SSO is never enabled for the SSO Admin so he can always sign in to the account with his Keepit credentials. This will ensure that the Master Admin and other users will not get locked out of their account in case SSO is configured incorrectly or an SSO certificate expires.
+Create an SSO Admin
+1. In the lower-left corner, select your account profile > Account info.
+2. Select the Users tab and in the toolbar click the + (plus) icon.
+3. Enter a username and email.
+4. Select the SSO Admin role.
+5. Choose whether to send an activation email.
+- If you leave Send activation email enabled, the user will receive an email with a set password link.
+- If you disable Send activation email, you must enter a password.
+6. Optional: Set an expiration date.
+7. Optional: Enable messages to be sent to the user.
+The user will receive emails and in-app messages with account activity, including updates on backup and restore activity.
+8. Select Next.
+9. On the connector access step select Next.
+An SSO admin cannot have access to connectors.
+10. Review the user details and settings, and then select Create.

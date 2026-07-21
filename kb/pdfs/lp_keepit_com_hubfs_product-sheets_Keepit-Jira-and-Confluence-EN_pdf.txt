@@ -1,0 +1,108 @@
+Source URL: https://lp.keepit.com/hubfs/product-sheets/Keepit-Jira-and-Confluence-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 2
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery 
+for Jira and Confluence
+Automated backups and swift recovery in a vendor-independent platform
+Jira stores critical project management data such as issues, workflows, and sprint plans, while Confluence 
+holds documentation and knowledge bases. Due to limited native backup capabilities, a data loss incident 
+may disrupt operations, delay projects, reduce team productivity, or result in non-compliance and loss of 
+critical organizational knowledge.
+Awarded for its ease-of-use, Keepit ensures that Jira and Confluence cloud data is securely backed up and 
+can be recovered swiftly and accurately when incidents occur. Keepit effectively minimizes the impact of 
+data loss and eliminates the burden on your teams.
+Unified visibility
+A single pane of glass for all backups 
+across critical SaaS applications, 
+provides transparency, visibility, and 
+easy reporting for managers and 
+leadership.
+Assured data integrity
+With Keepit, you’re certain that 
+your backups are immutable. They 
+can’t be modified or deleted. 
+Stored in our vendor-independent 
+cloud, your data remains 
+accessible at all times.
+Time-saving usability
+Easy to implement and intuitive, 
+Keepit requires minimal expertise 
+to use while delivering confidence 
+in your ability to swiftly recover your 
+data whenever you need it.	
+“Keepit was ultimately recommended by our 
+engineers after a thorough evaluation. I wanted 
+to have the recommendation from my engineers 
+as they’re the ones working with it every day.”
+Matthias Gutt – Head of Digital Innovation and Smart Enterprise at LAPP
+Keepit for Jira and Confluence are sold separately.
+
+KEY CAPABILITIES
+Flexible restore options 
+Restore objects in bulk or granularly to 
+guarantee fast and precise recovery.
+Compliance and reporting 
+Easily document and prove 
+compliance with backup 
+requirements and data protection 
+efforts.
+Outstanding support 
+Included in all subscriptions, Keepit 
+support is there for you whenever you 
+need it.
+Unlimited retention 
+Customize retention for up to 99 years 
+with no extra costs. 
+Proactive monitoring 
+Data Protection and Anomaly 
+Detection Dashboards help maintain 
+backup integrity and health and allow 
+for early identification, investigation, 
+and remediation of risks to data.  
+JIRA COVERAGE
+CONFLUENCE COVERAGE
+Find out how simple 
+and easy it is to use Keepit
+Book a demo
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+General: Sprints, Boards, Dashboards, Plans 
+(roadmaps),Filters, Permission schemes, Notification 
+schemes, Priority schemes, Statuses, Service desk 
+organizations, Users*, Groups, Time tracking and Compass 
+components*
+Projects and Configurations: Project, Avatar, Components, 
+Categories, Features, Roles and Versions. Screens, Tabs, 
+Tab fields, Schemes
+Issues: Issue, Attachments, Comments, Fields, Field 
+configurations, Field configuration schemes, Links, Link 
+types, Priorities, Property keys, Remote links, Types, Type 
+schemes, Type screen schemes, Watchers
+Workflows: Workflow, Workflow schemes and Workflow 
+schemes drafts
+We continuously extend our capabilities. 
+Find the complete, current coverage here
+We continuously extend our capabilities. 
+Find the complete, current coverage here
+General: Users*, Groups, Group members, 
+Templates, Blueprints
+Pages: Page, Version history, Restrictions, Content, 
+Content version history, Child pages, Footer 
+comments and replies Footer comments version 
+history and replies, Inline comments and replies*, 
+Inline comments version history, Attachments and 
+version history
+Spaces: Space, Permissions, Properties .
+Blog posts: Blog post, Version history, Restriction, 
+Content and version history, Footer comments 
+and version history, Footer comment replies and 
+version history, Inline comments and replies*, Inline 
+comments version history, Attachments and version

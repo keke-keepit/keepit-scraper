@@ -1,0 +1,39 @@
+Source URL: https://www.keepit.com/help/entra-id-category/restore-an-entra-id-service-principal/
+Content type: Web page
+Last modified: 2026-07-03T23:56:40+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore an Entra ID service principal
+Restoring a service principal will update application properties and reestablish links to its owners, users, and groups.
+Restore a service principal
+1. In your connector, find the service principal you want to restore.
+2. Optional: If you want to restore an item from an earlier point in time, open the Snapshots Viewer. Then select the appropriate snapshot.
+3. Point to the item and click ••• > Restore.
+4. Select whether to restore the related app registration.
+- Restore only service principal - Only the service principal will be restored. Then it will be linked to the existing app registration.
+- Also restore related app registration - The related app registration will also be restored. If the app registration still exists, the app will be updated. If the app registration is missing, we will create it. Then we will restore the service principal and link it to the app registration. 
+ Note: Restoring a related app registration from a different tenant is not supported.
+5. Review the summary and select Restore.
+What happens when a service principal is restored
+Properties updated
+Restoring a service principal will update application properties.
+Relationships reestablished
+Restoring a service principal will reestablish the following relationships:
+- Assignments - links to users and groups that are assigned to this service principal will be restored
+- Owners - links to users who are owners of this service principal will be restored.
+Note: A relationship can be reestablished only if the linked object exists in Entra ID.
+New ID
+- If the service principal has been soft deleted (the service principal remains in the recycle bin for 30 days), it will be restored with its original ID.
+- If the service principal has been permanently deleted, it will be restored with a new ID.
+This diagram shows the relationships that are restored:
+Limitations
+Due to API limitations, we do not back up or restore the following:
+- Roles and administrators
+- Single sign-on
+- Self-service
+- Permissions
+Permissions
+To ensure the application works properly, grant the permissions requested by the application after you restore the service principal.
+In Entra ID, open the service principal, then click Permissions. Click the button Grant admin consent.

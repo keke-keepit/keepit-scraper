@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/restore-power-automate-cloud-flows/
+Content type: Web page
+Last modified: 2026-07-04T00:43:02+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Power Automate cloud flows
+Before you begin, ensure the cloud flow is part of the Microsoft solution.
+Restore a Power Automate cloud flows
+1. Open your Power Platform / Dynamics 365 connector.
+2. Navigate to Power Automate > Cloud Flows.
+3. Optional: If you want to restore an item from an earlier point in time, open the Snapshots Viewer and select the appropriate snapshot.
+4. Point to the desired cloud flow and select ••• > Restore.
+5. Click Yes to start the restore.

@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/press/porsche-holding-salzburg-selects-keepit/
+Content type: Web page
+Last modified: 2025-08-15T00:32:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Porsche Holding Salzburg Selects Keepit for Ransomware Protection
+Keepit Will Provide Company with SaaS Cloud Data Protection on a Global Scale
+Copenhagen, Denmark – November 9, 2022 – Keepit, the market leader in cloud backup and recovery, today announced that it has been selected by Porsche Holding Salzburg to provide the company with its industry-leading SaaS data backup solution designed to guard against growing ransomware threats. Keepit is the world’s only independent, vendor-neutral cloud dedicated to Software-as-a-Service (SaaS) data protection with a blockchain-verified solution.
+“We are pleased that our data centers meet Porsche Holding Salzburg’s stringent data storage requirements, and to be the company’s provider for cloud data backup and recovery,” said Frederik Schouboe, Keepit CEO.
+Keepit is uniquely positioned in the SaaS data protection market, and we are proud to support Porsche Holding Salzburg as it seeks to defend against the increasing ransomware threats.
+Frederik Schouboe
+Keepit CEO
+“More and more companies are being affected by ransomware globally. We were searching for a SaaS solution, and we didn’t want to back up all the data on-premise. By working with Keepit, we now have a solution if a ransomware event ever impacts Porsche Holding,” said Andreas Fackler, system engineer at Porsche Informatik, a subsidiary of Porsche Holding Salzburg. “After researching the SaaS data backup solutions available, Keepit’s user-friendly, transparent backup and recovery process was the most appealing option. Keepit’s per user pricing model makes it simple and cost-effective to manage accounts, and its simple, easy-to-use cloud backup delivered what we were looking for.”
+Keepit follows the 3-2-1 principle of backup, where 2 copies of data are stored at separate locations, and one copy is backed up in an off-site, private cloud. This principle ensures that each customer’s data can survive any calamity, making it impenetrable to ransomware and accidental deletion.
+Porsche Holding Salzburg is the largest and most successful automotive distributor in Europe. The Salzburg-based company was founded in 1947 and operates today in 22 countries throughout Europe, as well as in Colombia, Chile, China, Malaysia, Singapore and Japan. After migrating from a locally installed, on-premise mail system to the cloud, Porsche Holding sought a scalable, SaaS cloud backup solution that would secure its 30,000 user accounts and safeguard against data loss.
+“Keepit’s European-based data centers were a key consideration during Porsche Holding’s research and selection process as we sought a cloud backup and recovery solution,” said Michael Bojko, system engineer at Porsche Informatik.
+"Additionally, we felt perfectly supported during our quick, one-week onboarding process. We have also been very satisfied with the continuing customer service, as we always get an answer when we have questions. The Keepit team is trustworthy and friendly, and working with them has been a pleasure."
+Michael Bojko
+System engineer at Porsche Informatik
+As a software company specializing in cloud data backup and recovery for SaaS, Keepit has more than 20 years of experience in building best-in-class data protection services at scale. Founded in 2007 by data hosting entrepreneurs Frederik Schouboe and Morten Felsvang, Keepit’s primary mission is simple: to help companies around the world protect and manage their cloud-based data.
+About Keepit
+Keepit is a Software-as-a-Service company that provides dedicated data protection for companies with data stored in the cloud. Keepit is the world’s only vendor neutral and independent cloud dedicated to SaaS data protection based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Azure AD, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. For more information, visit www.keepit.com or follow Keepit | LinkedIn.
+About Porsche Holding Salzburg
+Porsche Holding Salzburg: Porsche Holding GmbH has been a 100 % subsidiary of Volkswagen AG since March 2011, concentrating on wholesale, retail, automobile financing services and in-house IT system development.â¯The Salzburg-based company was founded in 1949, and operatesâ¯in 22 countries throughout Europe as well as in Colombia, Chile, China, Malaysia,â¯Singapore and Japan. At the end of 2021, the company employed a workforce of 34,000, selling more than 674,800 new vehicles and generating a turnover of 24.2 billion euros.

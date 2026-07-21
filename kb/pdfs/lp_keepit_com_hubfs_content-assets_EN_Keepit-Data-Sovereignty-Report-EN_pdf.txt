@@ -1,0 +1,1761 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Data-Sovereignty-Report-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 38
+Retrieved: 2026-07-21
+
+============================================================
+
+Data sovereignty report  |  1
+© 2025 Keepit. All rights reserved
+Data sovereignty report  |  1
+© 2025 Keepit. All rights reserved
+Data 
+sovereignty
+Take control of your data
+
+Data sovereignty report  |  2
+© 2025 Keepit. All rights reserved
+Contents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           2
+Introduction 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+          3
+About this report.................................................................................................................................4
+What is data sovereignty? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           6
+Data residency is a key aspect of digital sovereignty...........................................................................8
+Why data sovereignty matters  
+ 
+ 
+ 
+ 
+   
+ 
+        10
+Geopolitics and hyperscaler dominance...........................................................................................10
+Digital sovereignty as a legal protection mechanism.........................................................................13
+Secondary factors driving digital sovereignty initiatives...................................................................14
+Questions IT leaders need to ask 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17
+Regional perspectives 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         19
+United States......................................................................................................................................19
+Europe................................................................................................................................................19
+Rest of the world................................................................................................................................19
+National snapshots 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       20
+United States of America....................................................................................................................21
+Canada................................................................................................................................................22
+United Kingdom.................................................................................................................................23
+Australia.............................................................................................................................................24
+Switzerland........................................................................................................................................25
+Germany............................................................................................................................................26 
+Denmark............................................................................................................................................27
+France...............................................................................................................................................28
+The road ahead 
+ 
+ 
+ 
+ 
+ 
+ 
+      
+ 
+ 
+       30
+Eight trends to monitor in digital sovereignty......................................................................................31
+An action plan for sovereignty and control.......................................................................................33
+Conclusion  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       36
+How Keepit supports digital sovereignty..........................................................................................36
+Selecting the right data protection partner.......................................................................................37
+Data sovereignty
+Take control of your data
+
+Data sovereignty report  |  3
+© 2025 Keepit. All rights reserved
+Introduction
+Data sits at the center of both the biggest risks and the biggest opportunities facing your organization. 
+CISOs and CIOs are responsible for safeguarding data with robust protections while also ensuring it’s 
+available — in the right forms, to the right people, at the right time — to power both day-to-day operations 
+and innovation initiatives.
+For a number of reasons — including an unpredictable geopolitical landscape, the market dominance 
+of a handful of hyperscalers, stricter privacy regulations, and uptime/availability requirements — digital 
+sovereignty has rapidly emerged as a strategic priority. And data sovereignty, a necessary element 
+of digital sovereignty, is driving organizations to take a closer look at cloud architectures, vendor 
+dependence, the supply chain and use of sub-processors, and compliance requirements.
+At a glance, digital sovereignty may seem to fall squarely under the purview of CISOs and legal counsel; 
+however, its significance to your organization is such that digital sovereignty is more accurately regarded 
+as a business issue of the utmost importance.
+The world is changing, and — like it or not — these 
+changes are forcing CEOs and boards to make 
+decisions that have profound consequences.
+For Keepit, digital sovereignty isn’t a theoretical 
+ideal — it’s a cornerstone of our philosophy and 
+our technology.
+For more than 20 years, we’ve provided 
+dedicated data protection, putting organizations 
+in control of their own SaaS data. We own and 
+operate a vendor-independent cloud, with 
+no-transfer guarantees, to protect critical data 
+across platforms like Microsoft 365, Microsoft 
+Entra ID, Salesforce, and Google Workspace.
+For IT leaders, this means autonomy: knowing 
+exactly where your data is, who is handling it, and 
+how it is being protected — free from third-party 
+influence.
+In an era where political alliances change 
+at the whim of mercurial leaders, creating 
+and amplifying sovereignty risks, Keepit 
+collaborates with our customers to implement 
+best practices, stay ahead of emerging threats, 
+and continuously improve data governance 
+strategies.
+This document is one outcome of those 
+collaborative conversations.
+
+Data sovereignty report  |  4
+© 2025 Keepit. All rights reserved
+This report is intended for chief executive officers (CEOs), chief information officers (CIOs), chief 
+information security officers (CISOs), chief operating officers (COOs), chief data officers (CDOs), and 
+other leaders with a responsibility for governance, risk, and compliance (GRC) within organizations with 
+international activities.
+What this report covers:
+•
+What digital sovereignty is, the three elements that comprise it, and why data sovereignty is often the most 
+challenging of those elements to achieve
+•
+Why data sovereignty has become an important and urgent requirement for organizations with international 
+operations and customers
+•
+Critical questions that leaders must ask and answer to achieve digital sovereignty
+•
+Regional perspectives for the United States, Europe, and the rest of the world
+•
+National snapshots outlining key data sovereignty threats, the current regulatory and legal landscape, and 
+guidance and expert resources for eight countries
+•
+Major trends that will continue to influence digital sovereignty initiatives
+•
+An action plan for keeping control of your data, regardless of platform or provider
+About this report
+
+Data sovereignty report  |  5
+© 2025 Keepit. All rights reserved
+.
+y
+What is data 
+sovereignty?
+01
+
+Data sovereignty report  |  6
+© 2025 Keepit. All rights reserved
+A key element of digital sovereignty
+Sovereignty means autonomy; that is, freedom from external control.
+Digital sovereignty encompasses (in fact, requires) control over digital infrastructure, including data, 
+operations, and technology (Figure 1). It’s about an entity’s ability to manage and control its digital 
+environment — the freedom to store and run workloads wherever desired, for whatever reason (e.g., 
+performance, resilience, compliance, etc.) — ensuring autonomy in the cyber realm. Digital sovereignty 
+mitigates the risks associated with foreign data control or influence and consequently is a strategic 
+imperative for aligning with regulatory frameworks within geographic boundaries.
+Data sovereignty refers to the legal and regulatory control that a country or region has over data generated 
+or residing within its borders. It dictates how data can be used, who can access it, and which laws apply to 
+its handling. Data sovereignty ensures that data is subject to the laws of the country of origin.
+Key takeaways:
+• Data sovereignty refers to the legal and regulatory control over data, and is of 
+vital importance for most organizations working on digital sovereignty.
+• Digital sovereignty is a broad concept encompassing control over digital 
+infrastructure — including data, hardware, and software.
+• Data residency, which refers to the physical (geographic) location 
+of data, is a key aspect of digital sovereignty.
+What is data sovereignty?
+
+Data sovereignty report  |  7
+© 2025 Keepit. All rights reserved
+Creation
+Storage
+Archival
+Usage
+Deletion
+Figure 2 – Simple representation of the data lifecycle (note that some models include 
+additional intermediate stages, particularly around data processing or transformation)
+Common data forms
+Some of the most common and sensitive forms of data are:
+•	 Intellectual property including trade secrets, algorithms, business 
+process details, source code, and customer lists
+•	 Internal and external communications, including text or chat messages, emails, 
+voice calls, and videoconference recordings and transcripts
+•	 Employee, customer/client, and third-party service provider data including personally identifiable 
+information (PII), personal health information (PHI), and payment card information (PCI)
+•	 Operational telemetry and sensor data, such as security events and 
+capacity, performance, or load distribution data
+•	 Identity and access management (IAM) data, including keys, tokens, and credentials
+For most organizations pursuing digital sovereignty, achieving data sovereignty is the largest challenge. 
+There are a number of reasons why this is the case, including:
+•	 Today’s organizations work with massive volumes of data.
+•	 Data exists in a wide range of forms, many of which are subject to regulatory requirements pertaining to 
+privacy and security.
+•	 Modern IT environments include complex combinations of public and private clouds, software-as-a-service 
+(SaaS) applications, and on-premises infrastructure — plus local storage on devices such as laptops and 
+mobile phones.
+•	 Data is very easy to move, and tends to move around a lot during its lifecycle (Figure 2).
+•	 Where data is stored or processed, what paths it traverses when it’s moved or used, and which companies play 
+a role in these activities are often opaque.
+Data
+Operations
+Technology
+Components of digital infrastructure
+Figure 1 – Achieving digital sovereignty requires control over the three components of digital infrastructure
+What is data sovereignty?
+
+Data sovereignty report  |  8
+© 2025 Keepit. All rights reserved
+Real case
+RETAIL
+Private enterprise  |  France and Austria
+EU Retail Website
+• Problem: After Austrian and French DPAs ruled 
+against Google Analytics, the retailer faced 
+unlawful transfers.
+• Decision: They switched to an EU-hosted 
+analytics provider.
+• Outcome: Customer tracking continued 
+without privacy regulator exposure.
+ Source: Austrian/French DPA rulings
+Data localization 
+requirements
+Internal policies
+Contractual 
+obligations
+Data residency
+Data sovereignty
+Figure 3 – Data sovereignty, a requirement of digital sovereignty, 
+is itself shaped by several factors
+Data residency refers to the physical location(s) 
+where data is stored, processed, or otherwise 
+handled.
+Data residency is a key aspect of data sovereignty, 
+for the straightforward reason that data residency 
+often determines data sovereignty. That is, where 
+data is held or used strongly influences — or even 
+entirely dictates — associated legal obligations.
+Moreover, today’s IT environments and data flows 
+can be so complex that accurately understanding 
+data residency can itself present a significant 
+challenge. For example, data may be collected in 
+one country, processed by a third party in another 
+country, stored in another country, and backed up in 
+yet another country. The data in such a scenario can 
+be considered to reside in four countries, with four 
+associated sets of data sovereignty obligations.
+It’s also important to note that data residency is 
+distinct from (but related to) data localization, with 
+the latter referring to a legal requirement that data 
+stay where it was created (or acquired). Where data 
+localization laws apply, the causal chain extends 
+one step further back: Data localization determines 
+data residency, which then determines data 
+sovereignty.
+However, data residency requirements need not 
+come from data localization requirements — many 
+data residency requirements come from an 
+organization’s internal policies or contractual 
+obligations (Figure 3).
+What is data sovereignty?
+Data residency is a key aspect of digital sovereignty
+
+Data sovereignty report  |  9
+© 2025 Keepit. All rights reserved
+.
+y
+Why data 
+sovereignty 
+matters
+02
+
+Data sovereignty report  |  10
+© 2025 Keepit. All rights reserved
+Hyperscalers are companies that provide — with considerable flexibility and extreme scale — cloud 
+computing resources including processing, memory, networking, and storage.
+As organizations around the globe increasingly focus on core competencies, work with ever-expanding 
+volumes of data, and explore data- and compute-intensive innovations, hyperscalers have emerged as a 
+major foundation of much of the digital world.
+However, by outsourcing much of what used to be done by in-house IT teams — including building, 
+maintaining, and operating data centers or managing on-premises applications — organizations have 
+collectively ceded tremendous control to a small number of international players. As a result of these 
+Why data sovereignty 
+matters
+Key takeaways:
+• Major reasons why data sovereignty is becoming a strategic imperative include a rapidly changing 
+(and seemingly unpredictable) geopolitical landscape, dependence upon a handful of dominant 
+hyperscalers, stricter privacy regulations, and availability and recovery requirements.
+• Organizations routinely find themselves caught between foreign laws or regulations 
+that compel data access (e.g., under the guise of national security interests) and local 
+laws or regulations that demand data protection (e.g., to preserve privacy).
+• Data sovereignty provides some degree of immunity against foreign laws and regulations, 
+while also promising greater resilience in the face of hybrid warfare and supply chain 
+threats, plus stronger compliance with availability and recovery obligations.
+
+Data sovereignty report  |  11
+© 2025 Keepit. All rights reserved
+decisions, organizations have (often unknowingly) traded technical complexity for legal complexity.
+Geopolitics and hyperscaler dominance
+Geopolitics and hyperscaler dominance bring data sovereignty to the forefront. 
+As of November 2024, 97% of the cloud infrastructure and platform services market was dominated by US 
+and Chinese hyperscalers:
+Unfortunately, the global cloud market is not just about technology — increasingly, it’s about politics and 
+control.
+Dependency upon these few players leaves organizations worldwide vulnerable to political shifts and 
+foreign legislation, and today’s organizations find themselves caught between:
+•	
+National security and law enforcement acts (e.g., the United States’ Clarifying Lawful Overseas Use of Data Act or 
+the CLOUD Act) that compel access to data, even if it resides in foreign datacenters
+•	
+Privacy regulations (e.g., the European Union’s General Data Protection Act or GDPR) that require organizations 
+to prevent data from being accessed by, among others, foreign entities
+As a concrete example of this challenging and shifting regulatory landscape, the EU’s landmark Schrems 
+II ruling issued in July 20201 invalidated the EU-US Privacy Shield framework, in part because of a 
+determination that US laws2  had several shortcomings that impeded the protection of personal data and 
+violated the GDPR.
+Until its 2020 demise, the Privacy Shield codified an adequate level of protection against the personal data 
+of EU citizens being accessed by the US government and its various agencies. Now, however, EU-based 
+1 July 16, 2020: Case C-311/18 Data Protection Commissioner v Facebook Ireland and Maximillian Schrems
+Share of global market for cloud infrastructure and platform services
+Five US providers (Amazon Web Services, Google, Microsoft, Oracle, and IBM) account for more than 83% of the global market. 
+Three Chinese providers (Alibaba, Huawei, and Tencent) account for more than 13%.
+Why data sovereignty matters
+2 In particular: US Foreign Intelligence Surveillance Act (FISA) Section 702, Executive Order 12333, and Presidential Policy Directive 28
+
+Data sovereignty report  |  12
+© 2025 Keepit. All rights reserved
+organizations that conduct business in the US do so under a cloud of uncertainty, with no clear guidance as 
+to how to continue such operations without running afoul of GDPR.
+Privacy concerns reached new heights in June 2025 when, in testimony before the French Senate, Microsoft 
+conceded that the CLOUD Act meant that the company could not guarantee that even data stored outside 
+the US would be inaccessible to US authorities.
+For organizations around the world, these revelations raised serious questions about the potential 
+illegality of using cloud services operated by US companies to process or store data protected by privacy 
+regulations, especially in the public sector and highly regulated industries such as healthcare and finance.
+As just one of many examples available, shortly after the Schrems II ruling, France’s data regulator 
+(Commission nationale de l’informatique et des libertés, or CNIL) recommended that French services 
+handling health data avoid using US cloud providers.
+Why data sovereignty matters
+France Health Data Hub
+• Problem: After Schrems II, regulators 
+questioned the use of US-based cloud 
+for sensitive health research data.
+• Decision: The government investigated 
+shifting workloads to EU-based 
+providers bound only by EU law.
+• Outcome: Raised industry-wide 
+awareness that sovereignty is not 
+theoretical — it dictates vendor eligibility.
+Source: CNIL / French regulator statements
+Real case
+Public sector  |  France
+HEALTH
+
+Data sovereignty report  |  13
+© 2025 Keepit. All rights reserved
+Tellingly, the recommendations extend beyond not using US providers to process data: The CNIL went 
+as far as recommending that French companies that handle health data should altogether avoid doing 
+business with US-based companies. As TechCrunch reported, “It’s not just about processing European 
+data in Europe,” it’s “all about avoiding falling under US regulation and rulings.”
+Digital sovereignty as a legal protection mechanism
+In the face of such a dilemma (e.g., complying with US laws and violating local ones, or the opposite), digital 
+sovereignty represents an organization’s ability to ensure autonomy and security in a constantly shifting 
+political and cyber landscape.
+In response to concerns from EU-based 
+organizations, US-based hyperscalers 
+have launched offerings (e.g., Microsoft 
+365 EU Data Boundary, Amazon’s European 
+Sovereign Cloud, Google’s Sovereign 
+Controls) and run marketing campaigns 
+oriented around data remaining in the EU.
+However, the CLOUD Act makes it very clear 
+that the location of data doesn’t matter, 
+bypassing GDPR protections. 
+For example, Article 48 of the GDPR states:
+“Any judgment of a court or tribunal and 
+any decision of an administrative authority 
+of a third country requiring a controller or 
+processor to transfer or disclose personal 
+data may only be recognized or enforceable 
+in any manner if based on an international 
+agreement, such as a mutual legal assistance 
+treaty, in force between the requesting third 
+country and the Union or a Member State, 
+without prejudice to other grounds for 
+transfer pursuant to this Chapter.”
+In contrast, the CLOUD Act:
+•
+Allows extraterritorial reach of US law
+•
+Does not require judicial review under EU 
+legal systems
+•
+Does not provide adequate legal remedies 
+for EU citizens
+This clear contradiction is causing EU-based 
+organizations with operations in the US to 
+focus less on where data is stored and more 
+on who controls the infrastructure in which 
+data is stored.
+Ultimately, if the infrastructure provider 
+falls under US jurisdiction, then there is no 
+guarantee of full GDPR compliance.
+Infrastructure control comes  under scrutiny:
+CLOUD Act versus GDPR
+Why data sovereignty matters
+
+Data sovereignty report  |  14
+© 2025 Keepit. All rights reserved
+Within individual nations or regulatory jurisdictions, sovereignty requirements are seen as a way to protect 
+organizations — including the data they use and the workloads they run — from legal obligations imposed 
+by external authorities.
+In short, achieving digital sovereignty (and, by definition, data sovereignty) is expected to provide some 
+degree of immunity from foreign laws or regulations that are at odds with local ones.
+Secondary factors driving digital sovereignty initiatives
+Looking beyond geopolitics, there are several 
+other reasons why digital sovereignty is fast 
+becoming a top-of-mind issue for organizations.
+Supply chain risk
+In recent years, organizations have taken a 
+greater security-centric interest in their software 
+supply chain due to a number of large-scale 
+security incidents traced to compromised 
+vendors and code repositories.
+However, cloud infrastructure has largely 
+avoided the same degree of scrutiny, despite an 
+abundance of similar issues.
+For instance, if a cloud identity provider (IdP) 
+such as Microsoft or Okta suffers an outage 
+due to an issue with the hyperscaler upon which 
+they depend, then countless organizations will 
+be rendered largely inoperable. (And while the 
+impact may be smaller for most other SaaS 
+outages, the general point still applies.)
+“No problem,” leaders may think, “we have 
+backups that will allow us to quickly recover and 
+restore operations.”
+Unfortunately, most SaaS backup solutions rely on the same hyperscalers as the SaaS providers. If a SaaS 
+provider and backup provider use the same hyperscaler, then there’s a real problem: There’s no air gap. 
+In certain scenarios (e.g., a natural disaster or other issue with a datacenter), geographic redundancy 
+provides some measure of safety, but outages due to misconfigurations and errors have the potential to 
+span multiple zones.
+In contrast, sovereign backup providers provide a solution for fast, complete recovery by maintaining data 
+availability, eliminating cross-border data replication through regional data centers, and minimizing cloud 
+dependency via independent clouds.
+Hybrid warfare
+Today’s organizations operate in a very different global political and technological environment than their 
+predecessors.
+US Department of Defense 
+Contractor
+• Problem: A defense supplier needs to 
+migrate HR and manufacturing systems 
+to the cloud.
+• Decision: They contract only providers 
+offering “US-only sovereign regions” 
+meeting DoD IL5/IL6 standards.
+• Outcome: They pass DoD audit and 
+secure contract extensions.
+Source: DoD Cloud SRG
+Illustrative  example
+Private sector  |  US
+GOVERNMENT AND EDUCATION
+Why data sovereignty matters
+
+Data sovereignty report  |  15
+© 2025 Keepit. All rights reserved
+Hybrid warfare blends cyberattacks, physical sabotage, disinformation, and economic coercion to 
+disrupt or destabilize its targets, and the ease with which digital infrastructure can be targeted — coupled 
+with the outsized impact caused by disruptions — puts hyperscalers and important SaaS applications 
+squarely in the sights of adversaries.
+For example,  an advisory issued by the FBI in August 2025 warned that Salt Typhoon — an advanced 
+persistent threat actor believed to be operated by China’s Ministry of State Security (MSS) — targeted 
+more than 600 organizations across 80 countries.
+Consequently, a crisis, conflict, or even merely a test run (with plausible deniability) may render cloud-
+based data inaccessible.
+Data sovereignty provides added resilience against this new reality, making it essential for an 
+organization’s risk management and long-term digital strategy.
+Availability and recovery requirements
+Increasingly, organizations are finding themselves beholden to requirements relating to availability and 
+recovery and are recognizing that dependence upon third-party providers represents a risk.
+While some of these obligations stem from contractual service level agreements (SLAs), many originate 
+with regulatory bodies. For example, under the EU’s Digital Operational Resilience Act (DORA)  and 
+Network and Information Security 2 (NIS2) directive, organizations in critical sectors must prove that they 
+can recover from information and communication technology (ICT) disruptions with minimal reliance on 
+third-party connectivity.
+Why data sovereignty matters
+German Insurer (BaFin)
+• Problem: Concerns over sub-outsourcing 
+meant the insurer couldn’t prove who 
+ultimately had access to data.
+• Decision: They negotiated contracts 
+specifying region, audit rights, and consent 
+requirements for subcontractors.
+• Outcome: BaFin approved the outsourcing, 
+and the company gained a model framework 
+for future cloud buys.
+Source: BaFin circulars
+Illustrative scenario based on real regulatory action
+Public sector  |  Germany
+INSURANCE
+Swiss Private Bank
+• Problem: The board wanted to outsource 
+CRM data to the cloud but feared FINMA’s 
+scrutiny.
+• Decision: They selected a Swiss-hosted 
+platform with detailed outsourcing inventory 
+and regulator audit clauses.
+• Outcome: The bank avoided reputational 
+risk while achieving digital modernization.
+Source: FINMA Circular 2018/3
+Illustrative scenario based on real regulatory action
+FINANCE
+Public sector  |  Switzerland
+
+Data sovereignty report  |  16
+© 2025 Keepit. All rights reserved
+.
+03
+Getting started 
+with data 
+sovereignty
+
+Data sovereignty report  |  17
+© 2025 Keepit. All rights reserved
+Unfortunately, the challenges outlined in the preceding sections are not merely theoretical; rather, they 
+represent real risks and vulnerabilities for organizations with (or aspiring to have) international presence 
+or customers.
+In the emerging geopolitical and technological landscape, control, privacy, audit trails, and technology 
+independence are not just aspirations — they are necessities for resilient digital operations.
+Preparing your organization to not only survive in this environment, but to thrive, requires asking many 
+simple questions and putting in the work to track down complex answers.
+Questions IT leaders 
+need to ask
+Over-arching governance
+Data
+Operations
+Technology
+	
+□
+	What are our digital sovereignty obligations (e.g., 
+regulatory, contractual)?
+	
+□
+How do we achieve and maintain digital sovereignty?
+	
+□
+What resources do we have — and do we need — to 
+help us achieve and maintain digital sovereignty?
+	
+□
+How will we track progress towards digital 
+sovereignty and, once achieved, how will we prove it 
+(e.g., transparent monitoring of digital infrastructure, 
+reports demonstrating independence, etc.)?
+	
+□
+What data do we use (e.g., create/ingest, store, 
+process/transform, archive)?
+	
+□
+Where is this data stored?
+	
+□
+Who has access to it and what protections are in 
+place to prevent unauthorized access?
+	
+□
+How is it managed and how is it protected?
+	
+□
+Are our data practices aligned with local data 
+policies?
+	
+□
+Are our data practices aligned with international  
+data policies
+	
+□
+Are our operational practices (including third 
+parties acting on our behalf) aligned with local data 
+policies?
+	
+□
+Are our operational practices (including third parties 
+acting on our behalf) aligned with international data 
+policies?
+	
+□
+Are the operational practices of third parties acting 
+on our behalf aligned with local data policies?
+	
+□
+Are the operational practices of third parties 
+acting on our behalf aligned with international data 
+policies? 
+	
+□
+What direct dependencies do we have on leading 
+hyperscalers?
+	
+□
+What indirect dependencies do we have on 
+leading hyperscalers (e.g., through vendors, SaaS 
+applications, backup solutions, data processing 
+partners, etc.)?
+	
+□
+Is our technology stack independent from and 
+resilient against foreign influence?
+
+Data sovereignty report  |  18
+© 2025 Keepit. All rights reserved
+.
+Regional 
+perspectives
+04
+
+Data sovereignty report  |  19
+© 2025 Keepit. All rights reserved
+Regional perspectives
+Opportunity
+Strong legal/regulatory framework (EU approach + 
+AI Act + Data Act) and funding to develop sovereign 
+cloud, trustworthy AI, and local model/compute 
+capacity mean EU can lead on “trustworthy, rights-
+respecting” sovereign AI. Digital Strategy
+Risks
+High compliance costs, fragmentation between 
+member states, and slower speed of innovation vs. 
+looser jurisdictions; expensive infrastructure needs. 
+(Implication: Leaders will need to subsidize scale or 
+form regional clouds.)
+Opportunity
+The opportunity lies in tailoring policies and 
+partnerships that strengthen control over data 
+without stifling innovation or isolating markets. 
+Many emerging economies see sovereignty as a way 
+to build local cloud industries and attract foreign 
+investment while maintaining national oversight.
+Risks
+Inconsistent regulations, infrastructure gaps, and 
+dependence on foreign technology providers create 
+risks that can limit true autonomy. The challenge 
+— and the opportunity — for the rest of the world 
+is to balance openness and control, ensuring data 
+sovereignty supports growth, resilience, and trust in 
+an increasingly interconnected global economy.
+	 Rest of the world
+	 Europe
+Opportunity
+Large private R&D, leading chips, hyperscalers,  
+and major government AI action plans push 
+domestic capability and international alliances.
+Risks
+Export controls and national security-driven policies 
+can fragment global supply chains and prompt allies 
+to seek alternative suppliers.
+	 United States
+Data sovereignty reshapes the map. For each region, see how 
+strategy turns into concrete opportunities and real risks.
+
+Data sovereignty report  |  20
+© 2025 Keepit. All rights reserved
+.
+r
+National 
+snapshots
+05
+
+Data sovereignty report  |  21
+© 2025 Keepit. All rights reserved
+National guidance and 
+expert resources
+Current regulatory 
+legal landscape
+Key data 
+sovereignty threats
+United States 
+of America
+Key data sovereignty threats 
+for national and international 
+organizations operating in USA:
+Reliance on hyperscalers and 
+vendor lock-ins
+US dominance in cloud 
+infrastructure drives dependence 
+on hyperscalers, creating vendor 
+lock-in risks and sovereignty 
+concerns domestically and 
+internationally.
+Continuously evolving threat 
+landscape
+Expanding cyberattacks, 
+fragmented compliance, and 
+AI-driven risks force organizations 
+to prioritize proactive detection, 
+resilience, and adaptive 
+countermeasures.
+Legal frameworks
+Conflicting and diverging legal 
+regimes complicate cross-border 
+data transfers, creating uncertainty 
+for governance, compliance, and 
+long-term sovereignty strategies.
+Federal regulations:
+Federal regulations focus on 
+critical-infrastructure resilience, 
+with agencies like Cybersecurity 
+and Infrastructure Security Agency
+(CISA) and National Institute 
+of Standards and Technology 
+(NIST) leading frameworks for 
+cybersecurity and data protection. 
+The U.S. strategy emphasizes global 
+digital policy, promoting ally-based 
+governance of cyberspace and 
+security. 
+State-level laws: 
+State laws, such as the California 
+Consumer Privacy Act (CCPA) 
+and its amendment CPRA, have 
+expanded data-privacy obligations 
+and consumer rights, contributing to 
+a complex compliance landscape.
+In addition, the CLOUD Act and 
+other federal statutes affect data 
+access and sovereignty by enabling 
+US law enforcement to access data 
+held overseas.
+CISA (Cybersecurity and 
+Infrastructure Security Agency): 
+Provides national-level 
+cybersecurity guidance.
+NIST (National Institute of Standards 
+and Technology): Develops widely 
+adopted standards for security and 
+resilience.
+CIS (Center for Internet Security): 
+Offers benchmarks and best 
+practices for organizations.
+SANS Institute, OWASP, and Cloud 
+Security Alliance: Provide globally 
+recognized training, frameworks, 
+and standards for data protection 
+and sovereignty.
+The Information Security Forum
+provide research, practical tools 
+and guidance to overcome the 
+wide-ranging security challenges 
+impacting businesses.
+“Building data centers locally does not 
+guarantee digital sovereignty if those facilities 
+are run by foreign entities.”
+– Cornell University:  “How Sovereign Is Sovereign Compute?” 
+(Aris Richardson et al.) 
+Capital: Washington, D.C.
+Government: Federal presidential republic
+Population: 340 million
+Area: 9.87 million km2
+Keepit data centers: Yes (Washington, D.C.)
+National snapshot
+
+Data sovereignty report  |  22
+© 2025 Keepit. All rights reserved
+National guidance and 
+expert resources
+Current regulatory 
+legal landscape
+Key data 
+sovereignty threats
+Canada
+Key data sovereignty threats 
+for national and international 
+organizations operating in Canada:
+Growing exposure of sensitive data 
+across borders
+Global data flows heighten risks 
+of sensitive data exposure to 
+foreign jurisdictions, undermining 
+sovereignty and increasing misuse 
+potential.
+Cloud vendor lock-in challenges
+Dependence on major cloud 
+vendors restricts flexibility, 
+making transitions difficult and 
+complicating sovereignty strategies 
+for Canadian organizations.
+Dependence on foreign 
+infrastructure and providers
+Dependence on major cloud 
+vendors restricts flexibility, 
+making transitions difficult 
+and complicating sovereignty 
+strategies.
+Evolving cyber regulations and 
+compliance risks
+Rapidly changing privacy laws and 
+stricter enforcement complicate 
+compliance, requiring governance 
+adaptation to avoid penalties.
+Personal Information Protection and 
+Electronic Documents Act (PIPEDA): 
+Governs the collection, use, and 
+disclosure of personal information in 
+the course of commercial activities.
+Provincial Privacy Laws: Additional 
+regulations in provinces like Quebec, 
+Alberta, and British Columbia that 
+impose further requirements on data 
+handling.
+Canada’s Anti-Spam Legislation 
+(CASL): Regulates the sending of 
+commercial electronic messages and 
+the installation of computer programs.
+Bill C-11: Proposed legislation to 
+modernize PIPEDA, introducing new 
+rights for individuals and obligations 
+for organizations.
+Office of the Privacy Commissioner 
+of Canada (OPC): Provides guidance 
+on compliance with privacy laws and 
+best practices for data protection.
+Canadian Centre for Cyber Security: 
+Offers resources and advice on 
+cybersecurity measures to protect 
+data.
+Digital Governance Council: Aims 
+to promote digital governance 
+and data sovereignty through 
+collaboration and policy 
+development.
+Industry Associations: Organizations 
+like the Information Technology 
+Association of Canada (ITAC) 
+provide industry-specific guidance 
+and resources.
+Capital: Ottawa
+Government: Constitutional monarchy
+Population:  41,528,680 
+Total area: 9.99 million km2
+Keepit data centers: Yes (Toronto)
+“As long as a [cloud service provider] … is subject 
+to the laws of a foreign country, Canada will not 
+have full sovereignty over its data.” 
+– Treasury Board of Canada Secretariat, 2023
+National snapshot
+
+Data sovereignty report  |  23
+© 2025 Keepit. All rights reserved
+National guidance and 
+expert resources
+Current regulatory 
+legal landscape
+Key data 
+sovereignty threats
+United
+Kingdom
+Key data sovereignty threats 
+for national and international 
+organizations operating in UK:
+Compliance under foreign cloud 
+providers
+Reliance on foreign cloud providers 
+raises sovereignty concerns, 
+complicating compliance with 
+domestic requirements and 
+evolving EU-aligned regulatory 
+frameworks.
+Vendor lock-in limiting flexibility 
+and autonomy
+Persistent vendor lock-in reduces 
+organizational autonomy, restricting 
+flexibility in cloud strategies and 
+complicating efforts to maintain 
+digital resilience.
+Increase in cybercrime and 
+sovereignty requirements
+Rising cybercrime and cross-
+border transfer restrictions 
+increase pressure on enterprises 
+to safeguard sovereignty and 
+strengthen national security 
+frameworks.
+Data Protection Act 2018: The UK 
+operates under its own version of 
+GDPR, the Data Protection Act 2018,  
+which implements the UK-GDPR 
+regime while aligning with broader EU 
+law aspects.
+UK National Cyber Security Strategy 
+2022: The UK National Cyber Security 
+Strategy 2022 sets out long-term 
+goals for strengthening cybersecurity  
+fostering digital sovereignty and 
+ensuring the UK remains a responsible 
+cyber power. 
+Joint Committee on National Security 
+Strategy: Oversight is supported 
+by the Joint Committee on National 
+Security Strategy, which scrutinizes 
+the structures for  government 
+decisions on national security and 
+digital-sovereignty issues.
+National Cyber Security Centre 
+(NCSC): Provides extensive 
+resources on cyber resilience and 
+sovereignty.
+Information Commissioner’s Office 
+(ICO): Enforces privacy laws and 
+provides compliance guidance.
+TechUK: A key industry association 
+shaping policy discussions around 
+digital sovereignty.
+Academic centres: Academic 
+centres of excellence in 
+cybersecurity research is an initiative 
+outlined in the UK government’s 
+National Cyber Security Strategy 
+“protecting and promoting the UK 
+in a digital world”. 19 universities are 
+recognised and contribute leading 
+research, including University 
+of Surrey, Cambridge, Imperial 
+College, and the Alan Turing 
+Institute.
+“51 % of British businesses consider data sovereignty 
+‘crucial’ … 77 % of IT decision-makers say sovereignty 
+is more important than three years ago.” 
+– Matt Tebay, OVHcloud multi-cloud evangelist
+Capital: London
+Government: Unitary parliamentary constitutional monarchy
+Population: 69 million
+Area: 244.38 million km2
+Keepit data centers: Yes (London)
+National snapshot
+
+Data sovereignty report  |  24
+© 2025 Keepit. All rights reserved
+National guidance and 
+expert resources
+Current regulatory 
+legal landscape
+Key data 
+sovereignty threats
+Australia
+Key data sovereignty threats 
+for national and international 
+organizations operating in Australia:
+Reliance on foreign cloud service 
+providers
+Dependence on global providers 
+exposes Australia to sovereignty 
+risks, reducing national control 
+over sensitive data and critical 
+infrastructures.
+Geopolitical tension
+Indo-Pacific geopolitical tensions 
+and rising cyberattacks against 
+critical infrastructure increase 
+risks, intensifying urgency for 
+sovereignty-focused security 
+strategies.
+Growing compliance burdens
+Organizations struggle with 
+mounting compliance obligations, 
+balancing cross-border data flows 
+with resilience and adherence to 
+evolving regulatory frameworks.
+Privacy Act 1988: Australia’s regulatory 
+framework includes the Privacy Act 
+1988, with ongoing reforms to enhance 
+individual rights and accountability. 
+Security of Critical Infrastructure Act: 
+The Security of Critical Infrastructure 
+Act imposes additional obligations on 
+organizations handling sensitive data 
+and operating vital services.
+Digital Transformation Agency (DTA): 
+The Digital Transformation Agency  
+leads government-wide strategies to 
+advance sovereign cloud adoption 
+and digital security, reinforcing data-
+residency and infrastructure-control 
+objectives.
+Australian Cyber Security Centre 
+(ACSC): Central body providing 
+advice and threat intelligence.
+Office of the Australian Information 
+Commissioner (OAIC): Oversees 
+data privacy compliance and 
+guidance.
+Data61 (CSIRO): National hub driving 
+innovation in sovereignty and 
+resilience.
+Australian Strategic Policy Institute 
+(ASPI): Think tank producing reports 
+on digital sovereignty and security.
+Tech Council of Australia (TCA): 
+Represents industry perspectives 
+on digital transformation and 
+sovereignty policy.
+“[Data sovereignty is] transforming… from a 
+compliance issue into a fundamental business 
+risk affecting competitiveness, innovation, and 
+customer trust.” 
+– UTS/Pure Storage analysis:  Data Sovereignty: A New Era.
+Capital: Canberra
+Government: Federal parliamentary constitutional monarchy
+Population:  28 million
+Area: 7.69 million km2
+Keepit data centers: Yes (Sydney)
+National snapshot
+
+Data sovereignty report  |  25
+© 2025 Keepit. All rights reserved
+National guidance and 
+expert resources
+Current regulatory 
+legal landscape
+Key data 
+sovereignty threats
+Switzerland
+Key data sovereignty threats 
+for national and international 
+organizations operating in 
+Switzerland:
+Financial position impacts national 
+priorities
+Switzerland’s role as a global 
+financial and data hub elevates 
+sovereignty concerns, making 
+protection of sensitive 
+infrastructures a priority.
+Vendor lock-in and hyperscalers
+Reliance on global cloud providers 
+creates dependency challenges, 
+complicating compliance with 
+Swiss data protection laws and EU 
+regulatory requirements.
+Critical industries at risk
+Sensitive sectors like finance 
+and healthcare face heightened 
+sovereignty risks, demanding 
+trusted infrastructures and 
+strict adherence to compliance 
+frameworks.
+The revised Federal Act on Data 
+Protection (FADP), effective in 2023, 
+is the foundation for privacy and 
+sovereignty in Switzerland. 
+EU balancing act
+National strategies aim to modernize 
+Information and Communication 
+Technology and strengthen sovereign 
+cloud capacity,  allowing Switzerland 
+to align with EU frameworks while 
+preserving independence.
+Switzerland’s position as a non-EU 
+member yet ‘adequate’ partner 
+emphasizes the balancing act 
+between cross-border data flows and 
+national control of infrastructure.
+Berner Fachhochschule: Publishes 
+studies on digital sovereignty and 
+governance.
+Deloitte Switzerland: Provides 
+industry insights on resilience and 
+sovereignty challenges.
+PwC Switzerland: Produces 
+reports on global digital trust and 
+cybersecurity.
+MSM Research: Supplies market 
+analysis on sovereign cloud and ICT 
+modernization in Switzerland.
+“Swiss companies are caught between the 
+speed of American innovation and the density 
+of European regulation.” 
+– Lukas Hebeisen, Swisscom
+Capital: Bern
+Government: Federal assembly-independent directorial republic
+Population: 9 million
+Area: 41.29 million km2
+Keepit data centers: Yes (Zurich)
+National snapshot
+
+Data sovereignty report  |  26
+© 2025 Keepit. All rights reserved
+National guidance and 
+expert resources
+Current regulatory 
+legal landscape
+Key data 
+sovereignty threats
+Germany
+Key data sovereignty threats 
+for national and international 
+organizations operating in 
+Germany:
+Reliance on foreign service 
+providers
+Dependence on non-EU providers 
+undermines Germany’s digital 
+sovereignty, creating exposure to 
+foreign regulations, surveillance, 
+and compliance uncertainties.
+Vendor lock-in
+Entrenched dependencies limit 
+flexibility, complicate provider 
+transitions, and increase 
+compliance burdens under strict 
+GDPR and sector-specific data 
+regulations.
+Geopolitical vulnerabilities
+Geopolitical tensions and reliance 
+on external infrastructure heighten 
+risks, complicating Germany’s 
+efforts to strengthen EU-driven 
+initiatives like Gaia-X.
+As a member of the EU, Germany 
+operates within the current EU legal 
+landscape.
+Key EU regulations include:
+GDPR, which governs personal data.
+NIS2 Directive, which sets 
+cybersecurity requirements for critical 
+infrastructure. 
+Data Act, which covers non-personal 
+data. 
+DORA for strengthening the digital 
+resilience of financial entities. 
+These are complemented by the 
+Data Governance Act, the AI Act, and 
+emerging frameworks like the EU’s 
+Cloud Sovereignty Framework.
+National frameworks include the 
+C5(Cloud Computing Compliance 
+Criteria Catalogue): which specifies 
+minimum requirements for secure 
+cloud computing.
+BSI (Bundesamt for Sicherheit in 
+der Informationstecknik) is the 
+Federal Cyber Security Authority 
+and the chief architect of secure 
+digitalization in Germany.
+Federal Ministry for Economic Affairs 
+and Climate Protection implements 
+national digital strategies.
+Fraunhofer Institut: Provides applied 
+research on secure infrastructures.
+ZEW Mannheim: Conducts 
+sovereignty analysis commissioned 
+by government agencies.
+Eco Association: Industry body 
+shaping policies on cloud adoption 
+and sovereignty.
+Zukunftskongress: Forum for 
+national dialogue on digital 
+strategies and sovereignty.
+“I want us in Europe, not just in Germany 
+… to become more independent.” 
+– German Chancellor Friedrich Merz
+Capital: Berlin
+Government: Federal parliamentary republic
+Population: 84 million
+Area: 357.02 million km2
+Keepit data centers: Yes (Frankfurt)
+Photo: perekotypole - stock.adobe.com
+National snapshot
+
+Data sovereignty report  |  27
+© 2025 Keepit. All rights reserved
+National guidance and 
+expert resources
+Current regulatory 
+legal landscape
+Key data 
+sovereignty threats
+Denmark
+Key data sovereignty threats 
+for national and international 
+organizations operating in 
+Denmark:
+Dependence on foreign service 
+providers
+Heavy reliance on external 
+infrastructure and providers 
+heightens sovereignty risks, 
+exposing Denmark to foreign 
+regulations and reduced strategic 
+control.
+Vendor lock-in jeopardizes 
+resilience
+Persistent vendor lock-in limits 
+adaptability, complicates 
+cross-border data transfers, and 
+undermines Denmark’s ability to 
+ensure digital resilience.
+Risk landscape and geopolitical 
+tension
+Escalating cyber threats and 
+geopolitical instability amplify 
+risks to government services and 
+critical sectors, stressing stronger 
+sovereignty frameworks.
+As a member of the EU, Denmark 
+operates within the current EU 
+legal landscape integrating data-
+protection, ICT-governance and 
+sovereignty considerations into its 
+regulatory ecosystem. 
+Key EU regulations include:
+GDPR, which governs personal data.
+NIS2 Directive, which sets 
+cybersecurity requirements for critical 
+infrastructure. 
+Data Act, which covers non-personal 
+data. 
+DORA for strengthening the digital 
+resilience of financial entities. 
+These are complemented by the 
+Data Governance Act, the AI Act, and 
+emerging frameworks like the EU’s 
+Cloud Sovereignty Framework, which 
+address a range of digital and data-
+related issues. 
+National framework include Guidance 
+on the use of cloud from The Danish 
+Data Protection Agency (DDPA).
+Danish Agency for Digital 
+Government: The Danish Agency 
+for Digital Government leads 
+national digital strategies, focusing 
+on public-sector modernization, 
+cybersecurity and data-sovereignty 
+goals.
+Centre for Cyber Security (CFCS): 
+The Centre for Cyber Security under 
+the Ministry of Defense issues annual 
+threat assessments and resilience 
+reports, guiding organizational 
+preparedness.
+Copenhagen Business School: 
+Research group studying digital 
+governance and sovereignty.
+Aarhus University: Focused on data 
+ethics and sovereignty frameworks.
+Dansk IT: Industry association 
+producing reports on cloud and 
+governance.
+Industriens Fond: Supports projects 
+on digital transformation and 
+sovereignty in industry.
+“Ensuring our digital sovereignty thus has 
+both a security and economic purpose.” 
+– Danish IT Industry Association: Digital Sovereignty: IT-Branchen’s 
+Perspectives and recommendations
+Capital: Copenhagen
+Government: Unitary parliamentary constitutional monarchy
+Population: 6 million
+Area: 42.95 million km2
+Keepit data centers: Yes (Copenhagen)
+National snapshot
+
+Data sovereignty report  |  28
+© 2025 Keepit. All rights reserved
+National guidance and 
+expert resources
+Current regulatory 
+legal landscape
+Key data 
+sovereignty threats
+France
+Key data sovereignty threats 
+for national and international 
+organizations operating in France:
+Dependency on foreign service 
+providers
+Relying on foreign cloud providers 
+creates strategic vulnerabilities, 
+undermining national resilience and 
+exposing critical infrastructures to 
+external control.
+Increased exposure to 
+cyberattacks
+Growing reliance on interconnected 
+digital ecosystems expands the 
+attack surface, heightening risks 
+of ransomware, espionage, and 
+large-scale data breaches.
+Digital autonomy
+Safeguarding sensitive data 
+requires reducing external 
+dependencies while strengthening 
+European infrastructure to 
+ensure sovereignty and strategic 
+independence.
+As a member of the EU, France 
+operates within the current EU legal 
+landscape:
+Key EU regulations include: 
+GDPR, which governs personal data.
+NIS2 Directive, which sets 
+cybersecurity requirements for critical 
+infrastructure. 
+Data Act, which covers 
+non-personal data. 
+DORA for strengthening the digital 
+resilience of financial entities. 
+These are complemented by the 
+Data Governance Act, the AI Act, and 
+emerging frameworks like the EU’s 
+Cloud Sovereignty Framework.
+National cloud strategies are led by the 
+Interministerial Directorate for Digital 
+Affairs (DI-NUM).
+The National Cybersecurity Agency 
+(ANSSI) has created the SecNumCloud 
+qualification, which verifies that cloud 
+service providers meet the highest 
+cybersecurity standards.
+ANSSI: National authority for 
+cybersecurity and sovereignty 
+certification.
+CNIL: Oversees privacy and 
+provides guidance on compliance 
+and sovereignty.
+Cigref: Represents large enterprises 
+in sovereignty discussions and 
+policy debates.
+Hexatrust: Industry alliance focused 
+on trusted cloud and cybersecurity.
+Institut Montaigne: Think tank with 
+influential publications on digital 
+autonomy.
+Campus Cyber Paris: National 
+hub uniting public and private 
+stakeholders in sovereignty 
+projects.
+“Cloud adoption continues to accelerate and mature 
+in France amid growing market demand for data 
+sovereignty and security services” 
+– Information Services Group report
+Capital: Paris
+Government: Unitary semi-presidential republic
+Population: 69 million
+Area: 632.70 million km2
+Keepit data centers: No (EU data centers in Germany and Denmark)
+National snapshot
+
+Data sovereignty report  |  29
+© 2025 Keepit. All rights reserved
+.
+r
+The road 
+ahead
+07
+
+Data sovereignty report  |  30
+© 2025 Keepit. All rights reserved
+•
+Empower users and stakeholders: Involve CISOs, CIOs, legal, 
+compliance, and IT teams in scenario planning; foster a culture of 
+data stewardship and sovereignty awareness.
+•
+Maintain strong vendor contracts and exit strategies: Define 
+clear contractual terms regarding resilience, security, and data 
+access; ensure exit strategies for cloud providers.
+•
+Evaluate risk factors and resilience strategies: Identify risks 
+such as shared platform vulnerabilities, exfiltration threats, and 
+cyberattacks; conduct risk assessments and develop prioritized 
+disaster recovery plans.
+•
+Ensure data governance supports cyber resilience and regulatory 
+readiness, as these three priorities are interrelated.
+•
+Consider regulatory and sovereignty requirements: Analyze how 
+scenarios affect compliance with data residency, sovereignty, 
+and legal mandates; ensure solutions support GDPR, DORA, NIS2, 
+and other regulations.
+The road ahead 
+Denmark Municipal 
+Schools
+• Problem: Municipalities 
+using Google Workspace 
+for students faced DPA 
+rulings that US transfers 
+were unlawful.
+• Decision: Cities suspended 
+or rescoped deployments, 
+insisting on EU-resident 
+services.
+• Outcome: Cloud vendors 
+had to redesign offerings to 
+stay in the school sector.
+Source: Danish DPA rulings
+Real case
+Public sector  |  Denmark
+GOVERNMENT AND EDUCATION
+Activities organizations aiming to achieve digital 
+sovereignty should pursue:
+
+Data sovereignty report  |  31
+© 2025 Keepit. All rights reserved
+1
+ 
+ Sovereign cloud/
+localized (on-prem) 
+infrastructure
+2
+ 
+ Tightening of 
+regulations and legal 
+frameworks
+3
+ 
+ Supply chain and 
+hardware sovereignty
+Countries and regions are investing heavily in their own cloud data 
+centers, AI factories, and supercomputing capacity so they are less 
+dependent on foreign providers. For instance, in Europe, there are 
+efforts to build “AI gigafactories” and to push for sovereign cloud 
+offerings.
+Hybrid architectures (mix of on-premises, edge, and cloud) may 
+become more common as a way to balance regulatory compliance, 
+performance, latency, and control — yes, we are seeing a movement 
+back to being on-premises in certain scenarios.
+Regulations — like the recently adopted EU Data Act, the EU AI Act, 
+GDPR, and various national laws — are increasing requirements around 
+data privacy, transparency of training data, risk assessments of AI 
+models, etc.
+Laws governing cross-border data flows, laws that grant data 
+subjects certain rights (e.g., to know how data is used, to port their 
+data, etc.), and restrictions on foreign (non-local) access to critical 
+data (or infrastructure) are becoming more common around the globe.
+A lot of digital and data sovereignty depends on physical infrastructure: 
+chips, GPUs/TPUs, networking, servers, etc. Many countries are at risk 
+because production of key hardware is concentrated in a few places 
+(e.g., Taiwan, US, and China).
+Moves to develop domestic or regional fabrication, design, 
+and manufacturing capabilities are increasing. Concerns about 
+dependencies (e.g., for rare earths, semiconductor tooling, etc.) are 
+becoming strategic and political issues.
+To best inform these activities, we believe organizations should monitor these 
+major trends.
+Eight trends to monitor in digital sovereignty
+
+Data sovereignty report  |  32
+© 2025 Keepit. All rights reserved
+4
+	 Data sovereignty and 
+memory/cognitive 
+sovereignty
+5
+	
+Geopolitical 
+fragmentation/blocs
+6
+	
+Ethics, trust, 
+transparency, and 
+public pressure
+7
+	
+Decentralization, 
+edge AI, and self-
+sovereign identity
+8
+	
+Environmental, 
+energy, and 
+sustainability 
+constraints
+Beyond “just data location,” there is growing concern about who 
+controls what memories or learned behavior an AI can use, how 
+personalized assistants track and store user history, etc. This touches 
+on “cognitive sovereignty” — ensuring that users or nations retain 
+control over their narratives, personal profiles, etc.
+There are increasingly prominent demands for AI systems to be 
+designed such that memory is portable, transparent, auditable, and 
+controllable.
+The global AI ecosystem is increasingly splitting along geopolitical 
+lines. For example, trade restrictions (export controls), sanction 
+regimes, or simply policy divergence are pushing infrastructure, 
+standards, and supply chains to align differently in, say, the US/EU 
+bloc vs. China vs. others.
+Regions want legal and technical standards (for privacy, transparency, 
+and safety) that reflect their values, which may diverge. This can lead 
+to “splinternets” or digital divergence.
+As AI becomes more embedded in public services, healthcare, justice, 
+etc., there is stronger demand from citizens and civil society that AI 
+be trustworthy, explainable, and non-biased, and for clarity over who 
+owns intellectual property, who steers decisions, etc.
+Embedding AI models and inference capabilities within edge devices 
+(or locally, on-premises) rather than relying almost solely upon 
+centralized clouds helps reduce dependency, latency, and exposure 
+of sensitive data.
+Self-sovereign identity systems and decentralized agents (sometimes 
+using blockchain or trusted hardware) are becoming more common, 
+giving more control over data and identity to individuals or smaller 
+entities.
+Building up large AI infrastructure (data centers, high performance 
+compute) demands a lot of electricity, cooling, etc. Sovereign 
+infrastructure must take into account energy availability, carbon 
+footprint, and resilience — otherwise, environmental constraints 
+can become the weak link and make digital sovereignty difficult to 
+achieve.
+The road ahead
+
+Data sovereignty report  |  33
+© 2025 Keepit. All rights reserved
+To open the door to transitioning from dependence 
+to autonomy, your organization should:
+□
+Engage stakeholders and build resilience: Elevate digital sovereignty 
+to the business imperative that it is (i.e., not merely an IT or tech issue); 
+involve CISOs, CIOs, legal, compliance, and IT teams; foster a culture of 
+data stewardship and sovereignty awareness.
+□
+Define sovereignty requirements: Specify legal, regulatory, and business 
+mandates for data location, access, and control; align with compliance 
+obligations (e.g., GDPR, DORA, NIS2, SEC, etc.).
+□
+Monitor regulatory and geopolitical changes: Track evolving laws and 
+frameworks impacting data sovereignty; adapt strategy to new risks.
+□
+Leverage trusted partners and solutions: Choose vendors that guarantee 
+control, transparency, and compliance; partner with providers 
+supporting digital sovereignty initiatives.
+□
+Ensure exit strategies for cloud providers: Include contractual data 
+access, usable formats, and retrieval SLAs.
+An action plan for 
+sovereignty and control
+Practical steps to secure digital sovereignty, reduce lock-in, 
+and strengthen data resilience
+1
+
+Data sovereignty report  |  34
+© 2025 Keepit. All rights reserved
+2
+To achieve data sovereignty and support strong 
+governance, it’s important to:
+	
+□
+Establish clear data governance policies for acquisition, access, 
+stewardship, and lifecycle management.
+	
+□
+Regularly audit and report on data governance to track internal progress 
+and to meet evolving regulatory requirements.
+	
+□
+Identify and classify data based on business impact, regulatory 
+requirements, and risk exposure; prioritize business-critical data for 
+protection and compliance; be sure to engage stakeholders (CISOs, 
+CIOs, IT, compliance) in defining and reviewing critical data sets.
+	
+□
+Map dependencies and data flows to understand where critical data 
+resides and how it is accessed; leverage transparency features and audit 
+logs to track data access and dependencies including cloud providers, 
+on-premises systems, and third-party vendors.
+	
+□
+Assess risks related to data residency, sovereignty, and vendor lock-in; 
+monitor regulatory changes and geopolitical factors that may impact 
+data access or control.
+	
+□
+Develop migration and contingency plans: Decide whether to migrate 
+data to a new cloud, to move from cloud to on-prem, or to retain data 
+until a new location is available; prepare for operational continuity and 
+rapid recovery.
+	
+□
+Implement technical and procedural controls: Enforce physical and 
+logical separation of data; use robust encryption and key management 
+outside foreign jurisdictions; maintain transparent audit trails and 
+compliance monitoring.
+When it comes to data backup and recovery in the 
+context of digital sovereignty, your organization 
+should:
+	
+□
+Engage in scenario planning for migration and recovery: Map out 
+scenarios for migrating data between clouds, from cloud to on-
+premises, or retaining data until a new location is available; prepare 
+contingency plans for rapid recovery and operational continuity.
+	
+□
+Assess vendor independence and platform separation: Ensure backup 
+and recovery solutions are vendor-independent and segregated from 
+production environments and hyperscaler cloud providers.
+	
+□
+Test recovery plans regularly: Conduct scheduled exercises to validate 
+the effectiveness of disaster recovery plans, ensuring teams can restore 
+operations quickly and reliably in the event of data loss or disruption.
+	
+□
+Test and validate backup integrity: Regularly test and verify backups; use 
+immutable backups and granular restore capabilities.
+3
+Action plan
+
+Data sovereignty report  |  35
+© 2025 Keepit. All rights reserved
+.
+r
+Conclusion
+08
+
+Data sovereignty report  |  36
+© 2025 Keepit. All rights reserved
+How Keepit supports digital sovereignty
+Given that data sovereignty is a key element of digital sovereignty, it’s critical that your  
+organization finds a data protection partner that provides:
+•	
+Control and ownership: Ensure the provider has complete control over its data and management planes. This 
+eliminates third-party risks (such as sub-processors) and ensures that you remain compliant with local and 
+international data regulations.
+•	
+Physical and logical separation: Look for vendors that guarantee physical and logical separation  
+from production environments.
+•	
+Transparency and auditability: Verify that the solution provides transparent audit trails and  
+compliance monitoring.
+•	
+Cost and performance control: Choose a vendor that allows you to predict and manage costs effectively while 
+maintaining optimal performance.
+•	
+Regulatory alignment: Ensure the provider is aligned with local laws and global standards to avoid  
+legal complications.
+For Keepit, digital sovereignty isn’t a theoretical ideal — it’s a cornerstone of modern cybersecurity.
+Where traditional SaaS data protection vendors rely heavily on third-party infrastructure, Keepit takes a 
+radically different approach, maintaining full control over both the data and management planes, both 
+of which are physically and logically separated from production environments. This independence from 
+hyperscalers protects our users from hidden dependencies and indirect access paths.
+Our unique architecture means that Keepit controls cost, functionality, security, performance, 
+management, operations, and integration — ensuring that customers are not at the mercy of hyperscalers 
+or foreign policies.
+In an era where sovereignty risks are growing, Keepit stands as a beacon of control and reliability. By 
+partnering with us, your organization can confidently navigate the complexities of today’s evolving 
+cybersecurity challenges and regulatory requirements with a modern solution that ensuring data is secure, 
+compliant, and ready to support innovative business initiatives.
+To learn more about how Keepit can support your data protection and cybersecurity needs,  
+please visit us at keepit.com.
+Conclusion
+Key takeaways:
+•	 Digital sovereignty is not a one-time goal, but an ongoing process. Now is the 
+right time for leaders of organizations around the world to accept responsibility 
+and to take the necessary steps to secure their digital independence.
+•	 Only through conscious decisions and the choice of sovereign solutions can organizations 
+secure and maintain control over their digital futures and sovereignty over their data.
+
+Data sovereignty report  |  37
+© 2025 Keepit. All rights reserved
+Control and ownership
+Ensure the provider has complete control over its data and management planes. This eliminates 
+third-party risks and ensures that you remain compliant with local and international data 
+regulations.
+Physical and logical separation
+Look for vendors that guarantee physical and logical separation from production environments.
+Transparency and auditability
+Verify that the solution provides transparent audit trails and compliance monitoring.
+Cost and performance control
+Choose a vendor that allows you to predict and manage costs effectively while maintaining 
+optimal performance.
+Regulatory alignment
+Ensure the provider is aligned with local laws and global standards to avoid legal complications.
+Selecting the right data 
+protection partner
+An important step in your digital sovereignty journey is selecting the 
+right data protection partner. 
+Here are key guidelines to consider:
+
+Data sovereignty report  |  38
+© 2025 Keepit. All rights reserved
+Data sovereignty report  |  38
+© 2025 Keepit. All rights reserved
+Intelligent SaaS 
+data protection
+Keepit provides a next-level SaaS data protection 
+platform purpose-built for the cloud by securing 
+data in a vendor-independent cloud to safeguard 
+essential business applications, boost cyber 
+resilience, and future-proof data protection. 
+Headquartered in Copenhagen with offices 
+and data centers worldwide, more than 20,000 
+companies trust Keepit for its ease of use and 
+effortless backup and recovery of cloud data. 
+© 2025 Keepit. All rights reserved.
+www.keepit.com
+Your data. Here today. Here tomorrow.
+Keepit sovereign.
+Keepit secure.
+That’s intelligent.

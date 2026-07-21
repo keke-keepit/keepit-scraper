@@ -1,0 +1,38 @@
+Source URL: https://www.keepit.com/press/black-hat-2025/
+Content type: Web page
+Last modified: 2025-08-14T23:38:34+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit to bring cyber resilience and vendor independence to the forefront at Black Hat USA 2025
+Former CIA senior executive, Keepit CISO, Red Team experts, and SaaS resilience leaders to address espionage, resilience, and backup independence
+Copenhagen, Denmark, and Las Vegas, NV – Black Hat USA 2025 - July 29, 2025 — At Black Hat USA 2025, Keepit, the only cloud-native and vendor-independent SaaS data protection provider, is stepping into the spotlight to explore some of the cybersecurity industry’s most pressing and overlooked issues: corporate espionage, the fragility of the SaaS ecosystem, and the importance of infrastructure-independent backup for true cyber resilience.
+From sponsored sessions and VIP events to in-depth conversations with leaders in data protection, Keepit will demonstrate how its purpose-built platform ensures uninterrupted access to business-critical data — no matter what.
+Exclusive event: Inside the modern corporate espionage threat
+On Tuesday, August 5, Keepit will co-host an exclusive VIP dinner with CyberRisk Alliance (CRA). This invite-only gathering of cybersecurity executives, practitioners, and Keepit customers will foster deeper discussion on resilience, leadership, and evolving recovery standards in the SaaS era.
+The event is kicked off with the session “Corporate espionage: Lessons from a retired CIA insider”, featuring Glenn Corn, a retired Senior Executive and Operations Officer with the Central Intelligence Agency, who will offer rare insight into how adversaries exploit trust and human behavior to compromise organizations from the inside.
+Corn will break down the tactics foreign intelligence agencies and commercial competitors use to target and recruit employees — especially those with access to sensitive data and systems — and how companies can better understand the threat before it’s too late.
+His talk will be followed by a practical, solution-focused conversation with Keepit’s Chief Information Security Officer, Kim Larsen. Kim Larsen, who has a background in the Danish intelligence service and in NATO, will draw on real-world scenarios to highlight how organizations can defend their data and people against espionage and insider threats.
+“Most security teams are laser-focused on cyberattacks and infrastructure vulnerabilities — and rightly so — but corporate espionage isn’t a Cold War relic. It’s alive and well, and we see adversaries exploiting SaaS services and insider access every day,” said Larsen. “We’re excited to share real intelligence and practical countermeasures at Black Hat this year.”
+Session: Immutable backups, Red Team realism, and reclaiming control
+On Wednesday, August 6, from 12:00 to 12:20 p.m. in Business Hall Theater D, Keepit will host “Red Team tales and SaaS strategies for immutable cloud recovery”, a 20-minute Black Hat sponsored session that blends strategy with adversarial insight.
+Bart Binder, Red Team Manager and Cybersecurity Analyst at Keepit, will reconstruct a recent cloud-breach scenario that illustrates how attackers erase or encrypt backups — and how immutability can disrupt the attack chain. He will be joined by Niels van Ingen, Senior Vice President of Business Development and Strategy, who will walk through evolving SaaS-backup architectures and policy controls designed to ensure resilience by design.
+“Immutability is just the start,” said van Ingen. “True resilience means retaining control of your data — before, during, and after an attack — and that control has to be intentional, auditable, and independent of your production systems.”
+This session is part of Black Hat’s cloud security and data protection tracks and will highlight the strategic and operational steps organizations need to take to defend their backups in the age of ransomware and insider compromise.
+“Too many organizations assume immutability means safety,” said Binder. “But without independence, insight, and recovery assurance, you’re still vulnerable. Resilience is about designing for failure — and bouncing back fast.”
+Interview: Rethinking resilience in the SaaS-first world
+Also on Wednesday, August 6, van Ingen will appear in the Dark Reading Newsroom at Black Hat for a recorded interview.The conversation will dive into the blind spots most SaaS-dependent businesses face when they rely solely on built-in tools and shared-responsibility models for backup and recovery.
+He’ll outline why separating production and backup infrastructure is critical for maintaining access to data during provider outages, malicious activity, or administrative error — and how Keepit’s cloud-native, vendor-independent platform is redefining backup control.
+Session: Securing your clouds in a multi-provider world
+Van Ingen will return to the stage Thursday, August 7, from 2:40 to 3:00 p.m. in Business Hall Theater B for the session “Keeping your cloud(s) secure”. This talk — part of the Dark Reading program — addresses the shifting threat landscape across hybrid and multi-cloud environments, where attackers exploit misconfigurations, third-party apps, and the expanding cloud services stack.
+As organizations migrate away from on-premises systems toward SaaS and IaaS, cloud security becomes not just a policy challenge but a business imperative. Van Ingen will share practical guidance on establishing the right security policies and controls to match today’s distributed IT reality.
+“Data is no longer in one place — and neither are your risks,” van Ingen said. “This session is about understanding the new fault lines, then putting systems in place to defend across them.”
+Executive team available on site
+With a growing presence in North America and a strong reputation across Europe, Keepit is becoming the go-to backup and recovery partner for IT and security leaders who want true independence, simplicity, and peace of mind.
+“Black Hat is where in-depth security conversations happen — and that’s what we’re here for,” said Kim Larsen. “We're not here to sell hype. We’re here to show how true vendor independence makes your business stronger.”
+Throughout the week, Keepit’s executive team — Kim Larsen and Niels van Ingen will be joined by Morten Felsvang, Keepit Co-founder and Chief Executive Officer and Frederik Schouboe, Keepit Co-founder and Chief Visionary Officer — will be on the ground for product discussions, strategy meetings, and live demonstrations at Keepit Live Las Vegas, the company’s dedicated presence at the event.
+Meet the Keepit team at Black Hat 2025 booth #1767.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over 18,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

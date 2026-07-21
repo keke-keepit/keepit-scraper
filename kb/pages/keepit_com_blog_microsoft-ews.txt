@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/blog/microsoft-ews/
+Content type: Web page
+Last modified: 2026-03-16T11:25:13+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The end of EWS and what it means for your Microsoft 365 backupÂ
+Microsoft is sunsetting Exchange Web Services (EWS), and while that may sound dramatic, there’s no cause for alarm — especially if you're a Keepit customer.
+What’s happening with EWS?
+EWS, the protocol introduced in 2005 to access Exchange mailbox data, will be fully retired by April 1, 2027, with a controllable disablement plan starting in October 2026. But the real shift has already started — Microsoft is updating its own applications and services to stop using EWS.
+In mid-October 2025, Microsoft released a message center notification to Microsoft 365 tenant admins reminding them of this change, so we thought it was a good time to talk about what Keepit is doing to prepare. You’ll likely see press headlines that say things like “Microsoft is moving away from EWS, an outdated, insecure technology” — which might sound worrying. But this is a Microsoft-wide transition and has been on the roadmap for a long time.
+What is EWS?
+Microsoft Exchange Web Services is a RESTful protocol that Microsoft introduced in 2005 to enable access to Exchange mailbox data — like emails, calendars, and contacts. It became the standard interface for Exchange and has been widely adopted by Microsoft and by third-party application developers, including Keepit and all our competitors.
+For nearly two decades, EWS has been central to how data is accessed and managed in Microsoft Exchange environments. Over the last decade, Microsoft has been replacing various APIs with a more modern, more secure, and more unified alternative: Microsoft Graph.
+So, Graph replaces EWS?
+Of course, Microsoft Graph isn’t new. It’s one unified protocol that spans the entire Microsoft 365 platform and across other MS services. The move from EWS to Graph isn’t new either; it’s been in progress, slowly, for years. What’s changing now is the timeline: The shift is entering its final phase. So, while it might come as a surprise to you, Microsoft has been preparing for this and is doing everything to ensure the transition from EWS to Graph is smooth.
+What does this mean for Keepit customers and their backups?
+The upcoming changes affect all Microsoft 365 customers and vendors — not just Keepit. We’ve known about this transition for a long time and are already working closely with Microsoft to ensure a smooth, seamless shift. As Microsoft adds new capabilities to Graph to bring it closer to parity with EWS functionality, we’re integrating those Graph changes into our product.
+Between now and April1, 2027, Microsoft will continue to make incremental changes. There may be minor adjustments behind the scenes, but you shouldn’t notice anything that impacts your data protection.
+Think of it like a house renovation: Microsoft is improving one room at a time, not tearing the whole structure down. As they gradually enhance Microsoft Graph, we’ve already started using those new capabilities to replace EWS. The shift will happen step by step, and we’ve been implementing those updates in the background. In fact, we’ve already completed the first major phase of this transition, and I bet you didn’t notice it!
+Our goal overall is to deliver the same quality of experience, stability, performance, security, and ease of use as we move to a 100% Graph-powered world. Ultimately, though, Microsoft gets a vote too. They may choose not to bring some EWS functions over to Graph; for example, they have already announced that they will not support backup and restore of Exchange public folders using Graph.
+Since Keepit today supports that functionality using EWS, when Microsoft removes EWS, Keepit customers who back up public folders will be impacted. We’re continuously giving Microsoft feedback as they update their plans, and we’ll be releasing updates to our documentation to identify any areas where Microsoft is choosing not to bring Graph to full parity with EWS.
+Final word
+Our message to customers: There’s no need to worry. Keepit is prepared, aligned with Microsoft, and committed to ensuring your M365 backup remains stable and secure throughout the transition.

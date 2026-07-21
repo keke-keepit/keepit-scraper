@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/press/cyber-insurance-webinar/
+Content type: Web page
+Last modified: 2025-08-20T00:05:18+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit to present webinar on cyber insurance strategies as ransomware surges
+Copenhagen, Denmark – June 26, 2024â¯– Keepit, a global provider of cloud backup and recovery solutions, today announced that it will be presenting a webinar titled, “From threat to defense: Cyber insurance woes as ransomware surges”, on June 27, 2024. Facilitated by Keepit, the webinar will explore recent developments in the market and engage a panel of cybersecurity and information technology (IT) experts to discuss trends in ransomware and how they affect organizations’ ability to secure cyber insurance today. The panel of experts includes Andrew Wildrix, cybersecurity and IT leader, former Chief Information Officer and current Vice President of Business Development at Intrusion; Kim Larsen, Chief Information Security Officer at Keepit and advisor on cybersecurity; and Dara Gibson, Senior Manager at cyber insurability services provider, Optiv.
+Ransomware plagues security professionals – and, in turn, the companies that insure them – more than ever before: A staggering 75% of organizations fell victim to a successful ransomware attack at least once in 2023 alone. The relentless evolution of this threat demands constant vigilance and security tactics that can keep up with the threats as they evolve.
+"When we talk to customers, we often hear about their ransomware defense; they talk about EDR or XDR tools and so on. Those tools are important, but they're not enough by themselves,” said Paul Robichaux, Microsoft MVP and Senior Director of Product Management at Keepit, who will moderate the webinar. “For example, the Snowflake breaches look like they're the result of old-fashioned credential reuse. Cyber insurers are looking beyond what tools you've bought and asking hard questions about your end-to-end business continuity strategy, including what you do for data protection."
+In addition to covering recent market developments and trends in the ransomware threat landscape and their impact on the ability of organizations to secure cyber insurance, the panel will also discuss the insurer’s perspective on cybersecurity. Webinar participants will gain an understanding of how underwriter requirements are changing in the market, the escalation of rates, limitations in coverage, and receive actionable insights that can help organizations determine whether cyber insurance is the right strategy for them.
+Takeaways from the webinar will include:
+- Perspectives on the recent Snowflake breaches;
+- An understanding of current trends and a comprehensive outlook on the evolving ransomware landscape;
+- Valuable insights into the key challenges organizations face to inform their cybersecurity and cyber insurance strategy;
+WHAT: Webinar: From threat to defense: Cyber insurance woes as ransomware surges
+WHEN: Thursday, June 27 at 10:30 a.m. EDT
+WHO:
+Dara Gibson, Senior Manager at cyber insurability services provider, Optiv.
+Andrew Wildrix, cybersecurity and IT leader, former Chief Information Officer and current Vice President of Business Development at Intrusion.
+Kim Larsen, Chief Information Security Officer at Keepit and advisor on cybersecurity.
+Paul Robichaux, Microsoft MVP and Senior Director of Product Management at Keepit.
+REGISTRATION:
+Participants that cannot attend live will receive a recording of the webinar.
+About Keepit
+Keepit provides next-level SaaS data protection purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over ten thousand companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+ 
+For more information visitâ¯www.keepit.comâ¯or follow Keepit onâ¯Linkedin.

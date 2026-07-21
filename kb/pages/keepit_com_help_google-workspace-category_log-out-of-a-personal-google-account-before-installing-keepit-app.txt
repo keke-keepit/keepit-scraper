@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/help/google-workspace-category/log-out-of-a-personal-google-account-before-installing-keepit-app/
+Content type: Web page
+Last modified: 2025-03-11T20:16:40+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Log out of a personal Google account before installing Keepit app
+Before you install Keepit Backup for GSuite, you must be signed out of your personal Google account and signed in to an administrator account. To do this, follow the steps below:
+1. Navigate to any Google resource in your browser, for example https://www.google.com/
+2. Click the user icon in the upper-right corner of the page.
+3. Click the Sign out button in the user menu.
+4. Go back to Keepit and create a Google Workspace Connector.
+5. During the creation process, you will be asked for Google authorization. Enter the Google administrator’s credentials.
+Note: An additional way to resolve such a problem is by clearing browser cache/cookies.

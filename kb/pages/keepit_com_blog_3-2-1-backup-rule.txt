@@ -1,0 +1,65 @@
+Source URL: https://www.keepit.com/blog/3-2-1-backup-rule/
+Content type: Web page
+Last modified: 2025-08-20T02:48:38+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup strategy for the 3-2-1 principle
+Data loss comes in all sizes: small (individual files), medium (SharePoint site), and large (ransomware and disaster recovery). No matter the size of the loss of data, none of them are fun, and even the smallest of data loss events could leave you lacking your most critical data.
+That one spreadsheet or that one hard disk drive could have what you and your business rely on most – it’s not always something someone can “just create again” on a whim as data loss is indiscriminate in its impact.
+All data loss events negatively impact workflow, and all are risk and data protection concerns that ultimately are a business imperative. Proactive data protection through backup and data management is at the forefront of all of our minds—or at least should be. Now why is that?
+Years ago, the assumption prevailed that cloud services would “take care of everything” once you signed up for a cloud service, with backup being lumped in. But now, more than ever, as the awareness of shared responsibility models for SaaS applications grows which states it is the user who is responsible, it's clear the onus is on you to have that backup strategy in place.
+That’s why the 3-2-1 backup rule—a principle established for on-premises infrastructure which requires multiple copies of backup data on different devices and in separate locations—is still relevant to today’s cloud-based infrastructures by providing essential data-protection guidelines.
+Why back up cloud SaaS data, and why now?
+Your data is critical to your business operations, and in many cases, maintaining control of and access to it is required by law. (Read more about how third-party security keeps companies in control of their data.)
+SaaS Shared Responsibility Model
+Software-as-a-service providers have established documentation that clarifies the areas of responsibilities they have and also those responsibilities that are retained by the customer.
+Microsoft, well known for its Microsoft 365 SaaS offering, delineates the boundaries of shared responsibility in the cloud.
+While Microsoft does provide some degree of data protection, many people are not aware of the limitations of this protection. The short of it is that Microsoft does not provide suitable backup and restore functionality to customers. Learn more about why your M365 is not backed up (and how to fix it) in our in-depth article.
+And it’s not only Microsoft that has a shared responsibility for their SaaS services.
+Google (and backup files to Google drive) has what they refer to, almost ominously, as “shared fate” on Google cloud shared responsibilities.
+Likewise, Amazon Web Services (AWS) have their own shared responsibility model. It’s vital customers know and understand the extent of their agreement.
+Risks to data security
+In the days of on-premises backup, the only credible risks were acts of mother nature and hardware failure.
+That is, of course, if you ignore software issues. Lots of software (from firmware on RAID adapters to drivers to operating system filesystem implementations and the user applications) problems would cause data loss and a need for restore, from system level down to file level. (That’s one thing I don’t miss about the ‘90s.)
+However, in the cloud-computing era, the risks have evolved as much as the ways in which we create, share, and store data, so things are much more complicated now.
+With both the prevalence and penetration of ransomware, cybercrime, and not to mention the increased access users have in order to streamline collaboration interactions and boost productivity, data—the lifeblood of a company—has, in many ways, never been more susceptible to data loss, regardless of whether it’s international (malicious actors, ransomware, etc.) or unintentional (human error, accidental deletion).
+Sometimes going back to basics can be the place to start in developing or hardening security.
+3-2-1 backup method
+The 3-2-1 principle comes from the days of on-premises data storage. It is still commonly referenced today in the modern, cloud-computing area.
+Even though it isn’t directly applicable, word for word, to cloud data, this well-known and widely used principle can still be used today to guide security decision makers in their process of improving their security infrastructure against today’s data risks.
+Roughly speaking, the 3-2-1 backup rule requires 3 copies of data, across two types of storage media, with one off-site copy stored.
+What is the origin of the 3-2-1 rule?
+Backup and recovery solutions have existed since long before cloud computing. However, the methodologies have shifted due to the modernization of the infrastructures, behaviors, needs, and of course a lot more variables (but we won’t get into that here), which has resulted in some discrepancies between best-practice principles and their application to modern data infrastructures.
+This is also the case with the 3-2-1 backup rule, with the biggest change being the shift of how data is created and stored (or rather where).
+Formerly, production data was created on site and stored in on-premises hardware, alongside one backup copy, and the third being stored off premises and typically on tapes. ComputerWeekly has a feature on if the cloud has made 3-2-1 obsolete.
+In the cloud era, data is created in numerous places by remote workers in SaaS applications, where it is often transferred around the globe, and is stored “somewhere else” from a business’s physical office. More than likely, the extent of an answer to the question of “where is your data stored” is that it’s in the cloud. But is that backup? And what is true backup in the cloud?
+How does the rule apply to cloud backup?
+We often see iterations of this backup principle in fancy infographics that almost forget to translate the rules to apply to the current scenarios. However, with a few tweaks, there’s plenty of relevant guidance that can help lead to a successful, modern, data security system.
+Let’s look at the rules with a modern lens:
+3 Copies of your data
+The ‘3’ in the rule refers to the number of “copies of your data,” with one being the primary dataset in the production environment while the remaining two copies are backups. This is still applicable to modern data protection best practices.
+2 Administrative domains
+As mentioned, the ‘2’ can be understood as “two administrative domains” so that copies are managed independently from the other or are stored within separate logical environments. You often see this written as “two types of media,” which is a relic from the on-prem past when it was made up of disks and tapes.
+Now, it’s about having copies across multiple disks and across two administrative domains so that one data-loss event cannot possibly—or is extremely unlikely to—impact all copies of the data. This is known as a logical gap.
+Without it, should there be a cloud-wide compromise (such as a breach) or data loss event of the cloud where your primary data lives, your data would not be available to you.
+One of the best-known examples of this is the Danish shipping giant Maersk and the infamous NotPetya cyberattack, dubbed “the most devastating cyberattack in history” in the full Wired story.
+When working “in” the cloud, the building you are in isn’t of any real consequence to the data. Rather, it’s the cloud you are working in and storing data in that matters. In many regards, this step could envelop the step below, “1 copy external,” but in respect to the principle, it serves us here to keep it a separate consideration.
+Should there be a cloud-wide compromise or data loss event of the cloud where your primary data lives, your data would still be available to you by following the rule. Without doing so, you’ve lost access to your data (or even lost your data permanently), with an impact that has a massive potential for business disruption and costs (as in the case of Maersk).
+1 Copy external
+Formerly the "1 off-site storage copy," this still applies for the same reasons as it did in the past: You don’t want to store all of your data in the same exact location, and whether all are aware or not, the cloud is located in physical data centers.
+From the on-premises days, this meant literally having a copy of disks and/or tapes in a different location from your business in case someone, something, or some event with the power to destroy the building did so. Let’s call this the “in case of fire” step.
+In cloud computing, this means having a backup copy outside the cloud of the production environment and outside the administrative domain of the other backup. Remember, the cloud is ‘just’ physical data centers, so by working in the cloud, the centers you are storing your data in are of real importance to the data.
+What if the data center of the cloud you are working in is also the same data center that your backup cloud data is stored in? Should there be a data loss event at that center, all of your data would be at risk from that event. That’s bad.
+Use case: What would this look like in real life?
+If, for example, you are working on a Microsoft Word document and you save it to OneDrive that has OneDrive Backup turned on, you’re totally protected, because it says “backup,” right? This is an example where the 3-2-1 principle still helps shed light on modern data protection in the cloud.
+By following the 3-2-1 rule above, one can deduct that this example isn’t backup (but neither is a lot of what SaaS providers offer as ‘backup’) because true backup requires a logical infrastructure separate from the primary data.
+As the “in case of fire” step requires, you must have one copy outside of the administrative domain. By working in and backing up OneDrive data to Microsoft’s cloud services, the data remains in the same administrative domain.
+What if something were to happen to Microsoft servers? You’d lose access to your primary data and the copies “backed up” since they all relied on the same cloud.
+What’s even worse is that since the backup is configured by “you” (i.e., the admin), a compromise of your account can unconfigure it, too. So, a simple case of ransomware could completely and automatically disable or work around such in-service protections—even leading to immediate backup data deletion.
+Keepit, on the other hand – aside from being separate (and therefore unlikely to be compromised at the same time by the same mechanism), as a dedicated backup solution – will actually protect even the administrator from quickly or immediately deleting backup data.
+In this respect, Keepit offers some of the most desirable features of “the tape in an off-site vault” in a modern cloud service solution.
+Here’s how to use the 3-2-1 backup rule to ensure you’re covered: Vendor-independent cloud
+If you’re interested in further reading, check out our e-Guide on SaaS data security for a thorough look into leading SaaS data security methodologies and how companies can raise the bar for their data protection in the cloud era.
+Convinced you need backup, but want to know more about data protection and management for your particular SaaS application, then explore how Keepit offers cloud data backup coverage for the main SaaS applications.

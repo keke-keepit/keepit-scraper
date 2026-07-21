@@ -1,0 +1,45 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/onedrive-data-restore-behavior/
+Content type: Web page
+Last modified: 2026-06-30T00:39:33+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+OneDrive data restore behavior
+This article describes how OneDrive data is restored, including restore options, handling of timestamps and duplicates, and whether items are deleted during the process.
+Item Restore
+Item restore: In-place
+Default behavior: All OneDrive items are restored to their original location.
+Modified items: Modified items (same name, different timestamps) will be overwritten.
+Timestamps behavior:
+- Connectors created before Keepit 4.7.0 (October 2021):
+- Files are restored with their original modification time.
+- Creation time reflects the time of restore.
+- Folders are restored with the restore date.
+- Connectors created after Keepit 4.7.0 (October 2021):
+- Files and folders are restored with both their original modification and creation times.
+Deletion behavior: When performing an item-level, items present in OneDrive but not in the selected snapshot will not be deleted.
+Item restore: To new folder
+You can choose to restore your OneDrive data to a separate, newly created folder.
+Important: This option is only available for Microsoft 365 connectors that were created before the release of 10.11.0 (September 2025).
+Folder location: A new folder will be created at the root level of your OneDrive, named: Keepit_Restore_[date]
+Folder requirement: The folder must still exist on the tenant. If it has been deleted, create a new folder with the same name before starting the restore.
+Deletion behavior: Items present in OneDrive but not in the selected snapshot will not be deleted.
+Connector level
+Connector level: In-Place
+Handling duplicates
+When restoring in place from the connector level, you can choose how to handle duplicates.
+Modified items — meaning files with the same name but different timestamps — will be handled according to the selected duplicate-handling option:
+- Skip duplicate items
+Modified items will be skipped.
+- Rename duplicate items
+Modified items will be added and renamed. The suffix "(1)" will be added to the filename.
+- Overwrite existing items
+Modified items will overwrite the existing OneDrive items.
+Items with the same name and same timestamps will always be skipped, regardless of the selected option.
+Deletion behavior: In all cases, items present in OneDrive but not in the selected snapshot will be deleted.
+Connector level: To new folder
+You can choose to restore your OneDrive data to a separate, newly created folder.
+Important: This option is only available for Microsoft 365 connectors that were created before the release of 10.11.0 (September 2025).
+Folder location: A new folder will be created at the root level of your OneDrive, named: Keepit_Restore_[date]
+Deletion behavior: Items present in OneDrive but not in the selected snapshot will not be deleted.

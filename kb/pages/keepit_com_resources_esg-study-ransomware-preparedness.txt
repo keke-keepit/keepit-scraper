@@ -1,0 +1,35 @@
+Source URL: https://www.keepit.com/resources/esg-study-ransomware-preparedness/
+Content type: Web page
+Last modified: 2025-08-14T23:52:30+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+ESG Report: 2023 Ransomware Preparedness
+Vulnerable to ransomware attacks? This new Enterprise Strategy Group (ESG) study shows you how to prepare
+Build ransomware resilience and keep your business running, even when disaster strikes
+With 3 in 4 respondent organizations having experienced a successful ransomware attack in the last 12 months, data protection is top-of-mind for IT and cybersecurity professionals. In fact, 65% of IT and cybersecurity professionals surveyed consider ransomware among the top 3 threats to their organization. And for good reason: according to the ESG Ransomware Study, 84% of organizations have lost some of their data in a ransomware attack.
+Readiness is crucial to ransomware mitigation, yet significant gaps exist for most companies. According to ESG’s report, only 16% of companies were able to recover all their data after an attack. In this study, ESG research connects the dots for how organizations can prepare for such an event – and prevent such data loss in the future - using recommended planning and best practices.
+What can I learn from the report?
+The report shines light on the prevalence of ransomware attacks, showing that it’s a matter of when, not if. Given that many organizations have yet to define a clear data protection strategy, the report outlines why and how this exposes organizations to risk – and potential ways to mitigate these threats.
+You’ll learn why it pays to be prepared – as well as strategies your organization can take to do so. Backing up your data can save your organization a significant amount of time and skip the extended downtime that many businesses experience when cyber disasters strike.
+As IT leaders, cyber security, and IT professionals alike are deeply concerned about the impact of ransomware attacks, the report highlights strategies for building resilience against ransomware threats.
+Key questions addressed in the study:
+- How frequent are ransomware attacks?
+- How can you prepare your organization for such an attack?
+- What are the best ways to prevent data loss in case of a data breach?
+- What are some common obstacles (and solutions) in securing proper security controls?
+- What are granular restores and air-gapping and how can they protect your data?
+- How can you minimize recovery time in the event of a ransomware attack?
+- How can third-party backup prepare your organization for potential cybersecurity threats? 
+ 
+ 
+The report will help you to:
+- Understand the measures some organizations have in place to defend against ransomware threats.
+- Examine the state of ransomware mitigation best practices along with readiness, prevention, response, and recovery stages.
+- Segment levels of ransomware preparedness for all key defense phases.
+- Identify priorities and plans associated with mitigating the ransomware threat in the upcoming 12-18 months.
+The key to ransomware resilience
+Restoring data from a backup solution was named as the go-to cyber recovery strategy by respondents.
+But 74% of respondents were still concerned that their backups could be compromised by ransomware as well.
+Keepit has the solution. With true third-party cloud backup, Keepit offers you immutable data copies stored on a separate infrastructure for optimal security. This means your data is safe and can be restored easily – no matter what.

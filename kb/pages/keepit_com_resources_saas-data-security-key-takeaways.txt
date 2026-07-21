@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/resources/saas-data-security-key-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The SaaS data security imperative: Webinar key takeaways on risks, threats and resilienceÂ
+We're at a critical juncture for data security. As AI adoption accelerates and SaaS environments grow increasingly complex and interconnected, organizations must move beyond traditional thinking to implement data-centric security strategies that can withstand modern threats. This was the focus of a recent Keepit webinar featuring guest speaker Heidi Shey, Principal Analyst at Forrester, exploring how organizations can shift their approach to SaaS data protection and resilience.
+Here’s what we learned:
+1) You need to redefine what sensitive data means. 
+It’s not just about PII, PHI, or PCI anymore. AI models, API keys, collaboration data, and SaaS backups all qualify as critical assets — and they must be classified and protected accordingly. 
+2) Risk doesn’t just target your data — it hides within it. 
+Poor data hygiene can lead to AI bias, bad decisions, and compliance failures. Understanding risk to, from, and in your data is essential to creating an effective security posture. 
+3) Security is a team sport — and it starts with better alignment. 
+From product owners to AI councils, a wide range of stakeholders must be engaged to drive meaningful progress. And working with vendors who support resilience goals is key. 
+Our webinar handout distills the key takeaways into practical next steps, including:
+- Three steps to strengthen your security posture
+- Key controls for securing SaaS environments
+- Three checkpoints for improving resilience 
+ 
+Download the handout now to build operational resilience and prepare your organization for what’s next.

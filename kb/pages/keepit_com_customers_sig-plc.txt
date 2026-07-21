@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/customers/sig-plc/
+Content type: Web page
+Last modified: 2026-01-07T13:42:52+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Provides SIG PLC with the Ultimate Insurance Policy
+Aware that Microsoft only backs up live data, SIG chose Keepit as their third-party backup of choice to secure their data in the cloud. Recognized as a "SaaS backup specialist" by Gartner, Keepit provides SIG with an unparalleled level of data security by delivering immutable data backup and role-based access control across multiple regions.
+Keepit's Immutable Backup for M365 Delivers Security, Saves Time
+After researching other backup options, Graham Gunner, Group Head of Infrastructure at SIG PLC, shares that Keepit's cloud backup solution delivered the security they were searching for. After a quick and easy setup, Keepit effectively ensured that SIG's M365 backup was immutable and undeletable. Compared to relying on Microsoft's limited backup options, SIG could rest assured that their data would be available and restorable in the case of data loss.
+People think that Microsoft has got everything backed up. The reality is: they have your live data secured, but if you want to go back in time, or if an admin deletes your data and all your backups, you're dead in the water.
+Graham Gunner
+Group of Head of Infrastructure at SIG PLC
+Role-Based Access Control Provides Simplicity Across Global Teams
+With separate IT teams across 6 countries, SIG was on the lookout for a backup solution that could provide each country with their own autonomy. Keepit delivered role-based access control so that each IT team could operate with their own policies, giving each region simple, country-level control. With over 7,000 users in these six regions, SIG experiences an added benefit of being able to preserve user data once a user has left, without having to pay extra licensing fees.
+The ability to delegate access across six different regions was key for us. In the case of an admin credential getting compromised, this setup would ensure that we could restore multiple users at once.
+Graham Gunner
+Group Head of Infrastructure at SIG PLC
+Third-Party Backup the Answer to Rising Ransomware Threats
+SIG views Keepit as an insurance policy. Aware of the rise in ransomware threats globally, SIG is aware of their responsibility of backing up their data in the cloud. Even if an admin credential were to become comprised, SIG is confident that they would be able to quickly restore their data even in the event of temporary data loss. The promise of undeletable data allows SIG to rest easy that their data will still be backed up in the event of a ransomware attack.
+Keepit is an insurance policy for us. If the worst happens, then we've got our data stored somewhere else.
+Graham Gunner
+Group Head of Infrastructure at SIG PLC

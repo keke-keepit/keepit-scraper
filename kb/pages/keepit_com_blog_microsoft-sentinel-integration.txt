@@ -1,0 +1,30 @@
+Source URL: https://www.keepit.com/blog/microsoft-sentinel-integration/
+Content type: Web page
+Last modified: 2026-01-21T14:50:03+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit integration with Microsoft Sentinel: Export backup insights to your SIEM
+Backups are your last line of defense. When something changes around protected data — whether by mistake, misconfiguration, or malicious action — your SOC (security operations center) should see it quickly and act with confidence.
+Keepit’s integration with Microsoft Sentinel lets you export relevant backup and audit activity into your SIEM, so detection, investigation, and response happen alongside the rest of your security data.
+What data can be exported to SIEM?
+- By default: Audit logs — the events most interesting for SOC teams.
+- Can be extended: Monitoring signals or anomaly-related events — optional for customers who want additional context. Read about anomaly detection.
+Start with audit logs for the clearest, most actionable view of user and system activity around backup and recovery. Extend if/when your team needs broader telemetry.
+What’s the benefit of this integration?
+How does exporting Keepit logs help security teams do their job?
+- Enhanced threat detection. Surface patterns like unauthorized deletions, unusual job failures, or abnormal activity (anomaly detection) that can indicate ransomware or tampering — and correlate with identity, endpoint, or network data in your SIEM.
+- Accelerated incident response. Real-time monitoring enables alerts and automated workflows. If a critical job fails or is deleted, the SOC can trigger investigation or isolate affected assets fast.
+- Centralized compliance and auditing. Create a single, searchable evidence trail to support frameworks such as ISO 27001, GDPR, and NIST.
+- Reduced alert fatigue. Put backup events in context with other telemetry to cut noise and prioritize real issues.
+- Unified security visibility. See backup and recovery activity alongside endpoints, identities, and networks for a complete view of posture and recoverability.
+How does the integration work?
+Keepit makes relevant backup and audit activity available to Microsoft Sentinel so you can monitor, correlate, and respond alongside the rest of your security data. You can set it up in two ways:
+- Keepit Azure Resource Manager (ARM) template — a ready-made setup that deploys the required components in minutes. Ideal for a quick, standardized rollout via infrastructure-as-code.
+- Azure Function connector — a lightweight, flexible option that pulls data from Keepit and pushes it into Sentinel. Useful if you want to customize shaping or parsing.
+Both options ensure your Keepit events are visible and actionable in Sentinel.
+Available to all Keepit customers
+The Microsoft Sentinel integration is a standard capability included in all Keepit packages and available to all customers and partners. The Microsoft Sentinel integration is planned for the10.11 release which will be at the end of September.
+Where to go from here
+By integrating Keepit audit logs with Microsoft Sentinel, your security team gains visibility into backup activity, can track regulatory compliance, and can detect anomalies or malicious actions targeting backups — so the team can rapidly coordinate response and recovery. Learn how to deploy the Keepit ARM template to Microsoft Sentinel.

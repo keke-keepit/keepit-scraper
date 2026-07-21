@@ -1,0 +1,60 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-monitoring-summary-for-connector/
+Content type: Web page
+Last modified: 2026-04-01T10:27:45+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve monitoring summary for connector
+This command retrieves a monitoring summary for a specific connector.
+API request
+Method GET
+/users/{account_id}/devices/{connector_id}/monitoring/summary
+Example
+(with a timeframe):
+Method GET
+https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/devices/11ptlk-st7sly-ggba4c/monitoring/summary?from=2025-05-31T21%3A00%3A00.000Z&to=2025-06-11T21%3A00%3A00.000Z
+Response
+Code: 200 OK
+Response body:
+<summary>
+    <size>
+        <added>570614</added>
+        <removed>1480650531</removed>
+        <modified>89830</modified>
+    </size>
+    <count>
+        <added>10</added>
+        <removed>63956</removed>
+        <modified>80</modified>
+    </count>
+</summary>PowerShell script
+try {
+    $username = '<API Token username>'
+    $password = '<API Token password>'
+    $hostname = 'dk-co.keepit.com'
+    $userId = '<Account GUID>'
+    $connectorId = '<Connector GUID>'
+    $from = [uri]::EscapeDataString('2025-05-31T21:00:00.000Z') # Replace with your desired start date/time in ISO 8601 format
+    $to = [uri]::EscapeDataString('2025-06-11T21:00:00.000Z')   # Replace with your desired end date/time in ISO 8601 format
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $url = "https://${hostname}/users/${userId}/devices/${connectorId}/monitoring/summary?from=${from}&to=${to}"
+    $response = Invoke-WebRequest -UseBasicParsing -Uri $url -Method GET -Headers $headers -TimeoutSec 10 -ErrorAction Stop
+    $xmlContent = [xml]$response.Content
+    foreach ($node in $xmlContent.summary.ChildNodes) {
+        Write-Host "$($node.Name):"
+        foreach ($subnode in $node.ChildNodes) {
+            Write-Host "  $($subnode.Name): $($subnode.InnerText)"
+        }
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}Script result
+size: added: 570614 removed: 1480650531 modified: 89830 count: added: 10 removed: 63956 modified: 80

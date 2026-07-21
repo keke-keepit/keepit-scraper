@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/keepit-platform/responsible-ai/
+Content type: Web page
+Last modified: 2026-03-16T04:27:51+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+AI is the topic of the hour. Certainly, AI can bring many benefits and boost productivity, but as it evolves, so do the risks:
+- Automation can amplify mistakes
+- Agentic systems can change data at scale
+- Threat actors magnify their reach and the effectiveness of their attacks
+- Visibility and control are reduced, leading to governance issues
+Keepit helps IT and Security leaders mitigate these challenges.

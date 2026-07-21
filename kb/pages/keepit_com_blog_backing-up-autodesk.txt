@@ -1,0 +1,32 @@
+Source URL: https://www.keepit.com/blog/backing-up-autodesk/
+Content type: Web page
+Last modified: 2026-07-15T09:58:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Autodesk Forma
+Autodesk Forma — formerly known as Autodesk Construction Cloud — has become a critical application for the Architecture, Engineering, and Construction (AEC) industry. It holds the drawings, RFIs, submittals, transmittals, issues logs, and cost data that keep projects moving. Lose access to that data, even briefly, and the impact is felt immediately on site.
+Keepit is the first enterprise SaaS data protection platform to provide independent backup and recovery for Forma, making sure that all areas of your business can continue running, even when the worst happens.
+Shared responsibility in Autodesk Forma
+Like most SaaS platforms, Autodesk follows a shared responsibility model: It secures and operates the platform, manages infrastructure resilience, and replicates data between storage locations. But customers remain responsible for their own data — how it's retained, protected, and recoverable.
+This means that while the SaaS provider keeps the platform running, customers carry responsibility for:
+- Long-term data retention beyond the active subscription period
+- Recovery from bulk permission changes, or misconfigured integrations
+- Maintaining backup copies outside the vendor environment
+- Meeting their own business continuity and disaster recovery requirements
+When a platform incident occurs, native capabilities won’t be enough to keep your project up and running.
+Why Autodesk Forma data needs independent backup
+Forma is where project teams manage the information they cannot afford to lose. Drawings have version histories and issues logs track defects through to resolution. If any of this data becomes inaccessible — whether from a platform outage, accidental modification, or an infrastructure event upstream — project teams lose the reference they rely on to keep work moving.
+At a broader level, it also acts as a compliance and audit record. For regulated construction firms, retained project documentation supports contractual obligations, audit readiness, and regulatory recordkeeping requirements. When records are incomplete or inaccessible, the consequences can extend well beyond operational delay.
+Autodesk Forma provides a Deleted Items recovery area and preserves version history during an active subscription. But it does not offer point-in-time restore, customer-controlled backup retention policies, or long-term archive capability outside the platform. Recovery from a platform incident is managed on their timeline, not the customer's.
+Keepit Backup and Recovery for Autodesk Forma
+Keepit provides independent backup, storing project data entirely outside the SaaS providers' infrastructure.
+Backing up Autodesk Forma with Keepit ensures:
+- Independent protection: Backup data is stored on Keepit's own vendor-neutral cloud, separate from Autodesk's environment, securing business continuity
+- Automated snapshots: Two snapshots per day by default, with configurable retention — no manual exports required
+- Broad project coverage: Users, companies, projects, sheets and sheet versions, files and folder structures, file packages, issues with comments and attachments, issue settings, and transmittals
+- Point-in-time reference: Each snapshot is a complete, time-indexed copy of your environment, accessible even during a platform outage
+Keepit protects your most critical SaaS applications — in one platform
+The Keepit platform delivers independent backup and recovery across the SaaS application ecosystem. From project management to your source code — to now Autodesk — Keepit offers you the last line of defense against data loss. Currently offering backup and recovery for 17 applications, the Keepit platform makes securing your SaaS data simple.
+For construction organizations managing complex, multi-party projects in Autodesk Forma, Keepit helps close the gap between what Autodesk provides natively and what project and business continuity requires.

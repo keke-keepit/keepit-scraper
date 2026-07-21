@@ -1,0 +1,119 @@
+Source URL: https://www.keepit.com/services/backup-zendesk/
+Content type: Web page
+Last modified: 2025-02-23T21:35:08+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup and recovery for Zendesk
+Comprehensive protection, fast recovery, and top-notch security for your Zendesk support data.
+Why back up Zendesk?
+No disruptions in your service organization
+Automations are one of the key reasons why companies love Zendesk. Not having a proper backup and recovery solution in place puts you at risk of losing all your automations.
+Easy access to your data, from the one file to the whole pack
+With Zendesk disaster recovery feature, recovering a single important ticket or customer interaction force you to look for a needle in a massive haystack.
+Recycle bin covers only 40 days
+When you delete an item in Zendesk, it goes in the recycle bin. But it only stays there for 40 days, then it’s gone forever. Far too few Zendesk users are aware of the finality of this functionality.
+Top benefits
+Secure your data
+With Keepit’s independent, purpose-built cloud and unique storage architecture and security, your data are immutable.
+Protect your automations
+Protect yourself against accidental or malicious deletion of automations, triggers, macros, and views.
+Restore in minutes
+Immediate data immutability to ransomware. Our blockchain-verified storage and file system ensure unparalleled security protection.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+How Keepit helps you
+We protect your critical triggers, automation, macros, and views from accidental deletion or breaking changes.
+You can simply restore to a time before the automation was deleted or changed.
+Search for your automation in the system, and with a few clicks, your automation is restored.
+Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
+With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
+Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
+Fast search
+Fast federated search lets you search across all backup data so you can find what you need quickly.
+Smart search
+Controllable smart search allows partial or even misspelled search terms to provide results.
+Deleted items view
+If you’re not sure what was lost, activating the Deleted Items View takes the guesswork out of finding lost data. You can view all data that ever existed and was backed up on a tenant.
+Get started in few minutes
+Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.
+Intuitive user interface
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
+API-first
+You can integrate Keepit with your existing systems thanks to our API-first approach.
+Audit Logs. Track any user activity inside the Keepit platform, allowing you to monitor, review, and investigate any potential breaches.
+Job Monitor. Detect abnormalities in the job monitor and discover changes on a snapshot basis as well as the number of changes made.
+Data Sovereignty. Keepit operates its own data centers in multiple regions globally, helping you meet sovereignty requirements.
+The Right to be Forgotten. Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.
+Security Controls. Manage who has access to data and what permissions they have with granular Role Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
+Get your Zendesk data back instantly with smart search, file preview, and granular restore functionalities.
+Save training time for your team with our easy-to-use and easy-to-restore tool.â¯â¯
+With point-in-time restore capability, restore your data from a previous snapshot.
+Access versatile restore options (with download capabilities for data objects and folders) and provide users with relevant and secure shareable links.
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+Frequently asked questions
+Top three reasons why you should backup your Zendesk data:
+- To protect your Automations, Macros, and Triggers from accidental deletion
+- To gain granular restore capability of your Zendesk data at any time, from anywhere
+- So you can retain deleted data longer than 40 days
+ 
+Read more on why you must back up your Zendesk application and how this allows you to avoid 5 costly problems by reading this blog post.
+It depends on the Service Offering you choose. For more details, visit our pricing page
+Keepit provides:
+- Backup for your automation, trigger, and macros
+- Granular data restoration of Zendesk in minutes
+- Unlimited storage and archiving as your data scales up
+No, Keepit interface is designed to save your admin's time to setup and restore. It's designed to be setup in minutes and allow data restore in a few clicks.
+Your data will be securely stored in Keepit’s independent cloud. We run our own data center regions, operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have six data center regions in:
+- Americas: Washington D.C., USA & Toronto, Canada
+- Europe: London, United Kingdom
+- EU: Copenhagen, Denmark & Frankfurt, Germany,
+- Asia: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always go to that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, then Keepit will negotiate the moves with all affected customers prior to execution.
+Yes, and we have our headquarters in Denmark, EU. Read more here.

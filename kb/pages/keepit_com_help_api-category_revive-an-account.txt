@@ -1,0 +1,39 @@
+Source URL: https://www.keepit.com/help/api-category/revive-an-account/
+Content type: Web page
+Last modified: 2025-10-16T09:56:48+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Revive an account
+This command revives an account or subaccount that is scheduled for deletion.
+API request
+Method PUT
+/users/{account_id}/revive
+Example
+Method PUT
+https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka/revive
+Response
+Code: 200 OK
+Response body:
+Account revived.
+PowerShell script
+try {
+    $username = '<Token username>'
+    $password = '<Token password>'
+    $userId = '<Account ID>'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+  
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $url = "https://dk-co.keepit.com/users/$userId/revive"
+    $response = Invoke-WebRequest -UseBasicParsing -Uri $url -Method PUT -Headers $headers -ErrorAction Stop -TimeoutSec 10
+    Write-Host "$($response.Content)"
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}

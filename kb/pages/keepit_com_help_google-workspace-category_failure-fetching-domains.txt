@@ -1,0 +1,12 @@
+Source URL: https://www.keepit.com/help/google-workspace-category/failure-fetching-domains/
+Content type: Web page
+Last modified: 2025-03-11T20:17:05+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Failure fetching domains
+If you see a message saying that your Google Workspace connector failed to fetch the domains, the reason may be because API access is disable in the Google Admin console.
+Before you try to enable API access, we recommend that you delete any existing Google Workspace connectors from Keepit. These connectors should not have any data in them yet. If for some reason they do, please contact Support before deleting them.
+To enable the API, please follow the instructions mentioned here: https://support.google.com/a/answer/60757?hl=en|
+After the API has been enable you can add new connectors.

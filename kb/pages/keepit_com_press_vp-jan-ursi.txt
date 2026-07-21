@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/press/vp-jan-ursi/
+Content type: Web page
+Last modified: 2025-09-18T12:08:27+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit appoints Jan Ursi to drive global success in the expanding channel ecosystem
+Ursi brings a proven track record of scaling technology businesses through fast-evolving, strong partner networks.
+Copenhagen, Denmark — September 18, 2025 — Keepit, the market leader in SaaS data protection, recovery and cyber resilience, today announced the appointment of Jan Ursi as Vice President of Global Channels. With extensive experience in building high-impact partner ecosystems, Ursi will lead Keepit’s global partner strategy to meet accelerating market demand for SaaS data backup and recovery.
+Ursi brings a proven track record of scaling technology businesses through strong partner networks. He has led partner and alliance initiatives at Rubrik, UiPath, Nutanix, and Infoblox, and earlier helped expand NetScreen and Juniper in Europe. Beginning his career at Alcatel-Lucent, Ursi has consistently been at the forefront of introducing disruptive technologies to new markets, from networking, enterprise cloud and hyperautomation to cyber resilience.
+Strengthening partnerships
+At Keepit, Ursi will focus on expanding the company’s partner ecosystem worldwide, strengthening relationships that make Keepit’s independent, vendor-neutral SaaS data protection and cyber resilience available to organizations in every market. His priority is to ensure partners are positioned as the default go-to-market engine — enabling customers to access Keepit’s solutions through trusted local relationships, while driving long-term, scalable growth.
+“Jan has a rare ability to not only build strong partner networks, but also to inspire trust and collaboration across teams, markets, and industries,” said Craig Bumpus, Chief Revenue Officer at Keepit. “As organizations everywhere face growing cyber resilience and compliance challenges, Jan’s leadership will ensure that our partners are empowered to deliver the value, simplicity, and independence that set Keepit apart.”
+“Most partner-friendly organization in the world”
+Ursi’s approach goes beyond short-term profit goals. He is committed to equipping partners with the tools, attention, relationships, and confidence to deliver long-lasting value — positioning Keepit as the most partner-friendly organization in the world across all functions. By combining Keepit’s unique collaborative culture, independent cloud infrastructure, predictable all-inclusive SaaS pricing, and most complete support of SaaS applications with the local expertise of partners, Ursi aims to make SaaS data protection accessible to every organization, everywhere.
+“Keepit’s culture is built on making each other stronger — colleagues, customers, and partners alike,” said Ursi. “That collaborative foundation is the ideal platform for growth. My mission is to ensure Keepit becomes synonymous with the channel — and with that, to deliver peace of mind to more organizations, faster, making their business thrive.”
+Peace of mind — and data sovereignty
+Keepit is uniquely positioned to meet the needs of organizations seeking secure, independent, and scalable SaaS data protection. Unlike other providers that rely on mainstream hyperscaler infrastructure, Keepit owns and operates its own data centers and technology stack, ensuring full control of costs, predictable pricing, and unmatched simplicity, security and compliance. Within one hour of setup, customers achieve complete peace of mind and data sovereignty — a promise no other vendor in the industry can make.
+With Jan Ursi leading the global channels organization, Keepit is strengthening its ability to deliver on its mission: protecting the crown jewel of every business — its data.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 18,000 companies trust Keepit for its ease of use and effortless, backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

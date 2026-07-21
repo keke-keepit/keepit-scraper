@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/help/entra-id-category/restore-a-conditional-access-policy/
+Content type: Web page
+Last modified: 2026-07-04T00:12:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore an Entra ID conditional access policy
+Restoring a conditional access policy will update its settings and links to existing users, groups, and roles.
+Restore a conditional access policy
+1. In your connector, find the conditional access policy you want to restore.
+2. Optional: If you want to restore an item from an earlier point in time, open the Snapshots Viewer. Then select the appropriate snapshot.
+3. Point to the item and click ••• > Restore.
+4. Select whether to restore missing policy users and groups.
+These are included/excluded users and groups that have been deleted from the tenant. 
+- If you select Restore only this policy, click Next.
+- If you select Also restore missing users and groups, click Next. Then select what users and groups to restore and click Next.
+ Note: Only missing users and groups will be created. Existing users and groups will not be updated.
+5. Review the summary and click Restore.
+What settings are restored?
+Restoring conditional access policies will update the following settings:
+- Assignments (to users, cloud apps or actions, conditions)
+- Grant and session access controls
+- Enable status

@@ -1,0 +1,54 @@
+Source URL: https://www.keepit.com/help/zendesk-category/what-happens-to-zendesk-data-after-you-restore/
+Content type: Web page
+Last modified: 2025-03-11T20:08:58+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What happens to Zendesk data after you restore
+Tickets
+A ticket is restored as a copy and given a new ID. The original timestamp is preserved.
+All ticket field values and ticket form values are restored.
+Ticket comments
+All ticket comments and comment attachments are restored
+Ticket Metadata
+Ticket fields
+Ticket fields can be restored all together or individually.
+Only custom fields, not standard fields, can be restored.
+If a custom field has a tag already in use in Zendesk in a drop-down, multi-select, or checkbox, the restore will be unsuccessful. This is because custom fields cannot have duplicate tags in Zendesk.
+Ticket forms
+Ticket forms can be restored all together or individually.
+A ticket form can be restored only if all fields that are part of the form still exist in Zendesk.
+Users
+Team members
+A team member is restored with all backed up properties including custom properties, personal views, and personal macros.
+A team member is returned as a member to groups and organizations that still exist in Zendesk. Ð team member is also returned as a subscriber to organizations.
+End users
+An end user is restored with all backed up properties including custom properties.
+An end user is returned as a member to organizations that still exist in Zendesk.
+User Metadata
+User fields
+User fields can be restored all together or individually.
+If Ð° user field already exists in Zendesk, the restore will be unsuccessful. This is because user fields cannot have duplicate field keys.
+Groups
+A group is restored with all group properties.
+A restored group will be re-linked to all team members that still exist in Zendesk.
+Organizations
+An organization is restored with all backed up properties including custom fields.
+A restored organization will be re-linked to all team members and end users that still exist in Zendesk.
+Organization subscriptions will be renewed for team members that still exist in Zendesk.
+Organization Metadata
+Organization fields
+Organization fields can be restored all together or individually.
+If an organization field already exists in Zendesk, the restore will be unsuccessful. This is because organization fields cannot have duplicate field keys. 
+Automations, Macros, Triggers, Views
+Automations, macros, triggers, and views can be restored only if all the linked groups, organizations, team members, and end users are still present in Zendesk.
+View
+A view is restored with all properties and executions.
+Macro
+A macro is restored with all properties and action references.
+Automation
+An automation is restored with all properties and conditions.
+If an automation already exists in Zendesk, the restore will be unsuccessful. This is because automations cannot have duplicate conditions.
+Trigger
+The trigger is restored with all properties and conditions.

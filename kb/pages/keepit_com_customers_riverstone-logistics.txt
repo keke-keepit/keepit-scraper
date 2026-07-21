@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/customers/riverstone-logistics/
+Content type: Web page
+Last modified: 2026-07-14T18:35:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+From risk to ready: How Riverstone Logistics closed its disaster recovery gap
+Riverstone Logisticsâ¯moves big and bulky freight across complex supply chains for manufacturers, retailers, home builders, and national brands. That kind of operation depends on reliable technology, and as the company’s Microsoft 365 footprint grew, so did a critical question: what happens to business-critical data if something goes wrong? Protecting it from accidental deletion, ransomware, insider threats, or operational disruptionsâ¯wasn’tâ¯just an IT concern — it was a business continuity requirement.â¯ Riverstone needed an independent backup and recovery solution that could stand apart from the Microsoft environment, align with its long-term security strategy, and scale without adding management overhead.â¯
+We needed something that could stand on its own — separate from the Microsoft environment — so that if something went wrong, we’d have a clear path to recovery.
+– Michelle Graham 
+Sr. Security Engineer, Riverstone Logistics
+A trusted advisor makes the introductionâ¯â¯
+Riverstoneâ¯didn’tâ¯find Keepit on its own. Alchemy Technology Group, a long-standing technology partner, made the connection after taking time to understand Riverstone’s environment, businessâ¯objectives, and security roadmap. Rather than pushing a ready-made solution, Alchemy advocated for theâ¯optionâ¯that bestâ¯fitâ¯Riverstone’s actual needs. As Graham puts it, the partnership with Keepitâ¯wouldn’tâ¯have happened without Alchemy’s guidance.â¯
+Meeting customers where they areâ¯
+From the first conversation, the Keepit team took time to understand Riverstone’s environment, recovery goals, and growth plans before recommending a path forward. Rather than applying a fixed approach, they worked toâ¯identifyâ¯the licensing and configuration that made the most sense for where Riverstone was and where it was headed. That kind of consultative engagement is central to how Keepit approaches new customer relationships.â¯
+The implementation reflected the same spirit. Onboarding was straightforward, and Riverstone’s team came away understanding not just how to use theâ¯platformâ¯but why it was built the way it was. That foundation matters: Keepit’sâ¯immutable-by-design architecture means backups are stored in a resilient, independent cloud with an air-gapped design, so dataâ¯can’t be altered orâ¯deleted, giving Riverstone reliable recovery points regardless of what caused the disruption.â¯
+The onboarding experience felt more like a partnership than a vendor engagement. Questions were answered quickly, and we always felt like we had support.
+– Michelle Graham 
+Sr. Security Engineer, Riverstone Logistics
+Disaster recovery readiness, by designâ¯â¯
+Since deploying Keepit for Microsoft 365 and Entra ID, Riverstone Logistics has gained something that’s hard to put a number on: confidence. The team now has independent backup protection for the collaboration and identity services that keep the business running. Recovery processes are simpler,â¯business continuity planning is on stronger footing, and executives have greater visibility into the organization’s overall resilience posture.â¯
+For Riverstone, Keepit has become a core part of a broader cyber resilience strategy, supporting ongoing work around security maturity, compliance readiness, and operational continuity.â¯
+Keepit has become an important component of our overall cyber resilience strategy and supports our broader efforts around security maturity, compliance readiness, and operational continuity.
+– Michelle Graham 
+Sr. Security Engineer, Riverstone Logistics
+A platform built to grow with the businessâ¯â¯
+As Riverstone Logistics continues to mature its security and business continuity programs, Keepit remains part of the plan. The platform is built to scale, and the relationship between Riverstone, Alchemy, and Keepit is built on the kind of trust that tends to last.â¯
+“The combination of a strong platform, responsive support, and a customer-focused approachâ¯hasâ¯made Keepit a valuable addition to our technology ecosystem,” Graham says.â¯

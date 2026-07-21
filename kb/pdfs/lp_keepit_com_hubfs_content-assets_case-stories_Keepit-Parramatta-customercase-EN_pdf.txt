@@ -1,0 +1,105 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Parramatta-customercase-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+Customer case
+Keepit and the City of Parramatta: 
+Implementing 
+secure SaaS backup
+
+True SaaS backup 
+The City of Parramatta started migrating from its 
+on-premises infrastructure to Microsoft 365 in 
+late 2018, which was subsequently accelerated 
+by the COVID-19 pandemic. The Council, with 
+1,500 employees and 25 TB of data, needed a 
+secure, immutable backup solution as the city’s 
+legacy backup system was no longer sufficient 
+for the new cloud-based environment being 
+implemented. Keepit was recommended to the 
+Council through their long-standing partner, 
+Seccom Global.
+“During our transition, we highlighted the 
+confidentiality, integrity and availability of our 
+data. Keepit’s solution is appealing to us as 
+it’s true SaaS backup — no data from a cloud 
+provider needs to traverse our network and data 
+is stored in an independent cloud,” says Les 
+Pall, ICT Technical Operations Manager, City of 
+Parramatta.
+“A backup and recovery solution must be simple, 
+easy to use and reliable. Keepit allows us to 
+quickly recover what we need, and we have 
+confidence in the solution.”
+- Les Pall, 
+ICT Technical Operations Manager, City of Parramatta
+Customer case:
+City of Parramatta
+The City of Parramatta, a city in Greater Western Sydney, Australia, needed to find a secure 
+SaaS backup solution during its transition to Microsoft 365. Keepit’s solution, which supports 
+backup for Exchange, Teams, OneDrive, SharePoint, and Power BI, met the council’s regulatory 
+requirements for data sovereignty and cybersecurity certifications. The simplicity and reliability 
+of Keepit’s solution has resulted in a reduced workload and improved data protection for the city.
+
+About the City of Parramatta
+The City of Parramatta, also known as Parramatta 
+Council, is a local government area located in Sydney, 
+Australia. The City of Parramatta has an estimated 
+population of 250,000 people, and it houses the 
+Parramatta central business district which is one of the 
+key suburban employment destinations for the region 
+of Greater Western Sydney.
+About Seccom Global
+Seccom Global is an Australian-based Managed 
+Security Services Provider (MSSP) that was founded 
+in 2003. They specialize in providing comprehensive 
+IT security solutions, including cybersecurity 
+consultancy, managed security services, and network 
+security solutions. 
+Independent and immutable data storage    
+The city needs fool-proof assurance that its 
+data protection is up to par as multiple national 
+and state oversight agencies conduct regular 
+audits on data protection and cybersecurity 
+practices. “Using immutable storage is important. 
+Separating work data from our long-term data 
+storage is also crucial in protecting ourselves 
+against ransomware and other cyberthreats,” 
+adds Les. 
+Keepit’s solution meets the highest security 
+standards with ISO 27001 certification across all 
+locations and annual ISAE 3402-II certification.
+Data sovereignty as a requirement 
+On top of security requirements, compliance 
+with regulations was a key factor for the City of 
+Parramatta when choosing a data protection 
+partner. The Keepit platform simplifies 
+compliance by offering SaaS data protection 
+aligned with key regulations such as NIS2, NIST, 
+and GDPR. Keepit’s seven data center regions 
+across the globe ensure customers can rely on 
+their data being stored locally.
+Simple, cost-effective data protection 
+Choosing Keepit has resulted in a reduced 
+workload for the Council, helping them to 
+manage and secure all Microsoft 365 data in 
+a cloud-native data protection platform. The 
+platform’s intuitive interface requires little to no 
+training, allowing customers to locate, preview, 
+and restore data with just a few clicks.
+Customer case:
+City of Parramatta
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+“We require that data is stored in Australia. 
+That’s the first requirement for any 
+governmental organization.”
+- Les Pall, 
+ICT Technical Operations Manager, City of Parramatta

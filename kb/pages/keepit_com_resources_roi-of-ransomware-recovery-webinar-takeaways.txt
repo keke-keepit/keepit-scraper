@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/resources/roi-of-ransomware-recovery-webinar-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The ROI of ransomware recovery: Webinar key takeaways
+Did you know that there’s a concerning gap when it comes to organizations’ disaster recovery plans for SaaS platforms?
+Speaking on our recent webinar, Forrester senior analyst Brent Ellis said: “[Out of 2000 enterprise software decision makers], 87% said they’re either currently using a SaaS application, or they plan to in the next 12 months. But [in a separate survey when I asked disaster recovery professionals] if SaaS platforms are within the scope of their organization’s disaster recovery planning, only 36% had a wholehearted yes. And when I asked does your organization currently backup your SaaS hosted data? 14% said no. And if you’re talking about disaster recovery planning and 14% don’t do backup of that data, that leaves a big question mark about whether you’re actually able to recover from a particular disaster to that platform.”
+These numbers clearly show that only a small percentage of organizations is fully prepared for the scenario of a cyberattack and can ensure business continuity if their SaaS platforms are affected.
+To hear more about these findings, watch our on-demand webinar, The ROI of ransomware recovery.
+In this webinar, Brent Ellis, Forrester Senior Analyst, Elia Gollini, Forrester Associate Consultant, and Paul Robichaux, Microsoft MVP and Senior Director of Product at Keepit, dive into the current state of ransomware preparedness and discuss practical strategies to improve DR plans as well as the ROI companies can realize when deploying Keepit for ransomware recovery.
+You can also download our key takeaways document to get the most important insights:
+- The 12 most important risk factors for SaaS data resilience and disaster recovery
+- Which strategies and best practices Forrester recommends to enhance resilience
+- How Keepit customers realized an ROI of 163% over three years, predominantly through a 90% reduction in recovery time
+The handout also includes our checklist for disaster recovery and business continuity, answering the question of “What does good recovery look like?” This will help guide your organization through the process of setting up a solid recovery plan for when disaster strikes.
+For related resources, you can also check out our disaster recovery guide here: When disaster strikes: A guide to data recovery and business continuity

@@ -1,0 +1,50 @@
+Source URL: https://www.keepit.com/help/entra-id-category/supported-entra-id-object-attributes/
+Content type: Web page
+Last modified: 2026-07-03T23:38:39+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+| Attribute | Description | 
+| accountEnabled | Defines if account is enabled or not. | 
+| ageGroup | Age group of the user: minor, notAdult, adult | 
+| businessPhones | The telephone numbers for the user. | 
+| city | The city in which the user is located. | 
+| companyName | The company name which the user is associated. | 
+| consentProvidedForMinor | Sets whether consent has been obtained for minors: granted, denied, notRequired | 
+| country | The country/region in which the user is located. | 
+| createdDateTime | The date the user object was created. | 
+| creationType | If the user account was created as a local account for an Entra ID B2C tenant, the value is LocalAccount or nameCoexistence | 
+| deletedDateTime | For some Entra ID objects (user, group, application), if the object is deleted, it is first logically deleted, and this property is updated with the date and time when the object was deleted. Otherwise this property is null. If the object is restored, this property is updated to null. | 
+| department | The name for the department in which the user works. | 
+| displayName | The display name for the user. | 
+| employeeHireDate | The date and time when the user was hired or will start work in case of a future hire. | 
+| employeeId | The employee identifier assigned to the user by the organization. | 
+| employeeOrgData | Represents organization data (e.g. division and costCenter) associated with a user. | 
+| employeeType | Captures enterprise worker type (e.g. Contractor, Consultant, Employee) | 
+| externalUserState | For an external user invited to the tenant this property represents the invited user's invitation status. | 
+| externalUserState ChangeDateTime
+ | Shows the timestamp for the latest change to the invitation status (externalUserState) property. | 
+| faxNumber | The fax number of the user. | 
+| givenName | The given name (first name) of the user. | 
+| identities | Represents the identities that can be used to sign in to this user account. An identity can be provided by Microsoft (also known as a local account), by organizations, or by social identity providers such as Facebook, Google, and Microsoft, and tied to a user account. | 
+| jobTitle | The user's job title. | 
+| lastPasswordChangeDateTime | The date the the user last changed their password. | 
+| mail | The SMTP address for the user. | 
+| mailNickname | The mail alias for the user. | 
+| mobilephone | The primary cellular telephone number for the user. | 
+| officeLocation | The office location in the user's place of business. | 
+| onPremisesImmutableId | This property is used to associate an on-premises user account to their Entra ID user object. | 
+| onPremisesProvisioningErrors | Errors when using Microsoft synchronization product during provisioning. | 
+| otherMails | A list of additional email addresses for the user | 
+| passwordPolicies | Specifies password policies for the user. | 
+| postalCode | The postal code for the user's postal address. | 
+| preferredDataLocation | The preferred data location for the user. | 
+| preferredLanguage | The preferred language for the user. | 
+| showInAddressList | If the Outlook global address list should contain this user. | 
+| state | The state or province in the user's address. | 
+| streetAddress | The street address of the user's place of business. | 
+| surname | The user's surname (family name or last name). | 
+| usageLocation | A two letter country code (ISO standard 3166). Required for users that will be assigned licenses due to legal requirement to check for availability of services in countries. | 
+| userPrincipalName | The user principal name (UPN) of the user. The UPN is an Internet-style login name for the user based on the Internet standard RFC 822. By convention, this should map to the user's email name. The general format is alias@domain, where domain must be present in the tenant's collection of verified domains. | 
+| userType | A string value that can be used to classify user types in your directory, such as "Member" and "Guest." |

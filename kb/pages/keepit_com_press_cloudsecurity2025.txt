@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/press/cloudsecurity2025/
+Content type: Web page
+Last modified: 2025-08-20T02:30:18+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit recognized for excellence at the Cloud Security Awards 2025
+Keepit named “Best Security Solution for Data Management/Data Protection” for the second year in a row
+Copenhagen, Denmark – May 8, 2025 – Keepit, a global provider of a comprehensive cloud backup and recovery platform, today announced its win at the Cloud Security Awards. Keepit secured the title of “Best Security Solution for Data Management / Data Protection” for the second year running, underscoring its position as a leader in cloud data protection. Keepit was also a finalist in the “Best SaaS Security Solution” category.
+Headquartered in Copenhagen, Denmark, with offices in the US, Germany, France and the UK, Keepit provides leading data protection to over fifteen thousand companies across the globe.
+“We’re proud to receive recognition for Keepit’s leading data protection platform. The continued move to store and secure data in the cloud has resulted in huge amounts of business-critical cloud data that is vulnerable to human error, ransomware attacks, or service provider downtime. Securing data in our vendor-independent cloud ensures uninterrupted access to your company’s most critical asset – data,” says Michele Hayes, CMO at Keepit.
+Key benefits of the Keepit platform include:
+- Data protection for all major SaaS applications in a single platform, including Azure DevOps, Dynamics 365, Microsoft Entra ID, Google Workspace, Microsoft 365, Power Platform, Salesforce, and Zendesk.
+- Vendor-independent cloud: Keepit ensures backup data is stored separately from the production data, on its independent cloud, meaning data is always accessible even if a SaaS vendor has downtime.
+- Data sovereignty: with seven isolated data center regions, Keepit’s customers can always be 100% certain that they can customize their backups to comply with local regulatory requirements.
+- Instant recovery: fast, easy, and granular search and restore features means data can be located, previewed, and retrieved with just a few clicks.
+- Certified, cloud-native design: Keepit is ISO/IEC 27001:2013 and ISAE 3402-II certified. Unique security and ransomware protection keeps data available and immutable by default.
+- Predictable costs: customers pay one flat fee per user which includes unlimited data storage, ingress/egress, and retention.
+- Simple and intuitive software: the simple interface and API-first architecture of the Keepit Platform requires no training, and can easily be integrated into existing systems, meaning customers can get up and running in minutes.
+CEO of The Cloud Awards, James Williams, said: “We’re extremely proud to reveal the winners of The 2025 Security Awards. Cybersecurity is becoming more and more prevalent within the consciousness of people everywhere, not just within businesses. These awards provide a platform for those organizations that help keep our data safe and secure to celebrate their outstanding work.
+Keepit has proven to amongst the very best in the industry at what they do – impressing our judging panel throughout the awards program with their ingenuity, and dedication to great security practice. We offer them huge congratulations on their deserved victory in what was a tightly-contested program. We look forward to seeing how they build on this success in the months and years to come.”
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over fifteen thousand companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit https://www.keepit.com or follow Keepit on LinkedIn.
+About the Cloud Awards
+The Cloud Awards is an international program which has been recognizing and honoring industry leaders, innovators and organizational transformation in cloud computing since 2011. The Cloud Awards comprises five awards programs, each uniquely celebrating success across cloud computing, software-as-a-service (SaaS), cloud security, artificial intelligence (AI), and financial technologies (FinTech).
+Winners are selected by a judging panel of international industry experts. For more information about the Cloud Awards, please visit https://www.cloud-awards.com/.

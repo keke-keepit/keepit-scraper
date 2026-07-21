@@ -1,0 +1,32 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/restoring-sharepoint-data-with-an-advanced-backup-configuration/
+Content type: Web page
+Last modified: 2026-06-30T01:35:31+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restoring SharePoint data with an advanced backup configuration
+If you have excluded some type of SharePoint data from your backup – such as library files, list items, or metadata – this may affect your SharePoint restore.
+Before you proceed, make sure you understand what will happen to your data. Please also always remember to restore from the correct snapshot – from a time before your data was lost.
+Depending on what you have selected to back up, your restore will behave as follows:
+Only Library files and metadata included in SharePoint backup
+If you lost a document library:
+- Restoring the document library restores the document with all metadata.
+- Restoring the whole site restores the document library with all metadata. If any lists exist, they are not deleted.
+- Restoring the site as a new site with a new URL restores the site with document libraries and metadata.
+Only List items and metadata included in SharePoint backup
+If you lost a list:
+- Restoring the list restores the list with supported metadata.
+- Restoring the whole site restores the list with all metadata. If any document libraries exist, they are not deleted.
+- Restoring the site as a new site with a new URL restores the site with lists and metadata.
+Only List items included in SharePoint backup
+If you lost a list:
+- Restoring the list restores the list with attachments, but without metadata.
+- Restoring the whole site restores the list with all items and attachments. Existing document libraries and metadata are not deleted.
+- Restoring the site as a new site with a new URL restores the site with lists with its items and attachments. Default site metadata is restored.
+Only Library files included in SharePoint backup
+If you lost a document library:
+- Restoring the document library restores the document library with its files. Custom metadata is not restored.
+- Restoring the whole site restores the document library and its files without any custom metadata. Existing site data and metadata are not deleted.
+- Restoring the site as a new site with a new URL restores the site with document libraries and its files. Default site metadata is restored.
+For more details on restore limitations, see: SharePoint data coverage

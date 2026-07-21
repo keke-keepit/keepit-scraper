@@ -1,0 +1,9 @@
+Source URL: https://www.keepit.com/microsoft-preview-program/
+Content type: Web page
+Last modified: 2025-07-02T13:58:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit is excited to integrate our award-winning platform with Microsoft 365 Backup Storage. As a long-time ISV partner of Microsoft, we believe integrating Microsoft 365 Backup Storage with Keepit’s mature, proven platform will deliver unmatched value.
+In this preview program, you'll have the opportunity to collaborate with our product team, review and give feedback on prototypes and user stories, and provide feedback on the integrated product.

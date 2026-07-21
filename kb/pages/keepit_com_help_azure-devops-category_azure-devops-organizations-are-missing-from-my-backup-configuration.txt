@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/help/azure-devops-category/azure-devops-organizations-are-missing-from-my-backup-configuration/
+Content type: Web page
+Last modified: 2025-03-11T20:18:58+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Azure DevOps organizations are missing from my backup configuration
+When you see this error, it is because Keepit has detected that the current configuration for your Azure DevOps backup connector includes one or more missing organizations.
+You will receive a notification via email and in the in-app notification system to alert you. You will also see this warning on the Dashboard, on the Connectors page, and in your connector configuration.
+Why this happens
+If you add an organization to your backup configuration which is later removed from your environment, we will detect this. Instead of continuing to back up data and potentially exposing you to an unpleasant surprise, we warn you so you can fix the problem.
+How to fix it
+For the backups to resume successfully, you have the following options:
+- Add these organizations back to the Azure DevOps environment
+- Remove these organizations from your backup configuration
+If you choose to remove the organizations from the configuration, follow these steps:
+- Open the Azure DevOps connector configuration.
+- Select Remove missing organizations.
+ The organizations will no longer be listed in the configuration.
+- Save the new configuration.
+ The next backup will be automatically scheduled.

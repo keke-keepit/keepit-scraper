@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/help/pmc/user-roles-and-permissions-in-pmc/
+Content type: Web page
+Last modified: 2026-04-29T10:28:52+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+User roles and permissions in PMC
+Partner Management Console Permissions
+The Partner Management Console (PMC) offers seven user roles that define the level of access a user account has.
+The following table shows the available user roles and their permission sets:

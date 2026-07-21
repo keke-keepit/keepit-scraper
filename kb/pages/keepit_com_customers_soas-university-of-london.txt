@@ -1,0 +1,31 @@
+Source URL: https://www.keepit.com/customers/soas-university-of-london/
+Content type: Web page
+Last modified: 2026-07-14T18:33:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+SOAS, University of Londonâ¯strengthens Microsoft 365 data protection with Keepit
+As a globally recognized institution specializing in the study of Asia, Africa, and the Middle East, SOAS, University of London manages a complex academic and administrative environment where secure access to data is essential for teaching, research, and operations. Supporting approximately 147 TB of data, the IT teamâ¯is responsible forâ¯maintainingâ¯a hybrid infrastructure spanning cloud services, core networking, and on-prem systems.â¯
+Meeneshâ¯Patel, Head of Systems and Networks at SOAS, leads a team of network engineers, system administrators, and a security officer responsible for ensuring the availability, integrity, and security of the university’s IT environment. As the institution continued its transition to cloud-based collaboration tools, reliable backup and recovery for Microsoft 365 data became a priority.â¯
+Protecting critical data in the cloudâ¯
+SOAS relies on Microsoft 365 applications including OneDrive, Exchange, Teams, and SharePoint to support collaboration across faculty, staff, and students. Withâ¯coursework, research materials, and student submissionsâ¯primarilyâ¯stored online, the university needed assurance that data could be recovered quicklyâ¯in the event ofâ¯accidental deletionâ¯orâ¯cyber incidents.â¯
+Governance requirements, geographic considerations, ease of management, and predictable costs influenced the evaluation process. Within the budget constraints typical of higher education, the IT team prioritized a solution that balanced security and reliability with straightforward deployment and administration.â¯
+We wanted a solution that was cost-effective, easy to manage, and gave us confidence that our academic and student dataâ¯would beâ¯fully protected.
+Meeneshâ¯Patelâ¯ 
+Head of Systems and Networksâ¯ SOAS, University of London
+Phoenix Softwareâ¯–â¯aâ¯reputableâ¯ITâ¯solutionsâ¯and managed services providerâ¯in the UKâ¯–â¯introduced SOAS to Keepitâ¯during theâ¯evaluation process. The platform’s unlimited storage model andâ¯simple implementation aligned well with the university’s requirements, enabling the team toâ¯deploy cloud backup without adding operational complexity.â¯
+Keepit came highly recommended, and it has proven to be the right choice for us.
+Meeneshâ¯Patelâ¯ 
+Head of Systems and Networksâ¯ SOAS, University of London
+Independent architecture supports complianceâ¯requirementsâ¯
+The ability to store backup data inâ¯a UK data centerâ¯was an important consideration for SOAS,â¯supporting GDPR requirements and internal policies related to protecting sensitive academic and student information.â¯
+The platform’s vendor-independent architecture also played an important role. By keeping backup data separate from the production environment, SOAS reduces risk and ensures data remains accessible if primary systems are disrupted.â¯
+Having backup data stored separately from the production environment was very important to us.
+Meeneshâ¯Patelâ¯ 
+Head of Systems and Networksâ¯ SOAS, University of London
+Single sign-on integration with the university’s Azure environment further strengthens security while maintaining a seamless administrative experience.â¯
+Reliable protection with minimal operationalâ¯effortâ¯
+Since deployment, Keepit has provided confidence that Microsoft 365â¯dataâ¯is continuously protected. Once connectors wereâ¯configured,â¯backups runâ¯in the background without requiring ongoing manual oversight.â¯
+For the IT team, the primary benefit is peace of mind. The organization now has an independent cloud backup of its Microsoft 365 data and the ability to recover quickly in the event ofâ¯a cyber incident or operational disruption.â¯Support for data privacy requirements, including the right to be forgotten, further aligns with the institution’s governance priorities.â¯
+By combining ease of use, predictable costs, and independent architecture, Keepit enables SOAS to protect critical academic and student data while supporting long-term operational resilience.â¯

@@ -1,0 +1,124 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/how-microsoft-products-are-counted-as-keepit-seats-entra-id-connectors/
+Content type: Web page
+Last modified: 2025-11-25T14:10:54+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+| M365 License | String_Id | GUID | Keepit Seat | 
+| M365 Full Seats | 
+| Exchange Online (Plan 2) | EXCHANGEENTERPRISE | 19ec0d23-8335-4cbd-94ac-6050e30712fa | Full | 
+| Microsoft 365 Apps for Business | O365_BUSINESS | cdd28e44-67e3-425e-be4c-737fab2899d3 | Full | 
+| Microsoft 365 Apps for Business | SMB_BUSINESS | b214fe43-f5a3-4703-beeb-fa97188220fc | Full | 
+| Microsoft 365 Apps for Enterprise | OFFICESUBSCRIPTION | c2273bd0-dff7-4215-9ef5-2c7bcfb06425 | Full | 
+| Microsoft 365 Apps for enterprise (device) | OFFICE_PROPLUS_DEVICE1 | ea4c5ec8-50e3-4193-89b9-50da5bd4cdc7 | Full | 
+| Microsoft 365 Business Basic | SMB_BUSINESS_ESSENTIALS | dab7782a-93b1-4074-8bb1-0e61318bea0b | Full | 
+| Microsoft 365 Business Basic | O365_BUSINESS_ESSENTIALS | 3b555118-da6a-4418-894f-7df1e2096870 | Full | 
+| Microsoft 365 Business Premium | SPB | cbdc14ab-d96c-4c30-b9f4-6ada7cdc1d46 | Full | 
+| Microsoft 365 Business Standard | O365_BUSINESS_PREMIUM | f245ecc8-75af-4f8e-b61f-27d8114de5f3 | Full | 
+| Microsoft 365 Business Standard - Prepaid Legacy | SMB_BUSINESS_PREMIUM | ac5cef5d-921b-4f97-9ef3-c99076e5470f | Full | 
+| Microsoft 365 E3 | SPE_E3 | 05e9a617-0261-4cee-bb44-138d3ef5d965 | Full | 
+| Microsoft 365 E3 - Unattended License | SPE_E3_RPA1 | c2ac2ee4-9bb1-47e4-8541-d689c7e83371 | Full | 
+| Microsoft 365 E3 (500 seats min)_HUB | Microsoft_365_E3 | 0c21030a-7e60-4ec7-9a0f-0042e0e0211a | Full | 
+| Microsoft 365 E3_USGOV_DOD | SPE_E3_USGOV_DOD | d61d61cc-f992-433f-a577-5bd016037eeb | Full | 
+| Microsoft 365 E3_USGOV_GCCHIGH | SPE_E3_USGOV_GCCHIGH | ca9d1dd9-dfe9-4fef-b97c-9bc1ea3c3658 | Full | 
+| Microsoft 365 E5 | SPE_E5 | 06ebc4ee-1bb5-47dd-8120-11324bc54e06 | Full | 
+| Microsoft 365 E5 (500 seats min)_HUB | Microsoft_365_E5 | db684ac5-c0e7-4f92-8284-ef9ebde75d33 | Full | 
+| Microsoft 365 E5 Compliance | INFORMATION_PROTECTION_COMPLIANCE | 184efa21-98c3-4e5d-95ab-d07053a96e67 | Full | 
+| Microsoft 365 E5 Developer (without Windows and Audio Conferencing) | DEVELOPERPACK_E5 | c42b9cae-ea4f-4ab7-9717-81576235ccac | Full | 
+| Microsoft 365 E5 Security | IDENTITY_THREAT_PROTECTION | 26124093-3d78-432b-b5dc-48bf992543d5 | Full | 
+| Microsoft 365 E5 Security for EMS E5 | IDENTITY_THREAT_PROTECTION_FOR_EMS_E5 | 44ac31e7-2999-4304-ad94-c948886741d4 | Full | 
+| Microsoft 365 E5 Suite features | M365_E5_SUITE_COMPONENTS | 99cc8282-2f74-4954-83b7-c6a9a1999067 | Full | 
+| Microsoft 365 E5 with Calling Minutes | SPE_E5_CALLINGMINUTES | a91fc4e0-65e5-4266-aa76-4037509c1626 | Full | 
+| Microsoft 365 E5 without Audio Conferencing | SPE_E5_NOPSTNCONF | cd2925a3-5076-4233-8931-638a8c94f773 | Full | 
+| Microsoft 365 E5 without Audio Conferencing (500 seats min)_HUB | Microsoft_365_E5_without_Audio_Conferencing | 2113661c-6509-4034-98bb-9c47bd28d63c | Full | 
+| Microsoft 365 G3 GCC | M365_G3_GOV | e823ca47-49c4-46b3-b38d-ca11d5abe3d2 | Full | 
+| Microsoft 365 GCC G5 | M365_G5_GCC | e2be619b-b125-455f-8660-fb503e431a5d | Full | 
+| Microsoft Teams Commercial Cloud | TEAMS_COMMERCIAL_TRIAL | 29a2f828-8f39-4837-b8ff-c957e86abe3c | Full | 
+| Microsoft Teams Essentials | Teams_Ess | fde42873-30b6-436b-b361-21af5a6b84ae | Full | 
+| Microsoft Teams Exploratory | TEAMS_EXPLORATORY | 710779e8-3d4a-4c88-adb9-386c958d1fdf | Full | 
+| Office 365 Advanced Compliance | EQUIVIO_ANALYTICS | 1b1b1f7a-8355-43b6-829f-336cfccb744c | Full | 
+| Office 365 Advanced Compliance for GCC | EQUIVIO_ANALYTICS_GOV | 1a585bba-1ce3-416e-b1d6-9c482b52fcf6 | Full | 
+| Office 365 E1 | STANDARDPACK | 18181a46-0d4e-45cd-891e-60aabd171b4e | Full | 
+| Office 365 E2 | STANDARDWOFFPACK | 6634e0ce-1a9f-428c-a498-f84ec7b8aa2e | Full | 
+| Office 365 E3 | ENTERPRISEPACK | 6fd2c87f-b296-42f0-b197-1e91e994b900 | Full | 
+| Office 365 E3 Developer | DEVELOPERPACK | 189a915c-fe4f-4ffa-bde4-85b9628d07a0 | Full | 
+| Office 365 E3_USGOV_DOD | ENTERPRISEPACK_USGOV_DOD | b107e5a3-3e60-4c0d-a184-a7e4395eb44c | Full | 
+| Office 365 E3_USGOV_GCCHIGH | ENTERPRISEPACK_USGOV_GCCHIGH | aea38a85-9bd5-4981-aa00-616b411205bf | Full | 
+| Office 365 E4 | ENTERPRISEWITHSCAL | 1392051d-0cb9-4b7a-88d5-621fee5e8711 | Full | 
+| Office 365 E5 | ENTERPRISEPREMIUM | c7df2760-2c81-4ef7-b578-5b5392b571df | Full | 
+| Office 365 E5 Without Audio Conferencing | ENTERPRISEPREMIUM_NOPSTNCONF | 26d45bd9-adf1-46cd-a9e1-51e9a5524128 | Full | 
+| Office 365 Extra File Storage | SHAREPOINTSTORAGE | 99049c9c-6011-4908-bf17-15f496e6519d | Full | 
+| Office 365 Extra File Storage for GCC | SHAREPOINTSTORAGE_GOV | e5788282-6381-469f-84f0-3d7d4021d34d | Full | 
+| Office 365 G1 GCC | STANDARDPACK_GOV | 3f4babde-90ec-47c6-995d-d223749065d1 | Full | 
+| Office 365 G3 GCC | ENTERPRISEPACK_GOV | 535a3a29-c5f0-42fe-8215-d3b9e1f38c4a | Full | 
+| Office 365 G5 GCC | ENTERPRISEPREMIUM_GOV | 8900a2c0-edba-4079-bdf3-b276e293b6a8 | Full | 
+| Office 365 Midsize Business | MIDSIZEPACK | 04a7fb0d-32e0-4241-b4f5-3f7618cd1162 | Full | 
+| Office 365 Small Business | LITEPACK | bd09678e-b83c-4d3f-aaba-3dad4abd128b | Full | 
+| Office 365 Small Business Premium | LITEPACK_P2 | fc14ec4a-4169-49a4-a51e-2c852931814b | Full | 
+| OneDrive for Business (Plan 1) | WACONEDRIVESTANDARD | e6778190-713e-4e4f-9119-8b8238de25df | Full | 
+| OneDrive for Business (Plan 2) | WACONEDRIVEENTERPRISE | ed01faf2-1d88-4947-ae91-45ca18703a96 | Full | 
+| SharePoint Online (Plan 1) | SHAREPOINTSTANDARD | 1fc08a02-8b3d-43b9-831e-f76859e04e1a | Full | 
+| SharePoint Online (Plan 2) | SHAREPOINTENTERPRISE | a9732ec9-17d9-494c-a51c-d6b45b384dcb | Full | 
+| M365 Light Seats | 
+| Exchange Online (Plan 1) | EXCHANGESTANDARD | 4b9405b0-7788-4568-add1-99614e613b69 | Light | 
+| Exchange Online (Plan 1) for GCC | EXCHANGESTANDARD_GOV | f37d5ebf-4bf1-4aa2-8fa3-50c51059e983 | Light 
+ 
+ | 
+| Exchange Online Archiving for Exchange Online | EXCHANGEARCHIVE_ADDON | ee02fd1b-340e-4a4b-b355-4a514e4c8943 | Light 
+ 
+ | 
+| Exchange Online Archiving for Exchange Server | EXCHANGEARCHIVE | 90b5e015-709a-4b8b-b08e-3200f994494c | Light 
+ 
+ | 
+| Exchange Online Essentials | EXCHANGE_S_ESSENTIALS | e8f81a67-bd96-4074-b108-cf193eb9433b | Light 
+ 
+ | 
+| Exchange Online Essentials (ExO P1 Based) | EXCHANGEESSENTIALS | 7fc0182e-d107-4556-8329-7caaa511197b | Light 
+ 
+ | 
+| Exchange Online Kiosk | EXCHANGEDESKLESS | 80b2d799-d2ba-4d2a-8842-fb0d0f3a4b82 | Light | 
+| Exchange Online POP | EXCHANGETELCO | cb0a98a8-11bc-494c-83d9-c1b1ac65327e | Light | 
+| Microsoft 365 F1 | M365_F1 | 44575883-256e-4a79-9da4-ebe9acabe2b2 | Light | 
+| Microsoft 365 F1 | M365_F1_COMM | 50f60901-3181-4b75-8a2c-4c8e4c1d5a72 | Light | 
+| Microsoft 365 F3 | SPE_F1 | 66b55226-6b4f-492c-910c-a3b7a3c9d993 | Light | 
+| Microsoft 365 F3 GCC | M365_F1_GOV | 2a914830-d700-444a-b73c-e3f31980d833 | Light | 
+| Microsoft 365 Security and Compliance for Firstline Workers | M365_SECURITY_COMPLIANCE_FOR_FLW | 2347355b-4e81-41a4-9c22-55057a399791 | Light | 
+| Microsoft Entra ID P1 | AAD_PREMIUM |  | Light | 
+| Microsoft Entra ID P2 | AAD_PREMIUM_P2 |  | Light | 
+| Enterprise Mobility + Security E3 | EMS | efccb6f7-5641-4e0e-bd10-b4976e1bf68e | Light | 
+| Enterprise Mobility + Security E5 | EMSPREMIUM | b05e124f-c7cc-45a0-a6aa-8cf78c946968 | Light | 
+| Enterprise Mobility + Security G5 GCC | EMSPREMIUM_GOV | 8a180c2b-f4cf-4d44-897c-3d32acc4a60b | Light | 
+| Office 365 F3 | DESKLESSPACK | 4b585984-651b-448a-9e53-3b10f069cf7f | Light | 
+| M365 Faculty Seats | 
+| Microsoft 365 A1 | M365EDU_A1 | b17653a4-2443-4e8c-a550-18249dda78bb | Faculty | 
+| Microsoft 365 A3 for Faculty | M365EDU_A3_FACULTY | 4b590615-0888-425a-a965-b3bf7789848d | Faculty | 
+| Microsoft 365 A5 for Faculty | M365EDU_A5_FACULTY | e97c048c-37a4-45fb-ab50-922fbf07a370 | Faculty | 
+| Microsoft 365 Apps for Faculty | OFFICESUBSCRIPTION_FACULTY | 12b8c807-2e20-48fc-b453-542b6ee9d171 | Faculty | 
+| Office 365 A1 for faculty | STANDARDWOFFPACK_FACULTY | 94763226-9b3c-4e75-a931-5c89701abe66 | Faculty | 
+| Office 365 A1 Plus for faculty | STANDARDWOFFPACK_IW_FACULTY | 78e66a63-337a-4a9a-8959-41c6654dfb56 | Faculty | 
+| Office 365 A3 for faculty | ENTERPRISEPACKPLUS_FACULTY | e578b273-6db4-4691-bba0-8d691f4da603 | Faculty | 
+| Office 365 A5 for faculty | ENTERPRISEPREMIUM_FACULTY | a4585165-0533-458a-97e3-c400570268c4 | Faculty | 
+| Microsoft Entra ID P1 for faculty | AAD_PREMIUM_FACULTY | 30fc3c36-5a95-4956-ba57-c09c2a600bb9 | Faculty | 
+|  | EMSPREMIUM_EDU_FACULTY |  | Faculty | 
+| M365 Student Seats | 
+| Exchange Online (Plan 1) for Students | EXCHANGESTANDARD_STUDENT 
+ | ad2fe44a-915d-4e2b-ade1-6766d50a9d9c | Student 
+ | 
+| Exchange Online (Plan 1) for Alumni with Yammer 
+ | EXCHANGESTANDARD_ALUMNI 
+ | aa0f9eb7-eff2-4943-8424-226fb137fcad 
+ | Student 
+ | 
+| Microsoft 365 A3 - Unattended License for students use benefit | M365EDU_A3_STUUSEBNFT_RPA1 | 1aa94593-ca12-4254-a738-81a5972958e8 | Student | 
+| Microsoft 365 A3 for Students | M365EDU_A3_STUDENT | 7cfd9a2b-e110-4c39-bf20-c6a3f36a3121 | Student | 
+| Microsoft 365 A3 for students use benefit | M365EDU_A3_STUUSEBNFT | 18250162-5d87-4436-a834-d795c15c80f3 | Student | 
+| Microsoft 365 A5 for Students | M365EDU_A5_STUDENT | 46c119d4-0379-4a9d-85e4-97c66d3f909e | Student | 
+| Microsoft 365 A5 for students use benefit | M365EDU_A5_STUUSEBNFT | 31d57bc7-3a05-4867-ab53-97a17835a411 | Student | 
+| Microsoft 365 A5 without Audio Conferencing for students use benefit | M365EDU_A5_NOPSTNCONF_STUUSEBNFT | 81441ae1-0b31-4185-a6c0-32b6b84d419f | Student | 
+| Microsoft 365 Apps for Students | OFFICESUBSCRIPTION_STUDENT | c32f9321-a627-406d-a114-1f9c81aaafac | Student | 
+| Office 365 A1 for students | STANDARDWOFFPACK_STUDENT | 314c4481-f395-4525-be8b-2ec4bb1e9d91 | Student | 
+| Office 365 A1 Plus for students | STANDARDWOFFPACK_IW_STUDENT | e82ae690-a2d5-4d76-8d30-7c6e01e6022e | Student | 
+| Office 365 A3 for students | ENTERPRISEPACKPLUS_STUDENT | 98b6e773-24d4-4c0d-a968-6e787a1f8204 | Student | 
+| Office 365 A5 for students | ENTERPRISEPREMIUM_STUDENT | ee656612-49fa-43e5-b67e-cb1fdf7699df | Student | 
+|  | EMS_EDU_STUUSEBNFT |  | Student |

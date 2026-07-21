@@ -1,0 +1,162 @@
+Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-autonumber-fields/
+Content type: Web page
+Last modified: 2025-12-08T14:23:57+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Salesforce AutoNumber Fields (i.e., Case Number)
+When a record with an Auto Number field isâ¯deletedâ¯and restored in Salesforce, it will receive a new Auto Number. This is because Salesforce treats restored records as new entries, and the original Auto Number is not retained.
+The following methods are available to preserve the original Auto Number:â¯
+For unmanaged (custom) fields:
+1. Change the original Auto Number field to a text field and copy the value of a new auto number field only when original field does not have a value yet. This method does not negatively impact integrations or reporting.
+2. Temporarily disable auto numbering by changing the Auto Number field to a text field during the restore and switch it back after the restore. This method does not negatively impact integrations or reporting, but requires a freeze on creating new records.
+For standard and managed fields:
+3. Store the Auto Number field value in a custom text field upon record creation. Integrations and reporting must be based on this new custom field.
+ 
+Method 1: Use another field to generate the Auto Number
+Custom Auto Number fields can be preserved by changing the field type to a text field and using a different custom field to generate auto numbers, copying the value into the original Auto Number field using an Insert Trigger. This method does not have any negative impact on integrations, reporting, workflows, or other processes. 
+ 
+Steps for using another field to generate auto numbers:â¯â¯
+1. Navigate toâ¯Setupâ¯>â¯Objectâ¯Managerâ¯and select the relevant object.â¯
+2. Go toâ¯Fields & Relationships, find theâ¯AutoNumberâ¯field, then clickâ¯Edit.â¯
+3. Record the current AutoNumber settings, including the display format and the next number in the sequence. â¯
+4. Change the Field Type toâ¯Text, then clickâ¯Save. 
+This disables auto numbering and converts the existing values to text.â¯
+5. Create a new auto number field.
+Use the information from step 3 to set the correct format and sequence starting number.
+6. Create an Insert Trigger to perform the following action:
+- If the original Auto Number field is empty, populate it with the value of the new auto number field.â¯
+- If the original Auto Number field already contains data, leave it unchanged. This ensures that when the record is restored and recreated, this field will keep the value of the snapshot.â¯
+See below a step-by-step guide on creating an Insert Trigger. This guide is directly related to method 3 and explains how a Case Number can be preserved in a custom text field. A similar approach can be used to copy the value of any Auto Number field to a text field that replaces the original Auto Number field.
+Method 2: Temporarily disable auto numbering
+To restore data into a custom Auto Number field, the auto numbering must be disabled during the restore. It is best practice to perform this task during a maintenance window, ensuring that both users and integrations are temporarily paused to prevent new records from being created while the AutoNumber feature is turned off.
+To temporarily disable auto numbering for a custom field while restoring data: â¯â¯
+1. Navigate toâ¯Setupâ¯>â¯Objectâ¯Managerâ¯and select the relevant object.â¯
+2. Go toâ¯Fields & Relationships, find theâ¯AutoNumberâ¯field, then clickâ¯Edit.â¯
+3. Record the current AutoNumber settings, including the display format and the next number in the sequence. â¯
+4. Change the Field Type toâ¯Text, then clickâ¯Save. 
+This disables auto numbering and converts the existing values to text.â¯
+5. Perform the data restore with Keepit. â¯
+6. After the restore, edit the field again, changing it back to AutoNumber. 
+Use the information from step 3 to set the correct format and sequence starting number. â¯â¯
+Method 3: Storing the original Auto Number field in a custom field
+Standard and managed Auto Number fields (i.e., Case Number) cannot be modified, including changing their field type. The only way to retain the original value of the Auto Number field is to store the value in a custom field. This custom field will retain its value during restores. Integrations, reporting, and workflows should reference this new custom field.
+Steps for storing original auto number field in a custom field:â¯â¯
+1. Create a new custom text field.â¯
+2. Create an Insert Trigger to perform the following action:
+- If the custom field is empty, populate it with the standard Auto Number value.â¯
+- If the custom field already contains data, leave it unchanged. This ensures that when the record is restored and recreated, this field will keep the value of the snapshot.â¯
+Step-by step-guide for creating the Insert Trigger:
+This guide uses Case Number as an example.
+Overview
+Step 1: Create a new custom field:
+1. Navigate to Setup > Object Manager > Object (Case).
+2. Click Fields & Relationships > New.
+3. Select Text as the data type and click Next.
+4. Configure Field:
+- Field Label: Case Number2
+- Field Name (API): Case_Number2__c
+- Field Length: Set the Length to match the standard AutoNumber Field.
+- (Optional) Select the checkbox Set this field as the unique record identifier from an external system.
+- Set field-level security ensuring the field is visible to all profiles that need access and click Next.
+- Add to the appropriate page layouts and click Save.
+Step 2: Create the trigger for new records:
+Next, create a trigger to automatically populate the Case_Number2__c field with the Standard AutoNumber field for new records.
+1. Click on the Gear Icon > Developer Console.
+2. Click File > New > Apex Triggers.
+3. Enter a Name (CaptureCaseNumber).
+4. Select sObject (Case) and hit submit.
+5. Paste the following trigger code to populate the Case_Number2__c field for new records:
+trigger PopulateCustomField on Case (after insert) {
+  // Create a list to hold the cases to update 
+    List<Case> casesToUpdate = new List<Case>(); 
+ 
+    // Iterate over each Case record 
+    for (Case caseRecord : Trigger.new) { 
+        // Ensure CaseNumber is not null and Custom Field is blank 
+        if (caseRecord.CaseNumber != null && String.isBlank(caseRecord.Case_Number2__c)) { 
+            // Create a new instance of the Case record to update 
+            Case updatedCase = new Case(Id = caseRecord.Id); 
+            updatedCase.Case_Number2__c = caseRecord.CaseNumber; 
+            // Add the updated case to the list 
+            casesToUpdate.add(updatedCase); 
+        } 
+    } 
+ 
+    // Perform the update for all cases that need it 
+    if (!casesToUpdate.isEmpty()) { 
+        update casesToUpdate; 
+    } 
+}  6. Click Ctrl+S to save the Trigger.
+Step 3: Test the trigger
+1. Navigate to the Case Object in Salesforce and create a new case.
+2. After saving, verify that the Case Number (AutoNumber field) was inserted into the Case_Number2__c field.
+Step 4: Create the batch Apex Class for existing records
+To update the Case_Number2__c field for all existing Case records, we need to create a Batch APEX Class.
+1. In Setup, go to Apex Classes and click New.
+2. Paste the following code to create a batch class for updating existing records.
+global class UpdateExistingCaseNumbers implements Database.Batchable<SObject>, Database.Stateful { 
+ 
+    // The start method defines the query to select records 
+    global Database.QueryLocator start(Database.BatchableContext bc) { 
+        // Query all Case records where Case_Number2__c is blank 
+        return Database.getQueryLocator([SELECT Id, CaseNumber, Case_Number2__c FROM Case WHERE Case_Number2__c = null]); 
+    } 
+ 
+    // The execute method processes each batch of records 
+    global void execute(Database.BatchableContext bc, List<Case> caseRecords) { 
+        List<Case> casesToUpdate = new List<Case>(); 
+ 
+        // Iterate through the cases and update the Case_Number2__c field 
+        for (Case caseRecord : caseRecords) { 
+            // Set Case_Number2__c with the CaseNumber (AutoNumber field) 
+            caseRecord.Case_Number2__c = caseRecord.CaseNumber; 
+            casesToUpdate.add(caseRecord); 
+        } 
+ 
+        // Perform the update for all cases in this batch 
+        if (!casesToUpdate.isEmpty()) { 
+            update casesToUpdate; 
+        } 
+    } 
+ 
+    // The finish method runs after all batches are processed 
+    global void finish(Database.BatchableContext bc) { 
+        System.debug('Batch job complete: Case_Number2__c field updated for all records.'); 
+    } 
+} 3. Save the Class.
+Name defaults to: UpdateExistingCaseNumbers
+Step 5: Run the Batch Apex Class
+To update the Case_Number2__c field for existing records, run the batch class:
+1. Open the Developer Console.
+2. Click Debug > Open Execute Anonymous Window.
+3. Paste the following code to run the batch job:
+// Execute the batch job to update existing records
+UpdateExistingCaseNumbers batch = new UpdateExistingCaseNumbers(); Database.executeBatch(batch, 200); // You can adjust the batch size
+4. Click Execute to start the batch job.
+Step 6: Monitor the batch job
+1. In Setup, search for Apex Jobs.
+2. In the Job Monitor, you can monitor the progress of the batch job. You’ll see details about how many batches have been processed, if any errors occurred, and when the job is completed.
+Step 7: Verify the results
+1. Go to the Cases tab and open some Case records.
+2. Verify that the Case_Number2__c field has been populated with the standard Case Number field.
+Note: Alternatively, you can run a SOQL query in the Developer Console to verify the results:
+SELECT Id, Case_Number2__c FROM Case WHERE Case_Number2__c = null
+Step 8: Schedule the batch job
+If you’d like to schedule this batch job to run periodically (in case more records with a blank Case_Number2__c are added later), you can create a Scheduled Apex Class.
+1. Create the Scheduled Apex Class: Navigate to Setup > Apex Classes > New.Paste the ScheduledUpdateCaseNumber code below and save the class.
+ global class ScheduleUpdateCaseNumber implements Schedulable { 
+    global void execute(SchedulableContext sc) { 
+        UpdateExistingCaseNumbers batch = new UpdateExistingCaseNumbers(); 
+        Database.executeBatch(batch, 200);  // Adjust batch size if necessary 
+    } 
+}
+2. Click Save
+Name defaults to: ScheduledUpdateCaseNumber 
+3. In Setup, search for Apex Classes.
+4. Click Schedule Apex.
+5. Give the job a name, select the ScheduleUpdateCaseNumber class.
+6. Search and select the Apex Class: ScheduleUpdateCaseNumber
+7. Set the frequency (i.e. daily, weekly, or any specific time).
+8. Save the scheduled job.

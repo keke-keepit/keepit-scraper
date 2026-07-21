@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/help/salesforce-category/understanding-salesforce-history-and-approval-history-limitations/
+Content type: Web page
+Last modified: 2025-12-02T10:08:20+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Standard history objects 
+Examples: AccountHistory, OpportunityHistory, CaseHistory
+- Not supported: Insert or update operations
+- Result: These objects cannot be restored once removed
+Salesforce references: 
+Approval history objects 
+Examples: ProcessInstance, ProcessInstanceStep, Workitem
+- Not supported: Create or restore via API
+- Result: Approval history is read-only and cannot be recreated or restored
+Salesforce references:
+Customer options with our platform
+Although Salesforce does not allow restoration of history objects, our platform provides these options:
+- Export for audit – Customers can view and export history tables into CSV format for archival, audit, or external analysis.
+- Custom history objects – Organizations may create custom history objects in Salesforce to capture and store change or approval data. These custom objects can be fully backed up and restored like any other Salesforce object.

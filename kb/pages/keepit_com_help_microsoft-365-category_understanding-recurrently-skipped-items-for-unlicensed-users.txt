@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/understanding-recurrently-skipped-items-for-unlicensed-users/
+Content type: Web page
+Last modified: 2026-06-29T23:55:05+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Understanding recurrently skipped items for unlicensed users
+Overview
+When backing up Microsoft 365 environments, Keepit may detect users who exist in your tenant but do not have active licenses. These unlicensed users typically have no mailbox, OneDrive, or other data to back up, yet they appear in your environment and are processed during backups.
+Why unlicensed users appear in recurrently skipped items
+Keepit's backup system detects all users in your Microsoft 365 tenant, including those without licenses. When a user has no license:
+- No mailbox data exists to back up
+- No OneDrive storage is available
+- The user account exists in the directory
+During backup, Keepit attempts to back up these users but finds no data to process. After five consecutive backup attempts where no data can be backed up, these users are added to your Recurrently Skipped Items (RSI) report. This is expected system behavior, not a backup failure.
+We are actively working on improvements that will provide classifications for each skipped item so you can identify those users to ignore.
+Need help?
+If you need assistance interpreting your backup coverage, please contact Keepit Support with your account details.

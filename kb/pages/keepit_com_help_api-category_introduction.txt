@@ -1,0 +1,33 @@
+Source URL: https://www.keepit.com/help/api-category/introduction/
+Content type: Web page
+Last modified: 2025-09-30T12:19:49+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Introduction
+Keepit account
+In Keepit, there are two types of accounts: end customer accounts and partner or distributor accounts. End customer accounts have access to the Keepit platform, while partner or distributor accounts have access to the Keepit Partner Management Console (PMC) and can be used to organize a hierarchy of partner and customer accounts.
+The type of account is determined by the user (token) (MasterAdmin, PartnerParent, MSPPartner, etc.) linked to it. Depending on the user role, the account can serve as a customer account or a partner account.
+â¯Each account consists of the following:â¯
+- Account GUID: A unique identifier assigned to each account. This applies to containers, partners, and end-customer accounts, all of which have unique GUIDs.
+- Primary contact: The main point of contact for the account.
+- Company contact: The designated contact representing the company associated with the account.
+- Users with unique permissions (Access Control List - ACL): Specific users assigned to the account with customized permissions based on their role or access needs.
+- Master Admin: The account owner with full administrative control. Multiple Master Admins can exist for a single account.
+Keepit account hierarchy
+Each account can be created as a partner account or an end-customer account. A partner account can have child accounts, which can themselves be either partner and customer accounts, forming a hierarchical structure with potentially unlimited depth.
+Region (DC)
+> Distributorâ¯â¯
+> > Partner-account-1
+> > > End-customer-account-1.1    
+> > > End-customer-account-1.2
+Separate regions for login URLsâ¯
+Each Keepit data center operates on its own separate infrastructure. All API calls must be directed to the correct data center URL to ensure changes are made to the intended destination. For a full list of current data centers, see Keepit's data centers.
+- Denmark (Copenhagen): dk-co.keepit.com
+- Germany (Frankfurt): de-fr.keepit.com
+- Switzerland (Zurich): ch-zh.keepit.com
+- The United Kingdom (London): uk-ld.keepit.com
+- The United States (Washington, DC): us-dc.keepit.com
+- Canada (Toronto): ca-tr.keepit.com
+- Australia (Sydney): au-sy.keepit.com

@@ -1,0 +1,34 @@
+Source URL: https://www.keepit.com/press/computerworld-state-of-it-security/
+Content type: Web page
+Last modified: 2025-08-14T23:47:04+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The missing level of IT security is risky for SMBs and their employees
+Computerworld on the State of IT Security: A new survey shows that over a quarter of all Danish SMBs don’t have even the most basic level of IT security.
+"Something is rotten in the state of Denmark: A new survey shows that over a quarter of all Danish SMBs don’t have even the most basic level of IT security which includes an updated operating system and data backup. This quickly becomes a societal problem as it creates bottlenecks for other companies. And all it takes to fix it is OS updates and data backup."
+Frederik Schouboe
+CEO and Co-founder of Keepit
+I’m outraged: Insufficient IT security in smaller businesses hurts the greater good.
+You can easily get depressed when you read the latest dismal report from the IT industry.
+It states that almost half of all small- and medium-sized companies in Denmark have an “inadequate level of security.” On top of that, 24 percent of them don’t even have what the Danish Business Authority considers to be the two most basic IT security measures in place: regular updates of operating systems and security updates, as well as a backup of data.
+As the owner of a backup company, I should rejoice over all the potential customers. But I don’t. On the contrary, I fear for the safety of individual companies and their employees, and at the same time I’m outraged at the large number of companies that aren’t protecting themselves.
+In 2021, protecting data (and a company's worth) is no longer a choice, and not doing so is active opt out completely on a par with opting out of liability insurance for employees.
+With the increasing number of phishing attacks, increasingly advanced types of malware, and ransomware-as-a-service where even non-technical criminals can relatively easily acquire ransomware solutions as if they were off the shelf, it is inevitable that Danish companies will regularly experience penetration attempts.
+And with the democratization of ransomware, the companies that are the target of this type of attack are no longer just the big enterprises - it also affects sole proprietorships.
+The Ripple Effect
+I’m also surprised by the lack of community spirit shown by companies that do not protect themselves. When a company is hit by a ransomware attack or the like, which puts a stop to the company’s operations, a chain reaction starts.
+In addition to employees who potentially lose their jobs - especially in small companies - the production and thus the delivery of goods to other companies or customers who need them is also impacted.
+It can quickly create queues down the supply chain, where subcontractors either cannot deliver their goods or get paid on time.
+The bigger the business, the bigger the ripples, but even small business crashes will cause problems.
+A quick hypothetical example: A building contractor is hit by a ransomware attack.â¯This would quickly affect the customer who has no roof on their house and also the distributor who supplies building materials to this contractor.
+The Banal Level
+In the IT industry, the concern is great, and it should be. At the most basic level, IT security is affordable—even for smaller businesses.
+First and foremost, it's about keeping your devices up to date with the latest updates.
+Yes, it's annoying when Microsoft repeatedly demands that your computer be restarted, but that's the way it is.â¯With an updated operating system (here we are talking Windows 10 or similar), you are well on your way.
+Next comes backup, which the Danish Business Authority also mentions. The best advice here is this: Any kind of backup is better than no backup.
+Make sure to have your data backed up regularly and separately from the production environment.
+Also, remember that data in the cloud such as OneDrive, Microsoft Office 365, Google Drive, or Dropbox does not equate to backup, because if something happens to your data there, it’s lost forever.
+Cybercriminals target data in the cloud, so it also needs to be backed up.
+So, small- and medium-sized companies: Get it under control for the sake of all of us.

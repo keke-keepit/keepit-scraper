@@ -1,0 +1,147 @@
+Source URL: https://www.keepit.com/help/platform-category/using-the-job-monitor/
+Content type: Web page
+Last modified: 2026-06-23T21:08:35+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Using the Job Monitor
+The Job Monitor page is where you can find an overview of all connector activity. Here you can view all of the connectors' past, current, and scheduled jobs.
+In the Job Monitor you can:
+- Follow the progress of your jobs
+- View reasons for incomplete and unsuccessful jobs, along with information to help you troubleshoot in case of errors
+- See statistics about each job, such as the number of items and amount of data that was backed up or restored
+- Find a list of skipped items in backups and restores and download a detailed CSV report
+In this article
+Viewing the Job Monitor
+Open the Job Monitor
+To open the Job Monitor page for all connectors, in the left-hand menu, click Job Monitor.
+Or, if you want to open the Job Monitor page for a specific connector, on your connector select ••• > Job Monitor. This will preset the filter to the selected connector.
+Note: When a job is in progress, the statistics are updated every 5 minutes. Refresh the page to see the new results.
+Filter jobs
+Use the free text filter to find specific information in the entries you are viewing.
+To use the predefined filters, select the filter icon. Here you can filter jobs by connector, status, type, time span, start and end date. Select Apply filters to apply it to the page.
+Open a job report
+In the Description column, you will find a summary of the job. To get more information, point to the row and select the icon on the right. Here you will find a detailed job report.
+Download a Job Monitor report
+To download CSVS file with the list of jobs, in the toolbar select the download icon.
+Cancelling restore jobs
+In case a restore job of an incorrect dataset was initiated, users who have access to the Job Monitor can cancel the job.
+If a job is still in progress, you will see a cancel button near the job. Click the button and then click Yes. To complete the action, enter your password and click Confirm.
+Understanding the Job Monitor page
+Job Types
+- Backup job - The Keepit operation that performs a backup. The result is a snapshot that contains copies of data.
+- Restore job - The Keepit operation that restores a data type or data types across accounts. Imports are found under this job type.
+- Item restore job - The Keepit operation that restores an individual item or folder.
+- PST download job - The Keepit operation that generates a link to download a PST file.
+- ZIP download job - The Keepit operation that downloads a ZIP file.
+Job Statuses
+- Unsuccessful 
+ A backup job will be marked as unsuccessful if the entire backup attempt fails.
+ A restore job will be marked as unsuccessful if the entire restore attempt fails or if all items are skipped,
+- Incomplete
+ A backup job will be marked as incomplete if the backup begins but is stopped due to an error. A partial snapshot may or may not be created. This means you may or may not have access to the data that was backed up during the job.
+ A restore job will be marked as incomplete if one or more items are skipped.
+- Cancelled
+ A job may also be cancelled due to a software update or server reboot from our side.
+ A restore job can be cancelled manually from the Job Monitor.
+- In progress
+ The job is still being performed.
+- Scheduled
+ Scheduled restore and item restore jobs will be immediately displayed in the Job Monitor.
+- Successful
+ A backup job will be marked as successful if at least one or more items are successfully backed up and you have access to it. This means that a successful backup may have skipped items. The system will mark these items and will attempt to back them up during the next job. A backup job will also be marked successful if nothing changed from the last snapshot. In this case you will see 0 MB and 0 items backed up.
+ A restore job will be marked successful only if all items are successfully restored.
+Note: If the job was cancelled, unsuccessful, or incomplete, the row will be highlighted in red.
+Reasons for Unsuccessful or Incomplete Jobs and Possible Resolutions
+Unsuccessful or Incomplete Backup Jobs
+- Job aborted
+ No action is needed. A new job will be automatically scheduled.
+ 
+- Issue Encountered
+ If an issue occurred, contact Support with your account ID and connector name. We’ll investigate further to ensure everything is functioning as expected.
+ 
+- Authentication no longer valid
+ Backups cannot start if the authentication between your connector and the SaaS application is invalid. Reauthenticate your connector from the Connectors page using an account with the proper admin role and permissions. For more information, see My connector's authentication is no longer valid
+ 
+- API request limit reached
+ The backup could not start because the API request usage limit for your Salesforce connector was exceeded. To prevent this, increase the percentage of API requests allocated for the backup, keeping in mind it may affect performance. For more information, see Your Salesforce API Request Usage
+ 
+- Invalid backup configuration file
+ The backup configuration file generated in the web interface is invalid. Contact Support with your service ID and connector name so we can resolve the issue and start your backup.
+ 
+- Incident occurred
+ If a server incident occurs, our team will work to resolve it immediately. You only need to contact Support if the issue persists.
+ 
+- Salesforce API access disabled
+ Ensure you are using a Salesforce edition with API access: Enterprise, Unlimited, Developer, or Performance. Please also check that API access is enabled in the profile of the System Administrator account used for the backup or check that this user has a permission set that has API enabled. For more information, see Set up your Salesforce backup
+ 
+- Authorization error
+ We encountered an error during connector authorization. Contact Support with your account ID and connector name so we can investigate and resolve the issue.
+ 
+- Issue with tenant
+ Your organization has been disabled or no longer exists. Contact support for more information.
+ For Microsoft 365 connectors, this could mean your tenant no longer exists or that access to one of the data areas is unavailable. Ensure all selected data in the backup is enabled in Entra.
+- Authorization server unavailable
+ The authorization server is temporarily unavailable. No action is required as a new job will be automatically scheduled once the server is back online.
+ 
+- Organization not found 
+ Ensure you are signed in with the correct admin account and that it has a proper license and/or necessary access to data.
+ 
+- Entra ID groups missing
+ The user configuration contains groups that have been deleted from the tenant. We don't have access to them anymore and cannot proceed with the backup. To resume the backup, open the configuration and agree to remove the groups from the backup. Or add these groups back to Entra ID. For more information, see Entra ID groups are missing from my backup configuration
+ 
+- Entra ID objects missing
+ The configuration contains groups and/or administrative units that have been deleted from Entra ID. We don't have access to them anymore and cannot proceed with the backup. To resume successful backups, open the configuration and agree to remove them. Or add these objects back to Entra ID. For more information, see Entra ID objects are missing from my backup configuration
+ 
+- Azure DevOps organizations missing
+ The configuration contains organizations that have been deleted from the tenant's Azure DevOps environment. We don't have access to them anymore and cannot proceed with the backup. To resume backups, open the configuration and agree to remove the organizations from the backup. Or add the organizations back to the Azure DevOps environment. For more information, see Azure DevOps organizations are missing from my backup configuration
+ 
+- Google Workspace objects missing
+ The configuration contains groups and/or organizational units that have been deleted from Google Workspace. We don't have access to them anymore and cannot proceed with the backup. To resume successful backups, open the configuration and agree to remove them. Or add these objects back to Google Workspace. For more information, see Google Workspace objects are missing from my backup configuration
+ 
+- Missing Teams Chats app registration
+ To back up Teams chats data, create an app registration in Entra ID, connect it to your account, and reauthenticate your connector. For more information, see Teams Chats custom app registration FAQ
+Unsuccessful or Incomplete Restore Jobs
+- At least one item skipped
+ A restore job is marked as incomplete if one or more items were not restored. To see which exact items were skipped, download a skipped files report. If necessary, start a restore of these files individually.
+ If many items were skipped, you can start the same restore again. Or if a small amount of items were skipped, you can restore these files individually.
+ If you are restoring a SharePoint site, be aware that certain metadata, column and content types, or permissions may not restore. In most of these cases, your actual data will be returned. Please check in SharePoint and see if you have the necessary data. If not, please try again.
+ If you are restoring Entra ID data, items may be skipped due to API limitations. For example, we cannot restore distribution groups or mail-enabled security groups. Accordingly, memberships to these groups cannot be reestablished. For more information, see: What happens when I restore an Azure AD object?
+- All items skipped
+ A restore job is marked as unsuccessful if the job completed but no items were restored. Please try to restore again. If this continues to occur, contact Support so we can help you identify and solve the problem.
+- Issue encountered
+ If we encounter a problem, contact Support so we can take a deeper look into it and make sure everything is OK. Please send us your service ID, connector name, and copy of the skipped files report.
+- Microsoft account is not a Global Admin
+ We will not be able to start the restore job if the service account you are using for the backup is not a global admin. Assign the service account the global admin role and reauthenticate your connector.
+- Authentication failed
+ A restore cannot start if the authentication between Keepit and your SaaS application is no longer valid. Please reauthenticate your connector to renew the connection. Make sure your account you are using to reauthenticate has the proper admin role and permissions. For more information, see My connector's authentication is no longer valid
+- API request usage limit reached
+ The restore could not start because we reached the API request usage limit that is set for your Salesforce connector. You can increase your Salesforce API request and then try restoring again. For more information, see Your Salesforce API Request Usage
+- Restore configuration file is invalid
+ If the restore configuration generated in the web client is invalid, contact Support so we can fix the configuration and start your restore.
+- Incident occurred on the server
+ When an incident occurs on the server, we immediately work to fix the issue. You don't need to contact support unless this continues to occur.
+- Salesforce API disabled
+ Salesforce API is disabled for the Salesforce organization. Please make sure you are using a Salesforce edition with API access: Enterprise, Unlimited, Developer, or Performance. Please also check that API access is enabled in the profile of the System Administrator account used for the backup or check that this user has a permission set that has API enabled. For more information, see Set up your Salesforce backup
+- Authorization error
+ We encountered an error during the connector authorization. Contact Support so we can take a deeper look into the error and make sure everything is OK. Please send us your service ID, connector name, and copy of the skipped files report.
+- Your tenant no longer exists
+ Check if your Microsoft 365 tenant has expired or if your Salesforce organization has been disabled.
+- Authorization server temporarily unavailable
+ The authorization server is temporarily unavailable. The authorization server should be up and running shortly. Please try to restore again later.
+Backup Job Statistics
+- Added – items added and/or changed since the last backup.
+- Removed – items removed from the backup because they no longer exist in the cloud service. For example, if an email or file is deleted, then it is removed from the current snapshot, but it will still exist in older snapshots.
+- Skipped – items that could not be reached due to reasons such as throttling, API failures, or inaccessibility from the SaaS application's side. The system will tag these items as skipped and try again to reach them during the next backup.
+ The number of skipped items includes the total number of all items and folders that were skipped. The size of skipped items includes only the size of items that were skipped (not of folders)
+Note: For Salesforce and Dynamics connectors, skipped items during a backup may be system files that do not contain your data and are not needed for restore.
+Restore Job Statistics
+- Restored - items that were successfully restored.
+- Overwritten - items in the target location that were replaced by files from the snapshot. This occurs when an item is in found in the snapshot and in the target location, but the contents are different. In this case we overwrite the item in the target location with the item in the snapshot.
+- Skipped - items that could not be restored due to reasons such as throttling, a bad request, or a bad token.
+ Number and size of skipped items includes total of all items and folders that were skipped.
+List of Skipped Items
+A list of skipped items can be downloaded as a CSV file.
+The reports can be used to check whether there are certain files that are skipped continuously. CSV files from multiple jobs can be compared to track such possible items.
+Note: CSV file reports are only available for one month after the completion of the job.

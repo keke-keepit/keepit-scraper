@@ -1,0 +1,51 @@
+Source URL: https://www.keepit.com/blog/keepits-ease-of-use/
+Content type: Web page
+Last modified: 2025-08-20T00:41:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why customers love Keepit's ease of use
+The Keepit approach to the 5 quality components of usability
+One prominent aspect of Keepit's cloud backup and recovery solution that customers rave about most is its simplicity and ease of use. Where other similar solutions often require weeks of training, the Keepit solution is plug and play, capable of being implemented and fully operational within minutes – and by everyone on the team. No extensive courses and diplomas are required.
+The intuitive ease with which Keepit locates and restores files also means our customers are actively incorporating it into their day-to-day internal support operations, rather than just using it for finding and recovering files that have simply gone astray. The ease of use comes from a dedicated design process, which puts usability up front and users in the driver's seat.
+There are many different opinions on what the word usability means, so here at Keepit -- as with many other things -- we are inspired by what we observe in the workplace and then have our take on it that fits our product.
+The Keepit Design Hierarchy
+Creating and following a design hierarchy goes to the heart of how we build and continue to improve Keepit’s backup solution.
+For every design and feature we implement, Keepit follows a clear usability vision that strongly focuses on following a design code.
+The hierarchy in which we make design and usability decisions is built around Principles, Pillars, and Patterns.
+Starting with our Design Principles, everything we do is based on these principles: They are abstractions of how we design our products and help designers make the right decisions.
+Design Pillars are more focused on how we implement designs and how the user should experience the Keepit solution. Pillar example: “The right functionality, at the right time, to the right person.” This Pillar is used rigorously for each feature we create throughout the entire user flow.
+- Is this the right functionality being presented to the user?
+- Is this the right time to show this functionality?
+- Will it work for the person who is going to use it?
+Finally, we have Patterns.
+Design Patterns are specific implementations of functionality. This could be how we implement breadcrumbs, how we handle truncation, checkboxes, dropdowns, and wizards, just to name a few.
+Defining Usability
+Usability is a quality attribute that assesses how easy user interfaces are to use. The word "usability" also refers to methods for improving ease of use during the design process.
+The most popular definition of Usability has five components, as explained by the Nielsen and Norman Group:
+- Learnability: How easy is it for users to accomplish basic tasks the first time they encounter the design?
+- Efficiency: Once users have learned the design, how quickly can they perform tasks?
+- Memorability: When users return to the design after a period of not using it, how easily can they re-establish proficiency?
+- Errors: How many errors do users make, how severe are these errors, and how easily can they recover from the errors?
+- Satisfaction: How enjoyable is it to use the design?
+There are many other important quality attributes, one of which is utility, which refers to the design's functionality. In other words, does it do what users need?
+How Keepit Measures Usability
+Learnability in Keepit:
+Let us look at the first item: Learnability. The nature of a backup application is not something our users check in to merely to “get a dopamine kick” from watching cool facts about their running backups. Instead, backup is more “set it and forget it,” and usually, our users come to the platform for one of two reasons. One, is to make sure that everything is running as it should. Two, is to restore data that was lost.
+For many of our users, the fact that the application is so easy to learn and understand saves them much time, money, and the frustration of being unable to find the data that needs to be restored.
+Memorability in Keepit:
+Our approach is not just that things should be easy to learn but also that they must be easy to get back into after being away for a period of time. We do this with a consistent system: most things work in a predictable, similar way, following the same ideas. This increases the chance that something is memorable and easy to re-learn. There are, of course, many things we do to improve the memorability of Keepit, with consistency and recognizability of the applications they are backing up being just some of them.
+Efficiency in Keepit:
+All of this leads to Keepit’s Efficiency. We like to look at efficiency from the point of view that you should “take the time to look before you jump.” This means we do not consider “few clicks” a success criterion in itself, but rather, we consider “carefully placed” clicks as a step in the right direction – i.e., solving the problem with just the right number of clicks.
+Errors in Keepit:
+Naturally, we do everything within our power to ensure the number of mistakes made in relation to the task being solved is at a minimum and that a tight correlation exists between the number of errors the user is making and the solution's efficiency. Every time the user makes an error, it sends them back into the flow, and they will have to redo actions, which again leads to an ineffective solution. Learnability and memorability directly impact the user's errors, so everything is connected, as you can see.
+Satisfaction in Keepit:
+Finally, there is one more thing to address: satisfaction. Satisfaction is a tricky topic to discuss when talking about a solution that’s practical in nature and does not contain any real incentive to be a pleasurable experience. In the Keepit design, we have gone to great lengths to fight against the tendency of “functional design” that flourishes in the world of IT management tools. Instead, we have moved toward the concept of “emotional design” because IT administrators also deserve good tools.
+In functional design, where the idea that showing everything all at once means more control and empowered admins, Keepit believes showing the right thing, at the right time, to the right person offers the ultimate degree of control and empowerment. We also believe that creating a pleasurable and satisfying experience with administration tools like Keepit, where everything “just works,” frees up administrators to focus on other priorities.
+Final thoughts
+Despite our mission to create the perfect solution that requires no previous knowledge to recover data, we are painfully aware that achieving perfect usability is a goal yet to be reached. But we strive every day to get there.
+That said, we recommend that our users regularly make sure they understand the flows and the emergency training so that in the case of an emergency, they know exactly what to do and when to do it, which we’ll save for a future blog post.
+At Keepit, we put a lot of effort into ensuring that the design leaves little room for mistakes and is easy to pick up again after a long vacation - even for an inexperienced administrator.
+Help The Keepit Design Team
+We are always looking for people who would like to provide feedback on our solution and help us create the best design in the world. Please sign up here if you are interested in becoming part of the user feedback forum.

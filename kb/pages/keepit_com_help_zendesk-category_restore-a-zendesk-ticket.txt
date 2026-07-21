@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/help/zendesk-category/restore-a-zendesk-ticket/
+Content type: Web page
+Last modified: 2026-02-25T11:34:49+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore a Zendesk ticket
+Restoring a Zendesk ticket returns it to its original location in Zendesk.
+During the restore process, you can add a tag to the ticket, which will be used to identify the restored ticket and prevent it from triggering customer-facing notifications or automations. Learn more
+Restore a Zendesk ticket
+1. In your connector, locate the ticket you want to restore.
+2. Optional: If you want to restore an item from an earlier point in time, select the Snapshots Viewer, and select the desired snapshot.
+3. Point to the item and select ••• > Restore.
+4. Optional: Add a tag to the ticket.
+5. Click Next.
+6. Review the summary, optionally add a comment, and click Restore.

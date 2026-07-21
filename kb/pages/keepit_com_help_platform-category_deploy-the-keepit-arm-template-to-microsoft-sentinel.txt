@@ -1,0 +1,44 @@
+Source URL: https://www.keepit.com/help/platform-category/deploy-the-keepit-arm-template-to-microsoft-sentinel/
+Content type: Web page
+Last modified: 2026-07-07T13:57:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Deploy the Keepit ARM template to MicrosoftÂ Sentinel
+Integrate security monitoring into your Azure environment with the Keepit custom ARM (Azure Resource Manager) template.
+The template forwards audit log events from the Keepit platform to your connected Azure Log Analytics workspace. A list of available audit log events can be found at this link.
+Follow the steps below to deploy the Keepit integration.
+I. Open the Keepit custom template
+Launch the custom deployment template using this link.
+Several fields will be pre-filled with default values, which you can modify if needed.
+II. Select subscription and resource group
+Select the appropriate subscription and resource group. The Location field defaults to the location of the selected resource group.
+III. Enter your Keepit Account ID
+To find your Keepit Account ID:
+1. Sign in to the Keepit platform.
+2. Select the profile icon and select Account info.
+3. Click Service and billing.
+4. Under Service info, you’ll find your Account ID.
+IV. Enter your Keepit API token credentials
+Provide your Keepit API token login and password.
+For instructions on how to create an API token, click here.
+V. Enter the Keepit host
+Specify the Keepit URL that corresponds you your region.
+- Denmark (Copenhagen): dk-co.keepit.com
+- United States (Washington, DC): us-dc.keepit.com
+- Australia (Sydney): au-sy.keepit.com
+- United Kingdom (London): uk-ld.keepit.com
+- Germany (Frankfurt): de-fr.keepit.com
+- Canada (Toronto): ca-tr.keepit.com
+- Switzerland (Zurich): ch-zh.keepit.com
+VI. Enter your Log Analytics workspace ID and client authentication key
+To retrieve this information:
+1. In the Azure portal, go to your Resource Group.
+2. Open a Log Analytics workspace.
+This should be the workspace where you want the audit logs to be sent.
+3. Navigate to Settings > Agents.
+4. Under Log Analytics agent instructions, you’ll find the Workspace ID.
+Copy the Workspace ID and either of the keys — both will work.
+VII. Deploy the integration
+Click Review + create to deploy the integration to Azure.

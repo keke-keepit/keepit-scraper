@@ -1,0 +1,66 @@
+Source URL: https://www.keepit.com/blog/what-is-zero-trust-principle/
+Content type: Web page
+Last modified: 2024-10-21T23:45:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What is the zero trust principle?
+Zero Trust: What it is and how to adopt for data security
+Zero Trust and data security in companies
+ 
+Due to the surge of ransomware attacks, the increased risks for data loss, and the continuous adverse effects cybercrime poses, many organizations have adopted the zero-trust principle to harden the security of their systems, thereby increasing their cyber resiliency. 
+Cyberattacks have become so ubiquitous that the Biden White House issued a statementâ¯urging American business leaders to strengthen their organization’s cybersecurity measures.
+ 
+ 
+As it stands,â¯GlobeNewswire reported that zero trust securityâ¯is expected to reach a market value of $29 million USD by the end of 2022 and increase to US $118.7 billion by 2032. This significant growth in the coming decade comes from the value zero trust brings companies. 
+The simple fact is that business leaders are following its principles, like consistent monitoring and validation, because these principles help prevent data breaches and mitigate data loss. 
+ 
+This post will dive into what the zero principle is, as well as its capacity to tighten workplace data and security, effectively ushering in what Microsoft calls:
+A new security model that more effectively adapts to the complexity of the modern environment, embraces the hybrid workplace, and protects people, devices, apps, and data wherever they’re located.
+What are the cybercrime trends that Zero Trust can help curb?
+One trend that's risen in recent years is ransomware. Ransomware cripples businesses by locking their computer systems until a sum of money is paid. These attacks are expected to have a price tag of $265 billion USD annually by 2031, according to Cybersecurity Ventures.
+With how easy it has become for ransomware gangs to deploy ransomware on a multinational scale, businesses need to deploy enhanced cybersecurity solutions to lessen system vulnerabilities, because “when it comes to ransomware attacks, it’s a matter of when, not if.” Read more from the Keepit blog article on how to prepare for ransomware.
+It should come as no surprise that ransomware attacks can result in operational downtime. A Statista report statedâ¯that the average length of interruption after ransomware attacks is 20 days.
+Even minor disruptions can decrease employee productivity, impede communications with clients—among other issues such as the significant fines Marriott faced—and impact business continuity. One might struggle to fully comprehend the serious implications that 20 days of downtime would have for businesses.
+Zero trust, in a nutshell, is guided by the principle of 'never trust, always verify.'
+Why Zero Trust?
+Zero trust, in a nutshell, is guided by the principle of “never trust, always verify.” It's a modern security architecture which assumes that internal and external threats exist on the network at all times due to the pervasiveness of cybercrime. And as such, it requires all network users to undergo verification and validation processes before they can access the network resources.
+Is Zero Trust really needed?
+Generally, employees within a company access multiple networks simultaneously. There are many, many data exchanges between multiple user devices, across potentially numerous networks – of course, depending on the complexity of a company’s IT infrastructure.
+This architecture boosts productivity through increased collaboration. However, this can come with a hidden risk when not following the zero-trust security model. 
+ 
+Zero Trust use cases
+Since this user’s device was previously validated and is now assumed harmless, it still has access to all the users and networks as before being infected without having to provide or verify any credentials.
+The result is unrestricted access to spread malware from this “trusted” device to other users within the network and to other devices within overlapping networks, allowing the malicious actor to expand their reach and damage, gaining access to more and more of a company’s business-critical data.
+This example is the main reason zero trust architecture rejects assuming any device is safe. Rather, the system reduces risks through continuous authentication, thereby enhancing protection for your company's network system by always verifying and authenticating. According to TechTarget:
+This protects your organization in ways other models can’t. It stops malware from entering your network; gives remote workers more protection without affecting productivity; simplifies management of security operations centers with enhanced automation; and extends visibility into potential threats to improve proactive remediation and response.
+TechTarget
+How to adopt Zero Trust
+According to a Microsoft zero trust business plan, “digital transformation forces re-examination of traditional security models.” And as such, there are many companies offering guidance. Microsoft alone has helped aid zero trust deployments in thousands of organizations with insightful (and practical) guides on how to adopt a zero-trust business plan.
+Global cybersecurity leader Palo Alto Networks shares that there are three crucial steps you need to follow to deploy zero trust architecture in your business:
+1. Define your protected surface: Zero trust architecture can be costly and complicated. As such, identify your protected surface—including components like company applications and assets— rather than focusing on a large network area.
+If your business utilizes Microsoft 365, then you’ll know that documents, email, SharePoint data, and Teams chat must be secured against cyberattacks. Attackers can breach an account with access to the data or hijack your system admin, making it imperative to find a SaaS data backup solution that can maintain multiple backup copies with the needed granularity of data and metadata.
+2. Map your data flow: Plan your business’ flow of instructions and data as this will provide you with information on overlapping networks. 
+For instance, where and in which formats is the data stored? If your employees utilize digital, desktop, mobile, or cloud, identify them so you can see how data is moved and shared. 
+ 
+3. Design your architecture: Essentially, the network architecture should prevent unauthorized access to individuals who aren’t part of your company. 
+This is especially relevant if you want to encrypt data before it moves to cloud storage devices. If you want toâ¯back up your company’s Microsoft 365 data, for instance, we offer blockchain-based encryption technology that guarantees your backups will remain immutable to ransomware threats and data loss. At Keepit, we also offer comprehensive coverage for M365 applications such as SharePoint, OneDrive, Groups and Teams, and Exchange Online.
+Of course, implementation isn’t as simple as one, two, three: It involves a massive undertaking and a focused effort to implement and maintain. There are many, many other variables and considerations.
+For instance, you can also adopt multi-factor authentication (MFA) and ensure use of updated devices.
+- MFA is especially relevant for companies who have stored their digital information on cloud computing systems. With MFA, you can prevent unauthorized users from accessing your organization’s resources.
+-  Similarly, encourage your workforce to update their devices with the latest firmware as this typically offers security patches for known vulnerabilities.
+ 
+Continuously monitor your network and device attributes. Adopting zero trust architecture can prove futile if your workers do not audit and maintain a log for monitoring network traffic.
+Do I still need to get backup for my SaaS data?
+Ultimately, zero trust makes it much more difficult for external threats to gain access to an organization’s business-critical data – but not impossible. It also does not protect you against internal threats nor from human errors such as accidental overwrites and accidental deletions.
+Data protection best practices tell us to always have a backup. That is a fundamental responsibility for you, the data creator and customer of a SaaS service like Microsoft 365, due to the well-documented yet often misunderstood shared responsibility model. Securing an independent backup is still the best way to ensure 24/7 availability to your data.
+With the offerings from specialized third-party backup and data management providers, peace of mind can be had quickly and from a cost-effective service. This is why Keepit was created: Your data, here today, here tomorrow.
+Want backup now?
+Learn more about Keepit’s SaaS data backup service offerings.
+If you’d like to explore more about backing up a particular SaaS workload like Microsoft 365, find the relevant Keepit blog posts below, as Keepit offers a suite of cloud SaaS data protection services:
+- Read our blog about why you need to back up M365
+- If you’re using Salesforce, read that blog article
+- Why back up Active Directory (Azure)
+- And for Google Workspace
+- Finally, read why to back up Zendesk

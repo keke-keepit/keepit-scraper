@@ -1,0 +1,20 @@
+Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/restore-power-pages/
+Content type: Web page
+Last modified: 2026-07-04T00:39:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Power Pages
+Power Platform pages (sites) are stored within the Sites folder, located inside your Dynamics 365 Data folder.
+Additionally, there is a dedicated Power Pages folder within the environment folder, which links directly to the Sites folder.
+Restore a Power Page
+1. Open your Power Platform / Dynamics 365 connector.
+2. Navigate to Power Pages.
+3. Click on Power Pages to access the folder containing your Power Platform sites.
+4. Point to the site and click the restore icon.
+5. Click Yes to confirm restore.
+Power Page sites are restored along with their related items (e.g., images, video URLs).
+What happens when restoring deleted sites
+Deleted sites are always restored as Inactive sites. You will need to manually activate each site after restoration.
+Refer to Microsoft documentation for details: https://learn.microsoft.com/en-us/power-pages/admin/reactivate-website

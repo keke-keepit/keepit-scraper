@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/resources/navigating-sec-and-finra-regulations/
+Content type: Web page
+Last modified: 2025-08-20T02:30:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Navigating SEC and FINRA regulations
+How Keepit supports your compliance efforts
+Operating in the financial sector means navigating some of the strictest data governance rules. From SEC Rule 17a-4 to FINRA’s evolving recordkeeping mandates, organizations must ensure they can retain, protect, and recover data on demand — without compromise.
+This factsheet provides a detailed overview of how Keepit helps address the requirements of SEC Rule 17a-4 and key FINRA rules. It explains how our purpose-built, independent SaaS data protection platform supports immutable, long-term storage of data in a non-rewritable, non-erasable format, enables efficient recovery, and contributes to your overall business continuity planning.
+Whether you're looking to modernize your compliance posture or prepare for your next regulatory audit, this factsheet highlights key SEC and FINRA compliance requirements – and how Keepit helps you meet them.  
+In this factsheet, you’ll find:
+- A breakdown of SEC Rule 17a-4 and how Keepit supports each requirement
+- How Keepit meets FINRA Rules on electronic records and business continuity
+- What to consider when selecting a third-party provider for compliant recordkeeping
+- Why Keepit won “Most Innovative, Compliance” at the 2024 Global Infosec Awards

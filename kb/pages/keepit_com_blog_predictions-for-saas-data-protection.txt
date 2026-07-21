@@ -1,0 +1,38 @@
+Source URL: https://www.keepit.com/blog/predictions-for-saas-data-protection/
+Content type: Web page
+Last modified: 2026-02-03T09:09:24+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+5 predictions for 2025: Data, APIs, and AI, oh my!
+As we welcome a new year, let’s take a look ahead and anticipate the trends that will shape SaaS ecosystems in 2025. What challenges will businesses need to overcome? What opportunities will they seize to secure and manage their data?
+To help shed some light on questions like these, Keepit’s Jakob Østergaard (CTO), Michael Amsinck (CPTO), and Kim Larsen (CISO) have shared five predictions for 2025 ranging from data protection and compliance to cloud infrastructure, AI innovation, and scalability challenges.
+Prediction 1: Data protection — finally a non-negotiable priority
+By Michael Amsinck, CPTO at Keepit
+Data protection goes mainstream
+In 2025, businesses will move beyond seeing SaaS data protection as optional and embrace it as a non-negotiable priority. The increasing frequency of cyberattacks and the devastating consequences of data breaches will make organizations take proactive steps to safeguard their digital assets, such as SaaS data, filling a critical need in shared responsibility models.
+This means not just adopting backup solutions but ensuring they’re vendor-independent and truly resilient. Companies will demand solutions that not only secure their data but also guarantee accessibility under any circumstances. The market is ready for exponential growth, fueled by this heightened awareness and demand.
+Prediction 2: Data sovereignty — know where your data lives
+By Kim Larsen, CISO at Keepit
+Data sovereignty takes center stage
+As global regulatory landscapes evolve, businesses will prioritize knowing precisely where their data resides and under whose jurisdiction it falls. Customers, too, are becoming savvier, demanding transparency about how and where their data is managed.
+By 2025, data sovereignty won’t just be a legal obligation — it will be a strategic advantage. Smart businesses will give their data a clear “address,” ensuring compliance while boosting customer trust. This isn’t about borders — it’s about accountability and control.
+Prediction 3: Cloud services — supply chain under the microscope
+By Jakob Østergaard, CTO at Keepit
+Trust, but verify.
+The geopolitical turbulence of recent years has exposed vulnerabilities in supply chains, including digital services. By 2025, organizations will scrutinize their cloud service providers with the same rigor they apply to physical supply chains.
+Compliance, vendor relationships, and security protocols will come under the microscope. While integration and collaboration are essential, the days of blind trust are over. Businesses will learn to balance innovation with caution — understanding that while partnerships are key, not all vendors are allies.
+Prediction 4: AI — the year of truth
+By Jakob Østergaard, CTO at Keepit
+AI hits reality check
+2025 will mark the end of AI hype cycles. Unsustainable projects will collapse, and only truly functional, value-adding solutions will remain. Businesses will embrace AI for practical purposes: analyzing large datasets, identifying patterns, and enhancing decision-making.
+The market will mature, with clear winners emerging as the dust settles. Much like past technological fads, the glamour will fade, leaving behind only what works. Companies that harness AI wisely — focusing on utility rather than novelty — will reap the rewards.
+Prediction 5: Scalability — APIs as the breaking point
+By Jakob Østergaard, CTO at Keepit
+APIs must grow up.
+APIs are the backbone of modern SaaS ecosystems, but by 2025, their limitations will become a critical bottleneck. Throttling, slow responses, and intermittent failures are stalling progress, undermining the promise of seamless integrations. For the digital economy to thrive, APIs must evolve to handle higher volumes and deliver consistently.
+Engineering robust, scalable solutions isn’t glamorous, but it’s essential. The message is clear: slow down to build better. In the long run, well-designed APIs will separate market leaders from the also-rans.
+Conclusion
+The predictions for 2025 reflect a shared focus on SaaS resilience, accountability, recovery, and adaptability. Businesses must prioritize intelligent and robust systems that address data protection, transparency, and technological evolution to navigate the challenges ahead.
+By embracing these shifts proactively, organizations can transform uncertainty into opportunity, ensuring they remain competitive and secure. After all, recovery can only happen if you have a backup proactively in place.

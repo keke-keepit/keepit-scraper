@@ -1,0 +1,38 @@
+Source URL: https://www.keepit.com/blog/data-governance-report/
+Content type: Web page
+Last modified: 2025-08-20T02:52:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Intelligent data governance: Why IT decision-makers should control their data
+Data control is the foundation for everything — from implementing new technologies like AI to ensuring cyber resilience and compliance. Intelligent data governance equips organizations with tools to lay a sustainable foundation for business continuity.
+The evolving cybersecurity landscape
+Through speaking with IT leaders around the world, I’ve found that one of the main issues facing modern organizations is data governance — and, naturally, the question of how to approach it efficiently while addressing today’s cybersecurity demands.
+These firsthand experiences align with findings from qualitative research Keepit conducted a few months ago. We interviewed 30 senior IT leaders across different industries about the critical role data control plays in business resilience.
+Our research revealed that CIOs and CISOs understand the increasingly vital roles they play in ensuring business continuity and resilience amid ever-evolving threat landscape. They also recognize the immense effort required to prioritize tools, resources, and tasks to establish and maintain strong data governance for long-term business continuity.
+Rather than just outlining their concerns and challenges, we went a step further: We created a report to help CIOs and CISOs navigate data resilience in their organizations. It provides actionable guidance on implementing a sustainable data governance framework — along with the reasoning behind it.
+The report, “Intelligent data governance: Why taking control of your data is key for operational continuity and innovation,” serves as a valuable and in-depth resource for building cyber resilience.
+Defining data governance and data classification
+So, what is data governance and how does it relate to cyber resilience?
+Existing under the broad umbrella of data management, data governance is a program — implemented via policies and standards — intended to ensure the availability, quality, and security of an organization’s data in accordance with applicable regulations and obligations (e.g., adhering to industry standards, fulfilling requirements for certifications, etc.).
+Within data governance, data classification is the process of separating and organizing data into relevant groups (“classes”) based on their shared characteristics, such as the level of sensitivity, risks they present, and the compliance regulations that protect them.
+Data governance underpins cyber resilience plans
+An intelligent data governance program delivers several beneficial outcomes for organizations:
+- It helps to ensure the availability, quality, and security of an organization’s data, making it a foundational pillar of business continuity.
+- Data governance helps improve overall data accuracy and impacts outcomes based on that data — which can range from comparatively simple day-to-day business decisions and operations to more complex, forward-looking initiatives including AI-focused programs.
+- It helps to support organizational efforts to comply with regulations and other obligations, making it a cornerstone of compliance.
+- An effective data governance program also permeates the entire organization, increasing data literacy, data accessibility, and data scalability.
+Do you know where your data is?
+Of course, disaster recovery planning cannot start without a clear understanding and mapping of your data and its significance to your business. What data is crucial for us to continue running our operations? Who needs access to which data to do their job? Where do we store all of this critical data?
+Knowing the answers to these questions will start your journey towards ensuring continuity in cases of data loss or cyberattacks. This is achieved through an efficient and effective data governance framework.
+I hope that, with our new report in hand, CISOs and CIOs will be able to future-proof their modern, data-driven enterprises through effective data governance.
+About Keepit’s new report, “Intelligent data governance: Why taking control of your data is key for operational continuity and innovation.”
+Our report takes a practical approach to data governance by offering a resource to organizations for creating or adopting a framework that works best for them.
+Key takeaways from the report:â¯
+-Major trends shaping enterprise ITâ¯
+-The importance of “always-on” dataâ¯
+-Resilience against data loss and corruptionâ¯
+-Data governance as an investmentâ¯
+-A practical approach to data governanceâ¯
+-10 questions for board discussions

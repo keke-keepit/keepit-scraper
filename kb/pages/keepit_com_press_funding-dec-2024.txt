@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/press/funding-dec-2024/
+Content type: Web page
+Last modified: 2025-08-20T02:24:09+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+SaaS data protection and backup leader Keepit secures $50M in funding to accelerate growth and product innovation
+New funding will fuel Keepit’s global expansion and product innovation
+Copenhagen, Denmark – December 16, 2024 – Keepit, the world’s only independent, cloud-native data protection and backup provider, today announced a $50 million funding round, led by existing investor One Peak , and EIFO, the Export and Investment Fund of Denmark. This funding round marks the company’s third equity investment in the past four years, bringing total funds raised to approximately $90 million.
+The latest investment underscores Keepit’s rapid growth and solidifies its position as a leader in SaaS data protection. The new investment will be directed towards expanding the company’s go-to-market efforts and fueling continued product innovation.
+Keepit’s mission to provide a vendor-independent, dedicated infrastructure for SaaS data protection has resonated with a broad range of enterprise customers as its solutions already support 5 million users globally. With its latest funding, Keepit is poised to accelerate its global expansion strategy, prioritizing key markets like the US, Europe, and other high-growth regions, while bolstering Keepit’s network of partners.
+Simultaneously, Keepit plans to intensify its focus on product innovation, advancing its cutting edge, cloud native solutions to empower organizations in safeguarding their SaaS data effectively and reliably. This will include broader workload coverage and additional data management and intelligence capabilities for the enterprise.
+“Our commitment to innovation and solving our customers’ most pressing data protection challenges is what drives us forward,” said Morten Felsvang, Keepit Co-founder and Chief Executive Officer and Frederik Schouboe, Keepit Co-founder and Chief Vision Officer. “This new funding will allow us to expand our reach and continue innovating the most advanced SaaS data protection solutions on the market. We’re thrilled to see such strong support from our investors, who understand our mission and share our vision for the future.”
+David Klein, Co-founder and Managing Partner at One Peak, commented on the investment: 
+“We have been continually impressed by Keepit’s leadership and their unwavering ability to deliver on their vision. In a time when the need for secure, independent SaaS data protection is more critical than ever, Keepit stands out as a leader with its innovative platform. We are thrilled to continue supporting the Keepit team in this exciting next chapter of their growth journey.” 
+Jacob Bratting Pedersen, Managing Director, Partner & Head of Tech & Industry at EIFO, commented: 
+“Keepit’s focus on cloud-native, vendor-independent data protection is what sets them apart. This investment is not just a financial decision for us—it’s about supporting a company that is revolutionizing the way organizations think about data security. We believe in their long-term vision and look forward to contributing to their continued success.” 
+About One Peak
+One Peak is a leading specialist growth equity firm with $2.0 billion in assets under management that invests in technology companies in the scale-up phase. One Peak provides growth capital, operating expertise, and access to its extensive network to exceptional entrepreneurs, with a view to help transform innovative and rapidly growing businesses into lasting, category-defining leaders. In addition to Keepit, One Peak’s investments include Akur8, Ardoq, Coro, Cymulate, Deepki, Docplanner, Lucca, Neo4J, Pandadoc, Spryker, and many more.
+To learn more, visit www.onepeak.tech.
+About EIFO, the Export and Investment Fund of Denmark
+EIFO is the national promotional bank and export credit agency of Denmark combined in one financial institution. Active in over 100 countries, and with a total business volume of more than EUR 20 billion, EIFO provides financial solutions for Danish companies and their global partners, while also investing in startups and funds. We exist to open doors for Danish global business, accelerate the green transition, promote new technologies and develop the Danish defense industry. With our willingness to take risks in financing, EIFO paves the way for those who dare to think bigger.
+Learn more on www.eifo.dk/en/.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguardsâ¯essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over ten thousand companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+ 
+For more information visitâ¯www.keepit.comâ¯or follow Keepit onâ¯Linkedin.

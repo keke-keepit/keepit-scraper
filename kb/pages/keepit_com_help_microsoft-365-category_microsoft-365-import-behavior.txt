@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/microsoft-365-import-behavior/
+Content type: Web page
+Last modified: 2026-06-30T01:06:40+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Microsoft 365 import behavior
+Import supports only account-related data. This means that Keepit can import Exchange (Calendar, Contacts, Mail, Tasks) and OneDrive data, but not Groups & Teams, SharePoint, and Public Folders.
+The in-place method is automatically selected when you set up an import. Imported data is always brought back to Microsoft to the location corresponding to the data type.
+When importing items to a location that already contains the same items, you will be asked how to handle duplicates.
+Import behavior works differently depending on the type of data you are importing.
+Exchange
+When importing Exchange items to a location that already contains the same items but with different timestamps, you can choose to either rename or skip duplicate items.
+All Microsoft Exchange (Mail, Contacts, Tasks, Calendar) data items have their own unique IDs. Each time you import one of these items, Microsoft gives it a new ID.
+Accordingly, if you choose to rename duplicate items, they will just be added to the target folder.
+If you choose to skip duplicate items, then what happens depends on whether you are transferring data between the same user or between different users (on the same or different connectors):
+- If you are importing data from a historical snapshot back to the same user, the items will be skipped.
+- If you are importing data from a different user, the items will be added to the target folder.
+Imported items not already in the target account will be created.
+Items present in the user account but not in the snapshot you are importing from will not be deleted.
+OneDrive
+When importing OneDrive items to a location that already contains items with the same filename but with different timestamps, you have the following options:
+- Skip duplicate items: The imported items will be skipped.
+- Rename duplicate items: The imported items will be renamed. For example, importing a duplicate of “filename.png” will automatically create a duplicate file called “filename (1).png”.
+- Overwrite existing items: The imported items will be added to OneDrive as new versions of the items.
+If you import duplicate items with the same timestamps, the items will be skipped regardless of which option you choose.
+Imported items not already in the target account will be created.
+Items present in the user account but not in the snapshot you are importing from will not be deleted.

@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/customers/freenet/
+Content type: Web page
+Last modified: 2025-11-26T13:02:33+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit and freenet: Resilience in the face of cyber threats
+freenet, the largest network-independent telecommunications provider in Germany, required comprehensive data security measures to protect its Microsoft Office 365 and Microsoft Entra ID tenants from data loss scenarios. To achieve this, freenet worked with trusted partner IT sure to chooseâ¯Keepit's backup and recovery solution to secure the data of approximatelyâ¯3,200â¯employees and ensure uncomplicated restoration.â¯â¯
+Protection against ransomware attacksâ¯
+When searching for a data protection partner, freenet's focus was on reliably preventing data loss or manipulation and ensuring full data recovery when needed.â¯The Keepit solution runs on a vendor-independent, tamper-proof, and air-gapped cloud infrastructure, making it uniquely strong against ransomware and other cyberthreats.â¯
+Customers, such as freenet, have ensured access to stored data in the event of a system failure or a compromised user account. “We’ve found Keepit to be an effective and reliable tool to secure Microsoft Office 365 and Microsoft Entra ID data — safeguarding its IT infrastructure against threats such as ransomware attacks,” remarks Andre Quandt, Head of Workplace Services at freenet.â¯â¯
+One of our primary objectives is to prevent scenarios in which Microsoft Office 365 user data is encrypted and rendered inaccessible due to attacks, or where Entra ID accounts and tenant configurations are compromised.
+- Andre Quandt, 
+Head of Workplace Services at freenet
+Ensuring business continuityâ¯
+With ransomware attacks becoming more prevalent, the Keepit platform limits the impact of data breaches by allowingâ¯quick recovery, preventing dataâ¯loss, and reducing downtime — and ultimately ensuring business continuity. As backups are a prime target for attackers, with 99% of ransomware incidents attempting to compromise them, implementing security measures like air-gapping, immutability, and encryption fortifies freenet’s cyber resilience.â¯
+An outage of Microsoft Office services would have significant economic implications, as these services are used by all employees.
+- Andre Quandt, 
+Head of Workplace Services at freenet
+Versatility and intuitive operation as benefitsâ¯
+“Keepit stood out to us due to its ease of use and the capability to back up not only standard Office 365 data, but also specific content such as Teams tabs, apps, and Entra ID data. This versatility and intuitive operation were decisive factors in choosing Keepit,” said Andre Quandt, Head of Workplace Services at freenet.â¯
+Keepit’s platform streamlines data protection with a single, intuitive dashboard that secures SaaS applications like Microsoft 365 and Salesforce. The platform is seamlessly integrated with customer systems and requires almost no training, allowing the location, preview, and restoration of data with just a few clicks.â¯
+The backup functionality for Microsoft Entra ID data was a critical factor in the decision to select Keepit.
+- Andre Quandt, 
+Head of Workplace Services at freenet

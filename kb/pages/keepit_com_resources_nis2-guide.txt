@@ -1,0 +1,16 @@
+Source URL: https://www.keepit.com/resources/nis2-guide/
+Content type: Web page
+Last modified: 2025-08-20T02:30:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+NIS2 Guide: What you can do now to prepare for compliance
+The NIS2 directive, set to be enacted into local law by October 17, 2024, implements the most comprehensive cybersecurity regulation in global history. It aims to bolster Europe’s defense against cyber threats by standardizing cybersecurity measures across the EU, particularly for organizations with critical infrastructure.
+Is your company part of Europe’s critical infrastructure, directly or indirectly? Are you already prepared to meet the NIS2 cybersecurity standards, especially when it comes to business continuity? If not, download our guide now to help you on your journey towards compliance:
+Article 21 of NIS2 lists several cybersecurity risk-management measures businesses need to adhere to for business continuity, specifically “backup management and disaster recovery.” This means organizations must take measures now to minimize cyber risks, and ensure their data is protected and can be recovered quickly in the case of disaster. We have prepared this document for you to guide you through the steps of running a risk analysis, establishing which of your data is business-critical to back up, creating a strong disaster recovery plan, and testing to know it works.
+The guide includes:
+- Our Map-Prioritize-Test framework to help you assess what you need to protect
+- Best practices to get your business ready for NIS2 compliance
+- What to look for when choosing a business continuity partner
+For more guidance on how to get your organization ready for the pending NIS2 regulation, watch our on-demand webinar ‘Prepare for NIS2’ here:

@@ -1,0 +1,12 @@
+Source URL: https://www.keepit.com/help/api-category/api-versions/
+Content type: Web page
+Last modified: 2025-09-30T10:58:55+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+API versions
+Our API uses version 0 (v0) as the default for all requests. This means that unless otherwise specified, all endpoints and payloads adhere to the version 0 specifications.
+In case a different API version is required for a particular endpoint or use case, it will be indicated in the respective endpoint's documentation. You can specify the desired API version in your request according to the guidelines provided in those endpoint articles, usually via the additional Accept header.
+Example of an accept header for API version 1:
+Accept: application/vnd.keepit.v1+xml

@@ -1,0 +1,101 @@
+Source URL: https://www.keepit.com/help/salesforce-category/salesforce-data-coverage/
+Content type: Web page
+Last modified: 2025-12-08T15:29:04+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+| Element | Backup supported | Restore supported | Comment | 
+| Standard objects | â | â | Full field-level backup and restore | 
+| Custom objects | â | â |  | 
+| Related lists | â | â |  | 
+| Lookup fields | â | â |  | 
+| Master-detail relationships | â | â |  | 
+| Archived objects / big objects | â | â | API limitation | 
+| Attachments | â | â | Restored with parent record only; option to download | 
+| Files | â | â |  | 
+| Campaigns | â | â |  | 
+| Campaign members | â | â |  | 
+| Tasks & events | â | â |  | 
+| Territory management | Partial | Partial | API limitation | 
+| Field history tables | â | Download | API limitation; Logs older than 6 months automatically deleted | 
+| Deleted records (recycle bin) | Coming Soon | Coming Soon | Future iteration | 
+| Metadata configuration | 
+| Custom fields | â | â |  | 
+| Page layouts | â | â | Restore requires referenced fields, actions, and objects to be present | 
+| Lightning pages (FlexiPages) | â | â |  | 
+| Validation rules | â | â |  | 
+| Record types | â | â |  | 
+| Email templates (Public folders) | â | â |  | 
+| Email templates (Private folders) | â | â | API limitation | 
+| Reports & dashboards (Public folders) | â | â |  | 
+| Reports & dashboards (Private folders) | â | â | API limitation | 
+| Assignment rules | â | â |  | 
+| Approval processes | â | Partial | Future iteration | 
+| Workflow rules | â | â |  | 
+| Process builder | â | â |  | 
+| Sharing rules | â | â | Sharing recalculated post-restore | 
+| Sharing rules / Record-Level Sharing | â | â | Only rule definitions are restored; share records are recalculated by Salesforce | 
+| Lightning app builder configs (FlexiPage) | â | â |  | 
+| Custom labels and translations | â | â |  | 
+| Apex classes | â | â |  | 
+| Apex triggers | â | Partial | Future iteration | 
+| Duplicate rules & matching rules | â | â |  | 
+| Custom metadata types | â | â |  | 
+| Custom settings | â | â |  | 
+| Named credentials / remote site settings | â | â |  | 
+| Certificate and key management | Partial | Partial | API limitation | 
+| Picklist value sets (Global & local) | â | â |  | 
+| Lightning web components (LWC) & Aura components | â | â |  | 
+| Notification builder (Custom notifications) | â | â |  | 
+| Document folders (Classic) | Partial | Partial | Shared folders only | 
+| Email alerts / Notification templates | â | â |  | 
+| Flow & flow orchestration coverage | 
+| Autolaunched flows | â | â |  | 
+| Screen flows | â | â |  | 
+| All flow versions | â | Partial | Restore defaults to latest version | 
+| Flow definitions | â | â |  | 
+| Flow settings | â | â |  | 
+| Flow activation (Active/Inactive) | â | â |  | 
+| Flow access via profiles/Permissions | â | â |  | 
+| Flow orchestration definitions | â | â |  | 
+| Flow orchestration templates | â | â |  | 
+| Flow orchestration runtime records | â | â | API limitation | 
+| Identity & access | 
+| User records | â | â |  | 
+| Passwords & tokens | â | â | API limitation | 
+| Active/Inactive status | â | â |  | 
+| User license assignment | â | â |  | 
+| Profiles | â | â |  | 
+| Permission sets | â | â |  | 
+| Permission set groups | â | â |  | 
+| Permission set assignment | â | â |  | 
+| Roles | â | â |  | 
+| Login history | â | â | Read-only object; not restorable | 
+| Audit trail | â | â | Read-only metadata; not restorable | 
+| Consent management objects | â | â |  | 
+| Delegated administration settings | â | â | API limitation | 
+| Field-Level Security (FLS) | â | â |  | 
+| Session settings / Auth configs | â | â | API limitation | 
+| Installed packages | 
+| Data from package-created objects | Conditional | Conditional | Backup/restore if API-accessible and package installed | 
+| Custom fields, layouts, rules | Conditional | Conditional | Backup/restore if API-accessible and package installed | 
+| Package reinstall | â | â | Must be manually reinstalled from AppExchange or partner | 
+| Hidden or protected components | â | â | Cannot be accessed or restored if protected by package | 
+| Restore behavior | 
+| Parent-child restore sequencing | â | â |  | 
+| Related restore options | â | â |  | 
+| Cross-object dependencies | â | â | Junction restores require both linked records | 
+| Sandbox seeding support | â | Partial | Available Today - Enhanced experience coming soon | 
+| Limitation area | 
+| Private folders (reports, dashboards, templates) | â | â | API limitation | 
+| Certain EventLogFiles | â | â | API limitation | 
+| Formula fields with dependent picklists | â | Conditional | Dependent picklist values must exist for restore to succeed | 
+| Orgs using shield platform encryption | â | Conditional | Restore requires active Shield encryption keys | 
+| Sandbox refresh mapping | â | â | Org ID changes after refresh may require manual remapping | 
+| Einstein / Agentforce (GenAI) Support | 
+| Einstein settings (EinsteinAgentSettings) | â | â | Future iteration | 
+| Agentforce agent metadata (GenAiPlanner*) (v60–63) | â | â | Future iteration | 
+| GenAiPlannerBundle (v64+) | â | â | Future iteration | 
+| Agentforce tests (AiEvaluationDefinition) | â | â | Future iteration | 
+| Einstein analytics (CRM Analytics) metadata | â | â | Future iteration |

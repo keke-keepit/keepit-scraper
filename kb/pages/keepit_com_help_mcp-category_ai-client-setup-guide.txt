@@ -1,0 +1,207 @@
+Source URL: https://www.keepit.com/help/mcp-category/ai-client-setup-guide/
+Content type: Web page
+Last modified: 2026-05-25T13:08:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Prerequisites (All Clients)
+Before configuring any client, ensure your local Keepit MCP server is installed and running.
+1. Clone & install
+git clone https://github.com/keepit-official/keepit-mcp.git
+cd keepit-mcp
+npm install
+2. Create .env
+env isn’t fully supported. Syntax highlighting is based on Plain Text.
+KEEPIT_USER=your-secondary-token-id
+KEEPIT_PASS=your-secondary-token-secret
+KEEPIT_ENV=eu
+3. Build
+npm run build
+4. Verify
+npm start
+You should see the server start without errors.
+Remember the absolute path to build/main.js — needed for all client configurations.
+Client setup instructions
+Claude Desktop (Recommended)
+Transport: stdio
+Setup: .mcpb package (easiest) or manual JSON config
+Option A — Install via .mcpb
+npm run generate-mcpb
+Then:
+1. Open Claude Desktop > Settings > Extensions > Advanced.
+2. Click Install Extension.
+3. Select keepit-mcp.mcpb.
+4. Enter secondary token credentials.
+5. Enable the extension.
+6. Restart Claude Desktop if needed.
+Option B — Manual config (claude_desktop_config.json)
+{
+"mcpServers": {
+"keepit": {
+"command": "node",
+"args": ["/path/to/keepit-mcp/build/main.js"],
+"env": {
+"KEEPIT_USER": "your-secondary-token-id",
+"KEEPIT_PASS": "your-secondary-token-secret",
+"KEEPIT_ENV": "eu"
+}
+}
+}
+}Verify:
+Ask Claude:
+“Do I have any unhealthy connectors?”
+Cursor
+Transport: stdio
+Config: ~/.cursor/mcp.json or project-level .cursor/mcp.json
+Setup
+1. Open Cursor > Settings > Tools & Integrations > MCP Tools
+2. Click Add Custom MCP
+3. Add:
+{
+"mcpServers": {
+"keepit": {
+"command": "node",
+"args": ["/path/to/keepit-mcp/build/main.js"],
+"env": {
+"KEEPIT_USER": "your-secondary-token-id",
+"KEEPIT_PASS": "your-secondary-token-secret",
+"KEEPIT_ENV": "eu"
+}
+}
+}
+}Restart Cursor.
+Usage:
+Switch to Agent Mode (Ctrl + .) and ask:
+“Show me unhealthy Keepit connectors.”
+VS code (GitHub Copilot)
+Transport: stdio
+Requires: Copilot Extension + Agent Mode
+Setup
+Add .vscode/mcp.json:
+{
+"servers": {
+"keepit": {
+"command": "node",
+"args": ["/path/to/keepit-mcp/build/main.js"],
+"env": {
+"KEEPIT_USER": "your-secondary-token-id",
+"KEEPIT_PASS": "your-secondary-token-secret",
+"KEEPIT_ENV": "eu"
+}
+}
+}
+}Open Copilot Chat in Agent mode.
+If MCP tools do not appear, enable:
+chat.mcp.enabled
+ChatGPT Desktop
+Support: â Limited for local stdio MCP
+Transport: stdio (experimental and inconsistent)
+Setup (may or may not work reliably)
+1. Open Settings > Beta Features > MCP.
+2. Go to MCP Servers > Add Server
+3. Use:
+- Name: Keepit
+- Command: node
+- Arguments: /path/to/keepit-mcp/build/main.js
+Environment:
+KEEPIT_USER=your-secondary-token-id
+KEEPIT_PASS=your-secondary-token-secret
+KEEPIT_ENV=eu
+Restart ChatGPT Desktop.
+Note: Many users report that ChatGPT Desktop fails to launch stdio-based local MCP servers.
+Transport: stdio
+Setup: CLI
+Add server
+claude mcp add keepit \
+-e KEEPIT_USER=your-secondary-token-id \
+-e KEEPIT_PASS=your-secondary-token-secret \
+-e KEEPIT_ENV=eu \
+-- node /path/to/keepit-mcp/build/main.js
+Verify
+claude mcp list
+/AnythingLLM
+Transport: stdio
+Best for: Offline/airâgapped deployments
+Setup
+Edit anythingllm_mcp_servers.json:
+{
+"mcpServers": {
+"keepit": {
+"command": "node",
+"args": ["/path/to/keepit-mcp/build/main.js"],
+"env": {
+"KEEPIT_USER": "your-secondary-token-id",
+"KEEPIT_PASS": "your-secondary-token-secret",
+"KEEPIT_ENV": "eu"
+}
+}
+}
+}Restart AnythingLLM.
+LM Studio
+Transport: stdio (partial)
+Note: MCP is supported, but stdio behavior varies by version.
+Setup
+Open Program > Install > Edit mcp.json:
+{
+"mcpServers": {
+"keepit": {
+"command": "node",
+"args": ["/path/to/keepit-mcp/build/main.js"],
+"env": {
+"KEEPIT_USER": "your-secondary-token-id",
+"KEEPIT_PASS": "your-secondary-token-secret",
+"KEEPIT_ENV": "eu"
+}
+}
+}
+}Restart LM Studio.
+Jan (Full stdio support)
+Jan has integrated MCP as a core feature, with native stdio support.
+Transport: stdio
+Setup: via Settings or JSON file
+Models: Supports tool-using models (e.g., Jan Nano, Llama 3.1 Tooling)
+Setup via Jan settings (recommended)
+1. Open Settings
+2. Go to Advanced Settings → MCP Servers
+3. Click Add Server
+4. Paste:
+{
+"mcpServers": {
+"keepit": {
+"command": "node",
+"args": [
+"/absolute/path/to/keepit-mcp/build/main.js"
+],
+"env": {
+"KEEPIT_USER": "your-secondary-token-id",
+"KEEPIT_PASS": "your-secondary-token-secret",
+"KEEPIT_ENV": "eu"
+}
+}
+}
+}Manual file location
+- macOS: ~/Library/Application Support/jan/settings/settings.json
+- Windows: %APPDATA%\jan\settings\settings.json
+Requirements
+- Use absolute paths
+- Ensure node is installed
+- Use a tool-capable model
+Generic MCP client setup
+Any MCP client that supports stdio can run Keepit MCP with:
+Command:
+node
+Arguments:
+/absolute/path/to/keepit-mcp/build/main.js
+Environment:
+KEEPIT_USER=your-secondary-token-id
+KEEPIT_PASS=your-secondary-token-secret
+KEEPIT_ENV=eu
+Keepit MCP uses stdio JSON-RPC only, no HTTP server required.
+Security best practices
+- Use secondary tokens only
+- Never commit credentials to Git
+- Rotate tokens every 90 days
+- MCP v1 is readâonly, no write permissions needed
+- Review and approve tool calls inside each AI client
+Troubleshooting

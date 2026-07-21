@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/press/globalinfosec25/
+Content type: Web page
+Last modified: 2025-08-20T02:30:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit named leader in cyber resilience and data protection at Global InfoSec Awards during RSA Conference 2025
+Keepit named winner in three categories at the 13th Annual Global InfoSec Awards at #RSAC 2025
+Copenhagen, Denmark – April 28 – Keepit, a global provider of a comprehensive cloud backup and recovery platform, today announced it has secured coveted awards at the 2025 Global Infosec Awards, cementing its status as industry leader in cyber resilience. Keepit was named winner in three cybersecurity categories: "Market Innovator Cyber Resilience", "Cutting Edge Data Protection" and "Editor's Choice Secure SaaS Backups".
+Keepit protects ever-increasing SaaS data, ensuring business continuity and cyber resilience. With offices and data centers around the globe, Keepit supports over fifteen thousand companies to secure business critical data from cyberthreats and other disruptions.
+“We’re excited to receive one of the most prestigious and coveted cybersecurity awards for our Keepit platform. Protecting SaaS data has become more critical than ever and Keepit continues to do its part to support customers in ensuring business continuity. We believe that resilience starts with intelligent choices – choosing the right backup and recovery partner is one of those choices that defines disaster recovery capabilities for companies around the globe,” said Michele Hayes, CMO at Keepit.
+“Keepit provides a cost-effective solution that helps mitigate cyber risks. With the Keepit platform, companies can stay one step ahead by future-proofing their cyber resilience strategy. We’re thrilled to name Keepit a winner in three categories at this year’s Global Infosec Awards,” said Gary S. Miliefsky, Publisher of Cyber Defense Magazine.
+Keepit has been recognized by the industry
+Keepit's commitment to innovation, security, and reliability has positioned the company as a leader in the cybersecurity industry. The Keepit platform was recently recognized by the Data Breakthrough Awards by naming Keepit “Data Security Solution of the Year”. Keepit also triumphed at the Cloud Awards 2024/25 in the “Best Cloud-Native Project / Solution” and “Best Cloud DR / Business Continuity Solution” categories. Keepit was also awarded at the 2024 Backup and Disaster Recovery Awards, underscoring the company’s commitment to intelligent recovery. A list of Keepit awards and endorsements can be found on the company website.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over fifteen thousand companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit https://www.keepit.com or follow Keepit on LinkedIn.
+About the Global InfoSec Awards
+This is Cyber Defense Magazine’s thirteenth year of honoring InfoSec innovators from around the Globe. Our submission requirements are for any startup, early stage, later stage, or public companies in the INFORMATION SECURITY (INFOSEC) space who believe they have a unique and compelling value proposition for their product or service. Learn more at www.cyberdefenseawards.com
+About Cyber Defense Magazine
+Cyber Defense Magazine is the premier source of cyber security news and information for InfoSec professions in business and government. We are managed and published by and for ethical, honest, passionate information security professionals. Our mission is to share cutting-edge knowledge, real-world stories and awards on the best ideas, products, and services in the information technology industry. We deliver electronic magazines every month online for free, and special editions exclusively for the RSA Conferences. CDM is a proud member of the Cyber Defense Media Group. Learn more about us at https://www.cyberdefensemagazine.com and visit https://www.cyberdefensetv.com and https://www.cyberdefenseradio.com to see and hear some of the most informative interviews of many of these winning company executives. Join a webinar at https://www.cyberdefensewebinars.com and realize that infosec knowledge is power.
+Media inquiries:
+Kari Walker
+kari@redironpr.com

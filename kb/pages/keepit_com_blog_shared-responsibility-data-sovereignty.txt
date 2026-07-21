@@ -1,0 +1,32 @@
+Source URL: https://www.keepit.com/blog/shared-responsibility-data-sovereignty/
+Content type: Web page
+Last modified: 2026-03-16T11:30:03+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Shared responsibility doesnât stop at backup: Data sovereignty is on you, too
+Cloud adoption made a lot of things easier: faster rollout, less infrastructure to manage, and a cleaner path to scale. But it also introduced a subtle trap — one that shows up in audits, incident postmortems, and board discussions:
+You can outsource operations, but you can’t outsource accountability.
+That’s the heart of the shared responsibility model that every SaaS provider champions. SaaS providers secure and operate the service, but you remain responsible for your data, identities, configurations, and the business outcomes tied to them.
+And that’s exactly why “having a backup” isn’t the finish line. Even if you back up your SaaS data, do you control where it’s stored, and are you confident about which laws apply to it? That’s where data sovereignty comes in.
+Data sovereignty: If you own the risk, you need control
+Data sovereignty, in a sense, is the shared responsibility model applied to jurisdiction and control. A provider may offer visibility or control of where and how data can be hosted, but the customer is accountable for understanding whether those offerings meet their sovereignty requirements, and then choosing architectures (including backup) that meet these demands.
+In the simplest of terms, shared responsibility answers the “who,” and data sovereignty answers the “where.” Of course, that’s painting with a broad brush, so let’s go a bit into these.
+The “who” (shared responsibility):
+- Your SaaS provider is responsible for securing its service and maintaining availability of the data they hold for you.
+- You’re responsible for your data, enabling access to the SaaS service, managing identity and configurations, and recoverability.
+The “where” (data sovereignty):
+- Where is your SaaS data stored and replicated?
+- Where is your backup stored?
+- Who ultimately controls the infrastructure that holds your data?
+- Do the answers to these questions introduce new areas of risk?
+- What jurisdictions can compel access — and how does that conflict with your local obligations?
+This is the gap sovereignty helps close: You can be accountable for compliance and resilience outcomes (driven by your jurisdiction, customers, and risk appetite) without fully controlling the conditions required to meet them.
+And importantly, the “where” doesn’t just mean the physical location of data. It includes the broader governance layer: legal jurisdiction, access pathways, dependency chains, and the practical ability to recover data on your terms.
+What is data sovereignty?
+At its simplest, sovereignty means autonomy: freedom from external control — meaning you are in control. What does that mean for data?
+Digital sovereignty applies this concept to include an organization’s ability to maintain control over its digital infrastructure, such as data, operations, and technology, so it can decide where to store data and run workloads for reasons like performance, resilience, or regulatory alignment.
+Data sovereignty is the data-specific part of digital sovereignty. It refers to which laws and regulations govern the storage and use of data — including how it can be used, who can access it, what obligations apply to it, and who decides these things.
+This is where a common misconception creeps in: organizations often treat sovereignty as a “storage location” issue. Location matters, but data sovereignty is ultimately about control, jurisdiction, and enforceable obligations.
+That’s why it helps to separate three related terms:

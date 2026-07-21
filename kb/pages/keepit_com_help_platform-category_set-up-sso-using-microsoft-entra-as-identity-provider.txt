@@ -1,0 +1,60 @@
+Source URL: https://www.keepit.com/help/platform-category/set-up-sso-using-microsoft-entra-as-identity-provider/
+Content type: Web page
+Last modified: 2026-06-23T23:16:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Set up SSO using Microsoft Entra as identity provider
+To set up single sign-on (SSO) for Keepit, first create and configure an SSO application in Microsoft Entra ID (formerly Azure Active Directory). This process will yield the IDP URL and certificate, which are needed to configure SSO in Keepit.
+Important: Before commencing the SSO setup, ensure you have a Microsoft account with a Premium subscription so that you can add non-gallery applications.
+I. Create a Microsoft Entra application for SSO
+1. Sign in to the Microsoft Entra admin center.
+2. In the left-hand menu, navigate to Applications > Enterprise applications.
+3. Click +New application at the top.
+4. Click +Create your own application at the top.
+5. Enter a name for the application.
+6. Select Integrate any other application you don't find in the gallery (Non-gallery).
+7. In the left-hand menu, click Single sign-on.
+8. Under Select a single sign-on method, select SAML.
+9. In the Basic SAML Configuration box, click the pencil icon to open the configuration window.
+10. Under Identifier (Entity ID), click Add identifier and enter the identifier that corresponds to your data center:
+Denmark (Copenhagen): https://dk-co.keepit.com/sso/metadata
+United States (Washington, DC): https://us-dc.keepit.com/sso/metadata
+Canada (Toronto): https://ca-tr.keepit.com/sso/metadata
+Australia (Sydney): https://au-sy.keepit.com/sso/metadata
+United Kingdom (London): https://uk-ld.keepit.com/sso/metadata
+Germany (Frankfurt): https://de-fr.keepit.com/sso/metadata
+Switzerland (Zurich): https://ch-zh.keepit.com/sso/metadata
+11. Under Reply URL, click Add reply URL and enter the URL that corresponds to your data center:
+Denmark (Copenhagen): https://dk-co.keepit.com/sso/login
+United States (Washington, DC): https://us-dc.keepit.com/sso/login
+Canada (Toronto): https://ca-tr.keepit.com/sso/login
+Australia (Sydney): https://au-sy.keepit.com/sso/login
+United Kingdom (London): https://uk-ld.keepit.com/sso/login
+Germany (Frankfurt): https://de-fr.keepit.com/sso/login
+Switzerland (Zurich): https://ch-zh.keepit.com/sso/login
+12. Click Save in the toolbar.
+13. In the SAML Certificates box, click Download to the right of Certificate (Base64) and the certificate with a *.cer extension will download to your computer.
+14. Change the certificate extension to .txt.
+15. In the Set up [Application name] box, locate the Login URL. This is the IDP URL that you need to configure SSO in Keepit.
+II. Assign users to the application in Microsoft Entra
+For SSO to be enabled for individual users, assign them to your SSO application in Microsoft Entra.
+1. Sign in to the Microsoft Entra admin center.
+2. In the left-hand menu, navigate to Applications > Enterprise applications.
+3. Locate the application you created for SSO and click its name.
+4. Under Manage, select Users and groups.
+5. Click + Add user/group, opening the Add Assignment page.
+6. Click None Selected.
+7. Use the provided field to search for the users you wish to grant SSO access, then select them from the displayed list. Include the Master Admin (the service account for SSO setup) along with other users requiring SSO.
+8. Once all desired users appear under Selected members, click the Select button. 
+The number of selected users will appear under Users and groups. 
+9. Click the Assign button to finalize the user assignment.
+III. Verify that Microsoft Entra users are present in Keepit
+1. Sign in to Keepit as a Master admin.
+2. In the lower-left corner, click the account profile > Account info.
+4. Select the Users tab.
+5. Verify that all users assigned to the Microsoft Entra application are present in the Keepit userlist.
+If any user is missing, create a new user in Keepit with the same name and email address (this should be the same as the User Principal name) as the user in Microsoft.
+Note: Keepit is case-sensitive, so ensure that the case matches precisely.
+Now you are ready to configure SSO in Keepit.

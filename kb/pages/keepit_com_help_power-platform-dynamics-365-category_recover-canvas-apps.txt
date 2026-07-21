@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/recover-canvas-apps/
+Content type: Web page
+Last modified: 2026-07-04T00:45:54+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Recover Canvas apps
+Canvas apps cannot be restored directly, but they can be downloaded as a ZIP package and imported through the Microsoft Power Apps page.
+Before you begin, ensure that the app is part of a Microsoft solution.
+To recover a canvas app
+In the Keepit platform
+1. In your connector, open your environment's folder.
+2. Navigate to Power Apps > Canvas.
+3. Optional: If you want to restore a record from an earlier point in time, open the Snapshots Viewer and select the appropriate snapshot.
+4. Point to the desired app and select ••• > Download options > Download. 
+The ZIP file will be downloaded to your browser’s default download location.
+In Microsoft Power Apps
+1. Open the Apps page.
+2. In the top toolbar, select Import app > From package (.zip).
+3, Upload the ZIP file you downloaded from Keepit.

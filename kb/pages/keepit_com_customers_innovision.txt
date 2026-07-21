@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/customers/innovision/
+Content type: Web page
+Last modified: 2026-01-07T13:14:02+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit enables rapid recovery from cyberattack
+Keepit Elite partner INNOVISION shares how one of their customers bounced back quickly from a cyberattack – all due to Keepit’s seamless recovery process. The case details how the customer avoided potentially disastrous results following a cyberattack - had they not been using Keepit for Entra ID (formerly Azure AD) and Keepit for Microsoft 365.
+Powerful, cloud-optimized recovery features packed in an intuitive user interface makes Keepit an iron fist in a velvet glove.
+– Siddick Elaheebocus, 
+Founder and CEO of INNOVISION 
+What could have been a disaster becomes a case study in cyber resilience
+Now a satisfied customer of Keepit for Entra ID and Microsoft 365, the client was not always aware of the importance of third-party data backup. Prior to being advised by Keepit’s Elite partner INNOVISION, the customer, like many companies across the globe, assumed that Microsoft 365 was inherently protecting their cloud data and thus was immune from any form of data loss or cyberthreats. Once the client realized the vital importance of a comprehensive, third-party SaaS data backup, which aligned with the 3-2-1-0 backup principle, they deployed Keepit to secure their Entra ID and Microsoft 365 data. The timing couldn’t have been better as not long after implementing Keepit, their company was hit by a targeted cyberattack. As part of the recovery process, the company was able to quickly restore all impacted user accounts on Entra ID, along with their Microsoft 365 data with a Recovery Time Objective (RTO) of less than 3 hours - thanks to Keepit.
+Keepit for Entra ID played a crucial role within the recovery process by allowing the customer to quickly restore all compromised user identities to a fully operational state prior to the recovery of their data.
+- Siddick Elaheebocus,
+ Founder and CEO of INNOVISION 
+Built in investigative features of Keepit key to incident postmortem
+As part of their cyber insurance claim process, the customer had to provide forensic information to demonstrate the nature of the cyberattack. A key requirement in the incident postmortem process was to trace back changes that happened on Entra ID objects – and, just as importantly, when those changes happened. The built in Entra ID metadata differencing feature in Keepit was vital in the investigation process to identify the security drifts that took place on privileged Entra ID objects at an attribute level - and precisely when those changes occurred. The findings on Keepit for Entra ID were submitted to the cyber insurance company as part of the technical evidence.
+More than a simple backup tool, Keepit is an independent SaaS cyber resilience solution encompassing powerful recovery, cybersecurity and compliance features.
+-Siddick Elaheebocus, 
+Founder and CEO of INNOVISION
+Purpose-built, cloud-native capabilities translate into seamless and fast recovery
+For the customer, a classic on-premises to cloud restore of Microsoft 365 data without the possibility of restoring the associated Entra ID user objects prior would have resulted in an inefficient recovery process taking hours or even days - with severe impairment on business operations. With Keepit for Entra ID, the customer was able to quickly and efficiently restore all compromised user accounts prior to restoring their cloud data – without the need to recreate any user accounts manually from the ground up or spend time configuring undocumented settings and permissions for each user account. Instead, all user accounts, along with their original attributes, were seamlessly restored, saving the customer an immense amount of resources and downtime during this cybersecurity incident.
+The fact that Keepit is “born in the cloud for the cloud” allowed the customer to quickly and efficiently recover from this cybersecurity incident with minimal impact – a benefit which would have been near impossible to reach with a classic on-premises backup solution.
+-Siddick Elaheebocus, 
+Founder and CEO of INNOVISION

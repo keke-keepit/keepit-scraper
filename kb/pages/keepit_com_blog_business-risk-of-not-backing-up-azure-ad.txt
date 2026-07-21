@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/blog/business-risk-of-not-backing-up-azure-ad/
+Content type: Web page
+Last modified: 2025-08-20T00:41:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Whatâs the business risk of not backing up Entra ID (Azure AD)?
+VideoNov. 7, 2023By Paul Robichaux
+Keepit’s Paul Robichaux, Microsoft MVP and Keepit Sr. Director of Product, explains the math of not protecting Azure AD (Entra ID). 
+"It’s all about the probability of 'x' expected damage. The probability: 2/3 of Azure AD admins don’t use MFA. With 50 million password attacks daily targeting Azure AD, you can be pretty sure you’ll be on the receiving end of a successful attack one day. Or a system outage. Or human error."
+The damage: Protecting your identities and policies is critical to keeping your business up and running. Losing access to Azure AD means your business is dead in the water. 
+The solution: Back up Azure AD in a completely separate infrastructure.

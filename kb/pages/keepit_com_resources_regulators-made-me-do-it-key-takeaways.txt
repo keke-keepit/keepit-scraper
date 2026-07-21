@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/resources/regulators-made-me-do-it-key-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The regulators made me do it: Webinar key takeaways on enhancing cyber resilience
+Compliance isn’t about ticking boxes anymore — it’s about demonstrating that your organization can recover when it counts. As new regulations such as NIS2 and DORA come into force, regulators across industries and geographies are shifting their focus from policies to proof. This was the topic of a recent Keepit webinar, where Kim Larsen, CISO at Keepit, and Paul Robichaux, Microsoft MVP and Senior Director of Product at Keepit, explored how compliance regulations are driving a more resilient, mature future for data protection.
+Here’s what we learned:
+1) Compliance starts with knowing your critical data. 
+Data classification isn’t optional. You must identify which data is business-critical, ensure it’s backed up securely, and establish clear recovery priorities that align with your operational needs. 
+2) Legacy backup strategies no longer cut it. 
+The 3-2-1 backup rule must evolve for hybrid and cloud environments. You need multiple copies of your data, spread across security domains, with at least one immutable, off-site backup to ensure true resilience. 
+3) Proving recovery capability is now a regulatory expectation. 
+Policies alone aren’t enough — regulators expect documentation of tested, successful recovery processes. Regular restore tests and outcome tracking are essential to demonstrate readiness. 
+Continue the conversation:
+Our webinar handout distills the key takeaways into practical next steps, including:
+- Actionable strategies for building resilience
+- An adaptation of the 3-2-1 backup rule to the cloud world
+- A checklist with key next steps for improving your compliance posture
+Download the handout now to ensure your organization can meet evolving regulatory demands and enhance its level of operational resilience.

@@ -1,0 +1,66 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/restore-onedrive-file-versions/
+Content type: Web page
+Last modified: 2026-07-07T13:05:29+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore OneDrive file versions
+Keepit supports the backup and restore of OneDrive versions for all file types.
+Backup configuration
+By default, file versions are not backed up.
+In the advanced settings of your backup configuration, you can enable version backup and choose to back up:
+- The most recent 10 versions
+- The most recent 100 versions
+- All versions
+Important: Enabling version backup may impact backup performance.
+Viewing and restoring versions
+Backed-up file versions can be accessed in the Version History tab using the Versions Viewer Previewer.
+You can recover your files in the following ways:
+- Restore an entire file including all versions
+- Restore only the most recent version of a file
+- Restore a previous version of a file
+- Restore a folder, choosing to:
+- Restore all versions of each file
+- Restore only the most recent version of each file
+Choosing the restore method
+- Versions viewer previewer – Restore a specific previous version of a file
+- Item restore – Recover specific files or folders, with the option to restore either all versions or only the most recent version.
+- Connector level – Restore all OneDrive files for all users, with the option to restore either all versions or only the most recent version of each file.
+Jump to:
+Restore OneDrive versions with the Versions Viewer Previewer
+Restore a previous version of a file
+1. Point to the file you want to restore, and then select ••• > Versions.
+2. Select the Version history tab. Here you can find and preview previous versions of the file.
+3. Select the version you want to restore, and then click the restore icon.
+4. Click Yes to restore.
+Restore all versions or only most recent version
+From the Versions Viewer Previewer, you can also restore the file by restoring all versions or only the most recent version. Select the restore icon in the toolbar and then select what versions to restore.
+Restore OneDrive versions with the item restore
+Restore OneDrive files
+Restoring OneDrive files restores them in place.
+1. Point to the file, and then select ••• > Restore.
+2. Select what to restore:
+- Restore more recent file version: The most recent version will be restored as a new version of the file.
+- Restore all file versions: All existing OneDrive versions will be overwritten.
+3. Review the summary and click Restore.
+Restored OneDrive versions will retain their original owners, editors, and modified dates.
+Restore OneDrive folders
+You can restore a OneDrive folder in place or to a new folder.
+1. Point to the folder, and then select ••• > Restore.
+2. Select where to restore:
+- Restore in place: Restoring in place will restore data back to its originalâ¯location. Data may be overwritten.
+- Restore to new folder: Restoring to a new folder will restore data to a newly createdâ¯folderâ¯in Microsoft.
+3. Select what to restore:
+- Restore most recent file version
+- Restore all file versions
+In place:
+- Restore most recent file version - The most recent version of each file will be restored as a new file version.
+- Restore all file versions - All existing versions of each file will be overwritten.
+To new folder:
+- Restore most recent file version - The most recent version of each file will be restored.
+- Restore all file versions - All versions of all files will be restored.
+4. Review the summary and select Restore.
+Restored OneDrive versions will retain their original owners, editors, and modified dates.
+Restore OneDrive versions from the connector level
+If you want to restore the entire OneDrive of a user, or the OneDrive data of more than one user at a time, restore from the connector level.

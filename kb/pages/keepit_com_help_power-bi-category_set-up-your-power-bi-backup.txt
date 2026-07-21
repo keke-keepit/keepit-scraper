@@ -1,0 +1,20 @@
+Source URL: https://www.keepit.com/help/power-bi-category/set-up-your-power-bi-backup/
+Content type: Web page
+Last modified: 2025-08-20T16:36:43+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create a Power BI connector
+Follow these steps to create a Power BI connector and set up your backup configuration.
+1. On the Connectors page, in the lower-right corner, select Add connector > Add Power BI Ñonnector.
+2. Select Sign in to be redirected to the Microsoft sign-in page. If you are not already signed in, enter your Microsoft 365 account credentials.
+3. Read through the permissions and allow access by selecting Accept.
+Note: You will only be asked for permissions the first time you create a connector. After that, Keepit retains the permissions it needs.
+4. You will be redirected back to Keepit where you can configure your connector.
+Here you can:
+- Change the name of the connector
+- Select what workspaces to include in the backup
+- Manage user access to the connector by selecting the lock icon
+- Limit the retention period by selecting the calendar icon
+5. Select Create. Your connector will be created and the first backup will be scheduled.

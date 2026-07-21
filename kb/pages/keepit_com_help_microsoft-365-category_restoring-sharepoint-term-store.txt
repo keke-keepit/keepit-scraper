@@ -1,0 +1,58 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/restoring-sharepoint-term-store/
+Content type: Web page
+Last modified: 2026-06-30T01:43:11+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restoring SharePoint term store
+Global term sets are backed up in a Term Store folder located at the top level of your SharePoint folder, alongside the list of all SharePoint sites.
+Local term sets are backed up within their respective SharePoint site folders, also in a Term Store folder.
+Inside each Term Store folder, you'll find term sets, terms, and subterms (if applicable).
+We also back up properties, users related to the items, and links (between term sets and terms, i.e., between pinned and reused terms).
+Restoring term sets and terms
+How to restore global term sets
+Global term sets can only be restored from within the connector, not through the restore wizard.
+Open your Microsoft 365 connector and navigate to SharePoint > Term Store.
+From here, you can restore the entire term store or select and restore individual term sets or terms.
+How to restore local term sets
+Local term sets can be restored together with SharePoint sties either through the restore wizard or by restoring individual sites from within the connector.
+- For details on how to restore sites via the wizard, see: Restore SharePoint sites with the Restore Wizard
+- For details on how to restore individual sites, see: Restore a SharePoint site
+Local term sets can also be restored independently from within the connector via an item restore. For more info, see: Restore Microsoft 365 items
+What happens when term sets are restored?
+Term store data is restored in place, unless the site is restored to a new URL or a different tenant.
+Deleted term sets, terms, and subterms will be restored with new IDs.
+Will items be deleted?
+Using the restore wizard
+Term groups, term sets, terms, and subterms that are present in SharePoint but not in the snapshot will be deleted.
+Properties, taxonomy administrators, Term Group Managers, term set Owners, and stakeholders that are present in SharePoint but not in the snapshot will be deleted.
+Using item restore
+Term groups, term sets, terms, and subterms that are present in SharePoint but not in the snapshot will not be deleted.
+Properties, taxonomy administrators, Term Group Managers, term set Owners, and stakeholders that are present in SharePoint but not in the snapshot will not be deleted.
+Behavior of pinned and reused terms
+Pinning or reusing a term creates linked copies of a source term that can be used in different term sets.
+- Pinned terms can only be modified at the source location, and the pinned copies in the destination location are read-only.
+ Deleting a source term with pinned terms automatically deletes all linked copies of the term.
+- Reused terms can be modified in both the source and destination locations. Changes made in either location are synchronized in both directions.
+ Deleting a source term with reused terms does not delete linked copies of the term.
+Links
+- If the source term is modified, links between the source and pinned or reused terms are renewed.
+- If the source term is deleted, links between the source and pinned or reused terms are not renewed.
+Names
+Restoring a deleted source term with pinned terms (pinned terms were deleted automatically):
+- The source term is restored with its original name.
+- Pinned terms are restored as RelationCopy_name.
+Restoring a deleted source term with reused terms (reused terms still exist):
+- The source term is restored with its original name.
+- Reused terms continue to exist on Microsoft's side.
+Restoring a deleted source term when its reused terms were also deleted:
+- The source term is restored with its original name.
+- Reused terms are restored as RelationCopy_name.
+Restoring a deleted reused term when its original term still exists:
+- The source term remains unchanged with its original name and ID.
+- Reused term is restored as RelationCopy_name.
+Restore limitations
+- Restoring the "System" global term store group is not supported.
+- Links between original and pinned or reused terms are not restored if the terms have been deleted.
+- Restored terms, which were deleted, are returned to the term store taxonomy in the admin center but do not automatically reappear in SharePoint.

@@ -1,0 +1,20 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/what-happens-to-backups-after-microsoft-365-tenant-to-tenant-migration/
+Content type: Web page
+Last modified: 2026-06-30T00:10:51+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What happens to backups after Microsoft 365 tenant-to-tenant migration
+If you migrate an existing Microsoft 365 tenant to a new tenant, this means you will have create a new connector in Keepit for the new tenant. It is not possible to reconnect an existing connector to the new tenant.
+Would you recommend taking any additional precautionary backups before initiating the migration?
+Migrating data does not remove it from the source tenant. However, before deactivating user licenses, ensure a backup has successfully completed in the new connector after redirecting workflows to the new tenants.
+Are there any retention settings or configurations that need to be adjusted to prevent data loss post-migration?
+Yes, retention is managed at the connector level. Ensure your retention policies align with your data preservation needs before completing the migration.
+Will existing backup data remain available for restores after the tenant migration?
+Existing backup data will remain accessible within the connector for its designated retention period.
+Can files be restored from the connector backing up the old tenant? 
+If the original tenant is deleted, restoration will not be possible. However, you have the following options:
+- Import Wizard – Use this tool to migrate data.
+- Restore SharePoint sites to another tenant – SharePoint sites can be restored to a different tenant.
+- Manual transfer – For other scenarios, data must be downloaded and manually moved to the new location.

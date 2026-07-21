@@ -1,0 +1,278 @@
+Source URL: https://keep-it.cdn.prismic.io/keep-it/3d06d6e7-5d30-454f-815f-1b3522f6af42_Serviceware-Partner-Case.pdf
+Content type: PDF document
+Title: unknown
+Pages: 7
+Retrieved: 2026-07-21
+
+============================================================
+
+INDEX 
+A strong partnership		
+	
+	
+1
+Identifying synergies	
+	
+	
+2
+A perfect fit	 	
+	
+	
+	
+3
+BCM and cloud migration	
+	
+	
+4
+The right chemistry	 	
+	
+	
+5
+Shaping the future together	
+	
+6
+Serviceware 
+and Keepit
+ 
+A strong partnership in 
+the service of corporate 
+business continuity
+
+Partner case: Serviceware
+1
+A strong 
+partnership 
+in the service 
+of corporate 
+business 
+continuity
+Backup and recovery specialist Keepit 
+and renowned enterprise service manager 
+Serviceware successfully deliver data 
+protection solutions to German businesses.  
+Behind every successful IT company is a great 
+product. But even the best product stands and 
+falls with the quality of its sales and customer 
+service.  
+ 
+Only those who know the needs and problems 
+of their customers can provide them with the 
+best advice and offer the best solutions to 
+address their individual challenges. 
+ 
+In the realm of sales, the customer’s needs 
+come first. The more aligned a company’s sales 
+strategy is with its customers’ needs, the better 
+the sales results are likely to be.  
+ 
+For this reason, large IT companies and IT 
+service specialists must maintain a balanced 
+product and service portfolio that includes the 
+right solution for every customer request. 
+ 
+There are, however, fundamental requirements, 
+like business continuity management, that 
+all companies have to address, since reliable 
+backup is a key element in this area.
+
+Partner case: Serviceware
+2
+How Keepit and Serviceware 
+identified their synergies
+ It was a mutual acquaintance - in the form of a 
+Keepit OEM technology partner - that brought 
+Keepit and Serviceware together in 2021. 
+ 
+After initial discussions, it quickly became clear 
+to both sides that a great deal of potential 
+could be drawn from their shared strengths.  
+ 
+When Keepit considered Serviceware as a 
+potential partner, it was the large customer 
+base - over 1,400 customers in the DACH 
+region alone - as well as the proven expertise 
+in business continuity management that 
+convinced Keepit. As the market leader in 
+enterprise service management with over 
+500 employees at 14 international locations, 
+Serviceware met all the criteria for an optimal 
+partnership. 
+ 
+The concentrated manpower in combination 
+with a high degree of technical understanding 
+made the company particularly attractive 
+to Keepit. Additionally, the Danish backup 
+specialist pursues a partner-first channel 
+strategy and therefore places great value on 
+close and trusting partnerships.  
+2
+
+Partner case: Serviceware
+3
+Keepit: a perfect fit for 
+Serviceware’s portfolio
+Keepit’s great strength is its outstanding 
+backup solution. Lars Linden, Sales Director of 
+Serviceware Infrastructure, Data Management, 
+Cybersecurity and Digital Experience explains 
+his decision for partnering with Keepit as 
+follows: “As an important part of our data 
+management concepts, Keepit fits perfectly 
+into our managed backup service. The simple 
+implementation, usability and reliability of the 
+solution are unparalleled in the market.” 
+ 
+The fact that Keepit is an EU company with its 
+own infrastructure (and is not using any data 
+sub processors globally) is a further selling 
+point. Customers can therefore be sure that 
+all their compliance requirements are fully met 
+and that their data remains within the territory 
+of the EU at all times. This ensures compliance 
+with all key European data protection 
+requirements – both those inside and outside 
+of “the box.”  
+ 
+A broad coverage of all relevant cloud SaaS 
+applications gives Keepit’s qualities the final 
+touch. No other provider can boast such 
+extensive compatibility with most Microsoft 
+workloads. Thus, the Danish backup solution 
+fits perfectly into Serviceware’s selected 
+product portfolio. 
+As an important part of our 
+data management concepts, 
+Keepit fits perfectly into our 
+managed backup service. 
+The simple implementation, 
+usability and reliability of the 
+solution are unparalleled in 
+the market.
+“
+”
+Lars Linden,  
+Sales Director of 
+Serviceware Infrastructure, 
+Data Management, 
+Cybersecurity and Digital 
+Experience
+
+Partner case: Serviceware
+4
+Business continuity management 
+and cloud migration
+Many companies only realize the enormous 
+importance of BCM when they fall victim to a 
+cyberattack. In the worst-case scenario, they 
+are then left without access to their critical IT 
+systems and structures from one moment to 
+the next. 
+ 
+In such a precarious situation, having a 
+functioning plan up your sleeve for continuing 
+or restoring business operations is worth its 
+weight in gold – especially since the NIS2 
+directive has become mandatory for many 
+companies based in the EU.  
+ 
+Such an emergency plan not only helps to take 
+the right steps promptly in this - often chaotic 
+– moment; in fact, in some cases of hardship, 
+it even decides on the further existence of the 
+company. 
+ 
+Unfortunately, customers still underestimate 
+the risk of losing data within a SaaS application 
+and neglect their responsibility as owners of 
+the data. 
+ 
+“Many companies are not aware that the 
+responsibility for their data in the cloud lies with 
+themselves. Those responsible for security 
+rely completely on the cloud provider - a fatal 
+error,” says Michael Heuer, VP Central Europe 
+(DACH) at Keepit, and adds: “After a migration 
+of company data to the cloud, you often have 
+even less control than before.” 
+ 
+Many companies are not 
+aware that the responsibility 
+for their data in the cloud 
+lies with themselves. Those 
+responsible for security rely 
+completely on the cloud 
+provider - a fatal error, 
+(...) After a migration of 
+company data to the cloud, 
+you often have even less 
+control than before.”
+Michael Heuer,  
+VP Central Europe (DACH) 
+at Keepit
+“
+Therefore, the essential, expert advice of the 
+Serviceware consultants makes the decisive 
+difference for the joint customers - and often 
+saves them from the existential risks of a 
+cyberattack.
+
+Partner case: Serviceware
+5
+The right chemistry 
+Since the start of the partnership, both 
+companies have been in close contact with each 
+other and have been developing individualized 
+solutions for their diverse client portfolio. 
+The dedicated product managers are in regular 
+contact with each other and thus ensure that 
+the required know-how is available to all parties 
+involved and that customers can be optimally 
+advised. In joint webinars, relevant product 
+innovations are communicated, and specialist 
+personnel are trained in detail regarding the 
+installation, use and maintenance of Keepit’s 
+backup systems. Personal contact is guaranteed 
+by the regular presence of Keepit employees at 
+Serviceware’s headquarters.
+
+Partner case: Serviceware
+6
+Shaping the 
+future together
+The two specialists have taken the opportunity 
+of being a part of this trusting cooperation 
+to look to the future together. One particular 
+project of note involves combining the ITSM 
+product interfaces from the Serviceware 
+portfolio with Keepit’s backup solution. This 
+should enable customers to hand over their 
+data recovery requirements even more easily 
+via the user helpdesk service portal. 
+Joint, industry-specific campaigns and 
+approaches are also planned to tap into new 
+market segments.  
+With these words, Keepit’s Michael Heuer sums 
+up the fruitful cooperation and looks forward to 
+a promising future with Serviceware.
+Grow your business  
+with Keepit
+Get in touch with Keepit
+Reach out to our partner account managers  
+to learn more about our Partner Program.
++45 8987 4757
+partner@keepit.com
+“
+Michael Heuer,  
+VP Central Europe (DACH) 
+at Keepit
+–
+We are very satisfied with 
+the professional and goal-
+oriented cooperation with 
+Serviceware. Our joint 
+customers benefit from 
+the strong synergies and 
+can continue to rely on the 
+highest quality of service 
+and data security in the 
+future.”

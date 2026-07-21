@@ -1,0 +1,37 @@
+Source URL: https://www.keepit.com/blog/are-you-prepared-for-a-ransomware-attack/
+Content type: Web page
+Last modified: 2025-08-20T00:34:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+79% of organizations had a ransomware attack in the past year. Are you prepared?
+The frequency of ransomware attacks is increasing along with the costs to businesses. Having a plan to respond in the event of a ransomware attack is more important than ever.
+IT research firm ESG conducted a ransomware study surveying 600 enterprise IT and cybersecurity professionals across North America and Western Europe. Here’s what they found:
+- 79% of the organizations had a ransomware attack within the past year
+- Every sixth company gets attacked by a ransomware weekly
+- Every eighth company gets attacked by ransomware daily
+What’s the impact of a ransomware attack?
+When an organization suffers a ransomware attack, there are many negative consequences beyond the financial losses. According to the ESG study, victims of ransomware attacks suffered the following:
+- 40% of the organizations reported a financial loss
+- 50% reported data loss
+- 32% reported reputational damage
+- 39% reported a direct impact on employees, customers, and partners
+- 30% reported compliance exposure
+As an IT Manager or a cybersecurity leader, can you bear these consequences in the organization?
+What’s the best ransomware recovery strategy?
+Given the high frequency of these attacks, you need a recovery strategy to mitigate damage to your organization. A successful recovery strategy can help you recover data quickly to minimize the impact on operations.
+ESG research recommends cloud backup as the best practice for cyber recovery. The survey also found that the best-prepared organizations are the ones that have a cloud backup solution.
+How Keepit can play a role in your ransomware recovery strategy
+If your organization is ready to get serious about protecting SaaS data and is looking for a solution, ESG recommends that you take a good look at Keepit.
+Kerry Dolan
+Senior IT Validation Analyst, ESG
+Keepit offers an extremely simple, secure SaaS data protection solution that uses a proprietary object store to keep data protected and tamper-proof in its independent, redundant global data centers. With automatic snapshots, no backup scheduling is required, and retention is easy to configure and manage according to your compliance requirements.
+Each daily snapshot is permanently preserved so that victims of ransomware can simply roll back to a point in time before the attack and restore their data in place.
+Bottom line
+With the high frequency of ransomware attacks, IT leaders should focus on protecting their organization’s mission-critical data and digital assets by preparing and practicing to recover it quickly and completely. ESG recommends cloud backup as the best practice for cyber recovery. Keepit helps you in the cloud backup strategy with a backup that is simple, secure, and fast.
+Keepit backup is:
+Cloud independent - With Keepit, data is stored in a vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+Immutable - preserves your data permanently, even for data types that the source SaaS applications do not protect.
+Leveraging innovative storage architecture - allows super-fast data restores and inspection while giving you predictable restore performance and a fixed storage cost.
+To learn more about how Keepit secures data, read our security guide.

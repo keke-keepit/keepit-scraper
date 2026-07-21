@@ -1,0 +1,62 @@
+Source URL: https://www.keepit.com/blog/data-resilience-and-regulations/
+Content type: Web page
+Last modified: 2025-08-20T02:52:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+You donât choose resilience â you earn it
+I have a confession to make: I don’t love regulations. There, I said it.
+But here’s the thing — whether we love them or not, regulations are coming for all of us. Some of you are already feeling the heat, while others are waiting for the inevitable knock on the door.
+So, let’s talk about it. Why do regulations keep piling up? What do they mean for data protection? And, most importantly, what should you actually do about it?
+Regulations: Why should you care?
+The first time I gave a talk about regulatory pressure in data protection, it was to a European audience — folks who already live under strict regulations. The question of why you, as someone reading this (quite possibly from North America, given our website statistics), should care really splits along those same lines:
+- If you’re in Europe, there are clear legal requirements you must meet.
+- If you’re elsewhere, regulatory regimes may not be as advanced, but that doesn’t mean you don’t have to care.
+- No matter where you are, the one constant of regulation is that it always spreads and increases. You may not be regulated today but that promises nothing for tomorrow.
+Regardless of where you are, there are three key questions every organization should be asking:
+1. Are you currently subject to any regulations around data retention, backup, disaster recovery, or business continuity? Even if you don’t think you are, dig deeper. Industry-specific requirements exist too, and regulators love broad interpretations.
+2. Is your regulatory environment changing? This is hard to anticipate. In the U.S., the regulatory regime is, to put it lightly, unsettled. Nobody really knows what the Securities and Exchange Commission (SEC), for example, is going to prioritize in terms of enforcement. In Europe, though, the trends are pretty clear: Regulators are prioritizing regulations, and enforcement, around cybersecurity, data protection, and resilience.
+3. Can you justify your current approach to data protection? Whether required by law or not, you should be able to defend your decisions regarding disaster recovery and data protection, especially if your business operates in multiple regions.
+The scope of regulatory burden
+Let’s look at the numbers. In 2023, the EU produced nearly 1,600 new adopted regulations and modified almost 800 existing ones. Even if 2024 numbers end up being only half of that, it’s still a significant regulatory burden.
+In the U.S., these numbers are harder to track because regulations vary by state and industry. For example, the Financial Industry Regulatory Authority (FINRA) has 136 pages of rules just covering data governance and retention — one regulatory authority, for one specific segment of financial services. Multiply that by state and federal regulators in different industries (and add in EU-centric regulations that apply to U.S. companies doing business in or with the EU) and you get another large number.
+The actual number of regulations almost doesn’t matter — it’s the rate of change that matters, and that rate is increasing.
+The cloud changed everything — so did backup
+Let's turn away from talking about regulations for a second and return to a discussion of data protection. For decades, the 3-2-1 backup rule was the gold standard:
+- Three copies of your data
+- Two different storage media
+- One copy offsite
+That worked great in the days of on-prem data centers and physical tape backups. But today, in a cloud-first world, that rule needs an update.
+Here’s what modern 3-2-1 looks like:
+- Three copies of your data: One production copy, two backup copies
+- Two distinct security boundaries: Not just two locations, but separate security environments
+- One immutable copy: At least one backup that cannot be altered or deleted, period
+Regulators are catching on to this shift. They’re no longer satisfied with “Yes, we have backups.” They want proof that you can restore data quickly, securely, and without risk of tampering.
+And if you think your SaaS provider has you covered, let me stop you right there.
+The truth behind vendor-provided data protection
+I cannot count the number of times I’ve heard: "Oh, we don’t need to worry — [insert SaaS vendor here] protects our data."
+To which I say: “Cool. Have you tested that?” Because here’s the reality:
+- Vendor backup tools don’t always cover everything.
+- Recovery tools are often limited.
+- No matter what technical capabilities the vendor has, their policies might limit what they can, or will, recover for you.
+- Their data retention policies might not match your compliance needs.
+- And most importantly — many SaaS vendors do not provide immutable and air-gapped backups. What happens to the primary data and the vendor-provided backup when the single vendor has a catastrophic failure?
+Real-life horror stories abound. Companies assume their SaaS provider has them covered, only to find out the hard way that oops, that critical customer data isn’t recoverable. No one wants to have to explain to their boss, the company board of directors, or a government regulator, that despite their good intentions, it turns out that there is not actually a usable backup after all. Talk about awkward conversations!
+Regulatory focus: Data sovereignty and resilience
+One area where regulators have already stepped in is data sovereignty — where your data lives and whether it is allowed to move across borders. This can be a very complicated topic depending on where you're located and where your data is. In short:
+- If you're a European customer, you generally do not want your data transmitted to the U.S. for regulatory reasons.
+- Interestingly, we’re now seeing American organizations request the same thing — they may not have a legal requirement to keep their data in the continental U.S., but they want it kept there.
+Where’s the beef?
+Wendy’s had a famous commercial that is still well known 40 years after its debut, with actress Clara Peller demanding to know “Where’s the beef?!” Regulators do that now, too. Whereas they used to say, “It’s fine if you have a policy for resilience,” now they say, "Prove it." Show that your policy works. Show that you test it. Show that you can actually recover.
+This is the kernel at the core of the NIS2 and DORA regulations, and I expect that approach to carry over into other regulations on all sides of all oceans. It’s no longer enough to talk a good game about your protection; you have to be able to demonstrate it.
+Regulations — or no regulations — you need a cloud-based, modern backup solution designed to meet today’s data protection challenges.
+Clean your room!
+Love them or hate them, regulations are here to stay. And even if compliance isn’t driving your data protection strategy, business continuity should be. The good news is you probably already realize how important business continuity is. It’s like being a child and having your parents tell you to clean your room.
+You probably didn’t want to, so your parents (as the regulator) had to encourage or even enforce it. Gradually, though, you probably caught on to the fact that it’s easier to keep a room clean by keeping it clean over time, and that a clean room is a nicer place to live: There are no rats or bugs, you can find things, and so on.
+In that same vein, today’s regulators are just seeking to make us do things around business continuity and resilience that we should all be doing anyway. There’s no time like right now to get started.
+So, where do you start?
+- Assess your risks. What happens if you lose access to your data today?
+- Upgrade your backup strategy. Modern 3-2-1 isn’t optional — it’s essential.
+- Prove resilience. Test. Document. Be ready.
+Because if you’re not thinking about this now, I promise you — regulators will make you do it later. You don’t have to love regulations, but you do have to prepare to live with them.

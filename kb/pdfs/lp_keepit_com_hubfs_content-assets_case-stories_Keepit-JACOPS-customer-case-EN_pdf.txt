@@ -1,0 +1,153 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-JACOPS-customer-case-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-07-21
+
+============================================================
+
+Customer case
+Keepit helps JACOPS 
+strengthen resilience and 
+business continuity
+
+Geoffrey Desmet, IT infrastructure manager at 
+JACOPS, oversees end-to-end IT operations, 
+working across internal teams, business units, and 
+external partners to ensure operational continuity 
+and a strong security posture.
+Moving beyond native Microsoft retention 
+Before implementing Keepit, the IT team 
+faced clear gaps. Microsoft’s native retention 
+capabilities were limited, restoration processes 
+were complex, and protection across Teams and 
+SharePoint lacked consistency. Most importantly, 
+there was no independent backup environment 
+outside the Microsoft tenant.  
+The team needed a solution that would go beyond 
+built-in retention and deliver fast, straightforward 
+restore for Teams, SharePoint, and OneDrive. 
+It also had to provide immutable protection 
+against ransomware, reduce administrative 
+overhead, establish vendor independence, and 
+offer predictable, transparent pricing. 
+Customer case:
+JACOPS
+As an infrastructure-driven organization active across construction, utilities, and technical 
+services, JACOPS operates in environments where downtime isn’t just inconvenient — it can 
+directly impact projects, safety communication, and client commitments. With a hybrid IT 
+landscape that’s increasingly Microsoft cloud-centric, the Belgian company needed a data 
+protection strategy built for resilience, compliance, and long-term growth. 
+“Vendor independence is crucial for us. If the 
+Microsoft tenant is compromised, we need to 
+know our backup is completely separate and 
+unaffected.”
+-  Geoffrey Desmet 
+IT Infrastructure Manager
+JACOPS
+“We handle sensitive operational data, 
+project documentation, and 
+communication with government and 
+enterprise clients. That means integrity, 
+retention, and recoverability aren’t 
+optional — they’re core requirements.”
+-  Geoffrey Desmet 
+IT Infrastructure Manager
+JACOPS
+
+Business continuity was the driving force behind 
+those requirements. In JACOPS’ sector, downtime 
+disrupts field coordination, planning, and 
+contractual timelines. Reliable access to data — 
+and the ability to recover it quickly — is essential.   
+“We rely heavily on Teams, SharePoint, and 
+OneDrive every day,” Desmet explains. “If we can’t 
+restore quickly — whether it’s a full site, a specific 
+file, or even a Teams conversation — productivity 
+drops immediately.”  
+Why vendor independence and EU data 
+residency mattered 
+Two factors stood out during the evaluation 
+process: European data residency and true vendor 
+independence was important to the Belgian 
+company. 
+EU-based storage was essential for regulatory 
+compliance and simplifying data protection 
+impact assessments. It also reinforces trust with 
+clients who expect EU-only data processing.  
+Vendor independence was equally important. In 
+the event of a Microsoft tenant compromise, 
+outage, ransomware attack, or identity breach, 
+JACOPS needed confidence that its backups 
+would remain isolated and unaffected.
+Security architecture further reinforced that 
+decision. The IT team required write-once 
+immutable backup copies, strong encryption, 
+and clear separation from production systems to 
+address modern ransomware threats and reduce 
+exposure to insider risks.
+Customer case:
+JACOPS
+“Restore times have gone from hours to 
+minutes with Keepit. We now have full Microsoft 
+365 coverage, zero manual retention overhead, 
+and much better visibility into our backups.”
+-  Geoffrey Desmet 
+IT Infrastructure Manager
+JACOPS
+
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. www.keepit.com
+Your data. Here today. Here tomorrow.
+© 03/17/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Immutable protection with fast, granular restore  
+Keepit delivered the independent, immutable 
+backup environment JACOPS was looking for, 
+along with full Microsoft 365 coverage and rapid, 
+granular recovery.  
+Backups run automatically. Retention policies are 
+enforced without manual intervention. Restores 
+are simple and precise — whether recovering an 
+entire site, a specific file, or an individual Teams 
+conversation. The intuitive interface enables the IT 
+team to locate, preview, and restore data in just a 
+few steps. 
+Stronger posture, greater confidence 
+Before Keepit, restore times 
+were inconsistent, retention management 
+required manual handling, and overall 
+risk exposure was higher. Today, 
+JACOPS operates with compliant retention 
+policies, automated long-term backups, and 
+significantly improved recoverability.  
+The impact extends beyond IT. Faster recovery 
+minimizes disruption for distributed teams and 
+strengthens overall ransomware resilience. With 
+a scalable, cloud-engineered platform in place, 
+JACOPS is well positioned to support continued 
+growth across Microsoft services and other SaaS 
+applications.  
+JACOPS discovered Keepit through industry 
+recommendations, peer reviews, vendor 
+comparisons, and positive references 
+within the Microsoft partner ecosystem. The 
+decision ultimately came down to resilience, 
+independence, and operational simplicity.  
+About JACOPS
+JACOPS NV is a Belgian infrastructure-focused 
+organization active in construction, utilities, and 
+technical services. The company delivers complex 
+infrastructure and technical projects across 
+multiple domains, supporting both public and 
+private sector clients. With distributed teams and 
+a strong operational footprint, JACOPS combines 
+field expertise with modern digital infrastructure 
+to maintain high standards of quality, safety, and 
+compliance.
+Customer case:
+JACOPS
+For JACOPS, backup is no longer a reactive 
+safeguard. It’s a strategic layer of protection — 
+built to support critical infrastructure projects 
+today and safeguard the company’s digital future.

@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/help/google-workspace-category/google-workspace-backup-coverage/
+Content type: Web page
+Last modified: 2026-07-09T16:25:13+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Google Workspace backup coverage
+The table below shows the detailed backup and restore coverage of the latest version of Keepit for Google Workspace connector.
+The table below shows the detailed backup and restore coverage of the latest version of Keepit for Google Workspace connector.
+All items not listed in this table are not supported as of June 2026 (release version 10.21.0).

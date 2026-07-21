@@ -1,0 +1,657 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Disaster-Recovery-Guide.pdf
+Content type: PDF document
+Title: unknown
+Pages: 22
+Retrieved: 2026-07-21
+
+============================================================
+
+Your guide to truth and recovery 
+in the face of SaaS data loss
+
+Contents
+SaaS resilience, control, and recovery when disaster strikes....................3
+Executive summary................................................................................................3
+The SaaS data protection gap.............................................................................3
+Control disruption...................................................................................................3
+The four Ms of data loss.........................................................................................7
+Malicious attacks................................................................................................................9
+Mistakes by admins...........................................................................................................11
+Mishaps at your cloud provider...................................................................................... 13
+Migration gone bad.......................................................................................................... 14
+Resilience is backup + tested recovery...........................................................15
+From testing cadence to recovery maturity..................................................17
+Governance and sovereignty define the terms of control........................20
+What to do next.......................................................................................................21
+Conclusion...............................................................................................................21
+Disaster recovery guide   |   2
+© 2026 Keepit. All rights reserved
+
+This report examines the reality of SaaS data loss caused by four common 
+scenarios through relevant, real-world examples alongside realistic (yet hypo-
+thetical) situations and asks a practical question: When there’s a disruption to 
+production, who’s in control of the data and how is business continuity ensured? 
+The four Ms of data loss show how control is lost, while immutable, independent 
+backup plus practiced recovery, sound data governance, and considered data 
+sovereignty show how control is maintained or regained.
+One thing is clear: Cyber resilience in the SaaS era is not a one-time restore 
+exercise. Instead it needs to be a broader strategy shaped by how data is lost, 
+how recovery is tested, how backup data is stored, how readiness matures, and 
+whether control remains under the sovereignty and dependency conditions an 
+organization faces, both from inside and external compliance demands.
+Paul Robichaux
+Microsoft MVP, Senior Director 
+of Product at Keepit
+SaaS resilience, 
+control and recovery 
+when disaster strikes
+Introduction
+Disaster recovery guide   |   3
+© 2026 Keepit. All rights reserved
+
+Executive summary
+SaaS changes disaster recovery because application 
+availability and data recoverability are no longer owned by 
+the same entity.
+Most SaaS data loss comes from four recurring sources: 
+malicious attacks, mistakes by admins, mishaps at the 
+cloud provider, and migrations gone bad.
+Resilience depends on independent backup, tested 
+recovery, identity-aware restoration, and a realistic 
+maturity path — not on optimistic assumptions about 
+native protections.
+Sovereignty matters because data is not truly resilient  
+if it’s not stored within an infrastructure you control or  
+have complete transparency into.
+Disaster recovery guide   |   4
+© 2026 Keepit. All rights reserved
+
+The SaaS data protection gap
+Responsibility in the disaster recovery equation
+Cloud adoption made a lot of things easier, but it also introduced the shared responsibility model that every 
+SaaS provider champions. One of the biggest changes is that application availability as well as data avail-
+ability and recoverability are no longer owned by the same entity, leading to a data protection gap stemming 
+from a common misunderstanding of what is protected and by whom.
+Along with these changes to application and data responsibilities, cybercriminals are targeting these cloud 
+services aggressively. Compliance requirements keep rising, including the need for measured data sover-
+eignty, which has moved from a legal edge case to a board-level resilience question. On top of all of this, AI 
+is speeding up both administration and data creation, as well as increasing the magnitude of mistakes and 
+lowering the bar of entry for cybercriminals.
+Most organizations already have some form of business continuity or disaster recovery plan, but the data 
+protection gap remains as many of those plans treat SaaS data as if it’s automatically protected (it’s not) 
+by the application provider through native backup offerings. The shared responsibility model applies, 
+which tells us: The SaaS provider runs the service, but the customer remains responsible for data, identities, 
+configurations, access, and recoverability (as well as for the risks and compliance requirements placed on 
+that data).
+Figure 1. The shared responsibility model highlights the user’s responsibilities for data, identity, and more.
+A recent CIO MarketPulse white paper highlights this gap: More than one third of surveyed organizations still 
+rely entirely on native SaaS protections. Nearly half have already suffered a major data loss event, and 37% 
+still do nothing beyond native protection. Confidence also runs ahead of readiness: 53% of respondents 
+believe they could recover from a major data loss within 24 hours, yet 11% say it would take a month or more 
+— or that they may not be able to fully recover at all.
+Confidence in recovery speed after data loss
+In less than 24 hours
+Within a month
+It took/would take more 
+than a month
+Full recovery and restore 
+might not be possible
+ 
+Figure 2. Survey data reflects on SaaS data loss recovery readiness confidence. Source: CIO MarketPulse white paper.
+Disaster recovery guide   |   5
+© 2026 Keepit. All rights reserved
+
+What makes this especially important is that SaaS data loss rarely arrives as one cinematic catastro-
+phe. It’s just as likely to come from everyday failures: an admin mistake, a retention-policy change, a 
+provider-side incident, or a migration that quietly goes wrong. That is why disaster recovery for SaaS 
+data is not simply an “any backup will do” conversation, but a cyber resilience conversation bolstered 
+by independent, sovereign backup and tested and proven recovery.
+ 
+SaaS data loss survey
+Figure 3. Survey data shows SaaS data loss comes from multiple causes, not just cyberattacks. Source:  ESG report
+This is also why cyber resilience in SaaS is broader than backup alone. It includes controlled access to clean 
+data while the production environment is unstable, safe restoration once that environment is healthy again, 
+and governance decisions about where the recovery path lives and who ultimately controls it, all of which 
+demand backup data being stored outside of the domain of the SaaS provider/hyperscale cloud.
+of organizations still do nothing for SaaS data protection beyond  
+relying on native protection. 
+Source: CIO MarketPulse whitepaper. Overlooked and underprotected: How the SaaS data gap threatens resilience
+37%
+Figure 3. Top causes of SaaS data loss: What is the top cause of data loss for the 
+SaaS-based applications your organization uses? (Percent of respondents, N=344)
+© 2026 Keepit. All rights reserved
+Disaster recovery guide   |   6
+The SaaS data protection gap
+
+Keeping control
+What cyber resilience looks like in a SaaS disruption
+In an on-premises model, meeting a recovery time objective is largely about recovering systems and the data 
+they store. The organization owns both layers, so the recovery model is more unified. In SaaS, the provider 
+operates the application, but the customer still carries the consequences of lost, corrupted, inaccessible, 
+or legally constrained data. That means resilience has to be understood in terms of control: control over 
+accessible backup copies, control over identity and access management, control over data sovereignty and 
+governance, and control over the environment and obligations that shape recovery.
+Access during disruption
+How completely and quickly can critical 
+data be accessed, even if the SaaS appli-
+cation, tenant, or control place is unhealthy 
+or down?
+Restore after recovery
+How completely and quickly can that data 
+be restored once the application tenant 
+is operational again — and in the order the 
+business actually needs?
+That split is easy to overlook because SaaS vendors understandably talk about uptime and service resil-
+ience. But availability of the service is not the same as recoverability of the customer’s data. Shared respon-
+sibility does not end at service availability, but rather it defines who owns the risk. The provider is responsible 
+for running the platform; the customer is still responsible for ensuring that business-critical data, identity 
+structures, and recovery paths remain protected, independent, and usable when things go wrong.
+The key takeaway
+You can outsource operations, but you can’t outsource accountability.
+Ransomware is the clearest example of why this matters. Modern attacks are designed to do more than 
+encrypt files. They try to break trust in production data, disable recovery options, and force a business into a 
+time-compressed decision. Ransomware-as-a-service lowered the barrier to entry. Attackers increasingly 
+target backups because weakening the recovery path is often faster than negotiating. That’s why resilience 
+depends on more than “having copies.” Those copies need meaningful separation, logical air-gapping, 
+immutability, and a recovery path the attacker cannot easily touch.
+Data governance and data sovereignty add the next layer. Governance defines what must be protected, 
+retained, restored, and reviewed, while sovereignty defines which laws, regulations, compliance obliga-
+tions, providers, and jurisdictions shape that protection. Together with shared responsibility, they go a long 
+way toward determining whether an organization truly controls its SaaS data or not. In practice, that control 
+is achieved through immutable, independent, air-gapped backup and tested recovery. This is the context in 
+which the four Ms framing becomes useful.
+Disaster recovery guide   |   7
+© 2026 Keepit. All rights reserved
+
+The four Ms of data loss 
+Malice, mistakes, mishaps, and migrations
+A practical way to frame the incidents most organizations actually face 
+Figure 4. A practical way to frame the incidents most organizations actually face.
+Malicious attacks
+Ransomware, credential abuse, destructive compromise, and attempts to delete or 
+corrupt the recovery path itself.
+Mistakes by admins
+Retention missteps, accidental deletions, misconfigurations, overprivileged automation, 
+and rushed changes in production.
+Mishaps at your cloud provider
+Outages, control-plane defects, synchronization errors, and provider-side failures that 
+remove access or trust in production. 
+Migrations gone bad
+Tenant moves, M&A projects, divestitures, cutovers, sync failures, and bulk changes 
+that are hard to unwind after the fact.
+Data loss rarely happens as a single, random event. In practice, most incidents follow recognizable patterns 
+that make them easier to plan for than they first appear. One useful way to frame those patterns is through 
+the four Ms of data loss: malicious attacks, mistakes by admins, mishaps at the cloud provider, and migra-
+tions gone bad. Each category shows a different way control can be lost, whether through attack, error, 
+dependency, or change.
+This framework matters because it moves the conversation from abstract risk to operational control. The 
+causes differ, but the business question is usually the same: Can the organization identify a trusted recovery 
+point, restore the right data quickly enough to limit disruption, and do so under conditions it can trust and 
+control? Verizon’s 2025 Data Breach Investigations Report reinforces why that framing holds up. Third-party 
+involvement in breaches doubled to 30%, exploitation of vulnerabilities rose 34%, and credential abuse 
+remained one of the most common initial access patterns. Some disruptions are malicious, some are struc-
+tural, and many begin somewhere in between.
+Not every incident is a cyberattack. Some begin with a bad retention change, an integration failure, or a 
+provider-side event that makes the control plane unreliable. The common thread is that production can stop 
+being the sole source of truth. Resilience then depends on regaining control through independent backup, 
+practiced recovery, good governance, and sovereignty-minded design.
+Read more about the concept 
+of the 4 Ms  here →
+Disaster recovery guide   |   8
+© 2026 Keepit. All rights reserved
+
+Malicious attacks
+Malicious attacks are among the most disruptive causes of data loss because they are designed to compro-
+mise both the production environment and the organization’s ability to recover from it. Ransomware, 
+credential abuse, destructive compromise, and malicious deletion all aim at the same outcome: break trust 
+in production, degrade access, and turn time into leverage. In SaaS environments, that often means the 
+recovery sequence matters just as much as the backup itself. You may need to restore identities before data, 
+re-establish permissions before access, and verify that the tenant is safe before pushing content back into it.
+A published INNOVISION case shows why that sequencing matters. The customer had recently deployed 
+independent backup for Microsoft Entra ID and Microsoft 365 after recognizing that cloud workloads still 
+needed their own protection. Soon after, the environment was hit by a targeted cyberattack. Because the 
+recovery path was already in place, the organization was able to restore all impacted Entra ID user accounts 
+and associated Microsoft 365 data with a recovery time of less than three hours. Restoring the compromised 
+identities first avoided a slower, manual rebuild in which user accounts would have needed to be recreated 
+one by one, complete with undocumented settings, permissions, and dependencies. That’s an important 
+SaaS lesson: In a cloud incident, restoring content without restoring the identity layer can still leave the busi-
+ness operationally stuck.
+PROBLEM
+RECOVERY
+The company was hit by a targeted cyberattack, 
+compromising user identities on Entra ID.
+They were able to quickly restore all impacted Entra 
+ID user accounts, along with their Microsoft 365 data 
+with an RTO of less than three hours.
+REAL CASE
+A CUSTOMER OF OUR PARTNER INNOVISION
+READ THE CASE HERE →
+The same INNOVISION recovery story also shows that backup can matter after the restore, not just during 
+it. While it is the speed of recovery that’s essential during, it is completeness of recovery after that matters. 
+During the post-incident investigation and cyber-insurance process, the customer needed evidence of 
+what had changed in Entra ID objects and when. Metadata differencing was used to trace attribute-level 
+changes on privileged objects and provide technical evidence for the postmortem. That expands the role 
+of backup from restoration into investigation, documentation, and incident validation, and makes it a critical 
+part for being able to secure cyber insurance.
+The Technology Did It case makes a different point: the integrity of the backup path itself. In that case, a U.S. 
+government supplier was hit by Conti ransomware roughly three months after onboarding. According to the 
+published account, the protected data remained unavailable to the attacker, the organization restored its 
+data back to SharePoint, all data was restored within 30 minutes, and the business was back to normal by 
+Monday morning after a Friday attack. The headline is speed, but the deeper point is separation. Recovery 
+was fast because the recovery copies were still trustworthy, immutable to the impacts of ransomware. 
+PROBLEM
+RECOVERY
+The company was hit by Conti ransomware, 
+encrypting their business-critical data.
+The protected backup data remained immutable and the 
+company was able to restore all data in time to continue 
+business operations as usual on monday morning
+REAL CASE
+GOVERNMENT SUPPLIER  —  UNITED STATES
+READ THE CASE HERE →
+© 2026 Keepit. All rights reserved
+Disaster recovery guide   |   9
+The four Ms of data loss: Malicious attacks
+
+A third example from an SMB customer organization in education is useful for a quieter reason. The attack 
+affected the organization’s Microsoft 365 environment while backups were still running, but the business 
+still had access to a last-known-good snapshot from before the corruption spread. That gave the team a 
+clean point in time to recover from rather than forcing it to trust the production environment after the fact. 
+In ransomware and destructive-attack scenarios, that distinction is everything. The question is not whether 
+data still exists somewhere — it’s whether a clean, usable recovery point exists outside the compromised 
+environment.
+PROBLEM
+RECOVERY
+The company was hit by an attack targeting their 
+Microsoft 365 environment while backups were still 
+running, and corruption spread fast.
+The business had access to a last-known good snapshot, which 
+they could use as a recovery point to restore the environment.
+REAL CASE
+SMB ORGANIZATION IN EDUCATION  —  EMEA
+The value of backup is not merely that a copy exists, it’s that the organization can identify a clean point in time, 
+restore both business data and identity components in the right order, and support investigation once the 
+immediate disruption is contained. 
+How control is regained: Keep clean, immutable backup copies outside the production trust boundary, 
+practice restoring identities as well as content, and use backup metadata to support investigation, not 
+just restoration.
+How control is regained
+•	Keep clean immutable backup copies outside the production trust boundary
+•	Practice restoring identities as well as content
+•	Use backup metadata to support investigation, not just restoration.
+Recovery tip
+Plan for malicious incidents on the assumption that both production data and the recovery path 
+will be targeted. Resilience here depends on immutable, logically isolated, operationally inde-
+pendent backups — and on knowing the order in which critical identity and business data need to 
+come back. See also: Why backups are targeted.
+© 2026 Keepit. All rights reserved
+Disaster recovery guide   |   10
+The four Ms of data loss: Malicious attacks
+
+Mistakes by admins
+Administrative mistakes are a common source of SaaS data loss because they happen with legitimate 
+access, often in live production, and frequently before anyone recognizes the downstream impact. In SaaS 
+environments, the blast radius can extend well beyond the obvious deleted object. A rushed retention 
+change can alter legal-hold behavior. A policy edit can’t be undone. A deleted identity object can break 
+application access, automation, and approvals in one move.
+One customer example involving a large retail chain specializing in home furnishing, makes the point clearly. 
+A retention setting in the tenant was accidentally changed from five years to one year, and the result was 
+not a minor correction but the need to restore several thousand mailboxes. The lesson is not only that policy 
+mistakes are easy to make, but that recovering from them often requires more than bringing back message 
+content. Mailbox structure, metadata, state, and context still have to be usable after the restore. In poli-
+cy-driven environments like Microsoft 365, a single admin action can therefore become a large operational 
+recovery event.
+PROBLEM
+RECOVERY
+An accidental change in a retention setting resulted in the 
+loss of several thousand Microsoft Exchange mailboxes.
+The company was able to restore the mailboxes with 
+mailbox structure, metadata, state, and context intact. 
+REAL CASE
+PRIVATE ENTERPRISE IN RETAIL  —  EMEA
+Identity mistakes can be even more punishing. Consider accidental deletion of a security group, app registra-
+tion, or enterprise application. If the deleted object controls access to critical business tools, employees can 
+lose access immediately, integrations can fail, and permissions may have to be rebuilt manually. Microsoft’s 
+own recovery guidance on restoring app registrations and restoring soft-deleted enterprise applications 
+makes clear that native recovery exists only for a limited period. After 30 days, those objects are permanent-
+ly deleted. Even inside the recovery window, restoring the object alone is not always enough. Relationships 
+— memberships, owners, assignments, connected links — are often what make the object usable in the first 
+place. That’s why identity-aware recovery, including cross-tenant restore, matters in practice.
+© 2026 Keepit. All rights reserved
+Disaster recovery guide   |   11
+The four Ms of data loss: Mistakes by admins
+
+AI adds a new twist to this category, but not a new principle. In a recent TechCrunch example, a Meta AI 
+security researcher asked an OpenClaw agent to review an overstuffed inbox and suggest what to delete 
+or archive. Instead, the agent began deleting emails outright and ignored attempts to stop it from a phone, 
+forcing direct intervention on the device running the tool. Publicly, that reads as an AI-agent mishap. Opera-
+tionally, it’s an administrative error amplified by automation: destructive authority was granted, live data was 
+used, and the controls around scale and approval were weaker than the task required. The mistake was not 
+just the click, but the trust model around the automation.
+That’s the broader lesson for this category. “Mistakes by admins” doesn’t just mean someone pressed the 
+wrong button, it includes excessive permissions, rushed production changes, poorly scoped automa-
+tion, and the move from test data to live data without adequate safeguards. In these scenarios, recovery 
+depends on having versioned, external backups that preserve not only content but also metadata, object 
+relationships, and identity structures.
+How control is regained
+•	Narrow destructive authority
+•	Protect policy states and identity objects
+•	Make sure backup preserves relationships and history — not just content.
+Recovery tip
+Your backup strategy has to account for people — the tired ones, the rushed ones, the overcon-
+fident ones, and the well-meaning ones who just made a bad change. Use external, versioned 
+backups that can restore clean data, metadata, and relationships even when the disruption came 
+from legitimate access.
+“No matter how well-trained your admins are, they’re always 
+under crushing pressure to do more, faster, with less. Mistakes 
+are guaranteed to happen. The problem is, with today’s systems, 
+and especially with AI, a small mistake can have a giant impact.“
+Paul Robichaux, Senior Director of Product at Keepit and Microsoft MVP
+© 2026 Keepit. All rights reserved
+Disaster recovery guide   |   12
+The four Ms of data loss: Mistakes by admins
+
+Mishaps at your cloud provider
+Cloud providers are highly resilient, but not infallible. Service failures, configuration defects, synchronization 
+issues, control-plane bugs, and cascading dependencies can affect availability, access, or trust in produc-
+tion data even when the customer did nothing wrong. These events belong in their own category because 
+the root cause sits with the provider, but the operational consequences still land squarely on the customer.
+Microsoft’s Azure Front Door post-incident review from late October 2025 is a useful example. According 
+to Microsoft, a specific sequence of valid customer configuration changes across different control-plane 
+build versions generated incompatible metadata that exposed a latent bug in the Azure Front Door data 
+plane. The resulting failure caused connection timeouts and DNS resolution issues across Azure Front Door 
+and Azure CDN, with knock-on impact to Microsoft 365, Dynamics 365, Power Platform, Entra ID services, 
+and even support-case creation. This detail matters because it shows how mature cloud environments can 
+still fail in non-obvious ways: not through one dramatic hardware outage, but through interaction between 
+control-plane versions, metadata, and protection logic.
+The incident is also a reminder that resiliency safeguards have limits. Microsoft noted that configuration 
+protections and “last known good” controls did not stop the problem because the metadata passed available 
+checks before the asynchronous failure surfaced. Recovery required manual intervention, blocking further 
+configuration propagation, editing the last-known-good configuration, and phased recovery across the 
+fleet. For customers, the takeaway is not that hyperscalers are unreliable, but rather that customer continuity 
+cannot depend entirely on the assumption that provider-side safeguards will always behave as designed.
+This is where shared responsibility stops being a slogan and becomes an operating model. The provider is 
+responsible for the infrastructure and service availability it delivers, while the customer is still responsible 
+for data, identities, configurations, retention decisions, backup practices, and recovery readiness. Not 
+every provider incident is a direct data-loss event: some are availability or access-path incidents. But from 
+the customer’s perspective, the question is the same: Can critical data still be reached and recovered if the 
+production platform is unstable or unavailable?
+How control is regained
+Treat provider-side incidents as continuity events, not somebody else’s problem. If the control plane 
+is unstable, you still need an independent path to clean data and a plan for what business can oper-
+ate from backup.
+Recovery tip
+Treat provider-side incidents as proof that availability and recoverability are different problems. 
+Your vendor restores the service, but you still need an independent recovery path for the business 
+data, identities, and configurations that keep operations moving.
+© 2026 Keepit. All rights reserved
+Disaster recovery guide   |   13
+The four Ms of data loss
+
+Migration gone bad
+Migration-related loss is usually not dramatic until it’s expensive. It happens when users, mailboxes, files, 
+permissions, collaboration spaces, or identity objects move from one environment to another and the 
+move introduces omissions, duplication, corruption, or data mixing that is difficult to unwind after the fact. 
+In Microsoft 365 especially, tenant-to-tenant moves tied to mergers, acquisitions, divestitures, and reorga-
+nization are common enough that Microsoft treats them as standard migration scenarios, not edge cases.
+A realistic example is pharmaceutical divestiture. A business unit is sold, and a defined set of employees, 
+mailboxes, OneDrive data, SharePoint sites, groups, and permissions must move into a new tenant. Before 
+the migration even starts, both sides have reasons to verify exactly what belongs where. If the migration fails 
+halfway through, if content is omitted, or if data from the retained business is mixed into the divested envi-
+ronment, the organization needs a known-good record of the source state. Without that reference point, 
+it becomes much harder to prove what should have moved, what should have stayed behind, and whether 
+sensitive or commercially important information ended up in the wrong place.
+PROBLEM
+RECOVERY
+A problem occurs during migration and content is omitted, 
+or data from the retained business is mixed into the divested 
+environment.
+With a known-good record of the source state, the 
+organization can restore data to the trusted pre-migration 
+baseline before starting the process over. 
+HYPOTHETICAL CASE
+PHARMACEUTICAL ENTERPRISE
+That’s why backup matters in a migration even when no attack has taken place. It creates a trusted pre-mi-
+gration baseline that can be used to validate the move, investigate discrepancies, and restore clean source 
+data if the project introduces errors. In carve-outs and divestitures, that baseline is not just technically 
+useful, it can become legally important. Missing, misplaced, or over-shared data can quickly turn into 
+disputes about what was actually transferred.
+How control is regained
+•	Take a validated point-in-time backup before cutover
+•	Keep a trustworthy source baseline until the migration is complete and verified.
+Recovery tip
+Treat migrations like disaster scenarios. Take complete, point-in-time backups before cutover, 
+decide what must be provable afterward, and test recovery as part of the migration plan. Other-
+wise, you may discover that yesterday’s lunch menu is easy to restore while the data the business 
+actually needs is still tied up in the project.
+© 2026 Keepit. All rights reserved
+Disaster recovery guide   |   14
+The four Ms of data loss
+
+Resilience is backup + tested recovery
+Backup isn’t a checkbox. Disaster recovery resilience is immutable, independent backup plus tested, veri-
+fied recovery. A backup that exists in theory but has never been exercised under realistic conditions is still 
+only part of the job. Backup and recovery become resilience when the organization has tested the incidents 
+it’s actually likely to face, measured the results, and improved the process. Backup is necessary, but it 
+becomes operationally meaningful only when the business has proved it can recover with it.
+Practiced recovery is rarely a single technical action. More often, it’s a sequence of dependencies, deci-
+sions, and timing constraints. An organization needs to know what must come back first, which business 
+processes depend on that order, how identity and content interact, and whether acceptable recovery 
+objectives can actually be met in practice rather than assumed in theory. Testing is what exposes weak 
+sequencing, fuzzy ownership, and hidden dependencies before an incident does.
+The right tests are scenario-based. That means exercising recovery from the incidents the organization is 
+actually likely to face: ransomware, large-scale admin error, provider-side disruption, identity corruption, 
+and bulk restore — not just single-item recovery. A test that proves someone can restore one deleted file 
+may still say almost nothing about whether the business can recover a tenant-wide failure or a compromised 
+identity layer. Importantly, bulk restore isn’t theoretical: Keepit’s Annual Data Report shows 9 in 10 enterprise 
+and commercial-size organizations validate bulk recovery at least once a year —suggesting that at scale, 
+bulk restore testing is already a standard marker of recovery maturity.”
+ 
+KEEPIT ANNUAL DATA REPORT 2026:
+See what the data reveals here →
+Identity deserves its own testing track. In Microsoft 365 environments, Entra ID is the control layer for access, 
+roles, policies, groups, app registrations, and service principals. Testing should therefore not stop at files, 
+mailboxes, or collaboration data. Organizations also need to validate whether identity objects and their 
+relationships can be rebuilt in a separate clean tenant if the primary tenant is compromised, unavailable, or 
+simply no longer trustworthy. That’s why cross-tenant restore is more of a control question than a product 
+feature discussion. 
+© 2026 Keepit. All rights reserved
+Disaster recovery guide   |   15
+ Resilience is backup + tested recovery
+
+Keepit’s Annual Data Report flags identity recovery as a persistent blind spot: Organizations test identity 
+restores roughly four times less often than productivity data restores. That gap matters because if Entra ID 
+can’t be recovered cleanly, access to Microsoft 365, and often every other SaaS system federated to it, may 
+be blocked even when the underlying data is intact. 
+It’s also worth noting that this comparison is drawn from organizations that already have an Entra ID back-
+up/recovery capability in place—so it reflects a gap that can persist even among teams that are relatively 
+advanced in their recovery posture.
+Testing is also getting harder to separate from governance. Whether the driver is DORA, SEC expectations, 
+FINRA expectations, or internal audit pressure, the direction is the same: Organizations increasingly need 
+to show not only that data is protected, but that it can be restored in a controlled, reliable way when need-
+ed. Navigating SEC and FINRA regulations makes the same point from a different angle: Recovery testing 
+provides operational proof. It shows that backup is not just a policy artifact or a retention mechanism, but a 
+workable part of the resilience strategy — and that the organization can recover on terms it understands and 
+controls.
+Recovery tip
+Treat testing as a standing resilience practice rather than a one-time validation exercise. 
+The goal is to confirm that backup data is independent, intact, and usable in realistic scenarios — and 
+that the organization can restore the right data and identity elements in the right sequence when an 
+incident occurs.
+© 2026 Keepit. All rights reserved
+Disaster recovery guide   |   16
+ Resilience is backup + tested recovery
+
+From testing cadence to recovery maturity
+Survey data suggests that disaster recovery testing is becoming more established, and that is encouraging. 
+In the latest CIO MarketPulse report, 54% of respondents said they test quarterly and 32% said they test 
+monthly. But cadence alone does not define readiness. 
+Frequency of disaster recovery plan testing
+Figure 5. Recovery testing is becoming more routine, but cadence alone does not guarantee readiness. Source: CIO MarketPulse report
+A monthly test of a narrow scenario is still narrow. An organization can test often and still have weak docu-
+mentation, unclear ownership, or blind spots around identity and control-plane recovery. And this problem 
+is intensified by the wide-spread adoption of AI: As agentic AI adoption spreads from centralized IT teams 
+into the wider organization, even small blind spots can disrupt incident response and recovery. There is often 
+a gap between perceived readiness and real-world recovery capability, and what surprises teams is how 
+many steps sit between having a backup and actually being operational again when an incident occurs.
+CIO MARKETPULSE REPORT:
+See what your peers say about 
+AI and DR planning here →
+© 2026 Keepit. All rights reserved
+Disaster recovery guide   |   17
+From testing cadence to recovery maturity
+
+SaaS disaster recovery maturity
+That’s why maturity matters. For many organizations, the problem is not understanding that disaster recovery 
+is important, it’s knowing where the current capability really stands, where the biggest gaps are, and what 
+the next most valuable improvement should be. A SaaS-specific maturity framework is useful because resil-
+ience isn’t so black and white as a yes or no: An organization can have backups and still lack clear ownership, 
+scenario coverage, documentation, or sovereignty-aware recovery design.
+Figure 6. A practical maturity path moves teams from reactive recovery toward managed resilience.  
+Related framework: SaaS disaster recovery maturity framework.
+Keepit’s SaaS disaster recovery maturity framework uses five stages — reactive, basic, structured, proac-
+tive, and managed — to make that progression tangible. Reactive teams recover ad hoc, depend on individ-
+ual heroics, and often discover the process while the incident is happening. Basic teams have some back-
+ups and some repeatable steps, but coverage and testing are inconsistent. Structured teams document 
+procedures, assign owners, and bring regular testing into the process. Proactive teams measure, improve, 
+and exercise scenarios before crisis reveals the gaps. Managed teams integrate recovery with governance, 
+compliance, communications, and broader business continuity.
+MATURITY FRAMEWORK:
+Find out how mature your  
+DR processes are here →
+According to the CIO MarketPulse report “Peer insights on AI adoption and the disaster recovery gap,” when 
+respondents rated the maturity of their current SaaS disaster recovery capabilities, 14% placed themselves 
+in a reactive state, 26% in a developing stage, 32% in a managed stage, and 28% in an optimized stage. In 
+other words, while regular testing appears relatively common, not every organization has translated that 
+activity into a fully integrated, continuously improving disaster recovery capability.
+Recovery is integrated with governance, compliance, and 
+broader business operations as a core function.
+Scenario-based testing, measurement, and continuous 
+improvement drive readiness and gap mitigation.
+Procedures, owners, and regular tests are in place, enabling 
+consistent and repeatable recoveries for limited scenarios.
+Some backups exist, but coverage and testing are inconsis-
+tent, with limited reliability at scale.
+Ad hoc, undocumented recovery depends on individual effort 
+and urgency rather than defined processes.
+© 2026 Keepit. All rights reserved
+Disaster recovery guide   |   18
+From testing cadence to recovery maturity
+
+One of the strengths of a maturity model is that it discourages perfection theater. Most organizations 
+do not become ‘managed’ by buying one more tool. They advance by moving to the next stage on 
+purpose: documenting recovery procedures, clarifying responsibilities, identifying business-critical 
+SaaS data and identity dependencies, introducing more regular and realistic testing, and then building 
+measurement and continuous improvement on top of that foundation.
+Maturity is also rarely uniform. An organization can be strong on executive motivation or compliance pressure 
+and still be weak on documentation, staffing, or scenario coverage. The point of the model is not to award a 
+flattering label. It is to help the organization orient itself honestly and choose the next improvement that will 
+make the biggest operational difference.
+Rating the maturity level of current SaaS disaster recovery
+Figure 7. Rating the current maturity level of SaaS disaster recovery. Source: CIO MarketPulse white paper.
+© 2026 Keepit. All rights reserved
+Disaster recovery guide   |   19
+From testing cadence to recovery maturity
+”Ultimately, maturity in disaster recovery isn’t about achieving perfection, 
+it’s about pursuing it. Building a sustainable capability to protect what 
+matters most, and recover it quickly when you need to — that’s the imperative 
+we all share. You have to be able to do that no matter what challenges 
+arise. Even small improvements in your DR planning compound to help 
+dramatically reduce your overall risk. And that reduction in risk quickly builds 
+confidence in your organization’s ability to withstand disruptions.”
+Paul Robichaux, Senior Director of Product at Keepit and Microsoft MVP
+
+Governance and sovereignty 
+define the terms of control
+Data sovereignty has moved from a niche legal concern to a broader resilience and governance issue. It’s 
+no longer just a question of where data sits on a map, but rather a question of which laws apply to it, who 
+can compel access to it, which providers and sub-processors sit in the dependency chain, and whether the 
+organization retains meaningful control over how data is protected and recovered.
+The shared responsibility and sovereignty discussion captures the shift well: Shared responsibility answers 
+who owns the risk; sovereignty shapes the conditions under which that risk has to be managed. That distinc-
+tion matters because sovereignty is often misunderstood as simple residency. In practice, residency is 
+only one layer of the issue. Data may be created in one country, processed in another, stored in a third, and 
+backed up in a fourth. And for data governance, organizations need to know what data exists, which retention 
+and compliance obligations apply, who can access it, which provider and sub-processor dependencies sit 
+behind it, and whether recovery can happen without recreating the same exposure. If the production SaaS 
+provider and the backup provider depend on the same underlying hyperscaler or legal jurisdiction, an orga-
+nization may have redundancy without true independence. That’s why the broader data sovereignty report 
+treats sovereignty as part of resilience planning, not as a separate compliance checkbox.
+DATA SOVEREIGNTY REPORT:
+Read more about data 
+sovereignty here →
+A useful way to think about this is that sovereignty introduces a second layer of recovery readiness. The first 
+layer asks whether data can be restored, while the second asks whether it is stored (and can be restored) 
+under conditions the organization controls and can trust: in the right jurisdiction, with clear access, and with-
+out being trapped by the same dependencies that may have contributed to the original disruption. If the 
+answer to the first question is yes but the answer to the second is unclear, resilience is still incomplete.
+Put differently, shared responsibility says you still own the data risk, and sovereignty says you also own the 
+rules and obligations attached to that data. Together, they determine whether you control your SaaS data or 
+not in a much broader sense.
+Questions worth asking now
+	
+□
+Who controls the infrastructure on which both production and backup depend?
+	
+□
+Which jurisdictions can assert authority over the data or the backup provider?
+	
+□
+Are production and backup tied to the same hyperscaler, region, or legal dependency chain?
+	
+□
+Can the organization prove those answers when an incident, audit, or geopolitical event makes 
+them matter?
+© 2026 Keepit. All rights reserved
+Disaster recovery guide   |   20
+Governance and sovereignty define the terms of control
+
+RECOMMENDATION
+What to do next
+1
+Identify which SaaS data and identity services must be restored 
+first for the business to keep operating.
+2
+Separate backup from production dependencies and validate 
+that backup data is genuinely immutable and independently 
+accessible.
+3
+Extend recovery scope beyond files to include metadata, roles, 
+policies, app relationships, and identity objects.
+4
+Run scenario-based tests that include bulk restore and identity 
+recovery — not just single-item restore.
+5
+Use a maturity framework to prioritize the next improvement of 
+your disaster recovery planning.
+6
+Review sovereignty and dependency together: retention, 
+jurisdiction, sub-processor exposure, compliance obligations, 
+and who can authorize recovery.
+© 2026 Keepit. All rights reserved
+Disaster recovery guide   |   21
+Governance and sovereignty define the terms of control
+
+Conclusion
+The central lesson of SaaS disaster recovery is simple: The cloud changed the location of the 
+problem, not the consequences of losing data, as well as introducing the shared responsibility 
+models which all SaaS providers employ. Whether the trigger is malicious, mistaken, provid-
+er-side, or migration-related, the business still has to answer the same core questions under 
+pressure: Can we access clean data, can we restore it in the right order, and can we do so in an 
+environment we trust and control?
+The four Ms of data loss show how control is lost, while resilience shows how control is regained 
+— through immutable, independent backup, practiced recovery, disciplined governance, and 
+sovereignty-aware design. The organizations that get there are not necessarily the ones with 
+the boldest claims about resilience, they’re the ones that understand data loss happens, test 
+realistic scenarios, include identity and bulk restore in those tests, know where they sit on the 
+maturity curve, and treat sovereignty and dependency questions as part of the design rather 
+than as afterthoughts.
+Independent, sovereign backup plus tested, verified recovery is disaster recovery resilience. 
+And in SaaS, resilience is ultimately about control: knowing your data is protected, recoverable, 
+and governed on terms you know and can trust.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+Disaster recovery guide   |   22
+© 2026 Keepit. All rights reserved

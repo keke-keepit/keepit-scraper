@@ -1,0 +1,66 @@
+Source URL: https://www.keepit.com/help/platform-category/keepits-public-ip-addresses/
+Content type: Web page
+Last modified: 2026-04-30T15:02:30+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit's public IP addresses
+In case of troubleshooting Microsoft Entra ID Conditional Access or other issues, you may need Keepit's public IP addresses.
+Keepit has public gateway IP addresses on each region:
+Denmark, Copenhagen (dk-co)
+212.97.158.49
+212.97.158.53
+212.97.158.54
+212.97.158.55
+212.97.158.56
+212.97.158.57
+212.97.158.58
+212.97.158.59
+For SIEM integration
+212.97.158.50
+212.97.158.51
+Germany, Frankfurt (de-fr)
+185.221.245.16
+185.221.245.17
+185.221.245.18
+185.221.245.19
+For SIEM integration
+185.221.245.4
+185.221.245.5
+United Kingdom, London (uk-ld)
+185.221.244.16
+185.221.244.17
+185.221.244.18
+185.221.244.19
+For SIEM integration
+185.221.244.4
+185.221.244.5
+United States, Washington DC (us-dc)
+216.170.117.16
+216.170.117.17
+216.170.117.18
+216.170.117.19
+216.170.117.20
+216.170.117.21
+For SIEM integration
+216.170.117.4
+216.170.117.5
+Canada, Toronto (ca-tr)
+23.249.173.16
+23.249.173.17
+For SIEM integration
+23.249.173.4
+23.249.173.5
+Australia, Sydney (au-sy)
+103.153.54.16
+103.153.54.17
+For SIEM integration
+103.153.54.4
+103.153.54.5
+Switzerland, Zürich (ch-zh)
+185.221.246.16
+185.221.246.17
+For SIEM integration
+185.221.246.4
+185.221.246.5

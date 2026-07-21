@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/resources/breach-ready-key-takeaways/
+Content type: Web page
+Last modified: 2025-12-01T20:43:16+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Are you breach ready? Key takeaways on how immutability minimizes damage
+In today’s threat landscape, breaches don’t unfold slowly — they strike in minutes. Attackers routinely bypass perimeter defenses, exploit identity weaknesses, and attempt to destroy backups to maximize damage. The question is no longer if you’ll be targeted, but whether your organization is prepared to recover when it happens.
+This was the focus of a recent Keepit webinar, where Paul Robichaux, Senior Director of Product Management at Keepit and Microsoft MVP, and Bart Binder, Red Team Manager at Keepit, explored why immutability and isolation have become essential pillars of modern cyber resilience.
+Here’s what we learned:
+- Immutability isn’t optional — it’s the foundation of recovery. 
+ Attackers often try to purge logs and mass-delete backups. In one example discussed during the webinar, the only reason the attack chain was broken was because the storage layer enforced true WORM at ingest — preventing any modification or deletion attempts. When everything else fails, immutability becomes your last line of defense.
+- Modern breaches move fast — your defenses must be faster. 
+ Kill chains unfold in minutes. Immutability, anchored time, and no-modify APIs give your team the critical time needed to respond before damage becomes irreversible.
+- Isolation matters just as much as immutability. 
+ Air-gapping has evolved. Storing Microsoft 365 data in a vendor-independent cloud — without shared credentials, infrastructure, or replication paths — removes a major attack surface. If an attacker can reach every replica, it’s not real protection.
+Our webinar handout summarizes these insights into actionable guidance, including:
+- What “true immutability” means — and which designs fall short
+- How isolation, short-lived tokens, and separated control/storage planes improve protection
+- Breach-ready actions your team should implement now
+Download the handout now to learn how to turn principles into practice — and ensure your organization is truly breach-ready. In a world where attackers only need minutes, your recovery strategy is your strongest defense.

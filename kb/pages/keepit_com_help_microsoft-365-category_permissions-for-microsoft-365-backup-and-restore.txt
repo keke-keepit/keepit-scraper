@@ -1,0 +1,30 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/permissions-for-microsoft-365-backup-and-restore/
+Content type: Web page
+Last modified: 2026-06-29T23:15:03+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+| API  | Permission  | Permission Type  | Used to protect  | Description  | 
+| EWS  | Full_access_as_app  | Application  | 
+Exchange Online Public Folders  | Required to access user mailbox content for backup and restore. Used during restore to reconstruct mailbox, folder structure, messages, contacts, calendar items, and tasks.  | 
+| MS Graph  | Directory.Read.All  | Application  | 
+Exchange OneDrive Teams Chats Groups&Teams  | Required to discover user-related information, group memberships, and licensing information.  | 
+| MS Graph  | User.Read  | Delegated  | 
+Exchange OneDrive Teams Chats Groups & Teams  | Required to get information about the user who performs the backup / restore.  | 
+| MS Graph  | ChannelMessage.Read.All  | Application  |  | Required to back up and restore Teams channel chat messages, replies, hosted content, and delta token for sync functionality.  | 
+| MS Graph  | Group.ReadWrite.All  | Delegated  |  | Required to backup and restore Teams channels, Team chat messages, replies, attachments, calendar events, posts, conversation threads, group photos, plans, and tasks.  | 
+| MS Graph  | User.ReadWrite.All  | Application  | 
+Exchange OneDrive Teams Chats Groups & Teams  | Used in conjunction with Group.ReadWrite.All to back up and restore the full set of profile properties, reports, and managers.  | 
+| MS Graph  | TeamsTab.ReadWrite.All  | Application  | 
+Teams Chats Groups & Teams  | Required to back up and restore tabs within Teams channels and chats. | 
+| MS Graph  | Group.ReadWrite.All  | Application  |  | Required to back up and restore channel tabs, channel files & folders, conversation threads, posts, group conversations, posts, Teams, Groups, group members, and group owners.  | 
+| MS Graph  | Sites.FullControl.All  | Application  | 
+Groups & Teams SharePoint OneDrive  | Required to back up and restore site collections, sites, doclibs, files & folders, content types, columns, permissions, check in/out properties, versions, and metadata not covered under the SharePoint REST API.  | 
+| MS Graph  | Chat.Read.All  | Application  |  | Required to back up Teams private chat messages, members, and hosted content.  | 
+| MS Graph  | RoleManagement.ReadWrite.Directory  | Application  |  | Required to allow recovery of RBAC settings. For example restoring group memberships for role assignable groups. Learn More  | 
+| MS Graph  | GroupMember.ReadWrite.All  | Application  |  | Required to back up and restore groups, group properties, M365 group membership  | 
+| SharePoint REST API  | User.ReadWrite.All  | Application  |  | Required to back up and restore site members, their group membership, and permissions.  | 
+| SharePoint REST API  | Sites.FullControl.All  | Application  |  | Required to back up and restore metadata for site collections & sites and all metadata for each site. Including but not limited to permissions, settings, layouts, pages, list views, columns, fields.  | 
+| SharePoint REST API  | AllSites.FullControl  | Delegated  | 
+SharePoint Groups & Teams  | Required to list top-level site collections via REST API. (planned for deprecation)  |

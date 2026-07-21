@@ -1,0 +1,149 @@
+Source URL: https://www.keepit.com/services/backup-jira-confluence/
+Content type: Web page
+Last modified: 2026-05-12T23:12:18+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup and recovery for Jira and Confluence
+Automated backups and swift recovery in a vendor-independent platform
+Why back up Jira and Confluence?
+Native backup capabilities are limited
+Jira and Confluence offer limited backup functionality, leaving critical gaps in data protection for your projects, issues, workflows and internal knowledge articles.
+Losing data disrupts projects
+Whether malicious or accidental, data loss leads to delayed projects, disruptions in software development, and loss of internal knowledge.
+Financial and operational impact
+In addition to financial consequences, rebuilding projects, documentation, plans and content add pressure to already burdened product and development teams.
+Top benefits
+Time-saving usability
+Easy to implement and intuitive, Keepit requires minimal expertise to use while delivering confidence in your ability to swiftly recover your data whenever you need it.
+Assured data integrity
+With Keepit, you’re certain that your backups are immutable. They can’t be modified or deleted. Stored in our vendor-independent cloud, your data remains accessible at all times.
+Unified visibility
+A single pane of glass for all backups across critical SaaS applications provides transparency, visibility, and easy reporting for managers and leadership.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+Coverage for Jira and Confluence
+Generalâ
+- Sprints
+- Boards
+- Dashboardsâ
+- Plans (roadmaps)â
+- Filtersâ
+- Permission schemesâ
+- Notification schemesâ
+- Priority schemes
+- Statusesâ
+- Service desk organizationsâ
+- Users (backup only)â
+- Groups
+- Time trackingâ
+- Compass components (backup only)
+- Projectsâ: Avatar, Componentsâ, Categoriesâ, Featuresâ, Rolesâ, Versionsâ
+- Requests (backup only)
+- Screensâ: Tabsâ, Tab fieldsâ, Screen schemesâ
+- Attachmentsâ
+- Commentsâ
+- Fields
+- Field configurationsâ
+- Field configuration schemesâ
+- Linksâ
+- Link types
+- Priorities
+- Remote links
+- Resolutions
+- Security schemes
+- Types
+- Type schemes
+- Type screen schemes
+- Issue votes (backup only)
+- Watchersâ
+- Work logsâ
+ 
+- Workflowsâ
+- Workflow schemesâ
+- Workflow schemes drafts (backup only)â
+General
+- Users (backup only)â
+- Groups
+- Group members
+- Templates
+- Blueprints
+- Pagesâ
+- Page restrictions
+- Page contentâ
+- Child pages
+- Footer comments and replies
+- Inline comments and replies (backup only)
+- Attachments
+- Spaces
+- Permissions
+- Properties
+- âBlog postâ
+- Version historyâ
+- Restrictions
+- Contentâ
+- Content version history
+- Custom contentâ
+- Footer comments and version history
+- Replies to footer content and version history
+- Inline comments and replies (backup only)
+- Inline comments version history
+- Attachmentsâ
+- Attachments version historyâ
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic
+Head of IT, TALKE Group Germany 
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+Frequently asked questions
+Jira and Confluence offer limited native backup capabilities, leaving gaps in data protection. Loss of data, whether malicious or accidental, leads to delayed projects, disruptions in development, and loss of internal knowledge. In addition to financial consequences, data loss events add pressure to already burdened product and development teams.
+Services for Jira and Confluence Cloud are priced separately. Full conditions depend on the service package you choose. For more details, visit our pricing page.
+Awarded for its ease-of-use, Keepit ensures that your data is securely backed up and can be recovered and restored swiftly and accurately when incidents occur. It effectively minimizes the impact of data loss and eliminates the burden on your teams.
+Always within the data center region you specify. Currently we have seven data center regions: EU-DK, EU-DE, Switzerland, UKI, US, CA and APAC.
+Yes, to all the above.
+Further, uniquely to Keepit, our staff and software development are also ISO27001 certified — not just our data centers as most vendors. Read more.
+We are GDPR compliant, and our HQ is located in Denmark, EU. Read more.

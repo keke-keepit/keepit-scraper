@@ -1,0 +1,35 @@
+Source URL: https://www.keepit.com/customers/salesforce-ben/
+Content type: Web page
+Last modified: 2026-01-08T11:24:11+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Salesforce Ben secures its Salesforce data with Keepit
+As the world’s largest independent Salesforce community and media site, Salesforce Ben lives and breathes Salesforce. Headquartered in the UK, the company provides news, education, and insights to Salesforce professionals around the world. With team members working across multiple SaaS platforms, ensuring business continuity is essential to keeping content and community operations running smoothly.â¯
+When it came to safeguarding critical data, Salesforce Ben took a proactive approach. “We wanted to prevent problems before they happened,” said Andreeaâ¯Doroftei, Solution Architect at Salesforce Ben. “We hadn’t experienced data loss, but as our database grew, we knew we needed a proper backup and recovery solution.”â¯
+From manual backups to automated protection
+Before adopting Keepit, Salesforce Ben relied entirely on manual Salesforce exports and built-in tools, with no automated backup. As Andreea explained, they began their search by focusing on Salesforce — their most important system — knowing that if anything went wrong, recovering the data would have been extremely difficult.â¯
+Because Salesforce Ben is deeply embedded in the Salesforce ecosystem, the team knew exactly what to look for in a backup and recovery solution. They evaluated several options side by side, comparing ease of use, restore capabilities, and data protection features. In the end, Keepit stood out for its simplicity, scalability, and ability to back up both data and metadata in one place.â¯
+The team set out to find a reliable, scalable, and compliant solution that would evolve with their growing tech stack. Top of the wish list: data immutability, scalability, easy restorations, fullâ¯backupâ¯of both data and metadata, and GDPR compliance. Multi–data center availability and a UK-based data center added extra peace of mind.â¯
+We just let it run, and it does exactly what we need it to do. Knowing backups are completing successfully without intervention is a huge time-saver.
+Andreea Doroftei 
+Solution Architect at Salesforce Ben
+Quick setup and intuitive management
+Keepit impressed right away with its simplicity. Connecting Salesforce to Keepit took only a couple of minutes, and the first backup ran automatically.â¯“It was so easy that even someone without Salesforce experience could do it,” said Andreea.â¯Thatâ¯ease of setup and low-maintenance operation stood out as a key differentiator.â¯Since implementation, day-to-day management hasâ¯requiredâ¯minimal effort.â¯â¯
+Visibility, control, and compliance in one platform
+Amongâ¯Keepit’sâ¯many capabilities,â¯the audit logâ¯stands out as Andreea’s favorite.â¯“It shows exactly who did what and when, including who accessed data,” she said.â¯Thisâ¯feature provides clear accountability and makes internal auditing effortless.â¯
+Other capabilities have also proven valuable for compliance and operational efficiency. The right to be forgotten feature supports GDPR requirements by allowing the team to fullyâ¯deleteâ¯personal data whenâ¯needed. The search function makes it easy toâ¯locateâ¯deleted or modified records using names or any available columns. Andâ¯Keepit’sâ¯restore interface shows each record in context with its related data, ensuringâ¯accurateâ¯and complete recoveries.â¯
+To make collaboration easier,â¯Keepit’sâ¯public link-sharing feature lets users securely share backupâ¯dataâ¯so teammates or partners without a Keepit or Salesforce license can restore what they need on their own — saving everyone time.â¯
+Having everything backed up in one place just makes sense. As our tech stack grows, we know Keepit can grow with us.
+Andreea Doroftei 
+Solution Architect at Salesforce Ben
+Future-ready scalability across workloads
+While Salesforceâ¯dataâ¯was the starting point, Salesforce Ben recognized the advantage ofâ¯Keepit’sâ¯multi-workload platform. The company also uses Google Workspace and saw immediate value in consolidating data protection withinâ¯oneâ¯platform.â¯The team is also watchingâ¯Keepit’sâ¯roadmap closely. Salesforce Ben is already considering expanding its coverage,â¯“It’s great to know we can extend our protection as we adopt new tools,” Andreea added.â¯
+Advice for others evaluating backup solutions
+When asked what adviceâ¯she’dâ¯share with other organizations, Andreea emphasized the importance of usability and trust. “Look beyond the number of clicks,” she said. “Consider how quickly you can actually get up and running, who can access data, and whether the audit trails give you the visibility you need.”â¯ She also stressed that reliability and simplicity are non-negotiable.
+The core functionality needs to work. Backups have to be completed reliably and restores must actually restore. Keepit gives us that confidence.
+Andreea Doroftei 
+Solution Architect at Salesforce Ben
+The intelligent choice for SaaS data protection
+With Keepit, Salesforce Ben chose an intelligent approach to SaaS data protection — one platform designed to secure multiple workloads without adding complexity. Keepit’s vendor-neutral, cloud-based backup and recovery service protects business-critical SaaS data while keeping it rapidly recoverable, independent, and compliant. As Salesforce Ben’s tech stack continues to evolve, Keepit provides the confidence that their data is protected, their compliance requirements are supported, and their organization is prepared for whatever comes next.

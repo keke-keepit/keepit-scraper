@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/press/intelligent-data-governance/
+Content type: Web page
+Last modified: 2025-08-20T02:24:07+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Intelligent data governance: Guiding CISOs and CIOs toward cyber resilience through data governance strategies
+Keepit report highlights importance of data governance in the age of AI and cyberthreats.
+Copenhagen, Denmark – March 5, 2025 – Keepit, the world’s only independent, cloud-native data protection and backup provider, today announced the publication of its new report: “Intelligent data governance: Why taking control of your data is key for operational continuity and innovation” The report covers the foundational importance of data control in the age of AI, with a focus on ensuring modern enterprises cyber resilience and compliance.
+“Data is the foundation of innovation and preparedness. By focusing on data governance, CISOs and CIOs will lay the groundwork to effectively manage and grow their modern, data-driven enterprises. We hope our new report, with its practical approach to data governance, will give needed insights into data, its importance, and the crucial role intelligent data governance can play in today’s cybersecurity landscape,” says Kim Larsen, CISO at Keepit.
+Data governance as a response to major IT trends
+Keepit recently interviewed 30 senior IT leaders across a range of industries and regions. These in-depth conversations revealed a number of trends that serve as context for today’s enterprise IT organizations, including cloud flexibility, the rise of AI, and ever-increasing budget pressures.
+Based on the results, CIOs and CISOs will play increasingly crucial roles in enabling enterprises to ensure resilience and will need to prioritize their efforts to outfit their organizations with tools to lay a sustainable foundation for business continuity. For these IT decision-makers, data control will be a prerequisite to achieving this goal.
+“Data governance paves the way for data resilience. Through data classification, companies will be able to detect any gaps in their business continuity plans, and, as an added benefit, enhance their current day-to-day operations,” adds Kim Larsen.
+A cornerstone of compliance
+The new report finds that data governance is a key tool when striving to stay compliant as regulations such as NIS2, DORA, and GDPR are impacting organizations.
+“Data governance is the cornerstone of compliance. Knowing where your data is, what data is crucial for business operations, and who has access to it are all questions modern organizations need to answer to be cyber resilient,” says Kim Larsen.
+Building resilience against data loss and corruption
+The new report finds that CIOs and CISOs are ultimately accountable for ensuring data resilience so that users, applications, and other entities can access company data as needed. The three primary components of resilience are prevention, detection and recovery.
+“A data loss or outage incident can stop an organization in its tracks. Our report highlights that the ability to recover critical systems should never be left to assumptions or chance. Backup and recovery preparedness should be a board-level consideration at every company,” adds Kim Larsen.
+Download the report here
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 15,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+â¯
+For more information visitâ¯keepit.comâ¯or follow Keepit on LinkedIn.

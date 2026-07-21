@@ -1,0 +1,951 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Intelligent-Data-Governance-Report.pdf
+Content type: PDF document
+Title: unknown
+Pages: 29
+Retrieved: 2026-07-21
+
+============================================================
+
+Intelligent data 
+governance
+Why taking control of your 
+data is key for operational 
+continuity and innovation
+
+Intelligent data governance  |  2
+© 2025 Keepit. All rights reserved
+Executive summary ................................................................................................... 4 
+Introduction ...................................................................................................................6
+The broader context: Major trends shaping enterprise IT ..................................................... 7
+The importance of “always-on” data ................................................................ 9
+From creation to deletion: The data lifecycle ........................................................................ 9
+Usage: Putting data to work .................................................................................................. 11
+Data powers the present ......................................................................................................... 11
+Data determines the future ...................................................................................................... 11
+Resilience against data loss and corruption ................................................ 14
+What causes data outages? ................................................................................................. 14
+Bringing backup to the forefront ......................................................................................... 15
+Training and testing for resilience ........................................................................................ 16
+Guidelines: Testing backup and recovery .................................................................................... 17
+The foundational role of data governance .................................................. 19
+Data governance as an investment ....................................................................................... 19
+Data classification: The foundation of data governance  ....................................................  20
+Delegation in data classification ............................................................................................. 21
+Modern data classification and AI-powered tools ....................................................................... 21
+AI considerations .......................................................................................................................... 21
+A practical approach to governance .............................................................. 23
+Engaging leadership in governance ................................................................................... 23
+10 questions for board discussions ........................................................................................... 24
+Finding a governance framework ........................................................................................ 24
+10 questions to guide framework choices .................................................................................. 25
+Creating a classification strategy ....................................................................................... 26
+10 questions for classification strategy ...................................................................................... 26
+Conclusion .................................................................................................................. 28
+Next steps: Finding a trusted partner ................................................................................. 28
+Intelligent data governance
+
+Executive 
+summary
+01
+
+Executive summary
+Intelligent data governance  |  4
+© 2025 Keepit. All rights reserved
+“He who defends everything defends nothing.” 
+This quote by Frederick the Great highlights the importance of prioritization, and now, 
+centuries later, organizations continue to work with finite resources, and prioritization remains 
+essential to ensuring those resources are optimally directed in support of strategies and 
+desired outcomes.
+A crucial enabler of prioritization for today’s digital-centric businesses is data and system 
+classification: the process of separating and organizing data and systems into relevant groups 
+based on shared characteristics, such as the level of sensitivity, risks presented, and privacy 
+and protection requirements. Clear data and system classification enables organizations to:
+•	Implement safeguards aligned with protection needs, such as those required by regulations (e.g., 
+GDPR, NIS2, DORA, HIPAA, etc.), certifications, standards, and contracts
+•	Define and execute comprehensive backup and recovery programs to improve resilience (i.e., 
+prevention, detection, and recovery) against disruption or corruption — whether from a cyberattack 
+or a more mundane cause
+•	Safely and responsibly introduce new technologies and processes, including software-as-a-
+service (SaaS) applications and cutting-edge AI capabilities
+In fact, data classification is a necessary element of data governance, which consists 
+of policies and standards intended to ensure the availability, quality, and security of an 
+organization’s data. While data governance initiatives are often driven by applicable 
+regulations and obligations, the benefits of such programs also include stronger business 
+continuity and overall resilience, improved data accuracy and better outcomes based on that 
+data (e.g., from day-to-day operations to breakthrough research), and greater data literacy 
+and scale within the organization.
+Rather than being perceived as burdensome overhead, data governance should be 
+understood as a means to achieve highly desired outcomes more effectively and efficiently.
+As CISOs and CIOs are responsible for supporting business continuity and enabling 
+the business to innovate and advance, data governance programs typically fall on their 
+shoulders. In collaboration with departments that own and use the organization’s data, 
+and (ideally) with the support of the board, investors, and other senior executives, these IT 
+leaders must adopt or develop a data governance framework that supports innovation while 
+ensuring business continuity.
+By doing so, CISOs and CIOs will create a strong foundation for their modern,  
+data-driven enterprises.
+I hope you find the report interesting. 
+Kim Larsen
+Keepit CISO
+Executive summary
+
+Introduction
+02
+
+Introduction
+Intelligent data governance  |  6
+© 2025 Keepit. All rights reserved
+Today’s Chief Information Officers (CIOs) and Chief Information Security Officers (CISOs) have 
+two responsibilities that perhaps exist above all others:
+1	 Support business continuity, by ensuring data and systems are available to the organization’s people, 
+processes, and technologies and maintain adequate security levels
+2	Enable the business to innovate and advance, by supporting research and development functions, 
+including the introduction and adoption of new applications, workflows, and technologies
+The thesis of this document is that because data is an essential component of these 
+responsibilities — and therefore underpins both an organization’s biggest opportunities and 
+biggest risks —  data governance should command serious attention and consideration.
+In the context in which today’s organizations operate (see next page), such a statement may seem 
+boring or even quaint. However, the operational reality is that data control is the prerequisite 
+for practically everything an organization does or strives to do — including complying with 
+regulations, contractual obligations, and even acquiring cyber insurance.
+Where is your data? What data is important and why? Who has access to it?
+Answering these questions is critically important, as without a clear understanding and mapping 
+of your data, you can’t determine which processes and technologies to implement to preserve its 
+availability, and you can’t responsibly, effectively, or efficiently innovate.
+In the pages that follow, we’ll explore:
+•	The importance of always-on data to today’s organizations
+•	How to build resilience against data disruption and corruption
+•	The foundational role of data governance in general, and data classification in particular
+•	A practical approach to help you and your organization get started with data governance
+Introduction
+
+Introduction
+Intelligent data governance  |  7
+© 2025 Keepit. All rights reserved
+ 
+Cloud flexibility 
+Most organizations have attempted to 
+optimize workloads across public cloud, 
+private data centers, and edge deployments.
+ 
+ 
+ 
+ 
+SaaS adoption 
+Organizations of all sizes have embraced 
+software-as-a-service (SaaS) apps, but 
+with this added convenience comes extra 
+considerations for data protection and 
+continuity planning.
+ 
+The rise of AI 
+Organizations are under pressure from 
+investors and leaders to implement AI but 
+must do so in a manner compliant with 
+relevant laws and regulations governing data 
+protection, privacy, and security (e.g., GDPR, 
+HIPAA, PCI DSS, NIS2, DORA, etc.).
+ 
+Interconnected risks 
+Security, IT, compliance, and financial risks 
+are increasingly interlinked, but regulatory 
+frameworks remain siloed — forcing CISOs to 
+develop unified risk management approaches 
+while still mapping controls to specific 
+regional requirements.
+ 
+Budget pressures 
+Cybersecurity and data governance may 
+be seen as necessities, but budgets to 
+implement and manage such programs 
+remain limited — especially when they’re 
+seen as costs rather than investments.
+ 
+ 
+The broader context: 
+Major trends shaping enterprise IT
+To understand which challenges CIOs and CISOs are facing — and how they’re confronting 
+them — Keepit conducted interviews with over 30 senior IT leaders across a range of 
+industries. These in-depth conversations revealed key trends that serve as context for today’s 
+enterprise IT organizations, including:
+ Learn more in our e-book, The Great Balancing Act: Cybersecurity leaders tackle rising pressures
+
+The importance 
+of “always-on” 
+data 
+03
+
+The importance of “always-on” data
+Intelligent data governance  |  9
+© 2025 Keepit. All rights reserved
+Key takeaways:
+•	Data is ubiquitous in today’s organizations, and much of it is governed by regulations or is 
+subject to other compliance obligations.
+•	Data powers the present and creates the future, fueling day-to-day activities and serving 
+as a critical input into innovation and improvement programs.
+•	Maintaining access to uncorrupted data is essential and is one of the primary objectives 
+of today’s CIOs and CISOs.
+The importance of “always-on” data
+DATA GOVERNANCE TIP
+Regulations rightfully receive a 
+great deal of attention, but don’t 
+overlook obligations relating to:
+•	Contracts
+•	Industry standards
+•	Certifications
+Today’s organizations work with massive volumes of data in a wide range of forms, with 
+some of the most common being:
+•	Intellectual property including trade secrets, algorithms, business process details, source 
+code, and customer lists
+•	Internal and external communications, including text or chat messages, emails, voice calls, 
+and videoconference recordings and transcripts
+•	Employee, customer/client, and third-party service provider data 
+including personally identifiable information (PII), personal health 
+information (PHI), and payment card information (PCI)
+•	Operational telemetry and sensor data, such as security events and 
+capacity, performance, or load distribution data 
+•	Identity and access management (IAM) data, including keys, tokens, 
+and credentials
+Much of this data is subject to regulatory requirements pertaining 
+to privacy and security that apply through the entire data lifecycle 
+(see Figure 1, below).
+Looking beyond regulations, many standards, certifications, 
+and interoperability frameworks include similar requirements — 
+particularly around access controls, secure storage, and secure transit.
+From creation to deletion: The data lifecycle
+Figure 1 – Simple representation of the data lifecycle (note that some models include additional intermediate stages, 
+particularly around data processing or transformation).
+Creation
+Storage
+Archival
+Usage
+Deletion
+
+The importance of “always-on” data
+Intelligent data governance  |  10
+© 2025 Keepit. All rights reserved
+While data lifecycle models differ in the details, they generally begin (from an 
+organization’s perspective) with data’s creation or acquisition and end with its 
+permanent deletion. 
+We won’t dwell on the lifecycle too much, but instead will simply make a few points.
+As noted, data can be:
+•	Created: Some combination of human and machine effort generates new data, typically 
+with data serving as an input to the process; or
+•	Acquired: The organization comes into possession of data (e.g., a customer provides their 
+information or completes a survey, the organization purchases or subscribes to a data 
+source, equipment or applications produce telemetry, etc.).
+Once acquired, data needs to be stored, with consideration given to:
+•	Regulatory (and similar) requirements;
+•	Cybersecurity concerns;
+•	Accessibility; and
+•	Availability (including redundancy and restoration capabilities).
+Complicating matters, today’s IT environments include complex combinations of 
+public and private clouds, SaaS applications, and on-premises infrastructure, as well 
+as local storage on devices such as laptops and mobile phones. Add into this mix the 
+rapid rise of AI — with its well-documented appetite for training and production data — 
+and the unknowns associated with shadow IT, and it’s easy to see why “data sprawl” is a 
+growing concern for IT leaders.
+Next, data is put to use. In a moment, we’ll examine this stage in slightly more detail, but 
+for now we’ll emphasize that understanding, establishing, and enforcing rules about 
+which entities (e.g., people, devices, applications, and other systems) can access 
+which data, for what purposes, is an important aspect of data governance. Moreover, 
+not all users of an organization’s data are within that organization, as contractors, 
+partners, vendors, and other external service providers also need controlled access.
+At some point, data may no longer be needed for daily operations, or it may require 
+deletion due to legal, regulatory, or compliance mandates, such as GDPR’s ‘Right 
+to Be Forgotten.’ While some data can be deleted, other data must be retained for 
+regulatory or business reasons. Regardless of the retention period, organizations 
+should regularly test their backup and recovery processes to ensure that critical data 
+remains accessible and intact when needed.
+Finally, data that has no purpose or value — or that is subject to strict timelines 
+governing how long it can be held — is permanently deleted. In the past, many 
+organizations elected to retain data as long as possible “just in case”; however, in 
+the contemporary climate of headline-grabbing data breaches and ever-stricter 
+regulations, unnecessarily retaining data is regarded as introducing risk and liability.
+
+The importance of “always-on” data
+Intelligent data governance  |  11
+© 2025 Keepit. All rights reserved
+Usage: Putting data to work
+Let’s now circle back to the usage stage of the data lifecycle to illustrate how data 
+is the lifeblood nurturing both an enterprise’s day-to-day operations and future 
+aspirations.
+Data powers the present
+Typically, only a fraction of an organization’s resources is focused on the future; in most 
+cases, considerably more attention is given to the processes, decisions, actions, and 
+other activities that comprise day-to-day operations. In today’s digital businesses, 
+data plays a vital role in
+•	Communication utilities (e.g., email, instant messaging)
+•	Collaboration platforms (e.g., Slack, Microsoft Teams)
+•	Enterprise software suites
+•	Domain- and industry-specific applications
+•	Operational technology (OT), including industrial controllers and sensors
+•	IT infrastructure
+•	Customer relationship management (CRM) and customer data platforms (CDPs)
+•	Human resources management (HRM) software
+•	Inventory and production management software
+•	Accounting, payroll, and other financial management software
+•	SaaS applications (according to BetterCloud, the average company has deployed 103 SaaS 
+apps, and the average enterprise has deployed 158.)
+•	…and many others
+What’s more, internal processes and technologies are remarkably interconnected, 
+so a disruption in any one area has the potential to create ripples — some small, some 
+significant, some truly disastrous — throughout the rest of the organization.
+Data determines the future
+A complete focus on today is a surefire way to become irrelevant 
+tomorrow. Consequently, as their roles continue to evolve, CISOs 
+and CIOs will be defined by their ability to enable and protect the 
+innovation that’s so critical to an organization’s future.
+Notably, innovation comes in multiple forms, including creating 
+net new things (e.g., a research and development program) and 
+finding more effective and efficient ways to do the things already 
+being done.
+DATA GOVERNANCE TIP
+Before introducing a new 
+technology or onboarding a 
+new third-party provider, you 
+need to determine which data 
+and systems will be used and 
+impacted.
+Be sure to consider regulatory 
+(and other) obligations and a 
+cost/benefit analysis (including 
+risk assessments).
+
+The importance of “always-on” data
+Intelligent data governance  |  12
+© 2025 Keepit. All rights reserved
+In practice, innovation relies upon some mix of people, processes, and technology — 
+all of which are dependent upon data. For example:
+•	Artificial intelligence (whether ‘traditional’ machine learning or modern generative AI) 
+typically relies upon vast volumes of data for training and validation.
+•	Many organizations have implemented hybrid clouds in pursuit of benefits including lower 
+operating costs, better customer experiences, simplified compliance, greater agility, 
+stronger security, and more. Storage (e.g., of data) is a major factor in any cloud decision.
+•	Enterprises today rely on SaaS applications to boost productivity and enable new functions 
+and capabilities; every SaaS app they adopt will ingest, store, and transform data.
+•	Few organizations do everything in house, with most make use of contractors, vendors, 
+and service providers; all of these members of the extended workforce likely need at least 
+some access to at least some data, while being restricted from accessing data not needed 
+for their work.
+
+Resilience against data loss and corruption
+Intelligent data governance  |  13
+© 2025 Keepit. All rights reserved04
+Resilience 
+against data loss 
+and corruption
+
+Resilience against data loss and corruption
+Intelligent data governance  |  14
+© 2025 Keepit. All rights reserved
+Key takeaways:
+•	There are three aspects to data resilience:  
+(1) Preventing disruptions, (2) detecting problems, and (3) recovering to a safe state as quickly as 
+possible, should a disruption occur.
+•	Cyberattacks grab headlines, but account for only a small fraction of outages:  
+Leaders shouldn’t overlook much more common causes, including misconfigurations, technical faults/
+failures, natural disasters, contractual disputes, and human error.
+•	Backup and recovery should be considered crucial components of operational hygiene:  
+An emergency or other moment of desperation is not a good time to discover that processes or 
+technologies aren’t performing as needed.
+Resilience against data 
+loss and corruption
+As we’ve seen, today’s organizations rely on data. While responsibility is largely delegated, leaders, 
+including the CIO and CISO, are ultimately accountable for ensuring data resilience — so that users, 
+applications, and other entities can access the data stores as needed.
+Resilience itself has three primary components:
+•	Prevention: Technological and procedural mechanisms maintain uptime and guard against corruption, 
+inadvertent deletion, and unauthorized access.
+•	Detection: The ability to identify (as quickly as possible) outages, malicious or accidental changes, 
+unauthorized access, and other problems or threats.
+•	Recovery: In the event that disruption occurs, ensuring that the organization has and is able to execute the 
+processes, supported by technology solutions, to restore data access as quickly and completely as possible.
+Prevention is largely about robust IT architecture, redundant connectivity, identity and access 
+management (IAM), and service level agreements (SLAs) with vendors, while detection leverages 
+technical measures including real-time alerts and log monitoring.
+For the purposes of this document, we’ll presume that IT leaders have such matters covered. 
+Recovery, though, deserves some attention.
+What causes data outages?
+Cyberattacks garner headlines and cyber defense is rightfully 
+becoming a board-level issue, but leaders shouldn’t let the threat of 
+adversary-associated outages distract from other common causes.
+For broad perspective, we can look to Splunk’s  “The hidden costs 
+of downtime” which states that downtime stems from two main 
+sources: 56% from security incidents (e.g., phishing attacks), while 
+Outages are common 
+and costly
+“A typical Global 2000 
+company sees 466 hours 
+of cybersecurity-related 
+downtime and 456 hours of 
+application or infrastructure-
+related downtime“
+According to Splunk.
+
+Resilience against data loss and corruption
+Intelligent data governance  |  15
+© 2025 Keepit. All rights reserved
+44% comes from app or infrastructure issues (e.g., software failures). In both cases, 
+human error is the leading cause and the hardest to detect and remediate.
+Data outages are likely to be caused by a handful of comparatively mundane issues 
+(each of which has many underlying contributors, including human error):
+•	Power: 44%
+•	Network: 14%
+•	IT systems (hardware, software): 13%
+•	Cooling: 13%
+•	Third-party provider: 8%
+For example, in May 2024, UniSuper (an Australian superannuation fund managing 
+$135 billion for 647,000 members) faced an unprecedented crisis when their entire 
+Google Cloud account — including backups — was suddenly gone, the result of 
+a misconfiguration within Google Cloud’s system. This “one-of-a-kind event,” as 
+described by Google, wiped out UniSuper’s cloud subscription and its backups stored 
+across multiple geographic locations. The result was a nearly two-week outage that 
+left members without access to their accounts. Fortunately, UniSuper had maintained 
+additional backups with an independent third-party provider, which proved to be the 
+saving grace and played a crucial role in the recovery process.
+More widely known, though, is the massive outage that began in July 2024, when 
+cybersecurity company CrowdStrike rolled out a faulty update to their Falcon Sensor 
+security software. Worldwide, approximately 8.5 million Windows systems crashed 
+and could not be properly restarted, resulting in what has been called the largest 
+outage in the history of IT as organizations struggled to restore systems and the data 
+they housed.
+So, while CIOs and CISOs should definitely champion a strong 
+security posture, care must be taken not to overlook the more 
+prosaic everyday risks.
+Bringing backup to the forefront
+Because few developments have the potential to stop an 
+organization in its tracks — and to keep it stopped — like a data 
+outage, the ability to recover critical systems should never be left 
+to assumptions or chance.
+Rather, the organization’s backup and recovery preparedness 
+should be elevated from “IT concerns” to board-level 
+considerations, alongside other operational resilience, business 
+continuity, and compliance matters.
+3-2-1 … backup!
+The 3-2-1 principle comes from 
+the days of on-premises data 
+storage, yet still has relevance in 
+the modern, cloud-computing 
+area.
+Roughly speaking, the 3-2-1 
+backup rule requires:
+•	3 copies of data, across…
+•	2 types of storage media, 
+with…
+•	1 copy stored off site or in an 
+independent cloud.
+ Learn more in 3-2-1 
+backup rule update: Air gap 
+your immutable backups
+
+Resilience against data loss and corruption
+Intelligent data governance  |  16
+© 2025 Keepit. All rights reserved
+In fact, compliance could be an effective way to bring backup to the forefront. For 
+example, for those organizations subject to European Union’s NIS2 Directive, achieving 
+compliance is likely a high-priority project, with regular reporting to the executive 
+ranks. But how many executive teams know that Article 21 of the NIS2 Directive sets out 
+clear cybersecurity risk-management measures “to protect network and information 
+systems” that focus on ensuring business continuity through “backup management 
+and disaster recovery.”
+How many understand that with the NIS2 Directive, the governance provisions are 
+tightened so that the responsibility for violation is not only imposed on the legal entity 
+but on the management itself?
+And NIS2 is hardly an exception when it comes to these (and similar) obligations, so 
+such concerns aren’t limited to organizations based in or operating in the EU.
+Moreover, backup and recovery must be understood as being more than just creating 
+copies of data for future access. Are the copies secure? Is the data within backup 
+repositories immutable? Are the repositories accessible, and is that access itself 
+redundant? What are the different procedures for recovering different systems?
+Even such basic questions as these can open hearts and minds to the subject’s 
+complexities and subtleties — and the more that executives understand backup and 
+recovery, the more resources will be made available to the CIOs and CISOs looking to 
+protect the organization.
+Training and testing for resilience
+Too often, backup systems and recovery processes have been 
+managed with a “set it and forget it” approach in which the 
+organization selects and implements one or more solutions, 
+defines and validates some recovery processes, and then largely 
+ignores the subject except for periodic and fairly superficial 
+checks.
+But this hope-for-the-best approach just isn’t good enough — for 
+your organization or for regulators. Rather, it takes a combination 
+of training and testing to build, maintain, refine, and validate your 
+ability to recover following a data loss or corruption event.
+Training is intended to ensure that each member of your team 
+knows their responsibilities within the recovery processes, so that 
+decisions can be made and workflows can be executed quickly 
+and efficiently.
+Monkeying around
+Chaos engineering is the 
+practice of intentionally 
+creating faults and unforeseen 
+scenarios within a system to 
+test (and ultimately improve) its 
+resilience.
+While the discipline’s origins 
+date to (at least) development 
+of the first Apple Macintosh in 
+1983, chaos engineering gained 
+new prominence in 2011 with 
+Netflix’ Chaos Monkey tool.
+To be clear, we aren’t 
+suggesting you should 
+randomly disable systems or 
+embrace anarchy; however, 
+we are adamant that the more 
+exercises you conduct (from 
+small disruptions to “extinction-
+level” events), the more resilient 
+your organization will be.
+
+Resilience against data loss and corruption
+Intelligent data governance  |  17
+© 2025 Keepit. All rights reserved
+Testing ensures that data recovery is possible in the event of a real crisis. Testing should 
+cover full recovery (i.e., not simply confirming that backup copies exist) and should be 
+applied to the full range of data and systems an organization might need to restore. 
+After all, an emergency is not the time to discover that there’s an issue with a particular 
+restoration process or that a critical SaaS system has changed how it ingests data.
+Of course, CIOs and CISOs operate in a world of limited resources, which imposes 
+the need for prioritization. In the context of backup and recovery, prioritization means 
+answering questions like:
+•	Which data is most important to our operations?
+•	What systems need to be restored first?
+•	What are our compliance (and similar) obligations?
+Such questions aren’t limited to the scope of backup and recovery — they’re also a part 
+of data governance.
+Guidelines: Testing backup and recovery
+Ensuring the effectiveness of your backup and disaster recovery processes is crucial for 
+maintaining data integrity and business continuity. Put simply, the more direct, hands-on 
+experience your team has in this regard, the better prepared they’ll be to swiftly recover 
+critical data in diverse, pressure-packed, real-world scenarios.
+Here are key steps to follow while testing your capabilities:
+1	 Validate restoration capability promptly: Promptly validate that your backup systems can 
+efficiently restore critical data without compromising integrity. 
+2	 Determine acceptable downtime: Establish the maximum allowable time for data recovery, 
+aligning with recovery time objectives set during prioritization.
+3	 Regularly test backups for confidence: Frequently test your backups to instill confidence in 
+your disaster recovery plan and promptly address any identified issues.
+4	 Consider different scenarios: Simulate diverse scenarios, testing the recovery of individual 
+files, entire databases, and complete systems to identify weaknesses.
+5	 Document and analyze results: After each testing session, document and analyze the time, 
+accuracy, and challenges encountered to gain insights for improvement.
+6	 Involve relevant stakeholders: Collaborate with IT teams, data custodians, and business 
+continuity managers to ensure comprehensive testing aligns with broader goals.
+7	 Update and improve: Continuously update recovery plans based on testing insights, addressing 
+weaknesses, refining procedures, and adapting to evolving threats.
+Diligently adhering to the rigorous testing guidelines outlined above paves the way for a 
+robust IT compliance policy and serves as proactive measures against evolving cyberthreats.
+
+05
+The 
+foundational 
+role of data 
+governance
+
+The foundational role of data governance
+Intelligent data governance  |  19
+© 2025 Keepit. All rights reserved
+Key takeaways:
+•	Data governance is an investment in the business: Effective data governance supports 
+business continuity and resilience, impacts any and all outcomes based on data, guards 
+against compliance failures, and improves the organization’s ability to work with data.
+•	Data classification is the foundation of data governance: Creating and leveraging a data 
+governance framework begins with a data classification standard.
+•	Data classification is a team effort: Leaders establish and champion effective governance 
+and delegate classification to data owners; data owners collaborate with data users to 
+determine prioritization.
+•	Modern tooling can lessen the burden of data classification:AI-powered data 
+classification solutions help to categorize existing data, keep up with new data, and 
+enable automation of data-centric processes.
+Data  
+Management
+Data  
+Governance
+Data  
+Classification
+Figure 2 - While definitions and interpretations 
+vary, data governance is usually considered to 
+be a subset of data management
+The foundational role of 
+data governance
+Existing under the broad umbrella of data management, 
+data governance is a program — implemented via policies 
+and standards — intended to ensure the availability, 
+quality, and security of an organization’s data, in 
+accordance with applicable regulations and obligations 
+(e.g., contractual commitments, adhering to industry 
+standards, fulfilling requirements for certifications, etc.).
+Within data governance, data classification is the process 
+of separating and organizing data into relevant groups 
+(“classes”) based on shared characteristics, such as 
+the level of sensitivity, risks presented, and privacy and 
+protection requirements.
+As we will now see, data governance in general and data 
+classification in particular are essential foundations of the 
+modern, data-driven enterprise.
+Data governance as an investment
+An effective data governance program delivers several beneficial outcomes.
+First, by helping to ensure the availability, quality, and security of an 
+organization’s data, data governance is a pillar of organizational and business 
+continuity and overall resilience.
+
+The foundational role of data governance
+Intelligent data governance  |  20
+© 2025 Keepit. All rights reserved
+Second, because data governance helps improve overall data accuracy, it also impacts 
+outcomes based on that data — which can range from comparatively simple day-to-day 
+business decisions and operations to more complex, forward-looking initiatives including 
+research and development, automation, and AI-focused programs.
+Third, by supporting the organization’s efforts to comply with regulations and other 
+obligations, data governance helps to avoid both the direct consequences of failing to 
+comply and the negative outcomes that regulations, standards, contracts, and similar 
+obligations are intended to guard against.
+Finally, an effective data governance program permeates the entire organization, increasing 
+data literacy and contributing to improved data scale. Along with data quality, and the 
+confidence that comes with knowing data is being handled in a manner that respects privacy 
+and ensures its security, these factors act as a rising tide that levels-up all of the organization’s 
+data-related capabilities.
+Data classification: The foundation of data governance
+An organization’s resources are finite and must be deployed in alignment with priorities. In 
+a data governance context, this means that organizations must begin by establishing and 
+implementing a foundation of data (and system) classification.
+To protect sensitive data and support the continuity of systems and processes that depend 
+on it, data must be located, classified according to its level of sensitivity, and accurately 
+tagged. Then, enterprises must handle each group of data in ways that ensure only authorized 
+people (both internal and external) can gain access, and that the data is always handled in 
+compliance with relevant regulations.
+To create a data classification strategy, information is divided into predefined groups that 
+share a common risk (see Figure 3, below), and the corresponding security controls required 
+to secure each group type are identified.
+“Public”
+“Internal only”
+“Confidential”
+“Restricted”
+Data that is freely 
+disclosed to the public
+Data that is not meant to 
+be shared outside of the 
+company
+Sensitive data that, if 
+compromised, could negatively 
+affect operations
+Highly sensitive corporate data 
+that, if compromised, could 
+lead to financial or legal risk
+Examples:
+•	Marketing materials
+•	Sales data sheets
+•	Support documentation
+Examples:
+•	Battle cards
+•	Sales playbooks
+•	Organizational charts
+•	Strategy presentations
+Examples:
+•	Contact information
+•	Price lists
+•	Next year go-to market plans
+•	Product roadmap presentations
+Examples: 
+•	Personal customer 
+information (e.g., social 
+security numbers)
+•	Customer credit card data
+•	Employee contact 
+information
+Figure 3 – An example data classification approach
+
+The foundational role of data governance
+Intelligent data governance  |  21
+© 2025 Keepit. All rights reserved
+Delegation in data classification 
+Understanding the nature of your data is key to strengthening your organization’s data 
+resilience.
+Whether safeguarding CEO emails, logistics data, customer information, intelligence 
+dashboards, or proprietary code, identifying the priority for recovery establishes 
+a strategic foundation — speeding up recovery and ensuring that your business 
+continuity efforts are precisely aligned with the specific datasets crucial for sustaining 
+your operations.
+While upper management has an important role to play in championing data 
+governance and, in some jurisdictions, is legally responsible for regulatory violations, 
+assigning prioritization should be delegated to the departments that actually own and 
+manage different subsets of the organization’s data.
+It is these owners who, in close collaboration with the users and consumers of data, 
+must make the tough calls about the relative importance of different datasets, thereby 
+forming the basis for strategic prioritization. 
+Modern data classification and AI-powered tools
+When done correctly, data classification makes using and 
+protecting data easier and more efficient and becomes the 
+foundation for critical data governance strategies and the driver 
+for broad security controls.
+However, because the process can seem burdensome and 
+intimidating, there can be a tendency for organizations to ‘drag 
+their feet’ on this important initiative.
+Fortunately, classification tools — especially those powered by 
+modern AI technologies — can significantly lessen the burdens 
+associated with helping to discover your data and create scalable 
+classification processes and systems.
+Plus, these tools can also help with day-to-day adherence to 
+data classification guidelines, by automating the treatment and 
+handling of sensitive data and by promoting a culture of security 
+that increases awareness of data sensitivity and prevents the 
+storing of sensitive content on removable media or third-party 
+web portals.
+AI considerations
+AI offers powerful capabilities for automation, analysis, and efficiency, but it also 
+comes with risks, including data integrity challenges, evolving cyberthreats, and 
+unpredictable system behavior. Human intelligence is still essential for the successful 
+implementation of data and classification systems. 
+ 
+AI should be viewed and used as an assistant — not a decision-maker. AI-driven tools 
+should be implemented with a strong focus on security, compliance, and user control. 
+It is essential to ensure that AI does not alter or manipulate critical data in unintended 
+ways. As AI continues to evolve, responsible adoption requires transparency, rigorous 
+testing, and safeguards that protect data while enabling innovation and resilience. 
+DATA GOVERNANCE TIP
+If a company is investing in a 
+data management platform 
+that will leverage AI, it may be 
+worth classifying the top and 
+most-sensitive category with 
+sub-categories to indicate 
+regulatory relevance or alternate 
+access control models that 
+may be required, such as PCI 
+data, GDPR-relevant data, and 
+unpublished financial data.
+There are very effective AI-
+enabled data classification 
+applications available, such as 
+IBM Guardium, Informatica Data 
+Catalog, or Microsoft Purview 
+(formally Azure Purview) as a few 
+examples
+
+06
+A practical 
+approach 
+to data 
+governance
+
+A practical approach to data governance
+Intelligent data governance  |  23
+© 2025 Keepit. All rights reserved
+Key takeaways:
+•	Tap into the board of directors and investors: Foster an ongoing relationship, including 
+agenda time during board meetings, by aligning with business objectives, translating 
+technical concepts, demonstrating ROI, and seeking board feedback and support.
+•	Mix and match from existing frameworks to create something that works for your 
+organization: Many frameworks exist, but finding one that fits your needs can be a major 
+challenge; instead, review what’s available and adopt a structure that meets today’s needs 
+and can be adapted or extended as your organization evolves.
+•	Find and classify your data: Don’t let perfect be the enemy of good enough — three or four 
+classification categories are usually sufficient and won’t overwhelm the departments and 
+personnel whose support is crucial for the program’s success.
+A practical approach to governance
+Sound data governance depends on adopting a precise — yet practical — framework for consistent 
+data handling across the organization.
+To help you choose which path is best for your organization, and to maximize your success on the data 
+governance journey, we offer the following guidance.
+Engaging leadership in governance
+Fostering a culture of awareness and accountability at the highest levels of leadership builds trust 
+with stakeholders and, in the long run, better protects your organization’s assets.
+Ideally, CISOs, CIOs, and other IT leaders can earn the opportunity to involve and update board 
+members periodically — even if only for 15 minutes of a board meeting. To do so, we recommend:
+•	Aligning with business objectives: Frame data governance discussions in the context of the company’s 
+overall business objectives and risk tolerance. Highlight the impact of data governance on key business 
+functions, financial performance, and reputation.
+•	Translate technical concepts: When discussing or presenting data governance concepts, adopt terminology 
+and leverage examples that can be easily understood by board members who may not have a technical 
+background. Focus on the importance of data governance as a business enabler and risk mitigation measure, 
+rather than as a purely technical issue or compliance checkbox.
+•	Demonstrate ROI: Clearly articulate the return on investment (ROI) of data governance initiatives by 
+quantifying the potential cost savings, risk reductions, and business benefits associated with effective 
+classifications and controls. Use case studies and risk-impact metrics to illustrate the tangible impact of 
+investments or potential costs of inaction.
+•	Seek board feedback and support: Solicit feedback from board members on data governance strategy, 
+priorities, and challenges. Leverage board members’ experience, expertise, and networks to garner support 
+for governance initiatives and resource allocation.
+
+A practical approach to data governance
+Intelligent data governance  |  24
+© 2025 Keepit. All rights reserved
+10 questions for board discussions
+To prepare for involving the board and investors in data governance discussions,  
+ask and answer these questions:
+What is the current level of understanding and engagement of our board members regarding data 
+governance?
+How frequently are cybersecurity, business continuity, compliance, and other subjects related to 
+data governance discussed in board meetings?
+What risk scenarios, analogies, or case studies should we present to the board to illustrate the 
+business implications of data governance?
+What specific topics or areas of concern do executive leadership and board members have about 
+data governance and areas it impacts?
+How can we effectively translate technical data governance concepts into business language that 
+resonates with board members?
+What educational sessions or materials can we provide to enhance board members’ 
+understanding of data governance and closely related matters?
+What is our current level of investment in data governance, and how does it compare to industry 
+benchmarks?
+What are the potential cost savings, risk reductions, and business benefits associated with our 
+data governance initiatives?
+What mechanisms can we establish for ongoing communication and collaboration between IT 
+leaders and the board?
+How can we leverage board members’ experience, expertise, and networks to support data 
+governance initiatives?
+ 
+Finding a governance framework 
+Successful data governance requires rapid adoption of a chosen framework. Ideally, 
+the framework is sufficiently precise and practical that it becomes the structure 
+around which stakeholders will collaborate to ensure data is handled consistently 
+across the organization.
+However, getting started with data governance can feel overwhelming — especially 
+if it’s your first foray into the field or if your organization has paid little attention to the 
+subject until now.
+The good news is that there are many existing options from which to choose, including:
+•	The Data Governance Institute’s Data Governance Framework
+•	DAMA International’s Data Management Body of Knowledge
+•	Frameworks from Eckerson Group, PwC, and Deloitte
+
+A practical approach to data governance
+Intelligent data governance  |  25
+© 2025 Keepit. All rights reserved
+But the less good news is that one of the top challenges reported to us by interviewed leaders is 
+identifying and adopting an appropriate data governance framework that fits their organization.
+For example, a framework has to be comprehensive enough to meet your organization’s needs but 
+shouldn’t extend so far that it imposes work that has little or no practical purpose beyond simply 
+adhering to the framework.
+Similarly, a framework should be robust, but not so rigid that it can’t be extended to new pipelines 
+and processes that emerge as your organization evolves.
+For most organizations, the best (i.e., most practical, efficient, and effective) approach is to 
+balance a set of fundamental elements common to existing frameworks with additional guidance 
+introduced for specific applications and workflows.
+10 questions to guide framework choices
+To help find the framework that’s right for your organization,  
+start by asking these questions:
+How should data governance support our organization’s decision-making processes and reduce 
+operational inefficiencies?
+What governance structures (e.g., data governance council, data stewards) do we need to 
+establish to oversee data governance efforts?
+What policies and standards do we need to develop to govern data effectively (e.g., data 
+classification, data quality, data privacy) and how can they consistently be applied and adhered to 
+across the organization?
+How will our data governance framework help us comply with relevant regulations and industry 
+standards (e.g., GDPR, HIPAA, PCI-DSS, etc.) — and how will we monitor and respond to changes 
+in the regulatory landscape?
+Is there an existing data governance framework that aligns well with our organization’s goals and 
+existing data management practices?
+If no framework is a particularly good fit, then what elements from existing frameworks can be 
+adopted — and what gaps remain?
+How will we identify and address challenges as we implement our chosen framework?
+What roles and responsibilities should be assigned to different stakeholders within the 
+organization to ensure clear ownership and accountability across various departments?
+What processes will we implement to review and update policies and standards regularly?
+How will we train and educate employees about our data governance framework and their roles 
+in the governance process — and how will we measure the effectiveness of our training and 
+awareness efforts?
+
+A practical approach to data governance
+Intelligent data governance  |  26
+© 2025 Keepit. All rights reserved
+Creating a classification strategy
+Establishing effective data governance frameworks 
+requires precise, practical data classification. In fact, this 
+classification work sets the stage for everything else by 
+forming the foundation for critical data governance that 
+ultimately makes it easier to use and protect data.
+Organizational buy-in is essential, as developing data 
+classification models, compliance controls, and other 
+framework elements is labor intensive and requires timely 
+and informed input from data owners in various departments.
+10 questions for classification strategy
+To help plan and execute your data classification strategy,  
+start by asking these questions:
+What are the primary objectives of our data classification strategy, and how do they align with our 
+overall data governance framework?
+What types of data do we collect, store, and process, and where is this data located?
+How sensitive is the data we handle, and what are the potential risks associated with unauthorized 
+access or disclosure?
+How does data classification support our compliance with industry regulations and standards 
+(e.g., GDPR, HIPAA, PCI-DSS, etc.) — and how do we ensure ongoing compliance as relevant 
+regulations and industry standards evolve?
+What are the key business functions that rely on accurate data classification, how are they 
+impacted by our classification strategy, and what is their expected (and agreed upon) level of 
+involvement?
+What predefined groups or categories will we use for data classification (e.g., Public, Internal only, 
+Confidential, Restricted)?
+What processes and procedures will we implement to classify data according to its sensitivity and 
+importance?
+How will we ensure that each data category has the appropriate security controls and access 
+restrictions? How will we tag and label classified data to facilitate proper handling and protection?
+What tools and technologies are available to support our data classification efforts, and how will 
+we evaluate and select data classification tools?
+What metrics and KPIs will we use to monitor the effectiveness of our data classification strategy?
+DATA GOVERNANCE TIP
+If your organization is beginning 
+its data classification journey 
+without a platform or tool, resist 
+the urge to get too granular, as 
+granular classification schemes 
+tend to cause confusion and 
+become unmanageable.
+For most organizations, three to 
+four classification categories are 
+usually sufficient, and will allow 
+your data governance initiatives 
+to get off to a strong start.
+
+Conclusion
+07
+
+Conclusion
+Intelligent data governance  |  28
+© 2025 Keepit. All rights reserved
+Data sits at the center of both the biggest risks and the biggest opportunities facing 
+organizations. CISOs and CIOs are responsible for safeguarding data with robust protections 
+while also ensuring it’s available — in the right forms, to the right people, at the right time — to 
+power both day-to-day operations and innovation initiatives.
+Rather than being perceived as burdensome overhead, data governance should be 
+understood as a means to achieve these desired outcomes more effectively and efficiently.
+Ideally working with the support of the board, investors, and senior executives, and 
+collaborating closely with the departments that own and use the organization’s data, it falls to 
+CISOs and CIOs to champion and lead the data governance programs that are foundations of 
+the modern, data-driven enterprise.
+But data governance is not possible without data classification. The categories and 
+other labels assigned to the organization’s data are critical for ensuring it is stored and 
+used appropriately (whether for mundane tasks or breakthrough research). These same 
+classifications also help to inform a reliable backup and restoration program — something that 
+isn’t merely important for business continuity but is increasingly required by regulations.
+Next steps: Finding a trusted partner
+Given that data is central to both opportunities and risks, finding a trusted data protection 
+partner is key — especially one that can offer robust and scalable data protection solutions 
+tailored to your company’s needs.
+Keepit is more than a data protection vendor. We deliver next-level SaaS data protection 
+for your most business-critical applications and platforms. Importantly, our approach goes 
+beyond providing tools — we collaborate with you to implement best practices, stay ahead of 
+emerging threats, and continuously improve your data governance strategies.
+By partnering with Keepit, your organization can confidently navigate the complexities of 
+today’s evolving cybersecurity challenges and regulatory requirements with a modern solution 
+that ensuring data is secure, compliant, and ready to support innovative business initiatives.
+To learn more about how Keepit can support your data protection and cybersecurity needs, 
+please visit us at keepit.com.
+Conclusion
+
+Resilience starts with
+intelligent choices
+Recover and restore
+your SaaS data
+Keepit provides a next-level SaaS data protection 
+platform purpose-built for the cloud by securing 
+data in a vendor-independent cloud to safeguard 
+essential business applications, boost cyber 
+resilience, and future-proof data protection. 
+Headquartered in Copenhagen with offices and data 
+centers worldwide, more than 15,000 companies 
+trust Keepit for its ease of use and effortless backup 
+and recovery of cloud data.   
+© 2025 Keepit. All rights reserved.
+www.keepit.com

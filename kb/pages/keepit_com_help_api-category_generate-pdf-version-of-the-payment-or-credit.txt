@@ -1,0 +1,51 @@
+Source URL: https://www.keepit.com/help/api-category/generate-pdf-version-of-the-payment-or-credit/
+Content type: Web page
+Last modified: 2026-03-23T13:21:40+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Generate PDF version of the payment or credit
+This command generates a PDF version of the payment or credit.
+API request
+Method GET
+/users/{account_id}/invoices/{reference}.pdf
+Optional additional header
+Key: Accept
+Value: application/vnd.keepit.v1+xml
+Example
+Method GET
+https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka/invoices/agn1sfs6hcemt.pdf
+Response
+Code: 200 OK
+PowerShell script
+(saves the PDF file at C: drive)
+try {
+  $domain = 'https://dk-co.keepit.com' 
+  $username = '<API Token username>'
+  $password = '<API Token password>'
+  $userId = '<Account ID>'
+  $reference = '<Reference ID>'  # The invoice reference from the /invoices request
+  $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+  $headers = @{
+      "User-Agent" = "PowerShell-Keepit-API-Agent-1.0"
+      "Authorization" = "Basic $basicauth"
+      "Accept" = "application/vnd.keepit.v1"
+  }
+  $url = "$domain/users/$userId/invoices/$reference.pdf"
+  $response = Invoke-WebRequest -Uri $url -Method 'GET' -Headers $headers -ErrorAction Stop -TimeoutSec 10
+  $outputPath = "C:\invoice_$reference.pdf"  # Change the path if needed
+  [System.IO.File]::WriteAllBytes($outputPath, $response.Content)
+  Write-Host "Invoice saved as PDF at: $outputPath"
+}
+catch {
+  $line = $_.InvocationInfo.ScriptLineNumber
+  Write-Host "Cannot query Keepit API due to: $_"
+  Write-Host "at line $line"
+}Script result
+Invoice saved as PDF at: C:\invoice_agn1sfs6hcemt.pdf
+- The response can use the accept header application/vnd.keepit.v0+xml or application/vnd.keepit.v1+xml:
+key – Accept
+value - application/vnd.keepit.v1+xml
+- If the header is omitted, the default version (v0) is used.
+- In v1, an additional <product> element is included in the response.

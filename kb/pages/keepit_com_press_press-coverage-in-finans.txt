@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/press/press-coverage-in-finans/
+Content type: Web page
+Last modified: 2025-08-20T00:05:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Column in Finans: The cloud is incredible â but also incredibly dangerous
+An increasing amount of Danish organizations choose to rely on the many cloud solutions on the market today. In most cases, however, they forget to protect themselves against data loss, and the cloud giants won’t have your back when data go missing.
+Denmark is a Microsoft country. The Office suite is a crucial everyday tool for everyone, from small one-man companies to bigger enterprises. It is therefore hardly surprising that more and more organizations, big and small, choose to use Microsoft’s Office 365, Exchange Online, SharePoint Online or OneDrive for Business as a core part of their organization.
+No matter the provider, cloud solutions offer a flexible, simple and scalable platform that helps Danish organizations: Your data are accessible from all your units, you can scale up or down quickly, easily manage access policies and rest assured that your data are safe and secure in the cloud.
+… Or are they now?
+You only pay the cloud providers for uptime: Access to e.g. Office 365 anywhere and whenever you need to. The most recent numbers indicate an uptime of more than 99 percent, and even though downtime does occur occasionally, it is rare and, in most cases, very short.
+But you alone are responsible for your data.
+If Microsoft experiences a major breakdown, if one of your employees accidentally deletes critical data, or you become the target of a ransomware attack against your cloud data, the major providers will only be of very limited assistance to you.
+This is a surprise to many customers, as you would logically assume that people who store data for you also take care of them.
+No one to call
+During this year’s Gartner Symposium, Maersk CISO Andy Powell talked about how the organization managed to get their (server) fleet afloat again after 2016’s devastating Not Petya attack. He talked about being in direct contact with Microsoft’s COO in his attempt to solve the problems caused by the attack, which hit not only Maersk but also the international community.
+Maersk deserves a lot of praise for their excellent handling of the Petya attack – both in terms of re-establishment but also because of their communication with stakeholders and the rest of the world. It is far from everyone who gets a direct line to Microsoft’s top people to help mitigate attacks, however, and Andy Powell also expressed his lack of confidence in general cloud service security.
+According to an IDA survey, two out of three organizations have experienced cyberattacks – and every eighth attempt is, on average, successful. This is scary information in light of increased interest in cloud solutions among cybercriminals.
+You have very limited protection: Everything that is deleted in Office 365 ends up in the well-known trash bin, but only for 30 days. After this the file disappears forever, with disastrous consequences in cases of accidental deletions or GDPR. Among some of Keepit’s municipal customers, schoolteachers have lost several years of preparation material by mistake due to this limitation.
+Microsoft promises uptime, not restful sleep
+Going back to this text’s headline, cloud solutions are generally a great invention and we also use our share of various cloud services.
+The problem arises, understandably, when you put blind faith in your data being safe and secure in the different clouds.
+They are not.
+Additionally, cloud solutions are nothing but accessible software on a service. They also contain bugs and weaknesses which, when found, can be exploited by cybercriminals or cause downtime for both the cloud provider and your organization.
+You should therefore review all of your contracts with your cloud providers and check your level of security. You should also double-check your existing backup solution to see if you might be able build up a regular backup habit with your existing arrangement. Maersk CISO Andy Powell recommends that you always run an off-site backup and that you should optimally have three copies (the so-called 3-2-1 strategy) with two local backups and one off-site.
+There is a multitude of different ways to create backups, and there is only one primary rule: Even the worst backup solution is better than no backup at all.

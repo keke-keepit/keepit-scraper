@@ -1,0 +1,51 @@
+Source URL: https://www.keepit.com/blog/why-backup-zendesk/
+Content type: Web page
+Last modified: 2025-08-20T00:41:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+5 costly problems you can avoid via backup for Zendesk
+Zendesk backs up your data for large-scale disaster recovery -- a rare scenario -- but it doesn’t provide granular restore of your data, nor does it protect against accidental deletion of or breaking changes to your automations.
+How much the data is worth to you, and the depth of backup you are comfortable with, only you can decide. But since we’re talking about things like automations, macros, and triggers — workflow controls that your entire support organization relies on every day — you deserve to make that decision based on factual information.
+If you work in IT: When something goes wrong, you may suddenly be asked to recover lost data with a quick RTO (recovery time objective). If you aren’t able to do that, it puts you in the unpleasant position of having to explain why not, not to mention the business impact of not being able to restore the data the business needs.
+If you work in Support: An accidental delete or breaking change in your automations, triggers, macros, or views can tie up your support workflow, thereby risking the smooth functioning of your service organization.
+How Zendesk backs up your data
+Technically, Zendesk does have features to make your data in their system more available. But these are designed for a specific, very broad, purpose.
+All Zendesk data is automatically backed up regularly. Not to protect your account data specifically, but the entire platform in case of a disaster. So Zendesk can recover all accounts if there was, for example, a platform-wide hacker attack, but they don’t promise to recover information for your account specifically if an incident were to occur.
+This may not seem like much of a problem; after all, Zendesk hasn’t publicly reported any large losses of customer data. But there are some significant potential problems that can still bite you despite Zendesk’s automated backups.
+5 costly problems Zendesk won’t protect you from
+1. Somebody accidentally breaks your workflow
+Automations are one of the key reasons why companies love Zendesk. But what happens when you lose automations due to a simple mistake? A lot.
+Take a look at a typical example of Zendesk automations:
+- All billing-related tickets are automatically routed to the finance team.
+- If a ticket is left untouched for more than four hours, it is automatically escalated.
+Now imagine the havoc caused by losing any of these automations. If you didn’t have these automated processes to begin with, your support system would be far less effective. But if you do have them, your entire support system will suffer if you suddenly lose access to them. You would need to quickly recreate everything, get the processes up and running, and hope the customer forgives you.
+In this scenario, if you have a third-party backup tool in place, your automated daily backups of your Zendesk automations mean you can simply restore to a time before the automation was deleted. Search for your automation in the system, and with a few clicks, your automation is restored.
+2. You can’t restore data at a granular level
+As I mentioned earlier, Zendesk has a disaster recovery feature they use in extreme cases. It is designed to recover huge amounts of data in bulk.
+If a disaster happens and Zendesk performs a disaster recovery, you get your data back in a big downloadable blob of CSV or XML data. Recovering a single, important ticket or customer interaction would force you to look for a needle in a massive haystack.
+On the other hand, if your data is backed up in a third-party system, you simply “Search.” “Preview,” and “Restore.” That’s it. You find the needle right there, within a minute.
+3. You lose all deleted data after 40 days
+When you delete an item in Zendesk, it goes in the recycle bin. But it only stays there for 40 days, then it is gone forever. It is very simple, yet far too few Zendesk users realize the finality of this functionality.
+You delete so many things every day. Usually, you never think of them again, but every now and then, the wrong item is deleted. Or circumstances change, so you realize you need it back. But forget it — after that just-less-than-six-week window, it’s gone.
+Not so with your data backed up with a third party. Everything is still there. You leave your options open.
+4. When an employee leaves your company, all her data is automatically archived
+Now and then, you probably see support agents leave the company. This is a normal part of the business. As a matter of fact, companies worldwide face a turnover rate of 30-45% among their support agents.
+When the agent is no longer an active user in Zendesk, what happens to all their views, tickets, and other data associated with their account? If you still need access to it, you have three options:
+- Continue to pay the fees for the person’s license after they leave. But with a license cost of $49 to $215 per agent per month, that will be an expensive option with a 30% turnover.
+- As a best practice, Zendesk recommends you reassign the tickets and downgrade the agent’s account and finally suspend the account. Please keep in mind that downgrading the agent’s account will automatically delete all macros and views permanently. Losing out on macros and views permanently could be a costly mistake.
+- When you back up the data with a third-party backup service, you continue to have access to all data. Your data is backed up daily, so you can simply go back to any point and restore or preview any data. 
+ 
+5. Zendesk’s enhanced disaster recovery is expensive
+Zendesk will sell you an enhanced disaster recovery system that includes multi-zone data replication and a host of other features that help protect your data in event of a disaster. Please note that it is available only in enterprise plans ($215 per agent per month). Even worse, it doesn’t even protect your automations, triggers, macros, and views.
+With a third-party backup you can save a lot of money for your organization and benefit from a comprehensive backup starting at a few dollars per agent per month.
+A 60-second summary, with the Keepit glasses on
+As I mentioned at the start, you will have to assess your risk tolerance if you conclude that suddenly losing your Zendesk data would be too costly, whether, through human error or malicious intent, the time to act is now. There are third-party solutions out there, so you just need to find the right one.
+Keepit is one of them, designed for fast, easy recovery. And for your convenience, here are five quick benefits:
+5 benefits of Keepit for Zendesk
+1. Protect automations — automations, macros, and triggers are the lifeblood of Zendesk, and with Keepit, you can also protect these.
+2. Retain unlimited data — all your data is saved in four copies across multiple data centers.
+3. Keep backup costs down — With Keepit for Zendesk, you benefit from a comprehensive backup solution with unlimited hot storage and data archiving starting from $2.95 per agent per month.
+4. Keep it simple — with an easy interface, anyone can recover data with no training needed.
+5. Recover fast — get your data back in seconds. Search-Preview-Restore, using smart search and granular restore.

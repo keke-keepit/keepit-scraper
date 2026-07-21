@@ -1,0 +1,33 @@
+Source URL: https://www.keepit.com/resources/forrester-new-wave-saas-application-data-protection-2021/
+Content type: Web page
+Last modified: 2025-08-14T23:50:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Forrester New Wave Leader
+Keepit Recognized as a 'Leader' in The Forrester New Wave™: SaaS Application Data Protection, Q4 2021
+The 10 SaaS Data Protection Providers That Matter Most.
+In this New Wave™ report, Forrester ranks the Top 10 SaaS data protection providers based on their current offering, strategy, and market presence. Forrester positions Keepit as a 'Leader' within SaaS application data protection and recognizes it for:
+- Offering Strong core SaaS Application Data Protection support and privacy regulation compliance
+- Being the 'best fit for companies that need Microsoft 365 protection and GDPR expertise'
+- Its 'significant experience with data privacy and compliance needs'
+- Rated 'Differentiated' for Microsoft 365, Google Workspace, Usability, Security & Privacy, and Innovation Roadmap
+What can I learn from the report?
+Technology leaders and SaaS application admins can use this report to select the right partner for their SaaS application data protection needs. Choosing a SaaS backup provider is an important and difficult decision. The market is rapidly expanding and, with hundreds of backup companies to choose from, it's hard to know where to start. The 2021 Forrester New Wave™ on SaaS Application Data Protection will help you identify the 10 most significant providers.
+Read the full report to learn:
+- Which provider offers the best coverage for the key SaaS applications for your enterprise
+- How well each provider scored against 10 criteria and where they stand in relation to each other
+- Which provider is the best fit for your backup and recovery needs
+Keepit's Take on The Forrester New Wave™: SaaS Application Data Protection, Q4 2021
+The adoption of SaaS applications was widely enhanced through the global pandemic of Covid-19 as businesses around the world had to enable their employees to work and collaborate digitally. While SaaS providers (such as Microsoft, Google, and Salesforce) focus on their platform uptime, their clients are left alone with their data resiliency and durability needs. Therefore, SaaS backup providers are flooding the market, offering solutions for widely adopted platforms like Microsoft 365 and Google Workspace.
+Ransomware attacks threaten the data stored in SaaS applications
+While the amount of data being stored in SaaS applications continues to grow, and ransomware attacks are becoming an emerging data loss risk, the adoption of SaaS application data protection is becoming more and more important. Technology leaders and SaaS application admins can use the Forrester New Wave™ to get an overview of the most significant providers in the category and use this report to select the right partner for their SaaS application data protection needs.
+How Were the SaaS Application Data Protection Providers Evaluated?
+In The Forrester New Wave™, only emerging technologies are assessed. The evaluation is based on 10 criteria that are grouped into the providers' current offering, their strategies, and their market presence.
+The top 10 providers chosen for this report were selected because they fulfill the following criteria:
+- A core SaaS Backup offering that supports the protection of at least one of the three key SaaS platforms
+- The extent of the SaaS Backup platform must provide partial or full protection for at least three of the full set of focused SaaS platforms
+- The SaaS backup provider must be a first-party solution
+- Each provider's annual revenue is greater than $5 million
+- The providers must be relevant to Forrester clients based on inquiries, advisories, and other engagements

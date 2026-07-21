@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/press/datareport2026/
+Content type: Web page
+Last modified: 2026-03-26T13:00:56+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Annual Data Report 2026 highlights the path from SaaS adoption to proven recovery readinessÂ
+Real-world restore data underscores why strengthening recovery testing is key to resilience at scale
+Copenhagen, Denmark, March 26, 2026 — Keepit, the only independent, cloudânative data protection and recovery provider, today published the Keepit Annual Data Report 2026. As organizations accelerate their reliance on SaaS platforms, new data from Keepit shows how recovery readiness is evolving. Based on realâworld backup and restore activity, the report reveals that recovery practises remain a work in progress for many, especially smaller, organizations — while larger enterprises increasingly demonstrate greater operational maturity through active recovery practices.
+The report analyzes aggregated and anonymized behavioral data from Keepit’s production backup environment, examining how organizations actually engage with their backups.
+Key findings from the report include:
+- 9 in 10 enterprises have validated bulk recovery, demonstrating a maturity in their disaster recovery preparedness
+- Identity systems are tested four times less often than productivity systems, even though losing identity access can prevent access to all other SaaS applications.
+- 90% of restores are single file downloads, indicating that simple data loss incidents are most common, and that IT administrators appreciate the ability to do granular, immediate recovery.
+- High-profile global outages — including major cloud and security incidents — did not lead to increased recovery testing, suggesting that even visible disruptions rarely prompt validation of recovery readiness.
+“The data shows that organizations are actively using their backups and, at scale, developing real recovery maturity — especially among larger enterprises that routinely validate bulk recovery,” says Jakob Østergaard, CTO at Keepit.
+“At the same time, the findings make it clear that confidence in recovery is built through practice. Simple, everyday restores are an important foundation, but structured testing and guided recovery are what turn backup into a repeatable, dependable capability. Backup is only effective when teams know they can recover the right data, in the right order, under real world pressure.”
+A behavioral signal and a clear path forward
+One of the clearest insights in the report is behavioral. Everyday restores show how organizations build confidence and recovery capability over time. Singlefile restores are familiar and useful, but they represent an early stage of readiness — not full validation for largescale incidents.
+The report shows that resilience is built through practice, not additional tools. Organizations that make recovery a routine, repeatable process — supported by structured testing and guided recovery — are better prepared to restore the right data, in the right order, at the right scale.
+Data, not self-reported behavior
+The Keepit Annual Data Report 2026 is based on aggregated, anonymized behavioral data drawn from Keepit’s production backup environment between January 1 and December 31, 2025. The analysis spans backup and restore activity across all active Keepit data center regions, including Denmark, Germany, Switzerland, the United Kingdom, the United States, Canada, and Australia.
+The report does not rely on surveys, interviews, or self-reported behavior. Instead, it examines observable patterns: restore frequency, restore types, timing, dataset behavior, and user interaction across business segments and application categories. All findings are presented at population level, with no customer-identifiable data.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguardsâ¯essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no third-party sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over 20,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information, visitâ¯www.keepit.comâ¯or follow Keepit onâ¯Linkedin.

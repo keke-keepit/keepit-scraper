@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/help/entra-id-category/entra-id-objects-are-missing-from-my-backup-configuration/
+Content type: Web page
+Last modified: 2026-07-04T00:22:12+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Entra ID objects are missing from my backup configuration
+When you see this error, it is because Keepit has detected that the current configuration for your Entra ID connector includes one or more groups or administrative units that have been deleted from Entra ID.
+You will receive a notification via email and in the in-app notification system to alert you. You will also see this warning on the Dashboard, on the Connectors page, and in your connector configuration.
+Why this happens
+If you add a group or administrative unit to your backup configuration which is later removed from Entra ID, we will detect this. Instead of continuing to back up data and potentially exposing you to an unpleasant surprise, we warn you so you can fix the problem.
+How to fix it
+For the backups to resume successfully, you have the following options:
+- Add these groups and/or administrative units back to Entra ID.
+- Remove these organizations from your backup configuration
+If you choose to remove the objects from the configuration, follow these steps:
+1. Open the Entra ID connector configuration.
+2. Select Remove missing objects.
+The objects will no longer be listed in the configuration.
+3. Save the new configuration.
+The next backup will be automatically scheduled.

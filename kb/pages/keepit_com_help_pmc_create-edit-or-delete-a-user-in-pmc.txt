@@ -1,0 +1,31 @@
+Source URL: https://www.keepit.com/help/pmc/create-edit-or-delete-a-user-in-pmc/
+Content type: Web page
+Last modified: 2025-03-11T17:09:27+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create, edit, or delete a user in PMC
+Partners can create Partner and SSO Admin users.
+Resellers can create Reseller and SSO Admin users.
+MSP Partners can create MSP Partner and SSO Admin users.
+Create a new user
+1. In the lower-left corner, click your account profile > Account info.
+2. Open the Users tab.
+3. In the upper-right corner, select +.
+4. Enter a username and email.
+5. Select the appropriate user role from the dropdown.
+6. (Optional) Set an expiration date.
+7. Choose whether to receive customer messages.
+8. Select Create to save the new user.
+Edit a user
+1. In the lower-left corner, click your account profile > Account info.
+2. Open the Users tab.
+3. Hover over the user and select the gear icon.
+4. Update the name, email, user role, and/or expiration date.
+5. Select Update to save your changes.
+Delete a user
+1. In the lower-left corner, click your account profile > Account info.
+2. Open the Users tab.
+3. Hover over the user and select the trash icon.
+4. Confirm the action by selecting Delete.

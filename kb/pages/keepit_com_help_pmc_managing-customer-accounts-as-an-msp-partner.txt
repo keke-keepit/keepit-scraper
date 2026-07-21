@@ -1,0 +1,52 @@
+Source URL: https://www.keepit.com/help/pmc/managing-customer-accounts-as-an-msp-partner/
+Content type: Web page
+Last modified: 2026-04-29T10:23:04+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Managing customer accounts as an MSP Partner
+A Keepit Managed Service Provider (MSP) Partner account is used to access the Partner Management Console (PMC) and for multi-account management.
+When an MSP Partner account is created, a user is automatically created, which is assigned with the MSP Partner user role. The role defines what the user is able to do in the platform. In addition to having full access to the PMC (see Using the Partner Management Console), an MSP Partner can:
+- Create, edit, and delete users for customer accounts directly in the PMC
+- Sign in to multiple customer accounts directly from the PMC using their own set of credentials
+For a full list of MSP Partner permissions, see User Roles and Permissions in PMC.
+Create a new customer account
+1. Open the Accounts page.
+2. To the right of the Accounts list, click +.
+3. Select a product.
+4. Select a service start date.
+5. Enter account details.
+6. Enter a username and email for the primary user.
+This user will be assigned the Master Admin role, granting full access to the Keepit platform. 
+7. Review the details and click Create.
+Edit a customer account
+1. Open the Accounts page.
+2. Point to the account and select ••• > Edit.
+3. Edit the account information and click Update.
+Delete a customer account
+1. Open the Accounts page.
+2. Point to the account and select ••• > Edit.
+3. Open the Account settings tab.
+4. Click Cancel service.
+5. Click Yes, cancel to schedule account deletion.
+Revive an account
+1. Open the Accounts page.
+2. Click on the disabled account.
+3. Click Revive account.
+4. Select Confirm to revive the account.
+Managing users for customer accounts
+An MSP Partner can create, edit, and delete users for customer accounts directly in the PMC.
+On the Accounts page, select the customer account. In the Users card, select the action you want to take.
+For more information on managing users, see Create, edit, or delete a user in PMC.
+Managing multiple customer accounts
+As an MSP Partner, you can sign in to customer accounts from the PMC using your MSP Partner credentials.
+Note: If either SSO and/or MFA are enabled for an account, you can still sign in to the account using your login and MSP Partner password.
+For efficient management, you can be signed in to multiple customer accounts at one time. Each sign-in automatically opens a new tab.
+Inside the Keepit platform, you will be granted Master Admin level permissions to help you manage the customer account. The only limitation is that you cannot create API session tokens. For the full list of Master Admin permissions, see Available user roles.
+Important: Whenever the Keepit platform requires you to confirm an action with a password or SSO, use your MSP Partner password or SSO.
+To sign in to a customer account:
+1. In the Accounts page, select the customer account.
+2. In the toolbar, click the Access account icon.
+3. Enter your MPS partner account password and click Access.
+A new tab will open and you will be signed in to the customer's account in Keepit.

@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/resources/cyber-insurance-webinar-key-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+From threat to defense: Webinar key takeaways on ransomware and cyber insurance
+Ransomware plagues security professionals — and, in turn, the companies that insure them — more than ever before. It has now become one of the most pressing cybersecurity challenges, with 89% of enterprises identifying it as a top-five threat to their business. This threat was the focus of a recent webinar, where Kim Larsen, CISO at Keepit, and a panel of cybersecurity experts discussed the evolving role of cyber insurance as part of a risk mitigation strategy.
+Here’s what we learned:
+1) Proactive defense is critical.
+To counter ransomware threats, organizations must focus on securing initial access points, conducting regular vulnerability assessments, and implementing compartmentalization to prevent lateral movement.
+2) Backup integrity ensures operational continuity. 
+Maintaining offsite backups that are kept physically and logically separate from the production environment, frequently checking for corruption, and routine recovery exercises are essential steps for safeguarding critical data and ensuring backup integrity.
+3) Cyber insurance can be a cornerstone of risk management. 
+Cyber insurance complements proactive defense measures, offering a financial safety net against sophisticated threats. However, securing coverage now demands rigorous proof of cybersecurity maturity as insurers increasingly demand proof of implementation for cyber insurability controls.
+Continue the conversation
+Our key takeaways document includes all the most important insights, including:
+- An overview of the top 10 cyber insurability controls
+- Future trends to watch, such as AI integration
+- Actionable strategies to build resilience
+Download our webinar handout now to enhance your resilience, gain insights into the evolving role of cyber insurance in combating ransomware, and meet the changing demands of cyber insurers with confidence.

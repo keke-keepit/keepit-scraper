@@ -1,0 +1,41 @@
+Source URL: https://www.keepit.com/help/platform-category/using-the-anomaly-detection-dashboard/
+Content type: Web page
+Last modified: 2026-06-23T22:20:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Expected range is shown for each metric. This is the range Keepit considers normal based on your last 60 snapshots (excluding anomalous ones). Values that fall outside this range are highlighted.
+Overview of affected areas
+This section breaks down the anomaly by data area showing how much data and how many items were affected in each area.
+Anomaly alert messages
+When an anomaly is detected, Keepit sends a message in-app and to your account contact. 
+How to investigate an anomaly
+1. Sign in to the Keepit platform and go to Anomaly monitoring.
+2. Select the relevant connector from the filter at the top.
+3. Select the time frame that contains the anomaly (for example, October 2025).
+4. Find the anomaly in the list and select it to open the details.
+5. Review the affected areas to understand the scope of the change.
+6. Select Analyze with Snapshot Compare to open the Snapshot Compare tool and see exactly which items were added, modified, or removed.
+Common causes of anomalies
+Anomaly detection can be triggered by a range of events — not all of them harmful. 
+Common causes include:
+Changes in backup configuration
+- Additional data enabled 
+ Adding significant data to the backup might cause a snapshot to be flagged
+- Data removed
+ Excluding a significant amount of data from the backup might cause a snapshot to be flagged
+ 
+Mass file movement
+Moving a large number of files within the tenant may create anomalies for both added and removed files, detected as separate anomalies with the same timestamp.
+Restoring from an older snapshot
+Restoring from a snapshot with a significant data difference compared to the current backup might result in an anomaly. Depending on the nature of the difference and the type of restore, the anomaly may be categorized as added, removed, or modified.
+File overwriting
+Overwriting files in the same location with unchanged IDs might cause a snapshot to be flagged. This may happen if your data is encrypted as part of a ransomware attack. 
+What to do if the change was unauthorized
+If you did not authorize the changes and suspect data loss or a security incident:
+1. Don't overwrite your current state. Avoid making changes to the affected service until you've reviewed what happened.
+2. Use Snapshot Compare to identify exactly what was deleted or modified.
+3. Restore from a snapshot taken before the anomaly to recover the affected data.
+4. Review your audit logs in Keepit to see which actions were taken and by whom.
+5. Contact Keepit support if you need help scoping the incident or recovering data.

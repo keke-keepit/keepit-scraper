@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/press/teiroi/
+Content type: Web page
+Last modified: 2025-08-14T23:54:42+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+New Total Economic Impact Study finds Keepit customers gained a 163% return on investment
+Independent study reveals Keepit's multifaceted benefits: Faster ransomware recovery, cost reduction, and increased productivity; Company launches new separate ROI calculator
+COPENHAGEN, DENMARK, Feb. 21, 2024 – Keepit, a global provider of cloud backup and recovery solutions, today announced the results attained by organizations leveraging Keepit SaaS data protection: a three-year 163% Return on Investment (ROI), a $821,000 net present value over three years, and a payback period of less than six months. These findings stem from a January 2024 study conducted by Forrester Consulting, commissioned by Keepit, which quantifies the impact of Keepit’s SaaS data protection.
+Based on interviews to better understand the return on investment of Keepit customers, the study found that for a composite organization implementation of Keepit's solutions significantly alleviated the burden on overextended IT teams by offering multiple resource-saving benefits. It reduced the impact of a ransomware attack by minimizing downtime, saved SaaS licensing expenses, enabled the organization to avoid the costs associated with on-premises backup solutions, and increased the time efficiency of IT administrators through its rapid restore capabilities, streamlining their workflow. These advantages collectively contributed to a more productive and cost-effective IT operation.
+Quick and efficient data recovery saves time and money
+"Quick and efficient data recovery has a direct correlation with an organization's financial health," states Craig Bumpus, Chief Revenue Officer for Keepit. “The TEI study reveals our clients experienced a 90% faster recovery time for vital users, affirming for us the value of Keepit's solution. This advantage extends beyond IT efficiency to direct financial savings and shields against operational and compliance risks.”
+The study highlights significant advantages, with three-year, risk-adjusted present values savings across multiple benefits:
+â Faster and more accurate recovery from a ransomware attack with a savings of $819,100.
+â Reduced SaaS licensing costs by $351,400.
+â On-premises backup cost avoidance of $134,000.
+â SaaS user productivity impact of $21,400.
+Impact of ransomware attacks are reduced
+The return on investment for Keepit customers who suffer a ransomware attack is substantial – the granularity, precision and speed with which organizations can recover their backed-up data in itself saves IT resources and keeps downtime to an absolute minimum. Keepit believes the ROI is also a result of the ability, in the event of a ransomware attack, for organizations to refuse to pay the ransom because they have access to their data regardless, without suffering massive operational disruptions.
+“The word essential is not an exaggeration in this context. If you have no backup of your data, then you are a threatened species,” stated a senior consultant, a Keepit nonprofit organization customer in the study.
+“It’s important to have the confidence to have all data available all the time. If something happens, from small instances to big ones, we are able to restore data,” said a senior system manager from an automotive association quoted in the study.
+Following the results of this study, Keepit developed and is now introducing a Return On Investment calculator, designed to provide users with tailored insights into the financial benefits of Keepit's solutions for their specific organizational needs.
+For full findings on the Total Economic Impact associated with using the Keepit Platform, download the complete Forrester TEI study here.
+About Keepit
+Keepit provides next-level SaaS data protection for companies with data stored in the cloud. Keepit is the world’s only vendor-independent cloud dedicated to SaaS data protection based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Azure AD, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

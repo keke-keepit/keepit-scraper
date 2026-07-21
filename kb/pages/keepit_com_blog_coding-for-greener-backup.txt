@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/blog/coding-for-greener-backup/
+Content type: Web page
+Last modified: 2025-08-20T00:12:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Greener backup services with efficient code
+The following is an abridged version of my recent article, “Tapping the potential of code for greener backup services,” which is published, in full, with Computer Weekly.
+The language of sustainability
+Sustainability goes beyond green energy; it includes building efficient, reliable, and adaptable systems. Using C++ as the primary programming language enables the development of storage systems that minimize resource usage while maximizing performance and reliability.
+Efficient architecture and programming
+Sustainability is about optimizing efficiency at every operational level to minimize resource consumption while maximizing performance and profitability. C++ helps create sustainable, scalable architectures, reducing environmental impact and avoiding legacy inefficiencies.
+Purpose-built architecture
+The key to sustainable data management is purpose-built architecture, tailored to address storage challenges efficiently. Deduplication, eliminating redundant data, is crucial. This approach streamlines operations, reduces complexity, and lowers resource consumption compared to virtual machines provided by third-party platforms.
+Choosing efficient programming languages
+Efficiency extends to programming languages. C++, known for its performance and low resource utilization, can yield significant energy savings compared to resource-intensive languages. Its versatility, low-level access to system resources, and support for high-level abstractions make it ideal for developing efficient and scalable software.
+Avoiding legacy inefficiencies
+Legacy systems introduce complexity and inefficiencies, increasing costs and energy consumption. By maintaining full ownership and control of the technology stack, companies can streamline operations and minimize resource overhead, prioritizing lean, purpose-built architectures that deliver long-term benefits.
+Performance as a priority
+Optimizing resource usage is essential for long-term sustainability, especially with the increasing volume of data. Meticulous design of storage architecture and code optimization are necessary. Off-the-shelf solutions may offer quick fixes, but efficient code is crucial for addressing core issues sustainably.
+The impact of code on sustainability and cost
+Adopting sustainable practices in architecture design and programming languages reduces energy consumption, predicts costs, and simplifies compliance. Techniques like incremental backup and deduplication enhance efficiency, sustainability, and profitability. C++ enables the creation of resource-efficient, fast, and environmentally sustainable storage systems.
+Conclusion
+Prioritizing responsible resource consumption and operational efficiency allows technology companies to lead in environmental stewardship without compromising profitability. By integrating sustainable practices, we can foster a more environmentally conscious tech industry for future generations.

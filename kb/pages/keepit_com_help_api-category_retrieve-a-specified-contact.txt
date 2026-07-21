@@ -1,0 +1,48 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-a-specified-contact/
+Content type: Web page
+Last modified: 2025-10-15T13:43:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve a specified contact
+This command retrieves a specified contact for the account.
+API request
+Method GET
+/users/{account_id}/contacts/{contact_type}
+Example
+Method GET
+https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka/contacts/p
+Response
+Code: 200 OK
+Response body:
+<contact>
+    <type>p</type>
+    <email>test@keepit.com</email>
+    <companyname>Company</companyname>
+    <fullname>test@keepit.com</fullname>
+    <phone>11111111111111</phone>
+    <language>en-GB</language>
+</contact>PowerShell script
+try {
+    $username = '<Token username>'
+    $password = '<Token password>'
+    $userId = '<Account ID>'
+    $contactType = 'p'  # Indicate contact type: p/e/f/l
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}")) 
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $url = "https://dk-co.keepit.com/users/$userId/contacts/$contactType"
+    $response = Invoke-WebRequest -Uri $url -Method GET -Headers $headers -ErrorAction Stop -TimeoutSec 10
+    $xmlContent = [xml]$response.Content
+    foreach ($node in $xmlContent.documentElement.ChildNodes) {
+        Write-Host "$($node.Name): $($node.InnerText)"
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}

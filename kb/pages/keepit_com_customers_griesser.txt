@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/customers/griesser/
+Content type: Web page
+Last modified: 2025-11-27T17:56:18+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Data availability and simplicity: Keepit backs up Griesserâs critical data
+Griesser is a leading provider of high quality and market-responsive solar shading solutions for windows and patios in Europe. With European regulations dictating data retention periods, and the company seeking an independent backup and recovery provider to cover its 1,750 users, Griesser deployed Keepit to secure its Microsoft 356 data, including Entra ID.â¯â¯
+Data availability and retention at the forefrontâ¯
+“Business continuity is a very important factor in production. If production were to come to a standstill, it would have far-reaching negative consequences,” explains Nico Guglielmo, Head of ICT Platform Services at Griesser. The company began its search for an independent backup solution to secure its data — and comply with data retention requirements — when the decision to replace its on-premises solution with a SaaS solution was made. The Keepit platform provides unlimited data storage and retention for its customers, allowing companies to not only fulfill regulatory requirements, but ensure data availability far into the future
+Thanks to Keepit, we were able to achieve a massive increase in data stability and availability.
+- Nico Guglielmo,
+Head of ICT Platform Services, Griesser
+Simple and easy to use platformâ¯
+Choosing Keepit’s platform boiled down to the simplicity of the platform. “Handling the backups in the platform is very simple and self-explanatory. We don't have to worry about updates, availability, maintenance or storage space,” continues Nico Guglielmo. With IT resources and budgets continuing to be a challenge for most companies, Keepit’s solution reduces manual hours spent by automating backups, simplifying maintenance and ensuring security — all in one simple to use platform.
+The manpower required for the old solution was around one day's work per week. This has been reduced to almost zero.
+- Nico Guglielmo,
+Head of ICT Platform Services, Griesser
+Independent data centers in Europeâ¯
+Keepit owns and runs its own, independent cloud and stores customer data in seven regions across the globe. For Griesser, it was paramount to store data in Europe. Cloud-native and European born, Keepit is completely independent from large hyperscalers. “We are convinced that we have chosen the right provider,” adds Nico Guglielmo.â¯â¯
+Our data is stored in an independent data center in Western Europe. This was important to us during the procurement process.
+- Nico Guglielmo,
+Head of ICT Platform Services, Griesser

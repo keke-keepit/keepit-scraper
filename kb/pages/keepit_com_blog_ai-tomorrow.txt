@@ -1,0 +1,74 @@
+Source URL: https://www.keepit.com/blog/ai-tomorrow/
+Content type: Web page
+Last modified: 2026-02-11T14:33:45+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+AI of tomorrow: What MCP enables for SaaS backup and recoveryÂ
+In our first post of a three-part AI series, we showed that control over your data is vital, especially in the present context of rampant AI deployment. The key message was this: You don’t own your data if you can’t control it, and you don’t control your data if you can’t roll it back.
+That’s the state of AI on the broadest scale. Narrowing the lens to AI in data protection — how AI is beginning to show up in backup and recovery — this blog covers Model Context Protocol (MCP) and what we’re building at Keepit as an AI integration using MCP to enable AI for backup and recovery while preserving control, data sovereignty, and resilience.
+As the second post in the series, this one focuses on the practical “today and near-term” reality: what AI can reasonably do for backup and recovery now, and how MCP makes that possible without copying data into models you don’t control. In the third and final post, we’ll look further ahead at what fully agentic AI could enable.
+What is Model Context Protocol (MCP)?
+Model Context Protocol (MCP) lets AI apps and agents call approved external tools, resources, and prompts in a standardized, auditable way. Rather than copying enterprise data into a public model, MCP invokes tools to fetch facts (metadata, read-only) from systems you already control. Inputs and outputs can be logged, reviewed, and repeated.
+In our case, AI asks the tools, the tools call Keepit’s APIs, and answers come from immutable backups — no new data store. We’ll explain the wiring below.
+From AI everywhere to AI for backup and recovery
+Across organizations, AI now assists with writing, coding, analysis, and more. Backup and recovery is a different domain with a tighter mandate: know what’s protected, explain what changed, prove it with evidence, and restore the right data from the right point in time, no matter what — all while knowing where your data has been. If actions are taken, they must be bounded and reversible. Backup is, and should be, your impenetrable last line of defense ensuring that your data stays your data.
+In this domain, the role of AI is not to become a new data store. It’s to interrogate systems of record you already control and to present answers and summaries quickly and consistently, in ways you can audit and repeat.
+What “AI for backup” can reasonably do today — and how it evolves
+To keep this grounded, let’s think in three tiers of automation that build on one another, with each step bringing new capabilities and AI advancement.
+Tier 1: Human-driven inspection
+AI helps people see and explain what’s happening, but humans decide and make changes. Typical outcomes include:
+- A current picture of protection status across services and tenants.
+- Audit summaries (who/what/when/why).
+- Anomaly triage with likely causes.
+- Guided reasoning on what to restore, from when, and in what order.
+Keepit-specific: our AI integration (using MCP under the hood) exposes read-only capabilities across connectors and their health, jobs and snapshots, audit logs, and anomaly signals. Admins can ask these questions against independent, immutable, always-hot backups.
+Tier 2: Human-in-the-loop automation (HITL)
+Think of the Iron Man suit: there’s still a person inside, but the system amplifies what they can do. AI drafts compliance reports, assembles evidence packs, proposes restore plans with preflight checks, and recommends retention and hygiene actions at super speed — but all requiring explicit approval. Every step is logged, reversible, and bounded by policy.
+Keepit-specific: this is where skills shine — plain-text workflows that standardize how jobs are analyzed, how quarterly audit reports are built (for example, GDPR mapping), and how account health is summarized, while the AI integration fetches the facts from systems you control.
+Tier 3: Fully agentic actions (the future)
+Agents act within tight boundaries: initiate restores, quarantine suspect areas, roll back to last-known-good across workloads — without a person in the loop. This tier demands rigorous guardrails (policy-as-code, approval gates, blast-radius limits, simulators and dry runs, full observability) and guaranteed reversibility grounded in immutable backups.
+We’ll explore what becomes possible — and how to do it without sacrificing independence, immutability, or rollback — in the next blog of the series, AI of the future.
+Across all tiers, the principle from the first blog holds: Data stays in systems you control; answers and actions remain explainable and reversible. The key to safely deploying AI at any level is this: If you can’t roll it back, you don’t control it.
+One way to wire this up
+We’ve utilized MCP as a way for AI apps and agents to call specific tools — so that businesses can avoid the risks associated with copying enterprise data into a model where they can’t control their data, among other things.
+In Keepit’s AI integration, MCP tools sit in front of Keepit’s API surface — more than 200 endpoints across inventory, connector health, job history, snapshot ranges, audit logs, and anomaly signals. The integration gives AI clients a consistent way to use those APIs to interact with backup metadata.
+The authoritative source of truth remains in our independent, immutable backups. You never give up control over your data; the AI client calls tools to fetch facts and present them in a read-only format. At a high level, a request flows like this:
+AI client ↔ Keepit AI integration (MCP) ↔ Keepit APIs ↔ backup metadata
+The client interprets a question, selects a tool, the tool hits the relevant API or APIs, and the result comes back in a structured, explainable format. You can mix tool calls with prompts: Tools do the heavy lifting; prompts shape how results are summarized.
+For example, you can use an MCP-enabled Microsoft tenant, then combine it with Keepit’s AI integration via MCP, and use a Salesforce MCP — operating across these sources without moving data into the model.
+What Keepit's MCP-based AI integration enables today
+Our initial surface is read-only by design. It focuses on low-risk, high-value queries admins already ask, such as:
+- Reviewing connector posture and highlighting unhealthy states with likely root causes to check (for example, misconfiguration).
+- Inspecting jobs and snapshot ranges to explain recent failures.
+- Pulling scoped audit logs and assembling summaries suitable for governance stakeholders.
+To make that easier, we’ve defined a set of prompts available in our AI integration preview program, including, but not limited to:
+Estate overview and health
+- Totals and inventory: Count all connectors, list their GUIDs, and show each connector’s current health.
+- Snapshot freshness: Highlight connectors with latest snapshot older than 24 hours; also show latest snapshot timestamp and “hours ago,” sorted by staleness.
+Audit and compliance
+- Broad review: Pull prior 90 days (P90D) of audit logs; summarize by action type, actor, and failures; highlight spikes and unusual actors.
+Executive and periodic reports
+- Quarterly compliance: Summarize protected connectors, worst snapshot staleness, job failure trend, and notable audit events.
+Taken together, using our MCP-based AI integration against the API surface makes common admin tasks faster, safer, and easier to audit:
+- Faster analysis of backup statistics — connectors, workloads, job success and failure, snapshot ranges.
+- Easier summarization of audit logs — who/what/when/why synthesized into executive summaries and action lists.
+- Rapid analysis of anomaly detection output — explain suspicious bursts of deletes, encryptions, or permission changes.
+- Better health and status assessment — surface unhealthy connectors, likely causes, and recommended checks.
+From prompts to procedures: skills
+Some MCP-aware clients now support “skills” — plain-text workflow descriptions that group and describe tasks so you can do more complex things than ad-hoc prompts. They’re useful even without MCP (defaults include generating .doc, .pdf, and .ppt files), and with MCP they can orchestrate tool calls as part of the flow.
+We’re drafting Keepit-specific skills for job history analysis, compliance-audit logs, and account health. Under the hood, a skill is a simple text file: a short overview, a handful of keywords, and then a detailed workflow that spells out time periods, frameworks, classification rules, and expected outputs.
+When you run a skill, the client uses Keepit’s AI integration with MCP to fetch tenant context (for example, accounts and deployed connectors), then follows the workflow. A compliance-audit log skill, for instance, can assemble a quarterly GDPR audit report for a Keepit tenant with scope and methodology, event categorization, mapping to relevant articles, and concrete recommendations — producing evidence legal and compliance teams can review and keep.
+When we eventually enable actions (for example, restore workflows), they will be bounded, approved, auditable, and reversible. Until then, inspection and explanation have already moved the needle without expanding the blast radius.
+Carrying forward the control theme
+Nothing here replaces the fundamentals from blog one, it operationalizes them for AI in backup and recovery:
+- Independence: Queries hit a vendor-neutral backup, outside production’s blast radius.
+- Immutability: Results are grounded in tamper-proof history and point-in-time truth.
+- Rollback: Insights point directly to exactly what to restore and from which point in time.
+- Auditability: Tool calls, parameters, and outputs are loggable and reviewable, so you can explain and defend decisions.
+The outcome is straightforward: AI helps you move faster without giving up the ability to explain and reverse changes. Our AI integration means you know where your data goes and has been stored, helping ensure digital and data sovereignty.
+What to expect next for Keepit AI integration and MCP
+Our AI integration is a practical way to let AI participate in backup and recovery without moving data or giving up control. We’ll expand the tool coverage and skill library where admins and customer insight see the most value. Any move into actions will retain the same discipline: guardrails, approvals, and easy rollback.
+In the third and final blog of this AI series, we’ll explore what becomes possible next as AI matures in data protection — and how to pursue it without compromising control, independence, or the ability to roll back changes.
+For more information on our AI preview program for existing customers (or to join), visit the Keepit AI preview program.

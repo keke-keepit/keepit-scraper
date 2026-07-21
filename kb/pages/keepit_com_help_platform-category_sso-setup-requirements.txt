@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/help/platform-category/sso-setup-requirements/
+Content type: Web page
+Last modified: 2026-06-23T23:07:40+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+SSO setup requirements
+To set up SSO in Keepit, you must first configure your identity provider to prepare for SSO access and register Keepit as a trusted party. During this process, you will also obtain the information needed to configure SSO in Keepit.
+Keepit supports both Service Provider Initiated (SP-initiated) SSO and Identity Provider Initiated (IdP-initiated) SSO. This means that you can sign in to Keepit with SSO through our system (using https://dk-co.keepit.com/desktop/signin or a link to one of our other environments) or by using a web application in the Identity Provider's SSO page (e.g., using https://myapps.microsoft.com/).
+If you are using Microsoft Entra for SSO, note that you need to have a Premium subscription in order to add a non-gallery SAML-based application. If you are using a different identity provider, check that sure it supports SAML 2.0.
+Before configuring SSO in Keepit, make sure you have the following:
+- Identity Provider URL (IDP URL) – This is the SSO sign-in URL of your identity provider, which will be used in the Keepit SSO configuration. If you are using Microsoft Entra, the IDP URL is called Login URL or SAML Single Sign-On Service URL.
+- Certificate (Base64) of your identity provider – The content of this certificate will be used in the Keepit SSO configuration. You must download the certificate while you configure your identity provider.
+Note: While setting up SSO, we recommend creating an SSO Admin. This user role will always have access to the SSO configuration in case a Master Administrator is locked out. To create this user, you will need to provide it with an email address and password.

@@ -1,0 +1,34 @@
+Source URL: https://www.keepit.com/press/you-are-still-responsible-for-your-data/
+Content type: Web page
+Last modified: 2025-08-20T00:05:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+You are still responsible for your data
+Beware of tempting sales pitches for the cloud: You are still responsible for your data
+Unless you have been sleeping under a rock, you are probably aware that more and more organizations are beginning to use the cloud in connection with applications, servers or popular work tools like Microsoft Office 365, Teams and others.
+And it is happening fast. Microsoft reached more than 200 million monthly Office 365 users with over 3 million new users added every month since November 2015. Communication platforms with video conference capabilities, such as Microsoft Teams, have seen the most recent growth due to the current COVID-19 pandemic.
+In April, the amount of Teams users grew with more than 70 percent to 75 million daily users – Italy saw a growth of 776 percent.
+A lot of organizations are making the move towards the cloud, including Microsoft, Google and even Salesforce, the world’s most popular CRM platform and a SaaS platform ever since the dot.com bubble.
+Frederik Schouboe is the CEO and cofounder of the Danish IT security organization Keepit, which delivers cloud-based backup solutions for corporate data. Illustration: Keepit
+Their sales pitches focus on stability, 24/7 data accessibility and not least ‘scalability’, which helps many organizations adjust quickly to growth or unforeseen circumstances, such as COVID-19. In my opinion, the entire cloud phenomenon is one of the most important modern industrial revolutions, and it will generate growth for many years into the future as more and more organizations discover all of its benefits.
+The cloud is more secure than on-premise, but…
+The cloud providers also guarantee security and without a doubt, Microsoft’s and Google’s data centers deliver some of the world’s best security. They are much more secure than whatever solution your organization might build in your own server room.
+This does not mean that your data are protected when something happens to them, however. If you read the fine print, organizations are still responsible for the integrity of their own data – and many organizations are unaware of this. This means that you are completely on your own if your organization is targeted by a ransomware attack affecting your cloud data.
+This was exactly what happened for Maersk in the 2017 NotPetya cyberattack. While Maersk had full synchronization of all their data, including their Active Directory, they had no point in time backup if all servers were to crash simultaneously. NotPetya caused this, meaning that Maersk was left completely paralyzed without a central backup.
+The rest of us are not Maersk, and we cannot just call Microsoft’s CEO – and even with this option available, it took several months for Maersk to recover from the attack. The SaaS providers are only responsible for maintenance of their service – not the security of your data. This responsibility is still yours, just like it used to be back when you used software with local application installations.
+Below you can find helpful and easy-to-follow advice on how to protect your cloud data right from the start.
+1: Know your cloud provider’s limitations
+If you were to put all of your belongings into a storage hotel, I am sure that you would be very curious about a lot of things: How are my things protected, who takes care of them, will I always have access to them, what happens if everything burns and are you insured?
+You should ask the exact same questions when you consider cloud platforms. Microsoft, for instance, offers 99.9 percent uptime and the highest physical and digital security level in the world. But when that 0.01 happens, and you cannot access data critical to your organization, no one will help you. Or even worse: If you lose data due to e.g. a hacker attack or accidental data deletion, Microsoft will not be able to provide you with an updated backup copy of your data.
+Therefore, you need to be aware of all the platforms’ IT security limitations. Only then will you be able to build up an acceptable security level.
+2: Build the first barricade: Your employees
+Generally, the security level among the cloud platforms is very high but the chain is no stronger than its weakest link.
+It only takes one phishing mail to paralyze the entire organization. This means that you need to incorporate proper security policies for your employees’ access to cloud data, the way they open mail attachments and so on. It may sound terribly trivial, but many successful cyberattacks exploit weaknesses among the organization’s employees.
+You will also need proper user control. Organizations manage up to thousands of employees and users with access to cloud applications and services, each of them with different roles, rights and needs.
+And remember to check their passwords. In 2019, ”12345” was yet again one of the most commonly used passwords out there…
+3: Cloud data backup
+It may be obvious for a backup guy to recommend that you back up your data. But in the end, the most efficient safeguarding of your data is to frequently make physical backups in another location. A cloud-focused version of the traditional 3-2-1 plan with three copies, one of them off-site – in a different location from your SaaS provider – is recommended.
+Microsoft has a trash bin feature similar to the one on your desktop; but files in it will be deleted after 30 days, if you do not delete them yourself, and you will not be able to access any backups of them. The same goes for platforms like Google Drive and Dropbox.
+Therefore, you need a backup – no matter whether it is on-premise or supplied by a provider. The best backup you can get is the one you actually make.

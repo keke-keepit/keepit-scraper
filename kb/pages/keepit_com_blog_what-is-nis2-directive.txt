@@ -1,0 +1,75 @@
+Source URL: https://www.keepit.com/blog/what-is-nis2-directive/
+Content type: Web page
+Last modified: 2025-08-20T02:48:38+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What is the NIS2 Directive? Here's what you need to know
+On November 10, 2022 (published on 27 December 2022), the EU Parliament adopted new legislation (the NIS2 Directive) to strengthen EU-wide cybersecurity resilience which includes, among other requirements, a crystal-clear requirement for backup and disaster recovery.
+The Network and Information Security Directive (NIS2) is a response to the increased exposure of Europe to cyberthreats and the fact that the more interconnected we are, the more we are vulnerable to malicious cyber activity. The regulators hereby set consistent rules for companies and ensure that law enforcement and judicial authorities can work effectively and raise the awareness of EU citizens on cybersecurity.
+Keepit supports the EU initiative on protecting our digital infrastructure, our sensitive business data, as well as our personal data.
+What is the purpose of the NIS Directive?
+In comparison to the first NIS directive, the purpose of the NIS2 Directive is to expand the requirements and sanctioning of cybersecurity to harmonize and streamline the level of security across member states—and with tougher requirements for several sectors.
+The European Parliamentary Research Service (EPRS), in a briefing on the NIS2 Directive, tells that due to the fact that cyberattacks are quickly growing in number worldwide, as well as increasing in scale, cost and sophistication, “the Commission has submitted this proposal to replace the original NIS Directive and thereby strengthen the security requirements, address the security of supply chains, streamline reporting obligations, and introduce more stringent supervisory measures and stricter enforcement requirements.”
+So what has lead to the need for more requirements? According to the WEF Global Risks Report 2023, it is because:
+The ever-increasing intertwining of technologies with the critical functioning of societies is exposing populations to direct domestic threats, including those that seek to shatter societal functioning.
+Who does NIS2 apply to? Which sectors and entities?
+The directive applies particularly to two categories, with those two being “essential” entities and “important” entities.
+The following are classified as essential sectors:
+- Energy (electricity, district heating, oil, gas, and hydrogen)
+- Transport (air, rail, water, and road)
+- Banking (credit institutions)
+- Financial market infrastructures (marketplaces)
+- The health sector (healthcare providers and manufacturers of pharmaceuticals, etc.)
+- Drinking and wastewater
+- Digital infrastructure (including providers of cloud services, data centers, domain name systems (DNS), top-level domain registries (TLD) and public communication networks)
+- Information and communication service providers (ICT services)
+- Providers of managed services and managed security services
+- Public administration
+- Space
+The "important entities" includes public and private entities within:
+- Postal and courier services
+- Waste management
+- Manufacture, production, and distribution of chemicals
+- Manufacture, processing, and distribution of food
+- Production of i.a., electronics, machinery, and motor vehicles
+- Providers of certain digital services (online marketplaces and search engines and social networking services)
+- Research (higher education institutions and research institutions).
+If you are an entity that provides a service that is essential for the maintenance of critical societal and/or economic activities—for example, a transport company—you are, in the eyes of the law, classified as an “operator of essential services.”
+This classification will entail a lot of pressure on your technical and organizational structure and capabilities due to the extensive risk management security you are required by law to implement and maintain.
+NIS2 requirements, risk management, and security measures
+The current NIS Directive requires the covered entities to take appropriate and proportionate technical and organizational measures to manage security risks and limit the damage in the event of a security incident.
+The NIS2 Directive continues this requirement and sets out additional requirements for appropriate security measures, which must now include as a minimum:
+- Policies for risk analysis and information security
+- Incident handling
+- Business continuity, such as backup management and disaster recovery and crisis management
+- Supply chain security, including supplier management/security
+- Security in connection with the acquisition, development, and maintenance of network and information systems
+- Policies and procedures for assessing the effectiveness of measures to manage cyber security risks
+- Guidelines for basic "computer hygiene" and cyber security training
+- Policies for Use of Cryptography and Encryption
+- Employee security, access control, and asset management
+- Securing internal communication systems.
+Negotiating and navigating the NIS2 Directive
+A dedicated backup and data management solution can help your organization implement resilient data protection and management services for your SaaS workloads, such as Microsoft 365 and Salesforce.
+Keepit offers a suite of services for your SaaS data which can help you comply with the legal requirements of the NIS2 Directive with the overall goal of protecting your business continuity.
+However, you need to decide which functions are essential and determine how ready you are to maintain those critical functions after an emergency or a disruption—and finally allocate the available budget accordingly. Read our article: Data Compliance Makes Third-Party Security a Must.
+Governance
+With the NIS2 Directive, the governance provisions are tightened as the responsibility for violation of the NIS2 Directive is not only imposed on the legal entity but on the management itself.
+Thus, management must approve the risk management measures taken by the entity regarding cybersecurity and oversee implementation and maintenance. What’s key to a backup strategy? Read our blog post on the 3-2-1 backup principle.
+To ensure sufficient competencies, management members must regularly follow specific courses to obtain the necessary knowledge, insight, and skills to understand and assess cybersecurity risks and management practices and their impact on the entity’s operations.
+Supervision, enforcement, and sanctions
+According to the NIS2 Directive, the competent national authorities must oversee compliance with the directive's security and notification requirements based on specific incidents—and the competent authorities are empowered to issue certain orders.
+What are the costs of non-compliance?
+The competent authority can, among other things, issue warnings and orders and (particularly materially) temporarily suspend or request that a person with management responsibility (CEO or another senior member of management) be temporarily suspended from exercising management functions in the entity.
+The NIS2 Directive also tightens the sanction options. In addition to having to ensure that violations are punished with sanctions that are effective, proportionate to the violation, and have a dissuasive effect, the competent authority in the Member States now has the concrete possibility to impose administrative fines if the entity does not comply with the directive's requirements for risk management measures or reporting obligations.
+The administrative fines are as follow:
+Essential entities – as a minimum – can be fined up to a maximum of 10 million EUR or 2% of the company's total global annual revenue.
+Important entities – as a minimum – can be fined up to a maximum of 7 million EUR or 1.4% of the company's total global annual revenue.
+When does it begin? Timeline and important dates
+The Commission will adopt acts setting the requirements for the measures by October 17, 2024. Want to know more about the important dates and the timeline surrounding NIS2 entering into force? Go to https://www.nis-2-directive.com/ to learn more about the important dates.
+What are the next steps? Educate with further reading
+We recommend starting to educate yourself and your organization on the legal requirements and to start mapping for compliance gaps with the requirement for risk management and risk measures. You can read the EU Parliament briefing of the legislation.
+For those wanting an in-depth look into the matter, the European Parliament has shared the full texts adopted regarding this proposal, which can be read in PDF format.
+Beyond the NIS2 Directive, Keepit delivers a solid return on investment beyond the critical compliance requirements. Check out our post about the return on investment (ROI) of a cloud backup solution.

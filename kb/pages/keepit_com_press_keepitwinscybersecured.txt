@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/press/keepitwinscybersecured/
+Content type: Web page
+Last modified: 2025-08-20T02:24:09+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit platform triumphs at Security Todayâs CyberSecured Awards 2024
+Keepit was honored in three categories: Cloud Security, Data Loss Prevention and Disaster Recovery/Business Continuity.
+COPENHAGEN, DENMARK, December 13, 2024 – Keepit, a global provider of a comprehensive cloud backup and recovery platform, is proud to announce it has been recognized at the prestigious 2024 Security Today CyberSecured Awards. The company secured top honors in three categories: Cloud Security, Data Loss Prevention and Disaster Recovery/Business Continuity.
+· WINNER #1 in the category: Data Loss Prevention
+· WINNER #2 in the category: Disaster Recovery/Business Continuity
+· WINNER #3 in the category: Cloud Security (Tie)
+Security Today, a leading source for security professionals, unveiled the winners in a press release, recognizing Keepit's outstanding contributions to the cybersecurity landscape. The CyberSecured Awards celebrate innovation and excellence in cybersecurity solutions.
+“The Keepit platform helps companies future-proof their businesses against ever-increasing cyberthreats. With our industry-leading backup and recovery capabilities, companies can rely on continued access to business-critical data, even if they’re targeted by cyberattacks. We’re honored that the Keepit platform was recognized by Security Today’s CyberSecured Awards”," says Michele Hayes, CMO at Keepit.
+Keepit's commitment to innovation, security, and reliability has positioned the company as a leader in the cybersecurity industry. The Keepit platform was recognized in four categories at the Top Infosec Innovator 2024 Awards, including “Cutting Edge Cloud Backup”, “Most Innovative Cyber Resilience”, “Hot Company Data Security Platform” and “Hot Company Ransomware Protection of SaaS Data”.
+About Keepit:
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over ten thousand companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on LinkedIn.

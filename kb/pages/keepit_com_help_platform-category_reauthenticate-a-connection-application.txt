@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/help/platform-category/reauthenticate-a-connection-application/
+Content type: Web page
+Last modified: 2026-06-23T20:58:49+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Reauthenticate a connection application
+To create an application, you must authenticate it with a proper service account, which grants Keepit the permissions it needs to access your data. We retain these permissions and continues to back up your data as long as the authentication remains valid.
+After the initial authentication, you may need to reauthenticate your application. The most common reasons include:
+- Your authentication token is expired or revoked
+- Keepit is missing permissions needed to perform backups or restores
+- You want to remove excess permissions from your application
+- You granted Keepit permissions using the wrong service account
+Reauthenticate an application
+1. In the lower-left corner, click your account icon > Account info.
+2. Select the Connections tab.
+3. Click the connection associated with the application.
+4. Hover over the application in the table, and click the key icon.
+This action will take you to the sign-in page, where you must enter the credentials of an appropriate admin account.
+5. The next steps depend on the reason for reauthentication:
+- If your authentication is no longer valid, signing in will reverify the service account and renew the connection between Keepit and your organization.
+- If you are reauthenticating due to missing or updated permissions, after signing in, you will be prompted to grant the updated set of permissions required by the application.

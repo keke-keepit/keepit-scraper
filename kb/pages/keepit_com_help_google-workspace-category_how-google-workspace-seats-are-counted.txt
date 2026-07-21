@@ -1,0 +1,44 @@
+Source URL: https://www.keepit.com/help/google-workspace-category/how-google-workspace-seats-are-counted/
+Content type: Web page
+Last modified: 2026-06-18T10:04:29+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How Google Workspace seats are counted
+This article explains how Keepit counts seats for Google Workspace connectors, including which license types map to each seat category.
+How seats are counted
+For Google Drive and Gmail, Keepit counts only the users you select in the configuration window as seats. Users not included in your selection aren't counted.
+Each user is assigned a seat type based on their Google Workspace license. Keepit recognizes three seat categories: Light, Education, and Full.
+Archived user licenses are always excluded from the seat count. For more information, see below.
+Light seats
+Users with the following licenses count as Light seats:
+- Google Workspace Business Starter
+- G Suite Basic
+- G Suite Lite
+- Google Workspace Frontline
+- Google Workspace for Nonprofits
+- Google Workspace Essentials (formerly G Suite Essentials)
+- Google Workspace Enterprise Essentials
+Education seats
+Users with the following licenses count as Education seats:
+- Google Workspace for Education Fundamentals
+- Google Workspace for Education Standard
+- Google Workspace for Education Standard (Extra Student)
+- Google Workspace for Education Plus (Extra Student)
+- Google Workspace for Education Plus — Legacy (Student)
+- Google Workspace for Education: Teaching and Learning Upgrade
+- Google Workspace for Education Plus (Staff)
+- Google Workspace for Education Standard (Staff)
+- Google Workspace for Education Plus
+- Google Workspace for Education Plus — Legacy
+Full seats
+Any license not listed under Light or Education counts as a Full seat.
+Archived users
+The following license types are excluded from seat counts entirely:
+- Google Workspace Enterprise Standard — Archived User
+- Google Workspace Enterprise Plus — Archived User
+- Google Workspace Business Starter — Archived User
+- Google Workspace Business Standard — Archived User
+- Google Workspace Business Plus — Archived User
+- G Suite Business — Archived User

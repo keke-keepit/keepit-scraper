@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/press/keepit-wins-globee-award/
+Content type: Web page
+Last modified: 2025-08-14T23:55:01+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit triumphs at the 20th Annual 2024 GlobeeÂ® Awards for Cybersecurity
+Copenhagen, Denmark – March 2024â¯– Keepit, a global leader in SaaS data protection, is thrilled to announce its win at the 20th Annual 2024 Globee Cybersecurity Awards. The Globee® Awards, a leading authority in recognizing business excellence globally, has honored Keepit Backup and Recovery for Azure AD (Entra ID) for outstanding innovation and effectiveness in cybersecurity.
+The Globee Cybersecurity Awards spotlight the achievements of companies and individuals excelling in risk management, threat detection, cloud security, data privacy, and beyond. This accolade underscores our commitment to securing digital infrastructures and safeguarding against cyber threats.
+Keepit's winning product, Keepit Backup and Recovery for Azure AD (Entra ID), was awarded the Gold Globee for Azure Cloud Security. Keepit’s groundbreaking solution addresses critical gaps in cloud security strategy by offering the most extensive coverage of Azure AD cloud objects on the market.
+San Madan, President of Globee Awards, commends the winners: “Congratulations to the 2024 victors for their pivotal role in fortifying our digital world. Your dedication and ingenuity not only contribute to advancing cybersecurity but also inspire the community to strive for excellence. We’re honored to celebrate your success.”
+“Keepit is committed to closing critical gaps in our customer’s security strategies, and we’re very proud to receive this recognition from Globee Awards. Entra ID is the control plane to the Microsoft 365 environment and without adequate safeguards, companies are more vulnerable to ransomware attacks and other breaches. With our solution, customers can rest easy knowing their data will always be accessible”, says Michele Hayes, CMO at Keepit.
+Last year, Keepit Backup and Recovery for Entra ID was awarded with "Risk management solution provider of the year"â¯from 2023 CyberSecurity Breakthrough Awards;â¯"2023 Product of the Year"â¯from Redmond Magazine; and theâ¯“Data Loss Prevention” and “Disaster Recovery/Business Continuity”â¯categories from Security Today’s CyberSecured Awards.
+About the Globee Awardsâ¯ 
+Globee Awards are conferred in nine programs and competitions: the Globee® Awards for American Business, Globee® Awards for Business, Globee® Awards for Customer Excellence, Globee® Awards for Cybersecurity, Globee® Awards for Disruptors, Golden Bridge Awards®, Globee® Awards for Leadership, Globee® Awards for Technology, and the Globee® Awards for Women In Business. Learn more about the Globee Awards atâ¯https://globeeawards.com 
+About Keepit
+Keepit provides next-level SaaS data protection for companies with data stored in the cloud. Keepit's vendor-independent cloud dedicated to SaaS data protection is based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Azure AD, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. For more information visit www.keepit.com or follow Keepit on LinkedIn.

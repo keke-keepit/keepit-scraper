@@ -1,0 +1,36 @@
+Source URL: https://www.keepit.com/help/salesforce-category/recover-salesforce-files-and-attachments/
+Content type: Web page
+Last modified: 2025-12-03T16:24:36+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Recover Salesforce files and attachments
+Files and Attachments are backed up in separate root folders found alongside the Objects folder.
+The Attachments folder contains files attached to records in Salesforce Classic. These items cannot be restored individually.
+The Files folder contains files attached to records in Lightning Experience and those that uploaded to Files in a Salesforce organization.
+Only items in the Files folder can be restored in place. Attachments can be downloaded or restored with a record.
+Restore Salesforce files with simple restore
+Simple restore means the file will be associated with its original owner and restored to its original location. If the owner is deactivated in Salesforce, the integration user will become the new file owner.â¯
+1. In your connector, find the file you want to restore.
+2. Optional: If you want to restore a file from an earlier point in time, select the Snapshots Viewer, and then choose the appropriate snapshot.
+3. Point to the file and click the Restore icon.
+4. Select Simple Restore and click Next.
+5. Review the summary and click Restore.
+Restore Salesforce files with advanced restore
+Advanced restore offers you the ability to assign a specific owner to the file and associate it with a record.
+1. In your connector, find the file you want to restore.
+2. Optional: If you want to restore a file from an earlier point in time, select the Snapshots Viewer, and then choose the appropriate snapshot.
+3. Point to the file and click the Restore icon.
+4. Select Advanced restore and then choose what to do if the file still exists in Salesforce. Click Next.
+5. Select whether to assign a specific user as the file owner, and then click Next:
+- If no user is selected, the file will be associated with the original owner.â¯If the file owner is deactivated in Salesforce, the integration user will become the new owner of the file.
+- To assign a specific user, select them from the list. The list will only show users that have not been deactivated.
+6. Select whether to associate the file to the specific records and click Next.
+- If this option is enabled, select the desired records from the list.
+7. Review the summary and click Restore.
+Recover Salesforce attachments
+To recover attachments, you have two options:
+- Download the attachment and manually upload it back to Salesforce
+- If the attachment is attached to a record, restore the record to automatically bring back the attachment.
+Inside the Objects folder, there is also an Attachments folder. The items are the same as those in the Attachments root folder but here the items only contain the metadata of the attachments. While these items can be restored, no content will be recovered.

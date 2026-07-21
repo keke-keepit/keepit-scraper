@@ -1,0 +1,75 @@
+Source URL: https://www.keepit.com/help/jira-category/jira-backup-coverage/
+Content type: Web page
+Last modified: 2026-06-22T16:20:39+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Jira backup coverage
+The table below shows the detailed backup and restore coverage of the latest version of Keepit for Jira Cloud.
+The table below shows the detailed backup and restore coverage of the latest version of Keepit for Jira Cloud.
+| Element | Backup Supported | Restore Supported | Comment | 
+|---|---|---|---|
+| Projects | |||
+| Project | â | â | |
+| Project avatar | â | â | |
+| Project components | â | â | |
+| Project features | â | â | |
+| Project properties | â | â | |
+| Project property keys | â | â | |
+| Project roles | â | â | |
+| Project versions | â | â | |
+| Issues | |||
+| Issue | â | â | |
+| Issue Attachments | â | â | |
+| Issue comments | â | â | |
+| Issue fields | â | â | |
+| Issue field configurations | â | â | |
+| Issue field configuration schemes | â | â | |
+| Issue links | â | â | |
+| Issue link types | â | â | |
+| Issue priorities | â | â | |
+| Issue property keys | â | â | API limitation | 
+| Issue remote links | â | â | |
+| Issue resolutions | â | â | |
+| Issue security schemes | â | â | |
+| Issue types | â | â | |
+| Issue type schemes | â | â | |
+| Issue type screen schemes | â | â | |
+| Issue votes | â | â | API limitation | 
+| Issue watchers | â | â | |
+| Issue worklogs | â | â | |
+| Workflows | |||
+| Workflow | â | â | |
+| Workflow transition rules | â | â | API limitation | 
+| Workflow schemes | â | â | |
+| Workflow scheme project associations | â | â | |
+| Workflow scheme drafts | â | â | API limitation | 
+| Workflow transition properties | â | â | API limitation | 
+| Screens | |||
+| Screen | â | â | |
+| Screen tabs | â | â | |
+| Screen tab field | â | â | |
+| Screen schemes | â | â | |
+| General | |||
+| Sprints | â | â | |
+| Boards | â | â | |
+| Dashboards | â | â | |
+| Plans (Roadmaps) | â | â | |
+| Filters | â | â | |
+| Automation/Rules | â | â | API limitation | 
+| Permission schemes | â | â | |
+| Notification schemes | â | â | |
+| Priority schemes | â | â | |
+| Statuses | â | â | |
+| Time tracking | â | â | |
+| Service desk organizations | â | â | |
+| Users | â | â | API limitation | 
+| Groups | â | â | |
+| Triggers | â | â | API limitation | 
+| Conditions | â | â | API limitation | 
+| Actions | â | â | API limitation | 
+| Forms | â | â | API limitation | 
+| Work item hierarchy | â | â | API limitation | 
+| Compass components | â | â | API limitation | 
+For a list of coverage details, please download this document.

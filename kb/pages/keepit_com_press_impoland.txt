@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/press/impoland/
+Content type: Web page
+Last modified: 2025-12-15T11:10:43+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit and Ingram Micro form strategic relationship in PolandÂ
+COPENHAGEN, DENMARK — December 10, 2025 — Keepit, the vendor-independent, cloud-native data protection provider, today announced a strategic go-to-market relationship in Poland with Ingram Micro, a leading business-to-business (B2B) platform company for the global technology ecosystem. This collaboration aims to expand Keepit’s reach across the Polish IT channel and make robust SaaS data protection accessible to Polish resellers, MSPs, and MSSPs.
+Ingram Micro will support the marketing, distribution, and technical enablement of Keepit’s backup and recovery solutions in Poland. Local channel partners will gain direct access to Keepit’s offerings through Ingram Micro’s existing infrastructure, complemented by regional support, financing options, and partner training.
+“We see significant demand for European, scalable SaaS data protection in Poland, and working with Ingram Micro lets us meet that demand faster,” said Jan Ursi, VP of Global Channels at Keepit. “With this new agreement, we make it easier for Polish channel partners to equip their customers with a resilient, independent cloud backup solution.”
+Ingram Micro’s involvement in sales, support, and partner enablement will help streamline adoption of Keepit’s cloud platform among local partners. The agreement also includes flexible purchasing and bundling options to suit the Polish market.
+“The need for secure, scalable SaaS data protection is more critical than ever,” said Robert Stockford, Director of Cyber Security, EMEA, Ingram Micro. “Expanding our Network and Security portfolio with Keepit’s cloud-native data protection solution will enable our shared channel partners in Poland to help their customers safeguard essential business applications, boost their cyber resilience, and future-proof their data protection.”
+Keepit’s architecture ensures that customer data remains accessible even if the original SaaS environment suffers failure or interruption. In Poland, where data regulations and security demands are rising, Keepit’s immutability and independent infrastructure provide a compelling advantage.
+This agreement further amplifies the impact of the Keepit Partner Network, active across EMEA, North America, and ANZ, which equips resellers, MSPs, and distributors with tools, training, and support to deliver state-of-the-art SaaS data protection.
+To become a Keepit partner in Poland, reach out to partner@keepit.com or visit keepit.com/partners
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over 20,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

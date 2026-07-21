@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/service-guide/
+Content type: Web page
+Last modified: 2026-06-16T14:19:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Service Guide
+Below, you can find information about Keepit's Service Guide. In our Service Guide, you will find documents that serve as a guide to understanding the delivery of Keepit's dedicated SaaS data protection solutions for customer on a termed and consumption subscription model.
+Termed Service Guide
+Last updated April 2026
+This link contains the Service Guide for all termed customers for the delivery of Keepit's dedicated SaaS data protection solutions.
+Consumption Service Guide
+Last updated June 2026
+This link contains the Service Guide for all consumption customers for the delivery of Keepit's dedicated SaaS data protection solutions.

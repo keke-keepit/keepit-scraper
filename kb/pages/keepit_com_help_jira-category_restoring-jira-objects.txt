@@ -1,0 +1,82 @@
+Source URL: https://www.keepit.com/help/jira-category/restoring-jira-objects/
+Content type: Web page
+Last modified: 2026-01-27T10:34:38+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restoring Jira objects
+This guide explains how to restore Jira projects, issues, and configuration entities using your connector. All restore operations follow the same basic flow, with some behavior depending on the object type.
+Before you begin
+Before restoring any Jira object, make sure you:
+Use a dedicated user account
+We recommend using a dedicated Jira user (not an Atlassian service account) to avoid permission restrictions and unexpected access changes.
+Verify that the required permissions are in place
+Ensure that the user who created the connector has all necessary permissions to restore the selected entity.
+Review any object-specific limitations
+- Projects: Only company-managed projects can be restored. Team-managed projects cannot be restored due to API limitations.
+- IDs, keys, and timestamps: Jira does not allow recreating entities with their original IDs, keys, or creation dates. Restored objects may have new values.
+- Some objects may not restore perfectly due to Jira API limitations.
+For more details, please refer to the coverage details page.
+General restore steps (applies to all object types)
+1. Open the Connectors page and select the connector you want to work with.
+2. Find the object you want to restore.
+3. (Optional) To restore an earlier version:
+- Click the Snapshot Viewer icon.
+- Choose an earlier snapshot to view historical data.
+4. Select ••• > Restore.
+- Tip: Select ••• > Object metadata to preview attributes, relationships, and differences before restoring.
+5. Confirm the restoration by clicking Yes.
+Note: To restore multiple items at once, select the objects and click Restore in the top toolbar.
+Important
+After a restore, some objects may not appear exactly as they originally did.
+This is expected and caused by Jira API restrictions. 
+Restoring Jira Projects
+Restoring a project will recreate the project and update all relevant attributes, including IDs and keys.
+Requirements
+- Project must be company-managed.
+- Connector user must have required permissions for project creation and administration.
+Restoring Jira Issues
+Restoring an issue recreates it with new IDs and new issue keys.
+What to expect
+- Linked issues and child issues are restored.
+- However, any workflows, automations, integrations, or other processes that rely on the original issue IDs or keys will not automatically update.
+ You must update these references manually after the restore.
+- Some fields may not restore exactly due to Jira API limitations.
+Restoring Project-Level Entities
+The following items all follow the same restore logic:
+- Project Components
+- Project Features
+- Project Roles
+- Project Releases
+- Project Properties
+- Project Categories
+Restoring User & Group Entities
+You can restore:
+- User Properties
+- Groups
+Restoring Global or Cross-Project Entities
+This includes:
+- Filters
+- Dashboards
+- Boards
+- Plans
+Restoring Work Item Settings
+Inside the Work Items Settings folder, you will find Jira configuration objects such as:
+- Fields
+- Screens
+- Schemes
+- Statuses
+- Other global or project-level configuration items
+These can all be restored individually.
+Example: Restoring a Field
+- Open the connector.
+- Locate the field you want to restore.
+- (Optional) Choose an older snapshot in the Snapshot Viewer.
+- Select ••• → Restore.
+- Confirm by clicking Yes.
+The same steps apply to all configuration items in the Work Items Settings folder.
+After the restore
+- Some objects may differ from the original version due to Jira API limitations
+- Object IDs, keys, and timestamps may change.
+- Verify the restored objects in Jira to ensure expected functionality.

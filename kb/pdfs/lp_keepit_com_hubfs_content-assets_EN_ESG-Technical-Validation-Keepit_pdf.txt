@@ -1,0 +1,376 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/ESG-Technical-Validation-Keepit.pdf
+Content type: PDF document
+Title: unknown
+Pages: 12
+Retrieved: 2026-07-21
+
+============================================================
+
+© 2024 TechTarget, Inc. All Rights Reserved.                  
+Technical Validation: Keepit 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This Technical Validation from Enterprise Strategy Group was commissioned by Keepit 
+and is distributed under license from TechTarget, Inc.  
+T E C H N I C A L V A L I D A T I O N 
+Keepit 
+Simplifying Comprehensive Backup and Security 
+for Data of SaaS Applications 
+By Alex Arcilla, Principal Analyst – Validation Services                                           
+Enterprise Strategy Group 
+June 2025
+
+2 
+Technical Validation: Keepit 
+Contents 
+Introduction ..................................................................................................................................................................... 3 
+Background ................................................................................................................................................................ 3 
+Keepit .......................................................................................................................................................................... 4 
+Enterprise Strategy Group Technical Validation ............................................................................................................ 5 
+Simplifying the Backup Process ................................................................................................................................. 5 
+Accessing Data Without Incurring Risk ...................................................................................................................... 8 
+Ensuring Restoration of Clean Data ........................................................................................................................ 10 
+Conclusion .................................................................................................................................................................... 12
+
+3 
+Technical Validation: Keepit 
+Introduction 
+This Technical Validation from Enterprise Strategy Group evaluates Keepit, a data protection platform for business-
+critical SaaS applications such as Salesforce, Microsoft 365, Microsoft Entra ID, and Google Workspace. We 
+specifically review how Keepit can greatly simplify the way organizations protect the valuable data used in SaaS 
+applications that support business operations.   
+Background 
+It is common for companies to use SaaS applications to complete work ranging from essential business functions 
+(e.g., email, documentation) to problem resolution (e.g., trouble ticketing), customer relationship management, and 
+business intelligence. Should any event occur that disrupts these operations, organizations need to recover as 
+quickly as possible or risk unwanted downtime. However, a successful recovery is not only defined by how quickly 
+the application is up and running again but also whether the integrity of the application’s data remains intact. 
+Organizations continuously encounter issues that affect how they can keep their data intact, whether due to 
+cyberattacks (such as ransomware), human error, insider threats, or outages experienced by SaaS providers. To 
+handle these issues, data protection has emerged as a more prominent challenge for organizations to address. In 
+fact, Enterprise Strategy Group research found that 56% of respondents are increasing their data protection 
+investments relative to 2024 spending, up from 48% from last year (see Figure 1).1  
+Figure 1. Over 50% of Organizations Will Increase Spending on Data Protection 
+Source: Enterprise Strategy Group, now part of Omdia 
+Addressing data protection is especially important when dealing with SaaS applications. Under the shared 
+responsibility model, the cloud service provider is responsible for the availability and security of their applications, 
+clouds, and the underlying infrastructure. Yet, these providers are not responsible for recovering any data lost, 
+accidentally deleted, or corrupted. That responsibility lies with the organizations licensing the SaaS applications. 
+ 
+1 Source: Enterprise Strategy Group Research Report, 2025 Technology Spending Intentions Survey, December 2024. 
+56%
+56%
+59%
+59%
+72%
+36%
+42%
+35%
+38%
+26%
+8%
+2%
+5%
+3%
+2%
+Public cloud applications (i.e., SaaS) (N=326)
+Data protection (N=444)
+Application and software development (N=419)
+Customer experience (N=322)
+Cybersecurity (N=603)
+0%
+20%
+40%
+60%
+80%
+100%
+To what extent will your organization’s 2025 spending for each technology 
+change, if at all, relative to actual (or projected actual) 2024 spending? 
+(Percent of respondents)
+2025 spending will increase
+2025 spending will stay flat
+2025 spending will decrease
+
+4 
+Technical Validation: Keepit 
+Keepit 
+The Keepit platform was designed to offer independent and dedicated cloud-native data protection for business-
+critical SaaS workloads. This platform supports the most common SaaS applications, including Microsoft 365, 
+Google Workspace, Salesforce, Microsoft Entra ID, Microsoft Azure DevOps, Microsoft Power Platform, Microsoft 
+Dynamics 365, and Zendesk (see Figure 2). Keepit is currently working to expand coverage to additional 
+productivity, collaboration, project management, and other business-critical SaaS applications. 
+Figure 2. Keepit Platform 
+ 
+ 
+ 
+Source: Enterprise Strategy Group, now part of Omdia 
+The Keepit platform has been purpose-built to focus on SaaS data backup and recovery with security and cost-
+effectiveness in mind. Unlike conventional backup solutions built on the public cloud, Keepit’s vendor-independent 
+cloud is physically hosted in Equinix data centers in multiple regions throughout the world, isolating backup data 
+from any service-disrupting event experienced by the cloud service provider in which the SaaS application 
+operates. Keepit owns the security of these data centers. They are not shared, and Keepit does not use 
+subcontractors. To enhance performance and security of data protection operations, Keepit data centers maintain 
+direct network connections with SaaS providers. 
+While the platform uses commodity servers (owned and operated by Keepit), the software technology stack is 
+proprietary—OS, Web server, log server, indexing, and cataloguing functions. By not using any public cloud or third-
+party technology services within the stack, Keepit can reduce the attack surface and, more importantly, the risk of 
+service-impacting issues originating outside of Keepit. 
+Keepit has also been designed to provide fast backup and recovery times. All backup data is stored on a large fleet 
+of spinning disk, which provides both high throughput for sequential I/O and high simultaneous I/O operations per 
+second (IOPS) at lower cost than flash. Additionally, all data is hot; organizations do not need to tier data for backup 
+and recovery purposes.
+
+5 
+Technical Validation: Keepit 
+To ensure that organizations can maintain the integrity of their backup data and enable clean restores, the Keepit 
+platform employs blockchain technology—specifically, a Merkle tree structure—to verify data integrity. With the 
+Merkle tree, Keepit automatically verifies each data block as it is read or written. Because each block has its own 
+embedded cryptographic signature, the data is verified automatically; no one can alter or change the data in any 
+backup. Deduplication is automatic because the Merkel tree eliminates writing the same data multiple times. 
+The performance and cost efficiencies delivered by its platform architecture enable Keepit to charge a flat fee per 
+seat, with unlimited storage and transmission, as opposed to charging according to the volume of backup data. 
+Since it owns and develops the technology stack, Keepit can offer this flat fee rather than passing on costs of third 
+parties incorporated into the platform. With this flat fee, organizations will not incur additional storage costs should 
+the amount of backup data increase or transfer fees. Organizations also do not have to worry about costs for storing 
+duplicate data, as deduplication is automatically provided. Costs for tiering data are also eliminated, as all data is 
+hot. 
+Keepit is also compliant in handling and securing data across industries, as the company has earned multiple 
+certifications, such as HIPAA, NIST, and PCI, and is ISO 27001 certified for both its data centers and processes. 
+Enterprise Strategy Group Technical Validation  
+Enterprise Strategy Group validated how organizations can benefit from using the Keepit platform to back up and 
+restore their SaaS application data. We focused on how Keepit simplifies backup of SaaS application data, access 
+to backup data (without risking overwrites or accidental deletion), restoration, and maintenance of backup history. 
+Simplifying the Backup Process 
+Due to varying architectures and infrastructures used by cloud service providers to deliver their SaaS applications, 
+backup processes can differ. Many organizations wrongly believe that because their data and applications are now 
+delivered as a service, they will be automatically backed up and recovered. The reality is that this is just not the 
+case. While the SaaS provider will protect its own infrastructure and data for the purposes of running its service, 
+customer satisfaction, and compliance, etc., the end-user organization is always responsible for its data. Legacy 
+tools and on-premises capabilities were not designed to offer data protection across on-premises and SaaS 
+workloads, which can hinder their ability to recover quickly, easily, and effectively at a manageable cost. 
+With Keepit, organizations experience a consistent workflow for backing up data, regardless of the application. 
+Keepit has been designed to greatly simplify backup operations, saving both time and operational expenses. 
+Enterprise Strategy Group Analysis 
+Enterprise Strategy Group navigated to the Keepit UI and observed how to set up a connector, a key component in 
+initiating the backup process for any supported SaaS application. These connectors are supported by the direct 
+network connections Keepit maintains with supported SaaS providers. We began by adding a Microsoft 365 
+connector (see Figure 3).
+
+6 
+Technical Validation: Keepit 
+Figure 3. Setting Up Cloud Connectors With Specific SaaS Providers 
+ 
+ 
+Source: Enterprise Strategy Group, now part of Omdia 
+We were prompted to ensure that specific requirements were met—creating a backup account, assigning an 
+administrator, assigning an existing SaaS license—before configuring the connection. Permissions for Keepit 
+access to the specific resources and use of the application’s data were also requested (see Figure 4). 
+Figure 4. Requirements and Permissions to Satisfy Before Network Connection Is Built 
+ 
+ 
+ 
+ 
+Source: Enterprise Strategy Group, now part of Omdia 
+Once the Microsoft 365 connector was created, we double-clicked on that connection to specify those applications 
+and their specific user and group data for Keepit to back up (see Figure 5).
+
+7 
+Technical Validation: Keepit 
+Figure 5. Configuring Backup for Specific Microsoft 365 Applications 
+ 
+ 
+Source: Enterprise Strategy Group, now part of Omdia 
+Selecting the Microsoft 365 application workloads to include was as simple as toggling the associated switches. We 
+could also configure each application differently. For Microsoft Exchange, we selected data associated with all users 
+in all groups and any users not in these groups. For OneDrive, we only selected the data associated with the 
+“Keepers” group out of all available security groups to be included in backup operations. 
+After initiating the backup of the selected Microsoft 365 applications, we monitored progress via the Job Monitor 
+interface. A report indicated the completion of the backup operation (see Figure 6). 
+Figure 6. Status of Backup for Microsoft 365 Applications 
+ 
+ 
+Source: Enterprise Strategy Group, now part of Omdia
+
+8 
+Technical Validation: Keepit 
+As we navigated these workflows, Enterprise Strategy Group observed that the prompts made it very easy to 
+configure the connectors. Organizations no longer need to acquire additional skills and expertise for architecting 
+and configuring a backup solution for SaaS data. Keepit has architected its platform so that establishing these 
+connections can be done with a few clicks. 
+Configuring Keepit to back up data associated with specific user groups of select applications was also 
+straightforward. Enterprise Strategy Group found that organizations can eliminate the need to inventory all existing 
+users of public SaaS applications, then manually select which users to include or exclude for backup. Keepit 
+already presents options to select or deselect users before any backup occurs. 
+Accessing Data Without Incurring Risk 
+When needing to access specific data (e.g., a single email or document), guardrails are ideally in place to prevent 
+accidental changes or deletions or opening potential doors for cyberattacks. With Keepit, data access can be 
+completed without the need to search through all data associated with a specific application. Organizations can also 
+access data without rehydration, as there is no tiering or fragmentation of data when backed up with Keepit. 
+Enterprise Strategy Group Analysis 
+To access a specific data set, Enterprise Strategy Group navigated to an existing connector, “Microsoft 365 
+Backup.” We proceeded to select the application containing the data we wanted to examine. For our review, we 
+chose OneDrive (see left of Figure 7). We could also choose specific files within OneDrive, if not wanting to access 
+all the data. 
+To access the data without risking its integrity, the platform provided us with the option to generate a public URL to 
+view, print, or download the data (see right of Figure 7). We could also establish a password and expiration date for 
+viewing the backup data. Those requesting view-only access would receive the URL via email. 
+ 
+2 Ibid. 
+Why This Matters 
+Public SaaS applications continue to become more pervasive in corporate environments. In fact, Enterprise 
+Strategy Group research found that 56% of organizations will increase their investment in public SaaS 
+applications.2 Yet, the continued adoption of public SaaS highlights the challenges that organizations face in 
+backing up the applications’ data in light of the shared responsibility model. Building and configuring in-house 
+backup solutions for individual SaaS applications can be too difficult and time-consuming to justify 
+undertaking such efforts. 
+Enterprise Strategy Group validated that Keepit can simplify the backup process for a wide variety of public 
+SaaS applications available in the market. We observed how this platform standardizes the workflow for 
+backing up a public SaaS application, regardless of the cloud service provider or its underlying 
+infrastructures. Time and effort for setting up the backup process is drastically reduced when compared to 
+building out backup solutions for individual applications.
+
+9 
+Technical Validation: Keepit 
+Figure 7. Viewing Backup Data of Microsoft OneDrive 
+ 
+ 
+Source: Enterprise Strategy Group, now part of Omdia 
+Keepit’s approach for access eliminated the need to directly interact with the data, thus preserving its integrity and 
+security. The approach can also help to reduce the time and effort of exactly locating any data to be viewed and 
+restored when desired. With this view-only access, specific data from the supported public SaaS applications could 
+be recovered without needing to search through or restore all application data. 
+ 
+ 
+ 
+Why This Matters 
+Circumstances may warrant accessing a select data set residing within all backup data of a specific 
+application. With traditional backup solutions, locating that data will most likely involve searching through all 
+backup data and/or rehydrating data (if data has been tiered). This easily results in wasting time, effort, and, 
+subsequently, money.    
+Enterprise Strategy Group validated that the Keepit platform enables data access without the need to touch 
+the actual backup data. We observed how organizations can search for select items without the need to 
+touch the actual data. By using public URLs that point to the selected data, organizations can then view, 
+download, or print. This approach to accessing data also helps with quickly recovering data without restoring 
+entire backups.
+
+10 
+Technical Validation: Keepit 
+Ensuring Restoration of Clean Data 
+Restoring data from backup should ideally be done with clean data. With Keepit, the process for backing up data 
+ensures that data integrity is preserved in all immutable snapshots. 
+Enterprise Strategy Group Analysis 
+To restore data from backup, Enterprise Strategy Group first navigated to the “Connectors” page and selected the 
+“AzureAD” connector. After selecting “Policies,” we chose to view backup history associated with the policy named 
+“Definition” (see Figure 8). For each backup, such as the one captured on May 6 at 5:20:49 PM, we could see how 
+the code associated with this policy changed over time. We noted how maintaining this backup history establishes 
+provenance, which is especially useful for audit and governance purposes. 
+Figure 8. Viewing Backup History of “Definition” Policy 
+ 
+ 
+ 
+Source: Enterprise Strategy Group, now part of Omdia 
+Once selecting the backup to use, we clicked on “Restore.” A warning appeared to ensure that the end user knew 
+what was to occur before confirming the action (see Figure 9).
+
+11 
+Technical Validation: Keepit 
+Figure 9. Warning Issued Before Restore Occurs 
+ 
+ 
+Source: Enterprise Strategy Group, now part of Omdia 
+Given how Keepit established data provenance, Enterprise Strategy Group noted how the platform assures 
+organizations that backups contain clean data. With Keepit’s approach to maintaining data integrity (via the use of 
+the Merkle tree), restoring data does not incur business risk, ensuring that business operations continue without 
+disruption. 
+ 
+ 
+ 
+Why This Matters 
+While organizations ideally want data restoration times to be as low as possible, any restoration is not 
+successful if the backup data is not clean. Maintaining data integrity in backups is key in successfully 
+restoring data and enabling normal business operations to continue. 
+Enterprise Strategy Group validated that Keepit establishes data provenance throughout all created backups. 
+We viewed how organizations can monitor and track changes made in data backups of any supported SaaS 
+application over time. With the platform’s use of the Merkle tree, we noted that organizations can be confident 
+that all created backups contain clean data, enabling effective data restoration as well as supporting audit 
+and governance activities.
+
+12 
+Technical Validation: Keepit 
+Conclusion 
+Organizations face a wide variety of reasons that warrant data recovery, including cybersecurity events, system 
+failure, malicious deletion, or accidental deletion.3 However, when it comes to public SaaS applications, 
+organizations must remain aware of the shared responsibility model, which assigns the responsibility of backing up 
+the application’s data to the customer. While organizations have the option to build data protection solutions, the 
+drawback is having to tailor those solutions to each public SaaS application used, which might not be the best use 
+of the limited time and resources they struggle to manage wisely. 
+To simplify how organizations can protect the data of widely used public SaaS applications, organizations can opt to 
+use Keepit. This cloud-native data protection platform has been designed for commonly used applications such as 
+Microsoft 365, Google Workspace, and Salesforce. With Keepit’s vendor-independent cloud, organizations have 
+secure and automated backup with easy recovery. The underlying platform architecture—use of commodity servers 
+and spinning disk, proprietary software technology stack, no tiering of backup data—enables Keepit to offer a 
+powerful combination: flat pricing with unlimited storage and no data transfer fees and instant availability to data 
+when recovery is needed.  
+Throughout our evaluation, Enterprise Strategy Group validated that Keepit can help organizations to: 
+• 
+Simplify backups by offering a consistent workflow across all supported SaaS applications. 
+• 
+Access and recover specific data while maintaining data integrity and security. 
+• 
+Facilitate quick restoration with assurances that data is clean, thus resuming normal operations without 
+incident. 
+Organizations continue to expand their use of public SaaS applications to support a number of everyday business 
+operations. Protecting the data of these SaaS applications then becomes critical so that business continues without 
+incident. If your organization is looking for a secure, integrated, and flexible end-to-end SaaS data protection 
+solution that is both simple to use and cost-effective, Enterprise Strategy Group recommends you seriously 
+consider the Keepit SaaS data protection platform. Visit Keepit to learn more. 
+ 
+3 Source: Enterprise Strategy Group Research Report, Cloud Data Protection Strategies at a Crossroads, August 2023. 
+ 
+ 
+3 Source: Enterprise Strategy Group Research Report, Cloud Data Protection Strategies at a Crossroads, August 2023. 
+©2025 TechTarget, Inc. All rights reserved. The Informa TechTarget name and logo are subject to license. All other logos are trademarks of their respective owners. Informa TechTarget 
+reserves the right to make changes in specifications and other information contained in this document without prior notice.  
+Information contained in this publication has been obtained by sources Informa TechTarget considers to be reliable but is not warranted by Informa TechTarget. This publication may 
+contain opinions of Informa TechTarget, which are subject to change. This publication may include forecasts, projections, and other predictive statements that represent Informa 
+TechTarget’s assumptions and expectations in light of currently available information. These forecasts are based on industry trends and involve variables and uncertainties. 
+Consequently, Informa TechTarget makes no warranty as to the accuracy of specific forecasts, projections or predictive statements contained herein.  
+Any reproduction or redistribution of this publication, in whole or in part, whether in hard-copy format, electronically, or otherwise to persons not authorized to receive it, without the 
+express consent of Informa TechTarget, is in violation of U.S. copyright law and will be subject to an action for civil damages and, if applicable, criminal prosecution. Should you have any 
+questions, please contact Client Relations at cr@esg-global.com. 
+ 
+About Enterprise Strategy Group  
+Enterprise Strategy Group, now part of Omdia, provides focused and actionable market intelligence, demand-side research, analyst advisory 
+services, GTM strategy guidance, solution validations, and custom content supporting enterprise technology buying and selling. 
+www.esg-global.com 
+contact@esg-global.com

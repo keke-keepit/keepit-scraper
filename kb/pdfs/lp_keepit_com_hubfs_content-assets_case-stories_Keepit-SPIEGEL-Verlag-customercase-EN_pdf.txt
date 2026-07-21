@@ -1,0 +1,160 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-SPIEGEL-Verlag-customercase-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-07-21
+
+============================================================
+
+Customer success story
+Centralized control and 
+protection for SaaS 
+applications: SPIEGEL-
+Verlag chooses Keepit
+
+Customer success story
+2
+For SPIEGEL-Verlag, digital growth has expanded how content is created, shared, and 
+protected across the organization. While the company continues to publish its well-known 
+print magazines – such as DER SPIEGEL that is one of the largest news publications in Europe – 
+its growing portfolio of online platforms and digital services has increased the importance of 
+ensuring business-critical data remains secure and recoverable. Protecting SaaS application 
+data is essential to supporting daily operations and maintaining continuity across editorial 
+and business teams. 
+Miroslav Najda, head of IT Operations and DevOps, is responsible for the company’s IT 
+architecture and security, ensuring systems remain resilient and available to support 
+SPIEGEL’s evolving digital environment. 
+Centralized control and 
+protection for SaaS 
+applications: SPIEGEL-
+Verlag chooses Keepit
+Multi-application SaaS coverage from one 
+platform
+As the SaaS environment at SPIEGEL-Verlag 
+expanded, the IT team began evaluating how 
+to back up Atlassian products, Microsoft Power 
+Platform, and other business-critical SaaS 
+applications. Existing tools did not provide 
+consistent coverage across these platforms, 
+prompting the team to reassess how they 
+approached SaaS data protection. 
+Trusted technology partner Serviceware introduced 
+Keepit as a platform capable of protecting a 
+broad range of SaaS applications. Serviceware 
+supported SPIEGEL-Verlag throughout the process 
+by setting up and conducting the proof of concept, 
+followed by the implementation of the solution 
+and its transition into live operations. What began 
+as a search to address specific gaps evolved into a 
+decision to centralize protection for Microsoft 365, 
+Atlassian products, Salesforce, Microsoft Power 
+Platform, and Entra ID within one solution.
+LOCATION 
+Germany
+INDUSTRY 
+Publishing
+EMPLOYEES 
+1,400+
+
+Customer success story
+3
+Rather than managing multiple tools for different 
+platforms, the IT team wanted centralized control 
+and consistent protection across their SaaS 
+environment. 
+Keepit provides true third-party backup and 
+recovery designed for cloud applications. 
+Data and metadata remain immutable, 
+always accessible, and quickly recoverable 
+through granular restore functionality, helping 
+organizations reduce risk and strengthen 
+business continuity.
+Predictable costs for long-term stability 
+Cost transparency was another important factor. 
+The team had experienced price increases 
+with their previous solution, making budgeting 
+more difficult and prompting them to evaluate 
+alternatives.  
+ 
+Keepit’s transparent pricing model provides 
+clarity and stability, supporting long-term 
+planning as SPIEGEL continues to expand its 
+SaaS environment.
+Fast, reliable restores keep teams 
+productive 
+SPIEGEL-Verlag’s IT organization delivers 
+backup and recovery as an internal service 
+across departments, ensuring teams can 
+quickly recover lost files or data when needed. 
+Restore capabilities are critical to maintaining 
+productivity and avoiding disruption.
+Granular recovery options allow the IT team to 
+efficiently restore data and support internal users 
+without complex or time-consuming processes.
+German data storage for greater control
+The ability to store data in Germany was also an 
+important consideration. Combined with vendor-
+independent architecture, this provides SPIEGEL-
+Verlag with confidence that business-critical 
+SaaS data remains protected in accordance with 
+organizational requirements.
+By consolidating multi-application SaaS 
+protection within a single platform, SPIEGEL-
+Verlag has simplified data protection while 
+strengthening resilience. With predictable costs, 
+broad coverage, and reliable restore capabilities, 
+Keepit supports continuity across the company’s 
+evolving digital landscape. 
+“Coverage across SaaS applications was the most important factor for us. With 
+Keepit, we can use one platform to protect multiple services.”
+Miroslav Najda 
+Head of IT Operations and DevOps 
+SPIEGEL-Verlag
+“Cost predictability was one of the 
+pain points with our previous solution. 
+We experienced price increases, 
+which led us to look for another 
+option.”
+Miroslav Najda 
+Head of IT Operations and DevOps, 
+SPIEGEL-Verlag
+
+“Backup is essential, but the real value 
+comes from being able to restore data 
+quickly and reliably. Otherwise, the 
+backup itself becomes far less useful.”
+Miroslav Najda 
+Head of IT Operations and DevOps 
+SPIEGEL-Verlag
+About SPIEGEL Group
+The SPIEGEL Group based in Hamburg is one of the most respected German media houses. Print magazines, digital 
+offerings and TV productions enjoy an outstanding position in the German media landscape. The exceptional jour-
+nalistic quality and independent reporting form the core of all journalistic products.
+In addition to SPIEGEL, Germany’s most important and Europe’s largest news magazine, the business magazines 
+manager magazin and Harvard Business manager also belong to the SPIEGEL Group, as does the SPIEGEL TV brand, 
+which produces video content for all distribution channels. 11FREUNDE, the magazine for football culture, and Ef-
+filee, the culinary culture magazine, round off the diverse range.
+In 2024, the SPIEGEL Group generated sales of 255 million euros with around 1400 employees. In Germany, the 
+group has nine editorial offices. Internationally, it is represented at around 20 locations. 
+About Serviceware
+Serviceware empowers organizations worldwide to reinvent their service processes — intelligent, digital, and 
+highly automated. The AI-native Serviceware Platform, combined with strategic consulting and a strong network 
+of partners in IT security, data management, and endpoint management, provides a powerful foundation for effi-
+cient service delivery and future-proof IT transformation.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-independent 
+cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+For more information visit www.keepit.com or follow Keepit on LinkedIn.
+Your data. Here today. Here tomorrow.
+© 06/01/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Trust in continued collaboration 
+As SaaS adoption accelerates, companies are 
+continuously onboarding new tools to increase 
+efficiency and streamline processes. For SPIEGEL, 
+knowing that the Keepit platform will continue to 
+add to its portfolio in the future assured them of 
+continued partnership for years to come.
+“Knowing that Keepit is aiming to cover more 
+applications in the future makes it easier for us – we 
+know we are starting a long-term collaboration and 
+don’t need to worry as we grow our SaaS suite,” 
+says Miroslav Najda.

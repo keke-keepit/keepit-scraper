@@ -1,0 +1,12 @@
+Source URL: https://www.keepit.com/help/platform-category/your-account-info/
+Content type: Web page
+Last modified: 2026-06-23T22:49:35+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Your account info
+To view or edit your account settings, in the lower-left corner, select your profile icon > Account info.
+In Account settings > Company details, you can edit your company name and account language.
+In Account settings > Account contacts, you can change and update your primary and dedicated contact details.
+Select Update when you finish editing.

@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/resources/nis2-checklist/
+Content type: Web page
+Last modified: 2025-08-20T00:20:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+NIS2 and SaaS platforms â Your compliance checklist
+What do you need to have in place to comply with the business continuity requirements of the NIS2 Directive? Assess your compliance readiness now.
+ 
+The NIS2 Directive, set to be enacted into local law by October 17, 2024, represents one of the most comprehensive cybersecurity regulations to date. It aims to bolster Europe’s defense against cyberthreats by standardizing cybersecurity measures across the EU, particularly for organizations that are part of critical infrastructure.
+To help organizations navigate the complexities of NIS2 compliance, we've developed a comprehensive checklist focused on the cybersecurity risk-management and business continuity requirements outlined in Article 21 of the directive. This checklist is essential for any organization classified as medium-sized or larger by EU standards, especially those within critical sectors. Download the checklist now to assess your compliance readiness.
+Compliance and future-proofing
+Our checklist addresses key questions, such as:
+- What is required of me? Understand the requirements of the NIS2 Directive and know exactly what is required of your organization in terms of business continuity standards
+- What are the risks? Understand the specific challenges your organization faces in securing business-critical SaaS applications and ensuring disaster recovery.
+- How can you stay ahead? Follow our step-by-step guide to assess, prioritize, and implement the necessary cybersecurity measures to protect yourself and comply.
+A compliance checklist for wherever you are on your journey
+The guide includes actionable insights and practical steps to help you prepare for NIS2, wherever you currently are on your path to compliance. It’s tailored to ensure your organization can meet the rigorous business continuity and disaster recovery standards required by the directive.
+In this document, you will find
+- A checklist for Article 21, specifically for policies on risk analysis and information systems security as well as for business continuity, backup management, and disaster recovery
+- A checklist for securing the SaaS applications your business relies on
+- A checklist for choosing a SaaS data backup vendor to help you comply
+Wherever you are on your compliance journey, this guide can help you assess your current compliance readiness and identify areas where there is still room for improvement. Check your preparedness levels now so you can rest easy knowing you did what's necessary to comply with the NIS2 Directive and secure your business against future cyberthreats.

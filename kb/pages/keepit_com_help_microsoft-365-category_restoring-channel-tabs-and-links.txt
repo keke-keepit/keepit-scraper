@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/restoring-channel-tabs-and-links/
+Content type: Web page
+Last modified: 2026-06-30T01:53:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restoring channel tabs and links
+Keepit backs up the following standard channel tabs in Microsoft Teams: Website, Planner, Word, Excel, PowerPoint, Visio, PDF, Document Library, OneNote, SharePoint, Stream, Forms, Power BI, Power Automate, and Azure DevOps.
+When a channel is restored, the tabs are returned to the top of the team. The tabs are always restored even if the entire team, channel, or file (the original file of the content embedded in the tab) has been deleted. The only exception is the Azure DevOps tab: if the team was deleted, the tab isn't restored.
+Tip: To ensure embedded content is restored, restore the whole team rather than just the channel.
+What happens to the embedded content when the tab is restored?
+Planner, Word, Excel, PowerPoint, Visio, PDF, Document Library, SharePoint, Stream, Power BI, Website
+When restoring the entire team, the tab is restored with the embedded content.
+OneNote, Power Automate, SharePoint site
+The tab is restored without the embedded content.
+Azure DevOps
+The tab will not be restored if the team was deleted.

@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/use-cases/performance-tour/
+Content type: Web page
+Last modified: 2025-04-22T15:30:41+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Our storage and security design principles are guided by building software for high scalability, fast access, and securely storing vast amounts of data. Keepit’s architecture gives Keepit and our customers a fundamental edge with storage of backup data in two separate, mirrored locations.
+- Designed from the ground up as a cloud-to-cloud backup and recovery service
+- Built to provide you with instant online access to everything, from everywhere, at any time
+- Keep a close eye on SaaS data across multiple workloads — in one simple dashboard

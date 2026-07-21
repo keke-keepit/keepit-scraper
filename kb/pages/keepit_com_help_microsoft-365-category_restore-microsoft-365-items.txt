@@ -1,0 +1,37 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/restore-microsoft-365-items/
+Content type: Web page
+Last modified: 2026-06-30T00:28:41+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Microsoft 365 items
+You can easily restore single files and folders. All data can be restored in place to its original location.
+Outlook, Calendar, In-Place Archive, and OneDrive folders can also be restored to a new folder. This means that the data will be restored to a newly created separate folder in Microsoft 365.
+Keepit also supports bulk restore allowing you to restore multiple items at a time. Bulk restore is not available for deleted items.
+Restore a Microsoft 365 item
+1. In your connecter, find the item you want to restore.
+2. Optional: If you want to restore an older version of the item, select the Snapshots Viewer icon, and then select an earlier snapshot. You will now be viewing data from that particular time.
+3. Select ••• > Restore.
+Note: If you are restoring a single file, select the file to open the File Previewer and verify you have found the correct item. Then restore the file by selecting the Restore icon in the upper-right corner.
+4. Select Yes to restore the item.
+Note: Keepit cannot successfully restore a OneDrive or SharePoint item that has more than 5,000 versions.
+Restore a folder as a new folder
+Outlook, Calendar, In-Place Archive, and OneDrive folders can also be restored to a new folder. This means that the data will be restored to a newly created separate folder in Microsoft 356.
+Important: For connectors created after the release of 10.11.0 (September 2025), OneDrive can only be restored in place, not to a new folder.
+For this type of restore, the folder must still exist on the tenant. If the folder has been deleted, first create in Microsoft 365 a new folder with the same name as the original folder. Then you can proceed with the restore.
+1. In your connecter, find the folder you want to restore.
+2. Optional: If you want to restore an older version of the item, click the Snapshots Viewer icon, and then select an earlier snapshot. You will now be viewing data from that particular time.
+3. Select ••• > Restore.
+4. Select Restore to new folder.
+5. Review the restore summary and select Confirm.
+Restore Microsoft 365 items in bulk
+1. In your connector, find the items you want to restore.
+2. Optional: If you want to restore an older version of the items, select the Snapshots Viewer icon, and then select an earlier snapshot. You will now be viewing data from that particular time.
+3. Select the checkboxes next to the items you want to restore.
+4. In the toolbar select the restore icon.
+5. Select Yes to restore the items.
+Note: Keepit has a limit of 5,000 on the number of items that can be restored in bulk. Instead, try restoring the folder with the needed items.
+Restoring deleted items in bulk
+Deleted items cannot be restored in bulk. These items can be restored one at a time by selecting ••• > Restore.
+To restore these items in bulk, you must first open a snapshot from a time before these items were deleted. For example, if you want to restore multiple items in a folder that has been deleted, check the timestamp of the folder, open the Snapshots Viewer, and then select a snapshot from a time before it was deleted. You will now see the option to restore these items in bulk.

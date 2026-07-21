@@ -1,0 +1,37 @@
+Source URL: https://www.keepit.com/blog/backing-up-github/
+Content type: Web page
+Last modified: 2026-03-16T11:31:20+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Protect your source code â Keepit Backup and Recovery for GitHubÂ
+You may remember to protect your important documents and contracts, but is anyone making sure that your source code is backed up? For most tech companies, code represents their most critical intellectual property — so what would happen if you suddenly lost access to it?
+GitHub is the world's leading platform for software development and version control, hosting over 180 million developers and 680 million repositories in 2025. It contains critical business assets including source code, documentation, project management data, workflows, security policies, and collaboration history. With approximately 63% of repositories being public and more than 4.3 million repositories related to AI, open-source projects have become foundational to the coding ecosystem.
+Despite GitHub's central role in modern software development, most organizations operate under a dangerous assumption: that their code is inherently safe simply because it lives on GitHub.
+You are responsible for your GitHub repositories
+Like most SaaS applications, GitHub operates under a shared responsibility model. While GitHub secures the platform infrastructure, customers bear full responsibility for their own data, access management, configurations, and — most critically — data recovery from accidental or intentional loss.
+GitHub repositories persist indefinitely while active, with no automatic expiration of history. However, once deleted, they enter a recycle bin for merely 90 days before permanent removal. There's no built-in, long-term archival or configurable retention policy for repository metadata beyond this narrow window.
+This creates a critical vulnerability: Relying solely on GitHub's native recovery capabilities leaves organizations exposed to permanent data loss from human error, security incidents, platform outages, and compliance failures.
+Real-world risks your organization faces
+- Human error is the most common threat
+More often than not, data loss is caused by human error. Just one mistaken click can delete a repository, and GitHub's 90-day recovery window offers incomplete restoration: excluding release attachments, team permissions, and metadata from forked repositories.
+- Security incidents and account compromises
+Ransomware attacks happen every 11 seconds globally. Major companies, including Dropbox, Toyota, and Twitch, have suffered GitHub-related data breaches. Account compromises can lead to repository deletion, malicious commits, or code tampering.
+- Platform outages that result in downtime
+In March 2022, GitHub outages affected approximately 73 million users due to database health issues. When GitHub goes down, teams without independent backups face complete work stoppages, missed deployment deadlines, and mounting business costs. Long-lasting outages result in limited access and high downtime costs that can cripple operations.
+- Compliance and audit requirements
+Organizations subject to SOC 2, GDPR, ISO 27001, or industry-specific regulations need demonstrable data retention, audit trails, and recovery capabilities that extend far beyond GitHub's 90-day window. GitHub's native tools don’t provide any compliance reporting, configurable retention policies, or independent verification of data integrity.
+Keepit Backup and Recovery for GitHub
+Relying solely on native solutions leaves you vulnerable when the platform itself is compromised. Third-party backup is the only surefire way to mitigate damage resulting from cyberattacks, downtime, or mistakes.
+Keepit safeguards the GitHub environment with:
+- Automated daily backups of GitHub entities including code, metadata, and configurations
+- Rapid recovery: point-in-time restore capabilities to recover the item to its exact previous state
+- Security and compliance: immutable backups stored independently from GitHub, meeting regulatory requirements for data retention
+- Ransomware defense: air-gapped storage protecting against repository tampering, malicious commits, or account compromises
+- Operational continuity: ensures business continuity even during GitHub service disruptions or data loss events. 
+ 
+Independent backup for your DevOps organization
+Keepit backs up the most important SaaS applications your DevOps organization is using on a daily basis — from Jira and Confluence to Miro. By protecting your company’s vital tools that help you create, manage, and deliver your product to the market, you can focus on what matters: creating the best possible product for your customers.  
+ 
+The Keepit platform is secure, reliable, and easy to use. With just a few clicks, you can see the health and status of your backups and be audit-ready in minutes.

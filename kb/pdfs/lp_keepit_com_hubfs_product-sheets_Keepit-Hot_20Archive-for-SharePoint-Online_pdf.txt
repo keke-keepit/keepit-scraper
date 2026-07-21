@@ -1,0 +1,55 @@
+Source URL: https://lp.keepit.com/hubfs/product-sheets/Keepit-Hot%20Archive-for-SharePoint-Online.pdf
+Content type: PDF document
+Title: unknown
+Pages: 1
+Retrieved: 2026-07-21
+
+============================================================
+
+Hot Archive for (
+SharePoint Online add-on
+Cut down SharePoint storage costs without losing access
+If you are currently protecting, or looking to protect, your Microsoft 365 data with Keepit, you can now add Hot 
+Archive for SharePoint to move rarely used data out of production, cut storage costs, and keep every file fully 
+accessible on demand.€
+W
+Why purchase this add-on?
+SharePoint Online quietly becomes one of the biggest line items in your Microsoft 365 bill. Sites multiply, files 
+pile up, and soon you're paying production prices for data nobody opens. Most can't be deleted, so it stays in 
+production, driving up storage costs. Traditional archiving fixes the cost but buries data in cold storage, adding 
+friction right when you need it back.
+You can now purchase this add-on to Keepit for Microsoft 365 to effectively reduce storage costs while 
+maintaining full access to sites and files.
+KEY CAPABILITIES
+Effortless, guided archiving
+Your metadata, ready to use
+Recovery on your terms
+Preserve sites and files with step-by-step 
+workflows that include review, filtering, and 
+a savings dashboard.
+Import a comma-separated values (CSV) 
+export of site metadata from SharePoint 
+and use it as a filter.
+Restore preserved files individually or in 
+bulk according to your needs.
+Precise targeting, zero guesswork
+File ownership and history, intact
+Zero manual effort
+Tag and filter sites by template, inactivity, 
+size, or custom attributes to target the right 
+data.
+Item stubs retain the original file's Author 
+and Editor, helping restore not only data but 
+also relationships.
+Preserve items on a recurring schedule, 
+eliminating manual work and the risk of 
+mistakes.
+Request a demo of Keepit for Microsoft 365, or if 
+you are already a customer, contact your account  
+executive to learn more about this add-on.
+Book a demo
+Your data. Here today. Here tomorrow
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+ For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

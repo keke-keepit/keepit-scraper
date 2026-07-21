@@ -1,0 +1,123 @@
+Source URL: https://www.keepit.com/help/platform-category/retrieve-data-for-a-siem-solution-using-keepit-api/
+Content type: Web page
+Last modified: 2026-06-23T23:43:22+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve data for a SIEM solution using Keepit API
+This guide walks you through the process of setting up data extraction for a SIEM solution using our standard Keepit API. The Keepit platform holds valuable data, such as audit logs, making it ideal for analysis within your SIEM environment. Leveraging the standard Keepit API enables the establishment of a consistent and automated process for importing essential data through a script that uses standard API endpoints.
+Common approach
+Each Keepit API endpoint discussed in this article facilitates the retrieval of records for a specific time period. This characteristic forms the basis for implementing a persistent data extraction process over time. The general approach involves:
+- Using the appropriate Keepit endpoint to extract data for a defined time period (window).
+- Saving the upper bound of the used window as a timestamp.
+- Waiting for the window period to elapse and then repeating the process, using the saved timestamp as the lower bound of the next window.
+The next step involves implementing a script tailored to the specific SIEM solution, incorporating the logic described above.
+Subsequent sections provide an example of such a script written in bash, demonstrating its applicability, for instance, in pulling data into a Splunk solution.
+BASH script for retrieving audit logs
+To fetch audit logs, use Keepit's PUT https://$KEEPIT_HOST/audit/filter/pretty API endpoint.
+In our example:
+- $KEEPIT_HOST is the Keepit hostname, such as dk-co.keepit.com.
+ 
+Permissions
+Please note that a user can retrieve audit logs ONLY if they have a G/AuditFilter permission.
+The following roles have this ACL:
+- MSP Partner
+- Administrator
+- Partner Parent
+- Audit
+- Master Admin No Users
+- Master Admin
+- Compliance Admin
+- Cloud Admin No Users
+- Cloud Admin
+Additionally, it's essential to emphasize that the ability to view audit logs is restricted only to authenticated accounts and their child accounts, without any exceptions.
+Request
+The request document functions as a filter, controlling the precise audit log events you wish to retrieve. It adheres to the XML schema outlined below:
+element filter {
+ element account { text }         # Account to query logs for
+ & element token { text }?        # Filter by token (user)
+ & element recursive { boolean }? # Retrieve logs for subaccounts too
+ & element from { timestamp }?    # Return logs in window (from...to], by default last 14 days from now
+ & element to { timestamp }?
+ & element allowed { boolean }?   # Return only allowed actions
+ & element acl {                  # Filter by acl (name/method pairs)
+   element name { text }?         # ACL name supported by the system
+   & element method { text }?     # HTTP method
+ }*
+}Response
+In the scope of this guide, we exclusively use the application/vnd.keepit.v4+xml version of the PUT https://$KEEPIT_HOST/audit/filter/pretty endpoint.
+Let's elaborate on the response structure for this specific version, which is in XML format, conforming to the following schema:
+element audit {
+ element record {
+  element account { text }?
+  & element token { text }         # Token which performed an audited action
+  & element message { text }
+  & element acl { text }           # acl identifying an endpoint
+  & element area { text }?         # Action area
+  & element company { text }?      # Company name of the account that triggered this action
+  & element allowed { boolean }    # Indicates whether an action was allowed by the system
+  & element succeeded { boolean }? # Status based on the return code, e.g. codes between 200 and 299 will yield 'true' here
+  & element client-ip { text }?    # IP address of the client that performed the action
+  & element time { timestamp }
+  & element device { text }?
+  & element method { text }
+  & element metadata {             # metadata attached to the record
+    element parameter {
+     element key { text } 
+     & element value { text }
+    }*
+  }?
+ }
+}Example
+Here is an example of how we can utilize this endpoint using bash.
+#!/bin/bash
+# Configurable variables
+export KEEPIT_ACCOUNT='aaaaaa-bbbbbb-cccccc'
+export KEEPIT_LOGIN='foo@bar.com'
+export KEEPIT_PASSWORD='qwerty1234'
+export KEEPIT_HOST='dk-co.keepit.com'
+# Auxiliary variables
+export AUTH_HEADER=`echo -n $KEEPIT_LOGIN:$KEEPIT_PASSWORD | openssl base64`
+function pull_audit_logs {
+    curl -X PUT https://$KEEPIT_HOST/audit/filter/pretty -d "<filter><account>$KEEPIT_ACCOUNT</account></filter>" -k -H "Authorization: Basic $AUTH_HEADER" -H "Accept: application/vnd.keepit.v4+xml"
+}
+pull_audit_logs;Note the filter:
+<filter><account>$KEEPIT_ACCOUNT</account></filter>
+It our case, this means that we will filter all audit logs for the last 14 days for our $KEEPIT_ACCOUNT (not recursively). To learn more about this filter, please refer to the request description above.
+Composing the final script
+Having learned how to pull audit log events, the final step is to enhance our script to remember the last-used timestamp. This prevents redundant data retrieval in subsequent runs. In our example, we accomplish this by storing the timestamp in a separate file located near the script:
+#!/bin/bash
+# Configurable variables
+export KEEPIT_ACCOUNT='aaaaaa-bbbbbb-cccccc'
+export KEEPIT_LOGIN='foo@bar.com'
+export KEEPIT_PASSWORD='qwerty1234'
+export KEEPIT_HOST='dk-co.keepit.com'
+# Auxiliary variables
+export AUTH_HEADER=`echo -n $KEEPIT_LOGIN:$KEEPIT_PASSWORD | openssl base64`
+export LAST_PULLED_FILE='./last_pulled_audit_log.txt'
+export PULL_FROM=''
+export PULL_TO=`date --iso-8601=seconds`
+# Utility functions
+function read_last_pulled {
+    if [ -f $LAST_PULLED_FILE ]; then
+       PULL_FROM=`cat $LAST_PULLED_FILE`;
+    else
+       PULL_FROM=`date --iso-8601=seconds -d '5 minutes ago'`;
+    fi
+}
+function write_last_pulled {
+    echo $PULL_TO > $LAST_PULLED_FILE;
+}
+function pull_audit_logs {
+    curl -X PUT https://$KEEPIT_HOST/audit/filter/pretty -d "<filter><account>$KEEPIT_ACCOUNT</account><from>$PULL_FROM</from><to>$PULL_TO</to></filter>" -k -H "Authorization: Basic $AUTH_HEADER" -H "Accept: application/vnd.keepit.v4+xml"
+}
+# Main logic
+read_last_pulled;
+pull_audit_logs;
+write_last_pulled;
+Note the audit logs filter here:
+<filter><account>$KEEPIT_ACCOUNT</account><from>$PULL_FROM</from><to>$PULL_TO</to></filter>
+By explicitly defining the time span, we gain precise control over the data we've already retrieved. This design ensures the script's versatility, allowing it to be executed whenever needed. The script remains equipped with the correct timestamp for use within the filter's <from>...</from> parameters.
+Setting up for SIEM Integration
+The final step involves scheduling the regular execution of our scripts to seamlessly pull data into the designated SIEM solution. This process is easily achievable for SIEM systems that permit the addition of scripts as data sources. Notably, platforms like Splunk facilitate this integration (for further insights, refer to this Splunk documentation).

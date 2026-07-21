@@ -1,0 +1,710 @@
+Source URL: https://www.keepit.com/help/miro-category/
+Content type: Web page
+Last modified: 2026-06-02T20:56:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Miro
+Search
+Help center - Microsoft Azure DevOps
+Requirements for Azure DevOps connector creation and backup
+Help center - Google Workspace
+Install the Keepit App in Google Workspace Marketplace
+Help center - Microsoft Power BI
+Power BI backup data coverage
+Help center - Power Platform/Dynamics 365
+Requirements for setting up a Power Platform / Dynamics 365 backup
+Help center - Power Platform/Dynamics 365
+Check security role and access mode for Dynamics user
+Help center - Microsoft Power BI
+What counts as a seat in a Power BI backup
+Help center - Microsoft Azure DevOps
+Azure DevOps organizations are missing from my backup configuration
+Help center - Microsoft Azure DevOps
+Restore Azure DevOps data
+Help center - Google Workspace
+Google Workspace objects are missing from my backup configuration
+Help center - Google Workspace
+Why are Google Workspace items skipped during the backup?
+Help center - Google Workspace
+Failure fetching domains
+Help center - Google Workspace
+Remove the Keepit app from Google
+Help center - Google Workspace
+Revoke access to the Keepit app in Google
+Help center - Google Workspace
+Log out of a personal Google account before installing Keepit app
+Help center - Google Workspace
+Check if Google user is an Admin who can create connector
+Help center - Google Workspace
+Check if Keepit app is installed in Google
+Help center - Google Workspace
+How Google Workspace organizational unit and group selection works
+Help center - Salesforce
+Sandbox seeding best practices
+Help center - Salesforce
+How external IDs solve Salesforce ID challenges
+Help center - Salesforce
+Determine if Salesforce Managed Package is accessible via the API
+Help center - Salesforce
+Understanding and Resolving readMetadata Issues in Salesforce
+Help center - Salesforce
+Is my Salesforce backup data encrypted?
+Help center - Salesforce
+Salesforce snapshot compare
+Help center - Salesforce
+Ensuring backup continuity after a Salesforce sandbox refresh
+Help center - Zendesk
+Your Zendesk API requests usage
+Help center - Zendesk
+What happens to Zendesk data after you restore
+Help center - Zendesk
+Zendesk backup coverage
+Help center - Microsoft 365
+Can the service account be used for M365 backup have MFA enabled?
+Help center - PMC
+Configure multi-factor authentication (MFA) for PMC
+Help center - PMC
+Configure single sign-on (SSO) for PMC
+Help center - PMC
+Managing messages received by your customers
+Help center - PMC
+Using the PMC Audit Log
+Help center - PMC
+Create, edit, or delete a user in PMC
+Help center - PMC
+Managing customer messages
+Help center - Okta
+Create an Okta connector
+Help center - Google Workspace
+Google Workspace restore behavior
+Help center - PMC
+View or delete secondary tokens in PMC
+Help center - PMC
+Create an API token in PMC
+Help center - Jira
+Requirements for setting up your Jira backup
+Help center - Confluence
+Requirements for setting up your Confluence backup
+Help center - Microsoft Azure DevOps
+Create an Azure DevOps connector
+Help center - Microsoft Power BI
+Create a Power BI connector
+Help center - Miro
+Miro backup coverage
+Help center - Microsoft 365
+How Microsoft products are counted as Keepit seats for Entra ID connectors
+Help center - Zendesk
+Restore Zendesk data
+Help center - Zendesk
+Reauthenticate your Zendesk connector
+Help center - BambooHR
+BambooHR backup coverage
+Help center - API
+Edit the details of a specified contact
+Help center - API
+Update account settings
+Help center - API
+Retrieve the account ID of theÂ currently authenticated token
+Help center - API
+Create additional users (tokens) in a subaccount
+Help center - API
+Revive an account
+Help center - API
+Retrieve the list of languages for an account
+Help center - API
+Retrieve all registered contacts
+Help center - API
+Retrieve account settings
+Help center - API
+Update the list of languages for an account
+Help center - API
+Add a contact to the account
+Help center - API
+Retrieve a specified contact
+Help center - API
+Retrieve product details
+Help center - API
+Delete an account
+Help center - API
+Introduction
+Help center - API
+Authentication
+Help center - API
+API permissions
+Help center - API
+API headers
+Help center - API
+API versions
+Help center - Confluence
+Confluence backup coverage
+Help center - Okta
+Configure an Okta app integration
+Help center - Okta
+Okta backup coverage
+Help center - Microsoft Power BI
+Restore Power BI data
+Help center - Salesforce
+Salesforce backup coverage
+Help center - Salesforce
+Prepare CSV file with records to restore
+Help center - Salesforce
+Restore Salesforce AutoNumber Fields (i.e., Case Number)
+Help center - Salesforce
+Restore Salesforce records to a sandbox environment
+Help center - Salesforce
+Restore Salesforce records by manually selecting records
+Help center - Salesforce
+Restore Salesforce records via the connector browser
+Help center - Salesforce
+Restore your entire Salesforce organization
+Help center - Salesforce
+Recover Salesforce files and attachments
+Help center - Salesforce
+Restore Salesforce metadata
+Help center - Salesforce
+Anonymize Salesforce data during restore
+Help center - Salesforce
+What happens to your Salesforce records after you restore
+Help center - Salesforce
+Restore Salesforce records using a CSV file
+Help center - Salesforce
+Solve Salesforce record IDs challengesÂ with External ID field
+Help center - Salesforce
+Salesforce support for images embedded in rich text fields
+Help center - Salesforce
+Understanding Salesforce history and approval history limitations
+Help center - Salesforce
+How Salesforce seats are counted
+Help center - Salesforce
+Which Salesforce records can be restored
+Help center - PMC
+Working with custom properties
+Help center - PMC
+Working with Products
+Help center - PMC
+Using the Partner Management Console (PMC)
+Help center - Salesforce
+Setting your Salesforce API request thresholdÂ
+Help center - Zendesk
+Adding a tag when restoring a Zendesk ticket
+Help center - Zendesk
+Restore a Zendesk ticket
+Help center - Salesforce
+Configure a Salesforce connector
+Help center - API
+Retrieve resource consumption
+Help center - Jira
+Jira connector FAQs
+Help center - Keepit Platform
+FAQs for search behavior changes and expanded search
+Help center - Salesforce
+Salesforce advanced relationship restore
+Help center - Jira
+Restoring Jira objects
+Help center - PMC
+Seat usage
+Help center - Keepit Platform
+Retrieve a list of subaccount IDs and additional information
+Help center - Salesforce
+Preserving audit fields during restore in Salesforce
+Help center - API
+Retrieve the health status of a connector
+Help center - API
+Retrieve reason for unhealthy or critical status
+Help center - API
+Monitor timestamps and snapshot sizes
+Help center - API
+Retrieve job information
+Help center - API
+Filter job information
+Help center - API
+Retrieve latest imported snapshot timestamp
+Help center - API
+Retrieve monitoring summary for connector
+Help center - API
+Retrieve backup summaries for all connectors
+Help center - API
+Retrieve a backup summary for a connector
+Help center - API
+Retrieve all anomalies
+Help center - API
+Retrieve list of all connectors
+Help center - API
+Retrieve diagrams for selected category
+Help center - API
+Retrieve list of invoices for account
+Help center - API
+Retrieve the latest snapshot timestamp
+Help center - API
+Create a secondary token
+Help center - API
+Change token permissions and other details
+Help center - API
+Retrieve information on all tokens
+Help center - API
+Retrieve document with invoice content
+Help center - API
+Generate PDF version of the payment or credit
+Help center - API
+Retrieve anomaly details
+Help center - Microsoft Azure DevOps
+Download Azure Repos
+Help center - Microsoft Azure DevOps
+Azure DevOps backup coverage
+GitHub
+Recover a Git repository from a GitHub backup
+Help center - Microsoft Power BI
+Requirements for setting up a Power BI backup
+Help center - Monday
+Monday backup coverage
+Help center - Salesforce
+Disabling automation and rules during Salesforce record restores
+GitHub
+GitHub backup coverage
+MCP
+MCP overview for partners
+MCP
+AI client setup guide
+MCP
+MCP overview for customers
+MCP
+MCP example prompts
+MCP
+MCP prompt library
+Help center - Keepit Platform
+Register of exportable data by SaaS workload
+Help center - Keepit Platform
+Supported web browsers
+Help center - Keepit Platform
+Keepit's retention policy
+Help center - Keepit Platform
+Keepit security and GDPR compliance
+Help center - Keepit Platform
+Keepit's public IP addresses
+Help center - Keepit Platform
+What happens to data after canceling your Keepit service
+Help center - Keepit Platform
+Data encryption
+Help center - Keepit Platform
+Malware and Keepit backup
+Help center - Keepit Platform
+Keepit's data centers
+GitHub
+How GitHub seats are counted
+Help center - PMC
+User roles and permissions in PMC
+Help center - PMC
+Managing customer accounts as an MSP Partner
+Help center - PMC
+Managing accounts as a Partner
+Help center - PMC
+Managing accounts as a reseller
+Help center - PMC
+PMC Connector & Account Monitor
+Help center - Keepit Platform
+Create a secure shares policy
+Help center - Keepit Platform
+Retrieve data for a SIEM solution using Keepit API
+Help center - Keepit Platform
+Set up a SIEM integration
+Help center - Keepit Platform
+Create an API Token
+Help center - Keepit Platform
+View or delete secondary tokens
+Help center - Keepit Platform
+Set up TOTP authenticator for MFA
+Help center - Keepit Platform
+Configure multi-factor authentication
+Help center - Keepit Platform
+Why is it best to use an incognito window when using SSO?
+Help center - Keepit Platform
+Can I still use my Keepit credentials after setting up SSO?
+Help center - Keepit Platform
+Renew an SSO application certificate before expiration
+Help center - Keepit Platform
+Set up SSO using Okta as identity provider
+Help center - Keepit Platform
+Set up SSO using Microsoft Entra as identity provider
+Help center - Keepit Platform
+Configure SSO in Keepit
+Help center - Keepit Platform
+Create an SSO Admin user
+Help center - Keepit Platform
+SSO setup requirements
+Help center - Keepit Platform
+Sign-in session timeout
+Help center - Keepit Platform
+I forgot my password
+Help center - Keepit Platform
+Your service info
+Help center - Keepit Platform
+Your account info
+Help center - Keepit Platform
+Keepit messages
+Help center - Keepit Platform
+Create a user with a custom role
+Help center - Keepit Platform
+Create, edit, or delete a Keepit user
+Help center - Keepit Platform
+Keepit user roles and permissions
+Help center - Keepit Platform
+Generate a backup integrity report
+Help center - Keepit Platform
+Generate or schedule a backup coverage report
+Help center - Keepit Platform
+Using the Usage dashboard
+Help center - Keepit Platform
+Using the Anomaly Detection Dashboard
+Help center - Keepit Platform
+Using the Data Monitoring dashboard
+Help center - Keepit Platform
+Using the Data Protection dashboard
+Help center - Keepit Platform
+Extracting files after downloading data from Keepit
+Help center - Keepit Platform
+Assign or remove an RTBF label
+Help center - Keepit Platform
+Download data from a shared link
+Help center - Keepit Platform
+Share data via a secure share
+Help center - Keepit Platform
+Download your data
+Help center - Keepit Platform
+Compare snapshots
+Help center - Keepit Platform
+Find data for recovery
+Help center - Keepit Platform
+Manually start a backup
+Help center - Keepit Platform
+Using the Job Monitor
+Help center - Keepit Platform
+Understanding snapshot creation and backup success
+Help center - Keepit Platform
+What is a partial snapshot?
+Help center - Keepit Platform
+Backup schedule and frequency FAQs
+Help center - Keepit Platform
+Reauthenticate a connection application
+Help center - Keepit Platform
+Troubleshoot your connection applications
+Help center - Keepit Platform
+Respond to an application status
+Help center - Keepit Platform
+Add and manage connection applications
+Help center - Keepit Platform
+Add and manage connections
+Help center - Keepit Platform
+Managing access to connections
+Help center - Keepit Platform
+Capabilities required to back up Microsoft 365 workloads
+Help center - Keepit Platform
+Connection management FAQs
+Help center - Jira
+Jira backup coverage
+Help center - Docusign
+Create a Docusign connector
+Help center - Google Workspace
+Create a Google Workspace connector
+Help center - Miro
+Create a Miro connector
+Help center - Zendesk
+Create a Zendesk connector
+Help center - Confluence
+Create a Confluence connector
+Help center - Monday
+Create a Monday connector
+Help center - Jira
+Create a Jira connector
+GitHub
+Create a GitHub connector
+Help center - BambooHR
+Create a BambooHR connector
+Help center - Keepit Platform
+Get started with connection management
+Help center - Keepit Platform
+Revive a connector
+Help center - Keepit Platform
+Delete a connector
+Help center - Keepit Platform
+Why connector size and total folder sizes may not match
+Help center - Keepit Platform
+Connector health statuses
+Help center - Keepit Platform
+Reauthenticate a connector to add proper service account
+Help center - Keepit Platform
+Reauthenticate connector to update app permissions
+Help center - Keepit Platform
+Reauthenticate a connector when authentication is no longer valid
+Help center - Keepit Platform
+Reasons you may need to reauthenticate your connector
+Help center - Keepit Platform
+Configure role-based access control (RBAC) for a connector
+Help center - Keepit Platform
+Change a connector's retention period
+Help center - Google Workspace
+How Google Workspace seats are counted
+Help center - Google Workspace
+Restore Google Workspace files or folders
+Help center - Google Workspace
+Requirements for setting up a Google Workspace backup
+Help center - Microsoft 365
+Selecting users for Exchange, OneDrive, and Teams chats backup
+Help center - Salesforce
+Salesforce integration troubleshooting and best practices
+Jira Service Management
+Jira Service Management backup coverage
+Help center - Microsoft 365
+Microsoft items are skipped during the backup
+Help center - Microsoft 365
+Entra ID groups are missing from my backup configuration
+Help center - Microsoft 365
+Remove the admin service account from Groups and Teams
+Help center - Microsoft 365
+Public folder failed to restore
+Help center - Microsoft 365
+Not all of my dynamic group data is being backed up
+Help center - Microsoft 365
+Teams planner is not restoring
+Help center - Microsoft 365
+Teams channel failed to restore
+Help center - Microsoft 365
+Teams channel posts are not being backed up
+Help center - Microsoft 365
+I authenticated my Microsoft 365 connector with the wrong account
+Help center - Microsoft 365
+My Microsoft 365 connector's authentication is no longer valid
+Help center - Microsoft 365
+Throttling and what can be done
+Help center - Microsoft 365
+Restoring channel tabs and links
+Help center - Microsoft 365
+Restore team channels and posts
+Help center - Microsoft 365
+Restore Groups & Teams data from the connector level
+Help center - Microsoft 365
+Restore a Microsoft 365 team
+Help center - Microsoft 365
+Restoring SharePoint term store
+Help center - Microsoft 365
+Restore SharePoint item and file versions
+Help center - Microsoft 365
+Restoring SharePoint data with an advanced backup configuration
+Help center - Microsoft 365
+Can I restore any part of my SharePoint data?
+Help center - Microsoft 365
+Restore SharePoint sites from the connector level
+Help center - Microsoft 365
+SharePoint restore behavior
+Help center - Microsoft 365
+Best practices for restoring SharePoint data
+Help center - Microsoft 365
+Using the Teams Chat Viewer
+Help center - Microsoft 365
+Recover data using the PST download
+Help center - Microsoft 365
+Download a Microsoft 365 user
+Help center - Microsoft 365
+How long does an import take?
+Help center - Microsoft 365
+Microsoft 365 import behavior
+Help center - Microsoft 365
+Move or copy an item from a restored folder to a different one
+Help center - Microsoft 365
+How restored Outlook emails are sorted
+Help center - Microsoft 365
+Recover a deleted Microsoft 365 user
+Help center - Microsoft 365
+Recover an existing Microsoft 365 user
+Help center - Microsoft 365
+Recover Teams chats
+Help center - Microsoft 365
+OneDrive data restore behavior
+Help center - Microsoft 365
+Exchange data restore behavior
+Help center - Microsoft 365
+Restore OneDrive data from the connector level
+Help center - Microsoft 365
+Restore Exchange data from the connector level
+Help center - Microsoft 365
+Restore Microsoft 365 items
+Help center - Microsoft 365
+Missing data areas in your Microsoft 365 connector configuration?
+Help center - Microsoft 365
+Tenant missing Microsoft 365 licenses
+Help center - Microsoft 365
+What counts as a seat in a Microsoft 365 connector
+Help center - Microsoft 365
+How Microsoft products are counted as Keepit seats
+Help center - Microsoft 365
+Why snapshot size may be smaller from amount of data seen in Microsoft 365
+Help center - Microsoft 365
+What happens to backups after Microsoft 365 tenant-to-tenant migration
+Help center - Microsoft 365
+How Keepit processes data in Microsoft 365
+Help center - Microsoft 365
+Microsoft 365 data integrity
+Help center - Microsoft 365
+EWS to Microsoft Graph API migration: What it means for your Exchange backup
+Help center - Keepit Platform
+Understanding recurrently skipped items for SharePoint content storage
+Help center - Keepit Platform
+Understanding recurrently skipped items for unlicensed users
+Help center - Microsoft 365
+Backing up encrypted messages
+Help center - Microsoft 365
+Does Keepit support Legacy Authentication?
+Help center - Microsoft 365
+Does Keepit back up inactive mailboxes?
+Help center - Microsoft 365
+Does Keepit back up data on Litigation Hold?
+Help center - Microsoft 365
+Microsoft 365 Groups and Teams backup coverage
+Help center - Microsoft 365
+SharePoint backup coverage
+Help center - Microsoft 365
+Teams Chats custom app registration FAQ
+Help center - Microsoft 365
+PowerShell script for Entra ID app registration
+Help center - Microsoft 365
+Generate a certificate for your Entra ID app registration
+Help center - Microsoft 365
+Connect your Entra app registration to Keepit
+Help center - Microsoft 365
+Create an app registration in Entra ID
+Help center - Microsoft 365
+Permissions for Microsoft 365 backup and restore
+Help center - Microsoft 365
+Removing the admin role from the Microsoft 365 backup account
+Help center - Microsoft 365
+How admin user credentials are used in Keepit
+Help center - Microsoft 365
+When is a Privileged Role Admin or Global Admin required for the Microsoft 365 backup service account?
+Help center - Microsoft 365
+Calculate the amount of data you have in Microsoft 365
+Help center - Microsoft 365
+Multi-Geo support for your Microsoft 365 connector
+Help center - Microsoft 365
+Back up shared mailboxes
+Help center - Microsoft 365
+Configure your Microsoft 365 backup
+Help center - Microsoft 365
+Create a Microsoft 365 connector
+Help center - Microsoft 365
+Requirements for setting up a Microsoft 365 backup
+Help center - Docusign
+Docusign backup coverage
+Help center - API
+Create a subaccount
+Help center - Keepit Platform
+Create and manage support tickets
+Help center - Salesforce
+Restore Salesforce records
+Help center - Keepit Platform
+Using the Keepit Audit Log
+Help center - Microsoft 365
+Microsoft 365 backup coverage
+Help center - Microsoft 365
+Recover Outlook Notes
+Help center - Google Workspace
+Google Workspace backup coverage
+Help center - Keepit Platform
+Your user info
+Help center - Salesforce
+Estimated restore size in Salesforce
+Help center - Power Platform/Dynamics 365
+What counts as a seat in a Power Platform / Dynamics 365 backup
+Help center - Salesforce
+Permissions for Salesforce backup and restore
+Help center - Keepit Platform
+Deploy the Keepit ARM template to MicrosoftÂ Sentinel
+Help center - Microsoft 365
+Restore a SharePoint site
+Help center - Microsoft 365
+Import Microsoft 365 data
+Help center - Microsoft 365
+Restore OneDrive file versions
+Help center - Power Platform/Dynamics 365
+Why can't I reauthenticate my Power Platform / Dynamics 365 connector?
+Help center - Power Platform/Dynamics 365
+Restore model-driven apps
+Help center - Power Platform/Dynamics 365
+Recover Canvas apps
+Help center - Power Platform/Dynamics 365
+Restore Power Automate cloud flows
+Help center - Power Platform/Dynamics 365
+Restore Power Automate desktop flows
+Help center - Power Platform/Dynamics 365
+Restore Power Pages
+Help center - Power Platform/Dynamics 365
+Restore Dynamics 365 records
+Help center - Power Platform/Dynamics 365
+Power Platform / Dynamics 365 backup coverage
+Help center - Power Platform/Dynamics 365
+Removing the Global admin role from a Power Platform / Dynamics 365 backup service account
+Help center - Power Platform/Dynamics 365
+Requirements for setting up a Power Platform / Dynamics 365 backup
+Help center - Power Platform/Dynamics 365
+Create a Power Platform / Dynamics 365 connector
+Help center - Microsoft Entra ID
+Trouble restoring an Entra ID conditional access policy?
+Help center - Microsoft Entra ID
+Entra ID objects are missing from my backup configuration
+Help center - Microsoft Entra ID
+Recover Windows LAPS
+Help center - Microsoft Entra ID
+Recover a BitLocker key
+Help center - Microsoft Entra ID
+Recover Entra ID activity logs
+Help center - Microsoft Entra ID
+Restore authentication methods
+Help center - Microsoft Entra ID
+Restore an Entra ID conditional access policy
+Help center - Microsoft Entra ID
+Restore an Entra ID policy
+Help center - Microsoft Entra ID
+Restore an Entra ID object's licenses
+Help center - Microsoft Entra ID
+Restore an Entra ID object's relationships
+Help center - Microsoft Entra ID
+What happens when I restore an Entra ID object?
+Help center - Microsoft Entra ID
+Restore Entra ID data to a different tenant
+Help center - Microsoft Entra ID
+Restoring Entra ID data from the connector level
+Help center - Microsoft Entra ID
+Restore an Entra ID app registration
+Help center - Microsoft Entra ID
+Restore an Entra ID service principal
+Help center - Microsoft Entra ID
+Restore an Entra ID role
+Help center - Microsoft Entra ID
+Restore an Entra ID administrative unit
+Help center - Microsoft Entra ID
+Restore an Entra ID user
+Help center - Microsoft Entra ID
+Restore an Entra ID group
+Help center - Microsoft Entra ID
+Preview and compare Entra ID metadata
+Help center - Microsoft Entra ID
+Can the service account used for Entra ID backup have MFA enabled?
+Help center - Microsoft Entra ID
+Supported Microsoft Intune device configuration profiles
+Help center - Microsoft Entra ID
+Supported Entra ID object attributes
+Help center - Microsoft Entra ID
+Entra ID backup coverage
+Help center - Microsoft Entra ID
+What counts as a seat in an Entra ID connector
+Help center - Microsoft Entra ID
+Permissions for Entra ID Backup
+Help center - Microsoft Entra ID
+When is the Global Admin role required for Entra ID backup service account?
+Help center - Microsoft Entra ID
+Create an Entra ID connector
+Help center - Microsoft Entra ID
+Requirements for setting up an Entra ID backup
+Help center - Salesforce
+Create a Salesforce connector
+Help center - Salesforce

@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/help/platform-category/create-a-user-with-a-custom-role/
+Content type: Web page
+Last modified: 2026-06-23T22:43:30+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create a user with a custom role
+Master Admins or users with the required permission can create new users.
+Create a user with a custom role
+1. In the lower-left corner, select the account profile > Account info.
+2. Go to the Users tab and click the + icon in the toolbar.
+3. Enter a username and email, configure the advanced settings, and then click Next.
+- Send activation email: Leave this option enabled if you want the user to receive an email with a set password link. If you disable this option, you must enter a password.
+- Set an expiration date: Enable this option if you want the user to to have an expiration date.
+4. Select Create custom role.
+5. Enable the permissions you want to assign to the user and then click Next.
+You cannot grant more permissions than those that you possess. 
+Tip: Start with the permissions of a predefined role and then make necessary adjustments.
+Note: Certain permissions have dependencies, meaning they require other permissions to be enabled as well. Enabling such permissions will automatically activate their dependent permissions.
+6. Select which connectors the user should have access to, and then click Next.
+7. Review the user details and settings, and then click Create.

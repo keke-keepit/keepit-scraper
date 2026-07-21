@@ -1,0 +1,37 @@
+Source URL: https://www.keepit.com/blog/dora-compliance-backup/
+Content type: Web page
+Last modified: 2025-08-20T02:52:23+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+DORA: Strengthening financial institutions through effective backup solutions
+The Digital Operational Resilience Act (DORA) marks a new phase in how financial institutions must approach cybersecurity and operational resilience. With its January 2025 implementation date fast approaching, institutions are focusing on aligning their ICT (information and communication technology) risk management frameworks with DORA’s stringent requirements.
+One critical aspect of compliance under DORA is ensuring that institutions have robust backup policies and procedures in place. This article discusses how backup solutions, particularly cloud-based ones, can help financial institutions meet DORA compliance requirements, ensuring minimal downtime and protecting the integrity of their operations.
+Unpacking DORA’s backup requirements
+DORA mandates that financial institutions incorporate comprehensive backup, restoration, and recovery measures into their ICT risk management strategies. These backup systems are not simply a technical requirement — they play a central role in ensuring business continuity. DORA stipulates that backup solutions must be:
+- Secure: Protect the confidentiality, integrity, and availability of data.
+- Activated without compromising IT systems: Backup procedures should not expose systems to further vulnerabilities during restoration processes.
+In practical terms, financial institutions must set up backup systems that can withstand cyber incidents, system failures, and disruptions. Crucially, DORA emphasizes that backup is not just an IT issue — it is a governance issue, requiring oversight and approval from executive management. Backup solutions must, therefore, be part of the organization’s strategic ICT risk framework.
+The role of backup solutions in DORA compliance
+Effective backup policies and procedures lie at the heart of operational resilience and DORA compliance. In line with internationally recognized standards like ISO 22301 (business continuity) and ISO 27031 (ICT disaster recovery), backup solutions are indispensable for preparing for and recovering from disruptive incidents.
+DORA’s focus extends beyond simple data restoration. It includes ensuring logical and physical data segregation (air gapping), data encryption standard, access control, data integrity, and redundancy. Financial institutions need to select backup solutions that ensure the following:
+- Redundancy and high availability: Ensures continuity by replicating data across multiple locations.
+- Strong encryption and access control: Secures data both at rest and in transit.
+- Quick recovery times: Minimizes downtime during an incident response by swiftly restoring access to critical systems and data.
+Choosing a third-party backup provider with a proven track record in financial services can help ensure compliance, while also mitigating risks in the event of an incident.
+Regular testing: A pillar of effective backup practices
+Under DORA, regular testing of backup and restoration procedures is mandatory. This ensures that institutions can quickly recover in the face of incidents, while also identifying gaps in their current strategies. These tests must be conducted periodically, with large organizations often needing to implement threat-led penetration testing (TLPT).
+However, not all backup solutions offer equal efficiency when it comes to testing and auditing. When choosing a vendor, it is important to look for those that support:
+- Efficient auditing and reporting: Documenting the effectiveness of backup processes without using excessive business resources.
+- Frequent and flexible testing capabilities: Allowing businesses to test their backup infrastructure as often as necessary to ensure compliance with DORA’s stringent requirements.
+As backup testing will be a recurring event under DORA, the ability to perform these tests without disrupting normal business operations will be critical for maintaining both operational resilience and regulatory compliance.
+Conclusion
+Backup solutions are central to meeting DORA’s ICT risk management and operational resilience requirements. Financial institutions that invest in robust backup systems can protect their operations from disruptions, ensure continuity, and, most importantly, comply with the regulatory demands set out by DORA.
+In summary, when selecting backup solutions, financial institutions should focus on key features that will ensure they can meet DORA’s stringent requirements:
+- Access control and encryption: Protect data integrity and confidentiality with data encryption standard.
+- Redundancy and high availability: Ensure that data is consistently available when needed.
+- Efficient testing and reporting: Minimize resource use while meeting regulatory testing mandates.
+- Comprehensive recovery plans: Ensure a quick and organized restoration of services after an incident.
+- Detailed documentation: Maintain thorough records of backup processes, testing, and recovery, crucial for both internal governance and external regulatory audits.
+By implementing these strategies, financial institutions will not only achieve compliance with DORA but also enhance their resilience against cyberthreats, securing their operations and maintaining the trust of their customers.

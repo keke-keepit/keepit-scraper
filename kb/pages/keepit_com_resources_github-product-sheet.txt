@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/resources/github-product-sheet/
+Content type: Web page
+Last modified: 2026-02-25T22:32:36+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for GitHub
+Your GitHub data. Always safe and recoverable.
+Data loss in GitHub — whether malicious or accidental — can erase critical source code, compromise security and compliance evidence, and halt development. With limited native recovery capabilities, GitHub requires a reliable third-party backup and recovery solution to avoid costly delays, rework, and risks to product integrity and business continuity.
+Awarded for its broad SaaS coverage, impenetrable architecture, and ease-of-use, Keepit ensures that your GitHub data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams.

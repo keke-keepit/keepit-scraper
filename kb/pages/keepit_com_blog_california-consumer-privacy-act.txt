@@ -1,0 +1,97 @@
+Source URL: https://www.keepit.com/blog/california-consumer-privacy-act/
+Content type: Web page
+Last modified: 2026-03-16T11:49:58+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What is CCPA? Hereâs what you need to know about Californiaâs privacy lawÂ
+The California Consumer Privacy Act (CCPA) is California’s landmark privacy law. It gives California residents rights over their personal information (PI) and requires many businesses to be transparent about how they collect, use, and share that data — and to honor consumer requests regarding their PI within defined timelines.
+CCPA matters because it has real enforcement consequences; it has shaped privacy expectations far beyond California, and it increasingly pushes organizations toward operational, evidenceâbased compliance (not just relying on privacy policy wording).
+So, what is the California Consumer Privacy Act?
+CCPA is California’s comprehensive consumer privacy framework. In practice, it sets expectations in three big areas:
+- Transparency (notices and privacy policy disclosures)
+- Consumer rights (and how businesses must respond)
+- Accountability (contracts, governance, and — increasingly — security and risk documentation)
+You’ll also hear about CPRA (California Privacy Rights Act). CPRA amended the CCPA rather than creating an entirely separate law — so most official guidance still refers to “CCPA” or “CCPA, as amended.” Read more about the California AG’s explanation.
+New obligations under CCPA: Timeline and what’s changing
+In late September 2025, California completed a major regulatory update under the CCPA. The Office of Administrative Law (OAL) approved the regulations, and California’s privacy regulator announced the approval on Sept. 23, 2025. See the regulator’s rulemaking status page and the official announcement.
+The updated rules took effect Jan. 1, 2026, with phased compliance timelines for the most complex new requirements.
+Timeline at a glance (official timeline)
+- Jan. 1, 2026: Risk assessment regime takes effect for new high-risk processing
+- Jan. 1, 2027: Automated decision-making technology (ADMT) requirements begin for covered uses
+- Dec. 31, 2027: Transition deadline for completing risk assessments for pre-existing high-risk processing activities
+- April 1, 2028: First risk assessment submissions/attestations due
+- Starting April 1, 2028: Cybersecurity audit certification deadlines begin for certain businesses (revenue-tiered)
+Depending on your organization’s profile and processing activities, these updates can introduce or expand obligations around:â¯
+- Risk assessmentsâ¯(duties beginning in 2026, with submissions due starting in 2028)â¯â¯
+- Cybersecurity auditsâ¯(with certification deadlines starting in 2028, and revenue-based phase-in)
+- ADMT (new notice and consumer-rights requirements for certain “significant decision” uses beginning in 2027)
+The detailed triggers are complex, but one theme is consistent: California is pushing privacy compliance toward documented, reviewable internal controls — not only disclosures.â¯
+Why CCPA matters
+CCPA matters because it turns privacy from a policy exercise into an operational one. For many organizations, it’s a practical baseline for what regulators, customers, and procurement teams expect a privacy program to be able to do. CCPA is often treated as a U.S. “baseline” because it combines:
+- Consumer rights that require real workflows (intake, verification, fulfillment, and logging) — see CA AG CCPA guidance
+- Opt-out requirements for “sale” and “sharing” of PI including honoring preference signals like the Global Privacy Control (GPC) — see CA AG’s GPC guidance
+- Enforcement and penalties that can scale quickly (often framed per violation and supported by published fine/damages ranges) — see CPPA CPI adjustment amounts
+- Rising accountability in the 2026 regulations (risk assessments, cybersecurity audits)
+The next question is whether your organization is actually covered — CCPA doesn’t apply to every business, and applicability depends on a few specific thresholds.
+Who does CCPA apply to?
+CCPA doesn’t apply to every organization. It generally applies to a for-profit business that:
+- Does business in California
+- Collects consumers’ personal information (or has it collected on its behalf)
+- Determines the purposes and means of processing that personal information
+- Meets at least one threshold:
+- Annual gross revenue over $26,625,000 (inflation-adjusted, effective 1/1/2025), or
+- Buys, sells, or shares personal information of 100,000 or more consumers or households, or
+- Derives 50% or more of annual revenue from selling or sharing consumers’ personal information
+Important note on geography: You do not need to be headquartered in California. If you “do business” in California and meet the above-mentioned criteria, CCPA can still apply.
+What rights does CCPA give consumers?
+CCPA defines a consumer as a natural person who is a California resident however identified, including by any unique identifier.
+CCPA gives consumers several core rights that businesses must be able to support operationally. The California Attorney General summarizes these rights in the official CCPA FAQs. These rights include:
+- Right to know/access (what personal information is collected and how it’s used/shared)
+- Right to delete (with exceptions)
+- Right to correct inaccurate personal information
+- Right to opt out of sale or sharing (including via signals like GPC)
+- Right to limit the use/disclosure of sensitive personal information
+- Right to nondiscrimination for exercising privacy rights
+This is where “privacy policy compliance” must become “operational compliance”: dedicated intake channels in place, identity verification processes, defined response timelines, coordination with third-party vendors, and logging/evidence.
+CCPA compliance requirements basics: What businesses can do
+Most CCPA programs aren’t a single project — they’re a set of repeatable, auditable, and operational building blocks. Here are the starting points teams prioritize:
+1) Publish the right notices and disclosures
+Businesses must provide clear disclosures about what personal information they collect and why, and how consumers can exercise their rights. For a practical baseline, see the CA AG’s required notices overview (section H) and the applicable sections of the official text 2026 regulations text (PDF).
+2) Build a request handling workflow you can prove
+You’ll need a workflow to receive, verify, and fulfill consumer requests (know/access, delete, correct, opt-out, limit).
+3) Operationalize optouts (including GPC)
+If you “sell” or “share” personal information as defined by CCPA, you need reliable opt-out handling.
+Additionally, online businesses must also treat a user-enabled preference signal like GPC as a valid opt-out request. See the CA AG’s Global Privacy Control guidance.
+4) Map your supply chain and data flows
+If service providers/contractors process personal information of consumers on your behalf, your ability to comply with CCPA often depends on contracts that you have with these vendors as well as processes that support deletion/correction and restrictions on downstream use of consumers’ personal information.
+5) Don’t ignore backups and archived systems
+CCPA compliance isn’t only about your live production systems. Organizations should understand where personal information may persist (including backups) and what processes exist when data is restored or accessed. This becomes even more relevant under the cybersecurity audit requirements, which explicitly include business continuity and disaster recovery components.
+Enforcement and penalties under CCPA
+CCPA isn’t just a policy requirement — it’s enforceable, and penalties can add up quickly.
+Who enforces CCPA?
+Enforcement authority sits with California’s privacy regulator (CalPrivacy) and the California Attorney General. CalPrivacy enforces the CCPA administratively (investigations, fines, rulemaking) without needing to go to court, while the Attorney General enforces it through civil court litigation with more limited powers.
+Administrative fines can be assessed per violation
+CCPA administrative fines are assessed per violation. And California publishes inflation-adjusted monetary thresholds.
+Effective Jan. 1, 2025, the inflation-adjusted amounts are:
+- Up to $2,663 per violation, and
+- Up to $7,988 per violation for intentional violations and violations involving personal information of consumers the business has actual knowledge are under 16.
+Because fines are counted per violation, organizations should treat incidents such as consumer request-handling breakdowns, opt-out failures, and “at scale” issues as higher-risk than one-off errors.
+Statutory monetary damages for customers: Range is also inflation-adjusted
+Separate from administrative fines, CCPA includes statutory monetary damages per consumer per incident. Effective Jan. 1, 2025, California’s published, inflation-adjusted range is not less than $107 and not greater than $799 per consumer per incident (or actual damages, whichever is greater).
+Newer regulations increase governance pressure
+The 2026 regulations add requirements around cybersecurity audits, risk assessments, and automated decision-making technology, with phased compliance dates and first submission dates stretching into 2028 and beyond.
+Notably, the regulations require certain submissions to be filed by appropriate members of the business's executive management which must affirm under penalty of perjury that the submission is true and correct. This is an unprecedented and meaningful shift toward personal accountability and executive-level certification.
+What this means for security, resilience, and audit readiness
+Even though not every organization covered by CCPA will fall under the cybersecurity audit requirement, the direction is clear: California privacy compliance is increasingly tied to security governance and recoverability.
+For businesses that do fall within the audit scope, the regulations don’t stop at classic security controls. They also explicitly include business continuity and disaster recovery, including data recovery capabilities and backups. That means teams may need to demonstrate not only how they prevent incidents, but also how they restore systems and personal information — and how they test those capabilities.
+In practice, this tends to pull privacy, security, and IT operations closer together: Privacy teams need confidence that data can be located and handled correctly across systems, and security teams need evidence that resilience planning and recovery processes work under real conditions. The compliance takeaway is straightforward: If you’re preparing for CCPA enforcement scrutiny, you should be able to show repeatable processes — not just written policies.
+Below are quick answers to a few common CCPA questions teams ask when scoping compliance.
+FAQ
+Is CCPA the same as GDPR?
+They share concepts (consumer/data subject rights, transparency, and security expectations), but they’re different legal regimes with different scope, definitions, and compliance mechanisms. Many global organizations treat CCPA as one pillar of a broader privacy program rather than trying to “copy-paste” a GDPR approach.
+Do you have to be based in California?
+No. If your organization does business in California and meets CCPA thresholds, you may be covered even if you’re headquartered elsewhere.
+How quickly do penalties add up?
+Because administrative fines can be assessed per violation, exposure can scale quickly when a gap affects many consumers or persists over time. Read CCPA enforcement case examples from the State of California Department of Justice.

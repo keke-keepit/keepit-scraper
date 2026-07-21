@@ -1,0 +1,16 @@
+Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/check-security-role-and-access-mode-for-dynamics-user/
+Content type: Web page
+Last modified: 2025-03-11T20:59:06+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Check security role and access mode for Dynamics user
+To back up Dynamics 365 CE data, the Microsoft 365 user must be assigned the Global administrator role and have a proper Dynamics license.
+The user must also be assigned the system administrator security role and have read-write access.
+To check security role and access mode
+- In your Dynamics app, open Advanced Settings.
+- Select Settings > Security > Users.
+- Open the user:
+To check security role, in the top navigation bar, select Manage Roles, and make sure System Administrator is selected.
+To check access mode, scroll down to Administration and make sure Access Mode is set to Read-Write.

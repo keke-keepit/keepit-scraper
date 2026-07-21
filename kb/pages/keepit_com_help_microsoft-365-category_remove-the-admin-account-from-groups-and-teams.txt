@@ -1,0 +1,16 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/remove-the-admin-account-from-groups-and-teams/
+Content type: Web page
+Last modified: 2026-06-30T02:16:30+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Remove the admin service account from Groups and Teams
+The Privileged Role Admin or Global Admin service account that authenticates a connector automatically becomes a member of all Teams and Groups that are backed up. If you authenticated with the wrong account, you may want to remove this account from Groups and Teams.
+Remove a service account
+1. Sign in to your Microsoft Global admin account.
+2. Open the Admin app.
+3. In the left navigation pane, select Users > Active users.
+4. Select the circle to the right of the the user you want to remove, select the three dots, and then select Manage groups.
+5. In the next window, click the X to the right of the Group(s) you want to remove the user from, and then select Save.
+This will remove the user from all selected Groups and will automatically delete the user from the Teams associated with the Groups.

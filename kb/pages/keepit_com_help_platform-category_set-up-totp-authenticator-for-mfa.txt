@@ -1,0 +1,36 @@
+Source URL: https://www.keepit.com/help/platform-category/set-up-totp-authenticator-for-mfa/
+Content type: Web page
+Last modified: 2026-06-23T23:34:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Set up TOTP authenticator for MFA
+Setting up TOTP
+If MFA is enabled for your account, you will be prompted to set up TOTP when you sign in to Keepit.
+To set up TOTP
+1. Select which authenticator you would like to use. Then select Start.
+If you already have one, select I already have an authenticator app to skip the next step.
+2. Scan the QR code or search for the app in the App Store or Google Play. Tap Next.
+3. Scan the QR code with the app and then enter the MFA code. Alternatively, tap Text version QR code to enter the code.
+4. Enter the MFA code you see in the app and select Confirm.
+5. Multi-factor authentication is on. Select OK to close.
+Now next time you sign in we'll ask for a verification code if only TOTP is enabled on your account or if we notice a login from an untrusted IP address.
+Resetting TOTP
+If you lost your device or have a new authenticator, you or your Master Admin can reset the TOTP.
+To reset your TOTP
+You can reset your TOTP through your User info page.
+1. In the bottom-left corner, click your account profile > User info.
+2. Go to Security > MFA.
+3. Point to the TOTP entry and click the reset icon.
+4. On the pop-up, select Reset.
+At the next sign-in, you will need to set up the authenticator app again.
+To reset TOTP for a different user
+The Master Admin can reset TOTP for other users from the Users page.
+1. In the lower-left corner, select your account profile > Account info.
+2. Open the Users tab.
+3. Point to the user and click the gear icon.
+4. Open the Security tab.
+5. Point to the TOTP entry and click the reset icon.
+6. On the pop-up, select Reset.
+At the next sign-in, the user will need to set up the authenticator app again.

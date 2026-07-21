@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/blog/intelligent-ciso-nis2/
+Content type: Web page
+Last modified: 2025-08-20T00:20:07+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why UK IT teams need to prepare for NIS2: Insights from Keepitâs CISO
+ComplianceSeptember 20, 2024 | 5 minutesBy Kim Larsen
+As cyberthreats continue to evolve, so do the regulations designed to protect critical infrastructure. In a recent interview with Intelligent CISO, our chief information security officer discusses why UK businesses should be preparing for the EU’s upcoming Network and Information Systems Directive (NIS2), even post-Brexit.
+In this insightful piece, you’ll learn:
+- How NIS2 aligns with the UK’s own cybersecurity frameworks, including the proposed Cyber Security and Resilience Bill.
+- Why early adoption of NIS2 standards can strengthen business relationships with EU partners.
+- The role NIS2 plays in boosting cyber resilience and incident response strategies.
+Don’t miss the full article on how your organization can stay ahead of the curve and enhance its cybersecurity posture.

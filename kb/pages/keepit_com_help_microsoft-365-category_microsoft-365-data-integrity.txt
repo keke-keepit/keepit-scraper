@@ -1,0 +1,9 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/microsoft-365-data-integrity/
+Content type: Web page
+Last modified: 2026-06-30T00:04:42+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Microsoft 365 data integrity
+All data retrieved from Microsoft 365 is retrieved via public Microsoft 365 APIs, which employ HTTPS as the transport mechanism. This means all data is encrypted in transit using TLS encryption (the encryption layer in HTTPS).

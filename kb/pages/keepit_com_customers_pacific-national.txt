@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/customers/pacific-national/
+Content type: Web page
+Last modified: 2025-12-02T13:40:10+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Pacific National gains peace of mind for the long haul with Keepitâs cloud backup solution
+Australia’s largest private rail freight company, Pacific National, chose Keepit to protect their business-critical cloud data. In an initiative to ensure that the organization has the most secure data backup and recovery solution in place, the organization chose Keepit due to its unparalleled independent cloud data coverage (especially the critical access to Microsoft Entra ID) – and the promise that the business can always access their data – even in the event of a cyberattack.
+Managing the risk of data loss was critically important
+Prior to working with Keepit, Pacific National carried out a series of risk assessments and determined that the native restore tools from Microsoft were not as efficient or user-friendly when compared to what Keepit could offer. With the conclusion that a major Microsoft 365 cyber incident could lead to mass data loss for their organization, Pacific National turned to Keepit for its independent, third-party backup and recovery solution. Essentially, even if Microsoft is having service problems, Pacific National would still be able to reliably access their data since all backups are separate from Microsoft’s native backup solution. With Keepit, their organization can now reliably back up Microsoft 365, Microsoft Entra ID, Microsoft DevOps, and Microsoft Dynamics 365 – and rest assured that their data will be available and recoverable even in the event of an unexpected cyber event or accidental data deletion.
+The native restore tools from Microsoft are not as efficient or user-friendly as Keepit’s backup and recovery. We do not want to risk data loss in the event of a major Microsoft 365 incident. Keepit’s tools save my engineer’s significant time.
+– Wilbur Palijo, Pacific National IT Infrastructureâ¯Managerâ¯
+A heavy reliance on access to Microsoft Entra ID
+Pacific National shares that they, like many organizations, are immensely dependent on access to Microsoft Entra ID. Loss of access would impact business operations, disrupt the nations supply chain, and potentially result in financial losses. Causing a negative domino effect across other cloud applications, Pacific National would face significant downtime if access to Microsoft Entra ID were blocked. The organization chose Keepit for Entra ID due to its ability to mitigate accidental or malicious object deletions. The solution provides historical records of configuration and policy changes. Additionally, an impressive list is protected in the Entra ID back up, including: users, devices, groups, objects, app registrations, service principals, conditional access policies, and compliance policies. Entra ID holds the key to the organization’s business critical data; with Keepit for Entra ID in place, Pacific National can rest assured that this data is fully secure and recoverable.
+Fortunately, we have not lost access to Entra ID, and we hope that we never do, as the consequences would be catastrophic. Backing up our data with Keepit for Entra ID ensures that we never lose access to this business-critical data – which provides our organization with peace of mind.
+– Tony Azzi, Pacific National Senior Infrastructure Engineer
+‘Keepit ticks all the boxes’
+Pacific National evaluated various SaaS backup solutions and ultimately chose Keepit due to a range of benefits and features provided by the solution. The private rail freight company cites ease of use, product maturity, and backup frequency as their top reasons for choosing the solution. A broad array of global backup data centers, dedicated technical support, and cost-effectiveness were also key factors in selecting Keepit. With seamless product maintenance, the solution proved to be a tool that could deliver the organization’s needs while being extremely user-friendly and taking up minimal time resources for the team.
+Keepit is a reliable, robust, and a mature backup solution. It allows for granular recovery of Entra ID, Microsoft 365, and other cloud workloads with ease.
+– Tony Azzi, Pacific National Senior Infrastructure Engineer

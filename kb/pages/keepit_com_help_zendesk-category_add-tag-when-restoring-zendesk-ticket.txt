@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/help/zendesk-category/add-tag-when-restoring-zendesk-ticket/
+Content type: Web page
+Last modified: 2026-02-25T11:35:13+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Adding a tag when restoring a Zendesk ticket
+When tickets are restored to Zendesk through the API, Zendesk treats them as newly created tickets. That means your normal triggers, automations, SLAs, and notifications can fire including emails sent to customers.
+To prevent this, you can add a tag during restore so your Zendesk workflows can identify restored tickets and handle them differently.
+Best practice setup
+1. Create the tag in Zendesk before you run the restore.
+2. Update your Zendesk triggers and automations to check for the tag.
+3. Add exclusions so restored tickets do not send customer facing notifications or kick off unwanted workflows.
+Example logic
+If a ticket contains the tag = restore_ticket
+→ Do not send external email notification
+→ Do not apply SLA policy
+→ Do not reopen closed workflows
+Important notes
+- This works for both single ticket restores and bulk restores.
+- If you don't add a restore tag, restored tickets may trigger normal Zendesk automations and notifications.
+- The tag stays on the ticket until you remove it.
+- You can add more than one tag.

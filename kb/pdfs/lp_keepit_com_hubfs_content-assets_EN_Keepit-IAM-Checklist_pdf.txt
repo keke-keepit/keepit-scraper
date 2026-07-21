@@ -1,0 +1,129 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-IAM-Checklist.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-07-21
+
+============================================================
+
+1
+© 2026 Keepit. All rights reserved
+The hidden risks 
+of unprotected 
+identity systems
+Recoverability [ re·cov·er·a·bil·i·ty (noun) ]
+Uninterrupted access to your data, even when primary systems fail. 
+Keepit recoverable. Keepit secure. That’s intelligent.
+
+2
+© 2026 Keepit. All rights reserved
+Introduction
+Identity is now the operational and security control plane of modern business. Platforms like Microsoft 
+Entra ID and Okta don’t just manage access: they control how employees work, how systems 
+communicate, and how organizations operate securely at scale. 
+As identity environments become more interconnected and automated, attackers are increasingly 
+targeting Identity Access Management (IAM) systems through ransomware, compromised privileged 
+accounts, configuration manipulation, and AI-enhanced phishing and social engineering attacks. 
+Yet many organizations still rely primarily on native protections designed for availability, not 
+comprehensive identity recovery.
+Availability is not recoverability
+When identity systems are compromised, misconfigured, or maliciously altered, the impact extends 
+far beyond IT. Employees can lose access to critical applications, security policies may fail, automated 
+workflows can break, and recovery efforts often become manual, time-consuming, and difficult to 
+validate. 
+This checklist will help you identify common gaps in identity resilience, recovery readiness, and 
+operational protection across your IAM environment. 
+1. Are your critical identity systems truly protected?
+As identity environments become more interconnected and automated, the impact of a com-
+promised admin account, configuration error, or malicious change can spread quickly across 
+users, permissions, policies, and business-critical applications. Many organizations still rely 
+on manual recovery processes with limited visibility into identity changes, increasing the risk 
+of prolonged downtime, security gaps, and operational disruption when incidents occur. 
+A strong identity resilience strategy helps reduce this risk through independent, point-in-
+time backups stored outside the production environment. Teams can quickly recover users, 
+groups, roles, conditional access policies, and MFA configurations without manual effort, 
+enabling fast and reliable recovery after ransomware, administrative error, or other identity-
+related incidents.
+2. Could your organization recover from a compromised identity 
+environment? 
+Ransomware and identity-based attacks increasingly target privileged accounts, policies, 
+and access configurations that organizations depend on to operate securely. As AI-
+enhanced phishing, social engineering, and automated attacks become more sophisticated, 
+unauthorized changes can spread rapidly across users, groups, permissions, and policies. 
+If recovery points are compromised or backups can be altered, organizations may be 
+left without a reliable path to clean recovery, increasing the risk of lockouts, operational 
+disruption, and costly manual rebuilds.
+
+3
+© 2026 Keepit. All rights reserved
+To strengthen resilience against malicious activity, identity backups should be immutable 
+and isolated from the primary IAM environment. Teams should be able to quickly roll back 
+unauthorized changes from compromised accounts and rely on tested recovery processes to 
+restore identity data, policies, and configurations cleanly and consistently after ransomware 
+or other cyber incidents.
+3. How quickly could your identity environment recover from disruption?
+During a cyber incident or administrative failure, slow and inconsistent recovery processes 
+can quickly disrupt employee productivity, application access, and business operations. 
+Many organizations still rely on manual scripts, fragmented recovery steps, or undocumented 
+processes that make identity restoration difficult to execute under pressure. Limited recovery 
+options and unclear recovery time objectives (RTOs) further increase the risk of delays, errors, 
+and incomplete restores when rapid recovery matters most. 
+Modern identity resilience requires recovery processes that are standardized, tested, and 
+aligned to defined recovery time objectives. Teams should be able to quickly restore entire 
+environments or recover specific users, groups, roles, and policies with precision, helping 
+minimize downtime and maintain operational continuity during identity-related incidents.
+4. Could you quickly recover from harmful policy or configuration 
+changes?
+Identity environments are constantly evolving, with policies, permissions, and access settings 
+changing across users, applications, and administrative teams. Without clear visibility into 
+historical configurations and the ability to quickly restore known-good settings, even small 
+misconfigurations or unauthorized changes can create significant operational and security 
+risk. As identity systems become more automated and interconnected, these issues can 
+spread quickly, leading to access disruptions, policy drift, and security gaps that are difficult 
+to identify and correct. 
+Strong configuration and policy resilience helps teams maintain visibility into identity 
+changes over time and recover quickly from accidental or malicious modifications. Historical 
+versions of policies and settings can be compared, audited, and restored when needed, 
+helping reduce operational disruption and maintain a stronger security posture.
+5. Could you prove identity recoverability during an audit or investigation? 
+As identity systems become more critical to business operations, maintaining clear 
+records of identity changes, policy modifications, administrative activity, and recovery 
+events is essential for both compliance and incident response. Many organizations still 
+lack the visibility and reporting needed to support forensic investigations, demonstrate 
+recoverability, or prove compliance with frameworks such as GDPR and SOC 2. During audits 
+or security incidents, these gaps can delay response efforts, increase regulatory exposure, 
+and create operational and reputational risk. 
+Mature identity resilience strategies help reduce this exposure by preserving complete 
+audit trails for users, groups, roles, policies, and administrative changes. Backup data can 
+be retained in a way that supports legal hold requirements and forensic investigations, 
+while recovery and audit reporting helps organizations demonstrate identity protection and 
+recovery readiness with greater confidence and transparency.
+
+4
+6. Does your identity recovery strategy extend beyond native IAM 
+protections?
+Many organizations assume their IAM provider is fully responsible for protecting and 
+recovering identity data, policies, and configurations. In reality, native protections are 
+primarily designed for service availability, not comprehensive backup and recovery. 
+Overreliance on retention policies, recycle bins, or limited rollback capabilities can leave 
+critical gaps in identity resilience that often remain hidden until an incident occurs. 
+A strong shared responsibility strategy recognizes that identity protection and recoverability 
+are essential components of broader cyber resilience planning. Identity systems should be 
+treated as Tier 0 infrastructure, with independent backup and recovery capabilities designed 
+to protect users, groups, policies, configurations, and other critical identity data from 
+operational failure, ransomware, or administrative error.
+Now, assess your risk
+Identity failures rarely start with a complete outage. More often, they begin with compromised 
+accounts, configuration drift, administrative errors, or malicious changes that quietly spread across 
+the environment before the impact is fully understood. 
+Request a meeting with a Keepit resilience expert to identify potential gaps in identity recoverability, 
+operational readiness, and cyber resilience across Microsoft Entra ID and Okta. 
+Better understand where your organization may be exposed and validate your recovery readiness 
+before an identity-related incident disrupts business operations.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a 
+vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and future-
+proof data protection. Headquartered in Copenhagen with offices and data centers worldwide, more than 
+20,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on LinkedIn.
+© 05/15/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Your data. Here today. Here tomorrow.

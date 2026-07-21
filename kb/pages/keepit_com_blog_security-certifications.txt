@@ -1,0 +1,52 @@
+Source URL: https://www.keepit.com/blog/security-certifications/
+Content type: Web page
+Last modified: 2026-01-23T12:21:14+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Proof over promises: Why security certifications matterÂ
+Security certifications aren’t trophies. They’re independent proof that a vendor’s controls exist, are well designed, and, when applicable, operate effectively over time. For buyers, they cut noise and shorten due diligence.
+For us at Keepit, they hardwire discipline across teams and keep our resilience practices honest. In regulated markets, stakeholders increasingly want evidence, not assurances, and that’s where certifications come in.
+First, what do certifications actually represent?
+The word certification is often used loosely to describe different kinds of third-party reports: Here’s what each means:
+- Certification is awarded by an accredited body after auditing a management system against a recognized standard. For example, ISO/IEC 27001 is the standard; the British Standards Institution (BSI) is the certification body.
+- Attestation/assurance report is issued by an independent auditor who evaluates controls against defined criteria. A Type 1 report assesses control design at a point in time, while a Type 2 report evaluates operating effectiveness over a period. System and Organization Controls 2 (SOC 2) and International Standard on Assurance Engagements (ISAE) 3402 are common examples.
+- Industry assessment/label is a standardized information security assessment and result-sharing mechanism. It was developed in Europe for the automotive sector and is based on ISO/IEC 27001, with additional requirements for protecting customer data, intellectual property, and other sensitive information. An approved audit provider assesses the organization’s information security management system (ISMS) against the TISAX criteria.
+We use “certified” for ISO/IEC 27001, “attestation/assurance report” for SOC 2 and ISAE 3402, and “assessment and label” when we talk about TISAX, even though many customers will colloquially refer to this as “TISAX certification.”
+Why certifications matter for backup specifically
+SaaS backup is the last line of defense; if it isn’t secure and available, recovery fails. Certifications and attestations validate disciplines that protect confidentiality, integrity, and availability (the CIA triad) and help risk, compliance, and security teams verify that business continuity and disaster recovery (BC/DR) practices are real, monitored, and improved. Read about balancing DR, backup, and security.
+They also support regulatory journeys such as the European Union’s Network and Information Security Directive 2 (NIS2), the Digital Operational Resilience Act (DORA), and the General Data Protection Regulation (GDPR), as well as U.S. regimes like the Securities and Exchange Commission (SEC), and the Financial Industry Regulatory Authority (FINRA) by demonstrating maturity in incident response, testing, and continuity.
+What Keepit holds today and what it proves
+ISO/IEC 27001: Enterpriseâwide certification by the British Standards Institution (BSI)
+Our ISO 27001 certification covers the entire organization — including services and technology, business continuity and operations, disaster recovery, sales, and legal — across all locations. The BSI audit references the standard’s 150âcontrol framework and emphasizes ongoing internal audits and continual improvement — helping customers streamline thirdâparty risk reviews. Learn more about Keepit’s ISO/IEC 27001 certification. 
+ISAE 3402 Type II — annual assurance engagement
+Keepit undergoes an annual ISAE 3402 Type II engagement. This is not a “certificate” in the strict sense; it’s an assurance report demonstrating that specified controls operated effectively throughout the reporting period. While some shorthand refers to this as “certified,” the precise term is Type II assurance. We use that language for accuracy and clarity. 
+SOC 2 Type 1: Pointâinâtime attestation against American Institute of Certified Public Accountants (AICPA) Trust Services Criteria
+Our SOC 2 Type 1 attestation (audited by Deloitte) confirms the design and implementation of 108 controls aligned to the AICPA Trust Services Criteria (and other relevant categories). Learn more about it. 
+TISAX assessment and label — three-year validity, no major findings
+Keepit completed a TISAX (Trusted Information Security Assessment Exchange) audit with excellent results. The TISAX assessment audited our information security management system (ISMS) across access controls, data protection with encryption and retention procedures, physical and personnel security, incident response, third-party/vendor management, and business continuity.
+TISAX originated in the automotive sector and has become a standard expectation across much of the automotive supply chain in the DACH region (Germany, Austria, Switzerland) — not only for OEMs, but also for software, IT, and service providers working with automotive clients and partners. We also see a spillover effect into adjacent industries such as manufacturing, mobility, and other regulated services, where a TISAX label is increasingly used as a decision-making signal in supplier assessments.
+Why security certifications matter to customers
+- Faster, cleaner due diligence. Independent audits and certifications reduce questionnaire cycles and give procurement, security, and risk teams objective evidence to work with. They also provide us with a common language.
+- Regulatory alignment you can trace. ISO/IEC 27001 and SOC/ISAE reporting map to resilienceâoriented requirements (for example, testing, continuity, access control), helping you show auditors how vendor controls support your obligations.
+- Confidence in continuity — not just policy. Verification covers dayâtoâday practices like backup management, incident response, and recovery testing, not only policy documents. Business continuity, disaster recovery, incident management, and security operations aren’t just on paper; they’re inspected and improved.
+- Manageable thirdâparty risk. Certifications shift the conversation from trust us to verified proof — critical for supplier assurance and boardâlevel oversight.
+- Transparency when it counts. Clear scope statements, auditor names, reporting periods, and a straightforward way to request reports help you make decisions faster.
+Read the top 10 considerations for a recovery solution RFP.
+Why security certifications matter to Keepit
+- Raises the operational bar. Formal audits force crossâteam discipline across Security Operations, Engineering, Quality Assurance, Legal, Internal IT, Delivery, and People functions. Read about CISO-approved backup.
+- Enables enterprise buying. Many requests for proposals (RFPs) require ISO/IEC 27001 and request SOC/ISAE reports; being auditâready meets expectations up front and reduces friction and timeâtoâclose.
+- Drives continuous improvement. ISO/IEC 27001’s managementâsystem model — internal audits, management reviews, corrective actions — keeps practices current and effective.
+- Signals maturity and accountability. Periodâbased reporting (for example, SOC 2 Type 2 or ISAE 3402 Type II) demonstrates not just design, but control operation over time.
+Certifications and regulatory alignment
+Certifications don’t equal compliance or data resilience, but they support it by evidencing the controls, testing, and continuity measures regulators expect. They help connect productâlevel security to organizational outcomes — from incident reporting and resilience testing under NIS2 and DORA to recordkeeping and supervisory expectations under the SEC and FINRA. The result is less gapâmapping from scratch and more reuse of credible evidence during audits.
+Beyond badges: Architecture still matters
+Certifications are the baseline — resilience is delivered by design. At Keepit, that means emphasizing architectural choices that directly affect recovery outcomes:
+- Independent, vendorâneutral cloud storage. Backups are stored on an air-gapped infrastructure separated from the primary SaaS platform to reduce correlated risk and align with bestâpractice “separation of duties” principles.
+- Immutability by design. Writeâonce retention and controlled, audited changes protect backup integrity from ransomware and insider threats.
+- Regional redundancy and availability. Activeâactive data center pairs and tested recovery processes minimize downtime and support sovereignty and recoveryâtime objectives.
+- Operational simplicity for recovery. Clear restore paths, tested runbooks, and roleâbased access reduce errors when teams are under pressure.
+These design decisions, combined with independent verification, make recovery predictable when it matters most.
+Certifications as a promise kept
+Independent audits and certifications reduce questionnaire cycles and give objective proof over marketing claims. They turn “trust us” into verifiable documentation. For customers, that means faster assessments and clearer regulatory mapping. For us, it’s a structure that keeps security, continuity, and recovery practices sharp — so when you need to restore, it works. To go deeper, visit our trust center.

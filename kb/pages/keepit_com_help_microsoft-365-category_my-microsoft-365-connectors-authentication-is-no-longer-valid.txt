@@ -1,0 +1,14 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/my-microsoft-365-connectors-authentication-is-no-longer-valid/
+Content type: Web page
+Last modified: 2026-06-30T01:58:40+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+My Microsoft 365 connector's authentication is no longer valid
+If you see a message that your connector's authentication is no longer valid, this means that Keepit cannot perform a backup and your health status is critical. Simply click this message and you will be taken to Microsoft where you can reauthenticate.
+Important: If you have removed the Privileged Role Admin or Global Admin role from the service account you are using for the backup, remember to reassign the role before you authenticate.
+Authentication expired or revoked
+The most common reason this happens is because your authentication gets expired or revoked. In that case, Keepit loses connection with Microsoft.
+Conditional access
+Another reason you may see this message is if you use conditional access (CA) policies in Microsoft Entra ID. If there are changes to CA policies that apply to the service account used for your backup or if the service account is assigned more CA policies, Keepit will ask you to reauthenticate your connector so that we can successfully complete the OAuth 2.0 authorization flow.

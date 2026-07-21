@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/help/pmc/working-with-products/
+Content type: Web page
+Last modified: 2026-02-26T13:53:56+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Working with Products
+Product Portfolio
+The Product Portfolio page is where you can find a list of all available products.
+When creating a Partner account, you can choose which of these products to add to the partner's product portfolio. The list of available products is inherited from the parent account. Once a product has been assigned, it can no longer be removed from the portfolio.
+When creating a Customer account, you can choose a product from your product portfolio to assign to the customer.
+Products
+A list of all your products. Select a product to see more details.
+Overview
+For each product, you can find the following product details: name of the product, product description, the product ID, snapshot retention period, delete retention period, and service period.
+You can also see available workloads.
+Products for accounts
+Product portfolio of partner subaccounts
+Select a partner account to see the account's product portfolio.
+To make changes, in the Account Info card, click ••• > Edit. Here you can add new products to the portfolio. Products that were previously assigned cannot be removed.
+Product properties of accounts
+The product properties tab is where you can find a partner or customer account's current product properties.
+For customer accounts, this is also where you can view and add custom properties.
+To see the product properties, on the Accounts page, hover over the account, click ••• > Edit. Then select the Product and Custom Properties tab.

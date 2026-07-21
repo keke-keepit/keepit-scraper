@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/help/salesforce-category/estimated-restore-size-in-salesforce/
+Content type: Web page
+Last modified: 2026-07-09T09:23:28+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Estimated restore size in Salesforce
+When you restore Salesforce data, Keepit shows an estimated restore size in the summary step. Use this to check you have enough storage before the restore runs.
+Where it appears
+The estimated restore size appears in the Summary step of restores. It shows two values:
+- Available storage — the free storage space in your Salesforce org.
+- Estimated restore size — the maximum amount of storage this restore could use.
+Select the question mark icon (?) next to Storage size to see how the estimate is calculated.
+How the estimate is calculated
+The estimate is based on the selected records and their related records. It assumes every selected record is recreated from scratch — the most storage-intensive scenario.
+In practice, the actual storage used is often lower. When the restore runs, Keepit checks each record one by one:
+- Deleted records are recreated. These use storage.
+- Updated records are updated. These use storage.
+- Unchanged records are skipped. These use no storage.
+Keepit can't determine in advance which category each record falls into, so the estimate reflects the maximum possible size. The actual restore is often smaller.
+Note: If the estimated restore size exceeds your available storage, consider reducing the number of selected records or freeing up space in your Salesforce org before proceeding.

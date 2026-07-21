@@ -1,0 +1,35 @@
+Source URL: https://www.keepit.com/gartner-it-symposium-america/
+Content type: Web page
+Last modified: 2024-10-31T17:47:51+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Meet Keepit at Gartner IT Symposium/Xpo™
+Take control of your SaaS data protection. Ensure confidence in your resilience.     
+Meet us at Booth #342
+Enjoy exclusive on-site activities at our booth, including a product demo, insights from industry experts, and meeting our team.
+Don’t have your ticket yet? Register today to get our exclusive discount of $525 off your ticket with the code SYM34EDC.
+Venue information
+Walt Disney World Swan and Dolphin Resort â¨Address: 1500 Epcot Resorts Boulevard Lake Buena Vista, FL 32830 United States
+Book a meeting with Keepit
+Join us for our speaking session
+Keepit: Future-Proofing Data Governance for Tomorrow's Disaster Recovery Challenges
+Speaker: Kim Larsen, CISO Keepit
+Tuesday October 22, 2:20pm-2:40pm (EDT)
+Session code: FD10 
+Room: Future Directions Stage 
+Key Takeaways:
+- Effective data governance models and approaches
+- Disaster recovery planning that considers the impact of AI
+- Techniques for data prioritization and classification
+- Structuring recovery plans and conducting incident investigation
+Attend our Invited Lunch
+Tuesday October 22, 12:15pm-1:15pm
+Location: Dolphin, Shula’s Steakhouse, Hall of Fame 1-2
+Limited to 15 guests, secure your place in the Gartner conference app.
+Invited Lunch Hosted by Keepit: Data Governance for Resilience
+Business leaders today must manage rapid data growth while countering sophisticated cyber threats, making effective data governance crucial for a robust business continuity strategy. Join peers for an insightful discussion on extending governance beyond the CISO's office, aligning disaster recovery strategies with executive priorities, and integrating AI in recovery plans. Hosted by Kim Larsen, Keepit CISO, this lunch is a guided peer to peer discussion around the practical approaches to optimize data management, communicate strategies to leadership, and enhance organizational resilience.
+We use Keepit to back up everything from Office 365. Whether it is Exchange, OneDrive, SharePoint, or Azure AD, Keepit has us covered.
+It helps us address the risk of data loss, therefore making us compliant to GDPR. Gives IT managers a goodnight sleep knowing any lost data can be easily retrieved.
+Excellent All Round Backup, Easy To Setup And Administer - Well Priced

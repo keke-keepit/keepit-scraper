@@ -1,0 +1,50 @@
+Source URL: https://www.keepit.com/blog/hope-is-not-a-strategy/
+Content type: Web page
+Last modified: 2026-04-17T09:56:25+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+2025 was the test: Why hope is not a cybersecurity strategyÂ
+As security leaders, we spend a lot of time preparing for what might happen. But the past year has made something very clear to me: the question is no longer if disruption happens — it’s whether organizations are ready when it does.
+Looking back at 2025, the signals are hard to ignore. AI-driven threats are accelerating. Shadow AI is spreading faster than governance can keep up. Outages, infrastructure failures, and hybrid disruptions are no longer theoretical. And yet, too many organizations are still relying on optimism instead of preparation.
+Hope is not a strategy.
+The threat landscape is accelerating — and democratizing
+Cyberattacks are not just becoming more advanced. They are becoming easier to launch.
+Over time, we’ve seen two trends converge: attacks are growing more powerful and complex, while the barrier to entry continues to fall. Capabilities that once required nation-state resources are now accessible to individuals. AI is increasingly used for reconnaissance, planning, and execution, making attacks faster, more scalable, and harder to predict.
+From a CISO perspective, this fundamentally changes the risk model. We are no longer defending against a small number of highly sophisticated actors. We are defending against a much broader threat landscape where automation works just as effectively for attackers as it does for defenders.
+Shadow AI is today’s silent risk
+One of the most underestimated challenges I see right now is shadow AI. In most cases, it isn’t malicious. People are trying to work faster, automate tasks, and solve problems. But many AI tools store, transform, or act on sensitive data — often without governance, ownership, or visibility.
+The real issue isn’t intent. It’s speed.
+AI adoption is happening faster than most organizations can apply guardrails. By the time security teams become aware of what’s in use, data may already have been shared, altered, or consumed in ways that are difficult — or impossible — to reverse.
+That creates legal, ethical, and regulatory exposure without a traditional breach ever occurring.
+Governance needs to catch up
+AI introduces governance challenges that cannot be fixed after the fact.
+Once AI systems are embedded into critical workflows, recovery becomes significantly harder when something goes wrong. That’s why governance must come before scale — not after.
+Clear frameworks that emphasize transparency, monitoring, ownership, and compliance help make AI risk manageable. You can’t eliminate risk entirely, but you can reduce it to a level your organization understands and is prepared to handle.
+Waiting until something breaks is the most expensive way to learn where your controls are weak.
+Hybrid threats are now the norm
+Today’s incidents increasingly span cloud services, SaaS platforms, onâprem environments, and physical infrastructure. Attacks pivot across environments. Outages cascade. Natural disasters, power failures, and infrastructure disruptions intersect with digital dependency in ways traditional security models were never designed to handle.
+From a resilience standpoint, this means one thing: you have to understand your dependencies and plan for failures that don’t fit neatly into a single category.
+When the cloud goes dark, what’s your plan?
+Many organizations assume availability because systems are “in the cloud.” But recent outages have shown how fragile that assumption can be. When email, identity systems, collaboration tools, and documentation are unavailable at the same time, recovery depends entirely on preparation.
+True resilience requires:
+- Independent backups outside the production ecosystem
+- Clear prioritization of critical systems
+- Recovery plans that still work when normal communication channels are unavailable 
+ 
+Without those elements, teams are forced to improvise — and that’s when mistakes happen.
+Recovery is about people and process, not just technology
+The organizations that handle incidents best aren’t the ones with the most tools. They’re the ones that have done the work before something happens: defining priorities, clarifying responsibility, aligning leadership, and practicing recovery together.
+Tabletop exercises and simulations matter because they expose assumptions and force decisions in a controlled environment. They help teams understand not just what to restore, but who decides — and in what order.
+Resilience is never a oneâperson job. It’s a leadership responsibility and a crossâteam effort.
+From hope to resilience
+Across AI risk, shadow adoption, hybrid threats, and cloud dependency, the lesson is consistent: organizations that succeed don’t hope to avoid disruption — they assume it.
+- They assess and categorize risk.
+- They plan and prioritize recovery.
+- They test restores and run exercises.
+- They demand architectures that support isolation and immutability. 
+ 
+ 
+2025 was the test. And it made one thing clear.
+In a world of accelerating automation and converging threats, optimism is not enough.

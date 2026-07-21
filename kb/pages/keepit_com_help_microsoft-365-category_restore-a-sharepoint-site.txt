@@ -1,0 +1,77 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/restore-a-sharepoint-site/
+Content type: Web page
+Last modified: 2026-07-07T13:30:04+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore a SharePoint site
+Use this article to restore a SharePoint site. It covers all available restore methods and explains what happens to your data during each type of restore.
+What can be restored
+Keepit supports backup of three types of SharePoint site pages: Modern, Web Part, and Wiki. You can only restore Modern and Wiki types.
+Restore methods
+You can restore a SharePoint site using the following methods:
+- In place: Brings the site back to its original location, overwriting the existing site. Available for both sites and subsites.
+- As a new site: Creates a new site with a new URL, running in parallel with the original site. Keepit also restores all users and permissions. You can only restore a site as a new site if the original site still exists in SharePoint. Available for both sites and subsites.
+- To a different tenant: Creates a copy of the site in a different Microsoft 365 tenant. Available for both existing and deleted SharePoint sites. Available only for top-level sites, but subsites are also restored.
+Version history
+Keepit supports the backup and restore of versions of SharePoint list items and library documents.
+Restore behavior
+For a detailed overview of that happens to SharePoint data when you restore, see: SharePoint restore behavior
+Restore a SharePoint site in place
+1. Locate the site or subsite you want to restore.
+Note: To restore a site from an earlier point in time, select the Snapshots Viewer icon and select the appropriate snapshot.
+2. Point to the site, and select Restore.
+3. Select Restore in place (overwrite existing site) and click Next.
+4. Select how to handle versions, then click Next.
+- Restore most recent file version
+- Restore all file versions
+5. Review the restore summary and click Restore. The site returns to its original location.
+Note: You can't restore a site in place if it's currently in the SharePoint recycle bin. Restore the site directly from SharePoint, or wait until it has been removed from the recycle bin. Deleted items remain in the recycle bin for 93 days before permanent deletion.
+Restore a SharePoint site as a new site
+1. Locate the site or subsite you want to restore.
+Note: To restore a site from an earlier point in time, select the Snapshots Viewer icon and select the appropriate snapshot.
+2. Point to the site and select ••• > Restore.
+3. Select Restore site as a new site (with new URL) and click Next.
+4. In the field New site, enter a new name for your site. An automatically generated new URL will be displayed.
+Note: The URL must be unique and should not contain any special characters. If the URL already exists in SharePoint, you will see the error message "New SharePoint site URL is required."
+Tip: You can edit the new URL ending if you want it to differ from the name of the new site. 
+5. Select how to handle versions, then click Next.
+- Restore most recent file version
+- Restore all file versions
+6. Review the restore summary and click Restore. The site will be restored and will appear in the same location in the hierarchy in SharePoint.
+Restore a SharePoint site to a different tenant
+To restore the site to another tenant, you need to authenticate the target Microsoft account. During authentication, you must accept the necessary permissions and install the Keepit app in the target tenant.
+1. Locate the site you want to restore.
+Note: To restore a site from an earlier point in time, select the Snapshots Viewer icon and select the appropriate snapshot.
+2. Point to the site, and on the right, select ••• > Restore.
+Note: To restore multiple sites at a time, select the sites, and in the toolbar, click Restore.
+3. Select Restore to a different tenant and click Sign in.
+4. Enter your credentials and accept the required permissions.
+The service account used to sign in to the other tenant must be assigned the Global admin role.
+5. Select a new tenant domain from the dropdown list.
+Important: The dropdown list displays all active and inactive domains available in the target account. Please ensure you select an active tenant as we cannot restore to inactive tenants.
+6. Review the admin domain prefix, site name, and URL ending, then click Next.
+Note: If restoring a deleted site to the same tenant, provide a new URL ending. The URL ending cannot already exist on the tenant.
+7. Select how to handle versions, then click Next.
+- Restore most recent file version
+- Restore all file versions
+8. Review the restore summary and click Restore.
+Restore behavior and limitations
+- The service account from the target tenant becomes a Site Admin and Site Owner.
+- SharePoint group permissions are restored, but not the users (owners, members, and visitors) in those permission groups.
+- If the source site contains metadata that refers to users or groups not present in the target tenant, that metadata isn't restored. This includes user permissions and values for the Person or Group column type.
+URL changes during site restoration
+Restore search and portal sites as new sites
+When you restore a search or portal site as a new site, Keepit replaces the URL segment "search" or "portal" with "sites."
+Restore sites in bulk to a different tenant
+When you restore multiple sites to a different tenant, Keepit automatically generates the URL endings using a combination of random letters and numbers.
+Custom SharePoint admin domain names
+When you modify your SharePoint domain within your Microsoft tenant, Keepit recognizes these changes automatically and backups continue without interruption. You don't need to contact support for manual domain updates.
+Restoring a site in place or as a new site from a snapshot taken before a SharePoint domain change isn't supported. You can only restore those sites to a different tenant.
+For snapshots created after the domain change, you can restore in place or as a new site.
+Verify your admin domain name
+You can check if your admin domain is correct and active in the Microsoft 365 Admin center.
+1. Go to the Microsoft 365 Admin center (https://admin.microsoft.com/)
+2. In the left navigation, click Show all > All admin centers > SharePoint.
+3. Check the URL that opens with the one in the restore flow.

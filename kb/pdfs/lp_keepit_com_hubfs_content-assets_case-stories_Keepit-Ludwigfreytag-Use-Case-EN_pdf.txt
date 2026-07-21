@@ -1,0 +1,114 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Ludwigfreytag-Use-Case-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+Customer case
+Keepit provides 
+immutable backup for 
+Ludwig Freytag
+
+Compliance at the forefront 
+Ludwig Freytag began its search for an audit-
+proof, GDPR-compliant backup solution by 
+researching European SaaS backup providers. 
+After receiving a recommendation, the company 
+landed on Keepit’s solution. With increasing 
+regulations putting pressure on companies to 
+always have access to critical data — and the 
+ability to demonstrate this access — Keepit’s 
+backup solution provides companies with needed 
+capabilities such as GDPR-archiving to make 
+compliance easier. “As a construction company 
+with public clients, we are subject to strict data 
+protection and retention requirements,” explains 
+Stefan Gerdes, Team Leader IT Operations & 
+Infrastructure at Ludwig Freytag.
+Independence from cloud providers 
+For Ludwig Freytag, independence from 
+Microsoft was another crucial factor when 
+searching for a backup partner for its increasing 
+Teams and SharePoint data. Keepit’s vendor-
+independent, cloud-native solution allows 
+companies to store data completely separate 
+from their SaaS vendor. With Keepit, customers 
+can secure data in the data center region of their 
+choosing, ensuring data sovereignty. “Storing 
+data in European data centers was a central 
+criterion to meet GDPR requirements and build 
+trust with our internal data protection officers,” 
+says Stefan.
+“We wanted a solution that operates 
+independently of the Microsoft ecosystem, 
+offers easy recovery options, and meets data 
+protection and compliance requirements.”
+- Stefan Gerdes 
+Team Leader, IT Operations & Infrastructure at Ludwig Freytag
+Customer case:
+Ludwig Freytag
+Immutable backups stored in European data centers was a key factor to Germany-based Ludwig 
+Freytag when choosing a data protection partner. The construction company’s IT department 
+supports 1,600 users across more than 30 locations, using over 500 applications. Keepit was able 
+to provide a reliable, independent and audit-proof backup solution for its Microsoft 365 data.
+
+About Ludwig Freytag
+Since 1891, family-owned Ludwig Freytag has 
+utilized the expertise of four generations to become 
+a leader in the German construction industry. The 
+company specializes in planning, maintenance, 
+and supervision for structural, industrial, and 
+civil engineering construction of all types and 
+sizes. With 1,900 qualified employees and the full 
+versatility of a finely synchronized group of fourteen 
+independent, individual medium-sized companies, 
+optimal solutions for every task in the wide field of 
+construction are guaranteed.
+Encrypted and immutable backup  
+Keepit’s solution keeps backed up data 
+immutable — data cannot be deleted or altered in 
+any way. Data is AES-256 encrypted to ensure the 
+highest level of security. With strict data retention 
+requirements, Ludwig Freytag could rest easy as 
+Keepit offers unlimited storage and retention, 
+without hidden costs. With data loss incidents on 
+the rise, securing critical data to ensure business 
+continuity has become another important 
+selection criterion for the company.
+Customer case:
+Ludwig Freytag
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+“The solution is intuitive, reliable, and 
+meets the highest data protection 
+requirements. Highly recommended 
+for companies with Microsoft 365 and 
+compliance requirements.”
+- Stefan Gerdes, 
+Team Leader, IT Operations & Infrastructure
+Ludwig-Freytag  
+“Encryption and data immutability are 
+essential for our compliance requirements 
+and protect us from ransomware attacks.”
+- Stefan Gerdes, 
+Team Leader, IT Operations & Infrastructure
+Ludwig-Freytag  
+Time and cost savings 
+“Before Keepit, recovering individual Microsoft 
+365 items was time-consuming and unreliable. 
+Today, we can restore data within minutes with 
+significantly less effort from IT support,” notes 
+Stefan.
+The Keepit platform helps IT departments save 
+time and money by automating backups and 
+lessening administrative work. Priced per seat, the 
+Keepit solution is cost-effective and predictable 
+to budget. With a user-friendly interface, IT 
+departments don’t need to spend costly hours 
+onboarding the solution — setting up the system 
+is quick and easy.

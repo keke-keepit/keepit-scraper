@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/resources/google-product-sheet/
+Content type: Web page
+Last modified: 2025-08-25T20:57:35+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Google Workspace
+Protect team collaboration with vendor-independent backup
+Google Workspace is the heart of your business productivity and collaboration, storing critical data that should be protected. While Google ensures infrastructure uptime, they don’t safeguard against all forms of data loss. With the shared responsibility model, “you remain responsible for your access controls and the data that you choose to store in the application.”* Without third-party backup and long-term retention, there’s a real risk of permanent loss with costly operational and financial consequences.
+Keepit offers vendor-independent backup for Google Workspace, keeping your data secure and easily recoverable, your business compliant, and your teams productive, no matter what.

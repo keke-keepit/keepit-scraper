@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/forrester-total-economic-impact/
+Content type: Web page
+Last modified: 2025-08-14T23:52:42+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Forrester Total Economic Impact of Keepit SaaS Data Protection
+What did the study find? 163% ROI (return on investment) over three years. Payback in less than six months with Keepit's next level SaaS data backup and recovery solution.
+The Forrester Consulting January 2024 Total Economic Impact™ study on Keepit’s next level SaaS backup and recovery solution documents that it’s, well … a keeper. Not just technologically, but financially, too.
+The study is commissioned by Keepit.
+Based on interviews with Keepit customers, Forrester has created a three-year financial model to determine the financial benefit of using Keepit to protect data in SaaS workloads.
+And the results speak for themselves:
+Keepit customers get quantifiable savings with fast, more accurate recovery from a ransomware attacks, reduced SaaS licensing cost and user efficiency.
+And they also benefit from using Keepit as a data archive, ease of use and as support for audit purposes.
+Interviews with the customers and a thorough financial analysis found that a composite organization with 10,000 seats backed up saw benefits of $1.33 million over three years.
+At a cost of $504,100 this adds up to a net present value (NPV) of $821,800 and a ROI of 163%.
+Here’s some of what our customers had to say:
+“The word essential is not an exaggeration in this context. If you have no backup of your data, then you are a threatened species.” Senior consultant, nonprofit
+“It’s important to have the confidence to have all data available all the time. If something happens, from small instances to big ones, we are now able to restore data.” Senior system manager, automotive association
+“With Keepit, we have unlimited storage. We don’t have to worry about how much data we back up.” IT manager, beverages
+“The value we get from Keepit comes also from the ease of operation and the ability to attach the future services. We have already started to develop a need for multiple other applications to be backed up with Keepit.” Senior consultant, nonprofit
+“The training given by Keepit during the implementation phase was extremely good. In 10 minutes, all my team members were onboard.” IT leader, nonprofit
+It used to take me six to eight weeks a year to manage an on-premises backup solution. Now, with Keepit, I spend only 2 hours a month managing the solution.
+Senior system manager, automotive association

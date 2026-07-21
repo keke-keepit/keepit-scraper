@@ -1,0 +1,75 @@
+Source URL: https://www.keepit.com/blog/data-governance-resilience/
+Content type: Web page
+Last modified: 2025-08-20T02:52:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How data governance builds resilience against corruption and disruption
+In the previous blog, we explored how data moves through its lifecycle — from creation to deletion. But managing data effectively is only part of the challenge; organizations must also ensure that data remains available, secure, and resilient against disruptions at every stage.
+Resilience is not just about recovery, it requires proactive governance to prevent, detect, and respond to risks such as cyberattacks, accidental deletion, misconfigurations, and infrastructure failures.
+A well-structured data governance framework bakes resilience into every stage of the data lifecycle, reducing the risk of disruptions and increasing the chance of a quick recovery when incidents do occur.
+Data may be a strategic asset, but when systems go down — whether from human error, software bugs, misconfigurations, or cyberattacks — that asset quickly becomes a liability. In a digital-first world, organizations must be prepared not only to defend their data but also to recover it quickly and completely when something goes wrong.
+And something will go wrong.
+Why resilience matters more than ever
+Outages and disruptions are more common than many leaders assume — and often for reasons that have little to do with cybercrime. According to Splunk’s report, “The Hidden Costs of Downtime,” 56% of downtime incidents stem from security issues (like phishing), while 44% are tied to application or infrastructure failures. In both cases, human error is the leading cause and often the hardest to detect or remediate.
+For modern CIOs and CISOs, resilience must be built in, and data governance has a vital role to play.
+Three pillars of data resilience: Prevention, detection, and recovery
+To ensure that data remains available, accurate, and secure, governance strategies should address three core components of resilience:
+- Prevention: Building technical and procedural safeguards to maintain uptime and prevent data loss or corruption (e.g., robust architecture, access controls, SLAs).
+- Detection: Identifying threats or outages quickly using log monitoring, real-time alerts, and integrity checks.
+- Recovery: Having proven, tested, and executable processes to restore data and systems after a disruption.
+Many organizations are strong on prevention and detection — but recovery is often underdeveloped and under-tested. That’s where governance can make the biggest difference.
+What’s actually causing outages? (Hint: It’s not always attackers)
+Cyberattacks make headlines — and they should. But most outages stem from more mundane issues:
+- Power loss: 44%
+- Network failure: 14%
+- IT systems: 13%
+- Cooling problems: 13%
+- Third-party provider issues: 8%
+Two recent, real-world examples drive this home:
+- In May 2024, Australian pension fund UniSuper lost its entire Google Cloud account — including backups — due to a rare misconfiguration on Google’s side. The incident left over 647,000 members without access for nearly two weeks. What made recovery possible? A governance-aligned UniSuper had maintained an independent third-party backup.
+- Just two months later, in July 2024, a faulty update from cybersecurity vendor CrowdStrike brought down an estimated 8.5 million Windows systems worldwide, in what’s now described as the largest IT outage in history.
+Governance strategies must account for these non-malicious, high-impact events — and not just as IT risks. They’re operational, compliance, and board-level concerns.
+Backup isn’t just an IT function — it’s a governance issue
+When disruptions happen, recovery is what matters most. But too often, backup and recovery are still treated as technical insurance policies — set once and subsequently forgotten. To build real resilience, backup and recovery need to be governed. That means:
+- Knowing where backups live, how they’re protected, and who can access them
+- Ensuring backups are immutable and stored independently (offsite or in a separate cloud)
+- Testing recovery regularly and realistically
+- Making backup part of your compliance and governance discussions
+For example, the NIS2 Directive (a major piece of cybersecurity legislation in the EU) explicitly requires “backup management and disaster recovery” as part of business continuity planning. That’s not just a technical checkbox — it’s an organizational obligation, with liability extending to leadership.
+Governance makes this real by ensuring backup and recovery are:
+- Defined
+- Accountable
+- Auditable
+- Resourced
+Resilience isn’t a hope — it’s a process
+Too often, backup systems and recovery processes have been managed with a “set it and forget it” approach — organizations select a solution, define some processes, and then largely ignore them except for occasional surface-level checks.
+But this hope-for-the-best approach isn’t good enough — not for your organization, and not for regulators. Resilience takes deliberate training and testing to build, maintain, and validate your ability to recover from a data loss or corruption event.
+Training ensures every team member understands their role in recovery, so decisions can be made and workflows executed under pressure.
+Testing goes beyond checking if a backup exists. It proves that full recovery is possible, even for complex, high-stakes systems. After all, an emergency is not the time to discover that a critical system now ingests data differently — or that a restore process fails.
+Given the reality of limited resources, CIOs and CISOs must make strategic recovery choices. That means asking:
+- Which data is most important to our operations?
+- What systems need to be restored first?
+- What are our compliance or contractual obligations?
+These questions fall under data governance, not just IT operations. Governance ensures that recovery is not just possible, but purposeful.
+Guidelines: How to test your recovery plan
+Governance brings clarity and control to recovery planning. It ensures alignment with stakeholders, data prioritization, and realistic recovery plans. Backup alone doesn’t make you resilient. You also need to:
+- Train your team — so they know their roles when recovery is needed
+- Test your systems — so failures are found before a real crisis, and then make yourself heard. Share the findings with leadership and the organization to ensure issues are addressed.
+- Prioritize your recovery plans — because not all data or systems are equally urgent
+Effective recovery takes more than good intentions: It takes rigorous testing. These seven steps should be part of any governance-aligned disaster recovery program:
+- Validate recovery capability — test that backups can restore critical data without data loss or corruption.
+- Define acceptable downtime — align recovery time objectives (RTOs) with business needs.
+- Test regularly — frequent testing helps uncover hidden gaps and builds confidence.
+- Simulate different failure scenarios — recover individual files, entire databases, or full systems under pressure.
+- Document and analyze results — capture what worked, what didn’t, and what to fix.
+- Include relevant stakeholders — make recovery planning a cross-functional effort.
+- Iterate and improve — update your plans and procedures based on findings and changes in your environment.
+Following these testing guidelines strengthens your IT compliance posture and prepares your organization to face evolving cyberthreats with confidence.
+Resilience is governance in action
+Building resilience against data corruption and disruption is not about achieving perfection — it’s about ensuring you can recover quickly, efficiently, and confidently when things go wrong.
+In a world of rising regulatory expectations and increasingly complex environments, backup and recovery must move from the server room to the boardroom.
+That shift starts with governance — embedded at every stage of the data lifecycle.
+Organizations that assess and align their governance, backup strategies, and detection capabilities will be better positioned to navigate uncertainty, ensure business continuity, and lead with confidence.
+This article is part three of a five-part series based on our recent publication, “Intelligent data governance: Why taking control of your data is key for operational continuity and innovation.” You can find the other blogs in this series below.

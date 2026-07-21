@@ -1,0 +1,2147 @@
+KEEPIT KNOWLEDGE BASE — RESOURCES
+Generated: 2026-07-21
+Pages: 90
+============================================================
+
+Source URL: https://www.keepit.com/resources/
+Content type: Web page
+Last modified: 2026-05-11T19:34:40+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Filter content:
+Resource library
+Guide
+When disaster strikes: A guide on navigating SaaS data loss and recovery
+GuideChecklist: The hidden risks of unprotected identity systems?
+GuideChecklist: Would your team recover if your development data didnât?
+Product sheetKeepit Backup and Recovery for Jira Service Management
+Key takeawaysReady for tomorrow: Key takeaways on AI adoption and resilience
+ResearchG2 Keepit Compare Report
+ResearchG2 Keepit at-a-glance: Customer ratings and reviews
+Product sheetKeepit Backup and Recovery for monday.com
+ResearchPeer insights on AI adoption and the disaster recovery gap
+ResearchKeepit Annual Data Report 2026
+Key takeawaysReady for 2026: Key takeaways on cybersecurity trends and challengesÂ
+Product sheetKeepit Backup and Recovery for GitHub
+Analyst reportIDC MarketScape: Worldwide SaaS Data Protection 2025â2026 Vendor Evaluation
+Product sheetKeepit Backup and Recovery for Microsoft Power Platform
+GuideRFI template: Vendor evaluation for SaaS backup and recovery
+GuideYour vendor evaluation checklist: SaaS backup and recovery
+Product sheetKeepit Backup and Recovery for Miro
+Key takeawaysAre you breach ready? Key takeaways on how immutability minimizes damage
+White paperData sovereignty: Take control of your data
+Key takeawaysResilience under fire: Key takeaways on safeguarding against hybrid attacksÂ
+Product sheetKeepit Backup and Recovery for BambooHR
+Product sheetKeepit Backup and Recovery for Microsoft Azure DevOps
+GuideCyber storage by Keepit: The future of backupÂ
+Key takeawaysSecure by design: Key takeaways on rethinking data protection in the AI era
+Analyst reportIndependent technical validation of Keepitâs data protection platform
+Product sheetKeepit Backup and Recovery for Docusign
+GuideMastering disaster recovery: A SaaS DR maturity framework to move from reactive to managed
+Product sheetKeepit Backup and Recovery for Microsoft Dynamics 365
+White paperOverlooked and under protected: How the SaaS data gap threatens resilience
+Product sheetKeepit Backup and Recovery for Google Workspace
+Product sheetKeepit Backup and Recovery for Okta
+Key takeawaysThe SaaS data security imperative: Webinar key takeaways on risks, threats and resilienceÂ
+GuideObservability and intelligent insights with Keepit
+Product sheetKeepit Backup and Recovery for Jira and Confluence
+GuideIntelligent recovery with KeepitÂ
+Key takeawaysThe regulators made me do it: Webinar key takeaways on enhancing cyber resilience
+Key takeawaysData governance meets recovery: Webinar key takeaways on intelligent resilience
+GuideNavigating SEC and FINRA regulations
+Key takeawaysThe anatomy of recovery: Webinar key takeaways on intelligent disaster recovery
+ResearchThe SaaS data protection gap: Are organizations leaving critical SaaS applications unprotected?
+Product sheetKeepit Backup and Recovery for Microsoft Applications
+ResearchIntelligent data governance: Why taking control of your data is key for operational continuity and innovation
+GuideKeepit and the U.S. CLOUD Act
+Key takeawaysFrom threat to defense: Webinar key takeaways on ransomware and cyber insurance
+Key takeawaysThe compliance labyrinth: Webinar key takeaways
+GuideDORA compliance factsheet â How Keepit helps you comply
+ResearchProtection pulse: Assess your resilience
+GuideNIS2 and SaaS platforms â Your compliance checklist
+Key takeawaysHow to survive ransomware by mastering disaster recovery â Webinar key takeaways
+White paperNext-level SaaS data protection: Raising the bar for data protection in the cloud era
+GuideNIS2 Guide: What you can do now to prepare for compliance
+White paperSurvey: Can data protection keep pace with the shifting landscape?
+Key takeawaysThe ROI of ransomware recovery: Webinar key takeaways
+ResearchThe great balancing act: Cybersecurity leaders tackle rising pressures
+Key takeawaysPrepare for NIS2: Webinar key takeaways
+Key takeawaysSurviving ransomware: Webinar key takeaways
+GuideSEC guidelines: What you should do now to be compliant
+GuideWhy compliance and continuity is good business for healthcare organizations
+White paperKeepit data protection: GDPR compliance and readiness
+Analyst reportForrester Total Economic Impact of Keepit SaaS Data Protection
+Analyst reportESG Report: 2023 Ransomware Preparedness
+GuideGuide
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/4-steps-to-protect-microsoft-365-from-ransomware/
+Content type: Web page
+Last modified: 2025-08-14T23:51:47+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+On-demand webinar: 4 steps to protect Microsoft 365 from ransomware
+Presented by: Paul Robichaux, Microsoft MVP and Keepit’s Senior Director of Product Management.
+In this webinar, you’ll learn the ransomware threats in Microsoft Office 365, Paul’s four effective steps to protecting it, and how Keepit can help you recover your data fast.
+Ransomware often has a financial and operational impact
+More than 7 in 10 businesses have been victims of a successful ransomware attack, according to ESG research. More alarming, the research also showed that only 1 in 7 reported getting all of their data back post ransomware payment, and 3 in 5 got less than 75% of their data back.
+So, paying the ransom doesn’t necessarily guarantee that your business can recover and reach full operation quickly.
+Further, Microsoft 365 data protection becomes even more relevant in these uncertain times where geopolitical cyber risks continue to increase. Even the White House urges US companies to 'Back up your data and ensure you have offline backups beyond the reach of malicious actors.'
+There's no better time for your business to ensure your Microsoft Office 365 is well protected from ransomware, and it should be on any IT Admin or Manager's to-do list. That's why we created this webinar for you.
+What you'll learn in this 45 min webinar from Microsoft MVP, Paul Robichaux:
+- What ransomware threats exist in Microsoft 365 (plus what the single biggest one is)
+- How the market is reacting
+- Four effective steps on how you can build an effective defense
+- How to recover from ransomware: What is (and is not) covered by Microsoft 365?
+Paul shares his extensive insights on two of his fields of expertise: Microsoft 365 and ransomware – forces to be reckoned with in any Microsoft cloud infrastructure (and a cocktail that can really trip up performance and compliance at a structural level in any organization.) Not to mention your business services, finances, and brand.
+You’ll get specific insights on:
+- The range of threats
+- Directory services: (and how to quickly restore them)
+- What happens if you lose access to: Emails? File data? Devices?
+- Microsoft’s recommended recovery process
+- How Keepit can help your business recover fast
+Get tons of valuable insights on how to get peace of mind that your Microsoft Office 365 data is protected as best as possible.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/5-reasons-to-secure-sharepoint-online/
+Content type: Web page
+Last modified: 2025-08-14T23:52:00+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+eGuide: 5 Reasons to Secure SharePoint Online
+This eGuide offers IT professionals, SharePoint administrators, and CIOs insight into five major factors that can lead to SharePoint Online data loss, and it provides suggestions for protecting against these (and other) causes of data loss.
+Businesses must realize that Microsoft does not protect their business-critical cloud data stored in SharePoint, and that the cost of data loss from ransomware attacks, human errors, or non-compliance can be significant. Did you know that 49% of organizations have had a SharePoint environment data breach over the past two years?
+You’ll learn why it’s vital to explore a cloud backup solution for SharePoint Online, as well as the criteria you should keep in mind when choosing a solution for protecting your data.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/anatomy-of-recovery-key-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The anatomy of recovery: Webinar key takeaways on intelligent disaster recovery
+Disaster recovery (DR) is more than just having a plan — it’s about ensuring that plan actually works when it matters most. Without risk assessments, regular testing, and clear recovery priorities, businesses leave themselves vulnerable to unexpected disruptions. These challenges were the focus of a recent Keepit webinar, where Kim Larsen, CISO at Keepit, joined Paul Robichaux, Microsoft MVP and Senior Director of Product at Keepit, and Martin Husslage, Disaster Recovery Consultant at Zerto, to discuss real-world data loss scenarios and best practices for building an intelligent DR strategy.
+Here’s what we learned:
+1) Testing is critical to disaster recovery success.
+Merely having a DR plan isn’t enough — you need to validate it. Organizations must regularly test their DR plans to ensure their recovery strategies hold up under real-world conditions and can mitigate potential disruptions effectively.
+2) Backup redundancy ensures business continuity.
+To safeguard against cyberthreats and operational failures, businesses must implement immutable backups stored separately from the production environment. Ensuring air-gapped storage and redundancy strengthens overall resilience and minimizes downtime.
+3) Intelligent recovery planning prevents costly failures.
+A well-structured DR plan prioritizes business-critical systems and defines a clear recovery order to minimize the impact of disruptions. Aligning with industry best practices ensures a faster, more efficient recovery process when disaster strikes.
+Continue the conversation:
+Our key takeaways document includes all the most important insights, including:
+- A structured approach to disaster recovery planning
+- An overview of data loss scenarios you need to prepare for
+- Six actionable strategies to improve your resilience
+Download our webinar handout now to strengthen your disaster recovery planning, enhance cyber resilience, and ensure business continuity in the face of unexpected threats.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/bamboohr-product-sheet/
+Content type: Web page
+Last modified: 2025-11-12T00:39:36+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for BambooHRÂ
+Keeping your HR data safe means taking care of your people and your business
+BambooHR is mission-critical for companies, storing sensitive human resources data. It’s often integrated with other applications such as productivity or payroll tools. Any data or configuration loss — accidental or malicious — disrupts business operations and exposes companies to legal and compliance risks. BambooHR doesn’t offer backups or comprehensive recovery options, making it essential to integrate with a backup solution.
+Awarded for its impenetrable architecture and ease-of-use, Keepit ensures that your data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/best-practices-for-microsoft-365-backup/
+Content type: Web page
+Last modified: 2025-08-14T23:52:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+On-demand webinar: How to establish best practices for M365 backup and recovery
+Presented by: Paul Robichaux, Microsoft MVP and Keepit’s Senior Director of Product Management.
+In this webinar, you’ll learn the best practices for backup and recovery of Microsoft Office 365 data.
+Your Microsoft 365 data is critical to your business.
+Attend this session to receive expert advice on how to protect your data. According to a study by the ESG, 81% of Microsoft Office 365 users had to recover data, but only 15% were able to recover 100% of their data. Many IT professionals are surprised to learn that Microsoft is not responsible for their data, exposing them to irreparable data loss. Getting backup and recovery right can help organizations mitigate the effects of ransomware attacks, improve IT efficiency, and ensure compliance. Don’t miss out on this webinar to learn how to establish best practices.
+You’ll get specific insights on:
+- The main causes of data loss
+- Why relying on native Microsoft 365 won’t sufficiently protect your data
+- The key differences between on-prem vs. cloud backup and recovery
+- How to ensure your backups are secure
+- How to ensure you can recover when disaster strikes
+- How to configure backups to ensure compliance with relevant standards and regulations
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/best-practices-for-microsoft-365-backup1/
+Content type: Web page
+Last modified: 2025-08-14T23:51:53+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+On-demand webinar: How to establish best practices for M365 backup and Recovery
+Presented by: Paul Robichaux, Microsoft MVP and Keepit’s Senior Director of Product Management.
+In this webinar, you’ll learn the best practices for backup and recovery of Microsoft Office 365 data.
+Your Microsoft 365 data is critical to your business.
+Attend this session to receive expert advice on how to protect your data. According to a study by the ESG, 81% of Microsoft Office 365 users had to recover data, but only 15% were able to recover 100% of their data. Many IT professionals are surprised to learn that Microsoft is not responsible for their data, exposing them to irreparable data loss. Getting backup and recovery right can help organizations mitigate the effects of ransomware attacks, improve IT efficiency, and ensure compliance. Don’t miss out on this webinar to learn how to establish best practices.
+You’ll get specific insights on:
+- The main causes of data loss
+- Why relying on native Microsoft 365 won’t sufficiently protect your data
+- The key differences between on-prem vs. cloud backup and recovery
+- How to ensure your backups are secure
+- How to ensure you can recover when disaster strikes
+- How to configure backups to ensure compliance with relevant standards and regulations
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/breach-ready-key-takeaways/
+Content type: Web page
+Last modified: 2025-12-01T20:43:16+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Are you breach ready? Key takeaways on how immutability minimizes damage
+In today’s threat landscape, breaches don’t unfold slowly — they strike in minutes. Attackers routinely bypass perimeter defenses, exploit identity weaknesses, and attempt to destroy backups to maximize damage. The question is no longer if you’ll be targeted, but whether your organization is prepared to recover when it happens.
+This was the focus of a recent Keepit webinar, where Paul Robichaux, Senior Director of Product Management at Keepit and Microsoft MVP, and Bart Binder, Red Team Manager at Keepit, explored why immutability and isolation have become essential pillars of modern cyber resilience.
+Here’s what we learned:
+- Immutability isn’t optional — it’s the foundation of recovery. 
+ Attackers often try to purge logs and mass-delete backups. In one example discussed during the webinar, the only reason the attack chain was broken was because the storage layer enforced true WORM at ingest — preventing any modification or deletion attempts. When everything else fails, immutability becomes your last line of defense.
+- Modern breaches move fast — your defenses must be faster. 
+ Kill chains unfold in minutes. Immutability, anchored time, and no-modify APIs give your team the critical time needed to respond before damage becomes irreversible.
+- Isolation matters just as much as immutability. 
+ Air-gapping has evolved. Storing Microsoft 365 data in a vendor-independent cloud — without shared credentials, infrastructure, or replication paths — removes a major attack surface. If an attacker can reach every replica, it’s not real protection.
+Our webinar handout summarizes these insights into actionable guidance, including:
+- What “true immutability” means — and which designs fall short
+- How isolation, short-lived tokens, and separated control/storage planes improve protection
+- Breach-ready actions your team should implement now
+Download the handout now to learn how to turn principles into practice — and ensure your organization is truly breach-ready. In a world where attackers only need minutes, your recovery strategy is your strongest defense.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/choosing-the-right-data-protection/
+Content type: Web page
+Last modified: 2025-08-20T02:30:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Reel: Choosing the right data protection
+In this Keepit Reel, Kim Larsen, CISO at Keepit, and Liz Carrizal, IT Data Recovery Manager at NOV, discuss key considerations when selecting a data protection strategy.
+This insightful conversation dives into the shared responsibility model, the crucial importance of disaster recovery planning, and why choosing the right solution matters. From immutable backups to shareable restore links and a vendor-independent cloud, Liz shares how Keepit became the missing puzzle piece in her recovery strategy — and why it helps her sleep at night.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/considering-business-continuity/
+Content type: Web page
+Last modified: 2025-08-20T02:24:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Reel: Considering business continuity
+In this Keepit Reel, Niels van Ingen, CCO at Keepit, and Barb Kiernan, Enterprise Account Executive for Zerto, highlight the shift in responsibility of disaster recovery planning and preparation. What used to be in the hands of traditional storage and backup teams now falls largely on the security suite, with the Chief Information Security Officer (CISO) often driving decisions due to the increasing threats of hacking and ransomware.
+They emphasize the importance of understanding the critical need for business continuity and cyber resilience and share insights on how security concerns have become central to budget allocations and strategic decisions in enterprises.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/cyber-insurance-webinar-key-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+From threat to defense: Webinar key takeaways on ransomware and cyber insurance
+Ransomware plagues security professionals — and, in turn, the companies that insure them — more than ever before. It has now become one of the most pressing cybersecurity challenges, with 89% of enterprises identifying it as a top-five threat to their business. This threat was the focus of a recent webinar, where Kim Larsen, CISO at Keepit, and a panel of cybersecurity experts discussed the evolving role of cyber insurance as part of a risk mitigation strategy.
+Here’s what we learned:
+1) Proactive defense is critical.
+To counter ransomware threats, organizations must focus on securing initial access points, conducting regular vulnerability assessments, and implementing compartmentalization to prevent lateral movement.
+2) Backup integrity ensures operational continuity. 
+Maintaining offsite backups that are kept physically and logically separate from the production environment, frequently checking for corruption, and routine recovery exercises are essential steps for safeguarding critical data and ensuring backup integrity.
+3) Cyber insurance can be a cornerstone of risk management. 
+Cyber insurance complements proactive defense measures, offering a financial safety net against sophisticated threats. However, securing coverage now demands rigorous proof of cybersecurity maturity as insurers increasingly demand proof of implementation for cyber insurability controls.
+Continue the conversation
+Our key takeaways document includes all the most important insights, including:
+- An overview of the top 10 cyber insurability controls
+- Future trends to watch, such as AI integration
+- Actionable strategies to build resilience
+Download our webinar handout now to enhance your resilience, gain insights into the evolving role of cyber insurance in combating ransomware, and meet the changing demands of cyber insurers with confidence.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/cyber-storage-factsheet/
+Content type: Web page
+Last modified: 2025-10-22T13:46:32+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Cyber storage by Keepit: The future of backupÂ
+In today’s threat landscape, prevention alone is no longer enough. Ransomware attacks now target backups themselves, making recovery more complex and putting organizations under pressure to pay. At the same time, critical data is scattered across countless SaaS applications, each carrying its own risks.
+This factsheet explores how Keepit’s cyber storage redefines backup by combining resilient storage with built-in security.
+From backup to cyber resilience
+In this factsheet, you’ll learn how Keepit supports cyber storage and helps companies to
+address common challenges, such as:  
+ 
+- Separating backups and production infrastructure
+- Ransomware targeting backups
+- Insider threats
+- Slow recovery
+For each of these challenges and more, we show how Keepit solves these problems in a more intelligent way. Explore the factsheet now to see how Keepit helps your data stay protected, recoverable, and ready when you need it most — no matter the threat.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/cyberresilience-les-3-grands-defis-a-surmonter/
+Content type: Web page
+Last modified: 2025-08-20T02:52:23+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+CyberrÃ©silience : les 3 grands dÃ©fis Ã surmonter
+Dans ce Keepit Reel, Cyril VanAgt, VP of Channel EMEA chez Keepit, échange avec Siddick Elaheebocus, fondateur et président d'INNOVISION, sur les principaux défis à relever pour bâtir une véritable cyberrésilience.Une conversation percutante pour mieux comprendre les risques actuels et anticiper les prochaines grandes étapes de la cybersécurité.Pour Siddick, le message est sans équivoque : « L'espoir n'est pas une stratégie ». Visionnez cette courte vidéo pour découvrir pourquoi. 
+English version:
+In this Keepit Reel, Cyril VanAgt, VP of Channel EMEA at Keepit, sits down with Siddick Elaheebocus, Founder and President of INNOVISION, to discuss the major challenges organizations must face in building true cyber resilience. This impactful conversation helps make sense of current risks and outlines the next big steps in cybersecurity strategy. For Siddick, the message is crystal clear: "Hope is not a strategy." Watch this short video to understand why.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/cyberresilience-les-5-leviers-a-activer-en-priorite/
+Content type: Web page
+Last modified: 2025-08-14T23:35:12+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+CyberrÃ©silience :Â les 5 leviers Ã activer en prioritÃ©
+Dans cet épisode, Cyril VanAgt, VP of Channel EMEA chez Keepit, rejoint Siddick Elaheebocus, fondateur et président d’INNOVISION, pour un échange approfondi sur les étapes essentielles que les organisations doivent suivre pour construire une véritable cyberrésilience.Cette conversation riche en enseignements aborde cinq priorités clés auxquelles les entreprises doivent s’atteler dès aujourd’hui, et propose des actions rapides, des bonnes pratiques ainsi qu’une orientation stratégique pour renforcer efficacement leur résilience face aux cybermenaces.
+Ne manquez pas cette discussion menée par des experts pour mieux protéger votre organisation dans un contexte de menaces en constante évolution. 
+English version:
+In this episode, Cyril VanAgt, VP of Channel EMEA at Keepit, joins Siddick Elaheebocus, Founder and President of INNOVISION, for a deep dive into the essential steps organizations need to take to build real cyber resilience. This insightful conversation highlights five key priorities that businesses must address today and offers practical quick wins, best practices, and strategic guidance to effectively strengthen their resilience against cyber threats.
+Don’t miss this expert-led discussion on how to better protect your organization in an ever-evolving threat landscape.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/data-governance-meets-recovery-key-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Data governance meets recovery: Webinar key takeaways on intelligent resilience
+Data governance is no longer a back-office task — it’s a strategic pillar of cyber resilience. In today’s landscape of rapid SaaS expansion and escalating cyberthreats, disaster recovery (DR) must be built on a foundation of intelligent data governance. This was the central theme of a recent Keepit webinar, where Kim Larsen, CISO at Keepit, and Ulf Feger, vCISO and CISO Advisory Services, discussed how organizations can strengthen recovery strategies by embedding governance frameworks into their resilience planning.
+ 
+Here’s what we learned: 
+1) Cyber resilience starts with intelligent data governance. 
+Disaster recovery planning cannot succeed without a clear understanding of what data exists, where it resides, and how critical it is to operations. Intelligent data classification and governance models lay the groundwork for effective, fast recovery. 
+2) Risk ownership must be distributed across the enterprise.
+True resilience requires business units — not just IT — to take ownership of data risks. Partnering with functional leaders ensures that data is properly classified, protected, and restored based on business value. 
+3) Recovery planning must balance speed, completeness, and cost.
+Modern recovery plans must not only aim for rapid response but also ensure the completeness of recovered data — all while managing cost-effectiveness. Organizations need to prioritize business-critical data and services to ensure continuity during a disruption.
+Continue the conversation: 
+Our key takeaways document includes all essential insights, including: 
+- A structured approach to building resilience
+- Best practices for your data governance strategy
+- Key considerations for recovery success
+Download our webinar handout now to strengthen your disaster recovery strategies, enhance cyber resilience, and ensure operational continuity at all times.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/data-protection-factsheet/
+Content type: Web page
+Last modified: 2025-08-20T02:30:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The SaaS data protection gap: Are organizations leaving critical SaaS applications unprotected?
+During 2024, Keepit conducted two surveys to investigate organizations’ current data protection measures and resilience capabilities. The results revealed senior decision-makers are not confident in their ability to protect SaaS data — but does this stem from gaps in operations and cyber resilience planning? This infographic dives deeper into leadership concerns and the reality of where organizations stand.
+Who did we survey? 
+- The “SaaS data protection confidence survey” was conducted by Gatepoint Research for Keepit and gathered responses from 100 senior decision-makers (C-level, Directors, and VP) in global enterprise organizations across industries such as finance, healthcare, technology, and manufacturing. Watch our webinar, “Protecting your SaaS data: Pitfalls and challenges to overcome”, to receive all the insights from this survey.
+- Together with Foundry, Keepit conducted a study designed to understand data protection technology trends in the market and how they impact data strategy and compliance decisions. 107 IT decision makers (VP, Directors, and Managers) in global organizations with more than 1000 employees were surveyed about their current data protection strategy and their future plans. To access all insights from this study, download the whitepaper here.
+What did we find out?
+The results reveal a troubling gap in confidence among executives and show that while businesses increasingly rely on SaaS tools and the data stored in them, many leaders are not fully confident in their ability to safeguard this data. Read on to find out more about the reasons for this lack of confidence, the current state of SaaS data protection in reality, and what organizations plan to do to improve their resilience.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/disaster-recovery-guide/
+Content type: Web page
+Last modified: 2026-07-13T23:33:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+When disaster strikes: A guide to data recovery and business continuity
+This 7-step guide to data recovery and business continuity offers IT professionals, DR pros, and CIOs insight into the steps of a disaster recovery process for SaaS apps.
+Every day, businesses shift critical operations into cloud-based, software-as-a-service (SaaS) applications. At the same time, cybercriminals are directing more effort toward cloud services, putting businesses at risk.
+Most businesses have some form of continuity and disaster recovery (DR) plan, but these plans often overlook crucial SaaS app data needed to maintain or recover operations — thereby representing an essential gap in organizations’ preparedness levels. And even if SaaS data is backed up and protected, disaster recovery plans are often not continually tested and therefore can’t be relied on in the face of emergency.
+In the pre-SaaS paradigm, organizations could typically perform a full disaster recovery on their own, but the move to the cloud has introduced new complications and dependencies:
+- Full SaaS application restoration requires the tenant to be restored and repopulated with data.
+- Maintaining continuity in the meantime requires accessing SaaS data.
+This guide discusses how disaster recovery planning and DR objectives need to change to adapt to the new requirements of an agile, cloud-integrated business. By using a fictional example of a ransomware attack, we offer a seven-step guide on how to ensure business continuity if disaster strikes and illustrate in actionable terms how Keepit can help keep your business running during and after an attack.
+Read this report and learn all about:
+- Why it’s crucial — and your responsibility — to back up your SaaS data.
+- How to improve your DR plan and build SaaS resilience.
+- How Keepit can get your business back to normal with minimal disruption.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/docusign-product-sheet/
+Content type: Web page
+Last modified: 2025-09-23T22:29:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Docusign
+Never lose a signed deal—keep contracts safe and recoverable at all times
+Contracts and agreements are fundamental to business operations, legal compliance, and financial transactions. Docusign offers limited retention and recovery capabilities. Losing or corrupting this data can lead to legal liabilities, financial losses, and operational disruptions.
+Awarded for its ease of use, Keepit ensures that Docusign data and settings are securely backed up and can be recovered swiftly in case of accidental loss or malicious attacks. Keepit effectively minimizes the impact of data loss and the burden of recovery on your teams.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/dora-factsheet/
+Content type: Web page
+Last modified: 2025-08-20T02:52:22+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+DORA compliance factsheet â How Keepit helps you comply
+Ensure resilience and compliance under DORA
+Effective from January 2025, the Digital Operational Resilience Act (DORA) sets new cybersecurity and operational resilience standards for financial institutions. With the DORA compliance factsheet, you’ll get a comprehensive look at the regulation’s key requirements for data protection – such as the requirement for backups to be stored logically and physically separate from the production systems they backup - and how Keepit’s backup and recovery capabilities align with them. Download the factsheet now to see what DORA requires you to do for data protection and how Keepit supports these new demands.
+Compliance and future proofing
+Our checklist addresses key questions you might have, such as:
+- What is required of me? Understand the requirements of the DORA regulation and know exactly what's expected of your organization for backup and recovery.
+- What are the risks? Understand the specific challenges your organization faces in securing business-critical SaaS applications and ensuring rapid recovery.
+- How can you stay ahead? Learn how Keepit’s core benefits and product capabilities align with the regulation’s requirements so you can easily implement the necessary cybersecurity measures to ensure your cyber resilience.
+Discover how Keepit supports financial institutions with DORA compliance
+Meeting DORA’s requirements can be complex. This factsheet outlines the essential components of operational resilience and details Keepit's approach to secure, segregated backups, regular testing, and fast recovery. Keepit is trusted by thousands of financial institutions and this factsheet details real-world examples of our proven performance in financial services. Learn how Saxo Bank leverages Keepit’s platform for Microsoft 365 data backup to maintain compliance and operational resilience under stringent regulatory standards.
+Explore our DORA factsheet now to learn how Keepit’s purpose-built, independent SaaS data protection platform can support you on your own compliance journey as well.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/esg-study-ransomware-preparedness/
+Content type: Web page
+Last modified: 2025-08-14T23:52:30+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+ESG Report: 2023 Ransomware Preparedness
+Vulnerable to ransomware attacks? This new Enterprise Strategy Group (ESG) study shows you how to prepare
+Build ransomware resilience and keep your business running, even when disaster strikes
+With 3 in 4 respondent organizations having experienced a successful ransomware attack in the last 12 months, data protection is top-of-mind for IT and cybersecurity professionals. In fact, 65% of IT and cybersecurity professionals surveyed consider ransomware among the top 3 threats to their organization. And for good reason: according to the ESG Ransomware Study, 84% of organizations have lost some of their data in a ransomware attack.
+Readiness is crucial to ransomware mitigation, yet significant gaps exist for most companies. According to ESG’s report, only 16% of companies were able to recover all their data after an attack. In this study, ESG research connects the dots for how organizations can prepare for such an event – and prevent such data loss in the future - using recommended planning and best practices.
+What can I learn from the report?
+The report shines light on the prevalence of ransomware attacks, showing that it’s a matter of when, not if. Given that many organizations have yet to define a clear data protection strategy, the report outlines why and how this exposes organizations to risk – and potential ways to mitigate these threats.
+You’ll learn why it pays to be prepared – as well as strategies your organization can take to do so. Backing up your data can save your organization a significant amount of time and skip the extended downtime that many businesses experience when cyber disasters strike.
+As IT leaders, cyber security, and IT professionals alike are deeply concerned about the impact of ransomware attacks, the report highlights strategies for building resilience against ransomware threats.
+Key questions addressed in the study:
+- How frequent are ransomware attacks?
+- How can you prepare your organization for such an attack?
+- What are the best ways to prevent data loss in case of a data breach?
+- What are some common obstacles (and solutions) in securing proper security controls?
+- What are granular restores and air-gapping and how can they protect your data?
+- How can you minimize recovery time in the event of a ransomware attack?
+- How can third-party backup prepare your organization for potential cybersecurity threats? 
+ 
+ 
+The report will help you to:
+- Understand the measures some organizations have in place to defend against ransomware threats.
+- Examine the state of ransomware mitigation best practices along with readiness, prevention, response, and recovery stages.
+- Segment levels of ransomware preparedness for all key defense phases.
+- Identify priorities and plans associated with mitigating the ransomware threat in the upcoming 12-18 months.
+The key to ransomware resilience
+Restoring data from a backup solution was named as the go-to cyber recovery strategy by respondents.
+But 74% of respondents were still concerned that their backups could be compromised by ransomware as well.
+Keepit has the solution. With true third-party cloud backup, Keepit offers you immutable data copies stored on a separate infrastructure for optimal security. This means your data is safe and can be restored easily – no matter what.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/
+Content type: Web page
+Last modified: 2026-07-03T14:08:18+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit events
+Join us at an upcoming event. We are eager to meet you!
+Americas
+September 21-23, 2026 |Â SÃ£o Paulo, BrazilGartner CIO & IT Executive Conference 2026
+Americas
+October 19-22, 2026 | Orlando, FLGartner IT Symposium/Xpoâ¢ 2026 conference
+Europe
+November 9-12, 2026 | Barcelona, SpainGartner IT Symposium/Xpoâ¢ 2026 conference
+Europe
+November 16-17, 2026 | London, UKGartner IT Infrastructure, Operations & Cloud Strategies Conference 2026
+Americas
+December 8-10, 2026 | Las Vegas, NVGartner IT Infrastructure, Operations & Cloud Strategies Conference 2026
+Europe
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/keepit-inversion6-black-hat-dinner/
+Content type: Web page
+Last modified: 2026-06-30T11:06:48+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit and Inversion6 Black Hat executive dinner
+Executive dinner with Keepit and Inversion6. Party bus pickup at Mandalay Bay convention center after the Black Hat floor closes and dinner at Cleaver.
+Register your interest
+Event details
+Schedule
+- 6 p.m. Party bus arrives at Mandalay convention center
+- 6:30 p.m. Depart Mandalay bay and cruise through strip to Cleaver
+- 7 p.m. Dinner and drinks in private room
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/keepit-live-bern/
+Content type: Web page
+Last modified: 2025-11-18T19:44:12+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Live Bern
+Join us for Keepit Live Bern — an exclusive dinner at Wein & Sein.
+For one special evening, IT leaders and decision makers will come together to exchange insights, connect, and network in a dynamic and inspiring setting.
+Here’s what you can look forward to:
+- Expand your professional network with industry peers
+- Enjoy an exclusive six-course meal with drinks included
+- Connect with our experts and gain valuable insights
+This event is exclusively intended for relevant Keepit customers, partners, and prospects. As such, we reserve the right to decline registrations that do not fall within these categories.
+Secure your spot
+Event details
+Keepit Live
+Location: Wein & Sein, Münstergasse 50, 3011 Bern
+Date: February 17
+Time: 		19.00-22.00 
+Limited spots available — reserve yours early!
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/live-barcelona/
+Content type: Web page
+Last modified: 2025-10-08T19:39:49+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Live Barcelona
+Join us for Keepit Live Barcelona at the FC Barcelona Museum — an exclusive cocktail experience and immersive tour. For one special evening, IT leaders and decision makers will come together to exchange insights, connect, and network in a dynamic and inspiring setting.
+Join us and you will:
+- Expand your professional network with industry peers
+- Experience a curated selection of premium cocktails and gourmet pairings
+- Get a VIP tour of the immersive museum
+This event is exclusively intended for relevant Keepit customers, partners, and prospects. As such, we reserve the right to decline registrations that do not fall within these categories.
+Secure your spot
+Event details
+Keepit Live
+Location: FC Barcelona Museum, 9 del Spotify Camp Nou (Av. de Joan XXIII, 2546)
+Date: November 10
+Time: 19.00-22.00
+Canapés and cocktails included. Limited spots available.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/london-iocs/
+Content type: Web page
+Last modified: 2025-12-04T15:29:33+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Live London -
+Keepit Live is returning to London!
+Join us at Searcy’s at The Gherkin for an exclusive cocktail experience, complete with a catered reception. This evening will bring together industry leaders to connect, share insights, and network in a dynamic and inspiring setting.
+Join us and you will:
+- Connect with fellow IT leaders and Keepit executives
+- Enjoy a curated selection of premium cocktails and canapés
+- Engage in meaningful conversations and expand your professional network.
+This event is exclusively intended for relevant Keepit customers, partners, and prospects. As such, we reserve the right to decline registrations that do not fall within these categories.
+Secure your spot
+Event details
+Keepit Live
+Location: Searcy’s at The Gherkin, 30 St Mary Axe
+Date: November 17
+Time: 18.30-21.30
+Canapés and cocktails included. Limited spots available.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/nordic-roadshow-copenhagen/
+Content type: Web page
+Last modified: 2025-12-03T14:37:15+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Live Nordic Roadshow
+We’re building something new for the Nordic IT community.
+A space to connect across borders, share perspectives, and learn from one another.
+Keepit Live Nordic Roadshow is more than an event — it’s the beginning of a shared platform for IT peers, partners, and customers across the Nordics to exchange ideas and explore how AI, cybersecurity, and data resilience are reshaping the digital landscape.
+Each city will feature its own program and local voices — all centered around one shared goal: bringing people together to inspire collaboration, innovation, and stronger digital resilience across the region.
+Secure your spot
+Program
+15:30
+Welcome and introduction 
+15:35 - 17:00 
+Speaker and Roundtable: The future of AI, Security and resilience. 
+17:00 - 18:30 
+Networking and light refreshments (Christmas style) 
+18:30
+Thank you and see you again for the next Keepit Live Roadshow event.
+Event details
+Location: 
+Matrikel1, Højbro Pl. 10, 1200, Copenhagen 
+Date: 
+December 11, 2025
+Time: 
+15:30 - 18:30
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/partner-advisory-board-2026/
+Content type: Web page
+Last modified: 2026-06-17T14:28:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+EMEA Keepit Partner Advisory Board 2026
+Join us for this invitation-only event, taking place in the beautiful city of Copenhagen.
+Date:â¯Tuesday, September 15, 2026 
+Location:â¯Copenhagen, Denmark 
+Meet your peers, participate in strategic sessions with Keepit C-level leaders, and enjoy true Scandinavian experiences.â¯
+By attending, you will have the opportunity to:
+- Engage in interactive sessions on go-to-market and growth strategies 
+ 
+ 
+- Gain insights on the Keepit product development roadmap and share feedback 
+ 
+ 
+- Network with fellow European partners and the Keepit leadership team 
+ 
+ 
+- Experience a unique part of Copenhagen, the Carlsberg City District
+Register now
+Event details
+Agenda
+Monday, September 14, 2026
+Day time:â¯Arrival
+19:00 - 23:00 |â¯Regional dinner with your peers from your region (optional)
+Tuesday, September 15, 2026 
+09:00 - 09:30 | Welcomeâ¯ 
+09:30 - 12:00 | Interactive sessions with a break 
+12:00 - 13:30 |â¯Lunch 
+13:30 - 16:00 |â¯Interactive sessions with a break 
+16:00 - 16:30 |â¯Closingâ¯ 
+16:30 - 17:30 |â¯Break 
+17:30 - 23:00 |â¯Special activity and teamâ¯dinnerâ¯ 
+Wednesday, September 16, 2026
+Departure
+Date
+Tuesday, September 15, 2026â¯ – To make your travel experience seamless, we invite you to arrive in Copenhagen on Monday, September 14, and depart on Wednesday, September 16.
+Venue
+Hotel Ottilia - By Brøchner Hotels
+Enjoy Copenhagen a little longer!
+If desired, you can prolong your stay at the hotel, bearing the additional expense yourself. How? Fill the form with your arrival and departure dates when registering, and we will book the room for you.
+For any questions, please reach out to your Regional Partner Manager or Sophie Deschamps (sod@keepit.com).
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/partner-update-copenhagen/
+Content type: Web page
+Last modified: 2026-03-27T15:24:49+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Partner Update
+Insight, enablement and connection — a stronger partnership
+The Keepit Partner Update is a local event designed to keep you fully aligned with Keepit, our strategy, priorities, and direction.
+This update is about enablement and insight. You’ll get the knowledge you need to succeed with Keepit, hear what’s ahead, and gain practical takeaways you can apply directly to your business.
+We bring together partners across roles, sizes, and markets to share real experiences, learn from one another, and strengthen how we work together. The focus is simple: connect, learn, and move forward — together.
+Register now
+Event details
+Location
+Meyers Madhus, Nørrebrogade 52C, 2200 Copenhagen N 
+April 30, 2026, 14:30–21:00 
+What you’ll gain
+- Updated Keepit partner strategy and future directionâ¯
+- Latest insights from the Regional VP of Sales including Q&A
+- Product update, demo, and roadmap
+- Update from Keepit Chief Information Security Officer
+- Opportunity to sharpen your cooking skills :-)
+What to expect
+The Keepit Partner Update is part of a new regional event series. Each session delivers strategic updates, localized for each country, practical insights, and opportunities for dialogue — designed to support a strong and aligned partnership.
+Opportunity to connect and discuss with industry peers; we intend to make this an interactive afternoon and evening!
+Agenda
+14:30-14:45 | Arrival and registrationâ¯
+14:45-15:00 | Welcome and introduction 
+Keepit Partner Strategy and Direction 
+- Annette M. Mostrup, Regional Partner Manager 
+15:00-15:30 | Keepit sales strategy and joint market opportunity including Q&A  
+- Lars Christiansen, RVP Sales Nordics & CEE 
+15:30-15:45 | Coffee break
+15:45-16:15â¯ | “Why SaaS backup has become a strategic focus area, and how Keepit’s independent and immutable cloud platform helps customers ensure compliance, business continuity, and rapid recovery.” 
+- Robin Prudholm, Solutions Engineering Manager 
+16:15-16:45 | “When the cloud goes dark” 
+- Kim Larsen, Chief Information Security Officer 
+16:45-17:00 | Wrap up and prepare to cook!
+17:00-21:00â¯ | Social activity, “United We Cook,” guided by the team from Meyers Kitchen. We will prepare a four-course dinner that we will enjoy family style.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/partner-update-finland/
+Content type: Web page
+Last modified: 2026-07-14T11:03:02+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Partner Update
+Insight, enablement and connection — a stronger partnership
+The Keepit Partner Update is a regional event designed to keep you fully aligned with Keepit — our strategy, priorities, and direction.
+This update is about enablement and insight. You’ll get the knowledge you need to succeed with Keepit, hear what’s ahead, and gain practical takeaways you can apply directly to your business.
+We bring together partners across roles, sizes, and markets to share real experiences, learn from one another, and strengthen how we work together. The focus is simple: connect, learn, and move forward — together.
+Register now
+Event details
+What to expect
+The Keepit Partner Update is part of a new regional event series. Each session delivers strategic updates, practical insights, and opportunities for dialogue — designed to support a strong and aligned partnership.
+What you’ll gain
+- Real partner stories and customer cases that inspire new businessâ¯
+- Clear insight into why Keepit is a solid, long-term business partnerâ¯
+- Practical enablement to strengthen pipeline, impact, and confidenceâ¯
+- A focused partner experience — facilitated by Keepit
+Location
+Bodominkuja 7, 02940 Espoo, Finland
+Agenda
+07:30-07:45 Registration
+07:45-08:05 Breakfast, welcome, and introduction — Peter Lindstrom
+08:05-08:35 Keepit demo — James Clelland
+08:35-08:45 Roadmap — James Clelland
+08:45-09:15 Golf warm-up
+09:15-14:00 Keepit Finnish Channel Masters
+14:00-15:00 Lunch and award ceremony
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/partner-update-gothenburg/
+Content type: Web page
+Last modified: 2026-04-16T13:46:02+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Partner Update
+Insight, enablement and connection — a stronger partnership
+The Keepit Partner Update is a regional event designed to keep you fully aligned with Keepit — our strategy, priorities, and direction.
+This update is about enablement and insight. You’ll get the knowledge you need to succeed with Keepit, hear what’s ahead, and gain practical takeaways you can apply directly to your business.
+We bring together partners across roles, sizes, and markets to share real experiences, learn from one another, and strengthen how we work together. The focus is simple: connect, learn, and move forward — together.
+Register now
+Event details
+Location
+Al Dente Göteborg
+Sten Sturegatan 30, Göteborg
+What you’ll gain
+- Real partner stories and customer cases that inspire new businessâ¯
+- Clear insight into why Keepit is a solid, long-term business partnerâ¯
+- Practical enablement to strengthen pipeline, impact, and confidenceâ¯
+- A focused partner experience — facilitated by Keepit
+What to expect
+The Keepit Partner Update is part of a new regional event series. Each session delivers strategic updates, practical insights, and opportunities for dialogue — designed to support a strong and aligned partnership.
+Agenda
+13:45–14:00 | Registration
+14:05–14:25 | Welcome and Introduction – Peter Lindström
+14:25–14:55 | Strategy and Vision – Oscar Grahn
+14:55–15:15 | Break
+15:15–15:45 | Demo, Roadmap – Robin Prudholm
+15:45–16:00 | Quiz and Q&A
+16:00–20:00 | Italian cooking experience at Al Dente Göteborg
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/partner-update-krakow/
+Content type: Web page
+Last modified: 2026-03-03T15:30:58+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Partner Update
+Insight, enablement and connection — a stronger partnership
+The Keepit Partner Update is a regional event designed to keep you fully aligned with Keepit — our strategy, priorities, and direction.
+This update is about enablement and insight. You’ll get the knowledge you need to succeed with Keepit, hear what’s ahead, and gain practical takeaways you can apply directly to your business.
+We bring together partners across roles, sizes, and markets to share real experiences, learn from one another, and strengthen how we work together. The focus is simple: connect, learn, and move forward — together.
+Register now
+Event details
+Location
+Keepit Poland
+72 Dluga Street, 31-146 Krakow
+What you’ll gain
+- Real partner stories and customer cases that inspire new businessâ¯
+- Clear insight into why Keepit is a solid, long-term business partnerâ¯
+- Practical enablement to strengthen pipeline, impact, and confidenceâ¯
+- A focused partner experience — facilitated by Keepit
+What to expect
+The Keepit Partner Update is part of a new regional event series. Each session delivers strategic updates, practical insights, and opportunities for dialogue — designed to support a strong and aligned partnership.
+Agenda
+14:00–14:30 | Registration and welcome coffee
+14:30–14:40 | Opening and housekeeping
+14:40–15:00 | Keepit vision and 2026 priorities (CEE/PL update)
+15:00–15:40 | Product and roadmap update + Q&A
+Spotlight:â¯New workloads (e.g., GitHub)â¯
+15:40–16:00 | Coffee break and partner intros
+16:00–17:00 | Accelerate business with Keepit (partner growth playbook)
+17:00–17:20 | Break
+17:20–17:40 | Marketing and GTM in Poland and CEE (H1/H2 2026)
+17:40– 18:05 | Regulations and vertical talk: DORA/NIS2/Gov+
+18:05–18:15 | Closing and next steps
+19:00 | Networking dinner (offsite)â¯
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/partner-update-london/
+Content type: Web page
+Last modified: 2026-02-17T20:15:26+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Partner Update
+Insight, enablement and connection — a stronger partnership
+The Keepit Partner Update is a regional event designed to keep you fully aligned with Keepit — our strategy, priorities, and direction.
+This update is about enablement and insight. You’ll get the knowledge you need to succeed with Keepit, hear what’s ahead, and gain practical takeaways you can apply directly to your business.
+We bring together partners across roles, sizes, and markets to share real experiences, learn from one another, and strengthen how we work together. The focus is simple: connect, learn, and move forward — together.
+Register now
+Event details
+Location
+WeWork 
+30 Churchill Place, Canary Wharf 
+What you’ll gain
+- Real partner stories and customer cases that inspire new businessâ¯
+- Clear insight into why Keepit is a solid, long-term business partnerâ¯
+- Practical enablement to strengthen pipeline, impact, and confidenceâ¯
+- A focused partner experience — facilitated by Keepit
+What to expect
+The Keepit Partner Update is part of a new regional event series. Each session delivers strategic updates, practical insights, and opportunities for dialogue — designed to support a strong and aligned partnership.
+Agenda
+13:45-14:00 â¯Registrationâ¯
+14:00-14:20 Welcome and introduction — Keepitâ¯partner update, strategy 2026 focus — Alex Walsh, VP Channel, Keepitâ¯
+14:20-14:40 â¯UKI sales strategy update — Dan Middleton, VP UKI Sales
+14:40-15:00 â¯How to utilise the Keepit SDR team within your organisation — Rob Mitchell, SDR Manager UKI
+15:00-15:20 Alignment with your Keepit marketing team — Emilie Daly, Senior Marketing Manager, UKI
+15:30 Break and networking
+16:00-16:40 â¯One ecosystem, three perspectives: How best to make the customer–partner–vendor collaboration work — Dan Middleton, VP UKI Sales and special guests
+16:40-17:00 â¯Keepitâ¯technical: Product roadmap update and Q&A — Neil Rawlins, SE Manager, UKI
+18:00-21:00 â¯The Ivy, Canary Wharf — networking and refreshments â¯
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/partner-update-manchester/
+Content type: Web page
+Last modified: 2026-06-04T11:05:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Partner Update
+Insight, enablement and connection — a stronger partnership
+The Keepit Partner Update is a regional event designed to keep you fully aligned with Keepit — our strategy, priorities, and direction.
+This update is about enablement and insight. You’ll get the knowledge you need to succeed with Keepit, hear what’s ahead, and gain practical takeaways you can apply directly to your business.
+We bring together partners across roles, sizes, and markets to share real experiences, learn from one another, and strengthen how we work together. The focus is simple: connect, learn, and move forward — together.
+Register now
+Event details
+Location
+Manchester Malmaison Piccadilly
+What you’ll gain
+- Real partner stories and customer cases that inspire new businessâ¯
+- Clear insight into why Keepit is a solid, long-term business partnerâ¯
+- Practical enablement to strengthen pipeline, impact, and confidenceâ¯
+- A focused partner experience — facilitated by Keepit
+What to expect
+The Keepit Partner Update is part of a new regional event series. Each session delivers strategic updates, practical insights, and opportunities for dialogue — designed to support a strong and aligned partnership.
+Agenda
+1pm | Registration & Lunch
+2pm | Welcome & Partner Update
+2.20pm | UKI Sales Strategy Updates
+2.40pm | Utilising Keepit SDRs
+3pm | Alignment with your Keepit Marketing team
+3.30pm | Break
+4pm | Keepit Technical overview & updates
+4.30pm | Workshops
+5pm | Event close and Drinks networking
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/pex-stockholm/
+Content type: Web page
+Last modified: 2026-01-16T15:04:41+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Partner Ecosystem Exchange (PEX)
+Grow faster — together.
+The Keepit Partner Ecosystem Exchange (PEX) is a regional event designed to help our partner ecosystem innovate, collaborate, and scale. It empowers Keepit partners to grow faster through insights, enablement, and community collaboration — powered by the global Keepit ecosystem.
+PEX brings together partners of different sizes, roles, and markets to share knowledge, spark inspiration, and unlock new business opportunities that no single organization can create alone. Like any strong ecosystem, we grow by connecting, learning, and evolving — together.
+Register now
+Event details
+Location
+Al Dente La Famiglia
+Alströmergatan 45,
+11247 Stockholm
+What you’ll gain
+- Real partner stories and customer cases that inspire new business
+- Clear insight into why Keepit is a solid, long-term business partner
+- Practical enablement to help you grow pipeline, impact, and confidence
+- A strong community experience — with Keepit as the facilitator
+What to expect
+PEX is part of a new regional event series — each session is built around innovation, inspiration, collaboration, and shared growth.
+Agenda
+13:45 - 14:00 Registration 
+14:00 - 14:20 â¯Welcome & introduction -â¯Peterâ¯Lindström, Regional Partner Manager, Keepit 
+14:20 - 15:00 Keepitâ¯Partner Update, Strategy 2026 Focus - Alex Walsh, VP Channel, Keepit 
+15:00 - 15:40 End customer case  
+16:00 - 16:40â¯ Keepitâ¯technical – product update & demo - Daniel Ruffo, Solutions Engineer, Keepit 
+16:40 - 17:00 Roadmap, Q & A 
+17:00 - 21:00 Pre drinks, cooking and dinner
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/voa-happy-hour/
+Content type: Web page
+Last modified: 2026-05-28T14:46:49+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Exclusive VOA Happy Hour
+Join Keepit for an exclusive VIP happy hour during the Volunteers of America conference.
+We’re bringing together a select group of attendees for drinks, conversation, and a chance to connect outside the conference floor.
+Stop by Tom's Watch Bar on June 6th from 3pm to 6pm for a relaxed afternoon with fellow industry leaders and the Keepit team. This private event is reserved for a select group of conference attendees.
+Secure your spot
+Event details
+Date:
+June 6, 2026
+Time:
+3pm - 6pm
+Location:
+Tom's Watch Bar
+1601 19th St Unit 100
+Denver, CO 
+80202
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/explainer-video/
+Content type: Web page
+Last modified: 2025-08-20T02:24:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit: The power of independent cloud backup
+In today’s fast-paced digital world, safeguarding your data is more complex and more critical than ever.
+Keepit provides fast, reliable data recovery that ensures your business stays resilient, even when your SaaS provider goes down. With an independent cloud infrastructure, secure encryption, and predictable pricing, Keepit protects your data, ensures compliance, and future-proofs your business.
+Discover how Keepit can strengthen your disaster recovery and business continuity plans.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/forma-product-sheet/
+Content type: Web page
+Last modified: 2026-07-14T13:50:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Autodesk Forma
+Continuous access to your Forma data when Autodesk goes down
+Autodesk Forma (formerly Construction Cloud) holds a project's single source of truth — drawings, issues, transmittals, RFIs, and cost data — entirely within its environment. Platform outages, accidental bulk changes to users or roles, and account compromise can cut off access, and Forma has no native rollback. Without an independent backup, teams have no fallback when access breaks down.
+Awarded for its broad SaaS coverage, secure by design architecture, and ease-of-use, Keepit ensures that your Autodesk Forma data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/forrester-new-wave-saas-application-data-protection-2021/
+Content type: Web page
+Last modified: 2025-08-14T23:50:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Forrester New Wave Leader
+Keepit Recognized as a 'Leader' in The Forrester New Wave™: SaaS Application Data Protection, Q4 2021
+The 10 SaaS Data Protection Providers That Matter Most.
+In this New Wave™ report, Forrester ranks the Top 10 SaaS data protection providers based on their current offering, strategy, and market presence. Forrester positions Keepit as a 'Leader' within SaaS application data protection and recognizes it for:
+- Offering Strong core SaaS Application Data Protection support and privacy regulation compliance
+- Being the 'best fit for companies that need Microsoft 365 protection and GDPR expertise'
+- Its 'significant experience with data privacy and compliance needs'
+- Rated 'Differentiated' for Microsoft 365, Google Workspace, Usability, Security & Privacy, and Innovation Roadmap
+What can I learn from the report?
+Technology leaders and SaaS application admins can use this report to select the right partner for their SaaS application data protection needs. Choosing a SaaS backup provider is an important and difficult decision. The market is rapidly expanding and, with hundreds of backup companies to choose from, it's hard to know where to start. The 2021 Forrester New Wave™ on SaaS Application Data Protection will help you identify the 10 most significant providers.
+Read the full report to learn:
+- Which provider offers the best coverage for the key SaaS applications for your enterprise
+- How well each provider scored against 10 criteria and where they stand in relation to each other
+- Which provider is the best fit for your backup and recovery needs
+Keepit's Take on The Forrester New Wave™: SaaS Application Data Protection, Q4 2021
+The adoption of SaaS applications was widely enhanced through the global pandemic of Covid-19 as businesses around the world had to enable their employees to work and collaborate digitally. While SaaS providers (such as Microsoft, Google, and Salesforce) focus on their platform uptime, their clients are left alone with their data resiliency and durability needs. Therefore, SaaS backup providers are flooding the market, offering solutions for widely adopted platforms like Microsoft 365 and Google Workspace.
+Ransomware attacks threaten the data stored in SaaS applications
+While the amount of data being stored in SaaS applications continues to grow, and ransomware attacks are becoming an emerging data loss risk, the adoption of SaaS application data protection is becoming more and more important. Technology leaders and SaaS application admins can use the Forrester New Wave™ to get an overview of the most significant providers in the category and use this report to select the right partner for their SaaS application data protection needs.
+How Were the SaaS Application Data Protection Providers Evaluated?
+In The Forrester New Wave™, only emerging technologies are assessed. The evaluation is based on 10 criteria that are grouped into the providers' current offering, their strategies, and their market presence.
+The top 10 providers chosen for this report were selected because they fulfill the following criteria:
+- A core SaaS Backup offering that supports the protection of at least one of the three key SaaS platforms
+- The extent of the SaaS Backup platform must provide partial or full protection for at least three of the full set of focused SaaS platforms
+- The SaaS backup provider must be a first-party solution
+- Each provider's annual revenue is greater than $5 million
+- The providers must be relevant to Forrester clients based on inquiries, advisories, and other engagements
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/foundation-of-recovery-data-classification/
+Content type: Web page
+Last modified: 2025-08-20T02:24:09+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Reel: Foundation of recovery - Data classification
+In this Keepit Reel, Niels van Ingen, CCO at Keepit, sits down with Kim Larsen, CISO at Keepit, to discuss the importance of embracing a broader strategy centered on resilience.
+This insightful discussion reveals how effective data classification not only underpins recovery efforts but also serves as a cornerstone for building resilience in today’s rapidly evolving digital landscape.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/foundry-survey-white-paper/
+Content type: Web page
+Last modified: 2025-08-20T00:12:59+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Survey: Can data protection keep pace with the shifting landscape?
+In an evolving technological landscape, enterprise IT leaders are grappling with unprecedented challenges in data protection and governance, driven by the rapid adoption of cloud applications and generative AI. Foundry's survey: “Can data protection keep pace with the shifting landscape?” underscores this trend.
+The respondents of the survey represent IT decision-makers from companies with over 1,000 global employees.
+Data protection strategies
+While 70% of respondents report that their financial applications are covered by data protection strategies, a significant portion of other key systems and custom applications remain vulnerable.
+- Financial systems: 70% are covered by data protection strategies.
+- E-commerce and HR Management Systems: 50% are covered.
+- CRM and ERP systems: 48% and 42% respectively.
+- Critical transaction-based systems, custom applications, and collaboration and productivity tools: Are lagging with only between a third and a quarter of systems covered.
+Strategic gaps and vulnerabilities
+The survey reveals that only half of the organizations have incorporated cloud-stored SaaS data into their disaster recovery plans. Another 40% plan to address this gap soon. The current state of data protection is seen as a significant barrier to expanding the use of generative AI technologies.
+Strategic gaps:
+- Critical SaaS data applications: 50% of respondents have included data cloud-stored in critical SaaS applications in their disaster recovery plans, and 40% plan to do so.
+- AI data protection: Nearly all organizations prioritize AI data protection, with 52% already implementing tools for chatbots and AI platforms and 43% considering them.
+Compliance and future proofing
+Compliance is a top concern for 73% of survey respondents heading into 2024, with data governance (53%) and enterprise backup and recovery (45%) also ranking high. Regulatory scrutiny is increasing globally, with mandates from agencies like the SEC in the US and the upcoming Digital Operational Resiliency Act (DORA) in the EU.
+Compliance challenges:
+- Regulatory mandates: New cybersecurity resilience requirements.
+- Cybersecurity risks: Continued threats, notably ransomware.
+The survey was commissioned by Keepit.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/fundamentals-of-recovery-and-restoration/
+Content type: Web page
+Last modified: 2025-08-20T02:30:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Reel: Fundamentals of recovery and restoration
+In this Keepit Reel, Kim Larsen, CISO at Keepit, sits down with Ben Jenkins, VP of Sales North America at Zerto, for a conversation about the realities of disaster recovery planning.
+This informative discussion challenges the assumption that backup equals recovery and explores the urgent need for businesses to shift their focus from prevention to recovery preparedness. From outdated backup technologies and inaccurate recovery estimates to the difficulty of restoring off-site copies, Kim and Ben dive into real-world examples of outages and ransomware attacks to highlight the importance of having a documented, tested, and repeatable recovery process.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/g2-report-infographic/
+Content type: Web page
+Last modified: 2026-05-13T09:49:48+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+See why Keepit is a G2 Leader in SaaS backup
+Real reviews. Powerful insights. Instantly downloadable.
+Looking for a data protection platform for your SaaS apps? See how Keepit stands out from the competition in G2’s Fall 2025 Report — the world’s most trusted B2B software review platform.
+â 94% of users recommend Keepit 
+ â High marks for setup, support, and ease of use 
+ â Trusted by organizations in education, manufacturing, and more 
+“Easy to setup, easy to backup, easy to restore!” – Verified User, Manufacturing
+“Simple configuration and requires little active management.” – Verified User, Education
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/github-product-sheet/
+Content type: Web page
+Last modified: 2026-02-25T22:32:36+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for GitHub
+Your GitHub data. Always safe and recoverable.
+Data loss in GitHub — whether malicious or accidental — can erase critical source code, compromise security and compliance evidence, and halt development. With limited native recovery capabilities, GitHub requires a reliable third-party backup and recovery solution to avoid costly delays, rework, and risks to product integrity and business continuity.
+Awarded for its broad SaaS coverage, impenetrable architecture, and ease-of-use, Keepit ensures that your GitHub data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/google-product-sheet/
+Content type: Web page
+Last modified: 2025-08-25T20:57:35+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Google Workspace
+Protect team collaboration with vendor-independent backup
+Google Workspace is the heart of your business productivity and collaboration, storing critical data that should be protected. While Google ensures infrastructure uptime, they don’t safeguard against all forms of data loss. With the shared responsibility model, “you remain responsible for your access controls and the data that you choose to store in the application.”* Without third-party backup and long-term retention, there’s a real risk of permanent loss with costly operational and financial consequences.
+Keepit offers vendor-independent backup for Google Workspace, keeping your data secure and easily recoverable, your business compliant, and your teams productive, no matter what.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/intelligent-recovery-factsheet/
+Content type: Web page
+Last modified: 2025-08-20T02:52:22+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Intelligent recovery with KeepitÂ
+What intelligent recovery looks like with Keepit
+In today’s digital world, data loss is not a question of if but when. Data loss scenarios in SaaS applications are multifold, from mistaken deletion, to misconfiguration, to an impactful ransomware attack. Recovering in each of these scenarios adds pressure on IT, development, and operations teams. And the challenge of recovering data loss is getting ever more complex with the exponential growth of data, the widespread adoption of SaaS applications, and the growing cyberthreat.
+This factsheet will dive into what intelligent recovery looks like with Keepit and how we can help ensure the security of your data in the face of the unexpected.
+From crisis to comeback
+In this factsheet, you’ll find how our solution supports fast and intelligent recovery, regardless of the data loss scenario. We will walk through common challenges during a recovery process, namely
+- Limited access to data
+- Limited insight into critical data
+- Verifying the integrity of recovered data
+- Hitting your RTOs
+- Getting data back in a usable format
+ 
+For each of these challenges, we will describe how Keepit can solve these problems in a more intelligent way. Explore our recovery factsheet now to learn how Keepit’s purpose-built, independent SaaS data protection platform can support  your company’s  recovery journey.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/is-your-cybersecurity-strategy-ready-key-takeaways/
+Content type: Web page
+Last modified: 2026-03-10T18:53:23+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Ready for 2026: Key takeaways on cybersecurity trends and challengesÂ
+Cyberthreats are evolving faster than ever. From AI-powered attacks and shadow AI risks to hybrid disruptions that span cloud and on-prem environments, the last year has shown just how quickly the threat landscape is changing. The real challenge for organizations isn’t just preventing incidents — it’s ensuring they can recover when disruption occurs.
+This was the focus of a recent Keepit webinar, featuring Kim Larsen, CISO at Keepit, engaging an expert panel exploring current cybersecurity trends and challenges and what organizations must do now to strengthen their resilience.
+Here’s what we learned:
+- AI-powered attacks are accelerating. 
+ Capabilities once limited to nation-state actors are becoming widely accessible, making threats more automated and scalable than ever. Organizations must adapt their defenses to keep pace with this shift.
+- Shadow AI introduces a new category of risk. 
+ Most shadow IT isn’t malicious. But AI tools often process sensitive data without governance, creating legal, regulatory, and security exposure. The biggest challenge is the speed gap: AI adoption is moving faster than governance frameworks can keep up.
+- Resilience requires preparation, not assumptions. 
+ Threats now span cloud outages, infrastructure failures, supply chain attacks, and regional disruptions. Organizations that succeed assume disruption will happen, prioritize recovery of critical systems, and ensure backups are isolated and immutable.
+Our webinar handout summarizes these insights into practical guidance, including:
+- How AI-driven threats and AI risk are changing the cybersecurity landscape
+- Why hybrid threats and SaaS outages require stronger resilience planning
+- Key resilience actions for your organization
+Download the handout to explore the major cybersecurity trends shaping 2026 — and learn how your organization can strengthen its resilience in a rapidly evolving threat landscape.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/jira-confluence-product-sheet/
+Content type: Web page
+Last modified: 2025-08-14T23:39:13+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Atlassian Jira and Confluence
+Automated backups and swift recovery in a vendor-independent platform
+Jira stores critical project management data such as issues, workflows, and sprint plans, while Confluence holds documentation and knowledge bases. Due to limited native backup capabilities, a data loss incident may disrupt operations, delay projects, reduce team productivity, or result in non-compliance and loss of critical organizational knowledge.
+Awarded for its ease-of-use, Keepit ensures that Jira and Confluence data is securely backed up and can be recovered swiftly and accurately when incidents occur. Keepit effectively minimizes the impact of data loss and eliminates the burden on your teams.
+Read more by downloading the Keepit Backup and Recovery for Jira and Confluence product sheet.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/jira-service-management-product-sheet/
+Content type: Web page
+Last modified: 2026-06-01T19:43:11+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Jira Service Management
+When JSM data is lost, rapid recovery starts here
+When JSM data is lost, corrupted, or deleted, your service delivery, SLAs, and customer trust are at risk. Keepit protects your JSM data and configurations with automated, immutable backups and granular restore, giving your organization an independent safety net that improves resilience, speeds recovery, lowers operational risks, and ensures compliance. All in a unified platform for protecting data in critical SaaS applications, including Jira, Confluence, and other productivity, identity, collaboration, and CRM tools.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/keepit-backup-and-recovery-for-salesforce/
+Content type: Web page
+Last modified: 2025-08-14T23:39:53+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Salesforce
+Reduce the impact and the burden of restoring your data and processes
+Data corruption in Salesforce can occur due to accidental overwrites, integration errors, or system failures, making recovery complex and time-consuming. Without precise restore capabilities, businesses lose critical data, break relationships, or restore unnecessary information. Incomplete, manual, or outdated methods lead to operational disruption and compliance risks.
+Keepit eliminates those problems by providing you with intelligent capabilities needed to keep your data and metadata safe and easily recoverable, while ensuring visibility into the health of backups in a single platform across SaaS applications.
+Read more by downloading the Keepit Backup and Recovery for Salesforce product sheet.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/keepit-for-microsoft-365-product-sheet/
+Content type: Web page
+Last modified: 2025-08-14T23:39:45+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Microsoft 365
+Your data deserves the best coverage. Keepit provides the most comprehensive and granular protection and archiving support for all key applications in Microsoft 365. It is the best coverage on the market.
+Read more by downloading the Keepit Backup and Recovery for Microsoft 365 product sheet.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/keepit-for-microsoft-applications/
+Content type: Web page
+Last modified: 2025-08-14T23:39:22+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Microsoft Applications
+A single intelligent platform to protect data in key Microsoft applications
+The fast pace of SaaS adoption leads to critical gaps in data protection. Many business leaders mistakenly assume that SaaS apps inherently back up all their data. This frequently results in costly loss of data and processes, which often can never be recovered.
+Built in a sustainable vendor-independent cloud, Keepit securely backs up data from multiple Microsoft applications and delivers confidence in your ability to recover fast when mistakes or malicious activity lead to data loss. All in a single platform, ensuring full visibility, control and compliance with the industry’s best ROI.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/keepit-for-microsoft-entra-id-product-sheet/
+Content type: Web page
+Last modified: 2025-08-14T23:39:37+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Microsoft Entra ID
+Industry-leading coverage of Microsoft Entra ID
+Microsoft Entra ID holds identities and provides authentication and authorization for your organization’s critical SaaS applications. Losing its objects and policies — due to cyberattacks, accidental deletion, or outages — means disruption to your business and additional stress for you and your team.
+Awarded for its ease-of-use, Keepit’s leading coverage of Microsoft Entra ID ensures that your data is securely backed up in our vendor-independent cloud and can be recovered, or rolled back swiftly and accurately when incidents occur. It effectively minimizes the impact of data loss and eliminates the burden of rebuilding the Microsoft Entra ID environment.
+Read more by downloading the Keepit Backup and Recovery for Microsoft Entra ID product sheet.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/keepit-product-sheet/
+Content type: Web page
+Last modified: 2025-08-20T02:30:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Platform product sheet
+The only vendor-independent, cloud-native platform for intelligent SaaS data protection
+Strategies for managing, protecting, and recovering the exponentially growing amount of data in SaaS applications haven’t kept pace with the rapid adoption of SaaS adoption.
+As 9 out of 10 organizations* rely on enterprise SaaS technology, leaders are increasingly recognizing the urgency of adapting to this new reality. The challenge is clear: Legacy technologies and outdated tactics fail to effectively protect SaaS data.
+Read more by downloading the Keepit product sheet.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/keepit-reel-considering-shared-responsibility-in-disaster-recovery/
+Content type: Web page
+Last modified: 2025-08-20T02:24:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Reel: Considering shared responsibility in disaster recovery
+In this Keepit Reel, Niels van Ingen, CCO at Keepit and Brent Ellis, Senior Analyst from Forrester delve into disaster recovery and data backup. They discuss the shared responsibility model, cloud backup, and infrastructure, emphasizing the importance of having the right tools and identifying associated risks.
+Ongoing education and critical questioning are crucial for effective risk management in backup and disaster recovery strategies. This entails understanding where responsibility lies and ensuring all risks are accounted for.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/keepit-reel-first-steps-for-your-saas-disaster-recovery-plans/
+Content type: Web page
+Last modified: 2025-08-20T02:30:15+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Reel: First steps for your SaaS disaster recovery plans
+In this Keepit Reel, Niels van Ingen, CCO at Keepit, and Brent Ellis, Senior Analyst from Forrester, dive into the unique aspects of SaaS applications and how to develop disaster recovery plans for them.
+They discuss the importance of identifying which SaaS applications are being used within your organization to be fully aware of your risks. Shift the focus from IT management to risk management to ensure your SaaS disaster recovery plan is robust and effective.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/key-trends-and-challenges-in-saas-data-protection/
+Content type: Web page
+Last modified: 2025-08-14T23:51:37+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+On-demand webinar: The Key Trends and Challenges for SaaS Data Protection in 2022
+Presented by: Christophe Bertrand, Practice Director at ESG, and Lasse Thomsen, Information Systems Manager at Oxford University Innovation.
+In this webinar, key speakers from ESG and Oxford University Innovation will help you understand what it takes to be prepared for today's SaaS data protection challenges. They'll also provide real-life examples of data loss and recovery and explain how you can implement best practices for data protection in your business.
+The risks of cloud data loss and unavailability are rising
+The world is constantly changing. Knowing the key challenges of SaaS data protection -and how to overcome them- can help prepare you for a potential data loss incident and avoid or reduce downtime.
+In this webinar, Christophe Bertrand, from the renowned analyst firm ESG, will guide you through a detailed analysis of why the risks of cloud data loss and unavailability continue to increase, why traditional backup and disaster recovery must evolve in the light of ransomware and why organizations must consider new ways and solutions to protect their data.
+Next, Lasse Thomsen from Oxford University Innovation will tell you why he thinks you need a 3rd party backup and recovery solution for your SaaS data and how Keepit has saved him on two specific data loss occasions. He will then dive into his hands-on experience of using and working with Keepit.
+To provide you with even more real-life insights, we've arranged a Q&A session where Lasse will answer Christophe’s most relevant – and toughest - questions on SaaS data protection challenges, as well as provide advice on best practices.
+Don’t miss this hour of invaluable data and real-life insights from some of the brightest minds in the SaaS data protection space!
+What you'll learn in this webinar:
+- The Key Trends and Challenges for SaaS Data Protection in 2022 by Christophe Bertrand from ESG
+- The Real-life Challenges and Solutions for SaaS Data Protection by Lasse Thomsen from Oxford University Innovation
+- Lasse’s best practices, including how he approaches this complex environment, and how he prepares for ransomware
+You’ll get specific insights on:
+- How often does ransomware has a financial and operational impact (spoiler: Very often!)
+- What the average restore times are for SaaS-based applications
+- The SaaS data protection disconnect
+- Top reasons for SaaS data loss
+- Two actual events where Oxford University Innovation needed a backup & recovery solution
+- Lasse's best practices for data protection
+- Why Oxford University Innovation chose Keepit and how it is to work with us
+- And much more!
+Get tons of valuable insights on what the future brings and learn how to protect your cloud data.
+Meet the speakers
+Christophe Bertrand, Practice Director at Enterprise Strategy Group (ESG)
+Christophe covers Data Protection: Backup, BC/DR, DRaaS, GDPR, and Ransomware at ESG. Christophe has 30 years of experience and has spent most of his career in the data storage and data protection space with companies such as Legato Systems (now EMC), VERITAS, Maxtor, Hitachi Data Systems, DataDirect Networks, and most recently Arcserve.
+ 
+Read more about Christophe here. 
+Lasse Thomsen, Information Systems Manager, Oxford University Innovation (OUI)
+Lasse has 20 years of 3rd level support and consultancy and +10 years of hands-on IT management experience from the NHS, Lego, and Zurich before joining Oxford University Innovation as an Information Systems Manager. He has a broad skill range in Microsoft-based systems and has been part of major business transformation projects for Office 365 and Dynamics 365.
+Read more about Lasse here.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/miro-product-sheet/
+Content type: Web page
+Last modified: 2025-12-02T22:44:20+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Miro
+From brainstorm to backup: Keep your Miro work safe
+Losing Miro boards and settings can halt projects, disrupt teamwork, erase critical IP, delay releases, and force costly recreations. As a vital application for teams to plan, design, and collaborate, it becomes essential to protect it from data loss.
+Awarded for its broad SaaS coverage, impenetrable architecture, and ease-of-use, Keepit ensures that your Miro data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/monday-product-sheet/
+Content type: Web page
+Last modified: 2026-04-24T11:01:35+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for monday.com
+Recover lost project and collaboration data instantly — no disruption
+Monday.com holds critical project and operational data that, if lost, impacts productivity and performance. Yet, native recovery options are limited to short retention windows. Don’t be mistaken: Protecting your data is your responsibility. Accidental deletions, errors, or misuse can permanently erase history, disrupt projects, and create compliance risk.
+Awarded for its broad SaaS coverage, impenetrable architecture, and ease-of-use, Keepit ensures that your monday.com data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/navigate-the-saas-data-protection-landscape/
+Content type: Web page
+Last modified: 2025-08-14T23:52:59+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Navigate the SaaS data protection landscape â unlock opportunities for partners
+WebinarBy Cyril VanAgt
+Join Canalys expert Robin Ody and Keepit EMEA VP of Channel, Cyril VanAgt, in this exclusive webinar, as they discuss how to turn business-critical SaaS data protection challenges into business opportunities.
+Find out how current and aspiring Managed Service Providers (MSPs) can make the most out of the state of ransomware and cybersecurity.
+You’ll walk away from this webinar with:
+- Valuable insights into the latest trends identified by Canalys
+- Strategic approaches to start or grow your MSP business
+- An understanding of why Canalys recognizes Keepit as a Scaler in their Managed Backup and Disaster Recovery Leadership Matrix
+- An explanation for why the Keepit Partner Network offers a fresh perspective on partner programs in the SaaS data protection space
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/navigating-sec-and-finra-regulations/
+Content type: Web page
+Last modified: 2025-08-20T02:30:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Navigating SEC and FINRA regulations
+How Keepit supports your compliance efforts
+Operating in the financial sector means navigating some of the strictest data governance rules. From SEC Rule 17a-4 to FINRA’s evolving recordkeeping mandates, organizations must ensure they can retain, protect, and recover data on demand — without compromise.
+This factsheet provides a detailed overview of how Keepit helps address the requirements of SEC Rule 17a-4 and key FINRA rules. It explains how our purpose-built, independent SaaS data protection platform supports immutable, long-term storage of data in a non-rewritable, non-erasable format, enables efficient recovery, and contributes to your overall business continuity planning.
+Whether you're looking to modernize your compliance posture or prepare for your next regulatory audit, this factsheet highlights key SEC and FINRA compliance requirements – and how Keepit helps you meet them.  
+In this factsheet, you’ll find:
+- A breakdown of SEC Rule 17a-4 and how Keepit supports each requirement
+- How Keepit meets FINRA Rules on electronic records and business continuity
+- What to consider when selecting a third-party provider for compliant recordkeeping
+- Why Keepit won “Most Innovative, Compliance” at the 2024 Global Infosec Awards
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/nis2-checklist/
+Content type: Web page
+Last modified: 2025-08-20T00:20:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+NIS2 and SaaS platforms â Your compliance checklist
+What do you need to have in place to comply with the business continuity requirements of the NIS2 Directive? Assess your compliance readiness now.
+ 
+The NIS2 Directive, set to be enacted into local law by October 17, 2024, represents one of the most comprehensive cybersecurity regulations to date. It aims to bolster Europe’s defense against cyberthreats by standardizing cybersecurity measures across the EU, particularly for organizations that are part of critical infrastructure.
+To help organizations navigate the complexities of NIS2 compliance, we've developed a comprehensive checklist focused on the cybersecurity risk-management and business continuity requirements outlined in Article 21 of the directive. This checklist is essential for any organization classified as medium-sized or larger by EU standards, especially those within critical sectors. Download the checklist now to assess your compliance readiness.
+Compliance and future-proofing
+Our checklist addresses key questions, such as:
+- What is required of me? Understand the requirements of the NIS2 Directive and know exactly what is required of your organization in terms of business continuity standards
+- What are the risks? Understand the specific challenges your organization faces in securing business-critical SaaS applications and ensuring disaster recovery.
+- How can you stay ahead? Follow our step-by-step guide to assess, prioritize, and implement the necessary cybersecurity measures to protect yourself and comply.
+A compliance checklist for wherever you are on your journey
+The guide includes actionable insights and practical steps to help you prepare for NIS2, wherever you currently are on your path to compliance. It’s tailored to ensure your organization can meet the rigorous business continuity and disaster recovery standards required by the directive.
+In this document, you will find
+- A checklist for Article 21, specifically for policies on risk analysis and information systems security as well as for business continuity, backup management, and disaster recovery
+- A checklist for securing the SaaS applications your business relies on
+- A checklist for choosing a SaaS data backup vendor to help you comply
+Wherever you are on your compliance journey, this guide can help you assess your current compliance readiness and identify areas where there is still room for improvement. Check your preparedness levels now so you can rest easy knowing you did what's necessary to comply with the NIS2 Directive and secure your business against future cyberthreats.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/nis2-guide/
+Content type: Web page
+Last modified: 2025-08-20T02:30:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+NIS2 Guide: What you can do now to prepare for compliance
+The NIS2 directive, set to be enacted into local law by October 17, 2024, implements the most comprehensive cybersecurity regulation in global history. It aims to bolster Europe’s defense against cyber threats by standardizing cybersecurity measures across the EU, particularly for organizations with critical infrastructure.
+Is your company part of Europe’s critical infrastructure, directly or indirectly? Are you already prepared to meet the NIS2 cybersecurity standards, especially when it comes to business continuity? If not, download our guide now to help you on your journey towards compliance:
+Article 21 of NIS2 lists several cybersecurity risk-management measures businesses need to adhere to for business continuity, specifically “backup management and disaster recovery.” This means organizations must take measures now to minimize cyber risks, and ensure their data is protected and can be recovered quickly in the case of disaster. We have prepared this document for you to guide you through the steps of running a risk analysis, establishing which of your data is business-critical to back up, creating a strong disaster recovery plan, and testing to know it works.
+The guide includes:
+- Our Map-Prioritize-Test framework to help you assess what you need to protect
+- Best practices to get your business ready for NIS2 compliance
+- What to look for when choosing a business continuity partner
+For more guidance on how to get your organization ready for the pending NIS2 regulation, watch our on-demand webinar ‘Prepare for NIS2’ here:
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/nis2-webinar-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Prepare for NIS2: Webinar key takeaways
+The NIS2 directive, set to be enacted into local law by October 17, 2024, implements the most comprehensive cybersecurity regulation in global history. It aims to bolster Europe’s defense against cyber threats by standardizing cybersecurity measures across the EU, particularly for organizations with critical infrastructure.
+To help organizations prepare for NIS2 and shed light on what is required to be compliant, Keepit organized a webinar, hosting an expert panel consisting of Soren Skibsted, Co-Chair of IBA’s Presidential Task Force on Cyber Security, Senator Dr. Andreas Rebetzky, Security and Infrastructure Advisor to CIOs, and Mikkel Oxfeldt, General Counsel at Keepit. The discussion focused on what organizations need to know about the content of the NIS2 directive, specifically Article 21, which addresses the importance of maintaining business continuity.
+You can watch the on-demand webinar here anytime: Prepare for NIS2: Business continuity is critical. Here's how to get it right.
+ 
+You can also download our key takeaways document to get all your questions answered, such as:
+- What are your responsibilities under NIS2?
+- What are organizations’ main challenges and concerns?
+- What does a winning NIS2 strategy look like?
+ 
+The handout includes our Map-Prioritize-Test framework to help guide you through the process of getting your business ready for the regulation and know how to comply with the business continuity and disaster recovery requirements of NIS2.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/nis2-webinar/
+Content type: Web page
+Last modified: 2025-08-14T23:52:52+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Prepare for NIS2: Business continuity is critical. Here's how to get it right
+WebinarBy Mikkel Oxfeldt
+The NIS2 directive adopted by the European Parliament implements the most comprehensive cybersecurity regulation in global history. In this webinar, an expert panel consisting of Soren Skibsted, Co-Chair of IBA’s Presidential Task Force on Cyber Security, Senator Dr. Andreas Rebetzky, Security and Infrastructure Advisor to CIOs, and Mikkel Oxfeldt, General Counsel at Keepit, will dive into the purpose and content of the NIS2 directive and specifically article 21, which addresses the importance of maintaining business continuity in critical infrastructures facing cyber threats.
+Join us, and you will walk away with:
+- A clear understanding of the purpose of the directive and the cost of non-compliance
+- Insight into best practices to meet the requirements for business continuity and disaster recovery
+- Next steps your organization toward compliance and how to have confidence in your vendor selection process
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/observability-and-intelligent-insights/
+Content type: Web page
+Last modified: 2025-08-20T02:48:42+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Observability and intelligent insights with Keepit
+In a fast-moving SaaS landscape, understanding your data protection posture isn’t just a nice-to-have—it’s essential. And documenting backup activities is now a key requirement for compliance and regulatory purposes. With the growing adoption of SaaS applications and the increasing regulatory pressure, having a single platform to support multi-SaaS environments becomes a game changer.
+This factsheet dives into how Keepit delivers observability, reporting, and intelligent insights in one single pane of glass to give you full control and confidence in your SaaS data protection.
+From insight to action
+In this factsheet, you’ll learn how Keepit supports your team with transparency, real-time visibility, and actionable analytics. We address common challenges you may encounter in this context, such as: 
+- Disconnected views across SaaS applications
+- Difficulty identifying backup performance issues
+- Limited insight into data risks
+- Time-consuming compliance reporting
+- Lack of integration with existing systems
+For each of these challenges, we show how Keepit solves these problems in a more intelligent way. Explore the factsheet now to see how our independent SaaS data protection platform enables healthy backups, simplifies compliance, and supports complete confidence—all in one place.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/okta-product-sheet/
+Content type: Web page
+Last modified: 2025-08-14T23:40:01+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Okta
+Identities and access securely backed up and recoverable — on a sovereign platform
+Although it’s known Okta is critical for identity and access management, it’s not as widely known, that under the shared responsibility model, you are responsible for the security and integrity of data stored within Okta.
+That’s why implementing independent backup is a core component in ensuring business continuity, security, compliance, and resilience. Awarded for its ease of use, Keepit ensures that data stored in Okta is securely backed up and can be recovered swiftly and accurately when incidents occur. It effectively minimizes the impact of data loss and the burden of recovery on your teams.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/power-platform-product-sheet/
+Content type: Web page
+Last modified: 2026-01-30T16:45:19+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Microsoft Power Platform
+Secure what your teams built with Power Platform and recover it when it matters
+Your teams have invested significant time building low-code apps, automations, and reports in Microsoft Power Platform. Under the shared responsibility model, protecting that data and those workflows ultimately falls on you while Microsoft’s native Power Platform backups are limited, offering only short-term retention and full environment restores instead of granular recovery.
+With Keepit, you can safeguard your Power Platform environment with automated, secure backups and fast, point-in-time recovery. So even if accidental deletions or malicious activity occur, your business-critical workflows stay intact — and your teams stay productive.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/ready-for-tomorrow-key-takeaways/
+Content type: Web page
+Last modified: 2026-06-02T21:28:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Ready for tomorrow: Key takeaways on AI adoption and resilience
+AI adoption is accelerating across every industry. But many organizations are moving faster than their governance, resilience, and recovery strategies can keep up. From shadow AI and unintended automation errors to growing vendor and data exposure risks, the challenge isn’t just adopting AI — it’s staying in control as complexity increases.
+This was the focus of a recent Keepit webinar, where a panel of experts explored the risks organizations face when implementing AI capabilities, and what leaders must do to build resilience into their strategy from the start.
+Here’s what we learned:
+- AI at scale amplifies mistakes. 
+ A single human error is limited. An AI agent can repeat that same mistake thousands of times in seconds. Organizations need stronger oversight, rollback capabilities, and observability to reduce unintended consequences.
+ 
+- Shadow AI introduces a new category of risk 
+ When organizations don’t provide approved AI tools and clear governance, employees will adopt AI tools on their own — often without safeguards around sensitive data and compliance.
+ 
+- Resilience must evolve alongside AI adoption. 
+ As AI gains access to interconnected SaaS environments and autonomous workflows, organizations need immutable backups, traceability, and trusted recovery points to stay resilient when things go wrong.
+Our webinar handout summarizes the key insights and practical next steps discussed during the session, including:
+- A disciplined three-step approach to responsible AI
+- The biggest risks and challenges associated with agentic AI
+- Why observability, rollback, and immutable backups are essential resilience requirements when adopting AI
+Download the handout to explore how your organization can strengthen resilience, maintain control, and confidently adopt AI in an increasingly complex landscape.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/regulators-made-me-do-it-key-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The regulators made me do it: Webinar key takeaways on enhancing cyber resilience
+Compliance isn’t about ticking boxes anymore — it’s about demonstrating that your organization can recover when it counts. As new regulations such as NIS2 and DORA come into force, regulators across industries and geographies are shifting their focus from policies to proof. This was the topic of a recent Keepit webinar, where Kim Larsen, CISO at Keepit, and Paul Robichaux, Microsoft MVP and Senior Director of Product at Keepit, explored how compliance regulations are driving a more resilient, mature future for data protection.
+Here’s what we learned:
+1) Compliance starts with knowing your critical data. 
+Data classification isn’t optional. You must identify which data is business-critical, ensure it’s backed up securely, and establish clear recovery priorities that align with your operational needs. 
+2) Legacy backup strategies no longer cut it. 
+The 3-2-1 backup rule must evolve for hybrid and cloud environments. You need multiple copies of your data, spread across security domains, with at least one immutable, off-site backup to ensure true resilience. 
+3) Proving recovery capability is now a regulatory expectation. 
+Policies alone aren’t enough — regulators expect documentation of tested, successful recovery processes. Regular restore tests and outcome tracking are essential to demonstrate readiness. 
+Continue the conversation:
+Our webinar handout distills the key takeaways into practical next steps, including:
+- Actionable strategies for building resilience
+- An adaptation of the 3-2-1 backup rule to the cloud world
+- A checklist with key next steps for improving your compliance posture
+Download the handout now to ensure your organization can meet evolving regulatory demands and enhance its level of operational resilience.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/resilience-under-fire-key-takeaways/
+Content type: Web page
+Last modified: 2025-11-17T21:23:36+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Resilience under fire: Key takeaways on safeguarding against hybrid attacksÂ
+In today’s world, the boundaries between physical and digital conflict are fading. Hybrid warfare, nation-state threats, and increasingly sophisticated cyberattacks are putting unprecedented pressure on organizations to stay resilient. The question isn’t if you’ll face disruption — it’s how ready you are to recover when it happens.
+This was the focus of our recent “Resilience under fire” webinar, where Kim Larsen, CISO at Keepit, and Ken Bonefeld Nielsen, senior cyber security and resilience advisor at Norlys, explored what it takes to safeguard against hybrid attacks.
+Here’s what we learned:
+- Hybrid attacks redefine the battlefield. 
+ Modern conflicts combine cyber, physical, economic, and informational dimensions — often without a formal declaration of war. Understanding these scenarios and building mental resilience is key to withstanding complex, multi-layered threats.
+- You can’t protect everything — prioritize what matters most. 
+ Not all systems are created equally. Identifying and classifying mission-critical data and services is essential. Spreading resources too thinly leads to slower recovery and increased business risk.
+- Recovery is your strongest defense. 
+ Absolute prevention is no longer realistic. True resilience lies in your ability to bounce back quickly. Immutable backups, clear RPO/RTO targets, and regular recovery testing form the foundation of an intelligent resilience strategy.
+Our webinar handout summarizes these insights into actionable guidance, including:
+- An overview of the threat landscape
+- Key capabilities your organization needs to adopt now
+- Practical steps to map your dependencies, classify your data, and define recovery priorities
+Download the handout now to learn how to strengthen your organization’s resilience and safeguard against hybrid threats — because in today’s digital battlefield, recovery is security.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/roi-of-ransomware-recovery-webinar-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The ROI of ransomware recovery: Webinar key takeaways
+Did you know that there’s a concerning gap when it comes to organizations’ disaster recovery plans for SaaS platforms?
+Speaking on our recent webinar, Forrester senior analyst Brent Ellis said: “[Out of 2000 enterprise software decision makers], 87% said they’re either currently using a SaaS application, or they plan to in the next 12 months. But [in a separate survey when I asked disaster recovery professionals] if SaaS platforms are within the scope of their organization’s disaster recovery planning, only 36% had a wholehearted yes. And when I asked does your organization currently backup your SaaS hosted data? 14% said no. And if you’re talking about disaster recovery planning and 14% don’t do backup of that data, that leaves a big question mark about whether you’re actually able to recover from a particular disaster to that platform.”
+These numbers clearly show that only a small percentage of organizations is fully prepared for the scenario of a cyberattack and can ensure business continuity if their SaaS platforms are affected.
+To hear more about these findings, watch our on-demand webinar, The ROI of ransomware recovery.
+In this webinar, Brent Ellis, Forrester Senior Analyst, Elia Gollini, Forrester Associate Consultant, and Paul Robichaux, Microsoft MVP and Senior Director of Product at Keepit, dive into the current state of ransomware preparedness and discuss practical strategies to improve DR plans as well as the ROI companies can realize when deploying Keepit for ransomware recovery.
+You can also download our key takeaways document to get the most important insights:
+- The 12 most important risk factors for SaaS data resilience and disaster recovery
+- Which strategies and best practices Forrester recommends to enhance resilience
+- How Keepit customers realized an ROI of 163% over three years, predominantly through a 90% reduction in recovery time
+The handout also includes our checklist for disaster recovery and business continuity, answering the question of “What does good recovery look like?” This will help guide your organization through the process of setting up a solid recovery plan for when disaster strikes.
+For related resources, you can also check out our disaster recovery guide here: When disaster strikes: A guide to data recovery and business continuity
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/roi-of-ransomware-recovery-webinar/
+Content type: Web page
+Last modified: 2025-08-14T23:56:50+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The ROI of ransomware recovery
+While ransomware prevention is always the goal, what happens when, inevitably, an attack occurs anyway? You might already have a backup and disaster recovery solution in place, but often, that is not enough if you don’t have a solid, and thoroughly tested, ransomware recovery process. Join us for an insightful webinar with Brent Ellis, Forrester Senior Analyst, Elia Gollini, Forrester Associate Consultant, and Paul Robichaux, Microsoft MVP and Senior Director of Product at Keepit, as they dive into the current state of ransomware recovery processes in the market while highlighting often-missed gaps in disaster recovery planning. The landscape of disaster recovery is undergoing a significant transformation as organizations continue to rely more heavily on SaaS applications, and in this context, disaster recovery strategies are transitioning as well.
+Learn what companies can do now to improve their disaster recovery plans, as well as practical strategies to enhance your business continuity – and significantly reduce downtime during a ransomware attack while maximizing ROI. Because it’s not a question of if it will happen, the question is how to bounce back when it does.
+You will also hear how organizations have orchestrated effective ransomware recovery processes with Keepit and what return on investment they have realized for their company by employing Keepit as their data protection vendor – based on the commissioned Total Economic Impact™ study conducted by Forrester Consulting.
+Join us, and you will walk away with:
+- Actionable insights and recommendations for how you can address current gaps in disaster recovery planning
+- Insight into best practices for ensuring business continuity during a ransomware attack
+- Information about the ROI organizations have realized when deploying Keepit for ransomware recovery
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/saas-data-security-key-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The SaaS data security imperative: Webinar key takeaways on risks, threats and resilienceÂ
+We're at a critical juncture for data security. As AI adoption accelerates and SaaS environments grow increasingly complex and interconnected, organizations must move beyond traditional thinking to implement data-centric security strategies that can withstand modern threats. This was the focus of a recent Keepit webinar featuring guest speaker Heidi Shey, Principal Analyst at Forrester, exploring how organizations can shift their approach to SaaS data protection and resilience.
+Here’s what we learned:
+1) You need to redefine what sensitive data means. 
+It’s not just about PII, PHI, or PCI anymore. AI models, API keys, collaboration data, and SaaS backups all qualify as critical assets — and they must be classified and protected accordingly. 
+2) Risk doesn’t just target your data — it hides within it. 
+Poor data hygiene can lead to AI bias, bad decisions, and compliance failures. Understanding risk to, from, and in your data is essential to creating an effective security posture. 
+3) Security is a team sport — and it starts with better alignment. 
+From product owners to AI councils, a wide range of stakeholders must be engaged to drive meaningful progress. And working with vendors who support resilience goals is key. 
+Our webinar handout distills the key takeaways into practical next steps, including:
+- Three steps to strengthen your security posture
+- Key controls for securing SaaS environments
+- Three checkpoints for improving resilience 
+ 
+Download the handout now to build operational resilience and prepare your organization for what’s next.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/sanne---test-events-module/
+Content type: Web page
+Last modified: 2026-06-24T13:54:30+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit events
+Join us at an upcoming event. We are eager to meet you!
+March 23-25, 2027 | Cannes, FranceIT & Cybersecurity Meetings
+Keepit Live UK Roadshow - South
+AI is evolving fast — is your recovery strategy keeping up?
+With the Cyber Security and Resilience Bill on the horizon and AI rapidly reshaping risk, organisations face increasing pressure to strengthen resilience, ensure recoverability, and meet regulatory expectations.
+Join us for the southern stop of the Keepit Live UK Roadshow, an exclusive roundtable lunch at the Red Bull Technology Campus. Discuss with fellow IT and security leaders how recovery strategies must evolve in an increasingly complex landscape.
+Why attend
+- Understand the new risks AI introduces to your recovery and resilience strategy
+- Explore practical ways to balance resilience, compliance, and innovation
+- Discuss new recovery realities with peers
+With the Cyber Security and Resilience Bill on the horizon and AI rapidly reshaping risk, organisations face increasing pressure to strengthen resilience, ensure recoverability, and meet regulatory expectations.
+Program
+12.00 – 12.30   -   Arrival and welcome
+12.30 – 14.30   -   Three-course lunch and roundtable discussions
+14.30 – 16.00   -   Factory tour
+Featured speakers
+Michael Amsinck
+CPTO at Keepit
+Michael Amsinck
+CPTO at Keepit
+Guest speakers
+Firstname Lastname
+CPTO at Keepit
+When the Cloud Goes Dark — CIO Strategies for SaaS Resilience in the AI Era
+Cloud dependency and AI usage in daily operations make disaster recovery more than a theoretical discipline — proven redundancy and thorough testing become critical to business-critical contingency planning. 
+In this session, we’ll cover: 
+- Where SaaS recovery gaps expose your business
+- How to build an AI-ready continuity strategy
+- Lessons learned from real-world recovery events
+Speakers
+Michael Amsinck
+CPTO at Keepit
+Michael Amsinck
+CPTO at Keepit
+When the Cloud Goes Dark — CIO Strategies for SaaS Resilience in the AI Era
+Cloud dependency and AI usage in daily operations make disaster recovery more than a theoretical discipline — proven redundancy and thorough testing become critical to business-critical contingency planning. 
+In this session, we’ll cover: 
+- Where SaaS recovery gaps expose your business
+- How to build an AI-ready continuity strategy
+- Lessons learned from real-world recovery events
+Speakers
+Firstname Lastname
+CPTO at Keepit
+Thank you for registering for Keepit Live Amsterdam. We will reach out to you with further details when we get closer to the event.
+June 23-25, 2027 | Cannes, FranceCIO Network Benelux
+Keepit Live UK Roadshow - South
+AI is evolving fast — is your recovery strategy keeping up?
+With the Cyber Security and Resilience Bill on the horizon and AI rapidly reshaping risk, organisations face increasing pressure to strengthen resilience, ensure recoverability, and meet regulatory expectations.
+Join us for the southern stop of the Keepit Live UK Roadshow, an exclusive roundtable lunch at the Red Bull Technology Campus. Discuss with fellow IT and security leaders how recovery strategies must evolve in an increasingly complex landscape.
+Why attend
+- Understand the new risks AI introduces to your recovery and resilience strategy
+- Explore practical ways to balance resilience, compliance, and innovation
+- Discuss new recovery realities with peers
+With the Cyber Security and Resilience Bill on the horizon and AI rapidly reshaping risk, organisations face increasing pressure to strengthen resilience, ensure recoverability, and meet regulatory expectations.
+Program
+12.00 – 12.30   -   Arrival and welcome
+12.30 – 14.30   -   Three-course lunch and roundtable discussions
+14.30 – 16.00   -   Factory tour
+Featured speakers
+Michael Amsinck
+CPTO at Keepit
+Michael Amsinck
+CPTO at Keepit
+Guest speakers
+Firstname Lastname
+CPTO at Keepit
+Thank you for registering for Keepit Live Amsterdam. We will reach out to you with further details when we get closer to the event.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/sec-guidelines/
+Content type: Web page
+Last modified: 2026-02-23T09:51:53+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+SEC guidelines: What you should do now to be compliant
+This guide provides actionable insights for navigating the latest SEC cybersecurity guidelines. Tailored for publicly traded organizations and their partners, gain valuable strategies for achieving compliance and bolstering cyber resilience.
+Discover the key factors driving the need for compliance with the SEC cybersecurity guidelines. Understand the potential risks posed by non-compliance and the importance of proactive measures in safeguarding sensitive data.
+Stay ahead of regulatory requirements and safeguard your organization against cyberthreats with our comprehensive guide to SEC cybersecurity compliance. This resource will help you improve the security posture of your company and is relevant reading for CISOs, CIOs, and IT managers.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/secure-by-design-key-takeaways/
+Content type: Web page
+Last modified: 2025-10-22T12:04:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Secure by design: Key takeaways on rethinking data protection in the AI era
+We’re entering a new phase of AI innovation — one that promises transformation, but at the same time exposes organizations to new layers of complexity and risk. As agentic and LLM-driven systems evolve, the boundaries between applications blur, attack surfaces expand, and traditional security controls lose effectiveness. How can businesses harness AI’s potential safely while maintaining control?
+This was the focus of our recent “Secure by design” webinar, featuring Kim Larsen, CISO at Keepit, engaging an expert panel exploring how resilient data protection underpins responsible AI progress and operational resilience.
+Here’s what we learned:
+- AI governance must evolve with autonomy. 
+ As AI agents begin making decisions and linking systems, governance and control must move from manual oversight to codified, automated guardrails. Defining what “good” looks like — and enforcing it — is essential to prevent risk from scaling with innovation.
+- Immutability is the new foundation for resilience. 
+ Modern data protection must go beyond snapshots to ensure tamper-proof, sovereign backups that restore full system states. Vendor independence, anomaly detection, and granular recovery capabilities are key to enabling trustworthy AI analytics and fast, precise recovery when incidents occur.
+- Winning with AI means maintaining control. 
+ The organizations that will thrive are those that start with clear business outcomes, set data boundaries, and establish rollback paths before scaling innovation. Safe enablement — not blind adoption — drives sustainable progress.
+Our webinar handout distills these insights into actionable guidance, including:
+- A framework for secure AI adoption: Outcome → Controls → Enablement
+- Key capabilities to demand from your data protection vendors now
+- A spotlight on emerging innovations like guided recovery and cross-workload intelligence
+Download the handout now to learn how to future-proof your AI strategy with security and resilience at the core.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/security-whitepaper/
+Content type: Web page
+Last modified: 2025-08-20T00:13:00+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Next-level SaaS data protection: Raising the bar for data protection in the cloud era
+Information security has never been more important—or challenging—than it is today. There are growing threats from external actors and insiders, new systems and software are being deployed faster and more frequently than ever before, the zero-trust model is leading to widespread changes in visibility and access control, and economic pressures demand that costs be reduced or avoided altogether.
+At the same time, Chief Information Security Officers (CISOs) also need to ensure appropriate data privacy and protection throughout the company’s entire tech stack. These evolving demands exist in parallel to a paradigm shift in which a range of workloads—from customer-facing applications to business-critical operational systems—have migrated from on-premises appliances and servers to third-party cloud environments. The cloud brings the agility and availability enterprises require, but it also introduces new challenges. Perhaps foremost among these issues, but one of the least recognized, is a shared data responsibility model and its important implications for business continuity planning, in general, and disaster recovery specifically.
+Purpose-built for the cloud
+Keepit’s mission is to protect data in the cloud. Since 2013, we have worked tirelessly to purpose-build an efficient and—above all—secure data protection solution that provides simple, reliable, cost-effective, and vendor-neutral backup and recovery for software-as-a-service (SaaS) workloads. We recognized that the only way to create such a solution was to architect it from the ground up—so that’s exactly what we did. The output of our efforts is The Keepit platform, the world’s only independent cloud dedicated to SaaS protection.
+When presented with a new solution, it is only natural—and prudent—to ask questions. We understand, and we would expect no less from security professionals. Fortunately, we believe we have created the industry’s best SaaS data backup and recovery solution. We have prepared this whitepaper to address the most common questions about our solution, for example
+- Why did you build an independent cloud?
+- Which protective measures do you employ to protect our data?
+- What are your security standards, practices and features?
+And many more. Read our white paper to dive into our architecture and understand why we built it, why we made certain decisions, and how our solution is fundamentally different from, and meaningfully superior to, other products in the market.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/strategies-for-immutable-cloud-recovery/
+Content type: Web page
+Last modified: 2025-08-25T23:38:03+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Red Team Tales and SaaS Strategies for Immutable Cloud Recovery
+Immutability is just the beginning of achieving resilience by design. Securing static data isn't enough to actively retain control before, during, and after an incident. As organizations increasingly rely on SaaS and multi-cloud platforms, understanding who truly has control of your data—and how that control can be asserted, audited, and reclaimed—is vital to long-term resilience.
+This session explores the following viewpoints: - Strategic view – our SVP of Product will lay out emerging SaaS-backup architectures and policy controls. - Adversarial view – Red Team Manager, will reconstruct a recent cloud-breach scenario to show exactly how attackers erase or encrypt backups and how immutable protection can break the kill-chain. 
+Speakers 
+Bart Binder |  Red Team Manager and Cybersecurity Analyst, Keepit 
+Niels van Ingen |  Senior VP of Business Development and Strategy, Keepit
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/surviving-ransomware-webinar-key-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Surviving ransomware: Webinar key takeaways
+ESG conducted their most recent ransomware study in 2023, surveying 600 enterprise IT and cybersecurity professionals across North America and Western Europe.
+To discuss the findings of the report, Keepit and ESG organized an industry webinar. The webinar panel included Paul Robichaux, Microsoft MVP and Keepit’s Senior Director of Product Management, Dave Gruber, Principal Cybersecurity Analyst at ESG, and Christophe Bertrand, Practice Director at ESG.
+You can watch the on-demand webinar to listen to the discussion: Surviving ransomware: 2023 data protection insights and strategies.
+ 
+You can download our key takeaways document to get all the most important insights, such as: 
+- 75% of organizations experienced at least one successful ransomware attack in 2023.
+- Nearly one in three express serious concerns about the security of their backups.
+- Only 16% of organizations were able to recover 100% of their data.
+The handout includes our data protection checklist for you to assess how well you're currently prepared to protect your data from the ransomware threat and our recommendations for what a winning ransomware recovery and data protection strategy looks like.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/surviving-ransomware-webinar-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How to survive ransomware by mastering disaster recovery â Webinar key takeaways
+The landscape of disaster recovery continues to undergo a significant transformation, driven by the increasing reliance on SaaS applications and the rising threat of ransomware. As part of this transformation, traditional disaster recovery methods are evolving into more comprehensive technology resilience strategies.â¯
+At a recent Keepit event, guest speaker Brent Ellis, senior analyst at Forrester, shared actionable advice for organizations to shift from a reactive to a proactive stance, focusing on securing systems to withstand various disruptions. This involves understanding where data resides and recognizing the unique risks associated with each location, requiring tailored protection strategies. Watch the talk as an on-demand webinar here to understand how disaster recovery strategies need to transition to match the new requirements:â¯
+You can also download our key takeaways document to get all the most important insights, such as:
+- An overview of the most important SaaS platform risksâ¯
+- A guide to the necessary protection strategies to mitigate each riskâ¯
+- Actionable advice for how to create a SaaS resilience strategyâ¯
+â¯
+Download the handout now to learn which strategies and best practices Forrester recommends to enhance resilience and mitigate risk – so that you can ensure your data is safe, even when the threat of ransomware is increasing.â¯
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/surviving-ransomware-webinar/
+Content type: Web page
+Last modified: 2025-08-20T00:05:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Surviving ransomware: 2023 data protection insights and strategies
+WebinarBy Paul Robichaux
+As ransomware attacks rise in impact and frequency, businesses across the globe are pressured to improve their resilience against ransomware.
+In this webinar, industry experts from Enterprise Strategy Group and Keepit will guide you through the latest insights on data protection and ransomware recovery so that you can learn how to back up – and never lose access to – your data.
+The findings are based on a new report titled: "2023 Ransomware Preparedness: Lighting the Way to Readiness and Mitigation," which surveyed 600 European and North American IT and cybersecurity professionals.
+Download the report here.
+Learn how to:
+- Protect your dataand recover from a ransomware attack
+- Employ best practicesand data protection strategies that effectively combat the threat of ransomware
+- Secure a backupand recovery solution that creates a solid last line of defense
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/test-events-3/
+Content type: Web page
+Last modified: 2025-11-24T16:20:14+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit events
+Join us at an upcoming event. We are eager to meet you!
+Europe
+December 1-4, 2025 | Dublin, IrelandESPC25 Dublin Visit us at booth #1
+Americas
+December 9-11, 2025 | Las Vegas, NVGartner IT Infrastructure, Operations & Cloud Strategies Conference 2025 Visit us at booth #249
+EuropeKeepit Live
+December 11, 2025 | Copenhagen, DenmarkKeepit Live Nordic Roadshow Copenhagen
+EuropeKeepit Live
+February 17, 2026 | Bern, SwitzerlandKeepit Live Bern
+Europe
+March 17-19, 2026 | Cannes, FranceIT and Cybersecurity Meetings
+Europe
+March 31-April 2, 2026 | Lille, FranceForum InCyber Europe
+Australia
+May 11-12, 2026 | Sydney, AustraliaGartner IT Infrastructure, Operations & Cloud Strategies Conference 2025
+Past events
+November 18-21, 2025 | San Francisco, CAMicrosoft Ignite Visit us at booth #5538-RIGHT
+Europe
+November 17-18, 2025 | London, UKGartner IT Infrastructure, Operations & Cloud Strategies Conference 2025 Visit us at booth #500
+EuropeKeepit Live
+Keepit Live Barcelona
+Europe
+Gartner IT Symposium/Xpo 2025
+EuropeKeepit Live
+Keepit Live London
+Europe
+Cyber Security & Cloud Expo
+Americas
+Gartner IT Symposium/Xpoâ¢
+Europe
+The Future of Cyber Security
+Europe
+Gartner IT Symposium/Xpoâ¢
+Americas
+Microsoft Ignite
+Europe
+Gartner IOCS
+Europe
+DIGIT Expo
+Europe
+Cloud & Cyber Security Expo
+Europe
+ESPC
+Europe
+Storming Ahead
+Europe
+The Future of Cyber Security Manchester
+Europe
+Swiss Cyber Security Days
+Europe
+Hamburger IT-Strategietage
+Europe
+Experts Live Denmark
+Europe
+Cloud & Cyber Security Expo London
+Europe
+ASLAN2025
+Europe
+IT and Cybersecurity Meetings
+Europe
+secIT
+Europe
+ICT4care - Colloquium ICT4care 2025
+AmericasKeepit Live
+Keepit Live NYC: Resilience Strategy Summit
+Europe
+Forum InCyber Europe
+Europe
+DTX Manchester
+Europe
+Zero-Day Conference
+Americas
+RSA Conference
+Australia
+Gartner IT Infrastructure, Operations & Cloud Strategies Conference
+Europe
+Version2
+Europe
+Cybersec Europe
+Europe
+Data Conference Milan 2025
+Europe
+Infosecurity Europe
+Americas
+Black Hat USA
+Europe
+Computerworld Cloud & AI Festival
+Europe
+Digital Government Expo
+Europe
+ACP Security Insider
+Europe
+it-sa Expo & Congress
+Americas
+Gartner IT Symposium/Xpo 2025
+Europe
+Tech Show Madrid
+Europe
+Richmond Cyber Resilience Forum
+Americas
+Forrester Technology & Innovation Summit
+Europe
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/test-events/
+Content type: Web page
+Last modified: 2025-11-30T20:26:42+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit events.
+Join us at an upcoming event. We are eager to meet you!
+EuropeKeepit Live
+December 1-4, 2025 | Dublin, IrelandESPC25 Dublin Visit us at booth #1
+AmericasKeepit Live
+December 9-11, 2025 | Las Vegas, NVGartner IT Infrastructure, Operations & Cloud Strategies Conference 2025 Visit us at booth #249
+Keepit LiveHelp center - Miro
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/the-compliance-labyrinth-webinar-key-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The compliance labyrinth: Webinar key takeaways
+Global cybersecurity regulations are evolving rapidly to address the growing threat of cybercrime. Simultaneously, the current, fragmented regulatory landscape creates challenges for organizations striving to achieve compliance. In our recent webinar, Kim Larsen, CISO at Keepit, and a panel of industry experts explored the challenges and opportunities presented by global cybersecurity regulations.
+Here’s what we learned:
+- Cybersecurity regulations are evolving.
+Jimmy Nilson, Global VP at Kyndryl Security Consulting: “A common trend in cybersecurity regulations is that all of them are changing. All of them are being updated because the environment we operate in today looks vastly different than only a couple of years ago. That’s because we have a much bigger attack surface, and we introduced more advanced technology to support all our organizations.”   
+- Common cybersecurity principles are emerging.
+Widely adopted frameworks such as NIST and ISO offer commonalities for orientation. 
+- Risk assessment and data governance are crucial.
+Effective risk assessment and solid data governance are key foundational building blocks to achieve operational resilience.
+You can also download our key takeaways document to get all the most important insights, including:
+- An overview of compliance regulations
+- The main commonalities across cybersecurity frameworksâ¯
+- Our checklist for building a resilient cybersecurity and compliance framework
+Download the handout now to learn which practical steps your organization should prioritize to tackle compliance challenges with confidence.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/tips-to-achieve-cyber-resilience/
+Content type: Web page
+Last modified: 2025-08-20T02:30:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Reel: Tips to achieve cyber resilience
+In this Keepit Reel, Henrik Brusgaard, VP of Product Development at Keepit, joins Siddick Elaheebocus, CEO of INNOVISION, for a deep dive into the essential steps organizations must take to build true cyber resilience. This insightful conversation explores five key priorities that businesses need to address today and offers quick wins, best practices, and strategic guidance to strengthen cyber resilience effectively. Don't miss this expert-led discussion on safeguarding your business against evolving cyberthreats.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/us-cloud-act-factsheet/
+Content type: Web page
+Last modified: 2025-08-20T02:30:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit and the U.S. CLOUD Act
+Learn about Keepit's infrastructure model and the implications of the U.S. CLOUD Act for our operations. In this document:
+- Infrastructure ownership and colocation services
+- Global data center presence
+- Data encryption and protection
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/vendor-evaluation-checklist/
+Content type: Web page
+Last modified: 2026-01-06T17:18:49+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Your vendor evaluation checklist: SaaS backup and recovery
+Evaluation checklist to simplify your vendor selection
+Choosing the right SaaS backup and recovery vendor shouldn’t be a guessing game. When downtime, data loss, or ransomware strike, you need partners that can deliver fast, reliable recovery — not vague promises. That’s why we built this vendor evaluation checklist.
+It’s designed to help you evaluate vendors consistently and objectively. The questions map to the managed stage of our disaster recovery maturity framework — where DR is integrated with security, compliance, communications, and leadership decision-making. Organizations at this level don’t just react to incidents — they anticipate them.
+By using this checklist, you’ll get deeper insight into which vendors can truly support your SaaS resilience strategy and help you move toward proactive, business-aligned recovery.
+What questions and topics are part of the checklist?
+Below are the core sections included in the vendor evaluation checklist. Each one walks you through the right questions to ask — and why it matters for achieving mature SaaS resilience: 
+- Backup coverage and data protection
+- Backup and restore features
+- Storage and retention
+- Security and compliance
+- Monitoring, reporting, and observability
+- Vendor capabilities and reputation
+Use these sections to guide vendor conversations and ensure every evaluation is consistent, measurable, and aligned with your organization’s expectations for resilience.
+Request for information (RFI) template
+To make this process easier and to simplify your vendor evaluation, we’ve created a downloadable template you can use to score vendors on these different questions. Get the RFI template now to simplify your vendor evaluation.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/webinars/
+Content type: Web page
+Last modified: 2026-03-19T11:05:14+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+When the cloud goes dark: Resilience lessons from hybrid threats
+Read customer case
+Read the report
+Watch on-demand
+Watch now
+Download whitepaper
+Register now
+Careers at Keepit
+Find a partner
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/when-data-intelligence-meets-risk-management/
+Content type: Web page
+Last modified: 2025-08-20T02:24:07+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Reel: When data intelligence meets risk management
+In this Keepit Reel, Niels van Ingen, CCO at Keepit, and Trent Widtfeldt, Chief of Engineering for the East at Technologent, emphasize their focus on becoming trusted advisors that help clients realize the value of their data.
+They also discuss the strong element of risk management as the value of client data is fully understood and the conversation begins to shift towards cyber resilience and the growing integration of security in all technological practices.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/why-compliance-and-continuity-is-good-business/
+Content type: Web page
+Last modified: 2025-08-20T00:05:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why compliance and continuity is good business for healthcare organizations â and how secure backup of Microsoft 365 data gets you there
+This e-book offers operations, security, and technology leaders in hospitals, clinics, and other healthcare delivery organizations (HDOs) essential insights into why secure backup of Microsoft 365 data is crucial for compliance and business continuity.
+Healthcare organizations must understand that while Microsoft provides infrastructure resilience, it does not cover all aspects of data protection. The potential costs of data loss from ransomware attacks, human errors, or non-compliance with healthcare regulations can be significant.
+By reading this e-book and completing the short exercises within, you will:
+- Learn why backing up your Microsoft 365 data is essential for maintaining security and compliance within your organization.
+- Discover why relying on a dedicated third-party backup provider is crucial for comprehensive data protection.
+- Evaluate your current SaaS data risk and protection readiness to identify gaps and areas for improvement.
+- Gain insights on how to effectively strengthen your budget requests and secure support from senior leadership.
+- Learn what to look for in a dedicated backup solution to ensure it meets your organization's unique needs and regulatory requirements.
+
+------------------------------------------------------------

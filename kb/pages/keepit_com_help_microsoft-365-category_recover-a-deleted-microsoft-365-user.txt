@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/recover-a-deleted-microsoft-365-user/
+Content type: Web page
+Last modified: 2026-06-30T00:50:12+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Recover a deleted Microsoft 365 user
+As Keepit cannot restore data in place if the user IDs do not match (i.e., when the original user no longer exists), data recovery requires first recreating the user and then using our import feature.
+Begin by recreating the deleted user in Microsoft. You can use the same email address as the original user, but note that Microsoft will assign a new user ID.
+Once the account is recreated, ensure that a license is assigned to activate the mailbox.
+Important: After recreating the user in Microsoft 365, it may take a couple of hours for the user's online archive to be fully provisioned. We recommend waiting at least 2 hours before proceeding with the import.
+Finally, use the import feature to recover data for the user from an appropriate snapshot.
+Import a user's data
+1. Find the deleted user in the connector's Users folder. 
+Turn on the delete items view to find the user. Alternatively, open an earlier snapshot where the user still exists.
+2. Point to the item and click the Restore icon. This will open the import feature.
+3. Select the connector to which you want to import the data.
+4. Select the user you want to import the data to.
+5. Click Next.
+6. Select a snapshot from the time you wish to restore and click Next.
+7. Review the summary and click Import.
+Data will be imported to the location corresponding to the data type. Duplicate items will be skipped.

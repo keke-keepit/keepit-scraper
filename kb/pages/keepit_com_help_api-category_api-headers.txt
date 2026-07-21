@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/help/api-category/api-headers/
+Content type: Web page
+Last modified: 2025-09-30T11:00:12+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+API headers
+Postman and PowerShell examples are provided in the endpoints documentation. By default, Postman autogenerates the required headers. As for PowerShell scripts, they already have all the headers included in the script. In cases where any additional header is required to be set up manually, we add that information separately for each endpoint that requires it.
+Here is the list of general API headers that you should include in your request:
+Authorization
+This header carries the authentication credentials in the form of Basic Authentication. It must be set to "Basic <base64-encoded username:password>", where the second part is a Base64-encoded string of your API token username and password in the format username:password. This header ensures that the API can verify the identity and permissions of the caller.
+Example of an Authorization header:
+Authorization: Basic dXNlcm5hbWU6cGFzc3dvcmQ=
+User-Agent
+This header identifies the client making the request. For example, "PowerShell-Keepit-API-Agent-1.0" is used to specify the PowerShell client interacting with the API. This helps to log and manage incoming requests from different clients.
+Content-Type
+This header specifies the media type of the request body. Usually, this header is set to "application/xml" in the provided examples, since the request body is an XML payload. Setting this correctly ensures that the API can parse the request body properly.
+Accept Header
+This header specifies the format in which the response from the server is expected. Our API exclusively supports XML format.
+Besides that, it can also be used to specify a different API version instead of default v0. In case a different API version is required for a particular endpoint or use case, it will be indicated in the respective endpoint’s documentation.
+Example of an Accept header for API version 1:
+Accept: application/vnd.keepit.v1+xml

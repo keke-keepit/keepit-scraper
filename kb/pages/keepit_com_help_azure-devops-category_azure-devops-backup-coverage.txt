@@ -1,0 +1,68 @@
+Source URL: https://www.keepit.com/help/azure-devops-category/azure-devops-backup-coverage/
+Content type: Web page
+Last modified: 2026-03-20T08:59:08+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Azure DevOps backup coverage
+Backup coverage
+The Azure DevOps connector protects the following services: Azure Boards, Azure Pipelines, and Azure Repos.
+The connector also protects related data at the organizational and project levels.
+Inside the connector, your data is structured as follows:
+Organization
+Projects
+- Agent Queues
+- Areas
+- Azure Boards
+- Delivery Plans
+- Queries
+- Team Sprints
+- Work Items
+- Azure Pipelines
+- Pipelines
+- Environments
+- Releases
+- Library
+- Azure Repos (Git Repos)
+- Pack files
+- Index files
+- Refs (branches and tags)
+- HEAD
+- Dashboards (including widgets)
+- Deployment groups
+- Iterations
+- Teams
+- Backlogs
+- Boards
+- Dashboards
+- Iterations
+- Members
+- Areas
+- Wiki (project wiki)
+Users
+Agent Pools
+Deployment Pools
+Backup limitations
+Work items
+The backup of the following is not supported:
+- Reactions to work item comments
+- Links to work items
+- Custom field types
+Only the last version of a work item comment is backed up
+Pipelines
+Due to API limitations, we cannot backup:
+- Secure Files
+- Secure Variables
+The backup of the following is not supported:
+- Permissions
+- Approvals and Checks
+- Task groups
+- Environmental Resources
+- Logs (pipeline runs, release history)
+Repos
+We don't support the backup of repos larger than 256 GB.
+Wiki
+- Only the more recent wiki version is backed up
+- Only links to attachments on Wiki pages, not the attachments themselves, are backed up
+- We do not support the backup of pages comments

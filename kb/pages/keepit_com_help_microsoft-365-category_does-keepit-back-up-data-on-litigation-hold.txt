@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/does-keepit-back-up-data-on-litigation-hold/
+Content type: Web page
+Last modified: 2026-06-29T23:41:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Does Keepit back up data on Litigation Hold?
+Keepit backs up mailboxes that are on Litigation Hold as long as the mailboxes are active.
+However, Keepit does not back up items in the Recoverable Items folder, which is used by Litigation Hold, In-Place Hold, Deleted item retention, Single item recovery, Mailbox audit logging, or Calendar logging.
+Keepit does back up items in the Archives and Deleted Items folders.

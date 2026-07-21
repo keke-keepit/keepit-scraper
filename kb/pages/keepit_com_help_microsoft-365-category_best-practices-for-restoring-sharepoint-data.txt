@@ -1,0 +1,70 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/best-practices-for-restoring-sharepoint-data/
+Content type: Web page
+Last modified: 2026-06-30T01:20:01+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Best practices for restoring SharePoint data
+This article explains how to restore SharePoint data from Keepit, including which restore level to use depending on what was lost.
+Restore data at the highest appropriate level so that it's always restored intact, together with its configurations and metadata.
+If you lost specific data items or configuration settings, you can restore these as individual items — but only do this if you know exactly what was lost.
+Requirements (only for older snapshots)
+Important: This is only necessary if you want to restore from a snapshot made before July 23, 2020 (the release of Keepit 4.0). No action is required if you want to restore a Communication Site page from a snapshot after July 23.
+You don't need to take any action in SharePoint before restoring your SharePoint data, except when restoring Communication Site pages. To restore deleted pages, set extra settings on your Site Collection via PowerShell:
+Set-SPOsite -Identity <SiteURL> -DenyAddAndCustomizePages 0
+For more information, see Microsoft's instructions here.
+What happens to your data when you restore
+When you restore your SharePoint data, Keepit creates it in your SharePoint. For more details, see: What happens to my SharePoint data when I restore?
+If you have a custom SharePoint configuration, see Restoring SharePoint data with an advanced configuration
+In some cases, you can't restore data if parent content or configurations (such as views or permissions) are missing from SharePoint. For more details, see: Can I restore any part of my SharePoint data?
+List items can't be restored if List metadata columns have symbols, special characters (including Danish letters), or spaces in their names.
+Structure of your SharePoint data in Keepit
+Every Site and Subsite folder contains:
+- The data of your Site (Lists and Document Libraries)
+- Your configurations (Site Columns, Site Content Types, Permissions, Customization)
+- Subsites (if applicable)
+Every List and Document Library folder contains:
+- Your data ("Items" in Lists and "Content" in Document Libraries)
+- Your configurations (Columns, Content Types, Views, Item Permissions, and Assignments)
+For a more detailed structure of your SharePoint data, see: SharePoint data coverage
+Restore from the correct snapshot
+Always select a snapshot from before your data was lost or damaged. Select your connector, select the Snapshots Viewer icon, then select the appropriate snapshot.
+Restore scenarios
+Select the scenario that applies to you:
+1. I lost files from a List or Document Library
+2. A List or Document Library was severally damaged or lost
+3.  I lost my Lists or Document Libraries
+4. I lost the configuration settings of my List or Document Library
+5. I lost a whole Site/Subsite or a Site/Subsite was damaged
+6. I lost configurations to a whole Site/Subsite
+1. I lost files from a List or Document Library
+Restore the folder that contains the items or content, or restore the individual items.
+SharePoint > Site Collection > Lists/DocLibs > List/DocLib > Items/Content
+When you restore a single item or folder, Keepit restores the content along with the column properties and permissions (if applicable).
+2. A List or Document Library was severally damaged or lost
+Restore the whole list or document library. This restores everything — the content along with all other data including permissions, columns, content types, and views.
+SharePoint > Site Collection > Lists/DocLibs > List/DocLib
+3. I lost my Lists or Document Libraries
+Restore the folder with all the lists or document libraries.
+SharePoint > Site Collection
+4. I lost the configuration settings of my List or Document Library
+If you lost all or most of your configurations (item permissions, columns, content types, views, assignments, permissions), restore the whole list or document library. This brings back not only the configurations but also the data they apply to, ensuring all your data is intact.
+Note: Views and Items that were lost will have new IDs when they are restored.
+SharePoint > Site Collection > Lists/DocLibs
+If you lost or damaged only the permissions for a list or document library (those with unique permissions), you can restore the Assignments folder.
+> SharePoint > Site Collection > Lists/DocLibs > List/DocLib
+If you lost a specific content type or column, restore it as an individual item.
+> SharePoint > Site Collection > Lists/DocLibs > List/DocLib >Columns
+5. I lost a whole site/subsite or a site/subsite was damaged
+Restore the whole site or subsite. This brings back both the data and all metadata and configurations.
+If the site or subsite still exists in SharePoint, you can restore in place by overwriting the original site, or restore to a new location. For more information, see Restore a SharePoint site.
+When you restore a site, all subsites are also restored.
+Note: Restored sites and subsites get new IDs.
+> SharePoint
+> SharePoint > Site Collection
+If you know exactly what was lost or damaged, you can restore single items — find the appropriate level to avoid multiple restores.
+6. I lost configurations to a whole site/subsite
+If you lost configurations (permissions, site columns, or site content types), you can restore these folders at the site or subsite level.
+Restoring configurations at this level affects all subsites, lists, and document libraries that inherit permissions from the parent site.
+ > SharePoint > Site Collection

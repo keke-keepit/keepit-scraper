@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/microsoft-items-are-skipped-during-the-backup/
+Content type: Web page
+Last modified: 2026-06-30T02:21:32+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Microsoft items are skipped during the backup
+The most common reasons items are skipped during a backup are because we could not reach them due to such reasons as throttling, API failures, or inaccessibility from Microsoft’s side. The system will tag these items as skipped and try again to reach them during the next backup.
+Keepit also skips items that Microsoft marks as malware and does not allow us to process.
+We also skip items that cannot be converted to MIME. To completely back up an item and get a proper representation of it, we need to request the MIME content. As Exchange does not store the MIME content but must convert the database representation of each item, the MIME content can get corrupted. In this case, we will receive an EWS error from Microsoft and then skip this item. During the next backup, we will again attempt to back up this item.

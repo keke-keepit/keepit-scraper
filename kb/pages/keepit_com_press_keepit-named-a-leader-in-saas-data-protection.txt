@@ -1,0 +1,30 @@
+Source URL: https://www.keepit.com/press/keepit-named-a-leader-in-saas-data-protection/
+Content type: Web page
+Last modified: 2025-08-15T00:32:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Named a Leader in SaaS Data Protection Report
+Keepit is recognized as a leader in software-as-a-service(SaaS) data protection and as "the best fit for companies that need Microsoft 365 protection and GDPR expertise."
+Copenhagen, December 15, 2021 – Keepit announced today that independent research firm Forrester in their New Wave™ report ranks the top 10 SaaS data protection providers based on their current offering, strategy, and market presence. Forrester positions Keepit, the Denmark-based provider of independent cloud backup and recovery, as a 'Leader' within SaaS application data protection and recognizes it for:
+- Offering strong core SaaS application data protection support and privacy regulation compliance
+- Being the "best fit for companies that need Microsoft 365 protection and GDPR expertise"
+- Its "significant experience with data privacy and compliance needs"
+- Rated 'Differentiated' for Microsoft 365, Google Workspace, Usability, Security & Privacy, and Innovation Roadmap criteria.
+"Best fit" for Microsoft 365 data protection and GDPR
+Placing data in SaaS applications such as Microsoft 365 offers scalability, agility, and solid uptime. But data stored with these cloud-based services is not automatically protected against data loss - and companies are often unaware of this. This creates major problems if the company is, e.g., hit by ransomware attacks or data deletion due to human error. That’s why companies must protect their SaaS application data with a dedicated backup solution.
+The Forrester New Wave™ SaaS Application Data Protection Q4 2021 report found Keepit to be "the best fit for companies that need Microsoft 365 protection and GDPR expertise. Keepit focuses on the data residency and privacy compliance needs of its clients, with especially good Microsoft 365 support."
+"We have created a simple, innovative, and versatile backup solution for cloud data, which quickly helps companies to recover business-critical data, and easily live up to GDPR regulations. Keepit continues to be the market leader in SADP solutions and will continue to innovate and move the industry," says Frederik Schouboe, CEO and co-founder of Keepit.
+You can read the entire “Forrester New Wave™: SaaS Application Data Protection Q4 2021” report by following this link.
+Read the press coverage here:
+In English:
+https://www.businesswire.com/news/home/20211215005050/en
+In Danish:
+Danske Keepit i top indenfor SaaS-databeskyttelse
+Forrester placerer Keepit blandt markedslederne indenfor SaaS-databeskyttelse
+About Keepit
+Keepitâ¯is a global software company specializing in cloud SaaS backup and recovery. With 22+ years of experience in building best-in-class data protection,â¯Keepitâ¯is leading the way to secure cloud data at scale. Keepit’s HQ is in Copenhagen, Denmark.
+Visit www.keepit.comâ¯
+Contact:
+Head of PR and Communications Katrine Palsby, +45 3020 3765â¯|â¯press@keepit.com

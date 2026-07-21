@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/does-keepit-support-legacy-authentication/
+Content type: Web page
+Last modified: 2026-06-29T23:47:35+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Does Keepit support Legacy Authentication?
+Keepit cannot backup Office 365 of users using Legacy (Basic) Authentication to access Exchange Online.
+We support only applications that use Modern Authentication, which is based upon OAuth 2.0 for authentication and authorization. Modern Authentication is a more secure method to access data as compared to Basic Authentication.
+Please also note that in October 2020, Microsoft stopped supporting Basic Authentication for Exchange Web Services (EWS) to access Exchange Online.

@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/blog/innovision-recovery/
+Content type: Web page
+Last modified: 2025-08-20T02:52:18+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Real-world recovery: SaaS data backup as the cornerstone of cyber resilience
+In today’s digital landscape, where cloud-based services like Microsoft 365 dominate, cyber resilience has become a top priority for organizations. Businesses are increasingly relying on SaaS (software-as-a service) platforms, assuming that all their data is secure. However, without the right backup strategy, they may find themselves vulnerable in the face of data loss or a cyberattack.
+In this post, I want to share a real-world experience from a client that highlights the importance of SaaS data recovery and how it plays a crucial role in maintaining operational continuity.
+A crisis unfolds
+One of our partner’s clients, who remains anonymous due to confidentiality agreements, faced a daunting cyberattack that compromised their Microsoft Azure AD (Entra ID). Like many businesses, they believed their data was safe in the cloud, under Microsoft’s protection. What they didn’t realize, however, is that Microsoft’s services are not immune to data loss or breaches, and the responsibility for safeguarding data ultimately lies with the customer. This is part of what’s known as the shared responsibility model, where cloud providers handle infrastructure security, but data protection remains the customer’s responsibility. Read Microsoft’s shared responsibility in the cloud (source: Microsoft).
+When the attack occurred, the client was caught off-guard. Administrative accounts were compromised, some user accounts were maliciously deleted, and there were attempts to exfiltrate sensitive data from SharePoint. The customer’s crisis committee immediately launched an investigation, but they quickly ran into a roadblock: Azure AD only retains logs for 30 days, making it impossible for them to perform an in-depth forensic analysis of what had transpired.
+The flow of recovery
+By using Keepit backup and recovery for Microsoft Entra ID (formerly Azure Active Directory), we were able to act quickly in response to the cyberattack in three broad steps:
+- Downloaded the last 12 months sign-in and audit logs of Entra ID for investigative analysis using Keepit’s unlimited storage and retention capability.
+- Traced when and what changes happened on the compromised accounts using Keepit for Entra ID metadata previewer feature.
+- Restored the affected user accounts along with their configurations and permissions without needing to recreate accounts from scratch using Keepit for Entra ID’s powerful recovery features.
+The power of backup
+This is where Keepit became a game-changer. By leveraging Keepit’s robust backup capabilities, we were able to provide the customer with access to logs that spanned an entire year. This historical data was critical for the investigation, as it allowed the customer to trace the breach back to its origins, determine the extent of the damage, and understand when the attack had taken place.
+But data recovery goes beyond simply accessing logs. The compromised user accounts needed to be restored, along with all their associated settings (metadata) — something that would have been a nightmare without the right backup solution. Keepit’s ability to restore not just user accounts but also their configurations, MFA settings, and group memberships ensured the client could recover quickly without having to start from scratch. If the client had relied on a standard backup solution, the process would have taken significantly longer, jeopardizing their recovery time objective (RTO).
+The lesson: Backup is non-negotiable
+This experience underscores a key lesson: Having a comprehensive SaaS data backup and recovery strategy is essential to cyber resilience. It’s not just about restoring files but about maintaining business continuity, even when the unexpected happens. The ability to quickly recover from a breach can mean the difference between a short disruption and a prolonged, business-threatening downtime.
+For companies operating 100% in the cloud, like our client, backing up identity systems (such as Entra ID) is as crucial as backing up files. When administrative accounts are compromised, and there’s no backup, organizations face the risk of losing more than just data — they risk losing control over their entire cloud environment. Read more on why Microsoft Azure AD needs to be backed up in the cloud.
+Cyber resilience starts with recovery
+The ease and speed with which we were able to restore the client’s operations, thanks to Keepit, reaffirmed the central role that data recovery plays in cyber resilience. It's not just about preparing for attacks but also about having the right tools in place to recover from them. This customer, through our guidance, has now included Keepit as a key component in their cyber resilience strategy. They understand that backup is no longer a nice-to-have; it’s a critical aspect of their business continuity planning.
+In a world where the question isn’t if an attack will happen, but when, the ability to recover swiftly is a vital need. With Keepit, we were able to help our client turn what could have been a catastrophic breach into a manageable incident, all thanks to a well-implemented SaaS data recovery strategy.
+This article is part one of a two-part series sharing a real-world customer story on cyber resilience. In part two, we look into how cyber insurance played a critical role in protecting a business from the financial impact of a ransomware attack. Read part two entitled "Real-world recovery: The role of cyber insurance in ransomware resilience."
+Want to learn more about ransomware recovery? Watch Keepit’s on-demand webinar:

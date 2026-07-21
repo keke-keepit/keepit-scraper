@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/how-keepit-processes-data-in-microsoft-365/
+Content type: Web page
+Last modified: 2026-06-30T00:07:33+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How Keepit processes data in Microsoft 365
+Keepit uses 3 different APIs to process (back up and restore) Microsoft Office 365 data:
+- EWS (Exchange Web Services) API is used to back up Exchange (Mail, Calendar, Contacts, Tasks, In-Place Archive) and Public Folders.
+- SharePoint REST + CSOM is currently used to process OneDrive, Sites (Legacy), and some parts of the new SharePoint.
+- Microsoft Graph is used to back up Microsoft 365 Groups & Teams (Calendar, Conversations, Channels, Chats, Planner, Files) and parts of SharePoint.
+On a high level, the Keepit backup consists of several services that collaborate with each other in order to process, store, and show backed up data to the end user. Keepit communicates with Microsoft 365 through a gateway, which is also part of our system. In order to back up and restore Office 365 data, we make HTTPS calls to the Microsoft public APIs mentioned above and then we save the data to our secure storage systems. Since the data is stored in a special encoded format, it cannot be displayed to the user as is. For this reason, we use other internal services for data transformation, indexing, and the search function. This both improves user experience as well as makes our system more flexible and robust.

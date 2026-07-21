@@ -1,0 +1,14 @@
+Source URL: https://www.keepit.com/services/backup-google-workspace/
+Content type: Web page
+Last modified: 2025-02-23T21:41:25+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+We offer a simple, yet powerful, backup and recovery solution which protects your Google Workspace data from intentional or unintentional deletion by employees or external cyberattacks.
+Keepit for Google Workspace (formerly G suite) covers your favorite applications:
+- Gmail
+- Drive
+- Docs, Sheets, and Slides
+- Calendar and Tasks
+- Forms

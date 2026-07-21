@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/help/platform-category/extracting-files-after-downloading-data/
+Content type: Web page
+Last modified: 2026-06-23T22:04:54+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Extracting files after downloading data from Keepit
+If you encounter issues extracting your data from a ZIP file, the problem is likely related to the zip utility in Windows, not with Keepit. Windows has a strict limitation on path and filename length, and different ZIP utilities handle this limitation in various ways.
+To resolve this, consider using a more compatible ZIP utility (we recommend 7-Zip) or try extracting your data on a different system that may not have the same restrictions.

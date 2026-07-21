@@ -1,0 +1,70 @@
+Source URL: https://www.keepit.com/blog/anomaly-detection-dashboard/
+Content type: Web page
+Last modified: 2025-08-14T23:36:28+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Introducing anomaly detection: Visibility, control, and faster response in your backup data
+At Keepit, we believe backup shouldn’t be passive. It should give you awareness and insight — not just after something happens, but while it's happening. That’s the thinking behind our newest feature: Anomaly Detection Dashboard.
+Anomaly detection helps you identify unexpected changes in your backup data, so you can act fast — whether it’s due to a mistake, a misconfiguration, a malicious attack, or something else.
+First, what is anomaly detection?
+Anomaly detection monitors backup snapshots and alerts you when there’s a significant change in your data — like a sudden drop in volume or a large number of files added or modified.
+Let’s say, for example, 30% of your tenant data disappears between snapshots, the system flags it. You’ll see exactly where the change occurred and when, so you can react quickly and investigate the cause.
+This is especially useful when handling:
+- Cyberattacks (e.g., encryption or mass deletion)
+- Accidental or unauthorized data removal
+- Unexpected configuration changes
+- Sudden data growth or reorganization
+It’s designed to help prevent major incidents — or at least minimize their impact — by giving you a clear signal that something’s different.
+Why anomaly detection matters for SaaS data protection
+Many customers already use third-party tools to analyze what's happening in their live environments. But they also want that level of insight in their backups — because backup is the last line of defense.
+With anomaly detection, backup becomes more than storage. It becomes a source of truth and a key part of your security strategy. This visibility supports faster decision-making and more confident recovery.
+Keepit’s Anomaly Detection Dashboard
+While similar functionality exists in the market, what sets Keepit’s approach apart is the end-to-end flow. Anomaly detection is directly connected to our platform’s built-in investigation and recovery tools — so you can go from alert to resolution without leaving your dashboard.
+Backup becomes more than storage. It becomes a source of truth and a key part of your security strategy.
+From detection to recovery: a seamless workflow
+Anomaly detection integrates directly with Keepit’s comparison and restore tools, giving you a complete flow from alert to resolution. When an anomaly is flagged, you can:
+- Compare the snapshot with its previous version
+- Drill down to see which folders or users were affected
+- Restore data at the folder or file level
+This built-in workflow supports faster incident response — making it easier to validate the anomaly, identify the root cause, and recover only what you need. Everything happens within the same platform, with no need to switch tools or dig through logs manually.
+How anomaly detection works
+The Anomaly Detection Dashboard shows monthly trends and highlights any anomalies detected across your backup snapshots.
+Each anomaly includes:
+- Date of detection
+- Size change in gigabytes
+- Percentage change
+- Item count: the number of files added, modified, or removed
+Anomalies are classified into one of the following three types:
+- Added
+- Modified
+- Removed
+These categories help you quickly understand whether the change looks like a normal update — or something more critical. For example, a “removed” anomaly might point to mass deletions, while “modified” could be a sign of encryption.
+You can jump from any anomaly into a snapshot comparison, where you can:
+- Filter changes by size or path
+- Drill into specific folders or users
+- Identify the exact files impacted
+- Restore folders or individual files if needed
+This lets you validate whether a change was expected — and if not, take action immediately.
+What would a real anomaly detection incident look like?
+Here’s a hypothetical, yet realistic, example:
+Let’s say you detect a 57% data removal, representing 5.1 GB missing from a snapshot. You can trace that removal to a specific user account and folder (such as a OneDrive Documents directory). You find three folders were deleted — either by accident, or as part of a suspicious event.
+From there, you can restore the data with one click — either at the folder level or file by file. Once restored, the incident is resolved, and your data is back and operational again.
+That’s the flow: Detect → Investigate → Recover.
+What to do when an anomaly is detected
+When an anomaly is flagged, the first step is to investigate it using Keepit’s built-in snapshot comparison tool. From the Anomaly Overview section, you can click into the specific event and compare the snapshot where the anomaly occurred with the snapshot that came before it.
+This allows you to:
+- Browse affected folders and files
+- See exactly what was added, deleted, or modified
+- Understand the scope and significance of the change
+If the anomaly is critical — such as large-scale deletion or suspicious modification — you can restore the most relevant backup version. Whether you need to bring back an entire folder or just a few files, you can act right away, all from within the same platform.
+Alerts, integrations, and SIEM support
+When an anomaly is detected, Keepit automatically sends an email alert to system admins. For organizations using SIEM or CIEM tools, anomalies are also logged in the audit log — giving you the option to parse and trigger workflows using your existing security infrastructure.
+Future releases will expand support for dedicated anomaly types within audit logs, allowing even more granular integration and filtering.
+Packaging, release date, and availability
+Anomaly detection will be included in the Enterprise Unlimited and Governance Plus packages. The feature will be available in the 10.5 release, scheduled for May 11, 2025.
+For most eligible customers, anomaly detection will be enabled automatically. If you have a custom package or are unsure about your configuration, our customer success team is ready to help.
+Getting started
+Once the feature is enabled, you’ll find anomaly detection in the monitoring dropdown of your Keepit dashboard. There, you can explore anomalies, compare snapshots, and restore any data affected by unexpected changes.
+Anomaly detection gives you real-time visibility into your backup environment — so you're not just reacting to problems but staying ahead of them.

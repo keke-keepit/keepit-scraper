@@ -1,0 +1,39 @@
+Source URL: https://www.keepit.com/help/entra-id-category/restore-an-entra-id-objects-relationships/
+Content type: Web page
+Last modified: 2026-07-04T00:06:30+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore an Entra ID object's relationships
+Restoring relationships
+When you restore an object's members, memberships, owners, ownerships, role assignments or assignments folder, you are reestablishing the links to the connected objects.
+For example, if you restore a group's members folder, you are making users and groups again members of the group. You are not recreating the members.
+Only all of an object's relationships can be reestablished at a time. It is not possible to reestablish the link to just to one object (e.g., to one member).
+Restore an object's relationships
+1. Locate the folder inside the object.
+2. Optional: If you want to restore an older version of the item, select the Snapshots Viewer icon, and then select an earlier snapshot. You will now be viewing data from that particular time.
+3. Select ••• > Restore.
+4. Select Yes to restore the item.
+Note: To restore multiple items at a time, select the items. In the toolbar, select Restore.
+What happens when I restore a relationships folder?
+Users
+- Memberships - links to groups and admin units that the user is a member of will be restored.
+- Ownerships - links to groups that the user is an owner of will be restored.
+- Role assignments - links to roles that are assigned to the user will be restored.
+Note: The link to the user's manager cannot be restored separately. This link will be restored only if the entire user is restored.
+Groups
+- Members - links to users and groups who are members of this group will be restored.
+- Memberships - links to groups and admin units that the group is a member of will be restored.
+- Owners - links to users who are owners of this group will be restored.
+- Role assignments - links to roles that are assigned to this group will bÐµ restored.
+Administrative Units
+- Members - links to users and groups that are members of this unit will be restored.
+- Scoped-role assignments - links to roles that are assigned to this unit will be restored.
+Roles
+- Role assignments - links to users and groups that are assigned this role will be restored.
+Service Principals
+- Assignments - links to users and groups that are assigned to this service principal will be restored
+- Owners - links to users who are owners of this service principal will be restored.
+App Registrations
+- Owners - links to users who are owners of this app registration will be restored.

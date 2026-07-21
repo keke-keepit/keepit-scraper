@@ -1,0 +1,59 @@
+Source URL: https://www.keepit.com/help/salesforce-category/salesforce-advanced-relationship-restore/
+Content type: Web page
+Last modified: 2026-01-28T15:51:19+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Where to find advanced relationship restore options
+You can access the advanced relationship restore options in two ways:
+- By browsing within the connector and performing a selective restore
+- By using the restore wizard from the top level of the connector
+For more details on these restore types, see: Restore Salesforce records
+In both workflows, you will encounter a step where the advanced restore options are presented.
+Restore options and scenarios
+1. Records only
+Restores only the records you have selected and no relationships or related records.
+Use when
+You need a few records back quickly for testing or isolated recovery, without bringing in related data.
+Example
+Restore a few Opportunities for sandbox validation without Contacts, Products, or child records.
+Key points
+- No relationships restored
+- No related records created or modified
+- Fastest and lowest risk option
+2. Records + relink
+Restores selected records and reestablishes relationships to existing records (no overwrites)
+Use when
+The main record is missing, but related records still exist and may have newer data.
+Example
+Restore an Account and relink it to existing Contacts and Opportunities without changing those records.
+Key points
+- Relinks to existing records only
+- Does not overwrite existing record values
+- Missing relationships are skipped
+3. Records + recreate + relink
+Restores selected records, recreates missing related records, and reestablishes relationships (No overwrites)
+Use when
+Some related records were deleted, but anything that still exists must not be overwritten.
+Example
+Restore an Account and recreate missing Contacts, while preserving current values on existing Opportunities.
+Key points
+- Recreates missing related records (when present in the snapshot)
+- Preserves current values for records that already exist
+- Relinks relationships across restored and existing records
+4. Full restore (includes updates)
+Restores selected records, recreates missing related records, reestablishes relationships, and updates related records to match snapshot values
+Use when
+You need a true rollback after major corruption, accidental updates, or widespread deletion.
+Example
+Restore an Opportunity and roll back all related records to match the snapshot.
+Key points
+- Recreates missing related records
+- Updates existing related records to match the snapshot
+- Highest impact option; use carefully
+Hierarchy note (Important)
+Advanced Relationship Restore does not restore parent records higher in the hierarchy.
+When restoring data, start the restore at the highest record level you need, and then select which child records to include as part of the same restore job.
+Notes and guardrails
+Anything that cannot be restored due to missing references, permissions, or invalid relationship chains is skipped and logged in Job Monitor.

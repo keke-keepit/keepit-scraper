@@ -1,0 +1,58 @@
+Source URL: https://www.keepit.com/blog/disaster-recovery-maturity-framework/
+Content type: Web page
+Last modified: 2026-01-21T14:36:56+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Introducing a DR maturity framework for SaaS (part 1/6)
+Why a maturity model for SaaS, why now, and how to tell where you are
+This six-part blog series introduces Keepit’s practical, vendor-neutral maturity framework for SaaS disaster recovery (DR). Built on more than 20 years of real-world experience, it helps you orient yourself to where you are today and what to improve next. This post sets the stage; each of the next five posts will focus on one maturity stage, with a real-world example, the common attributes at that stage, and the concrete steps that move an organization forward.
+Decades ago, the Carnegie Mellon Software Engineering Institute created what they called a Capability Maturity Model (CMM), a revolutionary attempt to establish the first standardized model of organizational maturity in software engineering. The SEI CMM helped organizations understand how mature their engineering processes were, along with steps on how to reach higher levels of software quality by increasing organizational maturity.
+There are no SaaS-specific models that focus on disaster recovery for SaaS applications. We recognize the value of a standardized and public model, so we decided to develop one — but why would SaaS data protection need a specific maturity model?
+What makes SaaS DR different
+SaaS decentralizes both data and control. You can lose access without losing the data itself (identity or permission failures), and you can lose data without losing access to the surviving data (deletion, corruption, malicious encryption). Organizations don’t have the same visibility or control when performing SaaS DR operations that they do with on-premises applications, which can create risky gaps in data protection and resilience.
+Many organizations believe that their SaaS vendors provide an integrated and complete DR capability to protect their data. The reality? Native features help with convenience and basic hygiene, and the vendors protect against total loss of all data they hold, but these measures aren’t a substitute for independent, immutable backup that you control. Why? Because SaaS vendors follow a model in which responsibility is shared between the user (customer) and the vendor. Let’s look into the shared responsibility model.
+The SaaS shared responsibility model
+Under shared responsibility models, which are common to pretty much every SaaS vendor, the provider secures the service layer (including network, OS, and their own apps), while customers are responsible for the data they create, their configurations and identities, data retention, devices, and ultimately their ability to recover from data loss scenarios.
+This model is often misunderstood, leading to a data protection gap between assumed level of protection and the actual level of data protection offered natively. This gap shows up every day: In a recent Keepit survey, 37% of respondents said they rely only on native protection measures, which often means short retention windows and limited recovery options (i.e., not true backup).
+The DR maturity framework for SaaS
+This data protection gap is why we’ve built a vendorâneutral maturity framework specifically for SaaS disaster recovery. The goal is simple, but vital: Give every organization a common language to describe their current capability, a way to pinpoint the next best step, and a path to move from firefighting to managed resilience.
+How the DR maturity model works
+The framework accesses your program across three categories. We’ve used and verified this model in our work with customers and have, through a collaborative process, determined which characteristics and metrics are most predictive for an organization’s maturity level when it comes to disaster recovery for SaaS applications.
+The primary metrics considered to determine an organizations’ maturity level fall into these three categories:
+1.Organizational maturity
+- Direct experience with outages
+- Adequate/appropriate levels of staffing/knowledge
+- Quality and rigor of change control processes
+- Integration with enterprise governance, risk management, and information control processes or frameworks
+2. Quality and scope of existing infrastructure
+- Adequate inventory or knowledge of SaaS application data
+- Existing data protection infrastructure
+- Existing data classification infrastructure
+- Degree and quality of system and service observability
+- Degree and quality of automation support
+3. Motivation
+- Degree and kind of awareness of applicable regulatory requirements
+- Past negative experiences that drive a desire for DR improvements
+- Willingness to allocate budget for disaster recovery improvements
+As each of the five stages of the maturity framework will have its own blog, let’s quickly look at what the stages are.
+At a glance: The five stages of the DR maturity framework
+In the Keepit model, organizations are typically assigned to one of the following five levels of SaaS DR maturity. Note that it’s also possible for an organization to have mixed results due to being at different levels in the above three categories.
+1. Reactive
+Hallmarks: Ad hoc recoveries; no repeatable processes or documentation; little to no data classification; unclear roles; “whoever yells loudest” prioritization; multiple single points of failure; limited out-of-band communications; focus on app data while ignoring the control plane.
+Next steps: Create actual written recovery plans, ask the business to name the single most critical dataset, and assign named owners/backups to create the first repeatable process.
+2. Basic
+Hallmarks: Fragmented procedures; sporadic or no testing; limited understanding of root causes; some budgeting but narrow scope; success depends on a few people (high “bus factor”); limited and uneven labeling/classification.
+Next steps: Strengthen documentation with test cases and expected results, establish a minimum viable test cadence, set up offline communications, and close obvious skills/coverage gaps.
+3. Structured
+Hallmarks: Documented and understood procedures for common recoveries; regular reviews; adequate staffing with limited redundancy (medium bus factor); better planning/budgeting; good but uneven classification.
+Next steps: Use monitoring and test retrospectives to find gaps, extend scope to additional datasets/control-plane items, and reduce remaining single points of failure.
+4. Proactive
+Hallmarks: Regular, higher-standard DR/BC tests (including large-scale and identity/control-plane restores); established redundancy; consistent labeling; effective at individual recoveries but limited concurrency across the portfolio.
+Next steps: Scale by deepening observability and integrating DR with governance and adjacent functions so you can run multiple recoveries concurrently and prevent new single points of failure.
+5. Managed
+Hallmarks: DR is a core, leadership-owned function; fully developed plans for complex, multi-workload recoveries; strong observability (including anomaly detection); broad, reliable coverage with people/system redundancy; board-level reporting and continuous improvement.
+Next steps: Sustain and optimize — expand predictive capabilities, rehearse portfolio-wide scenarios, and maintain governance/reporting to avoid regression.
+Where to go from here
+The next installment of the blog series will cover stage one: Reactive. where we’ll look at what firefighting really looks like and how organizations can make their first moves toward predictability. In the meantime, you can jump right into the DR maturity framework.

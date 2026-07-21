@@ -1,0 +1,9 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/teams-channel-posts-are-not-being-backed-up/
+Content type: Web page
+Last modified: 2026-06-30T02:03:36+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Teams channel posts are not being backed up
+If Teams channels posts are not being backed up, it may be because your connector is still using the Graph API beta version for the backup and restore of Teams channels. To switch to the Graph API 1.0 and ensure the backup of posts, please re-authenticate your connector to update permissions. You can reauthenticate from the dashboard page or from the connector configuration.

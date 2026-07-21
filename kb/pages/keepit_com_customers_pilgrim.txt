@@ -1,0 +1,43 @@
+Source URL: https://www.keepit.com/customers/pilgrim/
+Content type: Web page
+Last modified: 2026-01-08T12:24:44+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Pilgrim is using the Keepit backup solution to secure the companyâs Microsoft 365 email and OneDrive for Business.
+Is using the Keepit backup solution to secure the company’s Microsoft 365 email and OneDrive for Business
+The IT Strategy at Pilgrim: Outsourcing
+Pilgrim used to have a significant IT department. But the company has chosen to outsource most of the functions, and is now down to two IT employees inhouse. Thomas Knudsen is responsible for all IT operations at Pilgrim, including internal support and planning of future IT operations.
+The outsourcing strategy aims to make IT operations at Pilgrim as simple, low-maintenance and independent as possible by placing as many services as they can with external providers - from hosting the server environment to data backup and device management. At the same time, they need to ensure the services can be scaled. As part of this plan, Pilgrim chose to replace their old email system with Microsoft 365.
+No Automatic Backup Included with Microsoft 365?
+When Knudsen took the decision to replace the previous email system with Microsoft 365, and get Pilgrim’s mail system to the cloud, he took it for granted that Microsoft included secure backup of Microsoft 365.
+“I had the impression that Microsoft included automatic data backup in the Microsoft 365 package. I was a little surprised when I found out that was not the case,” Knudsen explains.
+At Pilgrim, emails often work as records and documentation for employees in the sales department. That’s why it’s imperative to back up emails and have the possibility to restore them. Knudsen chose to secure Pilgrim’s Microsoft 365 data with the Keepit Office 365 backup solution. Now Keepit provides automatic backup of all Pilgrim’s Microsoft 365 data at its headquarters in Denmark and its subsidiaries in Canada and China.
+With Keepit securing automatic backup of Pilgrim’s Microsoft 365 data, Knudsen has full confidence that the solution is stable and secure. This gives him more time to focus on his other responsibilities at Pilgrim.
+Easy to Implement and Ample Space
+”I was very surprised at how easy it was to install Keepit. It literally only took me 5 minutes! It is easy to get started with, and the solution offers exactly what I need, in terms of the amount of space you get,” says Knudsen.
+As the only IT-operations employee at Pilgrim, Keepit’s simple implementation and ease of use is a great advantage for Knudsen. He likes how easy it was to add subsidiaries to the Keepit solution.
+”Even if data is located in different countries, you don’t have to install anything locally in the other countries in order for Keepit to run the backup - it just works,” Knudsen stresses.
+With Keepit, Pilgrim has acquired an easy-to-manage and secure backup solution at a very reasonable price. And above all, the solution does not require any maintenance. In addition, the solution offers plenty of space.
+There is no hokus-pocus that you have to upgrade every time you run out of space. With Keepit you get ample space from the start – that is alright!
+Thomas Knudsen
+IT Manager, Pilgrim A/S
+No Disaster if Data is Lost
+Pilgrim’s previous mail system was located on an on-site server that ensured the backup of all files and emails. With any incident, the restore process was heavy and time-consuming, as Knudsen had to restore a complete database before he was allowed to restore, for instance, just a single email. Even though this did not happen so often, it was a constantly ticking bomb that caused stress.
+It has been a great relief for Knudsen that the Keepit solution provides him with fast restore with the option of pinpointing exactly what he needs to restore - be it a full database or just a single email.
+Previously it would take me half a day to restore a single database with 30 users! With Keepit I now get a quick response time. I had to restore OneDrive, and it literally only took minutes before the files were up and running again.
+Thomas Knudsen
+IT Manager, Pilgrim A/S
+Predicts Backup Need for more Cloud Servcies
+Today only 5% of Pilgrim’s Microsoft 365 users are using OneDrive, with the intention of fully integrating over the next 6 months. That’s why Knudsen decided to establish backup for OneDrive from the very beginning.
+As part of the IT setup, Pilgrim will soon be adapting SharePoint as its intranet tool. Knudsen would like to extend his collaboration with Keepit to back up SharePoint as well. He predicts that in future, Pilgrim will need an even more comprehensive Keepit package that includes more users across a number of applications.
+Knudsen sees Keepit’s backup service as perfectly in line with Pilgrim’s backup strategy. It provides secure data backup across Pilgrim’s different cloud services and ensures backup of the physical server environment.
+Pilgrim has experienced these benefits using Keepit:
+- A stable and maintenance-free backup solution for Pilgrim’s Microsoft 365 data
+- Ample space for Pilgrim’s Microsoft 365 data
+- Fast restore function with the option of pinpointing the exact need for restore
+- A scalable backup solution that can be adjusted to Pilgrim’s future backup needs
+Keepit’s Support Team Offers Comfort and Safety
+Knudsen finds it reassuring that he knows the company behind Pilgrim’s extra critical-data security.
+As the only IT-operations responsible, it’s a huge benefit for Knudsen that Keepit offers clear, competent support within his working hours. This eliminates stress and makes his workday more manageable.

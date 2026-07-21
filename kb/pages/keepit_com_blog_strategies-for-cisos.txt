@@ -1,0 +1,57 @@
+Source URL: https://www.keepit.com/blog/strategies-for-cisos/
+Content type: Web page
+Last modified: 2025-08-20T00:12:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Whatâs keeping CISOs up at night?
+Introduction
+Cybersecurity is no longer a siloed concern relegated to IT departments; it’s a fundamental component of business strategy. Chief information security officers (CISOs) face mounting pressures to not only protect their organizations but also to integrate cybersecurity into the broader business framework.
+This is the focus of our recent webinar, "The CISO balancing act: How to tackle rising cybersecurity pressures in 2024," where industry experts share insights and strategies. Read further for a summary highlighting the key takeaways.
+Strategies for CISOs navigating cybersecurity challenges
+As the digital landscape expands, so do the complexities of managing cybersecurity. We’re seeing a mix of longstanding challenges and new, emerging threats that are putting unprecedented pressure on security professionals worldwide.
+Our on-demand webinar provides strategic and operational insights based on extensive research and interviews with over 30 top security professionals from organizations around the globe. Whether you're a CISO, a security analyst, or a business leader, these compiled insights will help you navigate the obstacles ahead.
+Join Mark Renouf, former BBC journalist and contributor, as he engages with industry experts Tim Rhodes, managing director at Apprize360, and Kim Larsen, CISO at Keepit, to discuss key takeaways from the study, such as:
+- Decisions to consider as you prepare for both known and unknown threats.
+- Key components of a resilient security framework that adapts to both current needs and future technologies.
+- How to identify solid best practices to embrace.
+The importance of a data governance framework
+One of the most pressing challenges identified in the webinar is the need for a robust data governance framework. This is highlighted as a top priority by nearly all the CISOs and IT leaders interviewed.
+Key points:
+- Customization and scalability: Organizations need data governance frameworks tailored to their specific needs, which can grow and evolve with them.
+- Deployment challenges: Many leaders struggle with effectively deploying and maintaining these frameworks.
+- Foundational role: Data governance is foundational to overall cybersecurity strategy, impacting compliance, risk management, and operational efficiency.
+Data classification: The bedrock of data governance
+Hand in hand with data governance is the need for an effective data classification strategy. This is emphasized as a critical step before any governance framework can be successfully implemented.
+Key points:
+- Foundation first: Proper data classification is seen as the cornerstone of an effective data governance framework.
+- AI and automation: While AI and machine learning hold promise for automated data classification, there's caution about relying too heavily on these technologies without thorough vetting.
+- Simplification: Effective data classification frameworks should avoid complexity, making them easy to understand and use across the organization.
+Board involvement in cybersecurity
+Another major theme is the crucial role of board involvement in cybersecurity strategy. Despite its importance, many organizations still lack adequate board engagement in this area.
+Key points:
+- Risk integration: Boards need to integrate cybersecurity risks into their overall risk management strategies.
+- Education and engagement: CISOs often need to educate board members about cybersecurity threats and the importance of proactive strategies.
+- Strategic role: Cybersecurity should be a regular item on board agendas, influencing broader business decisions.
+Defensible security strategies
+CISOs are increasingly focusing on creating defensible security strategies rooted in zero trust principles. This involves continuous threat modeling and analysis, ensuring that security measures can withstand scrutiny and adapt to evolving threats.
+Key points:
+- Lifecycle approach: Viewing cybersecurity through a lifecycle lens rather than isolated solutions.
+- Zero trust: Implementing zero trust principles to create a more resilient security posture.
+- Continuous improvement: Regularly updating and refining security strategies to address new threats.
+Vendor partnerships: beyond products to solutions
+Effective cybersecurity often depends on strong vendor partnerships. CISOs are looking for vendors who can provide not just products but comprehensive solutions and strategic advice.
+Key points:
+- Consultative partnerships: CISOs value vendors who act as partners, offering strategic guidance and support.
+- Integration and collaboration: Vendors should work seamlessly with internal teams and other third-party solutions to provide cohesive security coverage.
+- Service and support: High levels of service and support from vendors are crucial for maintaining effective security postures.
+Addressing CISO experience and maturity
+The webinar highlights the varying levels of experience and maturity among CISOs, which can significantly impact an organization's cybersecurity effectiveness.
+Key points:
+- Diverse backgrounds: CISOs come from various professional backgrounds, affecting their approach to cybersecurity.
+- Rapid impact: With an average tenure of 24-36 months, especially in the U.S., CISOs need to make quick, impactful changes.
+- Training and development: Continuous education and professional development are essential for CISOs to stay ahead of emerging threats.
+Conclusion
+As we navigate the complexities of cybersecurity in 2024, the role of the CISO is more critical than ever. Effective data governance, board involvement, strategic vendor partnerships, and continuous improvement in security strategies are vital. Organizations that prioritize these areas will be better equipped to handle the rising pressures and evolving threats in the cybersecurity landscape.
+By integrating these insights into their operations, businesses can enhance their cybersecurity posture, ensuring not only protection but also resilience and strategic advantage in the digital age.

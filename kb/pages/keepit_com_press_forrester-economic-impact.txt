@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/press/forrester-economic-impact/
+Content type: Web page
+Last modified: 2025-08-19T23:57:55+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Independent Study Reveals Significant Operational Savings and Productivity Gains for Keepit Customers
+Customers-based case study reveals Keepit’s solution produces measurable and potential cost reductions
+COPENHAGEN – March 10, 2022 – Keepit, the market leader in cloud backup and recovery, and the world’s only independent, vendor-neutral cloud dedicated to Software-as-a-Service (SaaS) data protection, with a blockchain-verified solution, today released the results of a Total Economic Impact™ (TEI) study conducted by Forrester Consulting, a division of Forrester Research.
+Commissioned by Keepit, the study evaluates the potential economic impact for businesses that utilize the company’s data protection services. The study revealed that through benefits such as reduced auditing and legal costs and decreased negative outcomes from potential ransomware attacks, Keepit provides its customers with a substantial financial and strategic value.
+Based on interviews with five Keepit customers across a range of industries, Forrester generated a composite organization from which it produced a financial model that outlined three-year, risk-adjusted potential savings from utilizing Keepit.
+The TEI determined that Keepit offers a 78% return on investment (ROI) and a six-month payback time, for savings that can be quantified. In addition, Keepit customers experienced reductions in the following:
+- Auditing and legal costs
+- SaaS licensing costs
+- Archiving and labor costs
+- IT administrator offboarding and efficiencies in operations restoration and lost productivity.
+One Keepit customer had this to say: “My best guess [of the beneficial impact we expect Keepit to have in the event of a ransomware attack] is somewhere between 20-40% reduced cost and a lot of time. In real money, it could be anywhere between 55,000€ and 550,000€.”
+Another revealed, “Keepit does not avoid ransomware attacks, but it ensures you are back up and running quickly.”
+“The TEI study that Forrester performed for Keepit enumerates the prospective savings and value our technology and people have created for partners and customers,” said Chief Executive Officer Frederik Schouboe.
+“And the benefits go beyond what was analyzed in the study. While Forrester did not include a ransomware attack as a quantifiable cost in its conclusions, the TEI did calculate the theoretical cost of a ransomware attack to be $3.5 million in earnings before interest, taxes, depreciation, and amortization. Combined with the rest of the results, highlighting that potential cost supports the study’s conclusion that Keepit’s standalone data protection and recovery tool is an investment that pays off from a financial, operations, and security and recovery perspective.”
+Additional unquantified benefits that customers experienced included:
+- Improved regulatory and industry compliance
+- Increased organizational flexibility and agility
+- Avoided additional costs of on-premises backup, including regular maintenance and upkeep of the servers and software
+- Reduced impact of SaaS outage
+- Transparent and predictable pricing; Keepit charges based on an all-inclusive per-user, per-month fee.
+To learn more about the economic and operations benefits that customers and partners may expect to experience when using the Keepit Platform, download the full Forrester TEI study here.

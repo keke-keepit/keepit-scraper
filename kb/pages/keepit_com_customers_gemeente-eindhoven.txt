@@ -1,0 +1,43 @@
+Source URL: https://www.keepit.com/customers/gemeente-eindhoven/
+Content type: Web page
+Last modified: 2026-05-19T15:08:40+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Public sector data protection done right: Gemeente Eindhoven chooses Keepit
+As one of the Netherlands’ most technology-forward municipalities, Gemeente Eindhoven operates at the heart of the Brainport region. Surrounded by global innovators, the city blends public service with a strong culture of technology and progress. Approximately 3,800 employees support the municipality’s operations, serving a rapidly growing and innovation-driven community.
+For Mourad el Ouazghari, IT project manager at Gemeente Eindhoven, selecting a SaaS backup and recovery provider wasn’t about checking a box. It was about protecting the municipality’s Microsoft 365 and Entra ID data with full control, transparency, and long-term confidence.
+A structured evaluation built on sovereignty and compliance
+The municipality evaluated three vendors. From the beginning, data sovereignty and compliance were nonnegotiable. Gemeente Eindhoven worked closely with its technology partner Storage Architects, specialists in digital data storage and protection, to assess potential solutions against detailed technical and governance requirements.
+“The place where the data is stored was really important to us,” Mourad explains. “Germany was close, within Europe, and that mattered.”
+Keepit's data centers are in seven regions across the globe, including Switzerland, Denmark, and Australia.
+As a government organization, Gemeente Eindhoven must meet strict regulatory and data sovereignty requirements. Mourad and his team created a detailed requirements document covering independent, cloud-native architecture, immutable storage, ransomware resilience, fast and granular restore capabilities, and transparency around third-party sub-processors.
+Data sovereignty and compliance were nonnegotiable for us — and Keepit delivered on both.
+Mourad el Ouazghari 
+IT project manager, Gemeente Eindhoven 
+Keepit’s independent architecture and European data residency aligned closely with those requirements. Transparent pricing and unlimited storage further strengthened the case.
+User-friendly design that drove the final decision
+While architecture and compliance were critical, usability became the deciding factor. Multiple stakeholders attended the demo, including team members without prior backup experience. The feedback was immediate.
+For Mourad, ease of use meant faster adoption and fewer internal barriers across the organization.
+The biggest reason we chose Keepit was how user-friendly it is. Even colleagues with no backup experience immediately understood it.
+Mourad el Ouazghari 
+IT project manager, Gemeente Eindhoven 
+Long-term retention
+Long-term retention was equally important. The municipality must store certain documents indefinitely, and Keepit’s unlimited retention model met that need without added complexity.
+Real-world value when it mattered most
+Backup can feel invisible — until it’s urgently needed. That’s especially true when protecting Microsoft 365 and Entra ID, where a single mistake can impact users, access, and critical information across the organization.
+Shortly after deployment, a user permanently deleted 10,000 files from her mailbox, including critical work documents and irreplaceable personal data.
+When a colleague accidentally deleted 10,000 files — including critical work documents and irreplaceable personal data — we were able to restore everything quickly. Everyone immediately saw the value of having Keepit in place.
+Mourad el Ouazghari 
+IT project manager, Gemeente Eindhoven 
+Just an hour later, Mourad was meeting with senior leaders who were asking whether the investment was delivering value. “That was my example,” he says. “We already see a good, positive effect from having it.”
+Since implementation, the team has resolved several significant data loss cases. In those situations, native Microsoft retention would not have been sufficient. And when it comes to Entra ID, the team understands that protecting identity configurations and security policies is just as critical as restoring individual files.
+Eliminating third-party sub-processor risk
+For Mourad, evaluating third-party sub-processors and support access was as important as comparing features. During the selection process, the team examined where vendor support teams were located and who might have access to customer data.
+Rather than relying on external sub-processors, Gemeente Eindhoven prioritized a solution built on independent architecture and full governance control.
+As a public sector organization, we have a responsibility to protect our data with full control and transparency. Keepit gives us the confidence that our information stays within Europe and under our governance.
+Mourad el Ouazghari 
+IT project manager, Gemeente Eindhoven 
+For Gemeente Eindhoven, the combination of European data residency, independent architecture, user-friendly design, flexible data control, and responsive service made the decision clear.
+With Keepit in place, the municipality has strengthened its resilience, improved recovery capabilities, and ensured its data remains protected — today and in the future.

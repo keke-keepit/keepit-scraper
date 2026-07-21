@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/esg-tech-validation/
+Content type: Web page
+Last modified: 2025-10-24T13:33:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Report
+Independent technical validation of Keepit’s data protection platform
+Keepit — Simplifying comprehensive backup and security for data of SaaS applications
+In this independent technical validation, ESG evaluates Keepit's SaaS data protection platform and confirms that it delivers secure, streamlined, and cost-effective backup and recovery across business-critical SaaS applications like Microsoft 365, Salesforce, and Google Workspace.
+The report highlights how Keepit's cloud-native architecture, vendor-independent storage model, and proprietary technology stack combine to provide clean, fast, and verifiable recoveries — even in the face of ransomware or accidental data loss.
+Key takeaways
+- True cloud-native backup for SaaS: Keepit offers a consistent, intuitive backup and recovery workflow across all major SaaS platforms, without relying on public cloud infrastructure or third-party tools.
+- Immutable and verifiable data: ESG validated Keepit’s use of Merkle tree cryptography to ensure the integrity of every data block — enabling clean restores and audit-proof recovery.
+- Secure by design: Backup data is stored in dedicated Keepit-owned infrastructure, physically isolated from the SaaS provider’s cloud to prevent cross-domain risks and downtime.
+- No tiering, always hot: All data is immediately accessible for restore, preview, or download — no rehydration needed, no archive tiers, and no delays.
+- Flat, predictable pricing: Keepit’s licensing model is based on seats — not storage volume or data transfer — ensuring simplicity and eliminating unexpected fees.
+- Enterprise-ready scalability: Keepit supports granular restore options, global data sovereignty, automated reporting, and role-based access controls to meet the needs of complex IT environments.

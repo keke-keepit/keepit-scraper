@@ -1,0 +1,80 @@
+Source URL: https://www.keepit.com/help/platform-category/using-the-data-protection-dashboard/
+Content type: Web page
+Last modified: 2026-06-23T22:07:31+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Using the Data Protection dashboard
+Use the Data Protection Dashboard for a comprehensive overview of the status of your connectors, backups, and recovery jobs.
+Easily filter insights by selecting specific workloads and connectors of interest.
+The dashboard updates in real time, so you can view the most recent changes without needing to refresh the page.
+Overview
+The dashboard includes the following sections:
+- Connector Health Statuses
+- Backup Status
+- Backup Coverage Report
+- Backup Coverage
+- Backup Integrity (coming soon)
+- Recovery Insights
+Connector health statuses 
+This card provides an overview of the health status of your connectors.
+When viewing all connectors, you'll see a breakdown of how many are in each health state.
+For connectors in a critical state, you can select the specific connector from the dropdown to view the issue causing the critical status and find recommended actions to resolve it.
+Critical connectors are marked with a red icon in the dropdown for easy identification and immediate attention.
+Learn more about connector health here.
+Backup status
+These cards allow you to track your snapshots, providing details such as the time of the most recent snapshot, the number of snapshots created in the last 48 hours, and your total backup size.
+Last snapshot available for restore made
+This card shows when the last snapshot available for restore was created. Hover over the number to see the timestamp of the snapshot.
+When viewing all connectors, hover over the card and then the info icon to see which connector the snapshot belongs to.
+Successful backups made in the last 48 hours
+To see the breakdown of automatic versus manual backups, hover over the card.
+Total backup size
+When viewing all connectors, this reflects the total size of data backed up across all connectors for the selected workload.
+For individual connectors, the displayed size represents the current backup size. Hovering over the card reveals how the data size has changed between the previous and current snapshots.
+Backup coverage report (Microsoft 365 connectors)
+This card enables you to easily generate and download backup coverage reports. These reports provide a detailed overview of backed-up users, SharePoint sites, and Groups & Teams within your Microsoft 365 connector.
+Please note that only master admins and backup admins can generate and download backup coverage reports.
+Backup coverage 
+This card offers an overview of what was backed up during a selected month. It displays the total number of units selected for backup and the number of units successfully covered.
+Note: In Microsoft 365 connectors, discrepancies in the numbers may occur if users selected for backup do not have assigned licenses, as their data cannot be accessed.
+Examples of units for various workloads:
+- Microsoft 365
+ Top-level folders, such as Exchange mailboxes and SharePoint sites
+- Entra ID
+ Top-level folders, such as users and groups
+- Salesforce
+ Items in object, metadata, attachments, and files folders
+- Google Workspace
+ Top-level folders, such as users and shared drives
+- Dynamics 365
+ Top-level folders, such as environments, accounts, contacts
+- Power BI
+ Top-level folders, such as workspaces and dataflows
+- Azure DevOps
+ Top-level folders, such as organizations and projects
+- Zendesk
+ Top-level folders, such as team members and tickets
+Backup integrity
+This feature tracks items – any content type in the backup, such as folders, files, or objects – that are consistently skipped during backups.
+By analyzing multiple recent snapshots (approximately the last 5 backups), we can identify potentially vulnerable items that may require attention.
+You’ll also have the option to download a list of these skipped items for further analysis. For details, go to: Generate a backup integrity report
+Recovery insights 
+This card shows recovery jobs from the selected time period.
+Recovery job types displayed: restore (includes import jobs), item restore, ZIP download, and PST download.
+You can also find a status breakdown and the success rate percentage.
+Percentage of API requests used (Salesforce Connectors)
+This card shows the percentage of Salesforce API requests used as well as used and remaining requests.
+Stages of initial connector setup
+A newly created connector can have different statuses before its first backup is complete and the insights becomes available.
+In these cases, we display the connector's status to help you track its progress:
+Pending configuration
+The backup has not started because we are waiting for the connector configuration to be saved.
+Initial backup scheduled
+The configuration has been saved and the first backup is been scheduled. 
+Initial backup in progress
+The backup is running and you will be able to track its over progress. 
+Indexing data
+The initial backup is complete, and the first snapshot has been created, but we are still indexing the data. As soon as we finish, your data will be ready for browsing and recovery.
+Note: Data will begin appearing as soon as the first snapshot is completed, whether it is full or partial.

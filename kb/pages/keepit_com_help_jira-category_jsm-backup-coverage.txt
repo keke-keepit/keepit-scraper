@@ -1,0 +1,125 @@
+Source URL: https://www.keepit.com/help/jira-category/jsm-backup-coverage/
+Content type: Web page
+Last modified: 2026-06-30T16:32:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Jira Service Management backup coverage
+The table below shows the detailed backup and restore coverage for Keepit for Jira Service Management.
+The table below shows the detailed backup and restore coverage for Keepit for Jira Service Management.
+| Element | Backup supported | Restore supported | Comment | 
+| Jira Service Management | |||
+| Projects | â | â | â¯ | 
+| Customers | â | â | 
+ | 
+| Organizations | â | â | â¯ | 
+| Assets | â | â | â¯ | 
+| Projects | |||
+| Components | â | â | â¯ | 
+| Form Templates | â | â | â¯ | 
+| Organizations | â | â | â¯ | 
+| Avatar | â | â | â¯ | 
+| Properties | â | â | â¯ | 
+| Issues | â | â | â¯ | 
+| Work Types | â | â | â¯ | 
+| Roles | â | â | â¯ | 
+| Queues | â | â | API limitationâ¯ | 
+| Requests | â | â | 
+ | 
+| Request Types | â | â | â¯ | 
+| Version | â | â | 
+ | 
+| Issues | |||
+| Issue | â | â | 
+ | 
+| Issue Attachments | â | â | 
+ | 
+| Issue Comments | â | â | 
+ | 
+| Issue Remote Links | â | â | 
+ | 
+| Issue Votes | â | â | API limitation | 
+| Issue Watchers | â | â | 
+ | 
+| Issue Worklogs | â | â | 
+ | 
+| Child Issues | â | â | 
+ | 
+| Linked Issues | â | â | 
+ | 
+| â¯Requestsâ¯ | |||
+| Request | â | â | 
+ | 
+| Request Attachments | â | â | 
+ | 
+| Request Comments | â | â | 
+ | 
+| Request Remote Links | â | â | 
+ | 
+| Request Votes | Yes | â | API limitation | 
+| Request Watchers | â | â | 
+ | 
+| Request Participants | â | â | 
+ | 
+| Request Worklogs | â | â | 
+ | 
+| Child Requests | â | â | 
+ | 
+| Linked Requests | â | â | 
+ | 
+| SLAs | â | â | API limitation | 
+| â¯Assets | |||
+| Global Statuses | â | â | 
+ | 
+| Global Icons | â | â | API limitation | 
+| Object Schema | â | â | 
+ | 
+| Object Types | â | â | 
+ | 
+| Object Attributes | â | â | 
+ | 
+| Objects | â | â | 
+ | 
+| Schema Statuses | â | â | 
+ | 
+| General | |||
+| Compass components | â | â | API limitation | 
+| Filters | â | â | 
+ | 
+| Groups | â | â | 
+ | 
+| Users | â | â | API limitation | 
+| Work Items Settings | |||
+| Field Configurations | â | â | 
+ | 
+| Fields | â | â | 
+ | 
+| Notification Schemes | â | â | 
+ | 
+| Permission Schemes | â | â | 
+ | 
+| Priority Schemes | â | â | 
+ | 
+| Resolutions | â | â | 
+ | 
+| Screen Schemes | â | â | 
+ | 
+| Screens | â | â | 
+ | 
+| Statuses | â | â | 
+ | 
+| Work Item Security Schemes | â | â | 
+ | 
+| Work Type Screen Scheme | â | â | 
+ | 
+| Work Types | â | â | 
+ | 
+| Work Types Schemes | â | â | 
+ | 
+| Workflow Schemes | â | â | 
+ | 
+| Workflow Scheme Drafts | â | â | API limitation | 
+| Workflows | â | â | 
+ | 
+For a list of restore limitations, please download this document.

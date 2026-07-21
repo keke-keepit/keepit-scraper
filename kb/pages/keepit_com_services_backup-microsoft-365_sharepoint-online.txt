@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/services/backup-microsoft-365/sharepoint-online/
+Content type: Web page
+Last modified: 2025-02-23T21:38:07+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+3 out of 5 information security and SharePoint admin professionals say that their organization doesn’t do a good job in managing how users interact with confidential and sensitive data stored in SharePoint.
+- An ESG report shows that 43% of SaaS data loss is due to human error. What if you lose SharePoint online data as a result of accidental or malicious deletion by employees?
+- Microsoft expects you to back up your SharePoint data. The responsibility is yours when it comes to SaaS data protection (which includes SharePoint online.)
+- Have you considered compliance? Businesses that manage SharePoint online data must comply with worldwide regulations like GDPR, NIS2, SOX, HIPAA, and PCI DSS.

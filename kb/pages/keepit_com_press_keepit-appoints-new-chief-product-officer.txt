@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/press/keepit-appoints-new-chief-product-officer/
+Content type: Web page
+Last modified: 2025-08-20T00:20:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit appoints new Chief Product Officer to lead strategic development of SaaS data protection solutions
+Michael Amsinck will be instrumental in turning Keepit’s vision into actionable plans, as the company continues to expand its global presence and lead innovation in the data protection space.
+Copenhagen, Denmark – October 1, 2024 – Keepit, the world’s only vendor-independent cloud-native data protection platform, is pleased to announce the appointment of Michael Amsinck as its new CPO (Chief Product Officer). Michael Amsinck joins Keepit from Cision, where he held the position of Chief Product and Technology Officer. With a strong background in product development and leadership, Michael Amsinck brings a wealth of experience and insight to the Keepit team.
+In the new role, Michael Amsinck will be instrumental in shaping and executing Keepit’s short and long-term product roadmap. As CPO, Michael Amsinck will play a crucial part in translating Keepit’s strategic vision into actionable plans, ensuring the company continues to deliver innovative solutions that meet the evolving needs of its customers.
+“We are thrilled to welcome Michael Amsinck to our leadership team,” said Morten Felsvang. CEO of Keepit. “With Michael’s extensive experience in product development and his proven track record of driving product strategy, we are confident that he will be a key driver in taking Keepit’s product offerings to the next level. This is a pivotal time for Keepit as we continue to expand our global presence and strengthen our position as the leading provider of SaaS data protection. Michael Amsinck’s expertise will be invaluable as we navigate the opportunities and challenges ahead.”
+Michael Amsinck brings years of experience from previous leadership roles at Cision, Brandwatch, and Falcon.io, where he was responsible for overseeing large teams and ensuring alignment across sales, marketing, product, and engineering teams. His process-driven approach and focus on strategic communication will be critical in ensuring that Keepit’s product development efforts are fully aligned with the company’s overall business objectives.
+Intelligent, future-proof data protection
+“The opportunity is incredibly exciting: Keepit has already proven its ability to execute, and now it’s about building on that foundation and taking things to the next level,” said Michael Amsinck, highlighting the importance of the data protection market.
+The new CPO noted that backup and recovery are evergreen challenges that will continue to grow in significance:
+“Businesses are starting to realize that data protection is something they need to take seriously, and the market for these solutions is huge. In the months and years ahead, a key priority will be expanding our comprehensive ecosystem of workloads to meet the evolving SaaS data protection needs of the enterprise segment. We'll also prioritize strengthening disaster recovery strategies and developing opinionated frameworks to guide and educate our customers, ensuring they have intelligent, forward-thinking data protection," envisioned Michael Amsinck.
+Alignment and expansion
+With a background in leading large teams and a focus on strategic alignment, Michael Amsinck is well-equipped to help Keepit maintain its momentum and deliver on its promises. “We need to be clear about what we need to deliver in the upcoming months, and where we’re heading in the years to come,” Michael Amsinck said. “It’s about continuous development, and about not overextending, but performing. I’m confident in my ability to help Keepit align its efforts across sales, marketing, product, and engineering to ensure we’re all working towards the same goals.”
+As Keepit continues to expand its global footprint and drive innovation in the data protection space, Michael Amsinck’s leadership will be key to ensuring that the company remains at the forefront of the industry.
+About Michael Amsinck
+With a strong background in product development and leadership, Michael Amsinck brings a wealth of experience and insight and years of experience from leadership roles at Cision, Brandwatch, and Falcon.io, with responsibility for overseeing large teams and ensuring alignment across sales, marketing, product, and engineering. A process-driven approach and focus on strategic communication are critical in ensuring that product development efforts are fully aligned with the company’s overall business objectives.
+Find Michael Amsinck on LinkedIn
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguardsâ¯essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over ten thousand companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+ 
+For more information visitâ¯www.keepit.comâ¯or follow Keepit onâ¯Linkedin.

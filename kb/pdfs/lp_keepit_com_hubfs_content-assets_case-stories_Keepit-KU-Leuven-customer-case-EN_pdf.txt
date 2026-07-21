@@ -1,0 +1,116 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-KU-Leuven-customer-case-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+Customer case
+KU Leuven ensures 
+data sovereignty and 
+resilience with Keepit
+
+A solution built for compliance and control  
+KU Leuven operates under some of the strictest 
+European data protection standards. Handling 
+sensitive academic, administrative, and research 
+information means the university must maintain 
+full control over where its data resides and how it 
+is recovered. Keepit’s GDPR-compliant data 
+storage in dedicated European data centers met 
+this requirement while ensuring complete inde-
+pendence from Microsoft’s cloud infrastructure.
+Vendor independence was a decisive factor. 
+By keeping backups separate from Microsoft’s 
+ecosystem, KU Leuven gained an additional 
+safeguard against dependency and improved 
+control over data retention and recovery.  
+Keepit’s platform is built to ensure complete data 
+integrity and regulatory alignment. It provides 
+an independent, immutable backup environ-
+ment with flexible access controls and retention 
+policies that fit complex compliance frame-
+works. With secure architecture and audit-ready 
+transparency, Keepit helps organizations like KU 
+Leuven maintain full visibility and control over their 
+cloud data — meeting GDPR and other regulatory 
+requirements with confidence.
+Customer case:
+KU Leuven
+When one of Europe’s oldest and most respected universities set out to modernize its IT 
+infrastructure, data protection was at the top of the agenda. KU Leuven, home to more than 
+65,000 students and 12,000 staff, needed to ensure its move to Microsoft 365 would not 
+compromise the university’s strict data-sovereignty and GDPR requirements.  
+KU Leuven recognized early that Microsoft’s native backup tools were not sufficient for an 
+institution of KU Leuven’s scale and compliance demands and therefore launched a public tender 
+for a Microsoft 365 backup solution. The European IT solutions provider Cegeka reacted to that 
+tender, provided Keepit as the right backup and recovery solution, and guided the university 
+through its implementation.
+“With Keepit, we’ve gained full confidence 
+that our academic and administrative data 
+is protected — and that anyone on our 
+service desk can perform a restore quickly 
+and easily.”
+-  Jan De Baere, 
+IT manager, KU Leuven ICTS Management Team
+
+About KU Leuven
+Founded in 1425, KU Leuven is one of Europe’s leading 
+research universities and Belgium’s largest higher 
+education institution. The university fosters innovation 
+and collaboration across a broad range of disciplines, 
+combining centuries of academic tradition 
+with cutting-edge research and technology. KU 
+Leuven serves more than 65,000 students and 12,000 
+staff across its campuses in Leuven and beyond.
+About Cegeka
+Cegeka is a global technology provider 
+headquartered in Hasselt, Belgium, serving more than 
+2,500 customers worldwide and has a workforce 
+of more than 9,000 employees across Europe, the 
+Americas, and Asia. Its comprehensive portfolio 
+includes application services, business solutions, 
+quality engineering, data and AI, digital workplaces, 
+cyber resilience, networking and regulatory, and 
+hybrid cloud.
+Proven reliability and a future-proof solution    
+Today, Keepit safeguards more than 1 petabyte 
+of KU Leuven’s OneDrive data in its European 
+data centers, with coverage extending across the 
+university’s vast Microsoft 365 environment. The 
+platform’s fast, automated backups and user-
+friendly restore capabilities give the university 
+confidence that its data is secure and easily 
+recoverable.
+Cegeka’s partnership with Keepit provided 
+the local support and technical assurance KU 
+Leuven needed during the implementation. 
+According to Jan De Baere, IT manager, KU 
+Leuven ICTS Management Team, the combination 
+of Cegeka’s expertise and Keepit’s reliable 
+technology created a future-proof solution 
+that supports the university’s long-term digital 
+transformation goals.
+Customer case:
+KU Leuven
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+“With Keepit, we have greater peace 
+of mind and we’ve reduced our operational 
+burden across the university’s digital 
+ecosystem.”
+ 
+-  Jan De Baere, 
+IT manager, KU Leuven ICTS Management Team
+“A great advantage of Keepit is that the 
+backup takes place outside the Microsoft 
+cloud, in European data centers. For 
+our compliance requirements, that 
+was absolutely essential.”
+ 
+-  Jan De Baere, 
+IT manager, KU Leuven ICTS Management Team

@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/vendor-evaluation/
+Content type: Web page
+Last modified: 2026-01-06T19:28:08+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Request for information (RFI) template
+Vendor evaluation for SaaS backup and recovery
+Vendor evaluation can get tedious
+Selecting the right SaaS backup and recovery vendor isn’t always straightforward — and comparing vendors side by side can quickly get messy. That’s why we’ve built a structured RFI (request for information) template that guides your evaluation process and helps you move from conversation to clear decision.
+This template includes a full list of questions, so you’ll be able to collect responses, compare capabilities objectively, and see who’s truly ready to support your resilience goals. Whether you’re evaluating one vendor or several, this template makes it easy to score each response and highlight strengths, gaps, and risks — so conversations turn into confident choices.
+Download the RFI template to:
+- Assign scores and compare vendors side by side
+- Align internal teams around clear evaluation criteria
+- Use a format that’s ready for procurement conversations
+- Choose a partner you can trust to support your resilience

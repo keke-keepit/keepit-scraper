@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/press/top-infosec-2025/
+Content type: Web page
+Last modified: 2025-10-28T14:06:54+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit platform recognized for data protection and cyber resilience at 2025 Top InfoSec Innovator Awards
+Keepit wins at Cyber Defense Magazine’s 13th annual InfoSec awards during CyberDefenseCon 2025
+Copenhagen, Denmark—October 28, 2025 – Keepit, a global provider of a comprehensive cloud backup and recovery platform, today announced it has won in four categories at the Top InfoSec Innovator 2025 awards. Keepit was named the winner in the following categories: “Hot Company Data Protection”, “Hot Company Data Security”, “Hot Company Cyber Resilience” and “Hot Company Data Recovery”.
+“Keepit embodies three major features we judges look for with the potential to become winners: understanding tomorrow’s threats, today, providing a cost-effective solution and innovating in unexpected ways that can help mitigate cyber risk and get one step ahead of the next breach,” said Gary S. Miliefsky, Publisher of Cyber Defense Magazine.
+Comprehensive backup for all your SaaS applications
+The Keepit platform currently protects twelve key SaaS applications, including Microsoft 365, Microsoft Entra ID, Okta, Google Workspace and more. Built for the cloud, the breakthrough platform is designed for usability, security, and scalability.
+Through unrivaled SaaS security, the Keepit platform helps companies mitigate risk of data loss due to human error or cyberattack. With its cost-effective solution, Keepit future-proofs disaster recovery plans and supports compliance efforts. With data centers in seven regions, Keepit enables customers to control where their data resides, ensuring data sovereignty.
+“These awards showcase that we are truly at the forefront of data protection and risk management. Securing your most critical asset, data, is no longer a choice in today’s threat landscape. We are proud to be a partner in our customers’ cyber resilience journey,” says Michele Hayes, CMO at Keepit.
+The full list of the Top InfoSec Innovators for 2025 is found here: https://cyberdefenseawards.com/top-infosec-innovators-for-2025/
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery.
+Headquartered in Copenhagen with offices and data centers worldwide, more than 18,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.
+About Cyber Defense Awards
+This is Cyber Defense Magazine’s 13th year of honoring cybersecurity innovators, in this case the Top Global CISOs for 2025, on our Cyber Defense Awards platform. In this competition, judges for these and other prestigious awards includes cybersecurity industry veterans, trailblazers and market makers Ron Gula of Gula Tech Adventures, Gary Miliefsky of CDMG, Dr. Lindsey Polley de Lopez of VentureScope, Katie Gray of In-Q-Tel, Robert R. Ackerman Jr. of DataTribe, Dino Boukouris of AltitudeCyber and with much appreciation to emeritus judges Robert Herjavec of Cyderes, Dr. Peter Stephenson of CDMG and David DeWalt of NightDragon. Top InfoSec Innovators for 2025 is found here: https://cyberdefenseawards.com/top-infosec-innovators-for-2025/ and download The Black Unicorn Report for 2025: https://cyberdefenseawards.com/the-black-unicorn-report-for-2025/ and Top Global CISOs Winners for 2025, here: https://cyberdefenseawards.com/top-global-cisos-winners-for-2025/.
+About Cyber Defense Magazine
+Cyber Defense Magazine was founded in 2012 by Gary S. Miliefsky, globally recognized cyber security thought leader, inventor and entrepreneur and continues to be the premier source of IT Security information. We are managed and published by and for ethical, honest, passionate information security professionals. Our mission is to share cutting-edge knowledge, real-world stories and awards on the best ideas, products and services in the information technology industry. We deliver electronic magazines every month online for free, and limited special editions exclusively for the RSA, BlackHat and Cyber Defense Conferences. Learn more about us at http://www.cyberdefensemagazine.com. Cyber Defense Magazine is a proud member of the Cyber Defense Media Group.

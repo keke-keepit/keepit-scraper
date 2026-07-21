@@ -1,0 +1,31 @@
+Source URL: https://www.keepit.com/blog/what-you-should-know-about-byok/
+Content type: Web page
+Last modified: 2025-08-20T00:34:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The truth about BYOK and 3 myths in the security industry
+Working in the security industry we are regularly in conversations about how BYOK (Bring Your Own Key) can help solve security concerns around data confidentiality, compliance, protection from espionage, and much more.
+However, it is most often the case that BYOK does not and cannot solve the problems that people are led or misled to believe it does.
+This post is an attempt to address some of these misunderstandings.
+First, we need to establish the vocabulary; BYOK is short for Bring Your Own Key, which means the customer provides a data encryption key to the service provider, and the service provider then holds and uses this key for some security function in relation to providing service to the customer.
+Already here now that we talk about it, it should be clear that there are a great many problems this scheme does not solve, as the service provider holds a copy of the key.
+Another key acronym in security is MFA, or Multi-Factor Authentication. MFA requires that the customer does not just log in using a username and password, but that at least one more factor is provided, which could be a time-based code the user can read from a device only the user possesses. In a sense, this is unrelated to BYOK, but as we shall see, MFA is often the actual working solution to problems believed to be addressed by BYOK.
+With that out of the way, let’s look at a few common myths of what BYOK brings to the table then go through why this is not actually the case:
+Myth #1: BYOK protects my data in case my account gets compromised.
+That would be lovely, but this is not the case at all. First of all, the data encryption key is online all the time. This is a necessary condition for the service to be available and online because what good would your cloud service be if data wasn't accessible? So, your key is online and now your account gets compromised. An attacker successfully poses as you, so naturally, all data is available to the attacker just as it would be to you, BYOK or not.
+Myth #2: In case of compromise, revoking my key renders data unreadable.
+This is wishful thinking, unfortunately, and for reasons, you may not expect. As is the case on commonly available BYOK platforms (AWS to name one) the key you bring is not even used for the actual data encryption! Since the service provider cannot trust that a customer can competently generate a strong key, the service provider will use their own key for the actual data encryption.
+This key though may then be encrypted with another key, and then finally this package can be encrypted with the actual customer-supplied key. What this means is that the customer has some degree of control over one of the keys used in the encryption of a "key package" which may be used in concert with the encrypted data during a bulk transfer between regions for example. But this is a very niche use. In day-to-day operations, on the most well-established BYOK-enabled platforms in the world today, the customer-supplied key plays NO role in data encryption of the customer data.
+The customer can lose the key, revoke the key, modify the key, get the key stolen, have the key tampered with, or all of the above, leaving the day-to-day operations of the service absolutely and completely unaffected because the customer-supplied key plays no role in day-to-day operations. This is not a "dirty secret" in any way; this is well documented in publicly available descriptions of these systems.
+The only realistic protection against account compromise is MFA. You can only do so much to make it more difficult for an attacker to compromise your account. That’s why you need to realize that when your account is compromised, someone can actually pose as you, and do what you can do. Cryptography cannot help you at this point.
+Myth #3: If the service provider is compromised, I can revoke the key.
+By now we know your key isn't used for actual data encryption. But for argument’s sake, let's play along and pretend it actually is (but it really isn't). This means the service provider is encrypting data using the customer-supplied key to which they hold a copy, otherwise, they couldn't use it.
+Now, what happens if the service provider is compromised? Let's say that either an attacker gains full control of the service provider platform or the government under which the provider operates seizes their systems. Well, the key is being used by the service provider for data encryption and decryption, so obviously the key is available there in one form or another. In other words; what the customer does with their copy of the key has no bearing on the copy that is available and in the hands of the service provider or whomever now controls their platform.
+Realistic protections here are along the lines of choosing the region in which the service is provided carefully and ensuring the service provider implements a mature information security management system.
+As was said famously by renowned cryptographer Bruce Schneier, "If you believe cryptography solves your problem, then either you do not understand your problem or you do not understand cryptography.”
+There is a lot of truth in this statement. It does not mean that cryptography does not play an important role in solving security challenges, but it does underline that simple encryption in isolation does not solve the challenges we are facing.
+BYOK limitations and MFA
+BYOK is no silver bullet. In fact, it is very often not even helpful. Further, if the employment of BYOK delays initiatives to seriously implement MFA or other effective security mechanisms, then BYOK may be outright harmful to the overall security posture of your organization.
+I hope this short write-up helps bring clarity to an area of information security that is too often not discussed in detail or even widely understood.

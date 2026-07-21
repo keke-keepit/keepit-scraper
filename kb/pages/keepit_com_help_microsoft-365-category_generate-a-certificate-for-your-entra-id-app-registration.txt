@@ -1,0 +1,63 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/generate-a-certificate-for-your-entra-id-app-registration/
+Content type: Web page
+Last modified: 2026-06-29T23:24:29+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Generate a certificate for your Entra ID app registration
+Follow the steps below to create a certificate for your Entra ID app registration, which is required for backing up Teams Chats data.
+- For Windows users: Use our PowerShell script to generate a certificate and key. Download the script here. Follow the instructions below to run the script.
+- For Mac users: We recommend using OpenSSL to generate a certificate and key. Detailed instructions are provided below.
+If you are creating your own certificate, ensure the following configuration:
+- Certificate Format: x509
+- Hash Algorithm: SHA-256
+- Encryption Algorithm: RSA 2048
+Note: We currently don't support password protected certificates.
+Windows users
+Before you get started
+Prepare the script
+- Download the latest version of the script here.
+- Save the script locally. For example: C:\Users\YourUserName\Documents\Multiapp).
+ Important: Do not save the script to a cloud-synced folder (e.g., OneDrive or Google Drive), as this may cause issues when running it.
+- Rename the file extension to .ps1 to make it a PowerShell script.
+- Use only the downloaded script file when following the provided steps.
+- Do not copy and paste the script’s text directly into PowerShell.
+- Do not use PowerShell’s import function to load the script.
+Run PowerShell properly
+- Open PowerShell as an Administrator.
+- Use the standard PowerShell console — do not use PowerShell ISE.
+ 
+Generate a certificate with PowerShell
+Follow these steps to generate a certificate with PowerShell:
+1. Right-click the PowerShell icon and select Run as Administrator.
+2. Run the following command to allow PowerShell scripts to execute on your PC:
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+Note: If you close PowerShell, you will need to run this command again to enable script execution.
+3. Run the following command (ensure it matches the location where your script is saved):
+cd C:\Users\(Your user name)\Documents\Multiapp
+4. Run the command:
+./generate-self-signed-cert.ps1
+5. In the PubKeyFileName field, enter a name (e.g., Public) and press Enter.
+6. In the PrivKeyFileName field, enter a name (e.g., Private) and press Enter.
+7. Enter a name for the certificate file, followed by the appropriate extension. It can be .cer, .crt, or .pem.
+8. Enter the following information when prompted:
+Country Name (2 letter code) [AU]:
+State or province name (full name) [Some-State]:
+Locality Name (eg, city):
+Organization Name (eg, company) [Internet Widgits Pty Ltd]:
+Organization Unit Name (eg, section) [Engineering]:
+Common Name (e.g. server FQDN or YOUR name) [foo.org]:
+Email address [foo@bar.baz]:
+Note: Ensure the email address entered is linked to your tenant, such as a service account.
+9. Press Enter after providing the information.
+The certificate will be generated and saved in the directory where the script is located.
+Mac users
+If you are using a Mac, follow these steps using OpenSSL to generate a certificate:
+1. Generate a self-signed certificate (x509 with rsa 2048 valid for the 2 years) by running the following command:
+openssl req -x509 -sha256 -days 730 -newkey rsa:2048 -keyout privateKey.key -out certificate.crt
+This will generate two files: privateKey.key and certificate.crt
+2. Upload the certificate.crt in the Certificates & secrets section for the target Application Registration in the Entra ID admin center.
+3. Remove the passphrase from certificate key by running the following command:
+openssl rsa -in privateKey.key -out privateKeyWoPass.key
+4. Use certificate.crt and privateKeyWoPass.key to configure your custom Teams app in Keepit.

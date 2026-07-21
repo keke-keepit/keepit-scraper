@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/help/platform-category/sign-in-session-timeout/
+Content type: Web page
+Last modified: 2026-06-23T23:00:03+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Sign-in session timeout
+For your security, you will be automatically signed out after 15 minutes of inactivity. To keep your session active, interact with the page by moving your mouse, clicking a link, or refreshing it at least once every 15 minutes.
+If your session times out, you'll need to re-enter your password to sign back in. Once signed in, you can continue right where you left off.

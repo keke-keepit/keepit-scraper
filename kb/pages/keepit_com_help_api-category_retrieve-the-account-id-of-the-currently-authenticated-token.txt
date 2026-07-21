@@ -1,0 +1,41 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-the-account-id-of-the-currently-authenticated-token/
+Content type: Web page
+Last modified: 2025-10-16T10:00:03+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve the account ID of theÂ currently authenticated token
+This command retrieves the ID of the token (user) making the API request. This account ID may be required for subsequent API requests.
+API request
+Method GET
+/users/
+Example
+Method GET
+https://dk-co.keepit.com/users/
+Response
+Code: 200 OK
+Response body:
+<user>
+    <id>nq2v51-5mx23m-qb7sah</id>
+</user>PowerShell script
+try {
+    $username = '<Token username>'
+    $password = '<Token password>'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent" = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $response = Invoke-WebRequest -UseBasicParsing `
+      -Uri "https://dk-co.keepit.com/users/" `
+      -Method:Get -Headers $headers -ErrorAction:Stop -TimeoutSec 10
+    $userlist = [xml]$response.Content
+    $id = $userlist.user.id
+    Write-Host $id
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}

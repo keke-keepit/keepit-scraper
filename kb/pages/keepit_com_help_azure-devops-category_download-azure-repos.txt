@@ -1,0 +1,36 @@
+Source URL: https://www.keepit.com/help/azure-devops-category/download-azure-repos/
+Content type: Web page
+Last modified: 2026-03-20T13:19:51+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Download Azure Repos
+Git repositories can be downloaded from our platform and easily pushed to any new or existing Git hosting service.
+Download a repository
+1. In your Azure DevOps connector, navigate to the Git Repos folder.
+2. Point to the repo and select Download options > Download.
+The file will be downloaded as a ZIP archive.
+What’s inside the ZIP file
+The ZIP file contains the following:
+- pack-files
+- refs (branches and tags)
+- HEAD
+Note: It is possible to generate index-files using the appropriate Git command as described below.
+The content fully complies with the internal formats of the Git application itself.
+Generate index files using Git
+You can generate index-files using commands from Git.
+Prerequisites
+- Git is installed
+- Git is available in your system PATH
+Option 1: Use Provided Scripts
+On most Linux or Windows systems, you can run the script included in the package:
+- Linux: index-and-checkout.sh
+- Windows: index-and-checkout.cmd
+Option 2: Run Commands Manually
+If you prefer (or if the scripts are unavailable), you can execute the steps manually:
+1. for f in .git/objects/pack/*.pack; do git index-pack "$f"; done
+2. git checkout   
+Note: The git checkout command operates on the current HEAD branch by default.
+Getting the repository ready for use
+To make the Git repository ready for use, run the git checkout command (or the equivalent action in your Git GUI application). This step populates the repository’s working directory with the appropriate files and folders.

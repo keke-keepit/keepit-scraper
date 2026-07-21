@@ -1,0 +1,61 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-backup-summaries-for-all-connectors/
+Content type: Web page
+Last modified: 2026-04-01T10:27:23+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve backup summaries for all connectors
+This command retrieves the most recent backup summary for each connector in the account.
+API request
+Method GET
+/users/{account_id}/monitoring/backup/summary
+Example
+Method GET
+https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/monitoring/backup/summary
+Response
+Code: 200 OK
+Response body:
+<backup-summary>
+    <device>
+        <guid>11ptlk-st7sly-ggba4c</guid>
+        <last-snapshot-time>2025-06-11T08:07:46Z</last-snapshot-time>
+        <last-snapshot-size>234568814</last-snapshot-size>
+        <size-change>0</size-change>
+    </device>
+    <device>
+        <guid>nh5l4z-vc1oqn-j6guqb</guid>
+        <last-snapshot-time>2025-05-12T12:17:53Z</last-snapshot-time>
+        <last-snapshot-size>1615492394</last-snapshot-size>
+        <size-change>38713</size-change>
+    </device>
+…PowerShell script
+try {
+    $username = '<API Token username>'
+    $password = '<API Token password>'
+    $hostname = 'dk-co.keepit.com'
+    $userId = '<Account GUID>'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $url = "https://${hostname}/users/${userId}/monitoring/backup/summary"
+    $response = Invoke-WebRequest -UseBasicParsing -Uri $url -Method GET -Headers $headers -TimeoutSec 10 -ErrorAction Stop
+    $xmlContent = [xml]$response.Content
+    foreach ($summary in $xmlContent.'backup-summary') {
+        foreach ($node in $summary.ChildNodes) {
+            Write-Host "$($node.Name):"
+            foreach ($subnode in $node.ChildNodes) {
+                Write-Host "  $($subnode.Name): $($subnode.InnerText)"
+            }
+        }
+        Write-Host
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}Script result
+device: guid: 11ptlk-st7sly-ggba4c last-snapshot-time: 2025-06-11T08:07:46Z last-snapshot-size: 234568814 size-change: 0 device: guid: nh5l4z-vc1oqn-j6guqb last-snapshot-time: 2025-05-12T12:17:53Z last-snapshot-size: 1615492394 size-change: 38713

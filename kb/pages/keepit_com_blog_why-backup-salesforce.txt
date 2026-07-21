@@ -1,0 +1,60 @@
+Source URL: https://www.keepit.com/blog/why-backup-salesforce/
+Content type: Web page
+Last modified: 2026-02-03T09:21:20+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why backup and recovery for Salesforce
+Do you need backup and recovery for Salesforce data?
+Salesforce is the undisputed market leader when it comes to customer relationship management (CRM) platforms, with a 23.9% market share, as per IDC (figure below).
+More than 150,000 companies across the globe trust Salesforce for managing their data ecosystems – doing everything from gathering and converting leads to opportunities, managing information to understand and engage customers, extracting insights from the data, to sharing information across the organization.
+It’s clear that Salesforce is very much at the heart of your value chain, but how safe is the most important asset of your organization, your data? Let’s explore this question.
+How effective is native Salesforce backup and recovery service?
+According to industry analysts (and even a Salesforce best-practices blog), using the native backup and recovery capabilities can have the following drawbacks:
+- It takes 6 to 8 weeks for data backup recovery time objective (RTO)
+- Salesforce Data Recovery Service is very expensive, costing $10,000 per restore per organization
+- Backup does not cover vital Salesforce metadata. You’ll miss out on custom fields, page layouts, reports, dashboards, and custom code backup.
+- Salesforce ended its Data Recovery Service in July 2020, citing quality issues, but it was revived in March 2021 after customers demanded a native backup service.
+- Salesforce suggests using third-party backups as part of the data backup strategy.
+7 reasons why you need third-party backup
+In addition to the drawbacks above, there are many reasons why Salesforce data should be backed up with a third-party backup and recovery solution. Let us explore some of the main reasons:
+1. Salesforce recommends it
+ 
+“There are a number of data backup solutions offered by our partners on our AppExchange. Some of these are more comprehensive in that they allow you to automate backups of both your data AND your metadata and provide a mechanism by which to restore that data easily. You can search for these by visiting the AppExchange directly and searching for keyword backup. We recommend that customers vet multiple offerings and audit the reviews provided by other customers before selecting one of these offerings.” 
+2. Accidental deletion
+Consider this statement directly from Salesforce best practices to back up data: 
+“Even with the best of intentions, users and administrators have been in situations where they have either deleted large amounts of data, or have modified records, only to later realize that a mistake was made. With tools like the Data Loader, it is very easy to mass delete or update records. And a simple mistake in your source file or field mapping could spell disaster for your data. It is recommended that you keep a regular backup of your data and to do a manual point-in-time backup before you proceed with any major data project within your organization.”
+Accidental deletion remains the top cause of Salesforce data loss, leading to nearly 70% of the data loss incidents. 
+3. Cybersecurity attacks
+Being at the heart of the value chain and hosting huge volumes of sensitive customer data, Salesforce is a prime target for cybersecurity attacks. 
+Unfortunately, in 2019, a cloud-based e-commerce platform and children’s clothing company, Hanna Andersson, had its data exposed due to a malware that infiltrated Salesforce. The breach compromised a considerable chunk of customer data, including credit card information and personal identifiers. The hackers gathered data from about 10,000 consumers nationwide and sold it to criminals on the dark web.
+Bearing the sophistication of cyberattacks in mind, it is important to consider what the impact of a security breach is on your organization, and what your data protection plan is to mitigate these attacks.
+A third-party cloud backup is a key component of data protection best practices. With reliable backups and quick recovery in case of a disaster, you will not only have peace of mind that you can recover data (and metadata) when you need it, but also that you maintain data compliance.  
+4. Unpredictable (and high) costs
+Professional service costs are high, as high as $10,000 per restore, per organization. A third-party backup provider can offer superior services for a predictable, all-inclusive price per user, per month. 
+5. Limited data backup retention period
+Is your customer data part of your long-term strategy? Salesforce backup is limited to a maximum retention period of 90 days. In contrast, a third-party backup provider can provide the flexibility to retain data, from one year and up to 99 years.  
+6. The infrequency of backups and lacking automation
+Salesforce Data Export Service allows you to back up every seven days (or 29 days, depending on the Salesforce edition). Additionally, datasets greater than 512 MB are exported into multiple zip files.
+When compared to this, a third-party backup provider offers you complete, automated daily backups with data and metadata in a time- and user-friendly fashion. Further, they provide tracking and monitoring of the latest backup and your backup history. 
+7. Lackluster user experience and poor recovery options
+When you need to recover objects, dealing manually with multiple 512 MB zip files is resource intensive. A third-party backup can provide you with these additional features:
+- Drill down to specific objects
+- A search option to instantly search and recover deleted or modified data
+- Granular restore
+- Compare and restore metadata
+- Restore permanently deleted records
+- Navigate snapshots of previous data versions and recover
+Ultimately, as an IT Leader, it comes down to data protection and data availability. Can your business afford to lose mission-critical data for 6 to 8 weeks? Can your budget handle unpredictable costs up to $10,000? Can you perform time consuming, manual reconfigurations due to loss of metadata with Salesforce backup?
+Instead of worrying about when data loss will happen, by using a third-party backup provider, you can recover data and metadata in minutes – at a predictable price point – regardless of what happens.
+Keepit Backup and Recovery for Salesforce
+Keepit for Salesforce saves you time, is cost effective, scalable, provides ease-of-use through a simple user interface, and gives you peace of mind that your data is securely backed up, recoverable, and available whenever you need it. With Keepit, we ensure this through:
+- Automated daily backups every 12 hours
+- Easy user interface which is clutter-free, intuitive, and increases productivity
+- Set and forget operation – set up in a few clicks and the backup will be running in the background
+- Unlimited storage and archiving at no extra charge
+- Technology scalable to millions of users with long backup retention from 12 months to unlimited
+- Point-in-time restores
+- Blockchain-verified technology for protecting your data
+- World-class security with dual data centers and 4 copies of data in private data centers

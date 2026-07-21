@@ -1,0 +1,68 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/create-an-app-registration-in-entra-id/
+Content type: Web page
+Last modified: 2026-06-29T23:19:46+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create an app registration in Entra ID
+Multi-app functionality enables Keepit to leverage multiple app registrations within your Entra tenant, optimizing backup processes for Teams Chats.
+As part of the multi-app setup process, an Administrator with Application Administrator or Global Administrator permissions within your organization must create an App Registration through the Microsoft Entra admin center.
+Once created, the admin needs to connect the app registration to Keepit. After this, the Teams Chats backup will be scheduled accordingly.
+I. Create an app registration in Entra ID
+1. Go to the Entra Portal.
+2. Navigate to App Registrations under Applications in the left-hand menu.
+3. In the toolbar, click New registration.
+4. Enter a display name, such as "Keepit Teams Chat Backup."
+5. Select one of the supported account types:
+- Accounts in this organizational directory only (Single tenant)
+- Accounts in any organizational directory (Multitenant)
+6. Click Register.
+7. Copy the Application (client) ID for later use.
+II. Add platform and URIs to app registration
+1. In the app registrations' left-hand menu, go to Authentication.
+2. Click Add a platform and select Web.
+3. Enter the following URL using your environment's hostname (refer to the list below): https://<hostname>/desktop/connector/restore/auth (for example,â¯https://dk-co.keepit.com/desktop/connector/restore/auth).
+Note: Additional redirect URIs will be added to the app registration's web platform after the app registration is created.
+4. Select Access tokens (used for implicit flows).
+5. Click Configure.
+6. Click Add URIs and, one at a time, enter the following URLs using your environment's hostname (refer to the list below):
+https://<hostname>/desktop/connector/restore/auth
+https://<hostname>/desktop/connector/create
+https://<hostname>/desktop/connector/reauth
+These will be added to your app registration as Redirect URIs.
+Important: If you are an OEM partner and use custom URLs to access the Keepit platform, contact support to get your redirect URIs.
+7. Click Save.
+Environment hostnames
+Denmark (Copenhagen): dk-co.keepit.com or ws.keepit.com
+Ensure the URL you use matches the one you signed in with on the Keepit platform 
+United States (Washington, DC): us-dc.keepit.com
+Australia (Sydney): au-sy.keepit.com
+United Kingdom (London): uk-ld.keepit.com
+Germany (Frankfurt): de-fr.keepit.com
+Canada (Toronto): ca-tr.keepit.com
+Switzerland (Zurich): ch-zh.keepit.com
+III. Upload certificate
+For instructions on how to generate a certificate and key, see here.
+If you create your own certificate, follow this configuration:
+- Certificate format: x509
+- Hash Algorithm: sha256
+- Encryption Algorithm: rsa2048
+1. In the app registrations' left-hand menu, go to Certificates & secrets.
+2. Select the Certificates tab and click Upload certificate.
+3. Upload your certificate and click Add. 
+The certificate can have the following formats: CRT, CER, PEM 
+Tip: Set a renewal reminder for your certificate to avoid service interruptions. For more details, refer to the official Microsoft documentation.
+IV. Add Permissions to the app registration
+1. In the app registrations' left-hand menu, go to API Permissions
+2. Click Add a permission. and select Microsoft Graph.
+3. Select Application permissions and add the following permissions:
+- ChannelMessage.Read.All
+- Chat.Read.All
+- Directory.Read.All
+- TeamsTab.Read.All
+- User.Read.All
+4. Select Delegated permissions and add the following permission:
+- User.Read
+5. Click Add permissions to save.
+6. Click Grant admin consent and click Yes to confirm.

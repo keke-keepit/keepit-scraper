@@ -1,0 +1,20 @@
+Source URL: https://www.keepit.com/idc-marketscape/
+Content type: Web page
+Last modified: 2026-04-17T01:15:30+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Analyst report
+Keepit named a Leader in SaaS data protection
+Keepit has been named a Leader in the IDC MarketScape: Worldwide SaaS Data Protection 2025–2026 Vendorâ¯Assessment.â¯We believe this affirmsâ¯our focused approach to protecting SaaS data with independence, resilience, and control.
+As organizations accelerate SaaS adoption, native protection tools and generalist backup platforms often fall short. This IDCâ¯MarketScape examines vendors in the market and highlights how purpose-built SaaS data protection platforms address growing challenges around cyber resilience, compliance, and recovery. The featured excerpt explains why Keepit was recognized and where our capabilities align with today’s — and tomorrow’s — buyer needs.
+Key takeaways from the report
+- Purpose-built for SaaS 
+ The IDC MarketScape states thatâ¯Keepit is a pure-play SaaS data protection provider focused exclusively on backup and recovery for modern cloud applications.
+- Independence and data sovereignty 
+ Data sovereignty is one of Keepit's core value propositions. All customer backup data is stored in independent, Keepit-owned datacenters located in multiple global regions, ensuring retention, residency, and compliance.
+- Blockchain-like immutability  
+ All Keepit backups are stored in proprietary object storage using blockchain-like (Merkle tree) immutability. Once written, data cannot be overwritten, deleted, or modified until outside the customer's retention policy.
+- Predictable economics 
+ The private cloud infrastructure also allows Keepit to offer unlimited data retention, predictable seat-based pricing, and no volume-based or egress fees.

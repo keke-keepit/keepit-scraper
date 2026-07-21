@@ -1,0 +1,34 @@
+Source URL: https://www.keepit.com/press/world-backup-day/
+Content type: Web page
+Last modified: 2025-08-15T00:32:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit, Global Leader in Cloud Backup and Recovery, Marks World Backup Day
+Company Urges Businesses to Focus on Protecting Microsoft Azure Active Directory
+COPENHAGEN, DENMARK – March 27, 2023 – With World Backup Day approaching on March 31, Keepit, the market leader in cloud backup and recovery, is encouraging businesses to prioritize backing up Microsoft’s Azure Active Directory (AD) and is offering free demonstrations of its full data protection solution for Microsoft Azure AD.
+Keepit is the world’s only independent, vendor-neutral cloud dedicated to software-as-a-service (SaaS) data protection with a blockchain-verified solution, and its leading protection for Azure AD helps businesses back up and recover criticalâ¯identity and application objects that are not protected by Microsoft.
+“Azure AD is the brain to the Microsoft 365 body. It’s the control plane that allows access, gives orders, and makes sure 365 runs well via policies and configurations,” said Paul Robichaux, senior director of Product Management. “Loss of access to Azure AD can result from a variety of mishaps: bad actors hacking your Azure AD and locking you out, or an authorized user deleting a policy or admin accounts. If users can’t use their identities because their identities can’t get authorized in Azure AD, they are not able to access their Microsoft 365 applications.â¯If users can’t access anything, they can’t work, which grinds operations to a halt while the issue is addressed. Backing up Azure AD ensures that businesses still have access to everything in the event of a calamity. With our leading protection for Azure AD, Keepit helps companies close any Azure AD gaps in their security strategy, as well as recover business-critical identity and application objects that Microsoft doesn’t protect.”
+As a prime target for hackers, Azure AD sees 50 million password attacks per day, which amounted to attacks on almost 10% of the 550 million Azure AD users in 2022. According to Microsoft, Azure AD accounts are also 50 times more likely to be compromised than consumer Microsoft accounts.
+With the introduction of cloud computing, the edge of a network no longer exists, and the latest hacker techniques rely on compromising identity first. Consequently, information technology (IT) security has increasingly focused on protecting identities rather than the network itself.â¯â¯
+When Azure AD is compromised, ramifications include:
+- The cost of data loss - loss of business continuity, reputation, and resources on recovery.
+- The scope of data loss - only 14% of businesses that pay ransom to recoup data from hackers actually get the data back.
+- Downtime - on average, initial restoration (often incomplete) of Azure AD can take two to three days; full restoration can take months.
+Real life cases of the damage incurred after Azure AD has been compromised, either intentionally or unintentionally, are plentiful. In 2018, a Carlsbad company suffered losses of more than $500,000, endured three full days of downtime, and invested six months in rebuilding after a disgruntled former employee deleted more than 1200 of the company’s Microsoft 365 user accounts.
+Before engaging Keepit, one customer lost $2.5 million in a single day because an Azure AD tenant was encrypted. And in 2020, the personal chat histories of 145,000 Microsoft Teams users at KPMG were inadvertently and permanently deleted due to an IT blunder.
+To defend against these types of incidents, Keepit offers a holistic backup and recovery plan for the entire Microsoft 365 environment, including Azure AD. Keepit’s Azure AD protection helps organizations:
+- Meet recovery service level agreements.
+- Back up important cloud objects not covered by the Azure AD Recycle Bin.
+- Extend the retention and the ability to recover Azure AD objects.
+- The ability to selectively roll back changes.
+- Preserve important records for compliance purposes.â¯
+- Recover lost data in disaster scenarios.â¯
+- Increase IT efficiency.
+With its unmatched ease-of-use, fast restore features that minimize downtime, and cost-effectiveness, Keepit continues to be the solution that organizations rely on to protect their cloud-based data. To participate in a free demonstration and trial of Keepit’s Backup and Recovery for Azure AD, visit www.keepit.com.
+About Keepit
+Keepit is a software-as-a-service company that protects cloud data for organizations, ensuring business continuity and access to information. Keepit is the world’s only independent backup and recovery solution and keeps data tamper-proof and resilient to cyberattacks and human error. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by companies worldwide and across all industries to protect and manage their SaaS data.
+For more information visit www.keepit.com or follow Keepit | LinkedIn
+Media Contact:
+Kari Ritacco for Keepit

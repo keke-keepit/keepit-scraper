@@ -1,0 +1,63 @@
+Source URL: https://www.keepit.com/blog/why-backups-are-key-ransomware-targets/
+Content type: Web page
+Last modified: 2025-08-20T00:12:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why backups are key ransomware targets
+And 10 best practices for being ransomware resilient
+“Ransomware is the new normal.” We’ve all heard it, and we’re going to keep hearing it. Why’s that exactly? Cyberthreats such as ransomware are a constant concern, and now more than ever, safeguarding your data (and business) against ransomware attacks is a necessity as the frequency of ransomware attacks continues to increase and new regulatory standards for cybersecurity are introduced.
+The frequency of attempted ransomware attacks
+respondents experienced over the past 12 monthsâ:
+IT managers, CISOs, and CIOs are acutely aware of the pivotal role data protection plays in their organizations and are searching for a ransomware solution, but it’s not “just” the data at risk, it’s the entire business impact. And ransomware is increasingly targeting backup data.
+So, what’s the level of concern across those tasked with cyber resilience?
+According to the Enterprise Strategy Group (ESG) report, “2023 Ransomware Preparedness: Lighting the Way to Readiness and Mitigation,” of the 600 IT and cybersecurity professionals surveyed, only 4% were not concerned at all about ransomware attacks affecting their data protection copies. So, that’s a whopping 96% that have at least some level of concern for their backup data — with nearly one in three voicing serious concerns.
+Let’s look into the current ransomware landscape to understand why backups are being targeted by ransomware and the measures (both proactive and reactive) that companies should have in place to not fall victim to the ransomware threat. This will lead us into data protection best practices that ensure cyber readiness.
+6 Reasons why backup is targeted by ransomware
+- Data recovery: Ransomware attackers understand that organizations rely on their backups to recover from data loss incidents. By encrypting or deleting backup data, cybercriminals significantly reduce the victim's ability to restore their systems and data without paying the ransom.
+- Business continuity: When backup data is compromised, an organization's ability to continue its operations is severely hampered. Ransomware aims to disrupt business continuity and inflict financial damage. Targeting backups achieves this goal effectively.
+- Data value: Backups often contain a comprehensive historical record of an organization's data, which can be extremely valuable. This includes sensitive customer information, intellectual property, and financial records. Ransomware attackers can threaten to expose or sell this data to further pressure victims into paying the ransom, or leverage compliance-critical data that organizations need to avoid serious liabilities, substantial fines, and reputational damage.
+- Access and control: Once ransomware infects a system, it often seeks to propagate to other devices on the network. By compromising backups, the attacker gains a strategic foothold in the organization's infrastructure, making it easier to continue the attack, demand ransom, and potentially cause more damage. This is very much a valid concern for businesses utilizing Entra ID. Learn more about the control plane and why data cloud protection is a must for Entra ID (Azure AD).
+- Lack of separation: In many cases, cloud backups are stored on the same network or in the same cloud environment as the primary data. This is true with Microsoft backups and others using public cloud. If ransomware infiltrates one part of the network, it can easily spread to backups that lack adequate separation, rendering them vulnerable. 
+ 
+ Put simply, one attack could reach all your production data and backup data. This brings to mind the adage of not putting all your eggs in one basket and is why true backup requires having backup data on a logically separate infrastructure.
+- Minimal security measures: Historically, cloud backups have not received the same level of security scrutiny as production data. Many organizations focus their security efforts on their active systems and underestimate the need to secure backups adequately. If your backups aren’t stored safely and independently, how can you restore your data from them in the event of an attack? With new cybersecurity regulations being introduced, organizations need to put their attention on how to secure their backups in a way that is compliant with regulations.
+The protection gap
+The protection gap in data security refers to the potential vulnerability that exists between an organization's primary data and its ability to recover or restore that data in case of data loss or a cyberattack.
+This gap stems from the fact that while organizations invest in various security measures to protect their active data, they may overlook comprehensive backup and recovery strategies. This oversight can leave critical data exposed and susceptible to loss, damage, or theft.
+We can see from the respondents’ answers in the report that backup infrastructure security is one of the most critical to protect, as well as one of the areas with the biggest gaps in ransomware preparedness.
+Top four preventative security controls, as well as the top four gaps in ransomware preparedness:
+What are the common vulnerabilities in data protection?
+- Inadequate access controls: Weak or improperly configured access controls can allow unauthorized users or malware to infiltrate backup systems, compromising the integrity of the data stored there.
+- Lack of air gapping: In cases where backup systems share a network with primary systems, ransomware can easily move between them. The absence of air gapping (network segmentation) increases the risk of cross-contamination.
+- Insufficient authentication: If backups lack robust authentication mechanisms, malicious actors can gain unauthorized access to backup data, manipulate it, or delete it without hindrance.
+- No data immutability: Without data immutability, backup data is vulnerable to tampering by ransomware. Attackers can alter or delete backup files, rendering them useless for recovery.
+- Single points of failure: Relying on a single backup solution or location can result in a single point of failure. If this point is compromised by ransomware, an organization may lose both primary and backup data.
+Understanding the vulnerabilities and the tactics used by ransomware to attack backup systems is essential for developing a comprehensive defense strategy to protect valuable data assets and maintain business continuity.
+Safeguarding your data: Data protection best practices
+Organizations employ various strategies and technologies to protect their cloud-based backups and ensure data integrity, and there are well-established best practices proven effective at keeping data safe and companies compliant with all regulatory bodies, such as NIS2 and GDPR. These methods are essential for safeguarding cloud data against various threats, including ransomware.
+Here's 10 best practices that organizations typically follow to ensure their cloud-based backups are protected and that their businesses meet regulatory and compliance standards:
+- Access control: Access to cloud backup systems is tightly controlled. Only authorized personnel are granted permission to modify or delete backup data stored in the cloud. Access control mechanisms may include role-based access control (RBAC) and multi-factor authentication (MFA) to enhance security. It’s also important to limit the number of subprocessors to as few as possible: Some backup solutions even have zero subprocessors.
+ 
+ 
+- Encryption: Backup data stored in the cloud is encrypted both in transit and at rest. This ensures that even if an attacker gains access to the data, it remains unintelligible without the right decryption keys.
+ 
+ 
+- Data immutability: Immutability features are implemented to prevent the unauthorized modification or deletion of backup data. This safeguards the integrity of the cloud backups, making them resilient to ransomware attacks.
+ 
+ 
+- Regular cloud backups: Organizations perform regular backups of their cloud data to ensure that information is backed up frequently. This minimizes the amount of data that could be lost in an attack or data corruption.
+- Offline and air-gapped backups: Some organizations maintain offline or air-gapped cloud backups. These backups are physically disconnected from the network, making them immune to online attacks, including ransomware. Air-gapped cloud backups are especially effective in preventing data loss due to cyber threats.
+- Versioning/snapshot: Cloud-based backup systems often support versioning, allowing organizations to recover previous versions of files stored in the cloud. This feature is crucial for restoring data to a known-good state when ransomware has altered files.
+- Geographic redundancy/sovereignty: Large organizations may store cloud backups in multiple geographic locations within the cloud infrastructure to mitigate the risk of data loss due to regional incidents or localized cyberattacks. It’s vital that your data protection provider offers regional data centers and that they guarantee no data transmission outside of your selected region.
+- Regular testing: Cloud-based backup systems are regularly tested to ensure that they are functioning as expected. This involves not only verifying the backup process but also performing restoration tests to confirm that cloud data can be successfully recovered.
+- Monitoring and alerts: Continuous monitoring of cloud backup systems and alerts for suspicious activities are set up. Any unusual access or data modification triggers alerts that can be addressed promptly.
+- “Offsite storage” in the cloud: Backups are often stored offsite in cloud services. This protects cloud data in the event of on-premises disasters, such as fires or floods. But in cloud storage, having backup data outside of the production environment is key: Read more about this in the 3-2-1 backup rule blog.
+By implementing these protective measures, organizations can maintain the security and availability of their cloud-based backup data, reducing the risk of data loss due to ransomware and other potential threats and thereby strengthening cyber resilience.
+As organizations have become aware of the vulnerabilities in their data protection processes for backup and recovery, many are taking extra precautions to safeguard their backup copies, which are crucial for recovery in case of a crisis.
+Let’s look at the percentage of organizations taking additional measures to protect their backup copiesâ:
+As awareness grows of the vulnerabilities and data protection best practices, it’s unfortunately only 40% of organizations that are making extra efforts to protect all their backup copies. This gap in data protection is highlighted in the finding that after a ransomware attack, not all data can be recovered.
+The amount of data organizations were able to recover after a ransomware attack:
+The numbers show that there is still a lot to be done to prepare for the ransomware threat. To continue learning about what to do to improve your cyber resiliency and avoid being ransomed, watch our expert-led webinar on demand, originally airing live November 28. Together with industry experts from Enterprise Strategy Group, we will be sharing even more insights and discussing best practices and data protection strategies that effectively combat the threat of ransomware.
+This post is part one of a five-part series on the role backups play in the protection against ransomware, so check back soon to catch the next installment, which will cover the importance of air gapping in data protection.

@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/resilience-consult/
+Content type: Web page
+Last modified: 2026-06-01T20:53:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Is your SaaS backup strategy truly resilient?
+Let’s find out — in just 15 minutes.
+Request a short, personalized consultation with a Keepit team member. We’ll assess how prepared your current SaaS backup approach is for recovery, compliance, and ransomware threats — and offer next-step recommendations tailored to your environment.
+Reserve your 15-minute consultation:
+Why Keepit?
+Read the case study
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Read the case study
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+Read the case study
+âOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.

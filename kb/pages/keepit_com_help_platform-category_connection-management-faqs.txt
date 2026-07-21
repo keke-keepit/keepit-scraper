@@ -1,0 +1,43 @@
+Source URL: https://www.keepit.com/help/platform-category/connection-management-faqs/
+Content type: Web page
+Last modified: 2026-06-23T20:38:13+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Connection management FAQs
+Setup & availability
+Q: Will the connector creation process change?
+A: No. The first time a connector is created for a specific type of connection (Microsoft 365, Entra ID, etc.) a default connection will be created automatically. If the connection management experience is enabled in your account, subsequent connector creations will default to the default connection, but it will be possible to create a new connection (for example to a new tenant).
+Q: Can I keep the default single app and adopt multiple apps later?
+A: Yes. You can start with a system app and move to customer-owned apps as needed.
+Permissions & least-privilege
+Q: Can I truly run backups with read-only permissions?
+A: Some data types may require elevated permissions to be able to read administrator level detail for backup. For example, we are unable to read SharePoint site permissions without full control permissions to the SharePoint APIs. Keepit requests only what’s required.
+Q: How do I see if an app is over-permissioned or missing scopes?
+A: The applications page shows status signals: Critical (expired/missing permissions), Attention (excess scopes/version mismatch).
+System vs. customer-owned apps
+Q: When should I use a customer-owned app?
+A: Use customer-owned apps for single-tenant isolation, custom cert policies, or segmentation. Not all data areas support custom apps.
+Q: Can I mix system and customer-owned apps?
+A: Yes. You can have a system app for SharePoint for example, but a custom app for Teams Chats backups.
+Certificates, tokens & reauth
+Q: If an app needs to be reauthorized, do I need to reauthenticate every connector?
+A: No. Reauthentication is done at the application level. All linked connectors benefit.
+Backup continuity & safety
+Q: If I remove an app that’s in use, will backups break?
+A: Keepit alerts to destructive changes and will block the removal if the change could be catastrophic and irreversible.
+Q: Could I accidentally reduce my snapshot size?
+A: Affected jobs are skipped/failed with warnings. Snapshot integrity is preserved.
+Scale, throttling & multi-geo
+Q: Does this help with throttling?
+A: No. Throttling budgets will always be imposed by third party API providers. Read this article for more information about how Microsoft throttles users, applications, and tenants.
+Roles & access
+Q: Who can create or edit connections and apps?
+A: Master Admin and Backup Admin roles can manage connections and apps.
+Auditing & compliance
+Q: What’s recorded in the audit log?
+A: App creation/modification, consent details, capability changes, and status changes.
+Legacy behavior & migration
+Q: Will I lose existing connectors or need to reset everything?
+A: No. Existing connectors will not be affected and the device creation flow will be the same unless the new experience is enabled in your account.

@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/press/azure-devops-protection-launch/
+Content type: Web page
+Last modified: 2025-08-15T00:33:00+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Leading SaaS Data Protection Provider Keepit Launches Backup and Recovery for Microsoft Azure DevOps
+New Service Offers Unrivaled Protection for Azure DevOps Users
+COPENHAGEN, DENMARK – June 29, 2023 – Keepit, the market leader in cloud data protection and management, today announced the launch of its new backup and recovery service for Microsoft Azure DevOps. Keepit is the world’s only independent, vendor-neutral cloud dedicated to software-as-a-service (SaaS) data protection with a blockchain-verified solution, and the Azure DevOps service adds to the company’s already industry-leading coverage for Microsoft’s cloud services.
+“Azure DevOps has limited disaster recovery coverage. If a company loses its Azure DevOps data, it loses access to development operations, which means it loses the ability to track, document and deliver what software it’s building. Those losses can have a severe impact on the development team’s productivity and ability to deliver to its customers,” said Paul Robichaux, Keepit’s senior director of Product and a Microsoft Most Valuable Professional (MVP).
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) and is characterized by key principles of shared ownership, rapid and continuous deployment, workflow automation, and rapid feedback. It is a way of thinking, collaborating and driving effectiveness and efficiency in software development, with a goal of delivering software more quickly while maintaining high quality.
+Azure DevOps (ADO) is Microsoft’s solution for implementing DevOps and supports a culture and set of processes that bring together developers, project managers, and individual contributors. Tools available as part of the Azure DevOps suite include Azure Boards, a standalone service that helps teams plan, track and discuss work across the entire software development process, and Azure Pipelines, which provides build and release services to support continuous integration and delivery of applications. With its simple, fast and flexible Azure DevOps backup and recovery service, Keepit safeguards these workloads against large-scale disasters and provides its customers with the following:
+- The most comprehensive protection and quickest recovery for Azure DevOps Boards and Pipelines data and metadataâ 
+ -Protection for Azure boards, including work items, boards, backlogs, team sprints, queries, and delivery plans
+ -Restoration with full metadata, including comments, custom fields, and attachments
+ -Rapid restoration of critical continuous integration and continuous development/deployment (CI/CD) automations and Pipelines to a known-good stateâ
+- Immutable storage of data in Keepit’s ISO 2700-certified private cloud, providingâ long-term archive or escrow copy of sensitive ADO data
+- Granular protection that delivers speedy recovery, including for accidental deletions or changes, to minimize disruption to mission-critical activities.
+- Compliance with various data protection regulations.
+Robichaux added, “Keepit’s fine-grained, incremental coverage protects against both ‘Oops’ scenarios and large-scale incidents. Our Azure DevOps backup and recovery service will enable businesses to protect their software development operations as an add-on to the coverage we offer for Microsoft’s cloud services. We are excited to include this in our already robust stable of offerings for our clients.”
+With its unmatched ease of use, fast restore features that minimize downtime, and cost-effectiveness, Keepit continues to be the solution that organizations rely on to protect their cloud-based data. For more information on Keepit’s backup and recovery for Azure DevOps, visit keepit.com.
+About Keepit
+Keepit is a software-as-a-service company that provides dedicated data protection for companies with data stored in the cloud. Keepit is the world’s only vendor-neutral and independent cloud dedicated to SaaS data protection.
+Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. For more information, visit www.keepit.com or follow Keepit | LinkedIn.
+Media Contact:
+RedIron PR for Keepit
+Kari Ritacco
+kari@redironpr.com

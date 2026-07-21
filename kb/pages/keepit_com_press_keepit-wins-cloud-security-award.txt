@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/press/keepit-wins-cloud-security-award/
+Content type: Web page
+Last modified: 2025-08-14T23:56:01+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit crowned a winner in 2024 Cloud Security Awardsâ¯â¯
+Copenhagen, Denmark – May 7 – Keepit, a global leader in SaaS data protection, announced today its success in the 2024 Cloud Security Awards program by being named a winner in the “Best Security Solution for Data Management / Data Protection” category.â¯â¯Keepit was also a finalist in the “Best in Information Security” category.
+â¯
+Now in its second year and with an expanded range of categories, The Cloud Security Awards program celebrates the pivotal innovations in cloud-based security solutions, worldwide.
+“Keepit has successfully navigated all three rounds of judging during a rigorous selection process, impressing the judges with their innovation and commitment to keeping data and other assets safe, secure, and private. We look on with interest to see what Keepit has in store for its customers throughout the rest of 2024, and beyond. Many congratulations to them, and our other winners”, said CEO of The Cloud Awards, James Williams.
+â¯
+“Keepit supports customers around the globe by future proofing their security strategies. This accolade underscores our commitment to innovation, security, and reliability and further positions the company as a leader in the cybersecurity industry”, says Michele Hayes, CMO at Keepit.
+Built for the cloud, the Keepit platform is designed for usability, security, and scalability. With a user-friendly interface, robust data security, and the ability to adapt to your cloud environment, Keepit ensures your data is always accessible and protected.
+Keepit Backup and Recovery for Entra ID (formerly Azure AD) has won several awards, including: "Risk management solution provider of the year" from 2023 CyberSecurity Breakthrough Awards; "2023 Product of the Year" from Redmond Magazine; “Data Loss Prevention” and “Disaster Recovery/Business Continuity” categories from Security Today’s CyberSecured Awards, and the "Azure Cloud Security" category from the 2024 Globee® Awards for Cybersecurity. 
+The Keepit platform was named "Best Cybersecurity Backup Service" by Business Awards UK, 2024 Cybersecurity and Resilience Awards. 
+About the Cloud Awardsâ¯â¯â¯â¯â¯â¯
+The Cloud Awards is an international program which has been recognizing and honoring industry leaders, innovators and organizational transformation in cloud computing since 2011. The Cloud Awards comprises five awards programs, each uniquely celebrating success across cloud computing, software-as-a-service (SaaS), cloud security, artificial intelligence (AI), and financial technologies (FinTech).
+Winners are selected by a judging panel of international industry experts. For more information about the Cloud Awards, please visit https://www.cloud-awards.com/.â¯ â¯â¯â¯â¯â¯
+About Keepit
+Keepit provides next-level SaaS data protection for companies with data stored in the cloud. Keepit's vendor-independent cloud dedicated to SaaS data protection is based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Entra ID, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. For more information visit www.keepit.com or follow Keepit on LinkedIn.

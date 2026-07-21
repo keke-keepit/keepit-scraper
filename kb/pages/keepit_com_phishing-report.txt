@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/phishing-report/
+Content type: Web page
+Last modified: 2024-10-25T17:40:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+ð You have clicked on a simulated phishing test
+Tip 1
+Did something feel suspicious? Have you checked the sender's address? Have you spotted any differences?
+<microsoftadmin@keeepit.com>
+Tip 2
+Red flag missed. It seems like you missed something. The sender's domain looked similar to ours, but it is different. 
+Always check the sender's email address for small, but critical differences that can lead you to a malicious destination and cause major problems for Keepit. 
+Tip 3
+When in doubt, throw it out! If you have doubts, report any suspicious email and our team will help you.
+Reach us by email: Phishing@keepit.com
+â ï¸ Stay alert for more simulations in the future. These lessons also apply to your personal cyber protection routine outside of work.
+If you want to lean more, please read our brochure "Phishing: What to do?"

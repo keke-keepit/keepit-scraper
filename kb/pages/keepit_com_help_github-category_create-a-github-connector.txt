@@ -1,0 +1,32 @@
+Source URL: https://www.keepit.com/help/github-category/create-a-github-connector/
+Content type: Web page
+Last modified: 2026-06-22T13:15:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create a GitHub connector
+Install the Keepit application
+Before creating a GitHub connector within the Keepit platform, the Keepit Backup application must be installed on the target GitHub organization. This establishes the necessary permissions for data access.
+1. Open the Keepit GitHub App installation page: https://github.com/apps/keepit-backup-for-github
+2. Click Install in the top right of the profile page.
+3. Select an installation target.
+You will see a list of all organizations where you have administrative rights.
+Important: You must select the specific organization that contains the data you intend to back up. If you select the wrong organization (or your personal account), Keepit will not be able to locate or back up your business repositories.
+4. Review the requested permissions (Repository access, Metadata, etc.) and click Install & Authorize to complete the setup.
+Add a GitHub connector
+Follow these steps to create a GitHub connector and set up your backup configuration.
+1. On the Connectors page, selectâ¯Add connectorâ¯>â¯Add GitHub Ñonnector.â¯
+2. In theâ¯Organization URLâ¯field, enter your GitHub organization's URL for which you installed the app.
+This is the web address found in your browser when viewing your organization's main page (e.g., https://github.com/YourOrganizationName). Both the full URL (https://github.com/YourOrganizationName) and the shortened format (github.com/YourOrganizationName) are acceptable.
+3. Click Connect so that Keepit can establish a connection to your GitHub organization.
+4. In the GitHub sign-in page, enter the credentials of an organization's admin.
+5. Configure your connector as needed.
+Here you can:
+- Change the name of the connector
+- Manage user access to the connectorâ¯by selecting theâ¯lockâ¯icon
+- Limit the retention periodâ¯by selecting theâ¯calendarâ¯icon
+6. Selectâ¯Create. 
+Your connector will be created, and the first backup will be scheduled.â¯
+Note on granting permissions: 
+The Reauthenticate button is disabled for GitHub. If the Keepit GitHub App requires new permissions, the approval must be completed directly in GitHub. GitHub will automatically notify all organization administrators by email. Administrators need to follow the link in that message to approve the new permissions in their Organization Settings on GitHub.

@@ -1,0 +1,57 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/sharepoint-restore-behavior/
+Content type: Web page
+Last modified: 2026-06-30T01:26:42+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+SharePoint restore behavior
+SharePoint data can be restored using various methods. You can restore one or many SharePoint sites from the connector level, or you can restore any parts of your SharePoint data from an item restore:
+- To restore all or several SharePoint sites at a time, use the connector level.
+- To restore a SharePoint site as a new site with a new URL, Restore a SharePoint site.
+- To restore one item of your SharePoint site, use the Item Restore.
+Keep in mind that what happens to the data when you restore in case of duplicates will depend on the method you choose.
+Restoring SharePoint sites from the connector level
+When restoring SharePoint sites from the connector level, sites are automatically restored in-place to their original locations, and you can choose how we handle duplicate items.
+In all cases, list items that are present in SharePoint but not in the snapshot you are restoring from will be deleted. All other SharePoint data will not be deleted.
+If you select Skip duplicate items, items that already exist in SharePoint will be skipped. All items not found in SharePoint will be added.
+If you select Overwrite existing items, items that already exist in SharePoint will be overwritten with the items from the snapshot. All items not found in SharePoint will be added.
+Restoring SharePoint sites using an Item Restore
+When you restore a SharePoint site or subsite, you can restore as a new site with a new URL or you can restore in place by overwriting the original site.
+As a New Site
+Restoring as a new site creates a new site with a new URL in parallel with the existing source site. The site will work like the original site - all users and permissions will also be restored.
+In Place
+Restoring in place brings the site back to its original location by overwriting the original site.
+This means items will be added to your SharePoint, and what happens to existing items will depend on the type of data:
+- If files (including site pages) in your Document Library or Views of Lists and Document Libraries with the same name already exist in SharePoint, they will be overwritten with the data in the snapshot.
+- If items in your Lists with the same ID (regardless if the names are the same or different) already exist in SharePoint, they will be overwritten with the data in the snapshot.
+- If a subsite ID in SharePoint differs from the subsite ID in the snapshot (for example, if the subsite was previously lost and created), the subsite will be skipped.
+- If the quick launch menu of a site in SharePoint differs from the one in the snapshot, it will be overwritten by the menu in the snapshot.
+In this case, SharePoint items present in Microsoft but not in the snapshot you are restoring from will not be deleted.
+Restoring SharePoint data using the Item Restore
+Restoring a single SharePoint file or folder from browsing the connector always returns the data in place to its original location.
+When restoring this way, SharePoint items present in Microsoft but not in the snapshot you are restoring from will not be deleted.
+This means items will be added to your SharePoint, and what happens to existing items will depend on the type of data:
+- If files (including site pages) in your Document Library or Views of Lists and Document Libraries with the same name already exist in SharePoint, they will be overwritten with the data in the snapshot.
+- If items in your Lists with the same ID (regardless if the names are the same or different) already exist in SharePoint, they will be overwritten with the data in the snapshot.
+- If a subsite ID in SharePoint differs from the subsite ID in the snapshot (for example, if the subsite was previously lost and created), the subsite will be skipped.
+- If the quick launch menu of a site in SharePoint differs from the one in the snapshot, it will be overwritten by the menu in the snapshot.
+Additional Information
+Files with sensitivity labels
+If a file with a sensitivity label still exists in SharePoint, the restore of the file's content will fail because of a lack of permissions. Only the metadata will be overwritten and the restore job will be marked as unsuccessful.
+If a file with a sensitivity label has been deleted from the tenant, the file will be restored successfully. If the file has more than one version, only the most recent file will be restored.
+Restoring with missing parent content or configurations
+In certain cases, you may not be able to restore data if parent content or configurations (such as views, permissions, etc.) are missing from SharePoint. See: Can I restore any part of my SharePoint data?
+Restoring with a custom configuration
+If you have a custom SharePoint configuration, for example, you have excluded library files, list items, or metadata from your backup, this may affect the restore behavior. For details, see: Restoring SharePoint data with an advanced backup configuration
+Restoring standard notebooks
+If you restore a standard notebook connected to the quick launch menu, the link to the notebook in the menu may not work due to a Microsoft 365 issue. In this case, refresh the SharePoint site by clicking Home and then the notebook will open properly from the menu.
+Restoring list columns with values
+List items store the data that populates values in list columns. However, if you restore items with the same modification timestamps as those in SharePoint, the columns will restore without values, even if the data has changed. This happens because items can only be restored if their modification timestamps are different.
+Here are several ways to ensure the values are repopulated when restoring:
+If you're backing up versions of your SharePoint data:
+- Restore column with all versions: In this case, we don't look at the modification timestamp. The column will be deleted from SharePoint and restored from the snapshot, ensuring that the values are fully restored.
+- Restore specific version: Use the Version Viewer to restore a particular version of the column. This method also ensures that all values are correctly restored.
+If you're not backing up versions:
+- Delete item from SharePoint, then restore: Delete the specific items or the entire Items folder from SharePoint, then restore the items. Since there will be no items to compare modification times with, the values will be restored.
+- Modify item in SharePoint: Make changes to the item in SharePoint to trigger a modification timestamp update. However, note that not all changes will update the modification time, so be sure to check that it changed before restoring.

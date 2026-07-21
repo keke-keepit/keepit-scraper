@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/create-a-microsoft-365-connector/
+Content type: Web page
+Last modified: 2026-06-29T22:36:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create a Microsoft 365 connector
+Before creating a connector, make sure your service account meets the necessary requirements.
+Add a connector
+1. On the Connectors page, select Add connector > Add Microsoft 365 Ñonnector.
+2. Ensure that your service account is ready for the setup and click Create Connector.
+3. Sign in to Microsoft with your service account.
+4. Read through the permissions and click Accept.
+5. Review the summary and the next steps, and then click Configure.
+6. Review your backup setup.
+By default, all data areas are included in the backup.
+7. To start the backup, click Start backup.
+Note: If you click Complete later, your the first backup will not be scheduled. When you are ready to start the backup, open the configuration and click Start backup.

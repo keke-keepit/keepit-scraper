@@ -1,0 +1,62 @@
+Source URL: https://www.keepit.com/blog/azure-active-directory-renamed-entra-id/
+Content type: Web page
+Last modified: 2025-08-20T02:30:22+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Azure Active Directory renamed Microsoft Entra ID
+What this Azure AD name change means and 6 reasons for backup
+In the ever-evolving landscape of technology, we often witness transformations that impact the apps and services we rely on daily. One such transformation is happening today: Microsoft has just announced that Azure Active Directory (Azure AD) is now named Microsoft Entra ID.
+While the name may be different, there are no changes to the actual product; Entra ID continues to be Microsoft’s identity and access management service that enables your employees access to external resources, such as Microsoft 365, the Azure portal, and thousands of other SaaS applications. The essence and value that Entra ID provides remains unchanged. Regardless of the name, it still needs to be backed up.
+With the introduction of cloud computing, the edge of a network no longer exists, and the latest hacking techniques rely on compromising identity first. As a prime target for hackers, Azure AD — now Entra ID — sees 50 million password attacks per day, which amounted to attacks on almost 10% of the 550 million Entra ID users in 2022. According to Microsoft’s VP of Identity Security, Alex Weinert, Entra ID accounts are also 50 times more likely to be compromised than consumer Microsoft accounts.
+What is Entra ID? And what’s the relationship between Entra ID and Microsoft 365?
+Microsoft 365 uses Entra ID to manage user identities behind the scenes. Simply put, Entra ID is the brain to the Microsoft 365 body. It’s the control plane that allows access, gives orders, and makes sure Microsoft 365 runs well via policies and configurations.
+Loss of access to Entra ID can result from a variety of mishaps, such as bad actors hacking your Entra ID and locking you out or an authorized user deleting a policy or admin accounts. If users can’t access their identities because their identities can’t get authorized in Entra ID, they’re not able to use their Microsoft 365 applications. If users can’t access anything, they can’t work, which grinds operations to a halt while the issue is addressed.
+Do I need to back up Entra ID?
+According to Microsoft, protecting identity systems such as Entra ID is the number one priority for any business — more important than protecting human life — as it ensures you and your users can maintain access to critical applications and systems.
+Whether you’re an admin at a major company or launching a startup, protecting user identities is crucial to ensure business continuity. If anything messes up your Entra ID tenant configurations, you could lose access to important data and apps instantly.
+What are the potential impacts of losing access to Entra ID
+Recently, a company got locked out of all their Microsoft services due to faulty conditional access policies in Entra ID (formerly Azure AD). As a result, the admins were unable to log in to Microsoft and the unavailability of Microsoft portals prevented the company from registering a support ticket to report and resolve the issue. One can only imagine how long it took to resolve and get back to normal operation.
+Here's another example of the importance of Entra ID: A Carlsbad company suffered losses of more than $500,000, endured three full days of downtime, and invested six months in rebuilding after a disgruntled former employee deleted more than 1200 of the company’s Microsoft 365 user accounts.
+In April 2023, Microsoft detected attacks on hybrid AD environments too. In this example, a “nation-state attacker” entered a network, compromised on-prem AD, used that access to pivot to and compromise Azure AD (now Entra ID), and then deleted all of the target’s Azure resources. Currently, the threat primarily originates from nation states, but in the future, it could shift to criminal organizations and eventually to low-end script kiddies.
+That's why it's important to have a backup plan ready just in case things go haywire.
+What can and can’t be recovered in the Entra ID recycle bin?
+Some objects are “soft deleted” and get put into the recycle bin. They include:
+- Microsoft 365 groups
+- App registrations
+- User and guest accounts
+Here's something important to know: When these cloud objects are soft deleted, they stay in the recycle bin for 30 days, but after that, they are 'hard deleted” and vanish forever as they are permanently and irreversibly deleted. No chance of getting them back.
+For all the other objects, they undergo immediate 'hard deletion,' indicating that they bypass the recycle bin and can't be recovered natively. Microsoft shares that “hard-deleted items must be re-created and reconfigured. It is best to avoid unwanted hard deletions.” In other words, to maintain efficiency and business continuity, it’s advisable to steer clear of any unintended hard deletions if you don’t have a backup. Immediately hard-deleted objects include:
+- Distribution groups
+- Enterprise applications / Service principals
+- Intune device policies
+- Conditional access policies
+- BitLocker recovery keys
+- Security groups
+Keep in mind that many Entra ID objects have intricate setups or unique connections with other systems, and unfortunately, the recycle bin doesn't capture all those details. This means if you accidentally delete or alter those objects, there's no way to recover them.
+Oh, and don't forget, the recycle bin is only for deleted objects — it can't bring back an object to its previous state if you've made changes to it. Yikes. That means any change overwrites the object.
+What are the risks of not backing up Entra ID?
+While it's open to debate whether backing up Entra ID is universally applicable to every organization and situation, it’s a wise approach for most enterprises. We’ve collected a couple of compelling reasons why backing up Entra ID can benefit your organization:
+1. Loss of security / configuration policies
+Entra ID allows administrators to define and enforce various configurations, policies, and access controls. Not having a backup means the loss of these settings, which can result in inconsistencies, misconfigurations, and unauthorized access. It takes significant time and effort to recreate and reapply these configurations manually, leaving the environment exposed to potential security risks.
+With a backup of Entra ID, organizations have more control over the restoration process as they can easily recover permanently deleted cloud objects like device configurations, security policies, and access controls in a fast and efficient way.
+2. Limited recovery options
+Entra ID provides native features for data recovery, such as recycle bin and soft delete options. However, these options have limitations, such as time-bound retention and the inability to restore specific attributes or configurations.
+A proper backup of Entra ID ensures more comprehensive recovery options and greater control over the restoration process.
+3. Failure to meet compliance requirements
+Organizations are often subject to various regulatory requirements, such as GDPR or industry-specific regulations. Failure to have a backup of Entra ID can lead to non-compliance with data protection and privacy regulations, resulting in potential legal issues, financial penalties, and reputational damage.
+A backup of Entra ID ensures continuous chain of custody and provenance of security policies. This allows organizations to prove to regulators exactly which policies were in place at any time and document changes and deviations, if any.
+4. Data loss
+Entra ID stores security policies, application settings, and other cloud-only configurations. If this data is lost due to accidental deletion, malicious activity, or system failure, it can lead to severe consequences, including user access issues, operational disruptions, and compliance violations.
+If you have a backup before the incident, you can use it to easily recover your lost data and bring it back into your Entra ID environment right away.
+5. User productivity impact
+Without a backup, recovering security and device policies can be a difficult and time-consuming task. This process may restrict activity or even prevent users from logging in to apps.
+Restoring security policies and configurations manually can result in significant downtime and decreased productivity for users who are unable to access the resources they need.
+6. Microsoft system outages
+If Entra ID experiences a prolonged outage or catastrophic failure, organizations without a backup will have limited options for recovery, leading to extended periods of system unavailability and business disruption.
+No backup can prevent Microsoft from having a system outage: That’s simply a risk all organizations face. However, if you have a backup, you can use it to recover your data once the service outage is resolved.
+Evaluate your need for Entra ID backup
+If you're uncertain about the need to back up Entra ID for your organization, a helpful approach is to consider the potential risks associated with Entra ID data loss. Evaluate your comfort level with the level of risk involved to determine the best course of action.
+We've created an Entra ID risk assessment sheet to help you gauge your exposure and risk tolerance. Use the assessment to determine your Entra ID backup requirements and the need for backup.
+Download and create your own Entra ID security risk assessment here.

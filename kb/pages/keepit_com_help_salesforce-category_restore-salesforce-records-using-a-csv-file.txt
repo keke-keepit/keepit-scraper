@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-records-using-a-csv-file/
+Content type: Web page
+Last modified: 2025-12-03T13:27:23+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Salesforce records using a CSV file
+Follow these steps to restore Salesforce records using a CSV file with a list of records.
+1. On the Connectors page, point to your Salesforce connector and click the Restore icon.
+2. Select where to restore:
+- If restoring to the same location, click Next. The records will be restored to the same environment.
+- If restoring to a different location, click Sign in. You will be redirected to the Salesforce sign-in page, where you must enter your Salesforce System Admin user account credentials for that environment.
+3. Select a snapshot from the desired time, then click Next.
+4. Select Upload CSV of records and click Next.
+5. Upload a CSV file containing a list of record IDs, then click Next.
+Important: Ensure the CSV file adheres to the required specifications. For details, refer to the guide: Prepare CSV file with records to restore
+6. Select whether to restore related records, then click Next.
+If enabled, all related objects will be selected by default. You can deselect any objects you don't want to include. Related objects that are dependent on others cannot be excluded.
+7. Select whether to restore specific fields and anonymize data, then click Next.
+Note: Certain fields, such as ID and Name, must be restored and cannot be excluded.
+8. Review your selections on the summary page, then click Restore.
+Navigate to the Job Monitor to track the progress of the restore and review any errors or failures encountered during the process.
+Important notes
+Inactive users: Records associated with inactive users may fail to restore. For example, Salesforce prevents files with inactive owners from restoring.
+Automations: Before starting the restore, disable any validation rules, deduplication rules, flows, or automations (e.g., APEX Classes and Triggers) that could be triggered during the restore process.
+- After the restore is complete, you can re-enable these automations.
+- Feedback opportunity: Interested in a one-click feature to turn automations on or off? Provide feedback here: Turn Automations on and off for restores
+Metadata mismatch: If your sandbox metadata does not match your production environment, failures might occur. In such cases, perform a metadata restore before restoring data.

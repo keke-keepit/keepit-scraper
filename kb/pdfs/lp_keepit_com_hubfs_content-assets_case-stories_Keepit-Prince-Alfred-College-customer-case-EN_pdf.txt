@@ -1,0 +1,116 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Prince-Alfred-College-customer-case-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+Prince Alfred College chose 
+Keepit’s cost-effective and 
+secure backup solution 
+Customer case:
+Prince Alfred College
+
+Consistent protection against data loss or 
+corruption 
+Keepit’s backup and recovery for Microsoft 365 
+is a surefire way to protect critical data as it’s 
+increasingly moved to the cloud. Prince Alfred 
+College’s primary data protection need was to 
+restore data quickly in the event of accidental 
+deletion, and to restore data in bulk in the event of 
+a breach.
+As an educational institution in Australia, data 
+retention was also an important factor when 
+selecting a backup and recovery partner: “The 
+Education sector in South Australia needs to 
+keep student records for 10 years after the 
+students’ last association with the school. This 
+can mean student information needs to be kept 
+for as long as 22 years,” explains Chris Downing, 
+Systems Engineer at Prince Alfred College. Keepit 
+provides unlimited always-hot data storage, 
+ingress/egress, and retention, ensuring the 
+college can always rely on meeting data retention 
+needs.
+Keepit offered a budget-friendly solution 
+In 2022, Prince Alfred College started their search 
+for a cost-effective backup and recovery solution 
+for Microsoft 365. “We needed to back up our 
+Microsoft 365 hosted data and were looking for 
+the most effective way to do that. We looked at 
+free or low-cost cloud-to-on-prem solutions but 
+Keepit’s low management overhead and simplic-
+ity to configure and use made it a much better 
+solution and worth the cost,” says Chris Downing.
+“Cost for an education institution is always a key 
+factor. Any backup system we chose had to be 
+reliable and the ease of use we discovered with 
+Keepit made the decision easy.”
+- Chris Downing, 
+Systems Engineer, Prince Alfred College
+Customer case:
+Prince Alfred College
+Working in the educational sector, Prince Alfred College ventured to find a secure backup 
+and recovery solution that could answer their long data retention needs. As a leading day and 
+boarding school for boys located in Adelaide, South Australia, Prince Alfred College must secure 
+Microsoft 365 data and ensure its easy recovery in case of accidental deletion or cyberattack. 
+Keepit was able to provide a cost-effective, consistent solution that would bring peace of mind.
+
+About Prince Alfred College:
+Established in 1869, Prince Alfred College is a 
+forward-looking school with a proud history and rich 
+traditions located in Adelaide, South Australia. Prince 
+Alfred College is committed to providing a well-
+rounded and inclusive education for boys, with unique 
+programs and approaches that are tailored to their 
+specific needs.
+Business continuity through reliable backup 
+and recovery  
+Business continuity is an increasingly crucial 
+factor for IT professionals in charge of vast 
+amounts of data stored in the cloud. “We have 
+approximately 400 staff and 1200 students that 
+rely on our systems every day. We would suffer 
+huge reputational damage should we not be able 
+to reliably recover our data after an incident,” 
+comments Chris Downing.
+With Keepit, Prince Alfred College knows 
+student data is not only easily recoverable, but 
+also securely stored. Data received by Keepit is 
+encrypted in transit and before it’s stored. Data 
+remains immutable and always accessible for the 
+customer.
+Simplicity you can count on 
+Keepit’s intuitive user interface and easy 
+configuration were a positive surprise to Prince 
+Alfred College. The Keepit platform requires 
+no training, allowing you to locate, preview, and 
+restore data with just a few clicks. With an API-only 
+architecture, customers can seamlessly integrate 
+their systems for instant access to data recovery 
+and management.
+Customer case:
+Prince Alfred College
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+“The main impact of Keepit has been 
+that we now have one less thing to worry 
+about.”
+- Chris Downing, 
+Systems Engineer, Prince Alfred College
+“Nothing beats seeing how simple it is to 
+stand up, manage, and use, and in the last 
+three years, we haven’t had to worry about 
+data loss in Microsoft 365.”
+- Chris Downing, 
+Systems Engineer, Prince Alfred College
+With Keepit, Prince Alfred College benefits from 
+Keepit’s flat, per-user pricing. With no hidden 
+or additional costs, it’s easier to budget — cost 
+always being an important consideration for 
+educational institutions.

@@ -1,0 +1,39 @@
+Source URL: https://www.keepit.com/blog/shared-responsibility/
+Content type: Web page
+Last modified: 2026-01-22T15:32:16+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why the shared responsibility model is still critical today
+And survey data highlighting a risky data protection gap
+The shared responsibility model is not a relic of the early cloud era. It remains a bedrock principle across providers like Microsoft, AWS, Google, Salesforce, and Atlassian. The idea is simple:
+- Cloud providers secure the infrastructure and application availability.
+- Customers secure their data, identities, and configurations.
+- Customers retain ownership of, and ultimate responsibility for, their business data
+This division is as relevant today as ever — yet many organizations continue to misinterpret it. When data is lost to accidental deletion, unwanted modification, insider threats, or ransomware, SaaS vendors will not restore it for you. In fact, they probably aren’t able to restore it for you. Those things are the customer’s responsibility.
+Read about Microsoft’s shared responsibility.
+The numbers prove the point
+You don’t have to just take my word for it. Two recent surveys underscore why this discussion remains urgent and why shared responsibility is still highly relevant today:
+- 37% of organizations still rely solely on native SaaS data protection (Foundry, 2025). That means more than one in three businesses is trusting limited, provider-built capabilities to safeguard their business-critical data. Why is that risky? Native services often have short retention periods and incomplete coverage, and by design they lack independence from the production environment. Relying on them alone leaves organizations exposed when incidents occur.
+- 58% of executives believe Microsoft backs up their SaaS data (Gatepoint survey). This shows a troubling perception gap. Executives are confident the vendor is covering them, but in reality, Microsoft and other SaaS providers explicitly state that SaaS data protection is the customer’s responsibility.
+Together, these findings reveal a double risk:
+- A considerable proportion of organizations remain inadequately protected in practice (more than one in three).
+- Leadership is often not aware of the risk, which makes it less likely the issue will be addressed before a crisis. This makes bringing the case to leadership paramount.
+The danger is not theoretical. Misplaced trust in native tools has led to data loss, regulatory violations, and costly downtime across industries. Regulatory frameworks like DORA, NIS2, and FINRA put ever-increasingly demanding requirements on companies and their cyber resilience, particularly stressing the need for true SaaS backup. Assuming SaaS vendors provide comprehensive backup is not just risky — it can put compliance at stake.
+Shared fate: Another way of thinking
+The shared responsibility model remains the foundation for understanding who protects what in the cloud. Some providers have introduced the idea of “shared fate” to help customers better grasp this relationship. The term underscores a simple but important point: Deploying cloud SaaS solutions and storing production data in the cloud doesn’t automatically solve your data protection challenges.
+In fact, one could argue that the cloud has obscured some long-established data protection best practices, such as the 3-2-1 backup rule (you may have seen iterations such as 3-2-1-1-0). A key to the 3-2-1 principle is physically isolated (“air-gapped”) backup, where backup copies are stored in a separate cloud and physical location from the production data. Read more about the 3-2-1 rule.
+Shared fate emphasizes that while SaaS providers deliver a secure and resilient platform, customers still carry responsibility for all the data and identities (think Identity and Access Management) they create in it. Customers create data, they own data, and are responsible for protecting that data.
+With this framing, your organization’s outcomes are tied directly to the decisions you make: retention policies, backup practices, access controls, and recovery testing. In other words, you and your provider share a fate — but you never give up responsibility.
+This phrasing doesn’t change the model, it reinforces it. Whether you call it shared responsibility or shared fate, the core message is the same: Protecting data in SaaS applications ultimately rests with you. You can read more about the concept here: Google Cloud’s shared responsibility and shared fate.
+What organizations should do now
+Closing the gap between perception and reality starts with understanding shared responsibility — and remembering, as shared fate suggests, that your outcomes are tied to your choices:
+- Recognize your ownership role. Native tools are not sufficient; your SaaS provider is not responsible for your backup.
+- Adopt immutable, segregated backup. Independent systems are essential for resilience against ransomware and to meet regulatory requirements like DORA or NIS2. But what does that mean? It’s not enough to use just any third-party backup provider: Air gapping is a key component of true backup — where backup copies are kept in a separate infrastructure from the production data.
+- Test recoveries. Backup is only useful if recovery is fast, reliable, compliant, and complete.
+- Involve leadership. Use data and real-world examples to get buy-in and address the perception gap among executives. Read about turning strategy into action.
+Closing thought
+Shared responsibility is a key concept woven deeply throughout the SaaS world, no matter the provider. Yet there is still widespread misunderstanding about what data “being in the cloud” really means. The survey data makes it clear: too many organizations dangerously assume they are protected when, in fact, they are not.
+The only way to close this gap is with independent SaaS data backup — backup that is immutable, segregated, and always recoverable — and the responsibility for protecting data in SaaS applications ultimately rests with you.
+Read our white paper, “Overlooked and under protected. How the SaaS data gap threatens resilience,” to learn more.

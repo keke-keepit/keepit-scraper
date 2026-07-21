@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/resources/4-steps-to-protect-microsoft-365-from-ransomware/
+Content type: Web page
+Last modified: 2025-08-14T23:51:47+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+On-demand webinar: 4 steps to protect Microsoft 365 from ransomware
+Presented by: Paul Robichaux, Microsoft MVP and Keepit’s Senior Director of Product Management.
+In this webinar, you’ll learn the ransomware threats in Microsoft Office 365, Paul’s four effective steps to protecting it, and how Keepit can help you recover your data fast.
+Ransomware often has a financial and operational impact
+More than 7 in 10 businesses have been victims of a successful ransomware attack, according to ESG research. More alarming, the research also showed that only 1 in 7 reported getting all of their data back post ransomware payment, and 3 in 5 got less than 75% of their data back.
+So, paying the ransom doesn’t necessarily guarantee that your business can recover and reach full operation quickly.
+Further, Microsoft 365 data protection becomes even more relevant in these uncertain times where geopolitical cyber risks continue to increase. Even the White House urges US companies to 'Back up your data and ensure you have offline backups beyond the reach of malicious actors.'
+There's no better time for your business to ensure your Microsoft Office 365 is well protected from ransomware, and it should be on any IT Admin or Manager's to-do list. That's why we created this webinar for you.
+What you'll learn in this 45 min webinar from Microsoft MVP, Paul Robichaux:
+- What ransomware threats exist in Microsoft 365 (plus what the single biggest one is)
+- How the market is reacting
+- Four effective steps on how you can build an effective defense
+- How to recover from ransomware: What is (and is not) covered by Microsoft 365?
+Paul shares his extensive insights on two of his fields of expertise: Microsoft 365 and ransomware – forces to be reckoned with in any Microsoft cloud infrastructure (and a cocktail that can really trip up performance and compliance at a structural level in any organization.) Not to mention your business services, finances, and brand.
+You’ll get specific insights on:
+- The range of threats
+- Directory services: (and how to quickly restore them)
+- What happens if you lose access to: Emails? File data? Devices?
+- Microsoft’s recommended recovery process
+- How Keepit can help your business recover fast
+Get tons of valuable insights on how to get peace of mind that your Microsoft Office 365 data is protected as best as possible.

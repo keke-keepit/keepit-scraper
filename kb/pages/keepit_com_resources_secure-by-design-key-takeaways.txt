@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/resources/secure-by-design-key-takeaways/
+Content type: Web page
+Last modified: 2025-10-22T12:04:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Secure by design: Key takeaways on rethinking data protection in the AI era
+We’re entering a new phase of AI innovation — one that promises transformation, but at the same time exposes organizations to new layers of complexity and risk. As agentic and LLM-driven systems evolve, the boundaries between applications blur, attack surfaces expand, and traditional security controls lose effectiveness. How can businesses harness AI’s potential safely while maintaining control?
+This was the focus of our recent “Secure by design” webinar, featuring Kim Larsen, CISO at Keepit, engaging an expert panel exploring how resilient data protection underpins responsible AI progress and operational resilience.
+Here’s what we learned:
+- AI governance must evolve with autonomy. 
+ As AI agents begin making decisions and linking systems, governance and control must move from manual oversight to codified, automated guardrails. Defining what “good” looks like — and enforcing it — is essential to prevent risk from scaling with innovation.
+- Immutability is the new foundation for resilience. 
+ Modern data protection must go beyond snapshots to ensure tamper-proof, sovereign backups that restore full system states. Vendor independence, anomaly detection, and granular recovery capabilities are key to enabling trustworthy AI analytics and fast, precise recovery when incidents occur.
+- Winning with AI means maintaining control. 
+ The organizations that will thrive are those that start with clear business outcomes, set data boundaries, and establish rollback paths before scaling innovation. Safe enablement — not blind adoption — drives sustainable progress.
+Our webinar handout distills these insights into actionable guidance, including:
+- A framework for secure AI adoption: Outcome → Controls → Enablement
+- Key capabilities to demand from your data protection vendors now
+- A spotlight on emerging innovations like guided recovery and cross-workload intelligence
+Download the handout now to learn how to future-proof your AI strategy with security and resilience at the core.

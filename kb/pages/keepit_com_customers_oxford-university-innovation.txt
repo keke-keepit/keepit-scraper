@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/customers/oxford-university-innovation/
+Content type: Web page
+Last modified: 2026-01-08T11:57:36+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Oxford University Innovation Ltd.Â chooses KeepitÂ to protect and handle their intellectual property assets.Â
+Ever since Oxford University Innovation Limited (OUI) migrated to the cloud using SaaS solutions like Microsoft 365, OUI has been using Keepit’s proprietary cloud-to-cloud SaaS backup technology to protect its intellectual property and restore sensitive data. If breached, the loss of this data has the potential to cost one of the world’s most famous academic institutions hundreds of millions of pounds.
+Company
+Oxford University is one of the world’s leading educational institutions, supporting more than 50,000 jobs and injecting more than £5.8bn annually into the UK economy. OUI is a subsidiary of the University concerned with managing its technology transfer and consulting activities. It is responsible for innovating new ideas and protecting all data associated with the multitude of patents held by the University.
+Handling intellectual property assets for the University involves retaining the records, of IPs and related transactions, for a period of 33 years. Highly valuable patents often form the basis for new companies with roughly 20 companies spun out as commercial entities every year. The consequences of losing data associated with these patents would be huge, both from a reputational and financial perspective.
+Goals & Objectives
+The core objective of integrating a SaaS data backup solution was to protect the IP of the commercial entities that emerge from the University of Oxford, by providing OUI with an additional 33-year data backup retention period, meeting the requirement for intellectual property protection.
+Keepit’s technology has demonstrated to us that, even if Microsoft offered a similar backup with long-term retention, Oxford University would still opt for an independent backup and restore solution as an indispensable extra layer of data protection, and as a vital component of the University retaining control of its own data.
+Lasse Thomsen
+Information Systems Manager, Oxford University Innovation Ltd.
+Microsoft’s existing backup and recovery systems did not provide the long-term facilities required by OUI. Most data loss is often caused by simple human error and is difficult to identify until it is already unrecoverable; thus, a long-term backup and recovery system was needed to provide comprehensive redundancy, ensuring best possible protection.
+Approach
+After a rigid selection and security process which evaluated Keepit’s long term value as a partner for the University, Keepit was onboarded just prior to its cloud migration from Exchange 2010 to Microsoft 365 to provide additional security during the migration process. The migration was able to happen overnight with no data loss.
+To mitigate the dangers associated with data loss by ensuring that quick data recovery is always possible, OUI worked with Keepit to install its SaaS-based solution to protect data in the cloud by automatically backing up, finding and recovering historic data in a matter of minutes.
+We searched the market extensively for backup and restore products ahead of choosing Keepit as the right solution for the University’s needs for long-term data retention.
+Lasse Thomsen
+Information Systems Manager, Oxford University Innovation Ltd.
+The final stage is Keepit’s ongoing work with OUI as an integral IT partner. Keepit’s support with moving to the cloud ensures that all data is backed up and protected correctly, and that it is not reliant on a single provider for its data backup and recovery systems.
+Results
+Since Keepit’s solution was integrated into Oxford University Innovation’s systems, three critical data restorations have been implemented. The ability to retrieve this information will potentially save the University millions, in mitigating the risk of losing records related to the University’s assets. Keepit continues to be a key partner for OUI thanks to its ability to add new SaaS solutions over time. The next step in the relationship is to provide help onboarding more solutions to the cloud, such as Dynamics 365.

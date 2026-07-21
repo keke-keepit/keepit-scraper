@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/help/azure-devops-category/create-an-azure-devops-connector/
+Content type: Web page
+Last modified: 2025-06-17T14:16:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create an Azure DevOps connector
+To create a connector and ensure a smooth backup process, you must set up a service account that meets the required criteria. This is the account you will use to add a connector. For more details, see: Requirements for Azure DevOps connector creation and backup
+Add an Azure DevOps connector
+Before you begin, sign out of all personal Microsoft accounts and ensure you are signed in only with the account designated for the backup.
+1. On the Connectors page, select Add connector > Add Azure DevOps connector.
+2. Click Sign in to be redirected to the Microsoft sign-in page. Enter the credentials for your service account.
+3. Review the permissions and grant access by selecting Accept.
+Note: You will be prompted for permissions only the first time you create a connector. Afterward, Keepit retains the permissions it needs.
+4. You will be redirected back to Keepit where you can configure your connector.
+Here you can:
+- Change the name of the connector
+- Manage user access to the connector by selecting the lock icon
+- Limit the retention period by selecting the calendar icon
+5. Select Create. Your connector will be created and the first backup will be scheduled.

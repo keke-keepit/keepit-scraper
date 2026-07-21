@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/customers/emmi/
+Content type: Web page
+Last modified: 2025-12-02T13:52:11+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Emmi selects Keepit, names the solution a âscalable and future-proofâ choice
+Faced with the challenge of finding a comprehensive, globally available backup solution (due to the expiration of their former solution,) Emmi AG chose Keepit to securely back up their data on Keepit’s independent cloud. As the largest dairy processing company in Switzerland, Emmi required a solution like Keepit’s – one with the global infrastructure to support their needs. Emmi ultimately concluded that Keepit delivered the secure, user-friendly, transparent solution they were looking for.
+Overall, Keepit contributes significantly to Emmi's risk management goals by providing a reliable and scalable backup solution that secures business operations.
+– Marc Baumann, 
+Lead Data Platform Services, Emmi
+Ticks the box for global scalability
+Emmi knew they needed a service provider who could provide a global and scalable offering – one that could maintain pace with their international business activities. Ensuring business continuity and smooth operations on a global scale is no small feat. Keepit’s scalability was therefore a significant contributing factor to Emmi’s risk management goal of ensuring reliable data backup and recovery across countries and time zones.
+Emmi also knew they wanted to be able to store their data on an independent cloud – separate from Microsoft. Keepit met this requirement with the added benefit of offering its backup-as-a-service from Swiss data centers. Keepit stores two copies of Emmi’s data backups on its own storage solution in two data centers – ensuring a clean air gap. This benefit was one of the key deciding factors in Emmi’s security requirements.
+With Emmi's international business activities, it was also important that technology partners could provide a globally available and scalable offering. Keepit is proving to be the ideal partner for mastering the challenges of a globally active dairy.
+– Marc Baumann, 
+Lead Data Platform Services, Emmi
+Delivers unlimited storage at a fixed price
+Securing the offerings of Keepit for Microsoft 365, Keepit for Azure DevOps, and Keepit for Entra ID, Keepit gives Emmi the ability to restore data immediately across all these critical SaaS applications possible– a significant aspect of their business continuity and resilience strategy - all at a transparent, fixed price. No matter the need, Emmi can effectively minimize downtime and data loss by performing regular backups without storage space limitations.
+Provides user-friendly, transparent experience
+With the implementation of the solution only taking a few hours, Emmi was able to start using Keepit productively straight away. The solution proved to be self-explanatory and uncomplicated, requiring hardly any operational effort on Emmi’s part. The Keepit solution fit seamlessly into the dairy IT company’s existing landscape, supporting the centralized management of backups.

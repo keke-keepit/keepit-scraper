@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/partners/partners-stories/upheads/
+Content type: Web page
+Last modified: 2024-03-27T23:59:21+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Upheads Chooses Keepit for Their Partner-Driven Strategy
+World-Class Addition to Upheads’ Portfolio
+Upheads previously relied on an on-premises backup solution, which according to Upheads CTO Henning Malmin, was both cumbersome and expensive – and not scalable in any way.
+The hardware’s limited lifetime meant recurring maintenance and licensing costs; moving data from one storage to another was not flexible. Altogether, this was the reasoning behind why Upheads looked towards Keepit.
+With Keepit, supporting our global clients
+has become an easy task.
+Henning Malmin
+CTO of Upheads
+With Keepit’s cloud SaaS backup for Microsoft 365, Upheads can provide their customers with the best solution on the market. Increased security and unlimited data retention, along with easy and fast data restore, are just a few of the benefits Upheads’ global customer base can now enjoy with Keepit.
+Security Bundle Works!
+Upheads sells Keepit’s backup and recovery service as part of their Security Employee Bundle, which includes Microsoft 365, secure backup and storage, service desk, antivirus, and additional services, making it a very attractive offering for their clients.
+Adding Keepit—including the unlimited data retention offering—to the Security Employee Bundle is the biggest added value for Upheads, and they offer it to all existing and new customers.
+Our clients pay one single fee for this service bundle, allowing them to focus on their business instead of cumbersome admin tasks.
+Henning Malmin
+CTO of Upheads
+Looking Ahead: One Partnership to Cover All SaaS Cloud Solutions
+Although Upheads is a Microsoft-driven company, they are seeing an increasing interest for consultancy services that cover additional SaaS applications, like Google Workspace. Since Keepit provides data protection of all major SaaS applications, including Salesforce, Dynamics 365, and more importantly Google Workspace, this creates new possibilities for Upheads by ensuring their security bundle meets market needs at all times.
+Upheads is one of Norway’s largest IT consulting company delivering managed IT services to small and medium businesses. With 20+ years of IT experience, Upheads provides attentive and world-class services to over 2000 customers worldwide all while remaining on the frontline when it comes to local legislation and security requirements.
+We don’t compete with Keepit, we succeed together. An equal partnership was the goal from the very beginning.
+Henning Malmin
+CTO of Upheads

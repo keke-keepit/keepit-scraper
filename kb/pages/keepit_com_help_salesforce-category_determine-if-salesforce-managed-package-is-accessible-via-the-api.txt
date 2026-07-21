@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/help/salesforce-category/determine-if-salesforce-managed-package-is-accessible-via-the-api/
+Content type: Web page
+Last modified: 2025-03-11T20:14:01+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Determine if Salesforce Managed Package is accessible via the API
+To determine if records from a Salesforce Managed Package are accessible via the API, follow these steps:
+1. Review Object Permissions in the Org
+1. Navigate to Setup in Salesforce.
+2. Go to Object Manager and locate the objects provided by the Managed Package.
+3. Check the Object Settings and ensure that "API Enabled" is selected for the profile or permission set of interest.
+2. Check Field-Level Security
+- Even if the object is API accessible, fields on the object may have restricted access. Confirm that the necessary fields are exposed to the profiles or permission sets using the Managed Package.
+3. Inspect the Managed Package Documentation
+- Many Managed Packages provide documentation or release notes that explicitly state whether their objects are API accessible. Some package objects are restricted for internal use only.
+4. Test API Access Using a Tool
+- Use tools like Workbench, Postman, or Salesforce’s Developer Console: 
+ Query the object using SOQL:
+ Example:\
+ SELECT Id, Name FROM Custom_Object__c LIMIT 10 If the query returns records, the object is API accessible.\
+ If you receive an error like "Entity is not API accessible," it is restricted.
+5. Inspect Package Settings (if available)
+- Some Managed Packages provide specific settings to toggle API access. Check the Managed Package settings under Installed Packages in Setup to see if API access is configurable.
+6. Contact the Package Provider
+- If you’re unsure about the API accessibility of an object, reach out to the Managed Package provider. They can confirm which objects are designed for API interaction.
+By using a combination of these steps, you can confirm whether the records from a Managed Package are accessible via the Salesforce API.

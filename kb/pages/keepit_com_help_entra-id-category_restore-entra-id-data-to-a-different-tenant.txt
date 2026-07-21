@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/help/entra-id-category/restore-entra-id-data-to-a-different-tenant/
+Content type: Web page
+Last modified: 2026-07-04T00:02:38+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Entra ID data to a different tenant
+Cross-tenant restore allows you to recover Entra ID objects into a different tenant while automatically preserving object relationships and dependencies.
+If your primary Entra ID tenant becomes inaccessible—due to misconfiguration, cyber incidents, or other disruptions—restoring identities, policies, and access settings manually can be complex and time-consuming. Cross-tenant restore allows you to quickly recover Entra ID data into a secondary tenant that mirrors your primary environment.
+Preparing the target tenant
+Before performing a cross-tenant restore, ensure that the target tenant has the required licenses to support all restored objects and their assignments. License compatibility between the source and target tenants is essential for achieving a consistent and fully functional restore outcome.
+Selecting the domain
+A target tenant can contain multiple verified domains. However, some domains may be configured in a way that restricts the creation of new user accounts. To avoid restore failures related to domain limitations, it is strongly recommended to select the default domain of the target tenant. The default domain is typically configured to allow user creation and provides the smoothest restore experience.
+Restore to a different tenant
+1. Open the Connectors page.
+2. Point to the connector and click the Restore icon.
+3. Select Restore to a different tenant and click Sign in.
+4. Enter your credentials and accept the required permissions.
+5. Select a domain from the dropdown list.
+Note: Choose primary domain to ensure a successful restore.
+6. Select the desired snapshot.
+7. Select the folders you want to restore and click Next.
+8. Review the summary and click Restore.

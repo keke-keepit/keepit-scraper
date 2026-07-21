@@ -1,0 +1,31 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/entra-id-groups-are-missing-from-my-backup-configuration/
+Content type: Web page
+Last modified: 2026-06-30T02:19:07+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Entra ID groups are missing from my backup configuration
+When you see the error, it is because Keepit has detected that the current configuration for your Microsoft 365 backup connector includes one or more missing groups. In this context, “missing” means that we can’t find the group by using its objectGuid value, or for some reason we can’t determine its membership. The most common cause of this issue is when the group has been deleted from Entra ID, either on purpose or accidentally.
+Why this happens
+You can use Entra ID groups to specify which users are included and/or excluded from a backup. For example, you might configure a connector based on the group named “EU Sales Team.” We then store the objectGuid values for this group along with other data used to specify what data to back up or exclude for those group members.
+If we can’t access the group, it leads to two possible outcomes:
+- If the missing group was specifying users to include, the resulting backup will be missing the data you intended for it to have.
+- If the missing group was specifying users to exclude, the resulting backup might contain data you didn’t want captured in the backup.
+In either case, the result is that the backup doesn’t have the intended data in it. Instead of continuing to back up data and potentially exposing you to an unpleasant surprise, we warn you so you can fix the problem.
+Important: If a connector was created before September 2022, we will continue to back up your data successfully, but you will still see a notification asking you to review your configuration.
+How to fix it
+When we detect that there is a missing group in your backup configuration, backup jobs will not run successfully until this problem is fixed. You will receive a notification via email and in the in-app notification system to alert you.
+To fix this, you can't recreate the groups with the same name or UPN, because when you do, Entra ID will give them new objectGuid values.
+For the backups to resume successfully, you have the following options:
+- If the missing groups are still in the Entra ID recycle bin, you can recover them. Once you do, we’ll detect that the groups are now available and your backups will resume successfully.  
+ 
+- If you open the connector configuration, we will warn you that we have detected the missing groups. You can follow the next steps to remove the missing groups and update the connector configuration: 
+ 
+ 1. Open the Microsoft 365 connector configuration then select the Exchange or OneDrive configuration.
+ 2. Select Remove missing groups.
+ The groups will no longer be listed in the configuration.
+ 3. Save the new configuration.
+ The next backup will be automatically scheduled.
+Note: If your Exchange and OneDrive groups selections are linked, you need to save a new configuration only for one of these data areas. The groups will automatically be removed from the other date area.
+After removing the missing groups, you can then recreate the groups in Entra ID and update the connector configuration to use them. Recreating the groups will assign new objectGuid values, but since you’re adding the new version of the groups to the connector, there will be no conflict with the previous versions.

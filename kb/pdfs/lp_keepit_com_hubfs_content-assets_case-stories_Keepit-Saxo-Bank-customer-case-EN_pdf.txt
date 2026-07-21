@@ -1,0 +1,83 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Saxo-Bank-customer-case-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+Customer case
+How Keepit helps 
+Saxo Bank navigate 
+complex compliance
+
+Navigating complex compliance  
+A multinational financial services provider, Saxo 
+Bank is subject to stringent compliance and 
+regulatory control across its operations world-
+wide. This in turn requires an efficient search func-
+tion that enables Saxo Bank to find and share 
+specific data with its legal team within minutes. 
+Keepit’s unique find and restore features 
+facilitate this.
+Extensive archiving capability 
+It was key for Saxo Bank to have backup func-
+tionality outside of the Microsoft ecosystem and 
+meet compliance requirements as they do for Cis-
+co phones and Skype for Business today. Keep-
+it’s solution not only safeguards emails and files 
+for Saxo Bank’s 1,600+ global employees world-
+wide, it also provides the ability to rapidly gain 
+access to any piece of backed-up information. 
+Customer case:
+Saxo Bank
+In 2019, Saxo Bank implemented Keepit as the backup and recovery service for all employees 
+on Microsoft 365. Saxo Bank has recently implemented Microsoft Teams and plans to introduce 
+more features going forward in collaboration with Keepit as the trusted provider, protecting their 
+cloud SaaS data.
+“An impressive element of  Keepit’s solution 
+is that it often takes only minutes to find and 
+share the specific item with our Legal team, 
+whilst it often took much longer with our on-
+prem solution.”
+-  Thomas Ulrich 
+Head of Digital Workplace & Support Services 
+Saxo Bank
+
+Keepit’s customer-focused services met all of 
+Saxo Bank’s needs and process requirements 
+from the very start. As Saxo Bank continues to 
+implement more Microsoft 365 features, Keepit 
+will continue to safeguard their cloud SaaS data.
+About Saxo Bank
+Saxo Bank is a regulated bank offering financial 
+services worldwide. The Copenhagen-based financial 
+organization has over 860,000 clients and 120 partner 
+banks that use Saxo Bank’s platforms to place over 
+125,000 trades a day at industry-leading prices.  As a 
+fintech bank, Saxo Bank launched one of the industry’s 
+first online trading platforms, making global markets 
+available to everyone. 
+The company is currently investing heavily in new 
+technology to empower clients with institutional-
+grade execution and powerful features.
+Customer case:
+Saxo Bank
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on LinkedIn.
+Your data. Here today. Here tomorrow.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+“It is very important to back up our 
+Microsoft applications in a sophisticated 
+and fulsome manner. We considered 
+Microsoft’s backup and archiving 
+capabilities to be insufficient for our 
+purposes and were impressed by 
+the scope of Keepit’s backup and 
+archiving capabilities, as well as the 
+granularity of their restore function.” 
+ 
+-  Thomas Ulrich 
+Head of Digital Workplace & Support Services 
+Saxo Bank

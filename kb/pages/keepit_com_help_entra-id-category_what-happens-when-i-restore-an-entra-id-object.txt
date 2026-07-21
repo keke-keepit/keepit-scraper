@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/help/entra-id-category/what-happens-when-i-restore-an-entra-id-object/
+Content type: Web page
+Last modified: 2026-07-04T00:04:59+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What happens when I restore an Entra ID object?
+Restoring an object restores its attributes and reestablishes its relationships to other objects.
+If an object still exists in Entra ID, existing metadata will be updated, missing metadata will be created, and metadata not present in the snapshot will be removed.
+If an object has been deleted from Entra ID, it will be recreated.
+Restoring an object together with subobjects
+Groups, roles, and administrative units can be restored together with subobjects: missing subobjects will be recreated and, if selected, existing subobjects will be updated.
+Subobjects are objects located in the hierarchy under the selected object. Accordingly, subobjects can be only other users or groups -- objects that are part of a group or an administrative unit, or that are assigned a role.
+For example, a group's subobjects are its members and owners, not its parent groups, the administrative units it is part of, or the roles it is assigned.
+Only groups, administrative units, and roles – not users – can have subobjects.
+Restored attributes
+Restoring an object restores its attributes. Attributes cannot be restored separately.
+For a full list of supported attributes, go to Supported Entra ID object attributes
+Restored relationships
+Relationships are the links an object has to other objects by way of ownerships, owners, memberships, members, managers, role assignments, or scoped-role assignments.
+Relationships can be reestablished only if the linked object still exists.
+Let's say you have a group with 20 members. One member user is then deleted from Entra ID.
+If you restore the group from a historical snapshot when the group still had 20 members (i.e., when the deleted user still existed), the following will happen:
+- If you select restore only this object, the restored group will have only 19 members. We will not recreate the member user that was deleted and so we cannot reestablish the link to the member. The restore job will skip the user and the job will be marked as incomplete.
+- If you select also restore subobjects, the restored group will have 20 members. We will recreate the member user and reestablish its link to this group. The restore job will be marked as successful. The user will receive a new object ID and new creation time.
+Important: If the deleted user was a member of a distribution group or mail-enabled security group, we cannot reestablish this link due to an API limitation. In this case, the restore job will be marked as incomplete, and these relationships will be skipped.

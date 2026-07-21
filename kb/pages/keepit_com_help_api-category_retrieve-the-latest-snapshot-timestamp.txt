@@ -1,0 +1,59 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-the-latest-snapshot-timestamp/
+Content type: Web page
+Last modified: 2026-04-01T10:23:49+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve the latest snapshot timestamp
+This command retrieves the timestamp of the latest snapshot.
+API request
+Method GET
+/users/{account_id}/devices/{connector_id}/history/latest
+Example
+Method GET
+https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/devices/11ptlk-st7sly-ggba4c/history/latest
+Response
+Code: 200 OK
+Response body:
+<history>
+    <backup>
+        <tstamp>2024-12-05T12:54:46Z</tstamp>
+        <root>f18fas324asbdwv3424v7b37e6fac9e03abf4663gn31j9eb056bd441fad94</root>
+        <type>c</type>
+        <size>1653770815</size>
+        <account>5t1sbe-s6zsgx-rtutxq</account>
+    </backup>
+</history>PowerShell script
+try {
+    $username = '<API Token username>'
+    $password = '<API Token password>'
+    $userId = '<Account GUID>'
+    $connectorId = '<Connector GUID>'
+    $hostname = 'dk-co.keepit.com'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $response = Invoke-WebRequest -UseBasicParsing `
+      -Uri "https://${hostname}/users/${userId}/devices/${connectorId}/history/latest" `
+      -Method Get -Headers $headers -ErrorAction Stop -TimeoutSec 10
+    $xmlContent = [xml]$response.Content
+    $tstamp = $xmlContent.SelectSingleNode("//tstamp").InnerText
+    $type = $xmlContent.SelectSingleNode("//type").InnerText
+    $size = $xmlContent.SelectSingleNode("//size").InnerText
+    Write-Host "Timestamp: $tstamp"
+    Write-Host "Type: $type"
+    Write-Host "Size: $size"
+}
+catch {
+        $line = $_.InvocationInfo.ScriptLineNumber
+        Write-Host "Cannot query Keepit API due to: $_"
+        Write-Host "at line $line"
+}Script result
+Timestamp: 2024-12-05T12:54:46Z Type: c Size: 1653770815
+Additional information
+- The <tstamp> element shows the timestamp of the latest created snapshot (GMT).
+- The size is displayed in bytes. In this case, the size of the latest snapshot equals to 1.6GB.
+- The <type> element shows if the snapshot was complete or partial. Possible values are C or P. More on partial snapshots here.

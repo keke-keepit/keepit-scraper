@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/blog/why-shared-responsibility-is-the-way-external/
+Content type: Web page
+Last modified: 2025-08-20T02:24:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Cloud data: Shared responsibility and the importance of backup
+Contributed article by Keepit’s own Niels van Ingen
+Niels van Ingen, industry veteran and COO at Keepit, shares his perfective on why shared responsibility for cloud data backup and recovery is the only way forward. He says to look at Microsoft's own documentation, which states, “it's critical to understand the Shared Responsibility model and which security tasks are handled by the cloud provider and which tasks are handled by you.
+For all cloud deployment types, you own your data and identities. You are responsible for protecting the security of your data and identities, on-premises resources, and the cloud components you control (which varies by service type).”
+So, who is ultimately responsible for safeguarding cloud-based data? Surprisingly, this simple-sounding question is often overlooked until it's too late, which is why SaaS customers need to be proactive when it comes to protecting their own data.
+Niels van Ingen
+COO at Keepit
+To dive into the full article on vmblog.com, click to learn “Why Shared Responsibility for Data Backup and Recovery Is the Only Way.”

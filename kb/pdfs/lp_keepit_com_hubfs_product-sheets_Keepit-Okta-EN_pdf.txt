@@ -1,0 +1,135 @@
+Source URL: https://lp.keepit.com/hubfs/product-sheets/Keepit-Okta-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 2
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and 
+Recovery for Okta
+Identities and access securely backed up and recoverable — 
+on a sovereign platform
+Although it’s known Okta is critical for identity and access management, it’s not as widely 
+known, that under the shared responsibility model, you are responsible for the security and 
+integrity of data stored within Okta. That’s why implementing independent backup is a core 
+component in ensuring business continuity, security, compliance, and resilience.
+Awarded for its ease of use, Keepit ensures that data stored in Okta is securely backed up and 
+can be recovered swiftly and accurately when incidents occur. It effectively minimizes the 
+impact of data loss and the burden of recovery on your teams.
+Unified visibility
+A unified platform for all backups 
+across critical SaaS applications — 
+provides transparency, visibility, and 
+easy reporting for managers and 
+leadership.
+Assured data integrity
+With Keepit, you’re certain that your 
+backups are immutable — they can’t 
+be modified or deleted. Stored in 
+our vendor-independent cloud, your 
+data remains accessible at all times.
+Time-saving usability 
+Easy to implement and intuitive, 
+Keepit requires minimal expertise to 
+use — while delivering confidence in 
+your ability to swiftly recover your data 
+whenever you need it.
+“We have been able to split the responsibilities 
+for data protection among different 
+teams. This setup allows teams to work 
+efficiently and independently.”
+Michael Bojko, System Engineer. Porsche Informatik
+80% of breaches involve 
+compromised credentials or 
+weak identity management. 
+Source: Verizon DBIR 2024
+The risk
+Keepit customers were able to reduce the 
+time needed to restore data for priority 
+users by 90% after a data loss incident. 
+Source: Forrester Total Economic Impact Study 2024
+Proven benefit
+Misconfigured IAM policies can cost 
+organizations up to $1.5 million annually 
+— from fines, unauthorized access, and 
+productivity loss. 
+Source: True cost of dispersed identity systems
+Financial impact
+
+KEY CAPABILITIES
+Automated backups 
+Customize and automate backup jobs 
+so your data remains preserved and 
+recoverable whenever you need it.
+Instant search and preview
+Easily find what you need with Keepit’s 
+comprehensive search. Use filters 
+to identify data, and the preview 
+function to review it before restoring.
+Flexible restore options 
+Restore objects in bulk or granularly to 
+guarantee fast and precise recovery.
+Proactive monitoring 
+Data Protection and Anomaly 
+Detection Dashboards help maintain 
+backup integrity and health —allowing 
+for early identification, investigation, 
+and remediation of risks to data.
+Compliance and reporting
+Easily document and prove 
+compliance with backup 
+requirements and data  
+protection efforts.
+Unlimited retention  
+Customize retention for up to  
+99 years with no extra costs. 
+Find out how simple 
+and easy it is to use Keepit
+Book a demo
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+WHAT WE COVER
+Identity and access 
+management
+•	
+Users
+•	
+Groups
+•	
+Authenticators
+•	
+Identity Providers
+•	
+Attributes 
+Mappings (IE)*
+Platform 
+management
+•	
+Organization
+•	
+Administration
+•	
+General
+Security and 
+governance
+•	
+Security
+•	
+Policies
+•	
+Network Zones
+Applications and 
+integrations
+•	
+Applications
+•	
+API service 
+integrations
+•	
+Customizations
+Find the complete 
+coverage here.

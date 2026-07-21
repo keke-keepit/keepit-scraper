@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/services/backup-entra-id/
+Content type: Web page
+Last modified: 2026-03-02T22:18:47+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+A simple, yet powerful service to help you take control and safeguard your Entra ID infrastructure from accidental deletions, ransomware, and other potentially devastating outages.
+What is covered?
+- Users, Groups, Admin Units Roles
+- Enterprise apps, App registrations
+- Conditional Access policies
+- Intune Device Compliance and Device Configuration policies
+- BitLocker recovery keys
+- Activity logs

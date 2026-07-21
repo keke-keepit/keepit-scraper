@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/resources/forma-product-sheet/
+Content type: Web page
+Last modified: 2026-07-14T13:50:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Autodesk Forma
+Continuous access to your Forma data when Autodesk goes down
+Autodesk Forma (formerly Construction Cloud) holds a project's single source of truth — drawings, issues, transmittals, RFIs, and cost data — entirely within its environment. Platform outages, accidental bulk changes to users or roles, and account compromise can cut off access, and Forma has no native rollback. Without an independent backup, teams have no fallback when access breaks down.
+Awarded for its broad SaaS coverage, secure by design architecture, and ease-of-use, Keepit ensures that your Autodesk Forma data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams.

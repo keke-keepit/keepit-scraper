@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/press/data-report-webinar/
+Content type: Web page
+Last modified: 2026-04-28T13:22:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit to present operational truths from real backup and restore data in webinar
+“The reality of SaaS data protection” webinar will unpack key findings from the “Keepit Annual Data Report 2026” on April 30, 2026
+Copenhagen, Denmark, April 27, 2026 — Keepit, the only vendor-independent cloud dedicated to SaaS data backup and recovery, today announced that it will be presenting a webinar titled, “The reality of SaaS data protection: Insights from the Keepit Annual Data Report 2026,“ where it will share operational truths from real backup and restore data to give you an evidence-based view of how organizations restore SaaS data in practice.
+The Keepit Annual Data Report 2026, published in March 2026, analyzes aggregated and anonymized behavioral data from Keepit’s production environment, representing thousands of SaaS customers worldwide, examining how organizations actually engage with their backups.
+Key findings from the report include:
+- Recovery readiness is rising, but inconsistent. 9 in 10 enterprise/commercial organizations show maturity signals strong enough for larger-scale recovery.
+- Identity recovery is the weak link. Identity app recovery is tested 4 times less often than productivity apps.
+- Most restores are small, fast, and constant. 90% are single-file restores, proving that granular recovery is an everyday need.
+- Backup growth is predictable. For now. With around 2% daily change rates and incremental backup, consumption stays manageable vs. “exploding” volumes.
+In the webinar, Keepit CTO Jakob Østergaard and Microsoft MVP and Keepit Senior Director of Product Paul Robichaux will unpack and discuss what these findings mean.
+“Surveys tell you what people believe; operational data shows what actually happens. The Keepit Annual Data Report is built to give leaders a factual baseline for how SaaS recovery works in practice,” says CTO Jakob Østergaard.
+Takeaways from the webinar will include:
+- What real restore behavior tells us about everyday data loss and recovery patterns
+- The mismatch between what organizations protect most and what they restore least
+- How to use recovery data as an architectural signal, not just an audit artifact
+WHEN: April 30, 2026, at 4 p.m. CET 
+WHO:  
+- Jakob Østergaard, CTO at Keepit
+- Paul Robichaux, Microsoft MVP and Senior Director of Product Management at Keepit
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no third-party sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over 20,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.For more information visit www.keepit.com or follow Keepit on Linkedin.

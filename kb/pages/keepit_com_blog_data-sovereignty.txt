@@ -1,0 +1,71 @@
+Source URL: https://www.keepit.com/blog/data-sovereignty/
+Content type: Web page
+Last modified: 2026-03-10T08:16:28+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Data sovereignty: Why ensuring control means complying with legal requirements
+Data sovereignty asks: Can you tell your data subjects exactly where their cloud SaaS data is stored?
+(Article from June 2022: An updated version reflecting 2024 requirements will be available shortly.)
+The cloud, which most of us think of as somewhat intangible and sometimes referred to as “up there,” is actually very much grounded, geolocated within the borders of countries. Data sovereignty is an important consideration for organizations as everything stored in the cloud is stored in data centers. But where exactly is your data? This should be an easy question to answer, and it is central to the discourse on data sovereignty.
+As cloud computing becomes the norm, so does the knowledge that a data protection strategy following best practices (such as the 3-2-1 backup rule) needs to be implemented in the cloud to ensure, among many things, data sovereignty.
+Not knowing, or not being able to control, where data is stored can be dangerous and may lead to exposing a company to unwanted risk: loss of company trust, litigation, compliance headaches, stagnation in business growth, fines, and permanent, unrecoverable data loss.
+What is data sovereignty (besides difficult to spell)?
+Wikipedia’s data sovereignty definition is simple: “Data sovereignty is the idea that data [is] subject to the laws and governance structures within the nation it is collected.”
+This may sound abstract and obvious at the same time, but it is the source of important requirements for organizations to protect and manage their (and their data subjects’) data in line with local and international laws, thereby complying with the general governance of the jurisdictions where the data has traveled across and is stored – not only where the company is located.
+What are the 7 requirements of data sovereignty?
+Some of the requirements of data sovereignty that may impact data management include data residency, data accessibility, data privacy, data retention, data transfer, data auditing, and backup. Let's look more into these (with potential use case):
+1. Data residency:
+This refers to the requirement that data must be stored within a specific geographical location and is subject to the laws and regulations of that region.
+Examples:
+- A multinational company with operations in the European Union (EU) is required to store all customer data within the EU to comply with the General Data Protection Regulation (GDPR).
+- A government agency in Australia is required to store all citizen data within the country's borders to comply with the Privacy Act 1988.
+2. Data accessibility:
+This refers to the requirement that data must be accessible to authorized personnel only and that access controls must be in place to prevent unauthorized access to sensitive data.
+Examples:
+- A financial institution is required to implement strict access controls to its customer data, allowing only authorized personnel to access sensitive information such as account balances and transaction history.
+- A healthcare provider is required to secure its electronic health records system to ensure that only authorized clinicians and staff can access patient information.
+3. Data privacy:
+This refers to the requirement that data must be protected from unauthorized access or disclosure, and that personal data must be collected and processed in accordance with privacy laws.
+Examples:
+- A technology company is required to comply with the California Consumer Privacy Act (CCPA) and allow consumers to control the collection, use, and sharing of their personal information.
+- An e-commerce website is required to comply with the EU's GDPR and obtain explicit consent from its customers before collecting and processing their personal data.
+4. Data retention:
+This refers to the requirement that data must be retained for a specific period of time, and that appropriate measures must be in place to ensure the secure storage and disposal of data when it reaches its retention period.
+Examples:
+- A government agency is required to retain certain types of data for a specific amount of time, such as five years, to comply with relevant regulations and laws.
+- An accounting firm is required to keep financial records for a minimum of seven years to comply with tax laws.
+5. Data transfer:
+This refers to the requirement that data must be transferred in a secure and controlled manner and that data transfers across borders must comply with data privacy laws and regulations.
+Examples:
+- A multinational company is required to comply with the EU-U.S. Privacy Shield framework when transferring personal data from the EU to the United States.
+- A cloud service provider is required to implement strict security measures and encryption when transferring customer data over the internet to prevent unauthorized access or breaches.
+6. Data auditing:
+This refers to the requirement that data must be auditable and that appropriate logs must be kept to allow organizations to track access to and use of sensitive data.
+Examples:
+- A bank is required to maintain a log of all access to its customer data and regularly audit these logs to ensure compliance with security and privacy policies.
+- A government agency is required to maintain a comprehensive audit trail of all data transactions, including the creation, modification, and deletion of data, to comply with internal policies and regulations.
+7. Data backup:
+This refers to the requirement that organizations must have a robust data backup and recovery strategy in place to protect against data loss or corruption.
+Examples:
+- A large enterprise is required to implement a disaster recovery plan that includes regular backups of critical data to ensure business continuity in the event of a system failure or data loss.
+- A software development company is required to store multiple copies of its source code in secure offsite locations to protect against data loss or corruption.
+Complying with legal requirements for data transmission: Understanding the importance of data sovereignty
+Complying with the foreign legal requirements associated with data transmission across borders “is an important matter because the location of data storage directly affects the applicability of local privacy legislation” (Data Sovereignty: A Review). If you don’t know where your data lives, you can’t be fully aware of the laws to which you are subject.
+Even if you know where your data is stored, you may still need to choose or control its physical location. It can be complicated (and potentially quite risky) to store data in regions whose rules you don’t understand or whose rules may conflict with your own country’s rules, impacting your data availability, your data compliance, and ultimately your data security. Your ability to choose data center location becomes even more important with legislation such as NIS2 and the GDPR.
+SaaS data management for compliance in the GDPR landscape
+By now, many of us have experienced the changes that followed the European Union’s implementation of the GDPR, where the fundamental right for data protection of data subjects is protected, resulting in an increased awareness (and increased requirements) regarding the handling of data by organizations.
+The GDPR brought about new obligations for organizations to be transparent about their data collection and processing practices, to obtain clear consent for the use of personal data, and to implement appropriate technical and organizational measures to ensure the security of personal data.
+Additionally, the GDPR also established the right for individuals to request access to their personal data and the right to have it erased. These changes have led to a heightened sense of responsibility among organizations for how they handle and process data and have helped to increase trust in the digital economy.. Learn more about compliance and GDPR here.
+Data sovereignty made easy: Independent data centers with no-transmission guarantees
+In the convoluted world of data sovereignty and data compliance, there are steps that organizations can take to, as designer Ed Heinemann termed, “simplicate [sic] and add lightness” to their data management strategy.
+For instance, storing data in data centers that offer no-transmission guarantees—guarantees which ensure data will not leave the selected data region—means no surprises in terms of litigation due to the confidence of knowing exactly where data is stored. One way of achieving this is by deploying a global data center strategy focused on (and committed to) guaranteeing that no data leaves the customer’s chosen data center region.
+Keepit is a cloud-based data protection and backup solution that provides businesses and organizations with a secure and reliable way to store and protect their data. By offering a no-transmission guarantee, Keepit allows you to store your data in a specific region and guarantees that your data will never be transmitted or moved outside of that region – vital for businesses that have regulations or concerns around data sovereignty, privacy, or data residency.
+By providing a choice of where your data is stored, Keepit helps ensure that you remain in control of your data and that it is protected in accordance with your specific requirements and needs.
+Keepit also offers a range of other features designed to help you protect your data, including automatic backup and recovery, versioning, and disaster recovery options for a suite of SaaS applications such as Microsoft 365, Azure AD, and Salesforce – to name a few. These features help to ensure that your data is always available and accessible when you need it, and that it can be recovered in the event of data loss or corruption.
+Read Business Wire's article on Keepit opening two new Canadian data centers.
+“Superior data center strategy”
+Comply with data protection laws and secure your cloud data with Keepit's global data center strategy. No-transmission guarantees and multi-regional options. Learn more about Keepit data centers here.
+Keepit, in their latest data center additions—this time in the Canadian market—has a global footprint that spans six regions: the US, the UK, Germany, Denmark, Canada, and Australia. Read Business Wire's article on Keepit opening two new Canadian data centers.
+Aside from the legal and compliance benefits, there are many other gains to be had from deploying a dedicated SaaS data protection solution.

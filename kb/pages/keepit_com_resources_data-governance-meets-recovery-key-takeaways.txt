@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/resources/data-governance-meets-recovery-key-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Data governance meets recovery: Webinar key takeaways on intelligent resilience
+Data governance is no longer a back-office task — it’s a strategic pillar of cyber resilience. In today’s landscape of rapid SaaS expansion and escalating cyberthreats, disaster recovery (DR) must be built on a foundation of intelligent data governance. This was the central theme of a recent Keepit webinar, where Kim Larsen, CISO at Keepit, and Ulf Feger, vCISO and CISO Advisory Services, discussed how organizations can strengthen recovery strategies by embedding governance frameworks into their resilience planning.
+ 
+Here’s what we learned: 
+1) Cyber resilience starts with intelligent data governance. 
+Disaster recovery planning cannot succeed without a clear understanding of what data exists, where it resides, and how critical it is to operations. Intelligent data classification and governance models lay the groundwork for effective, fast recovery. 
+2) Risk ownership must be distributed across the enterprise.
+True resilience requires business units — not just IT — to take ownership of data risks. Partnering with functional leaders ensures that data is properly classified, protected, and restored based on business value. 
+3) Recovery planning must balance speed, completeness, and cost.
+Modern recovery plans must not only aim for rapid response but also ensure the completeness of recovered data — all while managing cost-effectiveness. Organizations need to prioritize business-critical data and services to ensure continuity during a disruption.
+Continue the conversation: 
+Our key takeaways document includes all essential insights, including: 
+- A structured approach to building resilience
+- Best practices for your data governance strategy
+- Key considerations for recovery success
+Download our webinar handout now to strengthen your disaster recovery strategies, enhance cyber resilience, and ensure operational continuity at all times.

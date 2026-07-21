@@ -1,0 +1,54 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/restore-team-channels-and-posts/
+Content type: Web page
+Last modified: 2026-06-30T01:51:14+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore team channels and posts
+Team channels data can be restored at various levels: all of a team's channels, an individual channel, or an individual post.
+Restoring a channel brings back all conversations, but not Wiki pages. Wiki pages cannot be restored, only shared and downloaded.
+When a channel is restored, the service account used for the backup will become an owner of the channel and accordingly will be backed up as such in the next backup.
+A channel deleted within the last 30 days can be restored, but it will be renamed with a suffix indicating the restore timestamp.
+Restore channel data
+1. Find the group in your connector and then navigate to the data you want to restore:
+- To restore all of a team's channels, locate the Channels folder.
+- To restore an individual channel, open the Channels folder and then locate the channel.
+- To restore an individual post, navigate Channels > channel name > Posts, then locate the chat message.
+2. Select ••• > Restore.
+Restore Teams shared channels
+To restore shared channels, you must first ensure that the service account is assigned a proper admin role.
+You have two options:
+- Assign the Privileged Role Admin role as well as the Teams Admin role.
+- Assign the Global Admin role
+After you complete the restore, you can remove the above listed admin roles.
+What happens to channel data when it is restored?
+Restored channel data
+- Restoring the Channels folder brings back all channels of a team, including all posts and replies.
+ If the channel still exists in Teams, deleted and edited messages will be added to the bottom of the posts feed. All existing messages that have not been edited will be skipped.If the channel has been deleted from Teams, the channel with all posts will be restored.
+- Restoring an individual channel brings back all deleted and edited posts of a channel, including all replies. Existing posts that have not been edited will be skipped.
+- Restoring an individual post brings back all replies. The message will be restored as a new one at the end of the channel's posts.
+Renamed general channels
+When you restore a general channel that has been renamed:
+- The renamed channel will be restored with all its content (messages, files, etc.) and its new name.
+- The original channel with the name "General" will also be restored, but this channel will be empty.
+Shared channels
+A shared channel is restored as a standard channel.
+Channel announcements
+Headline background images bigger than 4 MB are not restored. In this case, the default color will be restored.
+Channel permissions
+Channel permissions are not restored.
+Replies
+If a reply was deleted or edited, then it can be restored by restoring the main message, even if the main message was not deleted. The reply is restored at the end of all the replies.
+Message sender and timestamp
+All restored messages and replies will be posted by the service account. The name of the original sender will be found in the body of the message as a header inside a green box.
+The timestamp will reflect the date that the message was restored, not the date that it was sent.
+Original messages
+Restored messages
+Message Attachments
+All files, such as images, Word documents, etc., that are attached to messages are saved in the channel in the Files tab and in the team's SharePoint site.
+In Keepit, files of public channels are stored under Connector name > Groups & Teams > Group name. A link to this folder can also be found in the channel's folder. These files are not automatically recovered when restoring a group's channel. The group's Files folder must be restored separately.
+Files of private channels are stored in the channel's Files folder and are automatically returned to Teams when restoring the channel.
+Other Elements of Messages
+Embedded text and other items such as code snippets, gifs, stickers, and emojis are restored.
+Reactions to messages are not restored.

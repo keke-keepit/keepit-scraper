@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/help/zendesk-category/restore-zendesk-data/
+Content type: Web page
+Last modified: 2025-11-19T15:52:50+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Zendesk data
+Items are restored in place to their original locations.
+Restore a Zendesk item
+1. In your connector, find the item you want to restore.
+Note: To restore multiple items at a time, select the items. In the toolbar, select Restore.
+2. Optional: If you want to restore an item from an earlier point in time, select the Snapshots Viewer, and then select the appropriate snapshot.
+3. Point to the item and click ••• > Restore.
+4. Select Yes to restore the item.

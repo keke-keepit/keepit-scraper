@@ -1,0 +1,33 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/restore-onedrive-data-with-the-restore-wizard/
+Content type: Web page
+Last modified: 2026-06-30T00:34:01+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore OneDrive data from the connector level
+To restore the entire OneDrive of a user, or the OneDrives of more than one user at a time, use the connector-level restore.
+To restore one OneDrive file, use the Item Restore.
+Restore OneDrive data
+1. To start the connector-level restore, select your connector's Restore icon.
+2. Select Restore > Next.
+3. Select a snapshot from the time you want to restore. Then click Next.
+4. Select OneDrive > Next.
+5. Select users you want to restore. Then click Next.
+6. Select where to restore the data.
+Note: The "to new folder" option is only available for connectors created before the release of Keepit 10.11.0 (September 2025).
+7. If you selected In-place, select how to handle duplicate items:
+- Skip duplicate items: Modified items (same item but with different timestamps) will be skipped.
+- Rename duplicate items: Modified items (same item but with different timestamps) will be added and renamed. The suffix "(1)" will be added to the filename.
+- Overwrite existing items Modified items (same item but with different timestamps) will be overwritten.
+8. Select how to handle versions. Then click Next.
+If you selected in-place:
+- Restore only last Microsoft file version: The most recent version of each file will be restored as a new file version.
+- Restore all Microsoft files versions: All existing versions of each file will be overwritten and restored versions will receive new modified dates.
+If you selected to new folder:
+- Restore last Microsoft file version: The most recent version of each file will be restored.
+- Restore all Microsoft file versions: All versions of all files will be restored.
+Note: For this type of restore, the folder must still exist on the tenant. If the folder has been deleted, first create in Microsoft 365 a new folder with the same name as the original folder. Then you can proceed with the restore.
+9. Review the summary and then click Restore.
+Important: Items present in OneDrive but not in the snapshot will be deleted.
+Restored OneDrive versions will retain their original owners, editors, and modified dates.

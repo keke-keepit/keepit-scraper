@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/blog/cyber-storage-dora/
+Content type: Web page
+Last modified: 2026-01-21T15:27:57+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Cyber storage and DORA: Why true backup is central to operational resilienceÂ
+The Digital Operational Resilience Act (DORA) is now in force across the European Union, setting a new standard for how financial institutions manage ICT (information and communication technology) risk and ensure operational resilience.
+DORA doesn’t just encourage resilience — it mandates it. For banks, insurers, investment firms, and other regulated entities, that means proving the ability to recover data quickly, completely, and securely after a disruption.
+Yet not all “backups” meet that bar. Many organizations still rely on cloud snapshots or synchronized copies stored in the same logical infrastructure as production data. These may offer convenience, but they fall short of the true backup principles that DORA implies — especially around separation, immutability, and verifiable recovery.
+At the heart of those principles is control: the ability to retain authority over your own data, regardless of what happens. This is where cyber storage becomes essential — not merely storing data but protecting it according to the resilience standards DORA now enforces.
+What DORA actually requires
+DORA doesn’t mention “cyber storage” by name, but its language — particularly in Article 12 — sets clear expectations that align with cyber storage fundamentals. Among the key provisions are:
+- Organizations must establish backup systems governed by formal backup policies, including periodic testing and documented recovery procedures.
+- Backup systems must be physically and logically segregated from the production ICT systems they protect.
+- Restorations must preserve the integrity and confidentiality of data, with multiple checks and reconciliations to ensure accuracy.
+- Recovery time and recovery point objectives (RTOs and RPOs) must be appropriate for critical functions and achievable even under severe disruption.
+In short, DORA enforces a high bar: Backups must be resilient, verifiable, isolated, and capable of restoring operations safely and swiftly.
+From backup to true backup
+The term backup is widely used, but not always accurately. A synchronized copy in the same cloud or a versioned snapshot inside the same tenant is not a true backup. If a ransomware attack, cloud outage, or credential compromise affects your production environment, these copies are often just as vulnerable. Under DORA, that’s no longer acceptable.
+A compliant backup must be physically and logically segregated from the production system
+A compliant backup must be physically and logically segregated from the production system — and this is precisely the design principle behind true backup and the 3-2-1 rule: Three copies of data, on two different media, with one stored offsite.
+In a SaaS and cloud-first world, this “offsite” element translates to independent infrastructure — an isolated environment built for immutability and recovery assurance, often referred to as air gapping. It also ensures that organizations stay in control of their data at all times — able to access, restore, and verify it independently, without relying on the same systems that might have failed.
+That’s what defines cyber storage: a modern, purpose-built approach to backup that eliminates shared-risk dependencies and ensures that data remains recoverable, even when everything else fails.
+It’s designed to be a proactive defense against threats like ransomware by embedding security measures such as immutability, anomaly detection, and access controls directly into the storage system itself.

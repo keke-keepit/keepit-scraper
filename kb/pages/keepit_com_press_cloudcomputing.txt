@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/press/cloudcomputing/
+Content type: Web page
+Last modified: 2025-08-20T02:24:11+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit receives 2024 Backup and Disaster Recovery Award from Cloud Computing Magazine
+Keepit platform honored at the 2024 Backup and Disaster Recovery Awards, underscoring the company’s commitment to intelligent recovery.
+Copenhagen, Denmark – January 27 – Keepit, a global provider of a comprehensive cloud backup and recovery platform, announced today that TMC, a global, integrated media company, has named the Keepit platform as a 2024 Cloud Computing Backup and Disaster Recovery Award winner, presented by TMC’s Cloud Computing Magazine.
+Headquartered in Copenhagen with offices and data centers globally, Keepit future-proofs cloud data for organizations, ensuring business continuity and access to information.
+The Cloud Computing Backup and Disaster Recovery Award recognizes technologies and vendors that have built cloud solutions that empower businesses small or large to remain active and productive under even the most challenging conditions, minimizing lost business opportunities.
+“Intelligent recovery is the cornerstone of data resilience. By ensuring your SaaS data is always secure, you can be confident in your business continuity plan. The Keepit platform makes it easy to prepare for the worst, while also enhancing current business practices through cost-efficient data protection. We’re excited to receive this honor from Cloud Computing Magazine,” says Michele Hayes, CMO at Keepit.
+“Recognizing excellence in the advancement of cloud computing technologies, Cloud Computing magazine is proud to announce the Keepit platform as a recipient of the Cloud Computing Backup and Disaster Recovery Award,” said Rich Tehrani, CEO, TMC. “Keepit is being honored for their achievement in bringing innovation to the market, while leveraging the latest technology trends.”
+About Keepit:
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 15,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on LinkedIn.
+About Cloud Computing Magazine:
+Cloud Computing magazine is the industry's definitive source for all things cloud - from public, community, hybrid and private cloud to security and business continuity, and everything in between. This online magazine published by TMC assesses the most important developments in cloud computing not only as they relate to IT, but to the business landscape as a whole.
+About TMC
+TMC provides global buyers with valuable insights to make informed tech decisions through our editorial platforms, live events, webinars, and online advertising. Leading vendors trust TMC, thought leadership, and our events for branding, thought leadership, and lead generation. Our live events, like the ITEXPO #TECHSUPERSHOW, deliver unmatched visibility, while our custom lead generation programs and webinars ensure a steady flow of sales opportunities. Display ads on trusted sites generate millions of impressions, boosting brand reputations. TMC offers a complete 360-degree marketing solution, from event management to content creation, driving SEO, branding, and marketing success. Learn more at www.tmcnet.com and follow @tmcnet on Facebook, LinkedIn, and X.
+TMC Contact:                                                                                        
+ Michelle Connolly
+Senior Marketing Manager
+ 203-852-6800, ext. 170
+ mconnolly@tmcnet.com

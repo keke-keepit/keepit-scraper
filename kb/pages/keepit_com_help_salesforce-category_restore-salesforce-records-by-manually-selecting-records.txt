@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-records-by-manually-selecting-records/
+Content type: Web page
+Last modified: 2025-12-08T13:44:02+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Salesforce records by manually selecting records
+Follow these steps to restore Salesforce records by manually selecting records.
+1. On the Connectors page, point to the connector and click the Restore icon.
+2. Select where to restore:
+- If you select to restore to the same location, click Next. The records will be restored to the same environment.
+- If you select to restore to a different location, choose whether to a sandbox or production, and then click Sign in.
+ You will be redirected to the Salesforce sign-in page where you must enter your Salesforce System Admin user account credentials for that environment.
+3. Select a snapshot from the time you want to restore and click Next.
+4. Select Manually select records and click Next.
+5. Select the records you want to restore and click Next.
+Tips:
+- Select objects to automatically select all such record types. Individual records can then be explicitly excluded.
+- Use the filter fields to help you find the records.
+- Preview the records to ensure you have included what you need
+6. Select whether to also restore related records and click Next.
+If enabled, all related objects will be selected by default. You can deselect any objects you don't want to include. Related objects that are dependent on others and cannot be excluded.
+Note: Restoring a related record will also restore all its child records in the hierarchy, including associated files and attachments.
+7. Select whether to restore specific fields and anonymize data. Click Next.
+Anonymizing fields replaces sensitive data with dummy data. 
+Note: Certain fields such as ID and Name must be restored.
+8. Review the summary and click Restore.

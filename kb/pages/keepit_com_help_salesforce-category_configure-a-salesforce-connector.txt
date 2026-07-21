@@ -1,0 +1,14 @@
+Source URL: https://www.keepit.com/help/salesforce-category/configure-a-salesforce-connector/
+Content type: Web page
+Last modified: 2026-02-23T20:23:02+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Configure a Salesforce connector
+To edit your connector's configuration, select the gear icon to the right of your connector.
+Here you can:
+- Change the name of the connector.
+- Configure the number of API requests usage by moving the toggle bar.
+- Manage user access to the connector by selecting the lock icon in the lower-right corner.
+- Limit the retention period of the connector by selection the calendar icon in the lower-right corner.

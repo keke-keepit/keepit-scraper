@@ -1,0 +1,56 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-list-of-all-connectors/
+Content type: Web page
+Last modified: 2026-04-01T10:25:45+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve list of all connectors
+This command retrieves a list of all connectors in the account.
+API request
+Method GET
+/users/{account_id}/devices
+Example
+Method GET
+https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/devices
+Response
+Code: 200 OK
+Response body (partial):
+<devices>
+    <cloud>
+        <guid>8opt1k-sz7yls-ghya4c</guid>
+        <created>2021-12-02T13:42:32Z</created>
+        <name>Google Workspace Backup</name>
+        <type>gsuite</type>
+        <uri></uri>
+        <login></login>
+        <password></password>
+        <backup-retention-updated>2022-02-09T10:50:57Z</backup-retention-updated>
+    </cloud>
+…PowerShell script
+try {
+    $username = '<API Token username>'
+    $password = '<API Token password>'
+    $hostname = 'dk-co.keepit.com'
+    $userId   = '<Account GUID>'
+     $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $response = Invoke-WebRequest -UseBasicParsing -Uri "https://${hostname}/users/${userId}/devices" -Method GET -Headers $headers -TimeoutSec 10 -ErrorAction Stop
+    $xmlContent = [xml]$response.Content
+    foreach ($device in $xmlContent.devices.ChildNodes) {
+        Write-Host "Connector: $($device.Name)"
+        foreach ($property in $device.ChildNodes) {
+            Write-Host "  $($property.Name): $($property.InnerText)"
+        }
+        Write-Host
+    }
+}
+catch {
+        $line = $_.InvocationInfo.ScriptLineNumber
+        Write-Host "Cannot query Keepit API due to: $_"
+        Write-Host "at line $line"
+}Script result
+Connector: Google Workspace Backup guid: 8opt1k-sz7yls-ghya4c created: 2021-12-02T13:42:32Z name: Google Workspace Backup type: gsuite uri: login: password: backup-retention-updated: 2022-02-09T10:50:57Z

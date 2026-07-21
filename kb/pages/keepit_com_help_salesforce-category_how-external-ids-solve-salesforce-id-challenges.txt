@@ -1,0 +1,20 @@
+Source URL: https://www.keepit.com/help/salesforce-category/how-external-ids-solve-salesforce-id-challenges/
+Content type: Web page
+Last modified: 2025-03-11T20:14:25+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How external IDs solve Salesforce ID challenges
+When a record is restored in Salesforce, it’s assigned a new Salesforce ID. However, by storing the original Salesforce ID in a custom External ID field, you give your integrations and data warehouse a stable key to reference—even if Salesforce generates a new native ID upon restore. Here’s how that field could be used to map related records throughout the system:
+Use the Custom Field as a Consistent Key
+Any external system (like a data warehouse) can always identify the record by the original Salesforce ID, now stored in the custom External ID field. Even if Salesforce changes its own internal ID upon restore, the original ID remains intact in that custom field.
+Upsert by the Original ID
+Since the field is marked as an External ID, integrations can use it in upsert operations. That means you can insert or update records in Salesforce by matching on the original Salesforce ID, rather than the newly assigned ID.
+Maintain Relationships in the Data Warehouse
+Your data warehouse likely stores many related records pointing to the Salesforce record’s ID. By also storing the original Salesforce ID in the data warehouse, you can continue to match and join data on that key, even if the native Salesforce ID changes.
+Preserve a Single Reference Across All Systems
+All systems—Salesforce, data warehouse, and any other external apps—can share the original ID as the authoritative reference. This ensures that if an object is deleted and later recovered, the relationship does not break in external systems.
+Trigger Logic for Backup & Recovery
+A trigger in Salesforce that captures the original ID at creation or before deletion ensures the custom External ID field is always populated. When a record is restored, the new Salesforce ID doesn’t affect external lookups, because integrations rely on the unchanged external ID.
+In short, by having a stable, custom External ID field carrying the original ID, your data warehouse and other integrations can continue to sync and map related records seamlessly—even after Salesforce regenerates the internal record ID. The custom field essentially overrides the ephemeral nature of the native Salesforce ID by providing a long-term unique identifier that all systems can use.

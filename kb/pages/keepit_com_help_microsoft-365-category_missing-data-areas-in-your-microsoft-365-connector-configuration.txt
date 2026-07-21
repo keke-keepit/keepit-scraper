@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/missing-data-areas-in-your-microsoft-365-connector-configuration/
+Content type: Web page
+Last modified: 2026-06-30T00:26:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Missing data areas in your Microsoft 365 connector configuration?
+When purchasing Keepit, you allocate seats for specific data areas, which determines what will be available for backup when you create a connector.
+If certain data areas are unavailable in your connector configuration and you’d like to protect them, you’ll need to purchase additional seats.
+To do this, submit a seat purchase request through your connector configuration. Once submitted, your request will be forwarded to the Keepit upsell team, and a representative will contact you shortly to assist with the process.

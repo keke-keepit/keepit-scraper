@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/help/jira-category/requirements-for-setting-up-your-jira-backup/
+Content type: Web page
+Last modified: 2025-07-17T09:54:03+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Requirements for setting up your Jira backup
+Before setting up the Jira connector, it is highly recommended to create a dedicated user account in Jira with access to all the entities that need to be backed up.
+To grant the necessary permissions:
+1. Go to your organization's admin page admin.atlassian.com.
+2. In the top navigation, select Directory.
+3. From the Users list, locate and select your account.
+4. In the user settings panel, ensure you are viewing the correct organization — the one whose Jira site you want to connect.
+5. In the Product roles column for the selected organization, assign the App Admin role under the Jira Administration product.
+Important: Ensure this role is applied to the correct organization’s Jira instance. Roles are assigned per product per organization.
+If the admin account used to authenticate the connector does not have access to certain Jira entities, those entities will be excluded from the backup. To ensure a complete backup, including all projects, issues, schemes, filters, and other entities, individual Jira users must grant the necessary access permissions to the admin account.
+Example: Team-managed projects
+1. Go to the Jira web UI.
+2. Navigate to Project Settings > Access.
+3. Under People and access, ensure that the account triggering the backup is listed.
+4. If it's not listed:
+- Click Add people
+- Enter the email of the user
+- Select the Administrator role
+- Click Add
+This process needs to be repeated for each type of entity to ensure full access and backup coverage.

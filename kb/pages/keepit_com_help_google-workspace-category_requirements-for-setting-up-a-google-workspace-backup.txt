@@ -1,0 +1,36 @@
+Source URL: https://www.keepit.com/help/google-workspace-category/requirements-for-setting-up-a-google-workspace-backup/
+Content type: Web page
+Last modified: 2026-06-17T15:54:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Requirements for setting up a Google Workspace backup
+This article covers what you need before you set up a Google Workspace backup in Keepit.
+Supported Google Workspace editions
+Keepit supports the following Google Workspace editions:
+- Business
+- Education
+- Enterprise
+- Essentials
+- Frontline
+Keepit doesn't cover product SKUs outside the Google Workspace scope, such as Google Voice, Google Vault, Google Cloud Identity, and Google Cloud Identity Premium.
+Service account requirements
+You must use a service account with the Super Administrator role to configure the backup. This role gives the account access to data across all user accounts.
+Important: Don't remove the Super Administrator role from the service account after the initial backup. The service account must keep this role to authenticate ongoing backups and restores
+Use a super admin for the backup
+You must use a service account with the Super Administrator role to configure the backup. This role ensures the account has access to data across all accounts.
+Important: You cannot remove the Super Administrator role from the service account after the initial backup. It must retain this role to authenticate ongoing backups and restores.
+The service account doesn't need a paid Google Workspace license.
+Enable API access
+Make sure third-party apps can request unrestricted access to Google data on behalf of your users.
+To enable API access:
+1. Sign in to the Google Admin console with your administrator account.
+2. In the left-hand menu, select Security > Access and data control > API controls.
+3. Click the Settings card.
+4. Click Unconfigured third-party apps.
+5. Select (Default) Allow users to access third-party apps.
+6. Click Save.
+Install the Keepit app in Google Workspace Marketplace
+You must install the Keepit app in Google Workspace Marketplace as part of connector creation. You can do this before or during connector setup.
+For instructions, see Install the Keepit App in Google Workspace Marketplace.

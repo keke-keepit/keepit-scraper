@@ -1,0 +1,111 @@
+Source URL: https://www.keepit.com/services/backup-autodesk-forma/
+Content type: Web page
+Last modified: 2026-07-14T13:54:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup and Recovery for Autodesk Forma
+Your projects always running with full compliance, long-term retention and continuous access to all your Forma data.
+Why back up Autodesk Forma?
+Your data is your responsibility
+Autodesk operates under a shared responsibility model. It is responsible for the security and availability of the service, but you are responsible for your data. Neglecting your responsibility is a business risk.
+There is a two-layer risk of failure
+Forma runs on AWS. That means two infrastructure layers between your data and you, neither of which you control, augmenting the risk of failures or outages impacting your projects .
+There is a high risk of a ripple effect
+Forma holds the working record of a live construction project for different stakeholders, including subcontractors. Loss of data, or access to such data has a ripple effect on the chain.
+Top benefits
+Time-saving usability
+Easy to implement and intuitive, Keepit requires minimal expertise to use — while delivering confidence in your ability to swiftly recover your data whenever you need it.
+Assured data integrity
+With Keepit, you’re certain that your backups are immutable — they can’t be modified or deleted. Stored in our vendor-independent cloud, your data remains accessible at all times.
+Confidence in recovery
+With our automated backups and hot storage, you have all your data, configurations, and relationships always at your fingertips — no matter what incident is stalling your projects.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+Coverage for Autodesk Forma Build and Data Management
+- User definitions
+- User Projects
+- Project memberships
+- Roles
+- Products
+- Definitions
+- User mappings
+- Projects mappings
+- Definitions
+- Sheets
+- Sheet collections
+- Sheet versions
+- Files and folders
+- Packages
+- Issues
+- Issue comments
+- Issue attachments
+- Issue settings
+- Templates
+- Transmittals
+We continuously extend our capabilities. Find the complete, current coverage here.
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic
+Head of IT, TALKE Group Germany 
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+Frequently asked questions
+Forma holds the working record of a live construction project. A single mid-sized project can generate tens of thousands of documents and years of collaboration history, and none of it is duplicated anywhere else by default.
+The risk of losing access to that data is measurable. Construction was the most-attacked sector by ransomware in 2025, with incidents up 41% year over year and 24 days of average downtime per attack. Bouygues, a construction giant, was hit in 2020 — a documented case, not a hypothetical one.
+Autodesk's own responsibility stops at the platform. Forma runs on AWS, so two infrastructure layers sit between a customer's data and the customer, and neither is under the customer's control. Deletions in Forma today are soft deletes, and Autodesk has confirmed hard-delete is coming to its roadmap, narrowing the recovery window further. Under the shared-responsibility model that governs every SaaS application, Autodesk secures the platform, but the customer owns the data.
+An independent backup closes that gap: a vendor-neutral copy of Forma's data that exists outside Autodesk's infrastructure, so a project's history can be recovered on its own terms rather than Autodesk's.
+Keepit for Autodesk Forma backs up the Built and Data Management modules.
+Keepit offers simple, per-seat pricing. Full conditions depend on the service package you choose. For more details, visit our pricing page.
+Awarded for its broad SaaS coverage, impenetrable architecture, and ease-of-use, Keepit ensures that your Autodesk Forma data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams.
+Your data will be securely stored in Keepit’s independent cloud. We run our own data centers, operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have seven data center regions in:
+- Americas: Washington D.C., USA and Toronto, Canada
+- Europe: London, United Kingdom and Zurich, Switzerland
+- EU: Copenhagen, Denmark, and Frankfurt, Germany
+- Asia-Pacific: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always stay in that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the move with all affected customers prior to execution.
+It's real and growing. Construction was the most-attacked sector by ransomware in 2025, with incidents up 41% year over year, and affected organizations faced an average of 24 days of downtime per attack. This isn't a hypothetical risk reserved for smaller firms — Bouygues, a major construction company, was hit by ransomware in 2020, showing that scale and resources don't rule out an attack.

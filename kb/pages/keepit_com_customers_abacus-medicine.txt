@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/customers/abacus-medicine/
+Content type: Web page
+Last modified: 2026-01-07T14:37:39+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Helps Abacus Medicine Remain Secure and Agile
+Compared to Veeam, Keepit offers the most complete coverage of M365 at a competitive price point.
+Nikolaj Friis Krøyer
+Global IT Manager at Abacus Medicine
+Downtime Isn’t an Option
+For a pharmaceutical company, data loss can have significant financial and legal consequences. As a result, a long data retention period is essential. Keepit provides Abacus Medicine with the required 5-year retention period.
+For Abacus Medicine, downtime isn’t an option. In order to adhere to the 3-2-1 backup strategy, they needed to ensure a true backup—which requires a logical infrastructure separate from the primary M365 data—something The Keepit Cloud provides.
+Complete Coverage
+Since the pandemic, the 1000+ Abacus Medicine employees have been using Teams, leaving a hefty trail of files across SharePoint sites.
+In the event of data loss, you need quick and easy access to backed-up files – Keepit makes this possible. It’s very comforting to know that Keepit backs up all files shared through Teams.
+Nikolaj Friis Krøyer
+Global IT Manager at Abacus Medicine
+Granular Restore
+Another feature that sets Keepit apart is the high level of granularity. This means that the user can instantly access individual files that may have been deleted by accident, rather than having to revert to a snapshot of the entire dataset.
+The Right Choice for Abacus Medicine
+According to Mr. Krøyer, onboarding was simple and efficient. In addition, Abacus Medicine rarely finds the need to reach out to Keepit’s support team due to the intuitive and user-friendly platform features.
+Keepit is easy and intuitive. It’s pretty much a self-contained platform that requires very little monitoring.
+Nikolaj Friis Krøyer
+Global IT Manager at Abacus Medicine

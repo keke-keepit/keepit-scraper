@@ -1,0 +1,37 @@
+Source URL: https://www.keepit.com/blog/soc-2-type-1-attestation/
+Content type: Web page
+Last modified: 2026-01-21T14:20:33+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit achieves SOC 2 Type 1 attestationÂ
+Keepit has achieved its SOC 2 Type 1 attestation — a significant milestone in our security and compliance roadmap and an important step toward full SOC 2 compliance. This attestation confirms that Keepit has designed and implemented internal controls that align with the Trust Services Criteria of security, availability, confidentiality, and privacy as defined by the American Institute of Certified Public Accountants (AICPA).
+The Type 1 attestation was performed by Deloitte and covers the control environment at a specific point in time. The purpose is to assess whether an organization’s internal controls are suitably designed and implemented to meet established criteria. At Keepit, achieving this required extensive collaboration across teams and demonstrated the maturity of our internal practices and policies.
+What the SOC 2 Type 1 attestation entails
+SOC 2 is an independent attestation standard for service organizations. It focuses on non-financial reporting controls, particularly those relevant to how service providers manage and protect customer data. The Type 1 report specifically evaluates the design of controls at a fixed point in time — it does not assess operational effectiveness over a period, which is the scope of a Type 2 report.
+For Keepit, the audit process involved demonstrating the presence and documentation of 108 distinct internal controls. These controls span several domains, including:
+- Physical and environmental security — ensuring secure access to facilities and systems.
+- Human resources security — including background checks, onboarding, offboarding, and ongoing training.
+- Operations and network security — such as vulnerability management, patching, monitoring, and alerting.
+- Development and testing processes — covering secure software development lifecycle practices.
+- Privacy and data handling — defining how personal data is collected, processed, and stored in accordance with our published privacy policy.
+To validate each control, Keepit provided the auditors with formal policies, documented procedures, configuration samples, and screenshots demonstrating technical implementation. These were supported by interviews across multiple teams, including Legal, Internal IT, Security Operations, Development, Delivery, Quality Assurance, and People and Culture.
+The Privacy Trust Services Criteria was fully owned by our Legal team, while Information Security took responsibility for the remaining three: Security, Availability, and Confidentiality.
+Examples of assessed controls
+While the full list of 108 controls is proprietary, several examples highlight the breadth and complexity of what was evaluated:
+- Access control policy — Keepit maintains a documented and regularly reviewed access control policy to ensure access is based on business and security requirements.
+- Compliance monitoring — Management regularly reviews compliance with information processing policies and procedures to ensure alignment with defined security requirements.
+- Secure development environments — Development and integration environments are protected and managed according to secure coding practices across the system development life cycle.
+- Risk-based controls implementation — Controls are selected and applied based on the results of formal risk assessments or third-party reviews.
+Each control was mapped to one or more Trust Services Criteria and assessed for design effectiveness — that is, whether the control, as implemented, could reasonably achieve its intended purpose.
+Why SOC 2 matters
+SOC 2 is widely recognized across industries, particularly in enterprise IT and regulated sectors. More of our customers and partners are asking about SOC 2 as part of their vendor due diligence processes. For them, this attestation provides assurance that Keepit has put structured, formal controls in place to protect their data.
+This milestone complements our ISO/IEC 27001 certification and reinforces our broader commitment to security, transparency, and continuous improvement. It also provides a foundation for the next phase of compliance work — SOC 2 Type 2.
+Looking ahead: toward SOC 2 Type 2
+Achieving SOC 2 Type 1 is not the final goal, but a critical step forward. Keepit is already preparing for the SOC 2 Type 2 assessment, which evaluates how effectively controls operate over a period of time — typically six to twelve months.
+While Type 1 looks at whether controls are designed and in place, Type 2 goes further by verifying that they are functioning consistently and effectively. The transition to Type 2 reflects both growing customer expectations and our internal standards for accountability and resilience.
+We expect to undergo the Type 2 attestation within the next audit cycle and continue to invest in maturing our security and compliance capabilities.
+Conclusion
+The successful SOC 2 Type 1 attestation is the result of diligent work across Keepit. It signals to our customers and partners that we take data protection seriously and have established a strong baseline for meeting Trust Services Criteria. As we continue our journey toward Type 2 — and beyond — we remain committed to upholding rigorous security standards, minimizing risk, and ensuring business continuity.
+Visit the Keepit Trust Center for more information about certifications, security and architecture.

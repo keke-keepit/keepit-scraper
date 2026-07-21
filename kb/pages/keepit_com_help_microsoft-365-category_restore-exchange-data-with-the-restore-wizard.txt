@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/restore-exchange-data-with-the-restore-wizard/
+Content type: Web page
+Last modified: 2026-06-30T00:30:45+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Exchange data from the connector level
+To restore large amounts of Exchange data or more than one user at a time, use the connector-level restore.
+To restore one Exchange data item, use the Item Restore.
+Restore Exchange data
+1. To start the connector-level restore, click your connector's Restore icon.
+2. Select Restore > Next.
+3. Select a snapshot from the time you want to restore, and then click Next.
+4. Select Exchange > Next.
+5. Select the users and what data areas you want to restore, and then select Next.
+Note: If you select users, you must also select at least one data type to restore.
+6. Select a restore method.
+- If you select To new folder, then click Next.
+ This is available only for Mail, Calendar, and In-Place Archive. Keepit will create a new folder where all the data will be restored to.
+ Note: For this type of restore, the folder must still exist on the tenant. If the folder has been deleted, first create in Microsoft 365 a new folder with the same name as the original folder. Then you can proceed with the restore.
+- If you select In-place, select how to handle duplicate items, and then click Next.
+ You have two options:
+ Skip duplicate items: Modified items (same item but with different timestamps) will be skipped.
+ Rename duplicate items: Modified items (same item but with different timestamps) will be added to Exchange. These items will not be renamed because they have their own unique IDs and receive new IDs each time they are restored.
+7. Review the summary, and then click Restore.

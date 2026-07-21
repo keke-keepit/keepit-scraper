@@ -1,0 +1,47 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-a-backup-summary-for-a-connector/
+Content type: Web page
+Last modified: 2026-04-01T10:27:05+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve a backup summary for a connector
+This command retrieves a backup summary for a specific connector.
+API request
+Method GET
+/users/{account_id}/devices/{connector_id}/monitoring/backup/summary
+Example
+Method GET
+https://dk-co.keepit.com/users/ 5t1sbe-s6zsgx-rtutxq/devices/11ptlk-st7sly-ggba4c/monitoring/backup/summary
+Response
+Code: 200 OK
+Response body:
+<backup-summary>
+    <last-snapshot-time>2025-06-04T00:37:04Z</last-snapshot-time>
+    <last-snapshot-size>12135</last-snapshot-size>
+    <size-change>6950</size-change>
+</backup-summary>PowerShell script
+try {
+    $username = '<API Token username>'
+    $password = '<API Token password>'
+    $hostname = 'dk-co.keepit.com'
+    $userId = '<Account GUID>'
+    $connectorId = '<Connector GUID>'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $url = "https://${hostname}/users/${userId}/devices/${connectorId}/monitoring/backup/summary"
+    $response = Invoke-WebRequest -UseBasicParsing -Uri $url -Method GET -Headers $headers -TimeoutSec 10 -ErrorAction Stop
+    $xmlContent = [xml]$response.Content
+    foreach ($node in $xmlContent.'backup-summary'.ChildNodes) {
+        Write-Host "$($node.Name): $($node.InnerText)"
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}Script result
+last-snapshot-time: 2025-06-04T00:37:04Z last-snapshot-size: 12135 size-change: 6950

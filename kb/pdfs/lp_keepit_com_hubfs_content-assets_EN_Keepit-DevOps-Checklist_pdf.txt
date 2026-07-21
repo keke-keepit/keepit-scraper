@@ -1,0 +1,142 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-DevOps-Checklist.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-07-21
+
+============================================================
+
+1
+© 2026 Keepit. All rights reserved
+Would your team 
+recover if your 
+development data 
+didn’t? 
+Continuity [ con·ti·nu·i·ty (noun) ]
+Uninterrupted access to your data, even when primary systems fail. 
+Keepit continuous. Keepit secure. That’s intelligent.
+
+2
+© 2026 Keepit. All rights reserved
+Introduction
+Your development stack is more than tools. It’s your product roadmap, your intellectual property, your 
+velocity, and your institutional knowledge. Platforms like Jira, Confluence, and GitHub sit at the center 
+of how modern teams build and ship software. 
+ 
+But two recent realities are forcing a rethink: 
+•	
+The shift away from on-premises support by Atlassian is accelerating cloud dependence 
+•	
+Even leading platforms can experience data integrity issues, including incidents impacting pull/
+merge requests 
+And here’s the uncomfortable truth: If your collaboration and development data is lost, corrupted, or 
+overwritten, most native protections won’t bring it back the way you need. 
+ 
+Here’s a quick checklist to help you quickly assess your exposure: 
+1. Do you have source code and repository protection?
+Organizations that have built strong safeguards around their development data can 
+recover deleted repositories, branches, and commits to a precise point in time, supported 
+by independent backups. They can also restore pull requests, merge history, and commit 
+metadata, preserving the full context of development activity. Protections against accidental 
+or automated deletions further reduce risk, ensuring code integrity and continuity across the 
+software lifecycle. 
+ 
+Without these capabilities, development environments become highly vulnerable. Lost re-
+positories or corrupted history are difficult—if not impossible—to fully reconstruct, especially 
+without external backups or metadata. Even small deletions can cascade into broken builds 
+and stalled workflows. Left unchecked, this risk leads to permanent loss of code history, 
+unrecoverable development work, and significant disruption to engineering productivity.
+2. Do you have work management and ticketing resilience?
+Organizations that have strong control over their work management data and processes 
+can recover issues, tickets, and workflows, along with historical sprint data and backlog 
+prioritization. Automation rules and custom workflows can be restored, and version history 
+provides visibility into changes over time. This ensures continuity across planning, execution, 
+and delivery, even in the face of disruption. 
+ 
+Without these capabilities, operational visibility and coordination quickly break down. Lost 
+tickets, missing sprint data, or broken workflows disrupt planning and execution, while the 
+lack of version history makes it difficult to understand or fix issues. Left unchecked, this 
+results in loss of product planning, delivery tracking, and overall operational continuity.
+
+3
+© 2026 Keepit. All rights reserved
+3. Do you have knowledge and documentation continuity?
+Organizations that have strong safeguards in place for preserving institutional knowledge 
+can restore pages, spaces, and attachments, with historical versions fully recoverable to 
+maintain accuracy and context. Critical runbooks and internal documentation are backed up 
+independently, and permissions and access structures can be restored, ensuring the right 
+people retain access to the right information. This supports smooth onboarding, consistent 
+operations, and continuity of knowledge across teams. 
+ 
+Without these capabilities, knowledge loss becomes a real risk. Missing documentation, lost 
+version history, or broken permissions create confusion and slow teams down. Onboarding 
+becomes more difficult without reliable resources, and day-to-day operations are impacted 
+by gaps in information. Left unchecked, this results in loss of institutional knowledge, 
+increased friction, and operational delays.
+4. Do you have ransomware and insider threat protection?
+Organizations that have built strong protections for collaboration and development data 
+integrity ensure code, tickets, and documentation are stored immutably, so they cannot 
+be altered or deleted, and backups are isolated from production environments to prevent 
+attackers from compromising both at once. Teams can roll back malicious or unauthorized 
+changes and rely on tested recovery scenarios for compromised developer accounts. This 
+enables a clean, controlled recovery that preserves trust in development systems. 
+ 
+Without these protections, the risk is severe. Attackers or unauthorized changes can corrupt 
+code, tickets, and documentation—and potentially impact backups—eliminating any reliable 
+recovery point. Without the ability to roll back changes or execute a proven recovery process, 
+issues can spread quickly across systems. Left unchecked, this results in widespread data 
+corruption with no clean path to recovery, forcing prolonged disruption and complex rebuild 
+efforts. 
+5. Do you have operational recovery capabilities?
+Organizations that have built a recovery model that supports both speed and precision 
+across their collaboration and development environment can perform full environment 
+restores across tools while also executing fast, granular recovery of repositories, tickets, or 
+documentation. Recovery time objectives (RTOs) are clearly defined and achievable, and 
+the process does not rely on manual exports or scripts. This ensures consistent, predictable 
+recovery and keeps engineering teams productive even during disruptions. 
+ 
+Without these capabilities, recovery becomes slow and error-prone. Limited restore options, 
+unclear RTOs, and reliance on manual processes introduce delays and inconsistencies. Even 
+small issues can escalate into broader outages that stall development work. Left unchecked, 
+this results in prolonged downtime and significant loss of engineering productivity.
+
+4
+6. Do you have platform dependency and change risk?
+Organizations that have reduced their dependence on vendors for data protection and 
+recovery don’t rely solely on native retention policies and are prepared for platform-level 
+changes, such as shifts to cloud-only models. With the ability to recover data independently 
+of vendor availability and clear contingency plans for service disruptions, they maintain 
+control and continuity regardless of external changes. 
+ 
+Without these capabilities, organizations are tightly coupled to vendor performance and 
+decisions. Changes to platforms, outages, or limited retention policies can quickly disrupt 
+access to critical data. If recovery depends on the vendor, options become limited during 
+incidents. Left unchecked, this risk results in vendor-driven disruptions that directly impact 
+your ability to operate.
+7. Do you have compliance, audit and IP protection?
+Organizations that have strong governance and protection in place for their development and 
+operational data maintain audit trails of changes across repositories and tickets, can support 
+legal hold and forensic investigations, and ensure backup data aligns with compliance 
+requirements. Intellectual property is further protected through independent recovery, giving 
+teams the ability to restore critical assets without relying on a single system. This creates 
+defensibility, traceability, and confidence in how data is managed and protected. 
+ 
+Without these capabilities, organizations face significant legal and compliance exposure. 
+Limited auditability, inability to support investigations, and gaps in backup coverage 
+make it difficult to prove control over data. Intellectual property becomes vulnerable to 
+loss or compromise without a reliable recovery path. Left unchecked, this risk can lead to 
+compliance failures, legal challenges, and increased exposure of critical assets.
+Now, assess your risk
+If you can’t say “yes” to all these questions, then it’s time to take a deep-dive into better 
+understanding your vulnerabilities. Request a meeting with a Keepit resilience expert to assess 
+potential gaps in the protection and recoverability of your critical data across Jira, Confluence, and 
+GitHub. 
+Better understand your organization’s exposure to data loss, operational disruption, and platform-
+related risk before missing code, tickets, or documentation impact delivery and business continuity.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a 
+vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and future-
+proof data protection. Headquartered in Copenhagen with offices and data centers worldwide, more than 
+20,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on LinkedIn.
+© 05/15/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Your data. Here today. Here tomorrow.

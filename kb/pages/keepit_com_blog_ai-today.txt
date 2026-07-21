@@ -1,0 +1,59 @@
+Source URL: https://www.keepit.com/blog/ai-today/
+Content type: Web page
+Last modified: 2026-02-11T14:32:36+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+AI of today: Power, drift, and the discipline to stay in control
+Artificial intelligence is everywhere in today’s business conversations, and the promises are big: true transformation on a scale we have never seen as humans. The current reality is not that.
+Today, when evaluating the real use and benefits of AI, it’s mostly about automation and augmentation, resulting in two significant challenges for most companies:
+1. Trying to control their users in how they use AI at will (with lots of corporate data ending up in the public domain)
+2. Trying to gain enough operational control so they can implement and adopt AI where it really transforms the company’s trajectory.
+The lack of controls is bringing a lot of initiatives to a screeching halt. Yes, there's a lot of positive movement because of AI, but we’re also adding — at an alarming rate — to the illusion that we’re more productive, more innovative. Are we, and at what cost?
+We were told that AI would simplify operations, automate the tedious, and free teams to focus on strategy. Some of that is happening. But the reality most leaders are living is more complicated: more systems, more data moving to more places, a security landscape that feels far less secure than it did two years ago, and less obvious control over data and users.
+That tension — extraordinary capability paired with operational complexity — is the story of AI today. The question isn’t whether AI creates value. It does. The question is how to capture that value sustainably, with guardrails that let us move fast without losing our footing — without letting go of control. Because if you can’t control your data, you don’t own it.
+Our position is simple: AI makes change cheap at the surface — keeping control of your data makes change safe. Independent, immutable backup and disciplined recovery are how you keep that control.
+AI reality check — more capability, less control
+The story that AI would neatly replace workflows has given way to a more complicated reality: Automation and augmentation are landing, but governance hasn’t caught up. Users experiment across tools with most of them not authorized by the company (shadow IT). Sensitive content travels to places it shouldn’t. Security teams absorb new surfaces, while executives ask, reasonably, “Are we more secure today than yesterday?”
+Shadow usage adds pressure. Employees paste sensitive content into external tools, export conversation logs, or replicate data to “just test something.” None of this is malicious, but it erodes governance. If you don’t know where your data went, you can’t control how it’s used — or recover it cleanly when something breaks.
+So, are you more secure today than yesterday? Right now, the honest answer is this: not yet. Risk and costs are rising because control is uneven — or non-existent — especially when AI systems (and the humans using them) can change, move, or delete data at scale.
+What matters most — behavior, not model debates
+You can build AI on deterministic/statistical components or on generative models. That matters for predictability, but what matters most for SaaS data protection is behavior:
+- Non-agentic uses analyze, classify, or advise. They don’t take actions; the blast radius is small.
+- Agentic uses take actions through tools or APIs — archiving, moving, or deleting content. The blast radius is larger because the system is allowed to change things. “If a person can do it, a computer can do it” thinking leads to AI controlling AI, and without clear immutable guard rails, it’s a recipe for disaster.
+Put plainly: The more freedom an AI system has to change data, the greater the potential damage if it goes wrong — so approvals, logging, and rollback must be in place. To automate actions and insights broadly, you need to be able to make changes reversible; you need instant, granular access to your complete backup data (with high data fidelity).
+From surprises to control: Design for reversibility
+The core risk isn’t that models evolve. It’s that organizations give up control when decisions and data flows are mediated by third-party AI tools. You gain capability, but you lose sovereignty and clarity on where data went, who accessed it, and how to unwind unintended changes. Compliance and accountability don’t disappear because an agent acted in an unexpected way.
+You won’t be able to eliminate surprises in this journey, but a key safety measure and ongoing decision point is considering whether you make them reversible — and that is across the whole landscape.
+Keepit is focused on just a part of the overall ecosystem, but it’s an important part considering the ongoing adoption of SaaS to achieve business outcomes. With SaaS backup solutions, immutability is an absolute non-negotiable core capability to deliver a reliable data protection service.
+We believe the same is going to be true for agents. They have to be immutable to retain control. The immutability component with Keepit SaaS backup has shown that it’s the key thing that allows our customers to effectively deal with ransomware. Control is a key hypothesis to be vetted but without it, how do you get “control over AI?”
+Here’s how:
+- Keep independent, immutable copies of critical SaaS data across tenants and workloads.
+- Maintain point-in-time truth you can restore to — quickly and precisely.
+- Version and log the things that shape automated behavior (policies, prompts, and jobs) so you can explain a change and roll it back with confidence.
+If you can’t roll it back, you don’t control it.
+Staying in control: Recovery as a responsibility
+As AI adoption grows, many incidents won’t be malicious — they’ll be unintentional consequences: a misclassification that moves content, an automated job that wipes a workspace, a policy that over-archives. Staying in control means being able to put things back accurately:
+- What comes back (which sites, channels, mailboxes, records)?
+- From when (the “last known good” that aligns to the event)?
+- In what order (for example, identity and access configurations before collaboration data)?
+- With what approvals (bounded automation with a human in the loop)?
+This only works when you have access to the full corpus of organizational data — not just production snapshots or recycle bins as that’s always just the “current” picture and just a moment in time (the now).
+Relying on recycle bins is not a backup strategy; for AI resilience, you need independent, immutable copies that allow precise rollback to a last known good state (or any state that you have a need for).
+Unlike production data, it’s your corporate memory.
+Architecture first: Independence and predictable economics
+If you want reliable outcomes, to use data at will, and rapid recovery, you need access to the full breadth of organizational data — backups, archives, historical states, and change metadata become strategic assets. They let you detect anomalies, answer governance questions, and restore “last known good” states for both data and configurations.
+Two principles matter here:
+- Independence. Keep durable copies of critical data in an independent, immutable store. In cloud data, that means placing backup data in infrastructure that is separate from the production SaaS provider. This separation reduces correlated risk (ransomware, outages, accidental mass deletes) and provides a trustworthy baseline for audit and recovery.
+- Predictable economics. Public cloud prices and data volumes can rise faster than budgets. Choose a third-party backup that keeps data always hot and directly accessible 24/7 — with effectively unlimited retention — so you avoid rehydration penalties, tier-hopping, and surprise retrieval costs. Treat storage as a stable, immutable foundation. That way, growth is planned — not surprising.
+Data is the asset; control is the moat.
+Data is the asset; control is the moat. Independent, immutable architecture is how you keep that control and make the asset safely and cost-effectively available for recovery, audit, and analytics.
+A note on security in the age of AI
+Has AI made the world more secure? The answer is no. Security budgets have increased YoY for the last 10 years and lots of great innovation and adoption of new tooling has taken place. The reality is in 2025, we’re likely to be the least secure we’ve ever been — both as individuals and as companies and entities. What it has done is that it has significantly increased complexity and scale of the problems.
+Attackers get new tools; defenders inherit new surfaces. But disciplined architecture — independent (air-gapped), immutable data storage — lets security posture improve alongside capability. The goal isn’t absolute prevention; it’s cyber resilience. Detect fast, investigate thoroughly, and recover with confidence. What else can you do right now?
+Pragmatism over platitudes
+AI has made it easy to move and modify data — and just as easy to lose sight of where it went and who touched it. The way to harness AI isn’t wishful thinking or indiscriminate rollout; it’s retaining control to solve identified and defined problems that matter to the outcomes of a business or individual. Keep independent, immutable copies of your data, so you always have a trustworthy source of truth.
+Keep sovereignty by knowing what is stored and what has left your environment — and when. Keep responsibility with evidence: auditable histories that show why a change happened and how to reverse it.
+Do the simple, durable things. Store data independently, make recovery precise and fast, and permit automation where the blast radius is bounded. If you can always find your data, prove what happened, and put it back, you haven’t given up control — you’ve made AI safer to scale.
+This blog is part one of a three-part series on AI. The next release will be focused on AI of tomorrow, and the third blog will cover AI of the future.

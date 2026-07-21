@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/customers/sgf/
+Content type: Web page
+Last modified: 2025-11-28T13:17:04+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepitâs independent data centers help SGF ensure data sovereignty
+SGF, a recognized partner in the global automotive industry, required backup and recovery services that would help them comply with all relevant regulations. Keepit offered an easy-to-use solution that ensured compliance with regulations such as GDPR and secured SGF’s Microsoft 365 data in a vendor-independent cloud they could trust
+European data centers as the clincher
+With increasing regulations, compliance was top of mind for SGF when selecting a backup and recovery provider. “The ‘Right to be Forgotten’ feature and the presence of data centers in Europe are particularly important for us. These aspects help us meet essential regulations and standards such as GDPR and TISAX, which are critical for our compliance requirements,” says Johannes Stärk, Team leader of IT Infrastructure and Helpdesk at SGF.
+Keepit operates its own data centers in multiple regions, across the Americas, Europe, UK, and Asia-Pacific. The data center regions are completely isolated from one another, offering full data sovereignty.
+One of the standout features for us is the platform’s ease of use. It makes managing backups straightforward and efficient, which is a big plus for our team.
+- Johannes Stärk, 
+Team leader of IT Infrastructure and Helpdesk at SGF
+Ease of use to support efficiency
+An easy to onboard — and use — platform ensures that backup and recovery processes are efficient for any IT team. Keepit’s simple to use platform gives full visibility into critical data and features, such as data monitoring, enables companies to identify anomalies that may be cause for concern.
+SGF also found other platform features useful in their day-to-day operations: “I find the option to share a backup very useful. It adds an extra layer of flexibility and convenience that we greatly appreciate,” explained Johannes Stärk. 
+Cost-effective and reliable backup
+A per seat pricing model, including unlimited data storage, ensures Keepit’s services are cost-effective and easy to budget. Alongside staying compliant, the functionality of the platform and overall cost were decisive criteria for SGF.
+The greatest value, however, comes from knowing your data is in secure hands. “The reliability of backup and recovery for our SaaS data is paramount. Knowing that our data is secure and can be recovered efficiently gives us peace of mind,” says Johannes Stärk.

@@ -1,0 +1,143 @@
+Source URL: https://lp.keepit.com/hubfs/product-sheets/Why-Keepit.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+“By 2029, 80% of enterprises 
+will prioritize backup of SaaS 
+applications as a critical 
+requirement, compared with 
+20% in 2025.” 
+Gartner® , Magic Quadrant™ for Backup and 
+Data Protection Platforms, 24 June 2025*
+Strategies for managing, protecting, and recovering the 
+exponentially growing amount of data in SaaS applications 
+haven’t kept pace with the rapid adoption of SaaS.  
+Companies now manage an average of 106 SaaS applications* 
+— a scale that demands stronger controls and smarter 
+governance.. 
+The challenge is clear: Legacy technologies and outdated 
+tactics fail to effectively protect SaaS data.
+Keepit is the intelligent choice for SaaS data protection. Intelligently built in the cloud for the 
+cloud, it ensures immutable, sovereign backups and instant access to all data with actionable 
+insights. Its intelligent recovery saves you time and reduces complexity, so your teams can 
+stay focused on what matters. 
+*2025 State of SaaS Trends - Better Cloud
+© 2026 Keepit. All rights reserved. 
+*Gartner and Magic Quadrant are registered trademarks of Gartner, Inc. and/or its affiliates in the U.S. and internationally and are used herein with permission. 
+All rights reserved.
+Vendor-independent cloud
+•	 Keepit owns its infrastructure, 
+independent from public cloud 
+providers and hyperscalers
+•	 Backups remain segregated from  
+production and compliant with 
+the highest security standards
+Uniform platform across 
+applications
+•	 Single pane of glass for 
+all SaaS applications
+•	 Streamlined processes for 
+optimal productivity
+Predictable and stable cost. 
+No fine print
+•	 Pricing based on seats 
+with unlimited storage 
+•	 Up to unlimited 
+customizable retention 
+•	 Zero fees for data ingress, 
+egress, or transfer
+Time-saving usability
+•	 With no need for maintenance 
+or infrastructure, your staff can 
+focus on core activities 
+•	 Easy setup and intuitive interface 
+speed up adoption and processes
+INTELLIGENT CHOICE
+Secure, unified, cost-effective
+Cost over data 
+Storage
+costs
+Time
+Keepit
+Other providers
+The only vendor-independent, cloud-native platform 
+for intelligent SaaS data protection
+
+Instant access to all 
+versions of your data
+•	 Always hot storage, no 
+hydration periods
+•	 No matter how old, 
+instantly preview, share, 
+or restore data objects 
+•	 Intuitive search function
+Flexible restore options 
+•	 Allows restore in bulk or 
+granularly, delivering fast 
+and precise recovery
+Transparency and 
+accountability
+•	 Customizable alerts and 
+reports to document 
+compliance and disaster 
+recovery preparedness
+Actionable insights
+•	 Consolidated view over the 
+health and performance of 
+backup and recovery jobs 
+•	 Early warnings for anomalies 
+and threats to data integrity 
+•	 Secure integrations with 
+AI and security tools
+INTELLIGENT RECOVERY
+Flexible, intuitive, precise
+Cloud-native data protection 
+•	 Scalable and adaptive, unlike on-prem 
+solutions retrofitted for the cloud  
+•	 Purpose-built, Keepit works smoothly 
+across SaaS applications 
+•	 No infrastructure and maintenance costs associated 
+with on-premises or hybrid alternatives 
+Secure and encrypted
+•	 AES encryption employed directly 
+on our storage systems  
+•	 Advanced encryption standards 
+both in transit and at rest  
+•	 Keepit exchanges traffic directly with workload 
+providers over major internet exchange 
+Immutable backups by design
+•	 Built so that it’s impossible to change or delete 
+files, guaranteeing true immutability
+Data sovereignty 
+•	 Data stays protected in the chosen region 
+•	 Own data centers in seven countries on three continents
+INTELLIGENTLY BUILT
+Scalable, immutable, compliant 
+© 2026 Keepit. All rights reserved.
+
+Tried, tested, and proven
+Recognized by the industry
+“The fact that Keepit is “born in the cloud for the cloud” 
+allowed the customer to quickly and efficiently recover 
+from this cybersecurity incident with minimal impact – a 
+benefit which would have been near impossible to reach 
+with a classic on-premises backup solution.”
+	| - Siddick Elaheebocus, Founder and CEO of INNOVISION
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+“With Emmi’s international business activities, it 
+was also important that technology partners could 
+provide a globally available and scalable offering. 
+Keepit is proving to be the ideal partner for mastering 
+the challenges of a globally active dairy.” 
+	| Marc Baumann, Lead Data Platform Services, Emmi
+Find out how simple and 
+easy it is to use Keepit
+Book a demo

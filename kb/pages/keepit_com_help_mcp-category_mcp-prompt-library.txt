@@ -1,0 +1,127 @@
+Source URL: https://www.keepit.com/help/mcp-category/mcp-prompt-library/
+Content type: Web page
+Last modified: 2026-05-20T10:49:28+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+1. Daily health checks
+Start your morning with these. Quick queries to confirm everything is running and catch issues early.
+Full estate overview
+Count all connectors, list their GUIDs, and show each connector’s current health status.
+Unhealthy connectors
+Do I have any unhealthy connectors? Show the connector name, GUID, and the reason for the health issue.
+Snapshot freshness
+Show me connectors with latest snapshot older than 24 hours. Include the latest snapshot timestamp and how many hours ago it was, sorted by staleness.
+Health exceptions
+Flag any connectors whose health is not OK or Warning. Include the reason returned by the health check.
+Coverage gaps
+Identify connectors that have never completed a successful snapshot.
+Active jobs check
+What backup jobs are running right now? Flag any that have been running for 2 hours or more.
+Quick failure scan
+Show me failed audit logs from the last 6 hours.
+Morning summary
+Give me a morning health summary: total connectors, how many are healthy vs unhealthy, any snapshots older than 24h, and any currently running jobs that seem stuck.
+2. Incident response
+Use these when investigating an outage, failure, or unexpected behavior. They combine multiple data sources for fast root cause analysis.
+Full outage investigation
+We had an outage yesterday. For all connectors: show health status now, show job history for P2D with any spike in failures, show audit logs for P2D with any config changes or unusual admin activity, and cross-reference which connectors had both failed jobs AND audit events within the same 2-hour window.
+Job outcome summary
+For the last 7 days of job history, summarize success vs failure counts with failure reasons grouped by type.
+Failure hotspots
+Show me the top 10 connectors by job volume in the last 7 days, with their failure rates. Highlight any with failure rate above 10%.
+Recent restore jobs
+List all restore jobs from the last 30 days. Include the connector, start time, duration, and final status.
+Failure concentration
+Over the last 30 days, list connectors with 3 or more failed jobs. For each, include the last successful snapshot time.
+Connector deep dive with correlation
+For connector [YOUR-GUID], correlate job history with audit events over the last 3 days. Were there any config changes before or during job failures?
+Activity drop-off detection
+Identify connectors with no jobs in the last 14 days but that had activity in the preceding 14 days. Something may have silently broken.
+3. SLA and RPO monitoring
+Track backup currency against your service level agreements and recovery point objectives.
+SLA breach detection
+Find connectors with latest snapshot older than 12 hours. Split them into Critical vs Non-critical groups. (Provide your own critical connector list or naming convention.)
+Cadence analysis
+For connector [YOUR-GUID], review the last 10 snapshots over the past 7 days. Are there any gaps of 24 hours or more between snapshots?
+RPO conformance report
+For these connectors: [GUID-1], [GUID-2], [GUID-3] — report snapshot currency against a 24-hour RPO target. Highlight any breaches.
+Trend shift detection
+Compare backup cadence for the last 30 days vs the prior 30 days. Have any connectors had a significant change in snapshot frequency?
+Snapshot gap analysis
+For connector [YOUR-GUID] over the last 30 days, identify any period where there was a 24-hour gap between snapshots. Also show which single day had the most snapshots.
+Rollout validation
+We deployed changes 6 hours ago. For connectors [GUID-1], [GUID-2], [GUID-3]: confirm a snapshot occurred in the last 6 hours. If not, show the most recent snapshot time.
+4. Audit and compliance
+For compliance officers, security reviews, and audit preparation. Pull structured audit data and generate reports through conversation.
+Broad 90-day audit review
+Pull audit logs for the last 90 days. Summarize by action type, actor, and failure count. Highlight any spikes in activity or unusual actors.
+Recent failure analysis
+For the last 72 hours, list all failed admin actions. Include the actor, sanitized IP address, and error messages.
+Configuration change tracking
+Over the last 30 days, show all audit events tied to connector configuration changes. Include affected connector GUIDs and who made each change.
+Destructive action export
+Export the last 7 days of audit logs where actions include delete, purge, or disable. Sort by newest first.
+Actor activity summary
+For the last 30 days, show a breakdown of audit log actions by actor. Who has been the most active? Are there any actors with only failed actions?
+Compliance report generation
+Generate a compliance summary for the last quarter: number of protected connectors, worst snapshot staleness observed, job failure trend, and any notable audit events.
+Audit anomaly detection
+In the last 7 days of audit logs, flag anything unusual: actions at odd hours, unfamiliar actors, bulk operations, or repeated failures from the same source.
+Permission escalation check
+Review audit logs for the last 30 days. Were there any events involving permission changes, role assignments, or token creation?
+5. Change management
+Use before and after maintenance windows to validate that backups are unaffected by changes.
+Pre-maintenance baseline
+Capture current health status and latest snapshot timestamp for connectors: [GUID-1], [GUID-2], [GUID-3]. I will use this as a baseline before maintenance.
+Post-maintenance validation
+Maintenance is complete. For connectors [GUID-1], [GUID-2], [GUID-3]: re-check health status and latest snapshot. Compare against the baseline we captured earlier and report any changes.
+Post-deployment snapshot confirmation
+We deployed changes 6 hours ago. For connectors [GUID-1], [GUID-2], [GUID-3], confirm that at least one successful snapshot has occurred since then. If not, show the most recent snapshot time.
+Change window audit trail
+Pull audit logs from yesterday between 18:00 and 22:00 UTC. Show all actions taken during that maintenance window, grouped by actor.
+6. Risk and anomaly detection
+Proactive monitoring to surface problems before they become incidents.
+Risk ranking
+Find connectors with unhealthy status or snapshots 48 hours or more stale. Rank by risk: health status first, then staleness.
+Silent failure detection
+Identify connectors with no jobs in the last 14 days but that had prior activity. These may be silently broken.
+Failure pattern analysis
+Over the last 30 days, list connectors with 3 or more failed jobs. Include the last successful snapshot time for each.
+Anomalous activity detection
+In the last 7 days, flag any audit log anomalies: unusual actors, bulk operations, actions outside business hours, or repeated failures.
+Backup drift detection
+Compare snapshot cadence for the last 30 days vs the prior 30 days across all connectors. Which connectors have had the biggest change in backup frequency?
+7. Executive and weekly reports
+Summary-level views for leadership, weekly stand-ups, and board-level reporting.
+Weekly health digest
+Generate a weekly backup health report: total connectors, count unhealthy, count with snapshots older than 24 hours, top job failure reasons for the last 7 days, and any audit anomalies.
+Quarterly compliance summary
+Summarize the last quarter: total protected connectors, worst snapshot staleness observed, job failure trend over the period, and notable audit events.
+Departmental rollup
+Group connectors by name containing HR, Finance, and Legal. For each group, show: total connectors, how many are unhealthy, and how many have snapshots older than 24 hours.
+Environment comparison
+Compare connectors with "Prod" in their name vs "Non-Prod" connectors. Show snapshot freshness and job failure rates over the last 14 days for each group.
+Executive risk summary
+Give me a one-paragraph executive summary of our current backup posture: are we healthy overall, what are the top risks, and what needs attention this week?
+8. Microsoft 365 / Lokka integration
+These prompts use the Lokka integration to query Azure AD / Entra ID data from your tenant. Requires Lokka MCP to be configured.
+Tenant user overview
+Get all users in my tenant. How many total? How many are guests vs members?
+Guest user audit
+List all guest and external users in my tenant. When were they added? Are any of them in security groups?
+Disabled account check
+Find all disabled user accounts. Do any of them still have admin roles or group memberships assigned?
+Admin user inventory
+List all users with admin roles in my tenant. Include the specific role and whether the account is active or disabled.
+Group permissions review
+List all groups in my tenant and their member counts. Highlight any groups with external or guest members.
+Tips for Writing Effective Prompts
+- Be specific about time periods. Use ISO duration codes (P7D, PT6H) or natural language ("last 7 days", "since yesterday").
+- Include connector GUIDs when you want data about specific connectors. You can find GUIDs in the results of any connector listing query.
+- Ask for comparisons. MCP tools are composable, so prompts like "compare X with Y" work well.
+- Request specific output formats. Ask for tables, sorted lists, or summaries depending on what you need.
+- Chain follow-up questions. After getting results, ask deeper questions like "Why did that connector fail?" or "Show me the audit trail for that time window."
+- Use grouping language. Phrases like "group by," "split into," and "rank by" help the AI organize results meaningfully.
+- Start broad, then narrow. Begin with an overview prompt, then drill into specific connectors or time ranges based on what you find.

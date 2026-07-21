@@ -1,0 +1,33 @@
+Source URL: https://www.keepit.com/press/cio-marketpulse-survey/
+Content type: Web page
+Last modified: 2025-08-20T12:39:28+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+New Foundry survey highlights need for immutable and segregated data storage Â
+With 37% still relying solely on their SaaS application’s native backup and growing concerns over data sovereignty, updating SaaS recovery plans is a priority
+Copenhagen, Denmark — August 20, 2025— Keepit, the only vendor-independent cloud dedicated to SaaS data protection, today announced the results of its survey “Overlooked and under-protected: How the SaaS data gap threatens resilience”. The survey of senior IT decision-makers revealed that 37% of respondents rely solely on native backup capabilities, leaving organizations at risk of data loss and disruptions. Immutable, physically segregated data storage is seen as paramount alongside growing concerns over data and digital sovereignty.
+In the survey, sponsored by Keepit and conducted by Foundry for CIO MarketPulse in April and May 2025, more than 300 senior IT decision-makers in the US, Europe and Asia-Pacific[1] responded to questions related to the state of their businesses’ SaaS data protection. The responses highlighted the need for immutable, independent backup to secure business continuity and revealed possible gaps in protection.
+Key findings:
+- 37% of respondents rely solely on their SaaS applications native backup capabilities, leaving organizations at risk of data loss.
+- 11% of respondents say it would take a month or more to recover data after a loss incident — or that they may not be able to fully recover at all.
+- 61% of respondents highlight physically segregated storage as a key requirement for modern SaaS backup.
+- 49% of respondents have experienced a major data loss event in the past year.
+“It’s surprising — and concerning — that in 2025, 37% still rely solely on their SaaS application’s native backup,” says Niels van Ingen, Senior Vice President of Business Development and Strategy at Keepit. “First, most SaaS applications don’t have native backup. SaaS vendors follow a ‘shared responsibility’ model: they’re responsible for the systems and controls, while customers are responsible for their own data, accounts, and identities. Second, even when native backup is available, it’s tied to the SaaS application itself — so if you lose access to the vendor or your account, you lose access to your data. That’s why SaaS vendors themselves recommend using a third-party backup.”
+Evolving requirements put pressure on how and where you store your data
+SaaS resilience now requires infrastructure that’s purpose-built to withstand the current, increasingly complex threat environment. Growing concerns over data sovereignty and digital sovereignty is driving organizations to take a closer look at vendor architecture, dependence on global hyperscalers, the supply chain and use of sub-processors, and compliance requirements. Consequently, according to survey respondents, the top requirements for modern backup include:
+- Physically segregated storage (62%) – Data stored separately from the SaaS provider’s environment to ensure true independence in case of platform or region-level failure.
+- Immutable, encrypted storage (59%) – End-to-end encryption and immutability that prevents tampering or unauthorized deletion, with deletion controls built in at the architecture level, not simply reliant on user roles.
+- Granular access and deletion controls – To meet requirements from GDPR and new regulations such as the Digital Operations Resilience Act (DORA), organizations must be able to apply retention, access, and deletion policies with precision.
+“As the survey data makes clear, relying on native backup is no longer enough. Organizations need to ensure their data is protected independently, immutably, and in alignment with evolving sovereignty requirements. In today’s environment, control over your data location and architecture isn’t just an IT preference — it’s a business imperative,” says Niels van Ingen.
+About Foundry, an IDG Inc. company:
+Foundry helps companies bring their visions to reality through a combination of media, marketing technologies and proprietary data on a global scale. Our intent data and martech platforms are powered by data from an owned and operated ecosystem of global editorial brands, awards, and events, all engineered and integrated to drive marketing campaigns for technology companies. Foundry is dedicated to generating and innovating with data, driving demand for technology marketers with 38 offices in markets around the globe. Foundry is a wholly owned subsidiary of International Data Group, Inc. (IDG), the world’s leading tech media, data, research and marketing services company. To learn more about Foundry, visit foundryco.com
+About CIO
+CIO attracts the highest concentration of enterprise CIOs and business technology executives with unparalleled peer insight and expertise on business strategy, innovation, and leadership. CIO readers gain key insights on career development for themselves and their employees, including certifications, hiring practices, and skills development, along with a strong foundation in digital transformation of their businesses. Visit cio.com
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 18,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.
+ 
+[1] About the research 
+Foundry and Keepit conducted an online survey, “ Overlooked and under-protected: How the SaaS data gap threatens resilience” sponsored by Keepit, among 301 senior IT decision-makers. Respondents work for companies with 1,000 or more employees located in the U.S., Europe and Asia-Pacific. The research was conducted between April 20 and May 13, 2025.

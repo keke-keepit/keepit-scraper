@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/security/ransomware-recovery/
+Content type: Web page
+Last modified: 2026-03-10T15:33:36+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Gartner reveals the alarming costs of ransomware: $850,700 average ransom, but a whopping $4.54m total impact when considering downtime, people hours, device cost, network cost, and more.
+In 99% of attacks, backups and security products are targeted. It’s not if, but when ransomware strikes. How much loss can your business endure per ransomware attack?
+Read the ESG ransomware report to learn which measures organizations have in place to defend against ransomware and which best practices you can follow.

@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/data-report-2026/
+Content type: Web page
+Last modified: 2026-03-26T09:18:44+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Annual Data Report 2026
+Operational truths from real backup and restore data
+Real-world SaaS backup and recovery data — based on what organizations actually do
+The Keepit Annual Data Report 2026 is built on aggregated and anonymized operational data from our production backup environment, covering backup and restore activity from January 1, 2025 to December 31, 2025 across all active Keepit data center regions. It does not rely on surveys or self-reported behavior — only observable patterns in backup and restore activity at an aggregate level.
+This report is for IT leaders and security decision-makers who want an evidence-based view of how organizations restore SaaS data in practice.
+Key takeaways from the report
+- 9 in 10 enterprises have validated bulk recovery, demonstrating a maturity in their disaster recovery preparedness.
+- Identity systems are tested four times less often than productivity systems, even though losing identity access can prevent access to all other SaaS applications.
+- 90% of restores are single file downloads, indicating that simple data loss incidents are most common, and that IT administrators appreciate the ability to do granular, immediate recovery.
+- High-profile global outages — including major cloud and security incidents — did not lead to increased recovery testing, suggesting that even visible disruptions rarely prompt validation of recovery readiness.
+To get the full picture, download the report now.

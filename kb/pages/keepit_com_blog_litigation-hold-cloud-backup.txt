@@ -1,0 +1,42 @@
+Source URL: https://www.keepit.com/blog/litigation-hold-cloud-backup/
+Content type: Web page
+Last modified: 2025-08-20T00:20:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Is Litigation Hold a replacement for backup in Microsoft 365?
+What is Microsoft Office 365 Litigation Hold? Is it backup?
+We get asked this question often, and at face value, it’s easy to see how one could equate litigation hold with backup – both have something to do with "preserving" data.
+However, the reality is that backup and litigation hold differ on many points, and any company that fails to understand the differences between them (and the utility of each) will eventually learn the repercussions the hard way. Let’s explore the key differences between litigation hold and backup.
+What is the Definition of Litigation Hold? What is a legal hold?
+The term "litigation hold" comes from US case law (2003, Zubulake v. UBS Warburg) where the judge ruled: "once a party reasonably anticipates litigation, it must suspend its routine document retention/destruction policy and put in place a 'litigation hold' to ensure the preservation of relevant documents." This need may come in the form of a notice of litigation hold.
+What is Litigation Hold?
+In 2010, Microsoft introduced a litigation hold (sometimes referred to as legal hold) retention feature for Microsoft Exchange to support eDiscovery. The feature was intended primarily as a way of preserving data should there be a legal need to preserve it for access and viewing during a litigation. Think of it as being for documentation purposes, not as a way to restore data back in place to operating platforms like Microsoft 365.
+Microsoft later added the ability to create what they call in-place holds, which are holds based on a query (such as “find all messages containing the phrase ‘Project Starburst’). The back-end implementation of litigation and in-place holds are slightly different; you can see more details in Microsoft’s documentation.
+Let me say it again, slightly differently: Litigation hold wasn’t designed with the intention of serving as a backup service. Yet, some still try to rely on it as a backup solution, particularly to make ends meet when not having a designated data security plan (including a third-party backup solution), with the reasoning that “some sort of data preservation is better than none, right?”
+However, there are many drawbacks and substantial risks associated with these types of setups that lead to a risky, false sense of data security. Some of the shortcomings and risks of relying on litigation hold as a backup are:
+- Data storage quotas capped at only 110 GB
+- Some eDiscovery features require additional-cost licenses; if you don’t buy the licenses, you can’t use the features
+- User mailbox data is only kept while an Exchange Online license is assigned to the user. When a user leaves or becomes inactive, removing the license will eventually remove the data.
+- Recovering data needs an administrator and is a time-consuming process
+- The held data is not physically separate from the original copy
+The bottom line is that you can’t depend on litigation hold or in-place holds as mechanisms for general-purpose recovery from mistakes or disasters. That’s not what they’re meant for, and you run the risk of losing data if you try to use them for that purpose.
+What is backup?
+Backup, by definition, provides one or more additional copies of your data, stored in a location physically separate from that of your primary dataset.
+Physical separation is a fundamental facet of backup, since storing your backup data in the same location as the primary data represents a single point of failure. Effectively, there is no data redundancy in these types of setups.
+With traditional on-premises backup, the physical separation rule meant having an off-premises backup stored in another building - so that in the event of a disaster, e.g. a fire in one building, would not destroy all your data. For cloud backup, it’s fair to ask "what cloud does my backup data go to?" The answer is usually either "Microsoft Azure" or "Amazon Web Services." Ideally, you want that data going to a cloud not operated by your SaaS application vendor (so, it wouldn’t be fair to put your Microsoft 365 data into Azure); otherwise, you’re violating the physical-separation rule.
+Any service that is not providing this separation of copies is not—and should not be—considered a true backup.
+At Keepit, we talk a lot about the "3 Ms" that can cause data loss: mistakes made by people; mishaps at the SaaS application vendor; and malicious actions from inside or outside the organization.
+Following data protection best practices, a properly executed backup scheme provides against all three of the Ms if anything should happen to the primary (original) dataset: malicious action in the form of a ransomware attack or a disgruntled employee; mistakes where someone with legitimate access accidentally deletes important data (or needs to back out changes they didn’t want to keep); and mishaps, where the service provider has an outage or data loss.
+Litigation holds can’t protect you against all 3 of the Ms: there’s no physical separation, limited ability to do large-scale restores, and no real concept of version control.
+What to look for in a cloud SaaS backup solution
+Besides the must-have features of data redundancy and availability, a worthy backup solution will offer a multitude of convenience and productivity-boosting tools and services, further distancing it from litigation hold. The first thing to look for is a solution that’s purpose-built for the cloud, not a refurbished or reskinned on-premises solution. Rather, a good, dedicated third-party backup solution.
+Here are some of the key benefits to look for in a dedicated third-party backup solution:
+- Simple, quick restoration of the data you need, when and where you need it, in the format you need it
+- Direct restore from live storage, with no waiting for offline or near-line storage
+- An intuitive interface for quickly and easily finding and previewing specific files or messages before storing them
+- Secure, immutable storage in an independent cloud
+- Flexible geographic storage options to cover your data sovereignty requirements
+- A predictable and transparent cost model, with no hidden surprise charges for data ingress, egress, or storage
+For more insight into data protection in the cloud era, get an in-depth look via the e-guide on Leading SaaS Data Security. Or, if you’d like to learn more about Keepit backup and recovery services for Microsoft 365, Salesforce, Google Workspace, and others, visit our services overview page.

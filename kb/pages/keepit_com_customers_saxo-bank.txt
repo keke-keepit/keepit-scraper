@@ -1,0 +1,20 @@
+Source URL: https://www.keepit.com/customers/saxo-bank/
+Content type: Web page
+Last modified: 2026-01-24T21:29:24+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How Keepit helps Saxo Bank to navigate complex compliance
+In 2019, Saxo Bank implemented Keepit as the backup and recovery service for all employees on Microsoft 365. Saxo Bank has recently implemented Microsoft Teams and plans to introduce more features going forward in collaboration with Keepit as the trusted provider, protecting their cloud SaaS data.
+Navigating complex compliance
+A multinational financial services provider, Saxo Bank is subject to stringent compliance and regulatory control across its operations worldwide. This in turn requires an efficient search function that enables Saxo Bank to find and share specific data with its legal team within minutes. Keepit’s unique find and restore features facilitates this.
+An impressive element of Keepit's solution is that it often takes only minutes to find and share the specific item with our Legal team, whilst it often took much longer with our on-prem solution.
+Thomas Ulrich
+Head of Digital Workplace & Support Services, Saxo Bank
+Extensive archiving capability
+It was key for Saxo Bank to have backup functionality outside of the Microsoft ecosystem and meet compliance requirements as they do for Cisco phones and Skype for Business today. Keepit’s solution not only safeguards emails and files for Saxo Bank’s 1,600+ global employees worldwide, it also provides the ability to rapidly gain access to any piece of backed-up information.
+It is very important to back up our Microsoft applications in a sophisticated and fulsome manner. We considered Microsoft's backup and archiving capabilities to be insufficient for our purposes and were impressed by the scope of Keepit's backup and archiving capabilities, as well as the granularity of their restore function.
+Thomas Ulrich
+Head of Digital Workplace & Support Services, Saxo Bank
+Keepit’s customer-focused services met all of Saxo Bank's needs and process requirements from the very start. As Saxo Bank continues to implement more Microsoft 365 features, Keepit will continue to safeguard their cloud SaaS data.

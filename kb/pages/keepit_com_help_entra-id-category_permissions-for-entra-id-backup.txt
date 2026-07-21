@@ -1,0 +1,33 @@
+Source URL: https://www.keepit.com/help/entra-id-category/permissions-for-entra-id-backup/
+Content type: Web page
+Last modified: 2026-07-03T23:33:24+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+| API  | Permission  | Permission Type  | Used to protect  | Description  | 
+| v1.0 | AdministrativeUnit.ReadWrite.All  | Application  |  | Required to list, back up, list members of, add members to, remove members from, create, update, and delete admin units | 
+| v1.0 | Application.ReadWrite.All | Application | 
+ApplicationsService principals | Required to list, back up, create, update, add owners to and remove owners from applications and service principals | 
+| v1.0 | AuditLog.Read.All | Application |  | Required to list and back up audit logs and sign-in logs | 
+| Beta | BitlockerKey.Read.All | Delegated |  | Required to back up BitLocker recovery keys | 
+| v1.0 | BitlockerKey.ReadBasic.All | Delegated |  | Required to list BitLocker recovery keys  | 
+| Beta | DeviceLocalCredential.Read.All |  |  | Required to list devices enrolled into LAPS, obtain their credentials (usernames and passwords) and credential metadata (timestamps) | 
+| Beta | DeviceManagementConfiguration.ReadWrite.All | Application | 
+Device management configurations | Required to list, back up, create, update, and delete device management configuration policies | 
+| Beta | Directory.AccessAsUser.All | Delegated |  | Required to impersonate the service account to cover functions not available through application permissions | 
+| v1.0 | Directory.ReadWrite.All | Application |  | Required to change password protection settings for groups. Required to add and remove group members and owners. | 
+| v1.0, Beta | Group.ReadWrite.All | Delegated |  | Required to list, back up, create, update, and delete Microsoft 365 groups | 
+| v1.0, Beta | Group.ReadWrite.All | Application |  | Required to list, back up, create, update, and delete security groups | 
+| v1.0, Beta | Policy.Read.All | Application |  | Required to list and back up all policy types | 
+| Beta | Policy.ReadWrite.AuthenticationMethod | Application |  | Required to create, update, and delete authentication methods | 
+| Beta | Policy.ReadWrite.ConditionalAccess | Application | 
+Conditional access policies | Required to create, update, and delete conditional access policies | 
+| Beta | RoleManagement.ReadWrite.Directory | Application |  | Required to list, back up, create, update, and delete roles and role assignments | 
+| v1.0, Beta | User.Read.All | Delegated |  | Required to list and back up users | 
+| v1.0 | User.ReadWrite.All | Delegated |  | Required to change user properties | 
+| v1.0 | User.ReadWrite.All | Application |  | Required to create and delete users | 
+| Beta | UserAuthenticationMethod.ReadWrite.All | Delegated | 
+User authentication methods | Required to list, back up, create, update, and delete user authentication methods | 
+| Beta | UserAuthenticationMethod.ReadWrite.All | Application | 
+User authentication methods | Required to list, back up, create, update, and delete user authentication methods |

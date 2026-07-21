@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/resources/considering-business-continuity/
+Content type: Web page
+Last modified: 2025-08-20T02:24:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Reel: Considering business continuity
+In this Keepit Reel, Niels van Ingen, CCO at Keepit, and Barb Kiernan, Enterprise Account Executive for Zerto, highlight the shift in responsibility of disaster recovery planning and preparation. What used to be in the hands of traditional storage and backup teams now falls largely on the security suite, with the Chief Information Security Officer (CISO) often driving decisions due to the increasing threats of hacking and ransomware.
+They emphasize the importance of understanding the critical need for business continuity and cyber resilience and share insights on how security concerns have become central to budget allocations and strategic decisions in enterprises.

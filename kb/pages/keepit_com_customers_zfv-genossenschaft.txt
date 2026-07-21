@@ -1,0 +1,37 @@
+Source URL: https://www.keepit.com/customers/zfv-genossenschaft/
+Content type: Web page
+Last modified: 2026-05-18T16:55:35+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+ZFV-Genossenschaft: Improved resilience and operational efficiency
+For ZFV-Genossenschaft, reliable data protection is essential to keeping daily operations running smoothly. As one of Switzerland’s leading providers of food services, accommodation, and care, the cooperative operates more than 220 establishments and relies on SaaS platforms to support communication, collaboration, and business processes across its operations.
+To ensure these systems remain protected and recoverable, ZFV-Genossenschaft selected Keepit as its backup and recovery provider — giving the IT team a centralized way to protect data across multiple SaaS applications while strengthening its business continuity strategy.
+Protecting critical business data across multiple SaaS applicationsâ¯
+ZFV-Genossenschaft protects approximately 1,100 users and about 25 TB of data across SaaS environments that support daily operations.
+These platforms include Confluence, Docusign, Microsoft Entra ID, Exchange Online, Microsoft Teams (including chat data), OneDrive, and SharePoint — systems that form the backbone of the organization’s collaboration, communication, and document management.
+By protecting these applications within a single platform, the IT team can manage SaaS data protection consistently while ensuring critical data remains recoverable.
+Protecting multiple SaaS applications in one platform allows us to ensure our most important business data is consistently backed up and recoverable without increasing operational complexity.
+– Gérard Korda 
+Head of IT Operations & Infrastructure, ZFV-Genossenschaft 
+Clear pricing and simplicityâ¯
+When evaluating data protection solutions, the ZFV-Genossenschaft IT team focused on functionality, cost transparency, and long-term scalability.
+Many competing solutions relied on complex licensing models or unpredictable storage costs. Keepit stood out by offering a clear pricing structure and unlimited storage, helping the team avoid uncertainty as their data environment grows.
+Equally important was the platform’s simplicity. The team needed a solution that would be straightforward to deploy, intuitive to operate, and easy for the IT staff to manage overtime.
+Compared to other solutions we evaluated, Keepit provided the best balance of functionality, reliability, and cost predictability.
+– Gérard Korda 
+Head of IT Operations & Infrastructure, ZFV-Genossenschaft 
+Meeting compliance and data residency requirements
+Operating in Switzerland means that data sovereignty and regulatory compliance play a major role in technology decisions. For ZFV-Genossenschaft, it was essential that data could remain within Switzerland and comply with local data protection standards.
+The organization must also meet PCI requirements, making security, auditability, and controlled access to data critical components of its infrastructure strategy.
+Keepit’s ability to store data in a Zurich-based data center gave the team the transparency and confidence they needed to meet these requirements.
+“Knowing exactly where our data is stored gives us greater transparency and confidence from a compliance perspective,” Korda explains. “The ability to keep our data in Switzerland was a significant factor in our decision.”
+A centralized platform for SaaS data protection
+Another factor in the decision was Keepit’s vendor-independent architecture. By backing up SaaS data in a neutral environment separate from the SaaS vendors themselves, the organization reduces the risk of vendor lock-in or service disruptions.
+For the IT team, the value isn’t a single feature but the overall combination of simplicity, reliability, and security the platform delivers.
+By bringing multiple SaaS environments into one unified solution, Keepit reduces operational complexity and makes it easier to manage data protection across the IT environment.
+Since deployment, backup processes that once required manual effort are now automated and centrally managed, giving the team greater confidence in its data protection strategy.
+We sleep better at night knowing our critical business data is securely backed up and can be restored quickly whenever needed.
+– Gérard Korda 
+Head of IT Operations & Infrastructure, ZFV-Genossenschaft

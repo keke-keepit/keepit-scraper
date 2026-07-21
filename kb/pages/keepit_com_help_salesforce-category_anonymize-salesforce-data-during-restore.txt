@@ -1,0 +1,40 @@
+Source URL: https://www.keepit.com/help/salesforce-category/anonymize-salesforce-data-during-restore/
+Content type: Web page
+Last modified: 2025-12-03T15:43:43+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Anonymize Salesforce data during restore
+Our platform supports advanced data anonymization options when restoring Salesforce data — ideal for use cases like sandbox seeding, data masking for development environments, or restoring data with sensitive fields anonymized.
+These anonymization methods are configurable per field and can be applied in any environment, including production, sandboxes, or other custom environments of your choosing.
+Available anonymization options
+You can choose from the following anonymization methods:
+- Data redaction (Nullify Values) 
+ Replaces the field value with null.
+ 
+ Example: Original: john.doe@example.com → Redacted: null
+ 
+ Supported for all nullable fields
+- Hashing 
+ Replaces the field value with a hashed string, making it unreadable and irreversible, while maintaining uniqueness.
+ 
+ Example: Original: John→ Hashed: a93f5be321d9...
+ 
+ Supported Field Types:
+- Text
+- Text Area
+- Long Text Area
+- Data shuffling (Default method) 
+ Randomly replaces each field value with another value from the same field across different records. This keeps data realistic while anonymizing the source.
+ 
+ Example: Record 1: "Alice" and Record 2: "Bob" → Record 1: "Bob" and Record 2: "Alice"
+ Supported for all anonymizable fields.
+Note: Shuffling is disabled automatically when over 1,000,000 records are selected to avoid performance issues.
+Field eligibility and behavior
+- Fields that are non-nullable (such as Reference or ID fields) cannot be anonymized. The checkbox will be disabled with a tooltip explaining why.
+- If a field supports only one method (e.g., redaction or hashing), the method will be pre-filled and locked.
+- If multiple methods are supported, shuffling will be selected by default, but users can change it via dropdown.
+- Clicking "Anonymize all" applies the default anonymization method to all fields marked for restore. You can still adjust individual field settings as needed.
+Summary and review
+During the Summary step of a restore or seed job, you’ll see a detailed list of all anonymization choices made. This helps confirm everything is set up the way you want before continuing.

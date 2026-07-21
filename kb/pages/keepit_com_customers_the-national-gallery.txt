@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/customers/the-national-gallery/
+Content type: Web page
+Last modified: 2026-01-24T16:28:07+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The National Gallery chooses Keepit after a diligent tender process
+The National Gallery in London is one of the biggest art museums in the world with millions of yearly visitors. With the IT team reliant on Microsoft 365, a decision was made to implement a cloud-based backup system. After running a diligent tender process, The National Gallery chose Keepit to protect its M365 data.
+We didn´t want to invest time, money and effort into an on-premise solution. As Microsoft 365 runs in the cloud, we opted for a cloud-based data protection provider.
+- James Mitchell
+Infrastructure Manager, The National Gallery
+UK Data Centers: the Difference
+As a publicly owned museum and governmental organization, The National Gallery needs to remain compliant when it comes to M365 data. With Keepit, The National Gallery can store all M365 data within the UK at two separate data centers
+Investing in Cloud Backup Made Simple with Keepit
+Protecting your valuable data shouldn´t be an afterthought, but nor should it break the bank. Keepit offers class-leading performance at flexible price points. For James Mitchell and his team, Keepit’s ease-of-use, the quick initial setup, and the competitive price proved a winning combination.
+During our tender process, it was evident that Keepit offered the best price point and simplest solution – accessing your backup is fast and easy, just the way it should be.
+- James Mitchell
+Infrastructure Manager, The National Gallery
+Reliable Support that Exceeds Expectations
+Mr. Mitchell was also impressed by the knowledge of Keepit’s staff as well as the dedication of the team to go above and beyond the call of duty.
+As a Keepit customer, I got an in-depth presentation of the inner workings of the solution courtesy of the CTO – something I highly value as an IT professional.
+- James Mitchell
+Infrastructure Manager, The National Gallery

@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/resources/anatomy-of-recovery-key-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The anatomy of recovery: Webinar key takeaways on intelligent disaster recovery
+Disaster recovery (DR) is more than just having a plan — it’s about ensuring that plan actually works when it matters most. Without risk assessments, regular testing, and clear recovery priorities, businesses leave themselves vulnerable to unexpected disruptions. These challenges were the focus of a recent Keepit webinar, where Kim Larsen, CISO at Keepit, joined Paul Robichaux, Microsoft MVP and Senior Director of Product at Keepit, and Martin Husslage, Disaster Recovery Consultant at Zerto, to discuss real-world data loss scenarios and best practices for building an intelligent DR strategy.
+Here’s what we learned:
+1) Testing is critical to disaster recovery success.
+Merely having a DR plan isn’t enough — you need to validate it. Organizations must regularly test their DR plans to ensure their recovery strategies hold up under real-world conditions and can mitigate potential disruptions effectively.
+2) Backup redundancy ensures business continuity.
+To safeguard against cyberthreats and operational failures, businesses must implement immutable backups stored separately from the production environment. Ensuring air-gapped storage and redundancy strengthens overall resilience and minimizes downtime.
+3) Intelligent recovery planning prevents costly failures.
+A well-structured DR plan prioritizes business-critical systems and defines a clear recovery order to minimize the impact of disruptions. Aligning with industry best practices ensures a faster, more efficient recovery process when disaster strikes.
+Continue the conversation:
+Our key takeaways document includes all the most important insights, including:
+- A structured approach to disaster recovery planning
+- An overview of data loss scenarios you need to prepare for
+- Six actionable strategies to improve your resilience
+Download our webinar handout now to strengthen your disaster recovery planning, enhance cyber resilience, and ensure business continuity in the face of unexpected threats.

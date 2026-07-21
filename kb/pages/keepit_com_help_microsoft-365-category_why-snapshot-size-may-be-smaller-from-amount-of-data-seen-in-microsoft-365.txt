@@ -1,0 +1,14 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/why-snapshot-size-may-be-smaller-from-amount-of-data-seen-in-microsoft-365/
+Content type: Web page
+Last modified: 2026-06-30T00:13:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why snapshot size may be smaller from amount of data seen in Microsoft 365
+There are several reasons why a snapshot size can be smaller in comparison to the data usage you see in the Microsoft admin panel, especially when it comes to OneDrive and SharePoint.
+Among these reasons are the following:
+Skipped files due to Microsoft throttling or lost connection
+Keepit may not have been able to receive from Microsoft certain data that it tried to access. When this happens, Keepit attempts to back up the skipped files in the next backup jobs.
+Keepit may not cover certain data types or metadata
+The amount of data you see in Microsoft is not always an accurate representation of the data you have selected to back up. Certain metadata that is stored in Microsoft as well as certain data types may not be covered by Keepit.

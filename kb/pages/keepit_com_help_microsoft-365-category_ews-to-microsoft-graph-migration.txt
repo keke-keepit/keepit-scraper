@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/ews-to-microsoft-graph-migration/
+Content type: Web page
+Last modified: 2026-06-30T00:02:15+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+EWS to Microsoft Graph API migration: What it means for your Exchange backup
+What's changing, what you need to do, and what to expect
+Overview
+In October 2026, Microsoft is retiring the EWS API that Keepit uses to back up Exchange data. Two things change:
+- Exchange connectors created before Keepit release 10.19 must be reauthenticated to grant new permissions.
+- Public Folders will no longer be supported — backup and restore stop in October 2026.
+More details here.
+â ï¸ Action required
+Reauthenticate your Microsoft 365 connectors with Exchange data before October 2026 to avoid backup gaps.
+Reauthentication is done from the Connectors page. After reauthenticating, your connector enters a migration queue: existing backups continue while the migration completes.
+Connectors created after release 10.19 are already ready and require no action.
+Public Folders: End of support
+Microsoft's Graph API does not support Public Folders. From October 2026:
+- Backup and restore stop.
+- Previously backed-up data remains available for browsing and downloading in the Deleted Items view.
+If Public Folders is your only configured data type, your connector will show a critical health status.
+Exchange: Reauthentication required
+Reauthentication grants Keepit the new permissions required by Microsoft's Graph API. Which connectors need it:

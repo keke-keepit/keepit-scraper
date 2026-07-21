@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/help/entra-id-category/recover-entra-id-activity-logs/
+Content type: Web page
+Last modified: 2026-07-04T00:16:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Recover Entra ID activity logs
+Activity logs can be downloaded as JSON files and shared as public links.
+Logs cannot be previewed or restored back to Entra ID.
+Logs are organized by year, month, day, and snapshot.
+Download and share options are available for all levels.
+Download activity logs
+1. Find the item you want to download.
+2. Optional: If you want to download an older version of the item, select the Snapshots Viewer icon and then select an earlier snapshot. You will now be viewing data from that particular time.
+3. To the right of the item, select the download icon.
+Note: To download multiple items, select the items. In the toolbar, select download.
+The file will be downloaded as a ZIP file to your browser’s default download location.
+Share activity logs as a public link
+1. Find the item you want to share.
+2. Optional: If you want to share an older version of the item, select the Snapshots Viewer icon and then select an earlier snapshot. You will now be viewing data from that particular time.
+3. To the right of the item, select the share icon.
+4. Optional: Set a time limit and/or password for the public link.
+5. All public links are listed on the Public Links page, from where you can find detailed information about each link as well as reconfigure, delete, or copy the link.
+Note:
+- Public links created from the latest snapshot will always show the latest available data. This means if the item is modified, the version of the item accessible via the public link will reflect the changes.
+- Creating a public link from an older snapshot gives you the option to lock the link to that specific version of the item.

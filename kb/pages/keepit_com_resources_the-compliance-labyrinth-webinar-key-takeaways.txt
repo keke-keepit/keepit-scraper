@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/resources/the-compliance-labyrinth-webinar-key-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The compliance labyrinth: Webinar key takeaways
+Global cybersecurity regulations are evolving rapidly to address the growing threat of cybercrime. Simultaneously, the current, fragmented regulatory landscape creates challenges for organizations striving to achieve compliance. In our recent webinar, Kim Larsen, CISO at Keepit, and a panel of industry experts explored the challenges and opportunities presented by global cybersecurity regulations.
+Here’s what we learned:
+- Cybersecurity regulations are evolving.
+Jimmy Nilson, Global VP at Kyndryl Security Consulting: “A common trend in cybersecurity regulations is that all of them are changing. All of them are being updated because the environment we operate in today looks vastly different than only a couple of years ago. That’s because we have a much bigger attack surface, and we introduced more advanced technology to support all our organizations.”   
+- Common cybersecurity principles are emerging.
+Widely adopted frameworks such as NIST and ISO offer commonalities for orientation. 
+- Risk assessment and data governance are crucial.
+Effective risk assessment and solid data governance are key foundational building blocks to achieve operational resilience.
+You can also download our key takeaways document to get all the most important insights, including:
+- An overview of compliance regulations
+- The main commonalities across cybersecurity frameworksâ¯
+- Our checklist for building a resilient cybersecurity and compliance framework
+Download the handout now to learn which practical steps your organization should prioritize to tackle compliance challenges with confidence.

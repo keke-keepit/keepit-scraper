@@ -1,0 +1,58 @@
+Source URL: https://www.keepit.com/help/platform-category/generate-or-schedule-a-backup-coverage-report/
+Content type: Web page
+Last modified: 2026-06-23T22:26:23+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Generate or schedule a backup coverage report
+Stay informed about your Microsoft 365 backup coverage by generating and scheduling detailed reports.
+These reports offer a comprehensive overview of backed-up users, SharePoint sites, and Groups & Teams within your connector.
+You can generate reports for a specific connector or across all your Microsoft 365 connectors.
+All generated reports reflect the latest snapshot.
+Please note that only master admins and backup admins can generate and download backup coverage reports.
+Generate a backup coverage report
+1. Select all connectors or a specific connector on the Data Protection Dashboard.
+2. Point to Coverage report and click Generate.
+3. Select which data areas to include in the report.
+4. Ð¡lick Generate.
+A download link will be generated and sent to the messages inbox and your email.
+You will receive a CSV file for each selected data area.
+Schedule a backup coverage report
+1. Select all connectors or a specific connector on the Data Protection Dashboard.
+2. Point to Coverage report and click Schedule.
+3. Select which data areas to include in the report.
+4. Select the report frequency.
+- Daily: A report will be scheduled for generation every day at 00:00:00 UTC
+- Weekly: A report will be scheduled for generation every Monday at 00:00:00 UTC
+- Monthly: A report will be scheduled for generation on the first day of every month at 00:00:00 UTC
+5. Determine who will receive the report.
+6. Review the summary and click Schedule.
+A download link will be generated and sent to the recipients.
+You will receive a CSV file for each selected data area.
+How frequency works
+If you schedule a weekly report on Wednesday, the first report will be generated the following Monday at 00:00:00. After that, a new report will be generated every Monday, each based on the latest snapshot.
+Scope
+If you select all connectors but limit the report to specific data areas, the report will include data only from connectors that back up those selected areas.
+For example, if you select Exchange as the scope but only two of the three connectors back up Exchange data, the report will be generated using data from those two connectors only.
+What you will find in the report
+- Exchange: Full list of all backed up users
+- OneDrive: Full list of all backed up users
+- SharePoint: Full list of all backed up SharePoint sites
+- Groups & Team: Full list of all backed up groups and teams
+- Public Folders: Full list of all backed up public folders
+- Teams Chats: Full list of all backed up users
+For each item:
+- Name: The name of the item
+- Object ID: The ID of the object
+- Size: The size of the item in bytes
+- Skipped folders: The number of folders that were skipped during the backup
+- Skipped files: The number of files that were skipped during the backup
+- Total skipped: The total number of items that were skipped during the backup
+- Recurrently skipped: The number of items have been skipped for 5 or more consecutive backups
+- Labels: All labels assigned to the item (i.e., RTBF label)
+- Date item was first backed up: The date of the snapshot when the item first entered the backup set
+- Date item was last modified: The date of the last snapshot when the specific item was modified
+Reporting events in the audit log
+All report-related actions, including creating, deleting, generating, and scheduling reports, are recorded in the audit log. You can find them in the Reporting category.
+For a detailed list of the events recorded, see: Using the Keepit audit log

@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/customers/mums-in-need/
+Content type: Web page
+Last modified: 2025-11-28T13:28:38+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Mums In Need secures sensitive Google Workspace data with Keepit
+Simplicity, peace of mind and compliance were top of mind for Mums In Need when choosing a backup and recovery provider. As a small organization without a specialized IT staff, Keepit’s solution was the perfect choice for securing sensitive data in Google Workspace.
+A charity looking to secure its Google Workspace data Mums In Need is on a mission to help women rebuild their lives after experiencing domestic abuse. This Sheffield-based charity supports mothers affected by emotional abuse and postseparation abuse in South Yorkshire and the surrounding area.
+As Laura Riley, CEO at Mums In Need, laid out their requirements for data protection, it became clear that a cloud-based backup solution was essential. The entire organization stores its data in the cloud, using Google Workspace with their volunteers, trustees, ambassadors and patrons who log into the platform from various locations across the United Kingdom.
+Keepit is a set-and-forget solution, and everything is available from one screen - so we can check how much data is being backed up and ensure everything is running smoothly.
+Laura Riley, CEO 
+Mums In Need
+Keepit’s “set-and-forget” solution was the right fit
+Mums In Need looked for a solution that would fulfill the requirements of a small organization without specialized IT staff – Keepit was the right fit. “We looked for a service that could protect cloud data. After reviewing players in that market, we settled on Keepit because it met our requirements most closely. It’s a backup service that protects our cloud data and makes it easy for us to restore it, should we need to,” says Laura Riley.
+Sensitive data requires backup you can trust
+A charity such as Mums In Need handles sensitive data related to personal matters. It was vital for the organization to have full control over the data they process and store.
+Data is the heart of our organization. We must retain the trust of the women using our service and Keepit is critical to this process.
+Laura Riley, CEO 
+Mums In Need
+Independent data centers to ensure compliance
+When looking at criteria for a backup and recovery service, the fact that Keepit owns and operates its own data centers was a clear advantage. Keepit has data centers in seven regions to ensure that customers comply with local regulations.
+We are confident that our data is 100% protected and compliant.
+Laura Riley, CEO 
+Mums In Need

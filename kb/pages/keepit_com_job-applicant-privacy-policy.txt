@@ -1,0 +1,43 @@
+Source URL: https://www.keepit.com/job-applicant-privacy-policy/
+Content type: Web page
+Last modified: 2025-08-06T18:44:39+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+| Keepit Entity | Country | Address | 
+| Keepit A/S | Denmark | Per Henrik Lings Allé 4, 7, 2100 København, Denmark | 
+| Keepit France SAS | France | 30 Rue Godot de Mauroy, 75009 Paris, France | 
+| Keepit Poland Sp. z o.o. | Poland | 72 Dluga Street, 31-146 Krakow, Poland | 
+| Keepit Germany GmbH | Germany | Maximiliansplatz 22, D-80333 München, Germany | 
+| Keepit Netherlands B.V. | Netherlands | Herikerbergweg 88, 1101 CM Amsterdam, Netherlands | 
+| Keepit Technologies UK, LTD.* | England | 1 St. Katharine's Way, London, E1W 1UN, UK | 
+Job applicant privacy policy
+Last updated August 2025
+Thank you for applying for a job at Keepit!
+1. Who is the data controller of your personal data?
+Keepit A/S and its subsidiaries form a group of undertakings. The Keepit entity to which you apply for a position is the legal entity that is responsible for collecting and processing any information that identifies or is capable of identifying you as an individual ("personal data") in line with this Privacy Policy for Keepit Job Applicants. This entity is hereafter referred to as "Keepit", "we", "us", or "our" and serves as the data controller for processing of your personal data under the General Data Privacy Regulation ("GDPR"), UK General Data Privacy Regulation ("UK GDPR") and other applicable data protection legislations.
+This Privacy Policy for Keepit Job Applicants concerns the following Keepit entities:
+*NOTE: Where Keepit Technologies UK, LTD. acts as the data controller, the corresponding provisions of the UK GDPR will apply in the same manner as the GDPR.
+2. Purposes, types of personal data, and legal basis
+To evaluate your application, we will process the personal data, which you have disclosed in your job application and CV as well as any attachments. Typically, the categories of personal data will be contact information, educational background, professional background, and interests.
+We will also evaluate your performance and competencies during any potential interviews. The legal basis for our processing of your personal data is your application for execution of an employment contract with Keepit, cf. Article 6(1)(b) of the GDPR and our legitimate interest in processing the information you have given us as part of our overall assessment of your ability to handle the position in question cf. Article 6(1)(f) of the GDPR.
+Further, we might search the internet for relevant and available information, including content from social media. We will typically search for information regarding your previous jobs, activities, competencies, performance, as well as your general appearance. We process your personal data collected as part of the internet search on the basis of Article 6(1)(f) of the GDPR, as we have a legitimate interest in finding the most suitable candidate for the position.
+If the job position requires you to complete personality tests or similar tests you will be informed hereof when we have processed your application. The results of such tests will be treated confidentially but will be included in our evaluation of your application. Our legal basis for such processing of personal data is Article 6(1)(b) of the GDPR.
+If you are a foreign candidate outside EU/EEA, we may be legally required to obtain a copy of your passport cf. Article 6(1)(c) of the GDPR.
+If you are applying for a position where a criminal record, credit report or visa/work permit etc. is required by law, you may be required to provide these as well, in compliance with local laws cf. Article 6(1)(c) of the GDPR.
+As part of our evaluation of you and your application, we may wish to take references from your previous and/or current employers. We will only take up references from persons you have explicitly stated in your job application or have informed us of. Our legal basis for such processing is Article 6(1)(f) of the GDPR as we have a legitimate interest to ensure that your statements are true and in accordance with your previous employers.
+Special categories of personal data
+We recommend that you do not disclose sensitive personal data, such as information revealing racial or ethnic origin, religion, trade union membership, sexual orientation, health, etc. in your application. In case a certain health condition is required for the ability to perform the duties related to the position in question, we might request health information from you. Our legal basis for such processing of personal data will be dependent on the fulfilment of our employment law obligations in accordance with Article 9(2)(b) and Article 9(2)(f) of the GDPR.
+3. When will we delete your personal data?
+If you are offered a position with Keepit, your application and additional relevant personal data obtained during the recruitment procedure will be stored in your employee file.
+If you are not offered a position, we will store your application and any additional personal data obtained during the recruitment procedure for a period of 6 months following the conclusion of the recruitment process. At the end of this period we will contact you to obtain your consent to retain your personal data for an additional 6 months. If consent is granted, your personal data will be retained for this extended period for consideration in future or other job openings, if not - your personal data will be deleted.
+4. Will your personal data be disclosed or transferred to third parties?
+Your personal data may be disclosed to the following categories of third parties: (i) Keepit affiliates for recruitment coordination purposes (ii) IT service providers and hosting companies that support our recruitment process and IT systems. All third-party processors are bound by data processing agreements ensuring appropriate safeguards. For any transfers to third countries that do not benefit from an EU Commission adequacy decision, we implement appropriate safeguards such as EU standard contractual clauses to ensure adequate protection.
+We will not transfer your personal data to separate data controllers with the exception of (i) transfer of contact details to immigration authorities if you are a foreign candidate and we are legally required to do so cf. Article 6(1)(c) of the GDPR, (ii) transfer to governmental authorities (e.g. tax authorities, the police and other public authorities) when we reasonably believe it is required by law, regulation, court order, or a government request, or when necessary to safeguard the security and integrity of our services or protect our own rights cf. Article 6(1)(c) and Article 6(1)(f) of the GDPR.
+5. What rights do you have?
+You have the right to access the personal data we process about you, subject to certain statutory exceptions. You also have the right to object to the processing of your personal data and request that its processing is restricted. In addition, you have the right to request rectification, including completion if necessary or that your personal data is deleted subject to certain exceptions.
+In certain situations, you may also request that we provide you with a copy of your personal data in a structured, commonly used, and machine-readable format and request us to transmit such personal data which you have provided us with to another data controller.
+Any consent that you may have provided during the recruitment procedure may be withdrawn at any time. The withdrawal of your consent will affect the future processing of your personal data but will not affect the lawfulness of processing based on consent before its withdrawal. If you wish to withdraw a consent, you may contact us as stated below.
+6. Do you have questions, or would you like to exercise your rights?
+If you would like to exercise any of your rights, if you have any questions regarding this Privacy Policy for Keepit Job Applicants or the processing of your personal data, please contact us at dpo@keepit.com . You may always lodge a complaint with your local data protection authority. You can find the contact details for your local data protection supervisory authority at https://edpb.europa.eu/about-edpb/board/members_en.

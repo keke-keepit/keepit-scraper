@@ -1,0 +1,107 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-HandwerkskammerAachen-customer-case-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+Customer case
+Convenient and 
+secure backup for 
+Handwerkskammer Aachen
+
+Stringent data protection requirements 
+The Aachen Chamber of Skilled Crafts faced 
+stringent data protection requirements, 
+including GDPR compliance and adherence to 
+federal and state data protection laws. “With 
+250 users, our organization needed a solution 
+that could handle sensitive personal data and 
+ensure business continuity, as our tasks and 
+responsibilities are regulated by federal law,” 
+explains Markus Burgold, Head of IT Department 
+at Handwerkskammer Aachen. 
+The IT team aimed to find a convenient backup 
+solution for their Microsoft 365 environment, 
+with key criteria including GDPR compliance, 
+user-friendliness, and reliability. Keepit provides 
+independent backup of eleven business-critical 
+SaaS applications, securing customer data 
+in seven data center regions to ensure data 
+sovereignty.
+“European data centers and vendor 
+independence were also crucial factors in 
+choosing Keepit.”
+- Markus Burgold, 
+Head of IT Department at Handwerkskammer Aachen
+Customer case:
+Handwerkskammer Aachen
+With over 17,400 member companies, the Aachen Chamber of Skilled Crafts is a driving force in 
+promoting skilled trades training and innovation in its region. As a public corporation, it assumes 
+a variety of tasks assigned by the state, based on the Crafts Code (Handwerksordnung) and 
+its statutes. In search of reliable and compliant backup, the Chamber chose Keepit after a 
+recommendation from partner IT sure.
+
+About Handwerkskammer Aachen
+Since its founding on April 24, 1900, the Aachen 
+Chamber of Skilled Crafts has strengthened, 
+supported, and further developed skilled crafts 
+in the region. For over a century, the Chamber has 
+supported, promoted, and advised skilled crafts 
+businesses in the Aachen City Region and the districts 
+of Düren, Heinsberg, and Euskirchen.
+With over 17,400 member companies, the Aachen 
+Chamber of Skilled Crafts is a strong voice and a 
+driving force in promoting skilled trades training and 
+innovation. 
+About IT sure
+IT sure, an established partner of Microsoft and Keepit, 
+helps medium-sized companies to maximize their 
+competitive advantage through the efficient use of 
+the Microsoft Cloud. As a Keepit Elite Partner, IT sure 
+focuses on modern data protection in the cloud — 
+GDPR-compliant, transparent and independent.
+With IT sure’s services and managed cloud services 
+around Microsoft Azure, Microsoft 365 and Microsoft 
+Fabric, it increases IT security, communication, 
+collaboration and data culture for its customers. IT 
+sure can look back on over 20 years of experience in IT 
+consulting.  
+Convenient cloud backup     
+With Keepit, the Aachen Chamber of Crafts 
+achieved their goal of convenient cloud backup 
+for their Microsoft 365 environment. Keepit 
+was able to provide a solution for backing up all 
+crucial cloud data (Exchange Online, SharePoint, 
+OneDrive), ensuring fast recovery in case of data 
+loss, and supporting the Right to Be Forgotten 
+(RTBF). The Aachen Chamber of Crafts also 
+appreciated Keepit’s user-friendliness and 
+reliability.  Security measures such as encryption 
+and data immutability were non-negotiable for 
+the organization.
+Road to success through partnership 
+The Aachen Chamber of Crafts became aware 
+of Keepit through a recommendation in their 
+network. IT sure, an established partner of 
+Microsoft and Keepit, played a key role in the 
+resulting cooperation. As a Keepit Elite Partner, 
+IT sure focuses on modern data protection in 
+the cloud, helping medium-sized companies 
+maximize their competitive advantage through 
+the efficient use of the Microsoft Cloud.
+Customer case:
+Handwerkskammer Aachen
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+“The solution’s fast recovery capabilities 
+and GDPR compliance were particularly 
+beneficial to us. We’ve experienced 
+improved data protection and business 
+continuity with Keepit.”
+- Markus Burgold, 
+Head of IT Department at Handwerkskammer Aachen

@@ -1,0 +1,69 @@
+Source URL: https://www.keepit.com/help/platform-category/set-up-sso-using-okta-as-identity-provider/
+Content type: Web page
+Last modified: 2026-06-23T23:19:52+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Set up SSO using Okta as identity provider
+To set up SSO for Keepit, first create an SSO app integration with Okta. During the configuration you will obtain the IDP URL and certificate needed to configure SSO in Keepit.
+In the process of setting up SSO, we recommend that the Master Administrator create an SSO Admin – a dedicated user who has permission to access the SSO configuration. SSO is never enabled for the SSO Admin so he can always sign in to the account with his Keepit credentials. This will ensure that the Master Administrator and other users will not get locked out of their account in case SSO is configured incorrectly or an SSO certificate expires. For a step-by-step guide, see Create an SSO Admin role.
+Note: If you are setting up SSO on the EU data center with https://dk-co.keepit.com, make sure you sign in to Keepit at this URL: https://dk-co.keepit.com/desktop/#/signin
+To set up SSO for Keepit using Okta, follow the steps below:
+I. Create a New Application Integration
+1. In the menu, select Applications > Applications.
+2. Select Create App Application.
+3. Choose SAML 2.0.
+4. Select Next.
+II. Create SAML Integration
+1. Enter an App name.
+2. (Optional) Upload an App logo.
+3. Select how to display application icon.
+4. Select Next.
+5. For the Single sign on URL, enter the URL that corresponds to your data center:
+Denmark (Copenhagen): https://dk-co.keepit.com/sso/login
+United States (Washington, DC): https://us-dc.keepit.com/sso/login
+Canada (Toronto): https://ca-tr.keepit.com/sso/login
+Australia (Sydney): https://au-sy.keepit.com/sso/login
+United Kingdom (London): https://uk-ld.keepit.com/sso/login
+Germany (Frankfurt): https://de-fr.keepit.com/sso/login
+Switzerland (Zurich): https://ch-zh.keepit.com/sso/login
+6. For the Audience URI (SP Entity ID), enter the ID that corresponds to your data center:
+Denmark (Copenhagen): https://dk-co.keepit.com/sso/metadata
+United States (Washington, DC): https://us-dc.keepit.com/sso/metadata
+Canada (Toronto): https://ca-tr.keepit.com/sso/metadata
+Australia (Sydney): https://au-sy.keepit.com/sso/metadata
+United Kingdom (London): https://uk-ld.keepit.com/sso/metadata
+Germany (Frankfurt): https://de-fr.keepit.com/sso/metadata
+Switzerland (Zurich): https://ch-zh.keepit.com/sso/metadata
+7. For Name ID format, select EmailAddress.
+8. For Application username, select Email.
+9. For Update application username on, select Create and update.
+10. Select Next.
+11. Select whether you are a customer or a partner, and then select Finish.
+III. Assign Your App to People
+For SSO to be enabled for individual users, you must assign the app to these people. Make sure that users with the same email address exist in Keepit.
+1. Select the Assignments tab.
+2. Select Assign > Assign to People
+3. Next to the people you want to use SSO, select Assign > Save and Go Back
+4. After assigning all people, select Done.
+IV. Locate URL and Certificate
+1. Select the Sign On tab.
+2. Under Settings, select View Setup Instructions.
+3. Locate the Identity Provider Single Sign-On URL. This is the IDP URL you need to configure SSO in Keepit.
+4. Locate the X.509 Certificate. This is the Certificate you need to configure SSO in Keepit.
+V. Configure SSO in Keepit
+1. Sign in to Keepit with a Master Admin account.
+2. In the lower-left corner, select your account profile > Account info.
+3. Open the Security tab and select SSO.
+4. Select + Add configuration.
+5. The Enable configuration toggle will be turned on. Leave it enabled if you want SSO to be activated on the next login for all account users.
+6. Enter a name for your configuration.
+7. In the IDP URL, enter the Identity Provider Single Sign-On URL you located in part IV of these instructions.
+8. In the Certificate field, enter the text of the X.509 Certificate you located in part IV of these instructions. Make sure you copy only the text between the begin and end markers.
+9. (Optional) Turn on the Make SSO mandatory toggle to require users to sign in with SSO by disabling the option to use Keepit credentials.
+10. (Optional) Turn on the Allow IdP-initiated SSO toggle to allow users to sign in to Keepit directly through an IdP provider.
+The IdP-initiated flows carry a security risk and are therefore is not recommended.
+11. Select Save.
+Now when these users try to sign in to their Keepit account, they should enter only their email address and NOT their password. When they select Sign In, the users will the be redirected to Okta where they should sign in using their identity provider login credentials.
+When successfully signed in, the users will be redirected to their Keepit account.

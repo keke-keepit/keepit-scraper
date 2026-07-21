@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/customers/parramatta/
+Content type: Web page
+Last modified: 2025-10-03T13:38:36+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit and the City of Parramatta: Implementing secure SaaS backup
+True SaaS backup
+The City of Parramatta started migrating from its on-premises infrastructure to Microsoft 365 in late 2018, which was subsequently accelerated by the COVID-19 pandemic. The Council, with 1,500 employees and 25 TB of data, needed a secure, immutable backup solution as the city’s legacy backup system was no longer sufficient for the new cloud-based environment being implemented. Keepit was recommended to the Council through their long-standing partner, Seccom Global.
+“During our transition, we highlighted the confidentiality, integrity and availability of our data. Keepit’s solution is appealing to us as it’s true SaaS backup — no data from a cloud provider needs to traverse our network and data is stored in an independent cloud,” says Les Pall, ICT Technical Operations Manager, City of Parramatta.
+A backup and recovery solution must be simple, easy to use and reliable. Keepit allows us to quickly recover what we need, and we have confidence in the solution.
+- Les Pall, ICT Technical Operations Manager
+City of Parramatta
+Independent and immutable data storage
+The city needs fool-proof assurance that its data protection is up to par as multiple national and state oversight agencies conduct regular audits on data protection and cybersecurity practices. “Using immutable storage is important. Separating work data from our long-term data storage is also crucial in protecting ourselves against ransomware and other cyberthreats,” adds Les.
+Keepit’s solution meets the highest security standards with ISO 27001 certification across all locations and annual ISAE 3402-II certification.
+Data sovereignty as a requirement
+On top of security requirements, compliance with regulations was a key factor for the City of Parramatta when choosing a data protection partner. The Keepit platform simplifies compliance by offering SaaS data protection aligned with key regulations such as NIS2, NIST, and GDPR. Keepit’s seven data center regions across the globe ensure customers can rely on their data being stored locally.
+We require that data is stored in Australia. That’s the first requirement for any governmental organization.
+- Les Pall, ICT Technical Operations Manager
+City of Parramatta
+Simple, cost-effective data protection
+Choosing Keepit has resulted in a reduced workload for the Council, helping them to manage and secure all Microsoft 365 data in a cloud-native data protection platform. The platform’s intuitive interface requires little to no training, allowing customers to locate, preview, and restore data with just a few clicks.

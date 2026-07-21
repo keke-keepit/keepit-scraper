@@ -1,0 +1,58 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/restore-a-microsoft-365-team/
+Content type: Web page
+Last modified: 2026-06-30T01:45:50+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore a Microsoft 365 team
+This article explains how to restore a Microsoft 365 team and what to expect after the restore completes.
+Ways to restore a team
+To restore a team, you can restore the entire group associated with it. This restores all team and group data.
+To restore only team data, select Channels (restores channels with conversations and tabs) and Files (restores message attachments and other files).
+Connector-level restore
+You can restore a team from the connector level. This method lets you choose how duplicate items are handled.
+To restore a team, select the group associated with the team, then select Channels and Files.
+Note: To also restore the team site and notebook, select SharePoint.
+Item restore
+You can restore a team by browsing the connector. This method returns data to its original location.
+To restore a team, go to your connector and navigate to Groups & Teams, then restore the group's folder.
+To restore only team data, open the group's folder and restore the Channels folder, then separately restore the Files folder.
+Note: To also restore the team's site and notebook, select SharePoint. Keepit takes you to the SharePoint backup, where you can restore the site.
+What's restored and what isn't
+Team ID
+When a team is restored, a new Team ID is created.
+Conversations
+All channels with all conversations (posts and replies) are restored.
+- If the channel still exists in Teams, deleted and edited messages are added to the bottom of the posts feed. All existing messages that haven't been edited are skipped.
+- If the channel has been deleted from Teams, the channel with all messages is restored.
+Message sender and timestamp
+All restored messages and replies are posted by the Global Administrator account. The name of the original sender appears in the body of the message as a header inside a green box.
+The timestamp reflects when the message was restored, not when it was originally sent.
+Original messages
+Restored messages
+Message attachments
+Files originally attached to messages — such as images and Word documents — are attached but aren't previewable. All these files can be found in the team's Files tab.
+Other message elements
+Embedded text and other items such as code snippets, gifs, stickers, and emojis are restored. Reactions to messages aren't restored.
+Files
+All files are returned to the Files tab. This includes files uploaded to the folder and files attached to messages.
+In some cases, files from private channels may not be restored. If the Files tab is empty, restore the Files folder again from the connector level or through item restore.
+Wiki
+Wiki pages aren't restored. This data can only be shared or downloaded.
+Tabs
+All standard tabs are restored:
+- Website
+- Planner
+- Word
+- Excel
+- PowerPoint
+- Visio
+- Document Library
+- OneNote
+- SharePoint
+- Stream
+- Forms
+- Power BI
+- Flow
+- Azure DevOps

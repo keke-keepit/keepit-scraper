@@ -1,0 +1,3313 @@
+KEEPIT KNOWLEDGE BASE — SERVICES
+Generated: 2026-07-21
+Pages: 34
+============================================================
+
+Source URL: https://www.keepit.com/backup-och-aterstallning-du-kan-lita-pa/
+Content type: Web page
+Last modified: 2025-11-05T18:05:16+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+This comprehensive report addresses the growing importance of data sovereignty, defining key concepts like digital sovereignty and examining challenges posed by hyperscalers, regulatory shifts, and geopolitical factors.
+It offers guidance for IT decision-makers on navigating compliance, risk, and control.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/backup-og-gendannelse-du-kan-stole-pa/
+Content type: Web page
+Last modified: 2025-11-05T18:05:15+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+This comprehensive report addresses the growing importance of data sovereignty, defining key concepts like digital sovereignty and examining challenges posed by hyperscalers, regulatory shifts, and geopolitical factors.
+It offers guidance for IT decision-makers on navigating compliance, risk, and control.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/backup-og-recovery-du-kan-stole-pa/
+Content type: Web page
+Last modified: 2025-11-05T18:05:16+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+This comprehensive report addresses the growing importance of data sovereignty, defining key concepts like digital sovereignty and examining challenges posed by hyperscalers, regulatory shifts, and geopolitical factors.
+It offers guidance for IT decision-makers on navigating compliance, risk, and control.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/blog/backup-volumes/
+Content type: Web page
+Last modified: 2026-05-20T10:23:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup volumes arenât exploding (yet)
+What incremental backup changes — and why AI isn’t breaking backups (for now).
+If you’ve spent any time in IT over the past year, you’ve probably heard some version of this sentence:
+“Once AI really takes off, your backup costs are going to go through the roof.”
+It sounds plausible. AI tools generate content. Content becomes data. Data needs to be backed up. QED, right?
+Well… not so fast.
+One of the reasons I enjoy working with real operational data (as opposed to vendor whitepapers, industry surveys, or analyst estimates) is that it tends to tell a more nuanced story. And in this year’s Keepit Annual Data Report, the data tells us something refreshingly boring — in the best possible way.
+Despite all the innovation, disruption, and AI-fueled speculation, backup volumes are not exploding. At least not yet. And there are some very good, very practical reasons why.
+The magic of boring numbers: ~2% per day
+Let’s start with a simple observation from the report.
+When an organization first onboards to Keepit, the initial backup is large — effectively 100% of the dataset. That’s expected. But after that first run, things settle down quickly. On average, each subsequent daily backup adds about 2% of additional data relative to the original baseline.
+That number matters. A predictable, low daily change rate means that backup growth is linear and manageable, not exponential. It also means backup performance remains fast, and backup management is simpler and easier.
+The low daily change rate also means two important things. First, the SaaS applications (such as SharePoint, OneDrive, and Google Workspace) are doing a good job of reducing network and storage overhead via file compression and intelligent versioning to help themselves. Second, and more importantly, it means that Keepit’s platform is able to deliver always-incremental backups at an operating cost that lets us skip the traditional storage-consumption-based pricing model.
+New files vs. changed files: what’s actually driving growth
+Page 13 of the report goes one level deeper by looking at what kind of changes make up that daily 2%.
+There’s a useful split here:
+- About 42% of ingested files are entirely new
+- About 58% are existing files that changed
+- But when you look at bytes, not file count, the picture flips:
+- ~68% of ingested bytes come from new files
+- ~32% come from modified files
+This tells us two important things.
+First, most edits happen to relatively small files — think documents, spreadsheets, and text-based content. Second, large files tend to be created once and rarely modified. Videos, recordings, exports, and datasets get added… and then mostly left alone.
+That’s not surprising if you’ve spent any time managing Microsoft 365, Google Workspace, or Salesforce environments. It is useful confirmation when you see it in large-scale, anonymized data.
+So where does AI fit into this?
+This is where expectations and reality tend to drift apart.
+Yes, generative AI creates new content. But today, most AI-generated data lives with the AI provider, not in your tenant. Prompts, intermediate outputs, embeddings, and model artifacts don’t automatically land in SharePoint, OneDrive, or Google Drive. At least not unless someone explicitly saves them there.
+Even when AI-generated content does end up in your SaaS environment, it often replaces or supplements traditional document creation rather than multiplying it. A generated draft replaces a manually written one. A summary replaces a longer document. The net effect on storage isn’t zero — but it’s also not explosive.
+The report cautiously speculates that AI may increase the share of new files versus modifications over time, because generative workflows favor creation over refinement. That’s a reasonable hypothesis. If true, this hypothesis also leads to an excellent benefit: backup systems that better handle incremental changes, such as Keepit, have a significant performance, storage, and management advantage.
+Nothing in the data suggests a sudden structural change in backup volume or behavior.
+Why this matters for backup strategy
+If you’re responsible for backup and recovery, this is good news — but only if you interpret it correctly.
+Predictable growth doesn’t mean backups are “set and forget.” As we’ve seen, monitoring and testing is still of critical importance. Predictable growth does mean:
+- Backup windows stay short if incremental systems are working properly
+- Network and throttling impacts remains low if you aren’t re-ingesting unchanged data
+- Cost forecasting becomes easier if you understand real change rates
+It also means that fear-driven planning — especially around AI — can do more harm than good. Over-provisioning for hypothetical data explosions often leads to unnecessary complexity and wasted spend.
+The smarter approach is the boring one: watch what actually changes, measure it consistently, and adjust when the numbers change — not before.
+The quiet role of recovery
+One more point that often gets lost in conversations about “how much data” is how that data is used after it’s backed up.
+An incremental model doesn’t just make backups smaller — it also gives you more control of restores since you have fine-grained access to every change. When most change happens in small, lightweight files, then most recovery scenarios involve the same. Our operational data tells us that single-file restores dominate because that’s usually what’s needed.
+That’s a sign of maturity, not weakness. It means backup systems are being used as operational tools, not just insurance policies.
+AI will change things — just not all at once
+None of this is an argument that AI won’t eventually affect backup patterns. It almost certainly will. As organizations integrate AI more deeply into core workflows — and as generated data becomes firstâclass business data — storage behavior will evolve.
+But the data we have today says this evolution will likely be gradual, uneven, and manageable, not explosive or catastrophic.
+Which brings us back to that opening concern.
+Backup volumes aren’t exploding. Changes are incremental. Growth is predictable. And just like when flying, boring is exactly what you want, with no unpleasant surprises or failures.
+If and when that changes, it’ll show up in the data — and we’ll be ready to deal with it then.
+Until that day, I’ll take a steady 2%.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/help/mcp-category/
+Content type: Web page
+Last modified: 2026-05-22T15:22:22+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+MCP Toolbox
+Search
+Help center - Microsoft Azure DevOps
+Requirements for Azure DevOps connector creation and backup
+Help center - Google Workspace
+Install the Keepit App in Google Workspace Marketplace
+Help center - Microsoft Power BI
+Power BI backup data coverage
+Help center - Power Platform/Dynamics 365
+Requirements for setting up a Power Platform / Dynamics 365 backup
+Help center - Power Platform/Dynamics 365
+Check security role and access mode for Dynamics user
+Help center - Microsoft Power BI
+What counts as a seat in a Power BI backup
+Help center - Microsoft Azure DevOps
+Azure DevOps organizations are missing from my backup configuration
+Help center - Microsoft Azure DevOps
+Restore Azure DevOps data
+Help center - Google Workspace
+Google Workspace objects are missing from my backup configuration
+Help center - Google Workspace
+Why are Google Workspace items skipped during the backup?
+Help center - Google Workspace
+Failure fetching domains
+Help center - Google Workspace
+Remove the Keepit app from Google
+Help center - Google Workspace
+Revoke access to the Keepit app in Google
+Help center - Google Workspace
+Log out of a personal Google account before installing Keepit app
+Help center - Google Workspace
+Check if Google user is an Admin who can create connector
+Help center - Google Workspace
+Check if Keepit app is installed in Google
+Help center - Google Workspace
+How Google Workspace organizational unit and group selection works
+Help center - Salesforce
+Sandbox seeding best practices
+Help center - Salesforce
+How external IDs solve Salesforce ID challenges
+Help center - Salesforce
+Determine if Salesforce Managed Package is accessible via the API
+Help center - Salesforce
+Understanding and Resolving readMetadata Issues in Salesforce
+Help center - Salesforce
+Is my Salesforce backup data encrypted?
+Help center - Salesforce
+Salesforce snapshot compare
+Help center - Salesforce
+Ensuring backup continuity after a Salesforce sandbox refresh
+Help center - Zendesk
+Your Zendesk API requests usage
+Help center - Zendesk
+What happens to Zendesk data after you restore
+Help center - Zendesk
+Zendesk backup coverage
+Help center - Microsoft 365
+Can the service account be used for M365 backup have MFA enabled?
+Help center - PMC
+Configure multi-factor authentication (MFA) for PMC
+Help center - PMC
+Configure single sign-on (SSO) for PMC
+Help center - PMC
+Managing messages received by your customers
+Help center - PMC
+Using the PMC Audit Log
+Help center - PMC
+Create, edit, or delete a user in PMC
+Help center - PMC
+Managing customer messages
+Help center - Okta
+Create an Okta connector
+Help center - Google Workspace
+Google Workspace restore behavior
+Help center - PMC
+View or delete secondary tokens in PMC
+Help center - PMC
+Create an API token in PMC
+Help center - Jira
+Requirements for setting up your Jira backup
+Help center - Confluence
+Requirements for setting up your Confluence backup
+Help center - Microsoft Azure DevOps
+Create an Azure DevOps connector
+Help center - Microsoft Power BI
+Create a Power BI connector
+Help center - Miro
+Miro backup coverage
+Help center - Microsoft 365
+How Microsoft products are counted as Keepit seats for Entra ID connectors
+Help center - Zendesk
+Restore Zendesk data
+Help center - Zendesk
+Reauthenticate your Zendesk connector
+Help center - BambooHR
+BambooHR backup coverage
+Help center - API
+Edit the details of a specified contact
+Help center - API
+Update account settings
+Help center - API
+Retrieve the account ID of theÂ currently authenticated token
+Help center - API
+Create additional users (tokens) in a subaccount
+Help center - API
+Revive an account
+Help center - API
+Retrieve the list of languages for an account
+Help center - API
+Retrieve all registered contacts
+Help center - API
+Retrieve account settings
+Help center - API
+Update the list of languages for an account
+Help center - API
+Add a contact to the account
+Help center - API
+Retrieve a specified contact
+Help center - API
+Retrieve product details
+Help center - API
+Delete an account
+Help center - API
+Introduction
+Help center - API
+Authentication
+Help center - API
+API permissions
+Help center - API
+API headers
+Help center - API
+API versions
+Help center - Confluence
+Confluence backup coverage
+Help center - Okta
+Configure an Okta app integration
+Help center - Okta
+Okta backup coverage
+Help center - Microsoft Power BI
+Restore Power BI data
+Help center - Salesforce
+Salesforce backup coverage
+Help center - Salesforce
+Prepare CSV file with records to restore
+Help center - Salesforce
+Restore Salesforce AutoNumber Fields (i.e., Case Number)
+Help center - Salesforce
+Restore Salesforce records to a sandbox environment
+Help center - Salesforce
+Restore Salesforce records by manually selecting records
+Help center - Salesforce
+Restore Salesforce records via the connector browser
+Help center - Salesforce
+Restore your entire Salesforce organization
+Help center - Salesforce
+Recover Salesforce files and attachments
+Help center - Salesforce
+Restore Salesforce metadata
+Help center - Salesforce
+Anonymize Salesforce data during restore
+Help center - Salesforce
+What happens to your Salesforce records after you restore
+Help center - Salesforce
+Restore Salesforce records using a CSV file
+Help center - Salesforce
+Solve Salesforce record IDs challengesÂ with External ID field
+Help center - Salesforce
+Salesforce support for images embedded in rich text fields
+Help center - Salesforce
+Understanding Salesforce history and approval history limitations
+Help center - Salesforce
+How Salesforce seats are counted
+Help center - Salesforce
+Which Salesforce records can be restored
+Help center - PMC
+Working with custom properties
+Help center - PMC
+Working with Products
+Help center - PMC
+Using the Partner Management Console (PMC)
+Help center - Salesforce
+Setting your Salesforce API request thresholdÂ
+Help center - Zendesk
+Adding a tag when restoring a Zendesk ticket
+Help center - Zendesk
+Restore a Zendesk ticket
+Help center - Salesforce
+Configure a Salesforce connector
+Help center - API
+Retrieve resource consumption
+Help center - Jira
+Jira connector FAQs
+Help center - Keepit Platform
+FAQs for search behavior changes and expanded search
+Help center - Salesforce
+Salesforce advanced relationship restore
+Help center - Jira
+Restoring Jira objects
+Help center - PMC
+Seat usage
+Help center - Keepit Platform
+Retrieve a list of subaccount IDs and additional information
+Help center - Salesforce
+Preserving audit fields during restore in Salesforce
+Help center - API
+Retrieve the health status of a connector
+Help center - API
+Retrieve reason for unhealthy or critical status
+Help center - API
+Monitor timestamps and snapshot sizes
+Help center - API
+Retrieve job information
+Help center - API
+Filter job information
+Help center - API
+Retrieve latest imported snapshot timestamp
+Help center - API
+Retrieve monitoring summary for connector
+Help center - API
+Retrieve backup summaries for all connectors
+Help center - API
+Retrieve a backup summary for a connector
+Help center - API
+Retrieve all anomalies
+Help center - API
+Retrieve list of all connectors
+Help center - API
+Retrieve diagrams for selected category
+Help center - API
+Retrieve list of invoices for account
+Help center - API
+Retrieve the latest snapshot timestamp
+Help center - API
+Create a secondary token
+Help center - API
+Change token permissions and other details
+Help center - API
+Retrieve information on all tokens
+Help center - API
+Retrieve document with invoice content
+Help center - API
+Generate PDF version of the payment or credit
+Help center - API
+Retrieve anomaly details
+Help center - Microsoft Azure DevOps
+Download Azure Repos
+Help center - Microsoft Azure DevOps
+Azure DevOps backup coverage
+GitHub
+Recover a Git repository from a GitHub backup
+Help center - Microsoft Power BI
+Requirements for setting up a Power BI backup
+Help center - Monday
+Monday backup coverage
+Help center - Salesforce
+Disabling automation and rules during Salesforce record restores
+GitHub
+GitHub backup coverage
+MCP
+MCP overview for partners
+MCP
+AI client setup guide
+MCP
+MCP overview for customers
+MCP
+MCP example prompts
+MCP
+MCP prompt library
+Help center - Keepit Platform
+Register of exportable data by SaaS workload
+Help center - Keepit Platform
+Supported web browsers
+Help center - Keepit Platform
+Keepit's retention policy
+Help center - Keepit Platform
+Keepit security and GDPR compliance
+Help center - Keepit Platform
+Keepit's public IP addresses
+Help center - Keepit Platform
+What happens to data after canceling your Keepit service
+Help center - Keepit Platform
+Data encryption
+Help center - Keepit Platform
+Malware and Keepit backup
+Help center - Keepit Platform
+Keepit's data centers
+GitHub
+How GitHub seats are counted
+Help center - PMC
+User roles and permissions in PMC
+Help center - PMC
+Managing customer accounts as an MSP Partner
+Help center - PMC
+Managing accounts as a Partner
+Help center - PMC
+Managing accounts as a reseller
+Help center - PMC
+PMC Connector & Account Monitor
+Help center - Keepit Platform
+Create a secure shares policy
+Help center - Keepit Platform
+Retrieve data for a SIEM solution using Keepit API
+Help center - Keepit Platform
+Set up a SIEM integration
+Help center - Keepit Platform
+Create an API Token
+Help center - Keepit Platform
+View or delete secondary tokens
+Help center - Keepit Platform
+Set up TOTP authenticator for MFA
+Help center - Keepit Platform
+Configure multi-factor authentication
+Help center - Keepit Platform
+Why is it best to use an incognito window when using SSO?
+Help center - Keepit Platform
+Can I still use my Keepit credentials after setting up SSO?
+Help center - Keepit Platform
+Renew an SSO application certificate before expiration
+Help center - Keepit Platform
+Set up SSO using Okta as identity provider
+Help center - Keepit Platform
+Set up SSO using Microsoft Entra as identity provider
+Help center - Keepit Platform
+Configure SSO in Keepit
+Help center - Keepit Platform
+Create an SSO Admin user
+Help center - Keepit Platform
+SSO setup requirements
+Help center - Keepit Platform
+Sign-in session timeout
+Help center - Keepit Platform
+I forgot my password
+Help center - Keepit Platform
+Your service info
+Help center - Keepit Platform
+Your account info
+Help center - Keepit Platform
+Keepit messages
+Help center - Keepit Platform
+Create a user with a custom role
+Help center - Keepit Platform
+Create, edit, or delete a Keepit user
+Help center - Keepit Platform
+Keepit user roles and permissions
+Help center - Keepit Platform
+Generate a backup integrity report
+Help center - Keepit Platform
+Generate or schedule a backup coverage report
+Help center - Keepit Platform
+Using the Usage dashboard
+Help center - Keepit Platform
+Using the Anomaly Detection Dashboard
+Help center - Keepit Platform
+Using the Data Monitoring dashboard
+Help center - Keepit Platform
+Using the Data Protection dashboard
+Help center - Keepit Platform
+Extracting files after downloading data from Keepit
+Help center - Keepit Platform
+Assign or remove an RTBF label
+Help center - Keepit Platform
+Download data from a shared link
+Help center - Keepit Platform
+Share data via a secure share
+Help center - Keepit Platform
+Download your data
+Help center - Keepit Platform
+Compare snapshots
+Help center - Keepit Platform
+Find data for recovery
+Help center - Keepit Platform
+Manually start a backup
+Help center - Keepit Platform
+Using the Job Monitor
+Help center - Keepit Platform
+Understanding snapshot creation and backup success
+Help center - Keepit Platform
+What is a partial snapshot?
+Help center - Keepit Platform
+Backup schedule and frequency FAQs
+Help center - Keepit Platform
+Reauthenticate a connection application
+Help center - Keepit Platform
+Troubleshoot your connection applications
+Help center - Keepit Platform
+Respond to an application status
+Help center - Keepit Platform
+Add and manage connection applications
+Help center - Keepit Platform
+Add and manage connections
+Help center - Keepit Platform
+Managing access to connections
+Help center - Keepit Platform
+Capabilities required to back up Microsoft 365 workloads
+Help center - Keepit Platform
+Connection management FAQs
+Help center - Jira
+Jira backup coverage
+Help center - Docusign
+Create a Docusign connector
+Help center - Google Workspace
+Create a Google Workspace connector
+Help center - Miro
+Create a Miro connector
+Help center - Zendesk
+Create a Zendesk connector
+Help center - Confluence
+Create a Confluence connector
+Help center - Monday
+Create a Monday connector
+Help center - Jira
+Create a Jira connector
+GitHub
+Create a GitHub connector
+Help center - BambooHR
+Create a BambooHR connector
+Help center - Keepit Platform
+Get started with connection management
+Help center - Keepit Platform
+Revive a connector
+Help center - Keepit Platform
+Delete a connector
+Help center - Keepit Platform
+Why connector size and total folder sizes may not match
+Help center - Keepit Platform
+Connector health statuses
+Help center - Keepit Platform
+Reauthenticate a connector to add proper service account
+Help center - Keepit Platform
+Reauthenticate connector to update app permissions
+Help center - Keepit Platform
+Reauthenticate a connector when authentication is no longer valid
+Help center - Keepit Platform
+Reasons you may need to reauthenticate your connector
+Help center - Keepit Platform
+Configure role-based access control (RBAC) for a connector
+Help center - Keepit Platform
+Change a connector's retention period
+Help center - Google Workspace
+How Google Workspace seats are counted
+Help center - Google Workspace
+Restore Google Workspace files or folders
+Help center - Google Workspace
+Requirements for setting up a Google Workspace backup
+Help center - Microsoft 365
+Selecting users for Exchange, OneDrive, and Teams chats backup
+Help center - Salesforce
+Salesforce integration troubleshooting and best practices
+Jira Service Management
+Jira Service Management backup coverage
+Help center - Microsoft 365
+Microsoft items are skipped during the backup
+Help center - Microsoft 365
+Entra ID groups are missing from my backup configuration
+Help center - Microsoft 365
+Remove the admin service account from Groups and Teams
+Help center - Microsoft 365
+Public folder failed to restore
+Help center - Microsoft 365
+Not all of my dynamic group data is being backed up
+Help center - Microsoft 365
+Teams planner is not restoring
+Help center - Microsoft 365
+Teams channel failed to restore
+Help center - Microsoft 365
+Teams channel posts are not being backed up
+Help center - Microsoft 365
+I authenticated my Microsoft 365 connector with the wrong account
+Help center - Microsoft 365
+My Microsoft 365 connector's authentication is no longer valid
+Help center - Microsoft 365
+Throttling and what can be done
+Help center - Microsoft 365
+Restoring channel tabs and links
+Help center - Microsoft 365
+Restore team channels and posts
+Help center - Microsoft 365
+Restore Groups & Teams data from the connector level
+Help center - Microsoft 365
+Restore a Microsoft 365 team
+Help center - Microsoft 365
+Restoring SharePoint term store
+Help center - Microsoft 365
+Restore SharePoint item and file versions
+Help center - Microsoft 365
+Restoring SharePoint data with an advanced backup configuration
+Help center - Microsoft 365
+Can I restore any part of my SharePoint data?
+Help center - Microsoft 365
+Restore SharePoint sites from the connector level
+Help center - Microsoft 365
+SharePoint restore behavior
+Help center - Microsoft 365
+Best practices for restoring SharePoint data
+Help center - Microsoft 365
+Using the Teams Chat Viewer
+Help center - Microsoft 365
+Recover data using the PST download
+Help center - Microsoft 365
+Download a Microsoft 365 user
+Help center - Microsoft 365
+How long does an import take?
+Help center - Microsoft 365
+Microsoft 365 import behavior
+Help center - Microsoft 365
+Move or copy an item from a restored folder to a different one
+Help center - Microsoft 365
+How restored Outlook emails are sorted
+Help center - Microsoft 365
+Recover a deleted Microsoft 365 user
+Help center - Microsoft 365
+Recover an existing Microsoft 365 user
+Help center - Microsoft 365
+Recover Teams chats
+Help center - Microsoft 365
+OneDrive data restore behavior
+Help center - Microsoft 365
+Exchange data restore behavior
+Help center - Microsoft 365
+Restore OneDrive data from the connector level
+Help center - Microsoft 365
+Restore Exchange data from the connector level
+Help center - Microsoft 365
+Restore Microsoft 365 items
+Help center - Microsoft 365
+Missing data areas in your Microsoft 365 connector configuration?
+Help center - Microsoft 365
+Tenant missing Microsoft 365 licenses
+Help center - Microsoft 365
+What counts as a seat in a Microsoft 365 connector
+Help center - Microsoft 365
+How Microsoft products are counted as Keepit seats
+Help center - Microsoft 365
+Why snapshot size may be smaller from amount of data seen in Microsoft 365
+Help center - Microsoft 365
+What happens to backups after Microsoft 365 tenant-to-tenant migration
+Help center - Microsoft 365
+How Keepit processes data in Microsoft 365
+Help center - Microsoft 365
+Microsoft 365 data integrity
+Help center - Microsoft 365
+EWS to Microsoft Graph API migration: What it means for your Exchange backup
+Help center - Keepit Platform
+Understanding recurrently skipped items for SharePoint content storage
+Help center - Keepit Platform
+Understanding recurrently skipped items for unlicensed users
+Help center - Microsoft 365
+Backing up encrypted messages
+Help center - Microsoft 365
+Does Keepit support Legacy Authentication?
+Help center - Microsoft 365
+Does Keepit back up inactive mailboxes?
+Help center - Microsoft 365
+Does Keepit back up data on Litigation Hold?
+Help center - Microsoft 365
+Microsoft 365 Groups and Teams backup coverage
+Help center - Microsoft 365
+SharePoint backup coverage
+Help center - Microsoft 365
+Teams Chats custom app registration FAQ
+Help center - Microsoft 365
+PowerShell script for Entra ID app registration
+Help center - Microsoft 365
+Generate a certificate for your Entra ID app registration
+Help center - Microsoft 365
+Connect your Entra app registration to Keepit
+Help center - Microsoft 365
+Create an app registration in Entra ID
+Help center - Microsoft 365
+Permissions for Microsoft 365 backup and restore
+Help center - Microsoft 365
+Removing the admin role from the Microsoft 365 backup account
+Help center - Microsoft 365
+How admin user credentials are used in Keepit
+Help center - Microsoft 365
+When is a Privileged Role Admin or Global Admin required for the Microsoft 365 backup service account?
+Help center - Microsoft 365
+Calculate the amount of data you have in Microsoft 365
+Help center - Microsoft 365
+Multi-Geo support for your Microsoft 365 connector
+Help center - Microsoft 365
+Back up shared mailboxes
+Help center - Microsoft 365
+Configure your Microsoft 365 backup
+Help center - Microsoft 365
+Create a Microsoft 365 connector
+Help center - Microsoft 365
+Requirements for setting up a Microsoft 365 backup
+Help center - Docusign
+Docusign backup coverage
+Help center - API
+Create a subaccount
+Help center - Keepit Platform
+Create and manage support tickets
+Help center - Salesforce
+Restore Salesforce records
+Help center - Keepit Platform
+Using the Keepit Audit Log
+Help center - Microsoft 365
+Microsoft 365 backup coverage
+Help center - Microsoft 365
+Recover Outlook Notes
+Help center - Google Workspace
+Google Workspace backup coverage
+Help center - Keepit Platform
+Your user info
+Help center - Salesforce
+Estimated restore size in Salesforce
+Help center - Power Platform/Dynamics 365
+What counts as a seat in a Power Platform / Dynamics 365 backup
+Help center - Salesforce
+Permissions for Salesforce backup and restore
+Help center - Keepit Platform
+Deploy the Keepit ARM template to MicrosoftÂ Sentinel
+Help center - Microsoft 365
+Restore a SharePoint site
+Help center - Microsoft 365
+Import Microsoft 365 data
+Help center - Microsoft 365
+Restore OneDrive file versions
+Help center - Power Platform/Dynamics 365
+Why can't I reauthenticate my Power Platform / Dynamics 365 connector?
+Help center - Power Platform/Dynamics 365
+Restore model-driven apps
+Help center - Power Platform/Dynamics 365
+Recover Canvas apps
+Help center - Power Platform/Dynamics 365
+Restore Power Automate cloud flows
+Help center - Power Platform/Dynamics 365
+Restore Power Automate desktop flows
+Help center - Power Platform/Dynamics 365
+Restore Power Pages
+Help center - Power Platform/Dynamics 365
+Restore Dynamics 365 records
+Help center - Power Platform/Dynamics 365
+Power Platform / Dynamics 365 backup coverage
+Help center - Power Platform/Dynamics 365
+Removing the Global admin role from a Power Platform / Dynamics 365 backup service account
+Help center - Power Platform/Dynamics 365
+Requirements for setting up a Power Platform / Dynamics 365 backup
+Help center - Power Platform/Dynamics 365
+Create a Power Platform / Dynamics 365 connector
+Help center - Microsoft Entra ID
+Trouble restoring an Entra ID conditional access policy?
+Help center - Microsoft Entra ID
+Entra ID objects are missing from my backup configuration
+Help center - Microsoft Entra ID
+Recover Windows LAPS
+Help center - Microsoft Entra ID
+Recover a BitLocker key
+Help center - Microsoft Entra ID
+Recover Entra ID activity logs
+Help center - Microsoft Entra ID
+Restore authentication methods
+Help center - Microsoft Entra ID
+Restore an Entra ID conditional access policy
+Help center - Microsoft Entra ID
+Restore an Entra ID policy
+Help center - Microsoft Entra ID
+Restore an Entra ID object's licenses
+Help center - Microsoft Entra ID
+Restore an Entra ID object's relationships
+Help center - Microsoft Entra ID
+What happens when I restore an Entra ID object?
+Help center - Microsoft Entra ID
+Restore Entra ID data to a different tenant
+Help center - Microsoft Entra ID
+Restoring Entra ID data from the connector level
+Help center - Microsoft Entra ID
+Restore an Entra ID app registration
+Help center - Microsoft Entra ID
+Restore an Entra ID service principal
+Help center - Microsoft Entra ID
+Restore an Entra ID role
+Help center - Microsoft Entra ID
+Restore an Entra ID administrative unit
+Help center - Microsoft Entra ID
+Restore an Entra ID user
+Help center - Microsoft Entra ID
+Restore an Entra ID group
+Help center - Microsoft Entra ID
+Preview and compare Entra ID metadata
+Help center - Microsoft Entra ID
+Can the service account used for Entra ID backup have MFA enabled?
+Help center - Microsoft Entra ID
+Supported Microsoft Intune device configuration profiles
+Help center - Microsoft Entra ID
+Supported Entra ID object attributes
+Help center - Microsoft Entra ID
+Entra ID backup coverage
+Help center - Microsoft Entra ID
+What counts as a seat in an Entra ID connector
+Help center - Microsoft Entra ID
+Permissions for Entra ID Backup
+Help center - Microsoft Entra ID
+When is the Global Admin role required for Entra ID backup service account?
+Help center - Microsoft Entra ID
+Create an Entra ID connector
+Help center - Microsoft Entra ID
+Requirements for setting up an Entra ID backup
+Help center - Salesforce
+Create a Salesforce connector
+Help center - Salesforce
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/help/mcp-category/ai-client-setup-guide/
+Content type: Web page
+Last modified: 2026-05-25T13:08:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Prerequisites (All Clients)
+Before configuring any client, ensure your local Keepit MCP server is installed and running.
+1. Clone & install
+git clone https://github.com/keepit-official/keepit-mcp.git
+cd keepit-mcp
+npm install
+2. Create .env
+env isn’t fully supported. Syntax highlighting is based on Plain Text.
+KEEPIT_USER=your-secondary-token-id
+KEEPIT_PASS=your-secondary-token-secret
+KEEPIT_ENV=eu
+3. Build
+npm run build
+4. Verify
+npm start
+You should see the server start without errors.
+Remember the absolute path to build/main.js — needed for all client configurations.
+Client setup instructions
+Claude Desktop (Recommended)
+Transport: stdio
+Setup: .mcpb package (easiest) or manual JSON config
+Option A — Install via .mcpb
+npm run generate-mcpb
+Then:
+1. Open Claude Desktop > Settings > Extensions > Advanced.
+2. Click Install Extension.
+3. Select keepit-mcp.mcpb.
+4. Enter secondary token credentials.
+5. Enable the extension.
+6. Restart Claude Desktop if needed.
+Option B — Manual config (claude_desktop_config.json)
+{
+"mcpServers": {
+"keepit": {
+"command": "node",
+"args": ["/path/to/keepit-mcp/build/main.js"],
+"env": {
+"KEEPIT_USER": "your-secondary-token-id",
+"KEEPIT_PASS": "your-secondary-token-secret",
+"KEEPIT_ENV": "eu"
+}
+}
+}
+}Verify:
+Ask Claude:
+“Do I have any unhealthy connectors?”
+Cursor
+Transport: stdio
+Config: ~/.cursor/mcp.json or project-level .cursor/mcp.json
+Setup
+1. Open Cursor > Settings > Tools & Integrations > MCP Tools
+2. Click Add Custom MCP
+3. Add:
+{
+"mcpServers": {
+"keepit": {
+"command": "node",
+"args": ["/path/to/keepit-mcp/build/main.js"],
+"env": {
+"KEEPIT_USER": "your-secondary-token-id",
+"KEEPIT_PASS": "your-secondary-token-secret",
+"KEEPIT_ENV": "eu"
+}
+}
+}
+}Restart Cursor.
+Usage:
+Switch to Agent Mode (Ctrl + .) and ask:
+“Show me unhealthy Keepit connectors.”
+VS code (GitHub Copilot)
+Transport: stdio
+Requires: Copilot Extension + Agent Mode
+Setup
+Add .vscode/mcp.json:
+{
+"servers": {
+"keepit": {
+"command": "node",
+"args": ["/path/to/keepit-mcp/build/main.js"],
+"env": {
+"KEEPIT_USER": "your-secondary-token-id",
+"KEEPIT_PASS": "your-secondary-token-secret",
+"KEEPIT_ENV": "eu"
+}
+}
+}
+}Open Copilot Chat in Agent mode.
+If MCP tools do not appear, enable:
+chat.mcp.enabled
+ChatGPT Desktop
+Support: â Limited for local stdio MCP
+Transport: stdio (experimental and inconsistent)
+Setup (may or may not work reliably)
+1. Open Settings > Beta Features > MCP.
+2. Go to MCP Servers > Add Server
+3. Use:
+- Name: Keepit
+- Command: node
+- Arguments: /path/to/keepit-mcp/build/main.js
+Environment:
+KEEPIT_USER=your-secondary-token-id
+KEEPIT_PASS=your-secondary-token-secret
+KEEPIT_ENV=eu
+Restart ChatGPT Desktop.
+Note: Many users report that ChatGPT Desktop fails to launch stdio-based local MCP servers.
+Transport: stdio
+Setup: CLI
+Add server
+claude mcp add keepit \
+-e KEEPIT_USER=your-secondary-token-id \
+-e KEEPIT_PASS=your-secondary-token-secret \
+-e KEEPIT_ENV=eu \
+-- node /path/to/keepit-mcp/build/main.js
+Verify
+claude mcp list
+/AnythingLLM
+Transport: stdio
+Best for: Offline/airâgapped deployments
+Setup
+Edit anythingllm_mcp_servers.json:
+{
+"mcpServers": {
+"keepit": {
+"command": "node",
+"args": ["/path/to/keepit-mcp/build/main.js"],
+"env": {
+"KEEPIT_USER": "your-secondary-token-id",
+"KEEPIT_PASS": "your-secondary-token-secret",
+"KEEPIT_ENV": "eu"
+}
+}
+}
+}Restart AnythingLLM.
+LM Studio
+Transport: stdio (partial)
+Note: MCP is supported, but stdio behavior varies by version.
+Setup
+Open Program > Install > Edit mcp.json:
+{
+"mcpServers": {
+"keepit": {
+"command": "node",
+"args": ["/path/to/keepit-mcp/build/main.js"],
+"env": {
+"KEEPIT_USER": "your-secondary-token-id",
+"KEEPIT_PASS": "your-secondary-token-secret",
+"KEEPIT_ENV": "eu"
+}
+}
+}
+}Restart LM Studio.
+Jan (Full stdio support)
+Jan has integrated MCP as a core feature, with native stdio support.
+Transport: stdio
+Setup: via Settings or JSON file
+Models: Supports tool-using models (e.g., Jan Nano, Llama 3.1 Tooling)
+Setup via Jan settings (recommended)
+1. Open Settings
+2. Go to Advanced Settings → MCP Servers
+3. Click Add Server
+4. Paste:
+{
+"mcpServers": {
+"keepit": {
+"command": "node",
+"args": [
+"/absolute/path/to/keepit-mcp/build/main.js"
+],
+"env": {
+"KEEPIT_USER": "your-secondary-token-id",
+"KEEPIT_PASS": "your-secondary-token-secret",
+"KEEPIT_ENV": "eu"
+}
+}
+}
+}Manual file location
+- macOS: ~/Library/Application Support/jan/settings/settings.json
+- Windows: %APPDATA%\jan\settings\settings.json
+Requirements
+- Use absolute paths
+- Ensure node is installed
+- Use a tool-capable model
+Generic MCP client setup
+Any MCP client that supports stdio can run Keepit MCP with:
+Command:
+node
+Arguments:
+/absolute/path/to/keepit-mcp/build/main.js
+Environment:
+KEEPIT_USER=your-secondary-token-id
+KEEPIT_PASS=your-secondary-token-secret
+KEEPIT_ENV=eu
+Keepit MCP uses stdio JSON-RPC only, no HTTP server required.
+Security best practices
+- Use secondary tokens only
+- Never commit credentials to Git
+- Rotate tokens every 90 days
+- MCP v1 is readâonly, no write permissions needed
+- Review and approve tool calls inside each AI client
+Troubleshooting
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/help/mcp-category/mcp-example-prompts/
+Content type: Web page
+Last modified: 2026-05-20T13:02:36+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+MCP example prompts
+MCPBy 
+Keepit MCP is designed for talking naturally. Below are example prompts organized by use case.
+Account info
+- “Who has access to my partner account and what roles do they have?”
+- “Show me all customer accounts I manage — I need their names, IDs, and additional details”
+Connector Insights
+- “Are there any connectors across my entire portfolio that are currently failing?”
+- “What's the backup health status for XYZ Corp? When did each of their connectors last back up successfully?”
+Seat usage info
+- “Which of my customers are currently over their seat limit? Show me who's in grace period and who has already expired”
+- “How has seat usage changed for Contoso Ltd over the last 3 months? I want to see the trend”
+Audit log info
+- “What changes were made across my accounts last week? Give me a full activity log”
+- “Something changed in one of my customer accounts on March 12 — can you pull the audit log for that day so I can see what happened?”
+Tips for writing effective prompts
+- Be specific about time periods. Use ISO duration codes (P7D, PT6H) or natural language ("last 7 days," "since yesterday.")
+- Include connector GUIDs when you want data about specific connectors. You can find GUIDs in the results of any connector listing query.
+- Ask for comparisons. MCP tools are composable, so prompts like "compare X with Y" work well.
+- Request specific output formats. Ask for tables, sorted lists, or summaries depending on what you need.
+- Chain follow-up questions. After getting results, ask deeper questions like "Why did that connector fail?" or "Show me the audit trail for that time window."
+- Use grouping language. Phrases like "group by," "split into," and "rank by" help the AI organize results meaningfully.
+- Start broad, then narrow. Begin with an overview prompt, then drill into specific connectors or time ranges based on what you find
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/help/mcp-category/mcp-overview-for-customers/
+Content type: Web page
+Last modified: 2026-05-20T13:06:09+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Installation
+Step 1: Clone the repository
+git clone https://github.com/keepit-official/keepit-mcp.git
+cd keepit-mcp
+Step 2: Install dependencies
+npm install
+Step 3: Configure credentials
+For production use, we recommend using a secrets manager instead of storing credentials in clear text file. The MCP reads credentials from environment variables, so any method that injects KEEPIT_USER, KEEPIT_PASS, and KEEPIT_ENV will work.
+Basic Setup (Non-Encrypted)
+Pass credentials directly in your MCP client configuration.
+The Claude configs are typically stored in these paths:
+macOS: ~/Library/Application Support/Claude/claude_desktop_config.json
+Linux: ~/.config/Claude/claude.json
+Windows: %APPDATA%\Claude\claude_desktop_config.json
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "node",
+      "args": ["/path/to/keepit-mcp/build/main.js"],
+      "env": {
+        "KEEPIT_USER": "your-username",
+        "KEEPIT_PASS": "your-password",
+        "KEEPIT_ENV": "us-dc"
+      }
+    }
+  }
+}Credentials are passed directly in your MCP client configuration. While not encrypted, this keeps secrets out of your project repository, preventing accidental Git commits.
+Using 1Password CLI (Cross-Platform)
+1Password CLI (op) works on macOS, Linux, and Windows. Adjust the node path according to your deployment. In order to use it via CLI, you have to enable 1Password CLI in the 1Password desktop app Settings > Developer and allow biometric unlock.
+Documentation: 1Password CLI: Getting Started | Secret References
+Path examples:
+- macOS/Linux: /path/to/keepit-mcp/build/main.js
+- Windows: C:/path/to/keepit-mcp/build/main.js
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "op",
+      "args": ["run", "--", "node", "/path/to/keepit-mcp/build/main.js"],
+      "env": {
+        "KEEPIT_USER": "op://Private/Keepit/username",
+        "KEEPIT_PASS": "op://Private/Keepit/password",
+        "KEEPIT_ENV": "op://Private/Keepit/datacenter"
+      }
+    }
+  }
+}Windows user environment variables
+Note: This option is for Windows users. Credentials are stored in the Windows Registry (unencrypted) but kept separate from the config file, reducing the risk of accidental sharing.
+Set the following as User Environment Variables (see Microsoft's guide on environment variables):
+- KEEPIT_USER : your-username
+- KEEPIT_PASS : your-password
+- KEEPIT_ENV : us-dc
+Restart Claude Desktop after adding the variables.
+Then use this config no env block needed:
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "node",
+      "args": ["C:/Users/YourName/keepit-mcp/build/main.js"]
+    }
+  }
+}Security note: This approach stores credentials as plaintext in the Windows Registry. Any process running as your user can read them. The benefit over the basic setup is that credentials won't be accidentally shared when copying config files.
+macOS Keychain
+Documentation: Keychain Access User Guide | security command man page
+Option A: Using Keychain Access GUI
+- Open Keychain Access (Applications → Utilities → Keychain Access)
+- Select login keychain in the sidebar
+- Click File → New Password Item (or press âN)
+- Create two entries:Keychain Item Name: keepit-mcp-username, Account: keepit, Password: your-usernameKeychain Item Name: keepit-mcp-password, Account: keepit, Password: your-password
+Option B: Using Terminal
+security add-generic-password -s "keepit-mcp-username" -a "keepit" -w "your-username"
+security add-generic-password -s "keepit-mcp-password" -a "keepit" -w "your-password"
+Claude Desktop config (uses security find-generic-password to retrieve at runtime):
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "sh",
+      "args": [
+        "-c",
+        "KEEPIT_USER=$(security find-generic-password -s keepit-mcp-username -a keepit -w) KEEPIT_PASS=$(security find-generic-password -s keepit-mcp-password -a keepit -w) KEEPIT_ENV=us-dc node /path/to/keepit-mcp/build/main.js"
+      ]
+    }
+  }
+}Linux secret-tool (GNOME Keyring / libsecret)
+Documentation: libsecret / secret-tool | secret-tool man page
+First, store credentials (one-time):
+secret-tool store --label="Keepit MCP Username" service keepit-mcp field username
+secret-tool store --label="Keepit MCP Password" service keepit-mcp field password
+Then in your MCP client config (e.g., Claude Code's ~/.claude.json or similar):
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "sh",
+      "args": [
+        "-c",
+        "KEEPIT_USER=$(secret-tool lookup service keepit-mcp field username) KEEPIT_PASS=$(secret-tool lookup service keepit-mcp field password) KEEPIT_ENV=us-dc node /path/to/keepit-mcp/build/main.js"
+      ]
+    }
+  }
+}Step 4: Connect to your AI client
+For Claude Desktop using the .mcpb package:
+1. Build the package: npm run generate-mcpb
+2. In Claude Desktop, go to Settings > Extensions > Advanced settings.
+3. Click Install Extension and select the generated keepit-mcp.mcpb file.
+4. Enter your Keepit credentials when prompted.
+5. Enable the extension.
+Alternatively, run the server directly with npm start and configure your AI client to connect to the local MCP endpoint.
+Supported tools and capabilities
+Keepit MCP exposes 8 tools via the MCP protocol.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/help/mcp-category/mcp-overview-for-partners/
+Content type: Web page
+Last modified: 2026-05-25T13:18:09+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Installation
+Step 1: Clone the repository
+git cloneâ¯https://github.com/keepit-official/keepit-mcp.git
+cd keepit-mcp
+Step 2: Install dependencies
+npm install
+Step 3: Configure credentials
+For production use, we recommend using a secrets manager instead of storing credentials in clear text file. The MCP reads credentials from environment variables, so any method that injects KEEPIT_USER, KEEPIT_PASS, and KEEPIT_ENV will work.
+Basic setup (Non-encrypted)
+Pass credentials directly in your MCP client configuration.
+The Claude configs are typically stored in these paths:
+macOS:â¯~/Library/Application Support/Claude/claude_desktop_config.json
+Linux:â¯~/.config/Claude/claude.json
+Windows:â¯%APPDATA%\Claude\claude_desktop_config.json
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "node",
+      "args": ["/path/to/keepit-mcp/build/main.js"],
+      "env": {
+        "KEEPIT_USER": "your-username",
+        "KEEPIT_PASS": "your-password",
+        "KEEPIT_ENV": "us-dc"
+      }
+    }
+  }
+}Credentials are passed directly in your MCP client configuration. While not encrypted, this keeps secrets out of your project repository, preventing accidental Git commits.
+Using 1Password CLI (Cross-Platform)
+1Password CLI (op) works on macOS, Linux, and Windows. Adjust the node path according to your deployment. In order to use it via CLI, you have to enable 1Password CLI in the 1Password desktop app Settings > Developer and allow biometric unlock.
+Documentation:â¯1Password CLI: Getting Startedâ¯|â¯Secret References
+Path examples:
+- macOS/Linux:â¯/path/to/keepit-mcp/build/main.js
+- Windows:â¯C:/path/to/keepit-mcp/build/main.js
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "op",
+      "args": ["run", "--", "node", "/path/to/keepit-mcp/build/main.js"],
+      "env": {
+        "KEEPIT_USER": "op://Private/Keepit/username",
+        "KEEPIT_PASS": "op://Private/Keepit/password",
+        "KEEPIT_ENV": "op://Private/Keepit/datacenter"
+      }
+    }
+  }
+}Windows user environment variables
+Note:â¯This option is for Windows users. Credentials are stored in the Windows Registry (unencrypted) but kept separate from the config file, reducing the risk of accidental sharing.
+Set the following as User Environment Variables (seeâ¯Microsoft's guide on environment variables):
+- KEEPIT_USER : your-username
+- KEEPIT_PASS : your-password
+- KEEPIT_ENV : us-dc
+Restart Claude Desktop after adding the variables.
+Then use this config no env block needed:
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "node",
+      "args": ["C:/Users/YourName/keepit-mcp/build/main.js"]
+    }
+  }
+}Security note: This approach stores credentials as plaintext in the Windows Registry. Any process running as your user can read them. The benefit over the basic setup is that credentials won't be accidentally shared when copying config files.
+macOS Keychain
+Documentation:â¯Keychain Access User Guideâ¯|â¯security command man page
+Option A: Using Keychain Access GUI
+1. Openâ¯Keychain Accessâ¯(Applications → Utilities → Keychain Access)
+2. Selectâ¯loginâ¯keychain in the sidebar
+3. Clickâ¯File > New Password Itemâ¯(or press âN)
+4. Create two entries:
+Keychain Item Name: keepit-mcp-username, Account: keepit, Password: your-username
+Keychain Item Name: keepit-mcp-password, Account: keepit, Password: your-password
+Option B: Using terminal
+security add-generic-password -s "keepit-mcp-username" -a "keepit" -w "your-username"
+security add-generic-password -s "keepit-mcp-password" -a "keepit" -w "your-password"
+Claude Desktop configâ¯(uses security find-generic-password to retrieve at runtime):
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "sh",
+      "args": [
+        "-c",
+        "KEEPIT_USER=$(security find-generic-password -s keepit-mcp-username -a keepit -w) KEEPIT_PASS=$(security find-generic-password -s keepit-mcp-password -a keepit -w) KEEPIT_ENV=us-dc node /path/to/keepit-mcp/build/main.js"
+      ]
+    }
+  }
+}Linux secret-tool (GNOME Keyring / libsecret)
+Documentation:â¯libsecret / secret-toolâ¯|â¯secret-tool man page
+First, store credentials (one-time):
+secret-tool store --label="Keepit MCP Username" service keepit-mcp field username
+secret-tool store --label="Keepit MCP Password" service keepit-mcp field password
+Then in your MCP client config (e.g., Claude Code's ~/.claude.json or similar):
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "sh",
+      "args": [
+        "-c",
+        "KEEPIT_USER=$(secret-tool lookup service keepit-mcp field username) KEEPIT_PASS=$(secret-tool lookup service keepit-mcp field password) KEEPIT_ENV=us-dc node /path/to/keepit-mcp/build/main.js"
+      ]
+    }
+  }
+}Step 4: Connect to your AI client
+For Claude Desktop using the .mcpb package:
+1. Build the package:npmrun generate-mcpb
+2. In Claude Desktop, go toâ¯Settingsâ¯>â¯Extensionsâ¯>â¯Advanced settings.
+3. Clickâ¯Install Extensionâ¯and select the generatedkeepit-mcp.mcpbfile.
+4. Enter your Keepit credentials when prompted.
+5. Enable the extension.
+Alternatively, run the server directly with npm start and configure your AI client to connect to the local MCP endpoint. 
+Supported tools and capabilities
+Keepit MCP for Partners exposes 11 tools via the MCP protocol.â¯
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/help/mcp-category/mcp-prompt-library/
+Content type: Web page
+Last modified: 2026-05-20T10:49:28+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+1. Daily health checks
+Start your morning with these. Quick queries to confirm everything is running and catch issues early.
+Full estate overview
+Count all connectors, list their GUIDs, and show each connector’s current health status.
+Unhealthy connectors
+Do I have any unhealthy connectors? Show the connector name, GUID, and the reason for the health issue.
+Snapshot freshness
+Show me connectors with latest snapshot older than 24 hours. Include the latest snapshot timestamp and how many hours ago it was, sorted by staleness.
+Health exceptions
+Flag any connectors whose health is not OK or Warning. Include the reason returned by the health check.
+Coverage gaps
+Identify connectors that have never completed a successful snapshot.
+Active jobs check
+What backup jobs are running right now? Flag any that have been running for 2 hours or more.
+Quick failure scan
+Show me failed audit logs from the last 6 hours.
+Morning summary
+Give me a morning health summary: total connectors, how many are healthy vs unhealthy, any snapshots older than 24h, and any currently running jobs that seem stuck.
+2. Incident response
+Use these when investigating an outage, failure, or unexpected behavior. They combine multiple data sources for fast root cause analysis.
+Full outage investigation
+We had an outage yesterday. For all connectors: show health status now, show job history for P2D with any spike in failures, show audit logs for P2D with any config changes or unusual admin activity, and cross-reference which connectors had both failed jobs AND audit events within the same 2-hour window.
+Job outcome summary
+For the last 7 days of job history, summarize success vs failure counts with failure reasons grouped by type.
+Failure hotspots
+Show me the top 10 connectors by job volume in the last 7 days, with their failure rates. Highlight any with failure rate above 10%.
+Recent restore jobs
+List all restore jobs from the last 30 days. Include the connector, start time, duration, and final status.
+Failure concentration
+Over the last 30 days, list connectors with 3 or more failed jobs. For each, include the last successful snapshot time.
+Connector deep dive with correlation
+For connector [YOUR-GUID], correlate job history with audit events over the last 3 days. Were there any config changes before or during job failures?
+Activity drop-off detection
+Identify connectors with no jobs in the last 14 days but that had activity in the preceding 14 days. Something may have silently broken.
+3. SLA and RPO monitoring
+Track backup currency against your service level agreements and recovery point objectives.
+SLA breach detection
+Find connectors with latest snapshot older than 12 hours. Split them into Critical vs Non-critical groups. (Provide your own critical connector list or naming convention.)
+Cadence analysis
+For connector [YOUR-GUID], review the last 10 snapshots over the past 7 days. Are there any gaps of 24 hours or more between snapshots?
+RPO conformance report
+For these connectors: [GUID-1], [GUID-2], [GUID-3] — report snapshot currency against a 24-hour RPO target. Highlight any breaches.
+Trend shift detection
+Compare backup cadence for the last 30 days vs the prior 30 days. Have any connectors had a significant change in snapshot frequency?
+Snapshot gap analysis
+For connector [YOUR-GUID] over the last 30 days, identify any period where there was a 24-hour gap between snapshots. Also show which single day had the most snapshots.
+Rollout validation
+We deployed changes 6 hours ago. For connectors [GUID-1], [GUID-2], [GUID-3]: confirm a snapshot occurred in the last 6 hours. If not, show the most recent snapshot time.
+4. Audit and compliance
+For compliance officers, security reviews, and audit preparation. Pull structured audit data and generate reports through conversation.
+Broad 90-day audit review
+Pull audit logs for the last 90 days. Summarize by action type, actor, and failure count. Highlight any spikes in activity or unusual actors.
+Recent failure analysis
+For the last 72 hours, list all failed admin actions. Include the actor, sanitized IP address, and error messages.
+Configuration change tracking
+Over the last 30 days, show all audit events tied to connector configuration changes. Include affected connector GUIDs and who made each change.
+Destructive action export
+Export the last 7 days of audit logs where actions include delete, purge, or disable. Sort by newest first.
+Actor activity summary
+For the last 30 days, show a breakdown of audit log actions by actor. Who has been the most active? Are there any actors with only failed actions?
+Compliance report generation
+Generate a compliance summary for the last quarter: number of protected connectors, worst snapshot staleness observed, job failure trend, and any notable audit events.
+Audit anomaly detection
+In the last 7 days of audit logs, flag anything unusual: actions at odd hours, unfamiliar actors, bulk operations, or repeated failures from the same source.
+Permission escalation check
+Review audit logs for the last 30 days. Were there any events involving permission changes, role assignments, or token creation?
+5. Change management
+Use before and after maintenance windows to validate that backups are unaffected by changes.
+Pre-maintenance baseline
+Capture current health status and latest snapshot timestamp for connectors: [GUID-1], [GUID-2], [GUID-3]. I will use this as a baseline before maintenance.
+Post-maintenance validation
+Maintenance is complete. For connectors [GUID-1], [GUID-2], [GUID-3]: re-check health status and latest snapshot. Compare against the baseline we captured earlier and report any changes.
+Post-deployment snapshot confirmation
+We deployed changes 6 hours ago. For connectors [GUID-1], [GUID-2], [GUID-3], confirm that at least one successful snapshot has occurred since then. If not, show the most recent snapshot time.
+Change window audit trail
+Pull audit logs from yesterday between 18:00 and 22:00 UTC. Show all actions taken during that maintenance window, grouped by actor.
+6. Risk and anomaly detection
+Proactive monitoring to surface problems before they become incidents.
+Risk ranking
+Find connectors with unhealthy status or snapshots 48 hours or more stale. Rank by risk: health status first, then staleness.
+Silent failure detection
+Identify connectors with no jobs in the last 14 days but that had prior activity. These may be silently broken.
+Failure pattern analysis
+Over the last 30 days, list connectors with 3 or more failed jobs. Include the last successful snapshot time for each.
+Anomalous activity detection
+In the last 7 days, flag any audit log anomalies: unusual actors, bulk operations, actions outside business hours, or repeated failures.
+Backup drift detection
+Compare snapshot cadence for the last 30 days vs the prior 30 days across all connectors. Which connectors have had the biggest change in backup frequency?
+7. Executive and weekly reports
+Summary-level views for leadership, weekly stand-ups, and board-level reporting.
+Weekly health digest
+Generate a weekly backup health report: total connectors, count unhealthy, count with snapshots older than 24 hours, top job failure reasons for the last 7 days, and any audit anomalies.
+Quarterly compliance summary
+Summarize the last quarter: total protected connectors, worst snapshot staleness observed, job failure trend over the period, and notable audit events.
+Departmental rollup
+Group connectors by name containing HR, Finance, and Legal. For each group, show: total connectors, how many are unhealthy, and how many have snapshots older than 24 hours.
+Environment comparison
+Compare connectors with "Prod" in their name vs "Non-Prod" connectors. Show snapshot freshness and job failure rates over the last 14 days for each group.
+Executive risk summary
+Give me a one-paragraph executive summary of our current backup posture: are we healthy overall, what are the top risks, and what needs attention this week?
+8. Microsoft 365 / Lokka integration
+These prompts use the Lokka integration to query Azure AD / Entra ID data from your tenant. Requires Lokka MCP to be configured.
+Tenant user overview
+Get all users in my tenant. How many total? How many are guests vs members?
+Guest user audit
+List all guest and external users in my tenant. When were they added? Are any of them in security groups?
+Disabled account check
+Find all disabled user accounts. Do any of them still have admin roles or group memberships assigned?
+Admin user inventory
+List all users with admin roles in my tenant. Include the specific role and whether the account is active or disabled.
+Group permissions review
+List all groups in my tenant and their member counts. Highlight any groups with external or guest members.
+Tips for Writing Effective Prompts
+- Be specific about time periods. Use ISO duration codes (P7D, PT6H) or natural language ("last 7 days", "since yesterday").
+- Include connector GUIDs when you want data about specific connectors. You can find GUIDs in the results of any connector listing query.
+- Ask for comparisons. MCP tools are composable, so prompts like "compare X with Y" work well.
+- Request specific output formats. Ask for tables, sorted lists, or summaries depending on what you need.
+- Chain follow-up questions. After getting results, ask deeper questions like "Why did that connector fail?" or "Show me the audit trail for that time window."
+- Use grouping language. Phrases like "group by," "split into," and "rank by" help the AI organize results meaningfully.
+- Start broad, then narrow. Begin with an overview prompt, then drill into specific connectors or time ranges based on what you find.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/help/platform-category/backup-schedule-and-frequency-faqs/
+Content type: Web page
+Last modified: 2026-06-23T21:00:49+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup schedule and frequency FAQs
+How often does the backup run and how are backup jobs are scheduled?
+Keepit schedules two backups per day by default. The backup jobs are scheduled automatically to run every 12 hours.
+- If a backup job lasts less than 12 hours, the next backup will be scheduled 12 hours from the start of the prior backup.
+- If a backup jobs lasts longer than 12 hours, the next backup will begin as soon as the prior job completes.
+For example, if a backup job starts at 8 a.m. and lasts less than 12 hours, the next backup job will be scheduled for 8 p.m. If a backup job starts at 8 a.m. but lasts more than 12 hours, for example 14 hours, the next backup job will be scheduled to begin as soon as the prior backup job completes. This means the next backup job should start at 10 p.m. The following backup job will be scheduled for 10 a.m.
+If a backup job requires an extended time to complete, Keepit automatically creates a partial snapshot every 4 hours until the full dataset is backed up.
+For more about partial snapshots, see: What are partial snapshots?
+When does the first backup start?
+Your backup will be scheduled immediately after you configure your connector.
+How can I check if the backup is running?
+Connectors page
+You can easily check if your backup is running from the Connectors page.
+Here you'll see when the last backup was completed and how many backups were made in the last 48 hours.
+If a backup is currently in progress, you will see the percentage progress as well as how much data was backed up in the last 24 hours. Keep in mind that it will show a negative number if the user reduces the size of the backup dataset.
+Job monitor
+You can also track backup progress in the Job Monitor.
+Here you can also see when all past jobs started and ended, and you can open the backup report to get more details.
+Data Protection Dashboard
+During the initial backup, you can monitor its progress on the Data Protection dashboard. A label labeled "Initial Backup" will display the backup's progress as a percentage.
+Once the first snapshot—whether full or partial—is made, coverage insights will begin to appear.
+What factors affect backup frequency?
+Keepit typically schedules two backup jobs per day. However, the actual number of backup jobs and their duration can vary depending on a range of factors. Here’s an overview of what can impact the frequency and speed of your backups:
+Different stages of a backup
+Keepit has two different stages of a backup:
+- Initial backup stage: During the initial stage, all selected data is backed up for the first time, which can take several days or even weeks depending on the data volume. In this stage, usually a single backup job is running throughout the onboarding period.
+- Incremental backup stage: After the initial backup, the system moves to incremental backups, capturing only changes made since the last backup. Incremental backups are typically faster and align with the environment’s defined schedule.
+Duration of backup jobs
+Backup job durations vary. Since two jobs are scheduled per day, each job should ideally complete within 12 hours. However, if a job takes longer, fewer backup jobs may be completed in a 24-hour period.
+Changes to connector configuration
+Adjusting your connector settings can impact backup frequency. For example, if you add a new data type after the onboarding stage, Keepit must perform an initial backup for this new data, which can extend the duration of subsequent backup jobs. Meanwhile, previously configured data types continue with incremental backups.
+External factors
+Several external factors outside of Keepit’s control can affect backup performance:
+- Throttling: Common in cloud environments, throttling slows down data processing. Although Keepit continuously optimizes to minimize throttling, severe throttling can delay or even halt a backup job.
+- Cloud service maintenance: Scheduled or unscheduled maintenance by the cloud provider can impact backup timing.
+- Provider-side errors: Errors from the cloud service provider can disrupt backup operations.
+- Customer setup and data migration: If your data is being actively migrated, backup performance may vary.
+Changes in cloud data
+Even after the initial backup, if data is still in the process of migration, new data added to your environment can lead to larger backups than expected during incremental stages.
+Variation in data types and volume
+The types and amount of data being backed up affect backup performance:
+- Data variety: Data type-specific factors can influence backup speed.
+- File size and quantity: Large numbers of small files take longer to back up because each file is processed individually. Although Keepit maintains a high data throughput, backup speed may appear slower when handling numerous small files.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/press/backupanddr/
+Content type: Web page
+Last modified: 2026-02-09T15:01:54+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit receives 2025 Backup and Disaster Recovery Award from Cloud Computing Magazine
+The Keepit platform named recipient of the Backup and Disaster Recovery Award for the second year in a row
+Copenhagen, Denmark, February 9, 2026 —Keepit, the only independent, cloud-native data protection and recovery provider, today announced that TMC, a global, integrated media company, has named Keepit platform as a 2025 Cloud Computing Backup and Disaster Recovery Award winner, presented by TMC’s Cloud Computing Magazine.
+The Cloud Computing Backup and Disaster Recovery Award recognizes technologies and vendors that have built cloud solutions that empower businesses small or large to remain active and productive under even the most challenging conditions, minimizing lost business opportunities.
+“The Keepit platform is your last line of defense – and the way to recover even if disaster strikes. Unlike other solutions in the market, Keepit does not rely on global hyperscalers and your data remains immutable. We don’t just secure your business continuity — we aim to provide peace of mind. We’re excited that Cloud Computing Magazine has recognized us for the second year in a row,” says Michele Hayes, CMO at Keepit.
+The Keepit platform protects fourteen key SaaS applications, including Microsoft 365, Entra ID, Google Workspace, and Okta. With seven data center regions and offices globally, Keepit provides over 20,000 companies with backup and recovery services.
+“Recognizing excellence in the advancement of cloud computing technologies, Cloud Computing magazine is proud to announce Keepit platform as a recipient of the Cloud Computing Backup and Disaster Recovery Award,” said Rich Tehrani, CEO, TMC. “Keepit is being honored for their achievement in bringing innovation to the market, while leveraging the latest technology trends.”
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over 20,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.
+About Cloud Computing Magazine
+Cloud Computing magazine is the industry's definitive source for all things cloud - from public, community, hybrid and private cloud to security and business continuity, and everything in between. This online magazine published by TMC assesses the most important developments in cloud computing not only as they relate to IT, but to the business landscape as a whole.
+About TMC
+For more than 20 years, TMC has been honoring technology companies with awards in various categories. These awards are regarded as some of the most prestigious and respected awards in the communications and technology sector worldwide.  Winners represent prominent players in the market who consistently demonstrate the advancement of technologies. Each recipient is a verifiable leader in the marketplace.
+TMC also provides global buyers with valuable insights to make informed tech decisions through our editorial platforms, live events, webinars, and online advertising. Leading vendors trust TMC, thought leadership, and our events for branding, thought leadership, and lead generation. Our live events, like the ITEXPO #TECHSUPERSHOW, deliver unmatched visibility, while our custom lead generation programs and webinars ensure a steady flow of sales opportunities. Display ads on trusted sites generate millions of impressions, boosting brand reputations. TMC offers a complete 360-degree marketing solution, from event management to content creation, driving SEO, branding, and marketing success. Learn more at www.tmcnet.com and follow @tmcnet on Facebook, LinkedIn, and X.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/
+Content type: Web page
+Last modified: 2026-07-15T00:01:24+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Are you curious about the new Microsoft 365 Backup Storage? Do you want early access and a chance to give feedback on Keepit Rapid Recovery for Microsoft 365?
+Data loss woes? Not on our watch. Get protected now
+We own the stack so we can offer the best, most complete end-to-end SaaS data protection service. Your data remains secure and available 24/7
+Securing your data is your responsibility. Get intelligent SaaS data protection today.
+Microsoft 365
+80% of the Fortune 500 use MS365, which is why Keepit offers one of the industry’s most robust backup and recovery solutions to keep business moving.
+Learn moreMicrosoft Entra ID
+Don’t get caught on day 31 when Entra ID’s 30-day backup responsibility expires. Keepit protects your data forever and offers quick recovery.
+Learn moreGoogle Workspace
+Google Workspace is all about productivity, so imagine the productivity crash when Workspace data is compromised, and Google’s limited backup isn’t enough. Imagine no more with Keepit.
+Learn moreSalesforce
+A data breach or accidentally deleting Salesforce data can lead to major business disruption. Keepit protects Salesforce, not to mention preventing those fines for GDPR non-compliance.
+Learn moreMicrosoft Azure DevOps
+Every day, MS Teams records critical and sensitive information, so losing it could create sizeable setbacks. Keepit protects calendars, panels, Team sites, and more.
+Learn moreMicrosoft Power Platform
+You rely on Power Platform to build, integrate, and manage technology solutions, so rely on Keepit to ensure those apps can be quickly restored.
+Learn moreMicrosoft Dynamics 365
+Losing Dynamics 365 data can dramatically impact sales, marketing, supply chain, and other key operations. Keepit offers peace of mind that this critical data is always available.
+Learn moreZendesk
+Managing customer interactions through Zendesk is the heartbeat of any organization. Keepit preserves that valuable customer data and interactions to keep business going.
+Learn moreJira and Confluence
+Automated backups and swift recovery in a vendor-independent platform for Confluence Cloud.
+Learn moreJira and Confluence
+Automated backups and swift recovery in a vendor-independent platform for Atlassian Jira.
+Learn moreJira Service Management
+Compliance, long-term retention and fast recovery for mission-critical service data.
+Learn moreDocusign
+Never lose a signed deal — keep contracts safe, recoverable, and compliant at all times .
+Learn moreAutodesk Forma
+Your projects always running with full compliance, long-term retention and continuous access to all your Forma data.
+Learn moreWe’re continually adding new services
+Product updatesPreview program
+Keepit Rapid Recovery for Microsoft 365
+Future proof your protection with the only fully cloud-based solution
+Our service is offered in true SaaS fashion: All your data needs are met in one solution. Your data stays secure and your business stays compliant, leaving your focus free for everything else.
+Disaster
+recovery
+Data loss
+prevention
+Improve IT
+efficiency
+Cybersecurity
+readiness
+Compliance
+standards
+Tour the Keepit solution
+Explore Keepit's industry-leading cloud backup solutions
+Our vendor independence, broad coverage of services, fast recovery times, and dedication to security make us #1 in SaaS data backup. Built for the cloud, with simplicity and data security at the core of our identity. Take an interactive tour today:
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-autodesk-forma/
+Content type: Web page
+Last modified: 2026-07-14T13:54:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup and Recovery for Autodesk Forma
+Your projects always running with full compliance, long-term retention and continuous access to all your Forma data.
+Why back up Autodesk Forma?
+Your data is your responsibility
+Autodesk operates under a shared responsibility model. It is responsible for the security and availability of the service, but you are responsible for your data. Neglecting your responsibility is a business risk.
+There is a two-layer risk of failure
+Forma runs on AWS. That means two infrastructure layers between your data and you, neither of which you control, augmenting the risk of failures or outages impacting your projects .
+There is a high risk of a ripple effect
+Forma holds the working record of a live construction project for different stakeholders, including subcontractors. Loss of data, or access to such data has a ripple effect on the chain.
+Top benefits
+Time-saving usability
+Easy to implement and intuitive, Keepit requires minimal expertise to use — while delivering confidence in your ability to swiftly recover your data whenever you need it.
+Assured data integrity
+With Keepit, you’re certain that your backups are immutable — they can’t be modified or deleted. Stored in our vendor-independent cloud, your data remains accessible at all times.
+Confidence in recovery
+With our automated backups and hot storage, you have all your data, configurations, and relationships always at your fingertips — no matter what incident is stalling your projects.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+Coverage for Autodesk Forma Build and Data Management
+- User definitions
+- User Projects
+- Project memberships
+- Roles
+- Products
+- Definitions
+- User mappings
+- Projects mappings
+- Definitions
+- Sheets
+- Sheet collections
+- Sheet versions
+- Files and folders
+- Packages
+- Issues
+- Issue comments
+- Issue attachments
+- Issue settings
+- Templates
+- Transmittals
+We continuously extend our capabilities. Find the complete, current coverage here.
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic
+Head of IT, TALKE Group Germany 
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+Frequently asked questions
+Forma holds the working record of a live construction project. A single mid-sized project can generate tens of thousands of documents and years of collaboration history, and none of it is duplicated anywhere else by default.
+The risk of losing access to that data is measurable. Construction was the most-attacked sector by ransomware in 2025, with incidents up 41% year over year and 24 days of average downtime per attack. Bouygues, a construction giant, was hit in 2020 — a documented case, not a hypothetical one.
+Autodesk's own responsibility stops at the platform. Forma runs on AWS, so two infrastructure layers sit between a customer's data and the customer, and neither is under the customer's control. Deletions in Forma today are soft deletes, and Autodesk has confirmed hard-delete is coming to its roadmap, narrowing the recovery window further. Under the shared-responsibility model that governs every SaaS application, Autodesk secures the platform, but the customer owns the data.
+An independent backup closes that gap: a vendor-neutral copy of Forma's data that exists outside Autodesk's infrastructure, so a project's history can be recovered on its own terms rather than Autodesk's.
+Keepit for Autodesk Forma backs up the Built and Data Management modules.
+Keepit offers simple, per-seat pricing. Full conditions depend on the service package you choose. For more details, visit our pricing page.
+Awarded for its broad SaaS coverage, impenetrable architecture, and ease-of-use, Keepit ensures that your Autodesk Forma data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams.
+Your data will be securely stored in Keepit’s independent cloud. We run our own data centers, operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have seven data center regions in:
+- Americas: Washington D.C., USA and Toronto, Canada
+- Europe: London, United Kingdom and Zurich, Switzerland
+- EU: Copenhagen, Denmark, and Frankfurt, Germany
+- Asia-Pacific: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always stay in that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the move with all affected customers prior to execution.
+It's real and growing. Construction was the most-attacked sector by ransomware in 2025, with incidents up 41% year over year, and affected organizations faced an average of 24 days of downtime per attack. This isn't a hypothetical risk reserved for smaller firms — Bouygues, a major construction company, was hit by ransomware in 2020, showing that scale and resources don't rule out an attack.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-azure-ad/
+Content type: Web page
+Last modified: 2026-03-11T14:47:04+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+A simple, yet powerful service to help you take control and safeguard your Entra ID (formerly Azure AD) infrastructure from accidental deletions, ransomware, and other potentially devastating outages.
+What is covered?
+- Users, Groups, Admin Units Roles
+- Enterprise apps, App registrations
+- Conditional Access policies
+- Intune Device Compliance and Device Configuration policies
+- BitLocker recovery keys
+- Activity logs
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-azure-devops/
+Content type: Web page
+Last modified: 2025-02-23T21:39:31+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Pipelines protection
+Azure DevOps Pipelines are the backbone of CI/CD (continuous integration and continuous development/deployment). Keepit protects these critical automations with “last known-good” point-in-time restores and change identification that help you quickly roll back your pipelines to a good state and keep your DevOps on track.
+Boards protection
+Azure DevOps Boards plays a pivotal role in project management and enables teams to drive both effectiveness and efficiency through collaboration, optimization, and visualization. Ensuring Boards data is never lost or inaccessible is key to minimizing risk of disruption. Keepit’s backup includes work items, boards, backlogs, team sprints, queries, and delivery plans.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-bamboohr/
+Content type: Web page
+Last modified: 2026-01-27T14:24:41+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for BambooHR
+Keeping your human resources data and processes safe is caring for the people and for the business.
+Why back up BambooHR?
+Protecting your data is your responsibility
+Understanding BambooHR’s shared responsibility model is essential for your business continuity; neglecting it leaves you at risk. While BambooHR guarantees platform security and availability, employee and company-level data and configuration resilience are your responsibility.
+Your BambooHR data may be permanently lost
+BambooHR doesn’t offer backups or comprehensive recovery options, therefore any data or configuration loss – accidental or malicious – disrupts business operations and exposes companies to legal and compliance risks. It’s essential to integrate it to a backup solution.
+High risk of a ripple effect on your organization
+BambooHR is often integrated with other applications such as Microsoft 365, SSO and identity access or payroll tools. In this context, being able to recover lost data is critical to mitigate disruptions to your employees with impact on productivity and motivation.
+Top benefits
+Time-saving usability
+Easy to implement and intuitive, Keepit requires minimal expertise to use — while delivering confidence in your ability to swiftly recover your data whenever you need it.
+Assured data integrity
+With Keepit, you’re certain that your backups are immutable — they can’t be modified or deleted. Stored in our vendor-independent cloud, your data remains accessible at all times.
+Be confident that you can recoverâ¯
+Have your data always at your fingertips with comprehensive, automated backups of your data and metadata.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+Backup coverage for BambooHR
+- Employee ID
+- Name, surname, email, address
+- Employee tables
+- Employee files
+- Time off requests and registrations
+- Time off account balance
+- Company tables
+- Company fields
+- Company files
+- Time off types
+- Time off policies
+Find the complete coverage here: BambooHR backup coverage.
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic
+Head of IT, TALKE Group Germany 
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+Frequently asked questions
+While BambooHR guarantees platform security and availability, employee and company-level data and configuration resilience are your responsibility. To ensure continuity, compliance, and recoverability in personally identifiable information (PII) and company data are stolen or mistakenly deleted, leveraging an independent backup and recovery solution like Keepit is essential.
+Keepit offers simple, per-seat pricing. Full conditions depend on the service package you choose. For more details, visit our pricing page.
+Keepit is the only SaaS data protection platform offering coverage for BambooHR. Awarded for its impenetrable architecture and ease-of-use, Keepit ensures that your data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams. Learn more.
+Your data will be securely stored in Keepit’s independent cloud. We run our own data centers , operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have seven data center regions in:
+- Americas: Washington D.C., USA and Toronto, Canada
+- Europe: London, United Kingdom and Zurich, Switzerland
+- EU: Copenhagen, Denmark and Frankfurt, Germany,
+- Asia-Pacific: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always stay in that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the move with all affected customers prior to execution.
+Yes, to all the above.
+Further, uniquely to Keepit, our staff and software development are also ISO27001 certified — not just our data centers as most vendors. Read more.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-docusign/
+Content type: Web page
+Last modified: 2026-01-27T14:16:23+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Docusign
+Never lose a signed deal — keep contracts safe, recoverable, and compliant at all times
+Why back up Docusign?
+Protecting your data is your responsibility
+While Docusign guarantees platform security and availability, customer-level data resilience — especially for documents, templates, and audit logs — is your responsibility.
+There is a high risk of permanent data loss
+Docusign does not provide a recoverable "Recycle Bin" or soft-delete functionality. Without a third-party backup solution, any permanent deletion or system error could result in irreversible data loss.
+Ensure business continuity, security and compliance
+Implementing a third-party backup strategy is essential — not optional — to ensure business continuity, security, and compliance for your Docusign deployment.
+Top benefits
+Time-saving usability
+Easy to implement and intuitive, Keepit requires minimal expertise to use — while delivering confidence in your ability to swiftly recover your files and configurations whenever you need them.
+Easily identify and preview records
+Quickly identify the correct data or settings to recover with smart search and preview for data, metadata, files, and attachments.
+Assured data integrity
+With Keepit, you’re certain that your backups are immutable — they can’t be modified or deleted. Stored in our vendor-independent cloud, your data remains accessible at all times.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+Backup coverage for Docusign
+- Account(s)*
+- Envelope status*
+- Comments*
+- Custom fields*
+- Documents*
+- Certificates*
+- Envelope metadata*
+- Recipients*
+- Templates**
+- Comments
+- Custom fields
+- Documents
+- Certificates
+- Template metadata
+- Tabs
+- User data: Username, name, email
+- Basic info: Address, user settings, custom user settings
+- User data: Username, name, email
+- Basic info: Address, user settings, custom user settings
+- User Groups
+- Membership
+- Signing Groups
+- Membership
+- Permission profiles
+- Membership
+* Backup only
+** Restore of full template
+Find the complete coverage here: Docusign backup coverage.
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic
+Head of IT, TALKE Group Germany 
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+Frequently asked questions
+While Docusign guarantees platform security and availability, customer-level data resilience — especially for documents, templates, and audit logs — is their your responsibility. To ensure continuity, compliance, and recoverability in case documents are stolen or mistakenly deleted, leveraging an independent backup and recovery solution like Keepit is essential.
+Keepit offers simple, per-seat pricing. Full conditions depend on the service package you choose. For more details, visit our pricing page.
+Awarded for its ease of use, Keepit ensures that Docusign data and settings are securely backed up and can be recovered swiftly in case of accidental loss or malicious attacks. Keepit effectively minimizes the impact of data loss and the burden of recovery on your teams. Learn more.
+Your data will be securely stored in Keepit’s independent cloud. We run our own data centers , operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have seven data center regions in:
+- Americas: Washington D.C., USA and Toronto, Canada
+- Europe: London, United Kingdom and Zurich, Switzerland
+- EU: Copenhagen, Denmark and Frankfurt, Germany,
+- Asia-Pacific: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always stay in that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the move with all affected customers prior to execution.
+Yes, to all the above.
+Further, uniquely to Keepit, our staff and software development are also ISO27001 certified — not just our data centers as most vendors. Read more.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-entra-id/
+Content type: Web page
+Last modified: 2026-03-02T22:18:47+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+A simple, yet powerful service to help you take control and safeguard your Entra ID infrastructure from accidental deletions, ransomware, and other potentially devastating outages.
+What is covered?
+- Users, Groups, Admin Units Roles
+- Enterprise apps, App registrations
+- Conditional Access policies
+- Intune Device Compliance and Device Configuration policies
+- BitLocker recovery keys
+- Activity logs
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-github/
+Content type: Web page
+Last modified: 2026-03-09T17:10:45+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup and Recovery for GitHub
+Keep your GitHub data always safe and recoverable in a cloud-native, sovereign platform.
+Why back up GitHub?
+Your data and your settings are your responsibility
+Understanding GitHub’s shared responsibility model is essential to mitigate data loss and its consequences; neglecting it leaves you at risk. GitHub secures the platform and infrastructure; you secure your data, access, and configurations. Accidental or intentional deletions of repository data remain your responsibility to recover.
+Native capabilities are not enough
+GitHub provides a few native retention controls, but these are limited and do not constitute a backup solution. These controls help manage storage and lifecycle but do not replace a dedicated backup strategy for all data and metadata. Your work may get permanently lost without a third-party backup solution.
+The cost of losing your work
+Data loss in GitHub — malicious or accidental — can erase critical source code, compromise security and compliance evidence, and halt development, leading to costly delays, rework, and risks to product integrity and business continuity. Neglecting this risk may lead to long-term reputational damage and jeopardize the future of the business.
+Top benefits
+Time-saving usability
+Easy to implement and intuitive, Keepit requires minimal expertise to use — while delivering confidence in your ability to swiftly recover your data whenever you need it.
+Confidence in recovery
+Have your data always at your fingertips with comprehensive, automated backups and flexible restoring of repositories, settings, metadata and more.
+Centralized management
+A unified platform for all backups across critical SaaS applications — provides transparency, visibility, and easy reporting for managers and leadership.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+What we cover
+- Blobs and trees
+- References
+- Branches
+- Commits
+- Tags
+- Teams
+- Repository settings
+- Repository collaborators
+- Pull requests
+- User
+We continuously extend our capabilities. Find the complete, current coverage here.
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic
+Head of IT, TALKE Group Germany 
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+Frequently asked questions
+Like with most SaaS applications, GitHub secures their platform and infrastructure, and customers are responsible for their own data, access management, and configurations. On top of being responsible for recovering data in the case of accidental or intentional loss, customers also take responsibility over data compliance.
+Relying solely on native capabilities leaves you vulnerable when the platform itself is compromised. So, third-party backup is the only surefire way to mitigate any damage resulting from cyberattacks, downtime, or human error.
+Keepit offers simple, per-seat pricing. Full conditions depend on the service package you choose. For more details, visit our pricing page.
+Awarded for its broad SaaS coverage, impenetrable architecture, and ease-of-use, Keepit ensures that your GitHub data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams.
+Your data will be securely stored in Keepit’s independent cloud. We run our own data centers, operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have seven data center regions in:
+- Americas: Washington D.C., USA and Toronto, Canada
+- Europe: London, United Kingdom and Zurich, Switzerland
+- EU: Copenhagen, Denmark and Frankfurt, Germany,
+- Asia-Pacific: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always stay in that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the move with all affected customers prior to execution.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-google-workspace/
+Content type: Web page
+Last modified: 2025-02-23T21:41:25+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+We offer a simple, yet powerful, backup and recovery solution which protects your Google Workspace data from intentional or unintentional deletion by employees or external cyberattacks.
+Keepit for Google Workspace (formerly G suite) covers your favorite applications:
+- Gmail
+- Drive
+- Docs, Sheets, and Slides
+- Calendar and Tasks
+- Forms
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-jira-confluence/
+Content type: Web page
+Last modified: 2026-05-12T23:12:18+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup and recovery for Jira and Confluence
+Automated backups and swift recovery in a vendor-independent platform
+Why back up Jira and Confluence?
+Native backup capabilities are limited
+Jira and Confluence offer limited backup functionality, leaving critical gaps in data protection for your projects, issues, workflows and internal knowledge articles.
+Losing data disrupts projects
+Whether malicious or accidental, data loss leads to delayed projects, disruptions in software development, and loss of internal knowledge.
+Financial and operational impact
+In addition to financial consequences, rebuilding projects, documentation, plans and content add pressure to already burdened product and development teams.
+Top benefits
+Time-saving usability
+Easy to implement and intuitive, Keepit requires minimal expertise to use while delivering confidence in your ability to swiftly recover your data whenever you need it.
+Assured data integrity
+With Keepit, you’re certain that your backups are immutable. They can’t be modified or deleted. Stored in our vendor-independent cloud, your data remains accessible at all times.
+Unified visibility
+A single pane of glass for all backups across critical SaaS applications provides transparency, visibility, and easy reporting for managers and leadership.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+Coverage for Jira and Confluence
+Generalâ
+- Sprints
+- Boards
+- Dashboardsâ
+- Plans (roadmaps)â
+- Filtersâ
+- Permission schemesâ
+- Notification schemesâ
+- Priority schemes
+- Statusesâ
+- Service desk organizationsâ
+- Users (backup only)â
+- Groups
+- Time trackingâ
+- Compass components (backup only)
+- Projectsâ: Avatar, Componentsâ, Categoriesâ, Featuresâ, Rolesâ, Versionsâ
+- Requests (backup only)
+- Screensâ: Tabsâ, Tab fieldsâ, Screen schemesâ
+- Attachmentsâ
+- Commentsâ
+- Fields
+- Field configurationsâ
+- Field configuration schemesâ
+- Linksâ
+- Link types
+- Priorities
+- Remote links
+- Resolutions
+- Security schemes
+- Types
+- Type schemes
+- Type screen schemes
+- Issue votes (backup only)
+- Watchersâ
+- Work logsâ
+ 
+- Workflowsâ
+- Workflow schemesâ
+- Workflow schemes drafts (backup only)â
+General
+- Users (backup only)â
+- Groups
+- Group members
+- Templates
+- Blueprints
+- Pagesâ
+- Page restrictions
+- Page contentâ
+- Child pages
+- Footer comments and replies
+- Inline comments and replies (backup only)
+- Attachments
+- Spaces
+- Permissions
+- Properties
+- âBlog postâ
+- Version historyâ
+- Restrictions
+- Contentâ
+- Content version history
+- Custom contentâ
+- Footer comments and version history
+- Replies to footer content and version history
+- Inline comments and replies (backup only)
+- Inline comments version history
+- Attachmentsâ
+- Attachments version historyâ
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic
+Head of IT, TALKE Group Germany 
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+Frequently asked questions
+Jira and Confluence offer limited native backup capabilities, leaving gaps in data protection. Loss of data, whether malicious or accidental, leads to delayed projects, disruptions in development, and loss of internal knowledge. In addition to financial consequences, data loss events add pressure to already burdened product and development teams.
+Services for Jira and Confluence Cloud are priced separately. Full conditions depend on the service package you choose. For more details, visit our pricing page.
+Awarded for its ease-of-use, Keepit ensures that your data is securely backed up and can be recovered and restored swiftly and accurately when incidents occur. It effectively minimizes the impact of data loss and eliminates the burden on your teams.
+Always within the data center region you specify. Currently we have seven data center regions: EU-DK, EU-DE, Switzerland, UKI, US, CA and APAC.
+Yes, to all the above.
+Further, uniquely to Keepit, our staff and software development are also ISO27001 certified — not just our data centers as most vendors. Read more.
+We are GDPR compliant, and our HQ is located in Denmark, EU. Read more.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-jira-service-management/
+Content type: Web page
+Last modified: 2026-06-03T06:44:35+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup and Recovery for Jira Service Management
+Compliance, long-term retention and fast recovery for mission-critical service data
+Why back up Jira Service Management?
+Your data is your responsibility
+Atlassian operates under a shared responsibility model. It is responsible for the security and availability of the service, but you are responsible for your data, configurations, access, and compliance. Neglecting your responsibility is a business risk.
+Native recovery options are not enough
+Atlassian native options aren’t built for full, compliant data protection — limited retention, manual backups, and no granular recovery leave critical service data exposed to deletion, corruption, and recovery gaps when it matters most.
+There is a high risk of a ripple effect
+Today, most JSM customers are on-premises, but Atlassian is going cloud-only. Current customers will have to migrate by March 2029 at the latest. That means customers will need to adapt their backup and recovery strategy as they migrate to avoid disruption.
+Top benefits
+Time-saving usability
+Easy to implement and intuitive, Keepit requires minimal expertise to use — while delivering confidence in your ability to swiftly recover your data whenever you need it.
+Confidence that you can recover
+We guarantee direct access to all your data and automated, immutable backups. You can be certain your data can't be modified or deleted, and that it’s always at your fingertips..
+Centralized management
+A unified platform for all backups across Atlassian and other critical SaaS applications — provides transparency, visibility, and easy reporting for managers and leadership.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+Backup coverage for Jira Service Management
+- Components
+- Form templates
+- Organizations
+- Avatar
+- Properties
+- Issues
+- Work types
+- Roles
+- Queues*
+- Requests
+- Request types
+- Versions
+*Backup onlyâ
+- Global Statuses
+- Global Icons*
+- Object Schema
+- Object Types
+- Object Attributes
+- Objects
+- Schema Statuses
+ â
+*Backup onlyâ
+- Request
+- Request Attachments
+- Request Comments
+- Request Remote Links
+- Request Votes*
+- Request Watchers
+- Request Participants
+- Request Worklogs
+- Child Requests
+- Linked Requests
+- SLAs*
+â
+*Backup onlyâ
+- Issue
+- Issue Attachments
+- Issue Comments
+- Issue Remote Links
+- Issue Votes*
+- Issue Watchers
+- Issue Worklogs
+- Child Issues
+- Linked Issues
+*Backup onlyâ
+We continuously extend our capabilities. Find the complete, current coverage here.
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic
+Head of IT, TALKE Group Germany 
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+Frequently asked questions
+Jira Service Management offers limited native backup options and no comprehensive recovery capabilities. As a mission-critical service tool, the risk of human errors and accidental deletion cannot be neglected. Research shows that over 70% of data loss incidents are caused by human errors. Protecting and making sure Jira Service Management data is recoverable protects your business, your reputation, and ensures continuity.
+Keepit offers simple, per-seat pricing. Full conditions depend on the service package you choose. For more details, visit our pricing page.
+Awarded for its broad SaaS coverage, impenetrable architecture, and ease-of-use, Keepit ensures that your Jira Service Management data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams.
+Your data will be securely stored in Keepit’s independent cloud. We run our own data centers, operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have seven data center regions in:
+- Americas: Washington D.C., USA and Toronto, Canada
+- Europe: London, United Kingdom and Zurich, Switzerland
+- EU: Copenhagen, Denmark, and Frankfurt, Germany
+- Asia-Pacific: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always stay in that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the move with all affected customers prior to execution.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-microsoft-365/
+Content type: Web page
+Last modified: 2025-08-21T20:46:46+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup and recovery for Microsoft 365
+Secure, simple, and comprehensive data protection
+Why back up Microsoft 365?
+Oops! Mistakes hurt
+Mistakes happen every day. Your users and administrators have access to your most vital data, and one accidental deletion means losing the critical data you rely on the most.
+Security threats
+Data loss from security breaches, such as ransomware and malicious deletion, will lead you to lose access to your data. Without a backup in place, your SaaS data can be lost forever.
+Access is key to compliance
+To comply, you need uninterrupted access to your data, and any data loss or disruption, such as Microsoft service outages, may lead to failures to comply. With Keepit, it’s easy.
+Top benefits
+Secure your data
+With Keepit’s independent, purpose-built cloud and unique storage architecture and security, your data is immutable.
+Recover in minutes
+Fast smart search allows you to easily find any data or user across all your services/apps and quickly recover it e.g., in place, share it, or PST download.
+Full coverage
+Protect all key workloads with the most complete and granular coverage available. Our protection is described as “Top-tier” by Forrester.
+Your data deserves the best coverage
+Exchange Online
+- Outlook mail
+- Contacts
+- Tasks
+- Calendar
+- In-place archives
+- Public folders including sub-folders
+- User persmissions
+OneDrive
+- All documents
+- Form templates
+- Style library
+- Enhanced versioning
+- Intelligent integrated Microsoft Entra groups selection (formerly Azure AD groups)
+- Intelligent selection of SharePoint sites and teams
+SharePoint
+- Site collections
+- Lists
+- Document libraries
+- Site content types
+- Permissions
+- Customization
+- Pages
+- Sub-sites
+- Hot Archive (add-on)
+Groups and teams
+- Conversations
+- Calendar
+- Planner
+- Files
+- Channels
+- Wiki pages
+- Team channel posts and replies
+- Files in public and private channels
+- Channel tabs
+- SharePoint
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+How Keepit helps you
+Specifically designed for admins, Keepit makes manual restore processes a thing of the past.
+With ultra-fast smart search and restore features, you can restore multiple terabytes a day and get your M365 data back into its original location along with the original file structure and metadata.
+Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
+With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
+Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
+Fast search
+Fast federated search lets you search across all backup data so you can find what you need quickly.
+Smart search
+Controllable smart search allows partial or even misspelled search terms to provide results.
+Deleted items view
+If you’re not sure what was lost, activating the Deleted Items View takes the guesswork out of finding lost data. You can view all data that ever existed and was backed up on a tenant.
+The Keepit infrastructure runs on software that was designed and built from the ground up by our team.
+Blockchain-like Merkle tree structure
+We created a uniquely powerful architecture that employs a blockchain-like Merkle tree structure that allows you to store data in an immutable format to prevent attackers from manipulating your backups so you can recover quickly with uncompromised backups.
+"Incremental forever"
+The architecture also employs an innovative “incremental forever” approach that delivers performance and cost benefits such as unlimited hot storage, no data tiering, unlimited archiving, and no snapshot expiration. These benefits would simply not be possible to provide on general-purpose storage services.
+Get started in few minutes
+Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.
+Intuitive user interface
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
+API only
+You can integrate Keepit with your existing systems thanks to our API-only approach.
+Audit Logs. Track any user activity inside the Keepit platform, allowing you to monitor, review, and investigate any potential breaches.
+Job Monitor. Detect abnormalities in the job monitor and discover changes on a snapshot basis as well as the number of changes made.
+Data sovereignty. Keepit operates its own data centers in multiple regions globally, helping you meet sovereignty requirements.
+The Right to be Forgotten. Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.
+Security controls. Manage who has access to data and what permissions they have with granular Role Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
+Hot archive for SharePoint Online (add-on)
+If you are currently protecting, or looking to protect, your Microsoft 365 data with Keepit, you can now add Hot Archive for SharePoint to move rarely used data out of production, cut storage costs, and keep every file fully accessible on demand.
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic
+Head of IT, TALKE Group Germany 
+Frequently asked questions
+Always within the data center region you specify. Currently we have six data center regions: EU-DK, EU-DE, UKI, US, CA and APAC.
+As per Microsoft's responsibility model, the customer is responsible for keeping a backup of the data, not the cloud service provider. Read more
+It depends on the Service Offering you choose. Find our pricing here.
+Yes, to all the above.
+Further, uniquely to Keepit, our staff and software development are also ISO27001 certified — not just our data centers as most vendors. Read more.
+We are GDRP compliant, and our HQ is located in Denmark, EU. Read more.
+Twice daily. We have found trying more often doesn’t give our customers more successful or complete backups due to Microsoft throttling limitations.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-microsoft-365/microsoft-teams/
+Content type: Web page
+Last modified: 2025-02-23T21:37:29+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Now that you've implemented Microsoft Teams, you need to protect this data, too. Always stay in control of your Teams data with the most complete backup and recovery on the market.Born in the cloud, Keepit protects businesses from damaging data loss with rock-solid security and easy restore into Teams.
+Customers worldwide choose Keepit as their third-party backup provider for safeguarding their data. A proper backup and recover strategy is key to ensuring your business continues during any disruption or data loss, something that Microsoft expects you to do.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-microsoft-365/sharepoint-online/
+Content type: Web page
+Last modified: 2025-02-23T21:38:07+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+3 out of 5 information security and SharePoint admin professionals say that their organization doesn’t do a good job in managing how users interact with confidential and sensitive data stored in SharePoint.
+- An ESG report shows that 43% of SaaS data loss is due to human error. What if you lose SharePoint online data as a result of accidental or malicious deletion by employees?
+- Microsoft expects you to back up your SharePoint data. The responsibility is yours when it comes to SaaS data protection (which includes SharePoint online.)
+- Have you considered compliance? Businesses that manage SharePoint online data must comply with worldwide regulations like GDPR, NIS2, SOX, HIPAA, and PCI DSS.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-microsoft-dynamics-365/
+Content type: Web page
+Last modified: 2025-08-21T20:48:55+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+With Keepit for Dynamics 365, get a comprehensive coverage of your Dynamics instances and entity metadata covering more than 500 data objects.
+For all workloads we cover the following data:
+- Instances
+- Data
+- Entities
+- Records
+- Meta
+Avoid data loss, improve IT efficiency, and streamline compliance with Keepit’s simple, secure, and easy all-inclusive backup solution
+Cloud data needs backing up to be secure. According to Microsoft’s shared responsibility model, it’s up to the data owner to protect their SaaS data.
+According to ESG research, 45% of organizations using SaaS attribute data losses they’ve experienced to deletion, whether accidental or malicious.
+Native Dynamics 365 data is only retained for a maximum of 28 days with no extension possible. And it doesn’t cover all data loss scenarios.
+Recovering a record in Dynamics 365 is time consuming. With Keepit for Dynamics 365, you can restore records in minutes.
+Ensure your mission-critical data has long data retention with up to 99 years of data storage.
+Save valuable time with an intuitive user interface, rapid setup, and minimal maintenance, freeing up your IT staff to get more done.
+With Keepit for Dynamics 365, get a comprehensive coverage of your Dynamics instances and entity metadata covering more than 500 data objects.
+For all workloads we cover the following data:
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+No backup solution is better than its restore capabilities. Keepit for Dynamics 365 offers versatile restore options to support all your needs, fast and easy.
+Keepit allows to get data back again even if that data is part of a relationship – Keepit ensures you can restore those relationship if needed.
+Fast search
+Fast federated search lets you search across all backup data so you can find what you need quickly.
+Smart search
+Controllable smart search allows partial or even misspelled search terms to provide results.
+Deleted items view
+If you’re not sure what was lost, activating the Deleted Items View takes the guesswork out of finding lost data. You can view all data that ever existed and was backed up on a tenant.
+Audit Logs. Track any user activity inside the Keepit platform, allowing you to monitor, review, and investigate any potential breaches.
+Job Monitor. Detect abnormalities in the job monitor and discover changes on a snapshot basis as well as the number of changes made.
+Data Sovereignty. Keepit operates its own data centers in multiple regions globally, helping you meet sovereignty requirements.
+The Right to be Forgotten. Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.
+Security Controls. Manage who has access to data and what permissions they have with granular Role Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
+Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
+With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
+Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
+The Keepit infrastructure runs on software that was designed and built from the ground up by our team.
+Blockchain-like Merkle tree structure
+We created a uniquely powerful architecture that employs a blockchain-like Merkle tree structure that allows you to store data in an immutable format to prevent attackers from manipulating your backups so you can recover quickly with uncompromised backups.
+"Incremental forever"
+The architecture also employs an innovative “incremental forever” approach that delivers performance and cost benefits such as unlimited hot storage, no data tiering, unlimited archiving, and no snapshot expiration. These benefits would simply not be possible to provide general-purpose storage services.
+Get started in few minutes
+Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.
+Intuitive user interface
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
+API-first
+You can integrate Keepit with your existing systems thanks to our API-first approach.
+"I would definitely recommend Keepit to anyone who is thinking about having a cloud-to-cloud backup of the Office 365 or D365 environment. It is very easy to use, and you don't need a lot of training or specialists."
+Manager in IT Mechanical or Industrial
+Engineering Company, 501-1000 employees
+Yes, yet, the native Dynamics 365 backups are only kept for 28 days with no extension possible. This might put your business-critical data at risk.
+Here are the top reasons why should must back your Microsoft Dynamics 365 data:
+To learn more about why users have selected Keepit to back up their SaaS data, visit our Why Keepit page.
+Your data will be securely stored in Keepit’s independent cloud. We run our own data center regions, operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have six data center regions in:
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always go to that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the moves with all affected customers prior to execution.
+Keepit backs up entities (and their related metadata) that are available in the CRM part of Microsoft Dynamics 365.
+This includes the following applications:
+For more details, visit our Support site.
+Built from the ground up for backup and recovery, Keepit offers backup services from multiple data centers across the world. All data center locations feature a high level of certification and all data centers are managed under ISO 27001. In addition, we keep all data in 4 copies across at least 2 physical locations in each region. Safeguarding your data is key for us.
+Learn more on our Security pages.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-miro/
+Content type: Web page
+Last modified: 2026-01-27T14:27:34+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Miro
+From brainstorm to backup: Secure your Miro data.
+Why back up Miro?
+Your data and settings are your responsibility
+Understanding Miro’s shared responsibility model is essential to mitigate data loss and its consequences; neglecting it leaves you at risk. While Miro guarantees platform security and availability, boards, spaces and team-level data and configuration resilience are your responsibility.
+Your work may get permanently lost
+Miro doesn’t offer automated backups or comprehensive recovery options. Deletions and changes remain recoverable for ninety days, after which items are permanently deleted. Data loss, accidental or malicious exposes your business to disruption and to legal and non-compliance risks.
+The cost of losing your data
+Miro is critical when it comes to creating user journeys, roadmaps, and strategic projects. Losing invaluable brainstorming or product development data can lead to costly disruptions in product planning, engineering workflows, and stakeholder alignment.
+Top benefits
+Time-saving usability
+Easy to implement and intuitive, Keepit requires minimal expertise to use — while delivering confidence in your ability to swiftly recover your data whenever you need it.
+Confidence in recovery
+Have your data always at your fingertips with comprehensive, automated backups and flexible restoring of teams, spaces, boards, and more.
+Centralized management
+A unified platform for all backups across critical SaaS applications —provides transparency, visibility, and easy reporting for managers and leadership.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+Backup coverage for Miro
+- Boards
+- Spaces
+- Members
+- Settings
+- Members
+- Connectors
+- Frames
+- Groups
+- Items
+- Tags
+- Boards
+- Members
+- Settings
+- App cards
+- Cards
+- Documents
+- Embeds
+- Formats
+- Images
+- Shapes
+- Sticky notes
+- Texts
+Find the complete coverage here: Miro backup coverage.
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic
+Head of IT, TALKE Group Germany 
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+Frequently asked questions
+Miro does not offer native backup options, or comprehensive recovery capabilities. As a collaboration tool, it’s prone to human errors and accidental deletion – and this is no negligible risk. In fact, research shows that over 70% of data loss incidents are caused by human errors. Protecting and making sure Miro data is recoverable protects your business and ensures continuity.
+Keepit offers simple, per-seat pricing. Full conditions depend on the service package you choose. For more details, visit our pricing page.
+Awarded for its broad SaaS coverage, impenetrable architecture, and ease-of-use, Keepit ensures that your Miro data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams.
+Your data will be securely stored in Keepit’s independent cloud. We run our own data centers , operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have seven data center regions in:
+- Americas: Washington D.C., USA and Toronto, Canada
+- Europe: London, United Kingdom and Zurich, Switzerland
+- EU: Copenhagen, Denmark and Frankfurt, Germany,
+- Asia-Pacific: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always stay in that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the move with all affected customers prior to execution.
+Yes, to all the above.
+Further, uniquely to Keepit, our staff and software development are also ISO27001 certified — not just our data centers as most vendors. Read more.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-monday/
+Content type: Web page
+Last modified: 2026-05-05T19:08:18+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup and Recovery for monday.com
+Recover lost project and collaboration data instantly — no disruption
+Why back up monday.com?
+Your data is your responsibility
+Monday.com operates under a shared responsibility model. It is responsible for the security and availability of the service, but you are responsible for your data, configurations and access, and compliance.
+Native capabilities are not enough
+Native recovery in monday.com is limited to short retention windows and undo functions. Without a third-party backup, accidental deletions, errors, or misuse can permanently erase history, disrupt projects, and create compliance risk.
+There is a high risk of a ripple effect
+The cross-functional nature of monday.com makes data loss events potentially disruptive to multiple teams. Such events may lead to organization wide disruption to project deliveries, productivity and ultimately on overall business results.
+Top benefits
+Time-saving usability
+Easy to implement and intuitive, Keepit requires minimal expertise to use — while delivering confidence in your ability to swiftly recover your data whenever you need it.
+Assured data integrity
+With Keepit, you’re certain that your backups are immutable — they can’t be modified or deleted. Stored in our vendor-independent cloud, your data remains accessible at all times.
+Centralized management
+A unified platform for all backups across critical SaaS applications — provides transparency, visibility, and easy reporting for managers and leadership.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+What we cover
+- Account metadata
+- Definition
+- Groups
+- Items (text in data cells)
+- Items/files (binary data in cells)
+- Items/files (links in cells)
+- Items/subitems
+- Members
+- Members
+- Folders
+- Boards
+- Definition
+- Teams
+- Photo
+- Members
+- Workspaces
+- Boards
+- Photo
+We continuously extend our capabilities. Find the complete, current coverage here.
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic
+Head of IT, TALKE Group Germany 
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+Frequently asked questions
+Monday.com does not offer native backup options, or comprehensive recovery capabilities. As a cross-functional collaboration tool, it’s prone to human errors and accidental deletion – and this is no negligible risk. In fact, research shows that over 70% of data loss incidents are caused by human errors. Protecting and making sure monday.com data is recoverable protects your business and ensures continuity.
+Keepit offers simple, per-seat pricing. Full conditions depend on the service package you choose. For more details, visit our pricing page.
+Awarded for its broad SaaS coverage, impenetrable architecture, and ease-of-use, Keepit ensures that your monday.com data is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the burden of recovery on your teams.
+Your data will be securely stored in Keepit’s independent cloud. We run our own data centers , operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have seven data center regions in:
+- Americas: Washington D.C., USA and Toronto, Canada
+- Europe: London, United Kingdom and Zurich, Switzerland
+- EU: Copenhagen, Denmark and Frankfurt, Germany,
+- Asia-Pacific: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always stay in that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the move with all affected customers prior to execution.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-okta/
+Content type: Web page
+Last modified: 2026-05-12T23:00:18+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery for Okta
+Identities and access securely backed up and recoverable in a sovereign platform
+Why back up your data stored in Okta?
+Protecting your data is your responsibility
+Under the shared responsibility model, Okta is responsible for infrastructure and uptime, but customers are responsible for the security and integrity of their data.
+There is a high risk of permanent data loss
+Okta doesn’t offer native backup and restore capabilities. Without external backup, even a minor admin error or malicious incident can severely disrupt operations.
+Ensure business continuity, security and compliance
+Implementing a third-party backup strategy is essential—not optional—to ensure business continuity, security, and compliance for your Okta deployment.
+Top benefits
+Time-saving usability
+Easy to implement and intuitive, Keepit requires minimal expertise to use while delivering confidence in your ability to swiftly recover your data whenever you need it.
+Assured data integrity
+With Keepit, you’re certain that your backups are immutable. They can’t be modified or deleted. Stored in our vendor-independent cloud, your data remains accessible at all times.
+Centralized management
+A unified platform for all backups across critical SaaS applications, provides transparency, visibility, and easy reporting for managers and leadership.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+Backup coverage for Okta
+- Securityâ: Enabled Factors*â
+- Policiesâ: Definitionâ, Policy Typesâ, Rulesâ, Group Relationsâ, App Relations (IE)â
+- Network Zonesâ: Definitionâ
+*Backup onlyâ
+Applicationsâ
+- Definitionâ, Usersâ, App User Schema, Groupsâ, App Grants (Scopes)â, SSO SAML metadata*â, Application Provisioning Definitionâ, Application Provisioning Featuresâ, Client Definitionâ, Client Role Assignmentsâ, Client JSON Web Keysâ, Client Secretsâ
+API service integrationsââ
+- Definition
+- Integration Secrets
+Customizationsâ
+- SMS Template Definition*â
+â
+*Backup onlyâ
+âUsersâ
+- Definition
+- Role Assignmentsâ
+- Groupsâ
+- Appsâ
+- Clients*â
+- Application links*
+- Links
+- Linked Objects
+- User types definitionsâ
+Groupsâ
+- Definitionâ
+- Role Assignments*â
+- Membersâ
+- Apps*â
+- Group rules*â
+- Group schema*â
+Authenticatorsâ
+- Authenticators Definition (IE)*â
+- Authenticators Methods (IE)*â
+Identity Providersâ
+- IdP Definition*â
+- IdP Users*â
+- IdP Key Credentials*â
+- Attributes Mappings (IE)*ââ
+Attributes Mappings (IE)*â
+â
+*Backup onlyâ
+âOrganizationâ
+- Metadata*
+- Settings
+- Org Contacts
+- Third-party Admin Settings
+- Default Public Client App Role
+- Settings
+- Rate Limit Admin Notification
+- Settingâ
+- Per-Client Rate Limit Setting
+- Rate Limit Warning Threshold
+- Percentageâ
+Administrationâ
+- Resources
+- Resources setsâ
+- Custom Role Definitions
+- Customer Role Permissionâ
+Generalâ
+- Thread Insight Configâ
+- Related IP Zonesâ
+- Org-wide CAPTCHA Settings (IE)*â
+- CAPTCHA Instances (IE)*
+- User lockout settings
+- Authentication settings (IE)ââ
+*Backup onlyâ
+Find the complete coverage details here: Okta Backup Coverage
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic
+Head of IT, TALKE Group Germany 
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+Frequently asked questions
+Okta ensures the reliability and security of its identity platform—but not the integrity or availability of your tenant's data. There’s no native recovery path for configuration loss, user deletion, or policy changes. Without external backup, even a minor admin error or malicious incident can severely disrupt operations.
+Keepit offers simple, per-seat pricing. Full conditions depend on the service package you choose. For more details, visit our pricing page.
+Awarded for its ease-of-use, Keepit ensures that data stored in Okta is securely backed up in a vendor-independent platform and can be recovered swiftly and accurately when incidents occur. It effectively minimizes the impact of data loss and the burden of recovery on your teams. Learn more.
+Your data will be securely stored in Keepit’s independent cloud. We run our own data centers, operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have seven data center regions in:
+- Americas: Washington D.C., USA and Toronto, Canada
+- Europe: London, United Kingdom and Zurich, Switzerland
+- EU: Copenhagen, Denmark and Frankfurt, Germany,
+- Asia-Pacific: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always stay in that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the moves with all affected customers prior to execution.
+Yes, to all the above.
+Further, uniquely to Keepit, our staff and software development are also ISO27001 certified — not just our data centers as most vendors. Read more.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-power-platform/
+Content type: Web page
+Last modified: 2026-01-08T21:47:33+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Your team relies on reports, apps, and automation to drive efficiency and keep the business moving. But what happens if data is lost due to user error, malicious activity, or an unexpected outage? With Keepit, you can safeguard your critical information and ensure your organization can recover quickly — no matter what.
+- Power Apps
+- Power Automate
+- Power Pages
+- Power BI
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-salesforce/
+Content type: Web page
+Last modified: 2025-02-23T21:46:11+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup and recovery for Salesforce
+Eliminate data loss repercussions: Get all your data back in an instant with automated daily backups, unlimited storage, and fast recovery
+Why back up Salesforce?
+Shared responsibility
+Salesforce isn’t responsible for your lost data. They say "keep a regular backup of your data and to do a manual point-in-time backup before you proceed with any major data project.”
+Accidental deletions
+70% of data loss is from human error. Users and administrators can delete or modify large amounts of data. Many of these changes are not reversible and data can be lost without a backup.
+Native tools fall short
+Salesforce’s native tools aren’t designed for seamless and comprehensive backup of your data and metadata. They either serve a single task or lack the flexibility and automation needed for efficient backup and recovery – making data protection manual and time consuming.
+Top benefits
+Speed
+Time is a key factor in data recovery. Our search makes it easy to find, preview, and restore the data you need from any time across snapshots.
+Granular restore
+Recover exactly what you need - specific records, fields and metadata – directly into your production or sandbox environments. With Keepit’s hot storage there is no waiting and no wasted time.
+Predictable costs
+Back up Salesforce with simple per-seat pricing and no hidden fees. Pay only for active users, keep inactive user data at no extra cost, and enjoy unlimited retention and restores.
+Your data deserves the best coverage
+Objects
+- Standard objects
+- Custom objects
+- Unlimited parent/child relationships
+Metadata
+- All metadata available via the API is included in the backup
+Files and attachments
+- Attachments
+- Files
+- Content
+- Documents
+Applications
+- Standard Salesforce Clouds e.g. Sales Cloud, Service Cloud, Experience Cloud, and Marketing Cloud
+- Industry Clouds e.g. Financial Services Cloud, Consumer Goods Cloud, Manufacturing Cloud, Communications Cloud and more
+- Custom applications built by your company or Salesforce ISV’s.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+“Keepit could become your company’s go-to backup and recovery tool for Salesforce, allowing you to not only safeguard all of your data but also have it readily available to restore, share, or permanently forget. The platform’s simplicity and ease of use alongside the independent cloud are sure to supercharge your backup and recovery strategy long term.”
+Andreea Doroftei
+Technical Instructor, Salesforce Ben
+Read the full reviewHow Keepit helps you
+Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
+With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
+Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
+Data recovery is made easy and fast with Keepit. Choose a specific point in time and roll back all data objects, metadata, files, and attachments in one go.
+Restore and recover capabilities:
+- In-place restore of records and metadata
+- Restore records to a different environment
+- Restore multiple records in bulk along with their related records
+- Restore only specific fields of records
+- Anonymize fields with dummy data
+- Download records in JSON or CSV files
+- Download files and attachments in original format
+- Securely share records, files and attachments with public links
+Keep your production data safe with the ability to backup and restore data from your production environment to your sandbox.
+Test and deploy code confidently without the risk of crashing your production data.
+You can also anonymize data in your sandbox. This prevents exposure of sensitive data to unauthorized individuals, whether inside or outside of your organization.
+Get started in few minutes
+Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.
+Intuitive user interface
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
+API-first
+You can integrate Keepit with your existing systems thanks to our API-first approach.
+Audit Logs. Track any user activity inside the Keepit platform, allowing you to monitor, review, and investigate any potential breaches.
+Job Monitor. Detect abnormalities in the job monitor and discover changes on a snapshot basis as well as the number of changes made.
+Data Sovereignty. Keepit operates its own data centers in multiple regions globally, helping you meet sovereignty requirements.
+The Right to be Forgotten. Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.
+Security Controls. Manage who has access to data and what permissions they have with granular Role Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
+Keepit’s pricing is user-based — not tied to data volume. You only pay for active Salesforce users, while we continue to protect data from inactive users at no additional cost.
+There are no data transfer fees, rehydration charges, or storage costs, and retention is unlimited. That means you can back up and restore with complete peace of mind — without worrying about growing data volumes, hidden fees, or long-term limits. As your Salesforce environment evolves, your protection scales with you.
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+“Keepit truly is a simple-to-understand and user-centric solution for any scaling enterprise.”
+Stefan Toefferl
+Senior Data Center Engineer, ALPLA
+Frequently asked questions
+No. Salesforce does not take responsibility and cannot guarantee that you get 100% of your data back in case of data loss. On Salesforce’s own website, they state: “It is recommended that you keep a regular backup of your data and to do a manual point-in-time backup before you proceed with any major data project within your organization.”
+Many organizations use Salesforce to manage their sales cycle and customer relations. Most of the record data is essential for business continuity and would be disastrous to lose. Salesforce does not protect you if you lose data due to human error, ransomware, or other outage scenarios. To avoid data loss, Salesforce recommends investing in a third-party backup and recovery service.
+Keepit for Salesforce covers:
+- Standard and Custom Objects
+- Files & Attachments
+- Metadata
+Find the complete coverage on our Support site.
+Once the connector is set up, you can configure the following items:
+- Change the name of the connector.
+- Configure the number of API requests usage
+- Manage user access to the connector
+- Limit the retention period of the connector
+Always within the data center region you specify. Currently we have seven data center regions: EU-Denmark, EU-Germany, Switzerland, UKI, US, Canada and Australia.
+Depending on the Service Offering you are choosing, Keepit retains your data for 1 year, with the Business Essentials Service Offering, or for an unlimited period, with the Enterprise Unlimited and Governance Plus Service Offerings. Visit our pricing page to learn more.
+You can also set a custom retention period for your connector, but it cannot extend beyond the retention period that is assigned to your account. Read more on how it works on our Support site.
+Yes, you can combine Salesforce backup with your other favorite SaaS app backups such as Microsoft 365, Entra ID (formerly Azure AD), Dynamics 365, Zendesk, Google Workspace, and others. Discover all Keepit Services and request a demo from our team of experts.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/backup-zendesk/
+Content type: Web page
+Last modified: 2025-02-23T21:35:08+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup and recovery for Zendesk
+Comprehensive protection, fast recovery, and top-notch security for your Zendesk support data.
+Why back up Zendesk?
+No disruptions in your service organization
+Automations are one of the key reasons why companies love Zendesk. Not having a proper backup and recovery solution in place puts you at risk of losing all your automations.
+Easy access to your data, from the one file to the whole pack
+With Zendesk disaster recovery feature, recovering a single important ticket or customer interaction force you to look for a needle in a massive haystack.
+Recycle bin covers only 40 days
+When you delete an item in Zendesk, it goes in the recycle bin. But it only stays there for 40 days, then it’s gone forever. Far too few Zendesk users are aware of the finality of this functionality.
+Top benefits
+Secure your data
+With Keepit’s independent, purpose-built cloud and unique storage architecture and security, your data are immutable.
+Protect your automations
+Protect yourself against accidental or malicious deletion of automations, triggers, macros, and views.
+Restore in minutes
+Immediate data immutability to ransomware. Our blockchain-verified storage and file system ensure unparalleled security protection.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+How Keepit helps you
+We protect your critical triggers, automation, macros, and views from accidental deletion or breaking changes.
+You can simply restore to a time before the automation was deleted or changed.
+Search for your automation in the system, and with a few clicks, your automation is restored.
+Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
+With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
+Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
+Fast search
+Fast federated search lets you search across all backup data so you can find what you need quickly.
+Smart search
+Controllable smart search allows partial or even misspelled search terms to provide results.
+Deleted items view
+If you’re not sure what was lost, activating the Deleted Items View takes the guesswork out of finding lost data. You can view all data that ever existed and was backed up on a tenant.
+Get started in few minutes
+Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.
+Intuitive user interface
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
+API-first
+You can integrate Keepit with your existing systems thanks to our API-first approach.
+Audit Logs. Track any user activity inside the Keepit platform, allowing you to monitor, review, and investigate any potential breaches.
+Job Monitor. Detect abnormalities in the job monitor and discover changes on a snapshot basis as well as the number of changes made.
+Data Sovereignty. Keepit operates its own data centers in multiple regions globally, helping you meet sovereignty requirements.
+The Right to be Forgotten. Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.
+Security Controls. Manage who has access to data and what permissions they have with granular Role Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
+Get your Zendesk data back instantly with smart search, file preview, and granular restore functionalities.
+Save training time for your team with our easy-to-use and easy-to-restore tool.â¯â¯
+With point-in-time restore capability, restore your data from a previous snapshot.
+Access versatile restore options (with download capabilities for data objects and folders) and provide users with relevant and secure shareable links.
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+Frequently asked questions
+Top three reasons why you should backup your Zendesk data:
+- To protect your Automations, Macros, and Triggers from accidental deletion
+- To gain granular restore capability of your Zendesk data at any time, from anywhere
+- So you can retain deleted data longer than 40 days
+ 
+Read more on why you must back up your Zendesk application and how this allows you to avoid 5 costly problems by reading this blog post.
+It depends on the Service Offering you choose. For more details, visit our pricing page
+Keepit provides:
+- Backup for your automation, trigger, and macros
+- Granular data restoration of Zendesk in minutes
+- Unlimited storage and archiving as your data scales up
+No, Keepit interface is designed to save your admin's time to setup and restore. It's designed to be setup in minutes and allow data restore in a few clicks.
+Your data will be securely stored in Keepit’s independent cloud. We run our own data center regions, operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have six data center regions in:
+- Americas: Washington D.C., USA & Toronto, Canada
+- Europe: London, United Kingdom
+- EU: Copenhagen, Denmark & Frankfurt, Germany,
+- Asia: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always go to that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, then Keepit will negotiate the moves with all affected customers prior to execution.
+Yes, and we have our headquarters in Denmark, EU. Read more here.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/services/mcp-integration-toolbox/
+Content type: Web page
+Last modified: 2026-03-12T14:56:21+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit connects AI to your backup environment — without exposing your data. It runs inside your infrastructure, uses your API controls, and keeps every action auditable and reversible. You get faster insights, stronger governance, and AI on your terms.
+MCP integration toolbox
+Simplify backup management using your AI assistants
+Ask. Get answers. Stay in control.
+Introducing the MCP integration toolbox
+Why Keepit’s MCP integration toolbox
+AI assistants are powerful — but traditional integrations often require sending data to third-party services. That’s not acceptable for backup and compliance environments. Keepit MCP takes a different approach.
+It’s a locally deployed server that translates natural language into Keepit API calls. All communication happens within your network perimeter. No cloud relay. No hidden processing.
+You get conversational access to your backup estate while maintaining your existing security model, audit trail, and access controls. This isn’t AI layered on top. It’s AI connected securely to what you already trust.
+Top benefits
+Full data control without compromise
+Keepit MCP runs 100% on your premises. It uses API-only access with token-based authentication and supports air-gapped deployments with local AI models.
+You benefit from the AI capabilities without risking control or compliance.
+Faster answers, less friction
+Instead of navigating dashboards in the Keepit application, you can use your AI assistant to check connector health, pull audit logs, review job performance, and generate compliance reports.
+You get results in seconds through conversation — in any language.
+Built-in governance and accountability
+All MCP interactions are logged in Keepit’s audit trail. Version 1 is read-only, so no changes can be made to your environment.
+You gain speed without sacrificing oversight, compliance, or reversibility.
+Key capabilities
+Connector management
+Backup health checks can be simpler and easier, with no need to dig through dashboards. With this integration, you can instantly see how your connectors are performing and identify issues before they become bigger problems. It gives you clear, conversational visibility into coverage gaps and operational risk — without changing a single setting.
+- List connectors and view health status.
+- Identify misconfigurations or anomalies.
+Job monitoring
+When backups run constantly, small issues can hide in plain sight. MCP lets you ask direct questions about running and historical jobs, so you can spot failures, delays, and performance trends quickly. Instead of searching through logs, you get clear answers about success rates, duration patterns, and potential bottlenecks — all in seconds.
+- View running jobs.
+- Analyze historical performance.
+- Track success and failure rates.
+Audit and compliance
+Audit requests rarely come with extra time. MCP makes compliance reporting faster by letting you pull logs, filter events, and generate reports through simple prompts. Every interaction remains logged in Keepit, so you maintain accountability while accelerating response times. It’s structured oversight — delivered through conversation.
+- Pull audit logs for any time range.
+- Filter by severity or event type.
+- Generate compliance reports on demand.
+Snapshot management
+When you need to recover, finding the right snapshot quickly matters. Keepit’s MCP helps you locate and verify backups, and confirm retention alignment without manual searching. You gain confidence in your recovery points and visibility into historical data, while keeping your environment unchanged and fully governed.
+- Locate snapshots by date.
+- Verify backup completeness.
+- Track retention compliance.
+Frequently asked questions
+IT operations teams, compliance officers, MSPs, and anyone who needs quick access to backup information without navigating complex interfaces.
+Is my data safe? 
+Yes. All processing happens within your infrastructure. The MCP server translates requests into API calls to metadata only. It does not transmit or store data externally.
+Any MCP-compatible client works. We recommend Claude Desktop for ease of use, or any LLM/Jan for local model deployment.
+No. Version 1 is read-only. Future write capabilities will include safeguards and confirmations.
+The MCP server is free and open-source. You only pay for your existing Keepit subscriptions.
+Most deployments take about 10–15 minutes.
+
+------------------------------------------------------------

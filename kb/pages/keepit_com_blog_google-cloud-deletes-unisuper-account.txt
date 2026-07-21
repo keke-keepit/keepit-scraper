@@ -1,0 +1,34 @@
+Source URL: https://www.keepit.com/blog/google-cloud-deletes-unisuper-account/
+Content type: Web page
+Last modified: 2025-08-20T00:12:59+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Can your cloud provider accidentally delete your data?
+In May 2024, UniSuper, an Australian superannuation fund managing $135 billion for 647,000 members, faced an unprecedented crisis when their entire Google Cloud account — including backups — was suddenly gone. Surprisingly, the culprit wasn’t ransomware or a cyberattack.
+What happened to an entire company’s Google Cloud account?
+Rather, a misconfiguration within Google Cloud's system led to the deletion of UniSuper’s entire account. This "one-of-a-kind event,” as described by Google, wiped out UniSuper’s cloud subscription and its backups stored across multiple geographic locations.
+The result was a nearly two-week outage that left members without access to their accounts.
+Timeline and response
+The ordeal began on May 2, when UniSuper’s online systems went offline. Members were unable to check their superannuation accounts, leading to concerns and frustration. On May 8, UniSuper CEO Peter Chun and Google Cloud CEO Thomas Kurian issued a joint statement explaining the situation. They clarified that the outage wasn’t due to a cyberattack and that no personal data had been exposed. Instead, an internal error within Google Cloud’s provisioning system caused the deletion.
+On May 15, full restoration of services was achieved, and UniSuper members could access their accounts once again.
+Apology and assurance
+Chun and Kurian apologized for the "extremely frustrating and disappointing" disruption, emphasizing that it was an isolated incident with no precedent among Google Cloud’s clients globally. They assured stakeholders that Google Cloud had identified the sequence of events leading to the deletion and had implemented measures to prevent such occurrences in the future.
+Restoration efforts
+Restoring services was a monumental task. Despite having duplication measures to protect against data loss and outages, the deletion affected all backups across both geographic locations where UniSuper’s data was stored.
+Typically, such duplication ensures that if one service goes down, it can be restored from another location. However, in this case, all duplicated data was lost simultaneously because it was stored within the same logical infrastructure (i.e., same cloud) rather than being protected via a multi-cloud setup.
+Backup and recovery
+Fortunately, UniSuper had maintained additional backups with an independent third-party provider, which proved to be the saving grace and played a crucial role in the recovery process.
+These external backups minimized data loss and significantly aided UniSuper and Google Cloud in restoring core systems.
+Per UniSuper’s official statement, 'UniSuper had backups in place with an additional service provider. These backups have minimised data loss and significantly improved the ability of UniSuper and Google Cloud to complete the restoration.'
+Lessons learned
+This incident highlights the critical importance of having a robust, multi-layered backup strategy in line with the 3-2-1 backup principle, particularly for organizations handling sensitive and substantial financial data. Relying solely on a single cloud provider for backup, even one as reputable as Google Cloud, can pose significant risk.
+The adage of “don’t keep all your eggs in one basket” applies: Don’t keep all your data and backups in the same logical infrastructure. Backups must be kept in a separate cloud. Implementing a third-party, independent cloud backup solution provides an essential safety net — also known as air gapping. Read why air gapping is your best defense.
+How do you ensure business continuity?
+Following data protection best practices (such as data immutability) and leveraging multi-cloud data protection solutions ensures access to business-critical data. One such solution is Keepit, which offers comprehensive and easy, guaranteed access to backups.
+Keepit’s platform ensures that all data is readily available online, allowing administrators to provide employees with direct links to their data, enabling rapid restoration of the most business-critical information.
+This means employees can continue working seamlessly without waiting for a full system restore, prioritizing critical tasks such as email access and other essential functions.
+Conclusion
+UniSuper’s experience is a stark reminder of the potential data protection gaps when relying on one single cloud service for SaaS backup. A robust disaster recovery plan must include independent cloud backups to ensure data can be restored quickly and efficiently from multiple sources, thereby providing the ability to recover no matter what happens, be it ransomware or misconfiguration.
+The UniSuper incident underscores the need for comprehensive data protection strategies.

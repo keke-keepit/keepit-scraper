@@ -1,0 +1,37 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/configure-your-microsoft-365-backup/
+Content type: Web page
+Last modified: 2026-06-29T22:39:13+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Configure your Microsoft 365 backup
+Optimize backup for large enterprises
+If you're backing up more than 500 users, we recommend creating separate connectors for different Microsoft 365 data areas to enhance backup efficiency:
+- One for Exchange data (including public folders)
+- One for OneDrive data
+- One for SharePoint and Groups & Teams data
+- One for Teams Chats data
+Note: You can use the same Microsoft Privileged Role Admin or Global Admin account for each connector.
+Using multiple connectors improves the speed of initial backups. This prevents delays caused by one data type slowing down the backup of others. Learn more about our data processing here.
+Lastly, this setup enhances subfolder search performance, ensuring quicker and more reliable access to your data.
+Configuring a new connector
+When adding a new connector, all data areas are selected by default. If you are setting up separate connectors for different data areas, ensure you exclude the data areas you don't want backed up before saving. Then, proceed with creating additional connectors for the remaining data areas.
+1. Select Configure under the desired data area.
+2. Adjust the settings as needed.
+Tip: In the Advanced section, you’ll find additional backup options, such as backing up specific data areas or selecting backup versions.
+3. Save your changes by selecting OK.
+Additional information for SharePoint backups
+You can exclude a specific type of SharePoint data but please keep in mind that limiting the data in your backup can affect your restore functionality. Accordingly, the advanced SharePoint configuration should be used only in cases where very large amounts of data need to be backed up or for troubleshooting. For more information on how your restore can be affected, see: Restoring SharePoint data with a custom backup configuration
+Note: It is not possible to select only metadata for the backup. Library files and/or List items must also be selected.
+Additional information for Groups and Teams backups
+Selecting the SharePoint data type in the Advance settings means that team sites and their notebooks will be backed up. Learn more: Microsoft 365 Groups and Teams data coverage
+Sync Exchange, OneDrive, and Teams Chats user selection
+User selections for Exchange, OneDrive, and Teams Chats data areas are automatically synchronized. This implies that any changes made to group or user selections in one area will apply to all three.
+If you wish to have distinct selections for each data area, unlink the user selections.
+Important: If you've previously chosen different groups for backup in Exchange, OneDrive, and Teams Chats, and later opt to link their selections, the user configurations will synchronize based on the data area you enable it for. For instance, if you enable synchronization in the Exchange configuration, the selections for OneDrive and Teams Chats groups will be cleared, and the Exchange selections will apply to OneDrive and Teams Chats, and vice versa.
+SharePoint and OneDrive Versions backup
+By default, only the most recent version of SharePoint and OneDrive items is backed up.
+However, you can choose to back up the most recent 10 versions, the most recent 100 versions, or all versions of these items.
+Keep in mind that backing up versions may result in slower backup performance.
+You can configure version backups in Advanced settings.

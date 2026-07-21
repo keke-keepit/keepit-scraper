@@ -1,0 +1,66 @@
+Source URL: https://www.keepit.com/help/platform-category/add-and-manage-connection-applications/
+Content type: Web page
+Last modified: 2026-06-23T20:49:11+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Add and manage connection applications
+Once a connection has been created, you can add additional applications to it if needed.
+However, we recommend using only one application per data area, particularly for Microsoft workloads. This is due to the way Microsoft enforces throttling and limits concurrent API requests. For example, you should use one application for Exchange, one for Teams Chats, and one for SharePoint.
+Types of applications
+The Keepit platform supports two types of applications: system and custom.
+Note: Custom apps are currently only supported for Microsoft 365 and Okta.
+System app
+A system app is a Keepit-owned application that is installed in your organization. It comes with a predefined set of permissions required to back up and restore your data.
+To add a system app to your connection, you must grant the requested permissions. You will be prompted to review and approve these permissions after signing in to your service.
+Custom app
+A custom app is a customer-owned, single-tenant application that you register within your organization and link to Keepit
+With a custom app, you can choose which capabilities (sets of permissions) the application should have.
+The setup process involves configuring the required permissions in your organization and then authorizing them in the Keepit platform. The approval flow is initiated upon sign-in.
+Adding multiple applications may degrade performance
+It’s important to understand that adding more than one application for the same workload can lead to throttling by the third-party platform, which can result in degraded performance.
+Applications running within the same tenant share the tenant’s available resources. If multiple applications are active simultaneously, they can collectively exhaust these resources, causing the tenant to become throttled and affecting all connected applications.
+For example, when working with Microsoft 365 data, see this article for more information: https://learn.microsoft.com/en-us/sharepoint/dev/general-development/how-to-avoid-getting-throttled…
+Requirements
+Before adding an application, ensure you have a service account that meets the required specifications. The requirements vary for each workload and can be found in the corresponding workload category in the Help Center.
+Important: While some data can be backed up using a service principal, certain data areas require a service account due to Microsoft limitations. This includes restoring SharePoint data, backing up and restoring Groups and Teams data, and backing up and restoring Public Folders.
+Add an application to a connection
+Add a system application
+1. In the lower-left corner, click your account icon > Account info.
+2. Select the Connections tab.
+3. Click on the desired connection.
+4. Click Add application > System and select Next.
+5. Sign in with an admin account and grant the requested permissions.
+6. Review the summary and select Done.
+Add a custom application
+When adding a custom application, it's important to remember that before you authenticate your application, make sure that the permissions you've added to the application in Keepit match those that the application has in the organization.
+1. In the lower-left corner, click your account icon > Account info.
+2. Select the Connections tab.
+3. Click on the desired connection.
+4. Click Add application > Custom.
+5. Add as many capabilities as needed and click Next.
+Important: Add these permissions to your app in your organization.
+6. Enter your application details and upload certificate and key, and select Next.
+7. Sign in with an admin account and grant the requested permissions.
+8. Review the summary and confirm the capabilities and permissions are correctly set.
+- If any permissions are missing or excessive, you will be notified.
+- After closing the wizard, go to your organization settings to adjust permissions as needed.
+9. Click Done.
+Manage your applications
+Manage your application from the Connection Management page. To access it, click your account icon > Account info, select the Connections tab, and then click the desired application.
+System application
+For a system application, you can:
+- View the application's capabilities
+- Check its status
+- Reauthenticate the application
+- Remove the application from the connection
+Custom application
+For a custom application, you can:
+- Edit the application's basic information
+- Check its status
+- View the application's capabilities
+- Add or remove capabilities
+- Reauthenticate the application
+- Remove the application from the connection
+- Change the service account (reauthentication is required)

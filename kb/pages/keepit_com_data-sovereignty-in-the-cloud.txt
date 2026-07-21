@@ -1,0 +1,19 @@
+Source URL: https://www.keepit.com/data-sovereignty-in-the-cloud/
+Content type: Web page
+Last modified: 2026-04-17T01:30:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Research report
+Data sovereignty: Take control of your data
+Data sits at the heart of every modern organization — and at the center of its greatest opportunities and risks.
+As geopolitical tensions rise, hyperscalers consolidate control, and data privacy regulations tighten, digital sovereignty has become a defining business priority. At the core of this movement lies data sovereignty — the ability to maintain control over where your data resides, who governs it, and how it’s protected.
+This in-depth report offers guidance for IT and business leaders on navigating compliance, risk, and control in this context and specifically aims to help CIOs, CISOs, COOs, and CDOs build resilience, ensure compliance, and strengthen governance and control across international operations.
+Download the report to learn:
+- What digital sovereignty is, the three elements that comprise it, and why data sovereignty is often the most challenging of those elements to achieve
+- Why data sovereignty has become an important and urgent requirement for organizations with international operations and customers
+- Critical questions that leaders must ask and answer to achieve digital sovereignty
+- Regional perspectives for the United States, Europe, and the rest of the world
+- National snapshots outlining key data sovereignty threats, the current regulatory and legal landscape, and guidance and expert resources for eight countries
+- The road ahead: Understand how forward-thinking organizations are preparing for the future of data sovereignty — and how Keepit’s independent architecture supports vendor neutrality, data control, and resilience

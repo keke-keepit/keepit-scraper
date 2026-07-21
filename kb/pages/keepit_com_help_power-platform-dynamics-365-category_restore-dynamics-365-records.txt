@@ -1,0 +1,39 @@
+Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/restore-dynamics-365-records/
+Content type: Web page
+Last modified: 2026-07-04T00:37:34+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Dynamics 365 records
+Keepit supports in-place restore for Dynamics 365 data items (records).
+Restore a Dynamics 365 record
+1. In your connector, find the record you want to restore.
+2. Optional: If you want to restore a record from an earlier point in time, open the Snapshots Viewer and select the appropriate snapshot.
+3. Point to the record and select ••• > Restore.
+Note: To preview the record, click the item to open the File Previewer. In the upper-left corner, select the Restore icon.
+4. Select the method of restore, and then select Next.
+- Restore only this item - This option restores only the selected record and no connected records.
+- Also restore related items - This option restores the selected record along with all connected records that are found under. For example, if you restore an account, you will also be restoring all records under the account (for example, Social Profiles, opportunities, activities, and contacts).
+Note: If you select Also restore related items, the restore job may be marked as incomplete in the Job Monitor even if the main and related records are restored successfully. This occurs because Microsoft may fail to restore system files, which are not necessary for data recovery.
+5. Review the restore summary and click Restore.
+Restoring Dynamics 365 records in bulk
+You can restore multiple records at once, but note that the option to restore related records is not available for bulk restores.
+To restore multiple records, select the desired items and click Restore in the toolbar.
+Restoring deleted items in bulk
+Deleted items cannot be restored in bulk directly. You can restore these items individually by selecting ••• > Restore.
+To restore deleted items in bulk, you’ll need to open a snapshot from a time before the items were deleted. For example, if you want to restore several items from a deleted folder, check the folder's timestamp, open the Snapshots Viewer, and select a snapshot from a time before the folder was deleted. This will enable the option to restore the items in bulk.
+What happens to your data after you restore
+Dynamics 365 records are restored in place to their original locations.
+IDs and timestamps
+- Modified records: If a record has been modified, it will be updated while retaining its original ID and timestamp.
+- Deleted records: If a record has been deleted, the restored item will receive a new ID, and the timestamp will reflect the time of the restore.
+Metafiles and Metadata
+- Regardless of the selected restore method, the Job Monitor may show that more items were restored than initially selected. These extra items are metafiles necessary for the item’s proper functionality, though they are not visible in Dynamics 365.
+- If the metadata or configuration in the snapshot differs from those in Dynamics 365, Keepit will still attempt to restore the item. Depending on the API, the restoration may or may not be successful.
+Restoring non-direct relationships
+Non-direct relationships between records are not restored, as they are not considered as related records. For example, if you select the option to restore related records for a marketing list, the members of the list will not be restored.
+Restoring a record with a required field that has been deleted
+A record cannot be restored if one of its required fields references another record that has been deleted. For example, if you create a case record and fill in the required customer field with an existing contact, and that contact record is then deleted, then you will not be able to restore the case record. You can, however, restore both your case and contact if you restore the contact record and select Also restore related records.
+Read-only fields cannot be updated
+In Dynamics 365, certain fields are read-only by default, meaning they cannot be updated manually. When restoring data, this limitation prevents us from overwriting these fields with information from the snapshot. Instead, these fields will be automatically populated by Microsoft.

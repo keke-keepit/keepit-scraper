@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/press/tisax/
+Content type: Web page
+Last modified: 2025-11-26T10:58:52+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit successfully completes TISAX audit, demonstrating commitment to trusted information security
+Copenhagen, Denmark – November 26, 2025 — Keepit, the leader in SaaS data protection, today announced that it has successfully completed the Trusted Information Security Assessment Exchange (TISAX) audit — achieving excellent results with no major findings.
+TISAX (Trusted Information Security Assessment Exchange) is a European standard for information security assessments developed by the German Association of the Automotive Industry (VDA). It is based on ISO/IEC 27001 and evaluates how effectively organizations protect sensitive information, including customer data and intellectual property.
+Validating Keepit’s robust security posture
+The TISAX assessment audited Keepit’s Information Security Management System (ISMS) across a wide range of areas — including access controls, data encryption, data retention, physical security, personnel training, incident response, vendor management, and business continuity.
+By successfully completing the audit, Keepit has demonstrated the maturity and effectiveness of its security controls, providing customers and partners with additional assurance that their sensitive data is handled responsibly and protected in compliance with one of Europe’s most rigorous security standards.
+“Our successful TISAX audit is another strong validation of our commitment to maintaining world-class information security,” said Kim Larsen, Chief Information Security Officer at Keepit. “We are proud that our ISMS met the TISAX requirements without major findings — a reflection of the diligence and collaboration across our entire organization. This achievement strengthens the trust our customers place in us to protect their most valuable data.”
+Enhancing trust across industries
+While TISAX originated within the automotive sector, it has become a widely recognized benchmark throughout Europe for its rigorous approach to information security. Companies in manufacturing, defense, mobility, and regulated services increasingly expect their vendors and partners to meet or exceed similar standards.
+In the DACH region (Germany, Austria, Switzerland), TISAX has become a standard expectation among organizations working within the automotive supply chain. Keepit’s TISAX label reinforces the company’s position as a trusted partner for enterprises seeking to ensure compliance, reduce risk, and enhance cyber resilience.
+“Our customers — particularly in Europe — are increasingly requesting TISAX certification as part of their supplier and partner assessments,” Larsen added. “This certification gives them the confidence that Keepit is not only compliant but forward-thinking in our approach to data protection and governance.”
+Continuing commitment to security and transparency
+Keepit’s TISAX results are valid for three years and can be shared under mutual non-disclosure agreements via the ENX portal, which facilitates information exchange among certified organizations.
+The completion of the TISAX audit underscores Keepit’s ongoing dedication to transparency, trust, and the continuous improvement of its security practices. It complements the company’s existing compliance achievements, including ISO 27001 certification and SOC 2 Type I attestation.
+Customers, partners, and auditors can request access to the TISAX certification through Keepit’s Customer Success and Support teams.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 20,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

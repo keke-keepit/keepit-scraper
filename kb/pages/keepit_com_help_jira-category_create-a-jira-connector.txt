@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/help/jira-category/create-a-jira-connector/
+Content type: Web page
+Last modified: 2026-06-22T13:15:29+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create a Jira connector
+Follow these steps to create a Jira connector and set up your backup configuration.
+1. On the Connectors page, selectâ¯Add connectorâ¯>â¯Add Jira Ñonnector.â¯
+2. In theâ¯Organization URLâ¯field, enter your organization's Atlassian URL (e.g.,â¯your_name.atlassian.net).
+Important: This must be the exact host name shown in your browser when you're logged into your Jira instance. The organization name is embedded in the URL and should be copied exactly.
+3. Clickâ¯Sign inâ¯to begin the authentication process.
+4. In the Atlassian sign-in page, enter the credentials of an admin account.
+5. Review the permissions requested by the Keepit application and select Accept to grant access.
+Note: â¯You will be prompted for permissions only the first time you create a connector. Afterward, Keepit retains the permissions it needs.
+6. After authentication, you’ll be redirected to Keepit where you can configure your connector.
+Here you can:
+- Change the name of the connector
+- Manage user access to the connectorâ¯by selecting theâ¯lockâ¯icon
+- Limit the retention periodâ¯by selecting theâ¯calendarâ¯icon
+6. Select Start backup.
+The first backup will be scheduled.â¯

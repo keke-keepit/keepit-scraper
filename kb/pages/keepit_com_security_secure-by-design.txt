@@ -1,0 +1,52 @@
+Source URL: https://www.keepit.com/security/secure-by-design/
+Content type: Web page
+Last modified: 2025-02-23T21:38:45+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The Keepit platform safeguards your data against threats, ensuring that every backup stored on our cloud is unalterable and protected. With immutable SaaS data protection, you’re ensuring business continuity and compliance.
+Secure by design
+Intelligent platform security built for the cloud. Keepit's broad service coverage ensures secure data protection and recovery solutions for your critical SaaS data.
+Intelligent SaaS data protection
+Simple and transparent
+Effortless integration of SaaS backup
+Keepit’s API-only architecture enables seamless integration. Access every feature as an API endpoint for easy configuration, provisioning, and management — flexibility that grows with your needs.
+Data availability
+The Keepit architecture is centered around a multiple data center strategy for redundancy. Each one of our regions employs two regional data centers, each data center being a complete mirror of the other.
+The two data centers operate in active-active mode, continually keeping data replicated between the centers. This keeps your data reachable and available for restore even in the unlikely event of the loss of a full data center.
+Scalability
+Keepit’s platform is effortlessly scaled to your organization's needs. Keepit’s fully automated and intelligent backup algorithm ensures maximum throughput and allows you the ability to deploy multiple independent instances of Keepit for increased scalability.
+Predictable pricing for unlimited data
+Keepit offers predictable pricing with its unlimited data model. There are no extra fees for data ingress or egress, making planning your budget simple and reliable.
+Read more about scalabilityConfidence in disaster recovery
+Keepit enables business continuity
+Become more resilient by reducing risk and enabling seamless recovery through robust backup. Keepit provides granular and instant recovery, if and when your system is impacted by ransomware or human error. With Keepit, your disaster recovery plan is future-proofed for business continuity.
+Data integrity
+Keepit has been built to be tamper proof, guaranteeing that data stays immutable. The application does not expose any APIs or other means that allow data overwrites. Furthermore, the application uses a blockchain algorithm which makes any low-level tampering impossible and easily evident.
+Keepit features a deletion retention of all configured backup connections of at least one month, thereby completely protecting the customer from data loss due to ransomware attacks.
+Data retention
+Data only leaves the platform when it falls outside of the customer-configured retention period.
+Data security and encryption in transit
+Keepit employs encryption in transit using HTTPS secured with modern TLS when accessing your data through primary workload vendor APIs. For an additional layer of security, Keepit will typically exchange traffic directly with workload providers over major internet exchanges.
+Once data reaches Keepit, it’s encrypted before being stored on our storage systems. For this purpose, we employ AES encryption directly on our storage systems. The storage media upon which your data resides is kept in two mirrored, physically secure data centers.
+A wide range of security measures are used to protect and safeguard your data. Encryption in transit and at rest is implemented, using industry best practices.
+Learn more about intelligent disaster recoveryEffortless compliance
+Compliance
+Keepit makes it easier to adhere to compliance requirements, whether it’s NIS2 or GDPR. Keepit’s independent cloud provides you with the confidence that your data is stored securely. Our data centers in seven regions guarantee data sovereignty.
+Security certifications
+Keepit stores your data in our regional data centers, separate from your SaaS vendor’s data. To ensure the highest operational security standards, Keepit holds both the ISO/IEC 27001 and the ISAE 3402-II certifications (audited by Deloitte annually).
+Read more about compliance and continuityThe intelligent choice
+Effortless and transparent - a trusted partner in disaster recovery and achieving compliance. Intelligently built solutions make for an intelligent choice.
+Intelligent data protection
+Explore Keepit’s enterprise-level SaaS backup solutions
+Read the case study
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Read the case study
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+Read the case study
+âOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.
+Want to learn more? Get in touch to hear more about the Keepit platform
+Ensure business continuity with Keepit
+Get visibility on your data with intelligent data monitoring
+Trust in the compliance of your data protection strategy

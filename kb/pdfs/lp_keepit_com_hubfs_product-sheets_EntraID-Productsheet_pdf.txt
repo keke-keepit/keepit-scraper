@@ -1,0 +1,111 @@
+Source URL: https://lp.keepit.com/hubfs/product-sheets/EntraID-Productsheet.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery 
+for Microsoft Entra ID
+Industry-leading coverage of Microsoft Entra ID
+Microsoft Entra ID holds identities and provides authen­tication and authorization for 
+your organization’s critical SaaS applications. Losing its objects and policies — due to 
+cyberattacks, accidental deletion, or outages —  means disruption to your business and 
+additional stress for you and your team.
+Awarded for its ease-of-use, Keepit’s leading coverage of Microsoft Entra ID ensures that 
+your data is securely backed up in our vendor-independent cloud and can be recovered, or 
+rolled back swiftly and accurately when incidents occur. It effectively minimizes the impact 
+of data loss and eliminates the burden of rebuilding the Microsoft Entra ID environment.
+Assured data integrity
+You have confidence that your data 
+can’t be modified or deleted. Stored 
+in our vendor-independent cloud, 
+Microsoft Entra ID objects and policies 
+remain accessible, at all times.
+Fast recovery
+You can quickly recover and roll 
+back changes to objects and 
+policies. Rapidly identify changes 
+and determine which to recover in 
+case of disruption.
+Unmatched coverage
+With the broadest coverage of 
+objects and policies, including 
+Intune, BitLocker, and LAPS, you 
+remain confident in your ability to 
+recover data at any time. 	
+“Keepit for Entra ID played a crucial role 
+within the recovery process by allowing the 
+customer to quickly restore all compromised 
+user identities to a fully operational state 
+prior to the recovery of their data.”
+Siddick Elaheebocus, Founder 
+and CEO of INNOVISION
+Microsoft Entra ID showed over 
+7,000 password attacks 
+per second blocked in 2024
+Source: Microsoft Digital Defense Report 2024
+$500,000 was the cost of recovery 
+for Carlsbad after a contractor 
+deleted 1,200 user accounts
+Source: United States Department of Justice
+Recovery time of less than 
+3 hours for a Keepit customer 
+after a targeted attack 
+Source: “Keepit enables rapid 
+recovery from cyberattack”
+The impact
+The risk
+Proven benefit
+© Keepit. All rights reserved. Version 1.0
+
+KEY CAPABILITIES
+Outstanding ease-of-use 
+Built to protect SaaS applications, 
+Keepit is quick to implement and 
+intuitive to use.
+Multiple restore options
+Restore objects in bulk or granularly 
+to guarantee fast and precise 
+recovery.
+Rollback
+Easily roll back changes that impact 
+your operations.
+Unlimited retention
+Customize retention for up to 99 years 
+with no extra costs.
+Monitoring and analytics
+Ensure the integrity of backups by 
+monitoring and identifying abnormal 
+changes to address them quickly.
+Highest security
+Stored in our vendor-independent 
+cloud, and immutable by design, 
+Keepit offers industry-leading 
+security , keeping your backups safe.
+Integrates with SIEM 
+Feed security-related data into SIEM 
+for further investigation and action.
+WHAT WE COVER
+Find out how simple
+and easy it is to use Keepit
+Book a demo
+What’s in Keepit for Microsoft Entra ID
+  USERS     GROUPS     ADMIN UNITS     ROLES AND ROLE ASSIGNMENTS     APP REGISTRATIONS  
+  SERVICE PRINCIPALS/ENTERPRISE APPS     CONDITIONAL ACCESS POLICIES  
+  INTUNE DEVICE CONFIGURATION PROFILES     INTUNE COMPLIANCE POLICIES     BITLOCKER RECOVERY KEYS  
+  AUDIT LOGS     SIGN-IN LOGS     WINDOWS LAPS POLICIES AND PASSWORD HISTORY  
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data 
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and 
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-independent 
+cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.  
+© 2025 Keepit. All rights reserved.
+www.keepit.com
+Recover and restore your SaaS data
+Resilience starts with
+intelligent choices

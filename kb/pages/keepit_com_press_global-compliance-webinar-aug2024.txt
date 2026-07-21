@@ -1,0 +1,33 @@
+Source URL: https://www.keepit.com/press/global-compliance-webinar-aug2024/
+Content type: Web page
+Last modified: 2025-08-20T00:13:00+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How hard is it to navigate and comply with global cybersecurity regulations?
+Expert panel explores commonalities and differences between major regulatory frameworks in the US and Europe, and how architecture and compliance intersect, in webinar tailored for IT decision-makers.
+COPENHAGEN, DENMARK. August 27, 2024 – Keepit, a global provider of cloud backup and recovery solutions, today announcedâ¯its webinar titled “The compliance labyrinth: Navigating global cybersecurity regulations.” The webinar centers on helping organizations navigate the complex and often chaotic world of global cybersecurity regulations that are implemented to strengthen cyber resilience in the face of escalating cybercrime and digitalization.
+Webinar title: The compliance labyrinth: Navigating global cybersecurity regulations 
+Date: August 28, 2024 
+Time: 10:00 –11:00 AM ET / 4.00-5:00 PM CET 
+Registration link: Sign up here 
+Panel of experts:
+- Kim Larsen: Group CISO at Keepit, cybersecurity advisor
+- Ulf Feger: Group CISO, NIS2 Directive Senior Lead Implementer
+- Jimmy Nilsson: Global VP at Kyndryl Security Consulting, cybersecurity executive
+About the webinar:
+As cyber threats continue to surge, regulatory bodies around the globe are scrambling to draft legal frameworks aimed at mitigating these risks. However, the regulatory landscape remains fragmented, with varying levels of rigor, oversight, and clarity across different regions.
+This webinar is designed to equip senior executives, CISOs, and IT decision-makers with insights on how to proactively navigate this complex regulatory environment.
+During the session, Kim Larsen, Keepit’s CISO and a recognized expert in cybersecurity, will explore the intricacies of global cybersecurity regulations. Joining him will be Ulf Feger and Jimmy Nilsson, who bring diverse perspectives on how to interpret and implement these regulations within organizations’ cybersecurity frameworks.
+Key takeaways:
+- Global insights: Learn from an expert panel of cybersecurity professionals who will share their global perspectives on key cybersecurity regulations, including NIS2, CER, DORA, and the SEC guidelines.
+- Practical strategies: Discover actionable strategies to enhance your organization's cyber resilience and ensure compliance with varying global regulations.
+- Industry-specific focus: Gain a deeper understanding of how industry-specific regulations impact your cybersecurity posture, with particular attention to sectors such as finance, healthcare, and critical infrastructure.
+- Live Q&A: Engage with our panelists in a live Q&A session, where you can ask specific questions and receive tailored advice on your most pressing cybersecurity concerns.
+Commonalities and differences between US and Europe
+In an era where data breaches and cyberattacks are not just probable but inevitable, understanding and complying with global cybersecurity regulations is crucial for safeguarding your business. The webinar will delve into the practical aspects of implementing compliance measures across different regions, with a focus on both US and European markets.
+With perspectives from both sides of the Atlantic, the discussion will highlight commonalities and differences between major regulatory frameworks such as the NIST framework widely adopted in the US and ISO standards prevalent in Europe. This comparative approach will provide attendees with a comprehensive understanding of how to harmonize their cybersecurity practices to meet diverse regulatory requirements.
+About Keepit:
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguardsâ¯essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over ten thousand companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visitâ¯www.keepit.comâ¯or follow Keepit onâ¯Linkedin.

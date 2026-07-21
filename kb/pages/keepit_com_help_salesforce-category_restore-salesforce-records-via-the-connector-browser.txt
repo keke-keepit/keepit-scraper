@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-records-via-the-connector-browser/
+Content type: Web page
+Last modified: 2025-12-08T13:37:55+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Salesforce records via the connector browser
+Restore a Salesforce record
+1. Browse your folders or use the search to find your record.
+Records are found in Objects > object type.
+2. Optional: If you want to restore a record from an earlier point in time, select the Snapshots Viewer, and then select the appropriate snapshot.
+3. Point to the record and select ••• > Restore.
+Tip: To preview the record, select the item to open the File Previewer. In the upper-left corner, select the Restore icon.
+Note: To restore multiple records, select the desired items and click Restore in the toolbar.
+4. Select the method of restore, then click Next.
+- Restore only this record - This option restores only the selected record and no related records.
+- Also restore related records - This option restores the selected record along with related records.
+If enabled, you can deselect any objects you don't want to include. Related objects that are dependent on others and cannot be excluded.
+Note: Restoring a related record will also restore all its child records in the hierarchy, including associated files and attachments.
+5. Review the restore summary, then click Confirm.
+Important notes
+- The Job Monitor may show more items restored than originally selected. These additional items are metafiles required for proper functionality, but they are not visible in Salesforce.
+- RTBF-marked related records cannot be restored. If any are included, the restore job will be marked as incomplete.
+Restoring deleted items in bulk
+When Deleted Items in the toolbar is enabled, the browser will show all the deleted items in the current snapshot.
+You can restore these items individually by selectingâ¯the restore icon
+If you want to restore multiple deleted records at once, you need to restore from the snapshot before the records were deleted. The snapshot can be selected with the Snapshot Viewer in the toolbar.

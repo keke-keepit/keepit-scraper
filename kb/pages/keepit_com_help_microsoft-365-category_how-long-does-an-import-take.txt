@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/how-long-does-an-import-take/
+Content type: Web page
+Last modified: 2026-06-30T01:08:43+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How long does an import take?
+From the moment you click on the import button, the import job is put in a queue. Please be patient, as it will take a few moments for the interface to be updated.
+For small accounts, the import will take only a few minutes, for larger volumes account vendor throttling can affect the import speed.
+The actual import process from Keepit will only take a few seconds (see how fast you can get the data from the web app), but importing via Microsoft’s API can take a longer time, depending on the size and type of data that you are importing. We have implemented algorithms that will optimize Microsoft access in the fastest possible way, without putting undue pressure on the Microsoft servers.

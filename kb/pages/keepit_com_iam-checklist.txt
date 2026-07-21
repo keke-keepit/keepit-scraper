@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/iam-checklist/
+Content type: Web page
+Last modified: 2026-06-09T20:30:41+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Identity-based attacks continue to rise as attackers increasingly target privileged accounts, access policies, and administrative controls. Organizations are reevaluating how identity environments are protected, recovered, and operationalized as part of broader cyber resilience strategies.
+The hidden risks of unprotected identity systems?
+Assess hidden risks across Microsoft Entra ID and Okta before compromised accounts, policy drift, or malicious changes disrupt operations.
+Identity systems now control how users access applications, how policies are enforced, and how modern organizations operate securely at scale.
+But native Identity Access Management protections are not designed for comprehensive recovery.
+This practical checklist helps organizations evaluate:
+- Identity recovery readiness
+- Configuration and policy resilience
+- Audit and compliance visibility
+- Operational recovery gaps
+- Shared responsibility risks
+Download the checklist to better understand where identity resilience challenges may exist across your environment:
+Read the case study
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Read the case study
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+Read the case study
+âOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.

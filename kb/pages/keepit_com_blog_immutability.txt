@@ -1,0 +1,65 @@
+Source URL: https://www.keepit.com/blog/immutability/
+Content type: Web page
+Last modified: 2025-08-20T02:24:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why you need immutable data protection in your ransomware strategy
+And why a lean, purpose-built tech stack is the way to do it
+Immutability is a key feature that plays a pivotal role in safeguarding data integrity, boosting data resilience, and protecting data against threats, including ransomware, but certain considerations need to be addressed when evaluating backup solutions. Let's look into the concept of data immutability, its significance, and what it means for Keepit’s SaaS data protection platform.
+Data immutability definition: Why it’s important
+Immutable storage operates on a simple principle: Data can only be added. Once data is written, it can’t be changed, effectively locking it and preventing any unauthorized tampering or deletion. In the context of data protection, this means that once data is stored immutably, it remains unchanged and is safeguarded against unauthorized modifications or deletions, ensuring data integrity at all times.
+How an immutable backup solution will enhance your overall security posture
+The importance of data immutability in data protection is multifaceted. Here’s a quick rundown of some of the main drivers for deploying a solution leveraging data immutable technology:
+- Data integrity: First, immutability ensures that data remains in its original, unaltered state, preserving its integrity. This is critical for basically all industries.
+ 
+- Ransomware defense: In the battle against ransomware, data immutability offers a robust defense. Here’s why: Even if ransomware infiltrates a system, it cannot manipulate or delete immutable data. Because of this, it’s providing a secure fallback option for data recovery.
+ 
+- Compliance and legal requirements: Since regulatory bodies require organizations to maintain unaltered records for a specified period of time, having a backup solution that guarantees this is vital. In this way, immutability helps organizations meet these compliance requirements.
+ 
+- Historical data preservation: Immutability enables organizations to keep historical data records that are unchangeable. This is valuable for auditing, investigations, and analysis of past data.
+So, which features should you look for when evaluating backup options that all offer immutability? First, I’d say simplicity, because it’s not always simple.
+“Simplicity as a shield”
+Who doesn’t like a good acronym hijacking: Software as a service (SaaS) meets “simplicity as a shield.” Our solution distinguishes itself in data backup and recovery by having the most efficient tech stack. It’s cloud native and purpose built for SaaS data storage with the clear security goal of keeping data tamper proof and always immutable.
+But what does simplicity mean for defining immutability and how it impacts a data protection strategy? Or alternatively, what does complexity mean for immutability? Let’s look at both, starting with the latter.
+Vulnerabilities for backup providers with complex adaptations
+Many backup providers have legacy systems that were initially designed for on-premises environments. In order to adapt to storing cloud data, these providers had to implement bolt-on solutions via additional layers to their old, on-prem tech stack, resulting in a much more complex architecture.
+There are two main considerations that I want to discuss, from a security standpoint, with cloud adaptions to on-premises solutions: First, the complexity is significantly increased with the added layers required to retrofit an on-premises deployment for the cloud, thereby increasing the attack surface and potential attacker entry points; Second, these bolted-on layers often have immutability as a configuration, not baked into the architecture.
+While these top layers often offer options for manual configuration to achieve immutability, this configurability and added complexity create potential entry points for attackers. Effectively, this results in more entry points — more “doors” that bad actors will come knocking on to see if someone forgot to lock up. (Read about why backups are key ransomware targets.)
+To make matters worse, the complexity added by having those extra layers makes comprehensive testing challenging. More potential entry points with less comprehensive testing means a larger attack surface to protect and test to ensure that they’re secured. That’s not great for data integrity, ransomware defense, or historical data preservation.
+In solutions deploying these bolt-on cloud adaptations to “modernize” legacy systems, attackers can exploit these optional higher levels (I say optional since these levels only exist because they’re modifying an on-prem solution for the cloud). These retrofitted legacy systems can be (and should be) thought of as having more potential access points for threats.
+Retrofitted complexity: The Achilles’ Heel of many backup solutions?
+"Defenders need to be perfect all of the time, while the attacker only needs to succeed once."
+-Popular security axiom
+So, where does all this lead to? As a result of these legacy on-premises systems being retrofitted for cloud data, cybercriminals are finding easier entry points into the targeted environment, gaining access (Think: social engineering like phishing) into the ecosystem at these more vulnerable higher levels (where the stakes perhaps don’t seem so severe) before drilling down through the layers to lower-level access with their highjacked rights.
+Here they can then gain entry to the lowest, most-important (and secure) levels to corrupt, encrypt, or otherwise destroy backup data — attackers typically assume access at a higher level, but the main concern here is that if the assumption that the higher the level you go, the easier entry is, then those solutions with the highest complexity would also be the most vulnerable.
+To say it another way: The deeper the layer of attempted entry, the fewer chances for access and exploitation. Therefore, less complex solutions — “less complex” meaning something good because you’re more deliberate on the design — have fewer options to exploit and can be tested much more holistically. That’s a win win.
+There are three notions I want to keep top of mind:
+- Typically, higher levels can be immutable, but sometimes these must be configured manually.
+- Attackers use these “immutable optional” higher levels as easier entry points and then drill down to the immutable, lower-level access points with assumed access rights they acquired.
+- Having fewer layers means a smaller attack surface for exploitation. Simple is a good thing because it means you’re more deliberate on the design (and can test more holistically).
+What an efficient tech stack means for cyberattack defense
+Unlike legacy systems with bloated, bolted-on complexities, Keepit’s purpose-built and streamlined architecture minimizes potential access points for threats. The leanness of our software means having fewer layers of complexity and therefore having fewer points of entry for threat actors. Not only that, but since it’s simpler, we can test holistically (and testing is key).
+Put simply, Keepit has fewer layers since our tech stack is purpose built for cloud data storage. In this way, it avoids a lot of the complexity other backup providers “need” to have but only because they’re running legacy systems from the on-premises days with bolt-on cloud modifications.
+The level of leanness, efficiency, and simplicity we’ve achieved directly adds to the strength of immutability in our solution.
+We’re able to achieve this because we designed our solution for the cloud, in the cloud, and to do “one thing” extremely well, and that’s to protect and store cloud SaaS data securely on an independent cloud, air gapped, so customers can always have access to clean backup copies of their data.
+Simplicity is key: Fewer layers are much more secure
+SpaceX, the company that revolutionized commercial spaceflight, has a philosophy that states "the best part is no part," which resonates here. By embracing simplicity and efficiency in design, Keepit aligns with a principle that’s also reaching for the sky (well, the cloud at least) — it's a design choice that enhances security, boosts efficiency and agility, and integrates seamlessly with a multitude of SaaS applications due to its API-only design.
+Software can be infinitely complex, with no way to test everything (among other issues, like development and maintenance). From a security standpoint, if your solution is too complex, there’s just no way you could test sufficiently. And so, simplicity is key. That’s my philosophy and the philosophy behind Keepit.
+Immutable by default
+Deep at the core of the Keepit platform, there’s simply no way to overwrite data in storage: It’s just not possible. Like the backup tapes of the past, our disk-based storage systems do not offer a mechanism for modifying backup data. Hypothetically, even if an attacker — or a malicious insider — were to gain access, they just couldn’t do anything there. That’s immutability.
+So, our approach disrupts the pattern ransomware attackers are exploiting in other backup solutions. By providing a more secure foundation through not only avoiding these superfluous layers, but by being designed specifically for cloud backup data storage, we leverage immutability through simplicity.
+In addition to immutability, we leverage a number of other data protection best-practice security methods.
+Adding to immutability: Data protection best practices
+Some of our other security methods deployed for data resilience and data immutability are the immediate encryption of backup data, incremental backup, and data deduplication.
+The Keepit solution is running on a vendor-independent, tamper-proof and air-gapped cloud infrastructure. Our cloud offers true backup, where data is stored separately from the primary production data set, regardless of if the data is in Microsoft Azure storage, AWS, Gcloud, or otherwise.
+“True backup” is air gapped in line with the 321 backup rule, meaning your ability to recover clean backup copies is always there, regardless of the status of your SaaS vendor.
+To sum up what makes Keepit’s approach to data immutability uniquely strong against ransomware and other cyberthreats:
+- Cloud native: Our tech stack is purpose-built for cloud data storage, so we avoid unnecessary layers of complexity and the associated vulnerabilities with legacy systems.
+- Efficient tech stack: Our efficient tech stack minimizes potential access points and reduces the overall attack surface.
+- Holistic testing: The simplicity of our solution (remember, simple is good) allows for more holistic testing, ensuring a robust and secure environment.
+- Immutability: Administrative access cannot overrule or unconfigure the immutability as it is baked into the solution from the ground up, so even if a customer account is fully compromised, the immutable data storage will retain the historical backup data in pristine condition.
+Where to go next
+This post is part three of a five-part series on ransomware resilience. Read part one “Why backups are key ransomware targets” and part two “Why air gapping is your best defense.” Check back soon to catch the fourth installment of the series, where we’ll discuss the importance of SaaS data protection for identity systems like Microsoft Entra ID.
+Want to keep learning? Watch our on-demand webinar co-hosted with Enterprise Strategy Group (ESG) entitled “Surviving ransomware: 2023 data protection insights and strategies.” Learn how to be data resilient in the face of cyberattacks.

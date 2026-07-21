@@ -1,0 +1,44 @@
+Source URL: https://www.keepit.com/press/gartner-2025/
+Content type: Web page
+Last modified: 2025-10-21T09:33:29+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit at Gartner 2025: Recovery strategies to tackle hybrid threats, AI, shadow IT and shifting regulations
+Keepit takes the stage with customer Porsche Informatik to provide new insights on assessing risks in today’s shadow IT landscape
+COPENHAGEN, DENMARK- October 20, 2025 – Keepit, the only vendor-independent cloud dedicated to SaaS data protection, today announced its presence at the Gartner IT Symposium/Xpo™ 2025 and Gartner IT Infrastructure, Operations & Cloud Strategies Conference 2025 in the Americas and Europe this fall.
+At the Gartner conferences, the Keepit team will share latest insights on emerging technologies such as AI that are redefining strategic priorities across all enterprises. As data types, risks, and regulations shift, backup and recovery capabilities must evolve from a technical tool into a strategic enabler.
+Keepit experts will be speaking at four Gartner events this fall to highlight the importance of future-proof recovery strategies, share actionable insights into hidden risks looming in organizations, including shadow IT, and how to navigate the shifting threat and regulatory landscape. Keepit’s customer, Porsche Informatik, will join the stage at Gartner IT Symposium/Xpo™ in Barcelona to discuss how to assess unknown risks and shift focus from failure to repair, resilience, and recovery.
+The 2025 Gartner conferences provide opportunities for information technology (IT) and cybersecurity executives to explore technology, insights, and trends shaping the future of IT and business.
+2025 Gartner IT Symposium/Xpo™, Orlando, Florida, 20-23 October, 2025
+WHO: Michael Amsinck, CPTO at Keepit
+WHAT: Ready for Tomorrow – Building a Future-Proof Recovery Strategy     
+WHERE: Future Directions Stage
+WHEN: Tuesday, October 21 at 2:20 p.m.
+Meet  the Keepit team at booth #332
+2025 Gartner IT Symposium/Xpo™, Barcelona, 10-13 November, 2025
+WHO:  Kim Larsen, CISO at Keepit, and Dirk Muthig, CTO at Porsche Informatik
+WHAT: Keepit: Rapid Repair in Hidden Risk Reality — Insights from Porsche Informatik
+WHERE: Room 111 & 112      
+WHEN:  Wednesday, November 12 at 11:30 a.m.
+Meet the Keepit team at booth #605
+2025 Gartner IOCS London, 17-18 November, 2025
+SESSION 1:
+WHO: Kim Larsen, CISO at Keepit
+WHAT:  Keepit: When the Cloud Goes Dark — Resilience Lessons from Hybrid Threats 
+Find details for London IOCS here once the agenda is finalized.
+SESSION 2:
+WHO: Neil Rawlins, Solutions Engineer at Keepit
+WHAT:  Keepit: When the Cloud Goes Dark - a Practical Look at Actionable Recovery
+Find details for London IOCS here once the agenda is finalized.
+Meet the Keepit team at booth #500
+2025 Gartner IOCS Las Vegas, 9-11 December, 2025
+WHO: Kim Larsen, CISO at Keepit
+WHAT:  Keepit: When the Cloud Goes Dark — Resilience Lessons from Hybrid Threats 
+Find details for Las Vegas IOCS here once the agenda is finalized.
+Meet the Keepit team at booth #249
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery.
+Headquartered in Copenhagen with offices and data centers worldwide, more than 18,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.

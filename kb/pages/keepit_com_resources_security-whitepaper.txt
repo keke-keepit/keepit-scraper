@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/resources/security-whitepaper/
+Content type: Web page
+Last modified: 2025-08-20T00:13:00+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Next-level SaaS data protection: Raising the bar for data protection in the cloud era
+Information security has never been more important—or challenging—than it is today. There are growing threats from external actors and insiders, new systems and software are being deployed faster and more frequently than ever before, the zero-trust model is leading to widespread changes in visibility and access control, and economic pressures demand that costs be reduced or avoided altogether.
+At the same time, Chief Information Security Officers (CISOs) also need to ensure appropriate data privacy and protection throughout the company’s entire tech stack. These evolving demands exist in parallel to a paradigm shift in which a range of workloads—from customer-facing applications to business-critical operational systems—have migrated from on-premises appliances and servers to third-party cloud environments. The cloud brings the agility and availability enterprises require, but it also introduces new challenges. Perhaps foremost among these issues, but one of the least recognized, is a shared data responsibility model and its important implications for business continuity planning, in general, and disaster recovery specifically.
+Purpose-built for the cloud
+Keepit’s mission is to protect data in the cloud. Since 2013, we have worked tirelessly to purpose-build an efficient and—above all—secure data protection solution that provides simple, reliable, cost-effective, and vendor-neutral backup and recovery for software-as-a-service (SaaS) workloads. We recognized that the only way to create such a solution was to architect it from the ground up—so that’s exactly what we did. The output of our efforts is The Keepit platform, the world’s only independent cloud dedicated to SaaS protection.
+When presented with a new solution, it is only natural—and prudent—to ask questions. We understand, and we would expect no less from security professionals. Fortunately, we believe we have created the industry’s best SaaS data backup and recovery solution. We have prepared this whitepaper to address the most common questions about our solution, for example
+- Why did you build an independent cloud?
+- Which protective measures do you employ to protect our data?
+- What are your security standards, practices and features?
+And many more. Read our white paper to dive into our architecture and understand why we built it, why we made certain decisions, and how our solution is fundamentally different from, and meaningfully superior to, other products in the market.

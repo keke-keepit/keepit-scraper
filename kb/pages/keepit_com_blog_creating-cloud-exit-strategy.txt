@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/blog/creating-cloud-exit-strategy/
+Content type: Web page
+Last modified: 2025-08-20T00:20:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Top 3 considerations for a cloud exit strategy
+What’s key to contract language for a cloud exit strategy?
+Put in the simplest terms, a cloud exit strategy, also known as a reverse migration, is the process of creating a plan to ensure a company can effectively transition out or—or between—various cloud services.
+Naturally, this should be a focus area for all companies moving to the cloud or engaged with outsourcing in general, either between cloud vendors in connection with retendering, or back to on-premises insourcing.
+Regulations driving the need
+Certain regulated industries have, in comparison to other industries, a more mature risk-based approach to exit strategies as the regulatory bodies overseeing them have more broadly developed requirements. In the financial industry, for instance, it is mandatory that financial institutions develop and implement comprehensive exit plans that are not only well documented but also, where appropriate, sufficiently tested.
+Companies in other industries could adopt the same approach. The reason for the financial regulators to focus on these issues and to require financial institutions to do this is in order to protect the overall stability of the financial systems due to the important role they play in our society.
+Financial institutions will, among other things, ask the cloud vendor to provide certain clauses in the cloud agreement that support the financial institution's exit strategy. To cater to this, Keepit has developed amendments to our standard offering to customers that will provide additional services in connection with an exit.
+Top 3 considerations for cloud exit strategy amendments:
+- Clearly set out the obligations of the existing service provider in the case of a transfer of the outsourced function to another service provider or back to the customer, including the treatment of data.
+- Set an appropriate transition period during which the service provider, after the termination of the outsourcing arrangement, would continue to provide the outsourced function to reduce the risk of disruptions.
+- Include an obligation of the service provider to support the customer in the orderly transfer of the function in the event of the termination of the outsourcing agreement.
+Managing data and costs
+Depending on how simple and transparent the cloud vendors' price models are, the customer could also focus on the costs in connection with such a transition, for instance, in the form of egress charges. Keepit has a super simple price model with no egress or ingress charges, but that is far from the standard in the market. Generally speaking, services based on public clouds charge for egress and ingress.
+The actual migration of data in connection with an exit is more difficult to define in advance, but the vendor should be willing to assist and support the migration against payment for the services rendered. It is important to keep in mind that “data” in this context is not just the files themselves – the word document or the XLS. “Data” is also all the metadata surrounding the files – the business and technical context of the data processing. Keeping and transferring metadata can be a challenge.
+However, by having a backup and recovery solution built on blockchain-verified, immutable technology, Keepit enables organizations to document cloud data processing of data transitions from one primary vendor’s service to the next – provided, of course, that you keep an independent backup of the datasets.
+Takeaways on data regulations and data portability
+On a general note, and separate from the above, exit rights in the form of data portability rights have been, at least partly, regulated in the European General Data Protection Regulation (GDPR), where data portability requirements allow individuals to obtain and reuse their personal data for their own purposes—across different services. The right allows the data subjects to move, copy, or transfer personal data easily from one vendor to another, safely and securely, without affecting its usability.
+Although the right is intended for data subjects (the individuals), it has, to some extent, transgressed to companies focusing on the availability to move data from one vendor to the next, which has created a demand for tooling to support such data portability needs. Keepit allows the customer to move the data and to provide certain tooling to do that at no additional charge.
+Finally, having a third-party backup of your data does counter the risk of lock-in with the specific vendor as you have your data available through the backup vendor. Although not the primary reason to ensure a backup, we do see this as an additional benefit to having third-party backup.

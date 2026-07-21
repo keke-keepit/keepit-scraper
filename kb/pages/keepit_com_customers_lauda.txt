@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/customers/lauda/
+Content type: Web page
+Last modified: 2025-11-28T13:20:47+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit supports LAUDA in securing critical Entra ID data
+LAUDA, a German temperature equipment and systems company, was in search of a reliable backup and recovery solution for their entire Microsoft 365 environment. Keepit offered a comprehensive and user-friendly solution that enabled them to restore critical data quickly, while ensuring compliance with increasing regulations.
+Reliability and compliance as key differentiators
+“Keepit impressed us with its ease of use, reliable data backup, and fast recovery options. We also appreciated the independent data storage outside the Microsoft infrastructure and compliance with the European General Data Protection Regulation (GDPR),” says Jürgen Irmer, Manager IT-Infrastructure at LAUDA Dr. R. Wobser GmbH & Co KG. LAUDA.
+Data backup and recovery are integral to compliance. European born and operated, Keepit specializes in backup management and disaster recovery and prioritizes compliance by designing services to make complying with regulations like GDPR and NIS2 easier for customers. Keepit runs its own data centers in seven regions, ensuring data sovereignty.
+Keepit impressed us with its ease of use, reliable data backup, and fast recovery options.
+– Jürgen Irmer, 
+Manager IT-Infrastructure at LAUDA
+Fast and granular recovery combined with a user-friendly interface
+Keepit was able to offer LAUDA with a platform that included all the features they needed, including comprehensive daily backups, fast and granular restore options, a user-friendly interface, comprehensive search functions, and detailed audit logs.
+The Keepit platform requires no training and ensures every step is easy for the end user from setup to continuous monitoring
+Keepit ensures that we can quickly restore Entra ID access in the event of an emergency.
+– Jürgen Irmer, 
+Manager IT-Infrastructure at LAUDA
+Securing Microsoft Entra ID was paramount
+With Keepit, LAUDA can always securely and reliably access business-critical Microsoft data. “Losing access to Microsoft Entra ID would paralyze our entire Microsoft 365 environment”, says Jürgen Irmer, and adds: “Keepit ensures that we can quickly restore Entra ID access in the event of an emergency.”
+Keepit’s industry-leading coverage of Microsoft Entra ID has the broadest coverage of objects and policies, including Intune, Bitlocker and LAPS, enabling companies to feel confident in their ability to recover data at any time.
+“I would recommend that nobody underestimates the importance of SaaS backups. Keepit offers a straightforward but powerful solution. Paying particular attention to the backup capabilities for Entra ID is paramount as this is often overlooked but critical to maintaining business operations,” adds Jürgen Irmer.
+Increased efficiency as a result
+The Keepit platform offers IT departments a costefficient way to securely backup and recover data by removing expensive costs associated with long-term on-premises or cloud-based storage. Securing multiple workloads in one platform ensures you always have full visibility over your data.
+“We were able to increase the efficiency of our IT department by eliminating additional backup processes,” says Jürgen Irmer. “Previously, we had many different products in use, all of which served their purpose, but had to be configured and monitored in separate consoles. Keepit offered us a comprehensive and user-friendly solution.”

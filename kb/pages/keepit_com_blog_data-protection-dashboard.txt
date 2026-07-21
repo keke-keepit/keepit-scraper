@@ -1,0 +1,55 @@
+Source URL: https://www.keepit.com/blog/data-protection-dashboard/
+Content type: Web page
+Last modified: 2025-08-20T02:52:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepitâs Data Protection Dashboard
+Data backup and recovery in SaaS environments can be complex, but at Keepit, we’re continually simplifying the process. With our Data Protection Dashboard, we’re delivering real-time insights via one centralized hub, providing the visibility needed to help enterprises manage their backups across SaaS applications like Microsoft 365 and Salesforce with confidence.
+Our mission with this project is pretty simple: We want to give our users a centralized hub for all application dashboards, thereby simplifying monitoring, license usage, and anomaly detection to enhance cyber resilience and security.
+What is observability, and why does it matter?
+In the context of data protection, observability refers to the ability to gain deep visibility into operations, enabling teams to detect, diagnose, and address issues quickly and effectively. This is especially important for ensuring the reliability and effectiveness of backup and restore processes in complex SaaS environments. With enhanced observability, enterprises can maintain confidence in their data protection strategies and stay resilient against potential disruptions.
+This focus on observability is what drives Keepit’s latest innovation: The Data Protection Dashboard. By providing real-time insights into backup and restore operations, the dashboard delivers centralized visibility, helping enterprises manage their backups across SaaS applications like Microsoft 365 and Salesforce with ease and confidence. Moreover, Keepit ensures a seamless user experience by supporting flexible transitions between different types of dashboards, tailored to the specific focus of a task at hand.
+What is Keepit's Data Protection Dashboard?
+The Data Protection Dashboard is a workload-based tool designed to simplify and centralize the monitoring of all backups across SaaS environments. As a key aspect of observability, it provides real-time visibility into backup health, coverage, and integrity, offering actionable insights in one place. This centralized view enables users to monitor and manage backup and restore operations with ease, reducing complexity and enhancing operational efficiency.
+A standout feature of the dashboard is its ability to support seamless transitions between different types of dashboards. This ensures a smooth user experience, allowing users to focus on specific tasks — whether it's troubleshooting, compliance reporting, or scaling data protection efforts — without losing context or accessibility.
+This flexibility reduces the need for users to switch between multiple tools or interfaces, ensuring their workflow remains uninterrupted while managing various tasks like compliance reporting or troubleshooting.
+By tailoring the experience to the needs of the task at hand, Keepit ensures flexibility while maintaining comprehensive observability.
+Why is a centralized hub for monitoring important?
+Today, users are juggling multiple dashboards, each tied to a specific connector. While these dashboards provide some insights, they rarely offer the comprehensive, centralized visibility needed to make informed decisions — particularly at scale — and this brings challenges to visibility and difficulties in managing more complex integrations. For enterprises, this approach is simply not scalable nor sustainable, and ultimately, it leads to uncertainty.
+By consolidating backup monitoring into one unified view, our Data Protection Dashboard provides a clear picture of backup operations across connectors and applications, enabling teams to stay on top of their data protection strategies.
+This dashboard is part of Keepit's ongoing effort to make observability more accessible and intuitive for our users, which ultimately strengthens data security and supports business continuity.
+Key features of Keepit’s Data Protection Dashboard
+1. Backup status overview
+Gain quick insights into the operational state of your backups with a comprehensive status overview:
+- Connector health status: Visual indicators highlight any critical issues.
+- Snapshot activity insights: View the time of the latest snapshot, the number of snapshots created in the past 48 hours, and the total backup size.
+- Recommended actions: Quickly identify and resolve issues at the connector level.
+These insights ensure that your backup strategy stays on track, maintaining the resilience, compliance, and security of your data.
+2. Backup coverage overview
+This feature helps users identify potential gaps in their backup coverage, offering a granular view of data protection, and with historic insights:
+- Workload division within applications: Displays selected workloads, such as Exchange or SharePoint, divided into individual areas within applications such as Microsoft 365 and Google Workspace.
+- Coverage comparison: Highlights the number of units selected for backup versus those successfully covered, i.e., users can easily check if the coverage of the top-level SharePoint sites matches the selection. In this context, a "unit" refers to a specific entity, such as a top-level SharePoint site, while the "individual area" represents the overall SharePoint workload.
+- Data size metrics: Provides details on the total size of each workload area.
+This comparison ensures that enterprises can address any inconsistencies and maintain comprehensive data protection.
+A note on retroactive data: The Data Protection Dashboard applies to backups created after its release date. Data backed up before the launch isn’t included in these new insights.
+3. Backup integrity monitoring (coming soon)
+Aimed at reducing vulnerabilities, this upcoming feature monitors items that are recurrently skipped during backups:
+- Skipped items list: Identify and download a detailed list of consistently skipped items.
+- Proactive insights: Pinpoint potential vulnerabilities and share findings with support teams if needed.
+This feature is especially valuable for enterprises aiming to refine their backup strategies and ensure maximum data integrity.
+Benefits: Why accessible data insights matter
+For enterprises managing complex SaaS environments, time is critical, and risks are high. Accessible and intuitive insights are not just convenient — they’re essential to effective SaaS data protection. The insights from Keepit’s Data Protection Dashboard:
+- Enable faster action: Provide real-time visibility into backup health and coverage so teams can respond to issues before they escalate into larger problems.
+- Bridge the gap between complexity and usability: Simplify the management of SaaS environments with complex configurations, including role-based access controls, compliance requirements, and varied workloads, making it easier to monitor backup health, spot vulnerabilities, and ensure compliance.
+- Support the shared responsibility model: Help SaaS customers take ownership of their data protection responsibilities by providing the tools they need to secure and recover data effectively.
+- Align observability with resilience: Ensure users can quickly identify and resolve issues, maintaining the integrity of their data protection strategy and facilitating faster recovery.
+- Reduce risk: Minimize the chances of missed backups, incomplete coverage, or skipped items that could result in data loss.
+- Boost compliance: Provide clear metrics and reports to make demonstrating adherence to regulatory standards and internal policies easier.
+- Simplify scaling: Keep monitoring manageable as the number of workloads and connectors grows, enabling data protection to scale without adding complexity.
+Ultimately, accessible insights give enterprises the confidence to protect their data, recover quickly, and maintain compliance in even the most complex SaaS environments.
+Building a foundation for resilience
+With the Data Protection Dashboard, Keepit is addressing a key challenge for modern enterprises: How to gain real-time, actionable insights into backup operations while managing complex SaaS environments. By providing a centralized hub, we’re helping organizations move away from fragmented dashboards toward a more unified and reliable approach to data protection.
+The new dashboard is not just a feature; it’s a reflection of our commitment to improving observability and empowering enterprises to safeguard their critical data with confidence. As we continue to refine and expand its capabilities, our users will have even more tools to strengthen their backup strategies and ensure business continuity.
+Stay tuned for updates as we roll out additional features and enhancements to the Data Protection Dashboard.

@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/help/platform-category/revive-a-connector/
+Content type: Web page
+Last modified: 2026-06-18T10:42:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Revive a connector
+If you want to revive a connector and gain access to your data, you have time until your retention period is over.
+1. On the Connectors page, point to your scheduled-for-deletion connector and select ••• > Revive.
+2. Click Confirm to revive the connector.
+3. Click OK to close the pop-up.
+Your connector is now revived and you will have access to your data.

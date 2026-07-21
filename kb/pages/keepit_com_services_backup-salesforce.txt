@@ -1,0 +1,139 @@
+Source URL: https://www.keepit.com/services/backup-salesforce/
+Content type: Web page
+Last modified: 2025-02-23T21:46:11+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup and recovery for Salesforce
+Eliminate data loss repercussions: Get all your data back in an instant with automated daily backups, unlimited storage, and fast recovery
+Why back up Salesforce?
+Shared responsibility
+Salesforce isn’t responsible for your lost data. They say "keep a regular backup of your data and to do a manual point-in-time backup before you proceed with any major data project.”
+Accidental deletions
+70% of data loss is from human error. Users and administrators can delete or modify large amounts of data. Many of these changes are not reversible and data can be lost without a backup.
+Native tools fall short
+Salesforce’s native tools aren’t designed for seamless and comprehensive backup of your data and metadata. They either serve a single task or lack the flexibility and automation needed for efficient backup and recovery – making data protection manual and time consuming.
+Top benefits
+Speed
+Time is a key factor in data recovery. Our search makes it easy to find, preview, and restore the data you need from any time across snapshots.
+Granular restore
+Recover exactly what you need - specific records, fields and metadata – directly into your production or sandbox environments. With Keepit’s hot storage there is no waiting and no wasted time.
+Predictable costs
+Back up Salesforce with simple per-seat pricing and no hidden fees. Pay only for active users, keep inactive user data at no extra cost, and enjoy unlimited retention and restores.
+Your data deserves the best coverage
+Objects
+- Standard objects
+- Custom objects
+- Unlimited parent/child relationships
+Metadata
+- All metadata available via the API is included in the backup
+Files and attachments
+- Attachments
+- Files
+- Content
+- Documents
+Applications
+- Standard Salesforce Clouds e.g. Sales Cloud, Service Cloud, Experience Cloud, and Marketing Cloud
+- Industry Clouds e.g. Financial Services Cloud, Consumer Goods Cloud, Manufacturing Cloud, Communications Cloud and more
+- Custom applications built by your company or Salesforce ISV’s.
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+“Keepit could become your company’s go-to backup and recovery tool for Salesforce, allowing you to not only safeguard all of your data but also have it readily available to restore, share, or permanently forget. The platform’s simplicity and ease of use alongside the independent cloud are sure to supercharge your backup and recovery strategy long term.”
+Andreea Doroftei
+Technical Instructor, Salesforce Ben
+Read the full reviewHow Keepit helps you
+Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
+With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
+Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
+Data recovery is made easy and fast with Keepit. Choose a specific point in time and roll back all data objects, metadata, files, and attachments in one go.
+Restore and recover capabilities:
+- In-place restore of records and metadata
+- Restore records to a different environment
+- Restore multiple records in bulk along with their related records
+- Restore only specific fields of records
+- Anonymize fields with dummy data
+- Download records in JSON or CSV files
+- Download files and attachments in original format
+- Securely share records, files and attachments with public links
+Keep your production data safe with the ability to backup and restore data from your production environment to your sandbox.
+Test and deploy code confidently without the risk of crashing your production data.
+You can also anonymize data in your sandbox. This prevents exposure of sensitive data to unauthorized individuals, whether inside or outside of your organization.
+Get started in few minutes
+Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.
+Intuitive user interface
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
+API-first
+You can integrate Keepit with your existing systems thanks to our API-first approach.
+Audit Logs. Track any user activity inside the Keepit platform, allowing you to monitor, review, and investigate any potential breaches.
+Job Monitor. Detect abnormalities in the job monitor and discover changes on a snapshot basis as well as the number of changes made.
+Data Sovereignty. Keepit operates its own data centers in multiple regions globally, helping you meet sovereignty requirements.
+The Right to be Forgotten. Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.
+Security Controls. Manage who has access to data and what permissions they have with granular Role Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
+Keepit’s pricing is user-based — not tied to data volume. You only pay for active Salesforce users, while we continue to protect data from inactive users at no additional cost.
+There are no data transfer fees, rehydration charges, or storage costs, and retention is unlimited. That means you can back up and restore with complete peace of mind — without worrying about growing data volumes, hidden fees, or long-term limits. As your Salesforce environment evolves, your protection scales with you.
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+“Keepit truly is a simple-to-understand and user-centric solution for any scaling enterprise.”
+Stefan Toefferl
+Senior Data Center Engineer, ALPLA
+Frequently asked questions
+No. Salesforce does not take responsibility and cannot guarantee that you get 100% of your data back in case of data loss. On Salesforce’s own website, they state: “It is recommended that you keep a regular backup of your data and to do a manual point-in-time backup before you proceed with any major data project within your organization.”
+Many organizations use Salesforce to manage their sales cycle and customer relations. Most of the record data is essential for business continuity and would be disastrous to lose. Salesforce does not protect you if you lose data due to human error, ransomware, or other outage scenarios. To avoid data loss, Salesforce recommends investing in a third-party backup and recovery service.
+Keepit for Salesforce covers:
+- Standard and Custom Objects
+- Files & Attachments
+- Metadata
+Find the complete coverage on our Support site.
+Once the connector is set up, you can configure the following items:
+- Change the name of the connector.
+- Configure the number of API requests usage
+- Manage user access to the connector
+- Limit the retention period of the connector
+Always within the data center region you specify. Currently we have seven data center regions: EU-Denmark, EU-Germany, Switzerland, UKI, US, Canada and Australia.
+Depending on the Service Offering you are choosing, Keepit retains your data for 1 year, with the Business Essentials Service Offering, or for an unlimited period, with the Enterprise Unlimited and Governance Plus Service Offerings. Visit our pricing page to learn more.
+You can also set a custom retention period for your connector, but it cannot extend beyond the retention period that is assigned to your account. Read more on how it works on our Support site.
+Yes, you can combine Salesforce backup with your other favorite SaaS app backups such as Microsoft 365, Entra ID (formerly Azure AD), Dynamics 365, Zendesk, Google Workspace, and others. Discover all Keepit Services and request a demo from our team of experts.

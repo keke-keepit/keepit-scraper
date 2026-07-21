@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/help/platform-category/download-your-data/
+Content type: Web page
+Last modified: 2026-06-23T21:18:47+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Download your data
+Download your data
+1. In your connector, locate the item you want to download.
+2. Optional: To download an older version of the item, click the Snapshots Viewer icon and select an earlier snapshot. You will now be viewing data from that specific time.
+3. Point to the item and select ••• > Download options > Download. The file or folder will be downloaded to your browser’s default download location.
+Tip: To download multiple items, select the items. In the toolbar, select Download > Download.
+Copy your download link
+1. In your connector, locate the item you want to link to.
+3. Point to the item and select ••• > Download options > Copy download link.
+The link will be successfully copied to your clipboard.

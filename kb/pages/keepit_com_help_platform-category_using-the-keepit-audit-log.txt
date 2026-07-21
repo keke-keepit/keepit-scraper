@@ -1,0 +1,97 @@
+Source URL: https://www.keepit.com/help/platform-category/using-the-keepit-audit-log/
+Content type: Web page
+Last modified: 2026-07-13T15:33:48+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Using the Keepit Audit Log
+How do I access the audit log?
+Master Admin, Compliance Admin, and Audit users have access to the audit log.
+The audit log page can be opened by clicking on Audit Log in the left-hand menu.
+What does the audit log show?
+The following information is included for each event recorded by the audit log:
+- User: User who initiated the event
+- Area: Type of event
+- Event: Event that was initiated
+- Event status: Status which indicates whether the event succeeded or failed
+- IP address: IP address of the user who initiated the event
+- Time: Date and time the event was initiated
+What types of events does the audit log track?
+The log is categorized by user, account, connector, recovery, compliance, and security events.
+- User events track all events related to account sign-ins, tokens, users
+- Account events track all events related to the account
+- Connector events track changes to connectors
+- Connection events track all changes to connections and connection applications
+- Recovery events track all browsing activity, restore and download jobs
+- Reporting events track all backup coverage report activity
+- Security events track all changes to SSO, MFA, and SIEM integrations
+- Compliance events track RTBF label activity
+What events does the audit log record?
+The audit log records every time a user:
+User events
+- Creates a secondary token (e.g., signs in or creates an API token)
+- Deletes a secondary token (e.g., signs out or deletes an API token)
+- Signs out everywhere
+- Has failed authentication attempt (e.g., has a failed sign-in attempt)
+- Creates or deletes a new user
+- Changes full name, email, role, password, or expiration date of a user
+Account events
+- Changes company name
+- Changes account language
+- Changes contact email
+- Agrees to updated Terms of Service
+Connector events
+- Creates a new connector
+- Changes connector name
+- Updates a backup configuration
+- Changes connector snapshot retention
+- Changes the number of API requests (Salesforce connector)
+- Changes connector geo location
+- Deletes a connector
+- Revives a connector
+- Adds or removes a user from connector access list
+- Generates or downloads a backup coverage report
+- Schedules a backup (a backup is scheduled the first time a user creates a connector - the next backups run automatically and are not recorded in the logs)
+Connection events
+- Creates a connection
+- Renames a connection
+- Changes a connection service account
+- Deletes a connection
+- Adds a connection application
+- Renames a connection application
+- Updates a connection application capabilities
+- Updates a connection application ID, certificate, or key
+- Deletes a connection application
+- Adds a user to connection access list
+- Removes a user from connector access list
+Recovery events
+- Schedules a restore (includes import)
+- Schedules an item restore
+- Creates or deletes a secure share
+- Adds a password to a secure share
+- Downloads a file
+- Downloads a folder as a .zip file
+- Downloads a folder as a .pst file
+- Previews a file
+- Browses data (i.e., opens folders in a connector)
+- Browses a shared folder (an outside user)
+Reporting
+- Creates a report schedule
+- Updates a report schedule
+- Deletes a report schedule
+- Generates a report
+Security
+- Creates, edits, or deletes a new SSO configuration
+- Enables or disables an SSO configuration
+- Enables, updates, or disables MFA
+- Adds or deletes a SIEM integration
+- Creates or updates a secure shares policy
+Compliance
+- Assigns or removes an RTBF label
+Filtering audit logs
+You can enter terms in the filter field to narrow down the audit data.
+You can also use the available filter categories by selecting the filter icon. Make your selections and then select Apply filters.
+Downloading the audit log
+You can download a CSV file of the audit log by selecting the download icon in the toolbar.
+If you filter the list before starting the download, the CSV file is also filtered this way.

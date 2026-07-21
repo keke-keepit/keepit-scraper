@@ -1,0 +1,61 @@
+Source URL: https://www.keepit.com/help/pmc/pmc-connector--account-monitor/
+Content type: Web page
+Last modified: 2026-04-24T14:34:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+PMC Connector & Account Monitor
+On the Dashboard, you can find a connector and account monitor.
+Here you will see an overview of all critical connectors, account deletions, service expirations, and seat usage violations.
+From here you also have the possibility to take recommended actions.
+Critical state
+This tab shows connectors across all customer accounts that are in a critical state.
+What information you can find
+- Name - the name of the account
+- Email - the email of the account
+- Connectors - the name of the connector
+- Details - the reason the connector is in a critical state
+What you can do
+Click on a connector to go to the account overview. Here you can find more details about the account and see backup statistics.
+Expiring soon
+This tab shows which accounts are scheduled for deletion, which POC accounts are ending, and which services are expiring soon.
+What information you can find
+- Name - the name of the account
+- Email - the email of the account
+- Details - Accounts scheduled for deletion
+- POC accounts reaching the end of their trial periods
+- Services expiring within 30 days
+- Expiration date - the date when an account will be deleted, a POC account will end its trial period, and a service will expire
+What you can do
+- Accounts: Click on an account to revive it.
+- POC accounts: Click on a POC account to open the account info page. Here you can select a paid product.
+- Services: To extend the service, please contact Support.
+ If a service expires, the account will be scheduled for deletion.
+ 
+Exceeding usage
+This tab shows all accounts exceeding seat usage.
+What information you can find
+- Name – the name of the account
+- Email – the email of the account
+- Details – which seat limit properties have exceeded their limits
+- Usage – the number of seats the account has consumed
+- Limit – the limit that is set for the account for the particular property.
+ A faded number with a green icon means that the limit has been changed, but has not come into effect yet.
+- Grace period – the number of days left until the backups start to be unsuccessful.
+ A dash means that the grace period has ended.
+Trial (POC)
+This tab shows the details for all Trial (POC) accounts.
+- Name – the name of the account
+- Contact name – main contact name for the account
+- Email – the email of the account
+- Service start date – the date the account becomes active and trial service period starts
+Renewals
+This tab shows customer accounts up for renewal in the next 3 months.
+What information you can find
+- Name – the name of the account
+- Email – the email of the account
+- Product – the product assigned to the account
+- Renewal date – the end of the service period
+What you can do
+Click on the account to prolong service period or switch to a standard customer account.

@@ -1,0 +1,101 @@
+Source URL: https://www.keepit.com/blog/make-the-api-work-for-you/
+Content type: Web page
+Last modified: 2026-02-03T09:34:46+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Make the APIs work for you
+Say you've taken the wise decision to have your corporate cloud data be backed up by the Keepit cloud solution: you've selected one of our many data centers, configured relevant connectors, and are now seeing how snapshots are blissfully parading into eternal archive as you log in to the Keepit web user interface. But perhaps you want a bit more assurance and perhaps you are not keen on logging into a separate web application several times a day to get that assurance.
+Many of our customers have their own monitoring solutions and communication systems that they wish to enrich with information from their Keepit account. Luckily, we have a very elaborate API (Application Programming Interface) to allow for all sorts of queries on the state and history of your backups; while we do publish the full API documentation, some might find a small appetizer easier to comprehend.
+If you’re already a Keepit customer and if you have an account and working connectors, then this blog post will guide you through creating a PowerShell API agent that prints the timestamp of the last completed backup on your screen. It is very simple: it will not integrate into any monitoring or alerting system, it will not print fancy messages in any messaging platforms, nor will it draw graphs on its own - but it is a small building block that you can extend and transform into whatever you might need.
+Getting Access to the API
+In order to make calls to the API, your script needs to have the proper credentials and those are obtained through the web user interface. So, log in with a user that has at least 'Job Monitor' privileges and create an API token by doing: Users -> Your user - Edit User (the grey cog wheel) -> Security -> Add API token. Give the token a name and decide when it should expire; the API token cannot outlive the user it is associated with. Click 'Create' – confirm your password and you will get an API token username and password. Those you need to store in a secure place.
+You are now ready to make API calls. For this example, we will be using PowerShell, and the first API call to be made is the call to obtain your account GUID. Now, the account GUID is also available in the web user interface, but obtaining this via the API is a nice, small exercise to verify that the API token and your script is working.
+Launch your favorite text editor – it can be Notepad, Notepad++, VSCode, Vim, or whatever you fancy the most, create the file accountguid.ps1 and paste this code into it:
+try {
+        $username = '<API Token username>'
+        $password = '<API Token password>'
+        $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+        $headers = @{
+            "User-Agent" = "PowerShell-Keepit-API-Agent-1.0/jakob-dalsgaard"
+            "Authorization" = "Basic $basicauth"
+        }
+        $response = Invoke-WebRequest -UseBasicParsing `
+          -Uri "https://de-fr.keepit.com/users" `
+          -Method:Get -Headers $headers -ErrorAction:Stop -TimeoutSec 10 
+        $userlist = [xml]$response.Content
+        $id = $userlist.user.id
+        Write-Host $id
+}
+catch {
+        $line = $_.InvocationInfo.ScriptLineNumber
+        Write-Host "Cannot query Keepit API due to: $_"
+        Write-Host "at line $line"
+}Make sure to get the backticks and single and double quotes correct – computers can be very pedantic. In this file, you need to put in the API Token username and API Token password where specified. On line 11, this example reads 'de-fr.keepit.com' – thus valid for a Keepit account on our German data center – please change this hostname to the hostname of the data center for your account (i.e., 'dk-co', 'uk-ld', 'us-dc', 'ca-tr' or 'au-sy'). Then, in a command terminal, you execute the script by typing:
+Powershell .\accountguid.ps1
+Depending on your security setup, you might need to confirm that you really want to execute a script, but please do – and you should see the script print out your 20-character account GUID. This GUID can then be used, along with the API Token, to obtain the list of connectors available in your account.
+Save the following code block as devices.ps1:
+try {
+        $username = '<API Token username>'
+        $password = '<API Token password>'
+        $userguid = '<Account GUID>'
+        $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+        $headers = @{
+            "User-Agent" = "PowerShell-Keepit-API-Agent-1.0/jakob-dalsgaard"
+            "Authorization" = "Basic $basicauth"
+        }
+        $response = Invoke-WebRequest -UseBasicParsing `
+          -Uri "https://de-fr.keepit.com/users/${userguid}/devices" `
+          -Method:Get -Headers $headers -ErrorAction:Stop -TimeoutSec 10 
+        $devicelist = [xml]$response.Content
+        foreach ($system in $devicelist.devices.cloud) {
+                $name = $system.name
+                $guid = $system.guid
+                Write-Host "Name: $name"
+                Write-Host "Guid: $guid"
+                Write-Host
+        }
+}
+catch {
+        $line = $_.InvocationInfo.ScriptLineNumber
+        Write-Host "Cannot query Keepit API due to: $_"
+        Write-Host "at line $line"
+}Again, put in API Token username and password, the Account GUID, and correct the hostname. Then execute as:
+Powershell .\devices.ps1
+Your terminal will then be filled with a list of connector names and GUIDs, and among those you will have to select one that can be used in the final script that will be called latest.ps1– this script will print out the timestamp of the latest backup performed by one specific connector:
+try {
+        $username = '<API Token username>'
+        $password = '<API Token password>'
+        $userguid = '<Account GUID>'
+        $connectorguid = '<Connector GUID>'
+        $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+        $headers = @{
+            "User-Agent" = "PowerShell-Keepit-API-Agent-1.0/jakob-dalsgaard"
+            "Authorization" = "Basic $basicauth"
+        }
+        $response = Invoke-WebRequest -UseBasicParsing `
+          -Uri "https://de-fr.keepit.com/users/${userguid}/devices/${connectorguid}/history/latest" `
+          -Method:Get -Headers $headers -ErrorAction:Stop -TimeoutSec 10
+        $history = [xml]$response.Content
+        $tstamp = $history.history.backup.tstamp
+        if ($tstamp) {
+            Write-Host $tstamp
+        }
+        else {
+                Write-Host "Backup not completed yet"
+        }
+        exit 0
+}
+catch {
+        $line = $_.InvocationInfo.ScriptLineNumber
+        Write-Host "Cannot query Keepit API due to: $_"
+        Write-Host "at line $line"
+        exit 1
+}Again, put in API Token username and password, account GUID, connector GUID, correct hostname, and then execute as:
+Powershell .\latest.ps1
+If your selected connector has completed a backup, you should now, in your terminal, see the timestamp of completion of the latest backup for this connector. It might look something like:
+2022-12-24T18:30:00Z
+This would say that the latest backup completed on Dec 24, 2022, at 18:30 UTC. The timestamp is given in the ISO8601 format with the Z designator for UTC.
+Further Integration
+While such a neat PowerShell script is nice to have on the command line, it will bring much more value as part of a monitoring platform or other reoccurring automatic execution. For your business, it might make sense to execute this script once per hour and alert if no backup has been completed for 24 hours.

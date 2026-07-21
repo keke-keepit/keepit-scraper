@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/help/power-bi-category/restore-power-bi-data/
+Content type: Web page
+Last modified: 2025-12-11T13:33:38+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Power BI data
+Restore a Power BI item
+1. In your connector, find the item you wish to restore.
+2. Optional: If you want to restore a record from an earlier point in time, select the Snapshots Viewer. Then select the appropriate snapshot.
+3. Point to the item and click Restore.
+4. Click Yes to restore the item.
+Note: To restore multiple items at a time, select the items. In the toolbar, select Restore.
+What is restored
+- Restoring a workspace restores the permissions of the workspace.
+- Restoring a report restores the dataset.
+Reports with other reports as data sources
+If a new report uses another report as its data source, the new report’s data will not be backed up. To restore such a report, you must first restore the original report used as the dataset, then manually add the dataset to the new report before republishing it.
+Limitations
+Due to limitations in the Power BI API, we are unable to restore items in-place. Instead, reports and dataflows are restored as duplicates.

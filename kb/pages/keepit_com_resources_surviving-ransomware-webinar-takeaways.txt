@@ -1,0 +1,16 @@
+Source URL: https://www.keepit.com/resources/surviving-ransomware-webinar-takeaways/
+Content type: Web page
+Last modified: 2025-08-20T02:52:20+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How to survive ransomware by mastering disaster recovery â Webinar key takeaways
+The landscape of disaster recovery continues to undergo a significant transformation, driven by the increasing reliance on SaaS applications and the rising threat of ransomware. As part of this transformation, traditional disaster recovery methods are evolving into more comprehensive technology resilience strategies.â¯
+At a recent Keepit event, guest speaker Brent Ellis, senior analyst at Forrester, shared actionable advice for organizations to shift from a reactive to a proactive stance, focusing on securing systems to withstand various disruptions. This involves understanding where data resides and recognizing the unique risks associated with each location, requiring tailored protection strategies. Watch the talk as an on-demand webinar here to understand how disaster recovery strategies need to transition to match the new requirements:â¯
+You can also download our key takeaways document to get all the most important insights, such as:
+- An overview of the most important SaaS platform risksâ¯
+- A guide to the necessary protection strategies to mitigate each riskâ¯
+- Actionable advice for how to create a SaaS resilience strategyâ¯
+â¯
+Download the handout now to learn which strategies and best practices Forrester recommends to enhance resilience and mitigate risk – so that you can ensure your data is safe, even when the threat of ransomware is increasing.â¯

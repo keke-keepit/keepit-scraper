@@ -1,0 +1,81 @@
+Source URL: https://www.keepit.com/blog/responsible-ai-integration/
+Content type: Web page
+Last modified: 2026-03-19T08:25:41+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+AI that you control: Keepitâs approach to responsible AI integration
+AI is moving fast. But in backup and recovery, speed can’t come at the cost of control and fidelity.
+When you’re responding to an incident, validating coverage for an audit, or restoring after data loss, “mostly right” isn’t good enough. Backup is your last line of defense — the thing you rely on to roll back changes with confidence.
+That’s why Keepit’s approach to AI is intentionally pragmatic: We use AI only where it can deliver real, measurable value, and set clear boundaries on its use everywhere else. Instead of using AI for the sake of a headline, we want to use AI to help people understand their data protection posture faster — without compromising security or governance.
+Keepit is introducing the MCP integration toolbox, which is built around two explicit guardrails:
+- What AI can see: AI tools can only see metadata (not the underlying customer content). They can’t read the contents of customer email, documents, CRM data, etc.
+- What AI can do: AI tools can only produce read-only insights. They can’t take write actions like restoring or overwriting data or changing configurations.
+These two guardrails are how we generate more value with AI while staying aligned with what customers actually want: meaningful insight with clear boundaries, control, and no compromise to security.
+Why backup demands a different AI standard
+In many AI narratives, the goal is automation: “Let the assistant do it for me.”
+But backup is a high-stakes environment. Data protection is built on predictability, repeatability, trust, and confidence, especially in scenarios where teams are already operating under pressure: incident response, ransomware recovery, audits, or business continuity events.
+So instead of starting by asking “what could we automate,” Keepit starts from a different question: What value can we deliver while keeping control intact?
+The simplest way to think about the AI dilemma
+If you want generative AI to be useful, it needs context. The real question isn’t if you can connect gen AI to business systems; it’s how you connect it.
+Many AI implementations default to one of two extremes:
+- Copy data somewhere else so a model can use it more easily.
+- Give an assistant broad access and hope the safeguards hold.
+For many organizations, neither option is acceptable, especially in environments where data governance, auditability, and operational risk matter.
+Keepit’s approach is based on a different assumption: AI should query and summarize using approved interfaces, and it should do so in a way that keeps the customer in control of both access and outcomes.
+Data, metadata, and backup metadata: the distinction that matters
+When people talk about “AI and data,” it helps to separate the layers of information:
+- Data: the actual thing you’re protecting — emails, files, records, messages.
+- Metadata: information about that data in the source application (for example: hierarchy/location, ownership, timestamps, file type/size, sharing and permissions).
+- Backup metadata: information about the protection of that data — what’s protected, when, and how reliably (for example: connector health, job history, snapshot ranges, restore points, audit log availability, anomaly signals).
+This distinction matters because many organizations want AI-powered insight without opening the door to AI being “in their data.”
+A lot of the questions admins and security teams need answered are operational and metadata-driven:
+- Which connector is unhealthy?
+- Are we missing coverage anywhere?
+- What changed in the last 30 days?
+- Where are anomalies clustering — and why?
+Those questions are important — and they don’t require an AI system to inspect the underlying content to be useful.
+The two guardrails: What AI can see and what AI can do
+“Read-only” limits actions, but it doesn’t necessarily limit access. That’s why Keepit separates two scopes that often get blended together:
+- What can the AI see (access scope)
+- What can the AI do (action scope)
+1) What Keepit’s MCP integration allows your LLM to see: metadata only
+Metadata alone can unlock meaningful insight about posture, coverage, health, audit activity, and anomalies — without expanding access scope unnecessarily. Today, Keepit’s MCP integration toolbox is designed so the assistant works with metadata rather than the underlying customer content. Our MCP integration uses the same proven, secure APIs that our web-based admin center uses so your existing RBAC and authentication settings apply.
+2) What Keepit’s MCP integration allows your LLM to do: read-only insights
+AI-based tools offer huge potential for doing useful stuff — but also huge potential for taking unwanted, possibly destructive, actions. Keepit’s MCP integration is read-only by design: it can retrieve and explain signals, but it can’t perform write actions.
+That means no “do this for me” operations such as restoring data, overwriting content, changing retention, or modifying configuration. The AI accelerates understanding — people remain in control of change.
+Why MCP: Connecting AI without copying data into models you don’t control
+Once the guardrails are defined, the next question is how to connect AI to what it’s allowed to see without creating a shadow data store.
+Keepit’s approach uses Model Context Protocol (MCP), an open-source standard for connecting AI applications to external systems through approved tools and interfaces.
+In practical terms, the flow looks like this:
+- The AI client interprets a prompt.
+- It selects one or more relevant MCP tools to get information needed to respond to the prompt.
+- The Keepit MCP tool calls Keepit APIs within the allowed scope.
+- The structured results of those API calls are returned for the assistant to process, summarize, and/or explain.
+The advantage isn’t just convenience, it’s controlled context. You can expose only approved tools and data types, and you can audit what was requested and what was returned — instead of copying enterprise data into a model environment you don’t control. The AI client doesn’t connect directly to Keepit at any point.
+The value today: Faster answers to real admin questions
+The most immediate value of Keepit’s AI approach isn’t flashy automation, it’s speed and clarity for workflows administrators already have.
+AI is especially useful when the problem is not “create something new,” but rather to generate insights through tasks like:
+- retrieving a lot of information quickly
+- summarizing it into a narrative
+- spotting patterns humans miss
+- reducing manual digging across screens and exports
+With a metadata-centric, read-only integration, that value shows up in practical areas like:
+Faster visibility into backup posture and connector health
+Admins need quick, reliable answers about coverage and health: what’s protected, what isn’t, what’s failing, and what’s stale. AI can highlight where risk is accumulating and point you to the relevant connector health and job history signals.
+Faster summarization of audit logs 
+Audit logs are essential for governance and security, but they’re noisy. Even a defined time window can include thousands of events across users, workloads, and action types. AI can compress that into a usable narrative:
+- What happened
+- When it happened
+- How it differs from baseline patterns
+- What may require follow-up
+Faster triage of anomaly signals 
+When anomaly detection flags unusual activity, the next step is explanation: What changed? Is it normal? What’s the likely cause? AI can accelerate this triage layer — turning a flood of signals into something a human can act on faster.
+None of this replaces expertise. It reduces the cost of retrieving and interpreting the signals experts already rely on.
+The MCP integration toolbox is an extension, not a destination
+One of the most important parts of this approach is staying realistic. MCP isn’t a magic wand that solves every problem. It’s an interface that can accelerate discovery and delivery of valuable workflows.
+It can also be a proving ground. If a workflow is genuinely useful through MCP, that’s a strong signal it should eventually become a first-class feature in the platform — easier for more customers to use and easier to support.
+The bottom line
+Keepit uses AI to accelerate insight while preserving control. Today, we do that by making two guardrails explicit: The MCP integration can only view metadata, and it can only act via read-only insights — there aren’t any write actions.
+And we use MCP to connect AI clients to approved tools in a standardized, auditable way, rather than copying enterprise data into models you don’t control. Because if you can’t roll it back, you don’t control it.

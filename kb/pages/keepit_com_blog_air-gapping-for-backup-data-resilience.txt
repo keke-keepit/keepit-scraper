@@ -1,0 +1,66 @@
+Source URL: https://www.keepit.com/blog/air-gapping-for-backup-data-resilience/
+Content type: Web page
+Last modified: 2025-08-20T00:12:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Ransomware resilience: Why air gapping is your best defense
+First, why is ransomware protection such a critical need?
+Put simply, ransomware protection is critical because:
+- Your data is vital to your business,
+- Maintaining control of and access to your data is legally mandated to be compliant with directives such as NIS2, GDPR, and others,
+- Ransomware attacks are prevalent, so much so that it’s really become a matter of when you’ll experience an attack rather than if you will.
+From a risk assessment standpoint, looking at the importance of data as well as the chance of experiencing ransomware, it’s quite clear that it’s a high-risk scenario. Not only is ransomware (and subsequent data loss) very likely to happen, it’s also very likely to have very serious impacts to your business.
+Considering the current levels of cyber resilience against ransomware and the many data protection gaps to be filled — especially in small- to mid-sized companies — ransomware protection should be top of the list.
+According to a 2023 ransomware preparedness Enterprise Strategy Group (ESG) report, Lighting the Way to Readiness and Mitigation, only 16% of organizations struck by a ransomware attack were able to recover 100% of their data.
+ESG also finds that data recovery post ransomware was lacking, saying, “Unfortunately, the current reality is bleak as only one in seven report they were able to fully restore their data after a successful ransomware attack. This highlights the need to reengineer recovery processes for ransomware attacks.”
+This missing coverage found in most of the companies surveyed means recovery to a production-like state is impossible with their current data protection setup. Considering that data is the lifeblood of our digital economy, it's fundamental to protect this data for business to carry on as usual.
+When ransomware strikes and is effective, the main goal is to recover data and minimize losses. This is because data losses not only lead to non-compliance but also pose a risk of losing crucial business transactions.
+2023 Ransomware Preparedness: Lighting the Way to Readiness and Mitigation
+So, when disaster strikes, what's the most effective way to protect your data so you can minimize losses and expedite the data recovery process? Air gapping.
+What is air gapping and why is it the ultimate in data protection?
+Air gapping is a security measure that physically or electronically isolates a computer, network, or backup storage system from external, untrusted networks. The term "air gap" signifies a complete separation between the secured environment and the outside world, making it virtually impossible for digital threats, like malware and ransomware, to infiltrate the protected system.
+For backup, this air gap is the vital step of keeping data copies on a logically separate infrastructure from the primary dataset, which is more commonly known as a logical air gap, and from where we derive the definition of true backup. Learn more about true backup.
+The significance of air gapping in data protection lies in its unmatched level of security:
+- Absolute protection: Air gapped systems are impervious to online threats, offering the highest level of data protection. Even the most sophisticated ransomware attacks cannot compromise a system that has been effectively air gapped.
+- Preservation of data integrity: It ensures data integrity, as data stored within the air-gapped environment remains unaltered and uncorrupted.
+So, how do we understand air gapping most simply? According to Wikipedia, “It means a computer or network has no network interface controllers connected to other networks, with a physical or conceptual air gap, analogous to the air gap used in plumbing to maintain water quality.”
+Just like how water from your sink can’t flow back into your faucet to contaminate your clean water, air-gapped networks don’t let malware, ransomware, or otherwise corrupted data flow into your backup data: It’s simply not possible.
+Physical air gap for SaaS data
+In the faucet example, there’s clearly a physical separation that preserves the health of your water since your tap isn’t submerged in your sink. And while you can have an equivalent physical separation of backup data, this approach is resource demanding, expensive to maintain, and typically not agile enough to meet today’s demands for IT efficiency and speed. Why is that?
+In order to keep backups offline, disconnected from any networks, you’d need to transfer data manually every single time you wanted a snapshot. This is costly hardware-wise and resource-wise, especially if you need to keep up-to-date backups — which you probably do for many reasons, not least of all compliance.
+As businesses utilize more and more SaaS applications (organizations use an average of 371 SaaS apps), the costs and complexity to protect all of the SaaS data generated grows, too. For the absolute most business-critical data, a physical air gap may be worth the high cost to maintain, but surely not for tens or hundreds of SaaS apps. Imagine if you had to manually move data to a physical air gap twice a day for every single application to have updated backup copies from all your applications.
+So, the question is how can you get top-tier data protection in the cloud that’s as secure as a physical air gap but much more agile and cost efficient? Well, we mentioned it above, and that’s the logical air gap.
+Understanding the logical air gap: Efficiently countering ransomware threats
+At its core, the logical air gap involves the use of advanced digital measures to segregate and protect network-connected digital assets. Through a combination of encryption, hashing algorithms, and role-based access controls, it creates a secure barrier around sensitive data, much like a physical gap.
+But unlike its physical counterpart, the logical air gap doesn't rely on physical isolation, it leverages intricate digital processes to render data incomprehensible and virtually impervious to unauthorized access, theft, or modification. The result is data that’s kept just as securely but with the significant added benefits of agility and efficiency because it’s kept online in a logically separate cloud infrastructure.
+It’s really the best of both worlds: Top-tier security paired with modern accessibility, efficiency, and speed.
+What are some key features employed in air gapping?
+Encryption as a shield:
+The heart of the logical air gap's defense lies in encryption. By converting data into an unreadable format that requires a decryption key for access, even if ransomware manages to infiltrate the system, it’s met with a cryptographic barrier. This renders the encrypted data useless to unauthorized parties, thwarting the primary objective of ransomware attacks.
+Hashing for data integrity:
+Hashing functions add an extra layer of protection by generating unique identifiers (hashes) for each piece of data. Any alteration to the data results in a change in the hash, which allows for the verification of data integrity based on these changes. This then provides safeguarding against ransomware silently manipulating files without detection.
+Detection is an important part of being ransomware resilient, and so you or your data protection vendor needs to have this ability. Read about Keepit’s data monitoring dashboard.
+Role-Based Access Controls:
+Through meticulous access management, the logical air gap ensures that only authorized personnel have the requisite permissions to interact with sensitive data. This minimizes the attack surface for ransomware, limiting its ability to propagate and encrypt critical information.
+Highlighting the lack of air-gapping adoption:
+Surprisingly, despite its effectiveness, air gapping is not as widely adopted as it ought to be given its effectiveness in protecting data. In the 2023 Ransomware Preparedness report by ESG, it can be seen that “slightly more than one in four (27%) organizations have deployed it at this point.”
+Altogether, a staggering 67% of organizations do not currently implement air gapping as part of their data protection strategy. This leaves them potentially vulnerable to ransomware attacks and other cybersecurity threats as air gapping is a crucial data protection best practice. Not ignoring the importance of air gapping, more than one third of those surveyed were interested in investing in an air-gapped solution.
+For those organizations utilizing air-gapping methodologies, here’s how they’re doing it, according to ESG:
+And in the event of data loss due to a successful attack, here’s how companies plan to recover:
+Looking at the data above, it’s a logical step to consider what you and your company would do if faced with recovering from a successful ransomware attack. How do you plan to recover data? How confident are you that your mission-critical data is well protected and can’t be corrupted by ransomware?
+If you’re looking for inspiration on how to answer those questions, there’s a long-accepted data protection best practice we can turn to. Originating in the on-premises days (but is still very much relevant for cloud data protection) is a backup principle that puts air gapping at the forefront. Let’s look into it.
+The 3-2-1 backup principle: A resilient strategy for data protection
+The 3-2-1 backup principle stands as a cornerstone in data protection, offering a robust strategy for safeguarding critical data against many threats, including ransomware. This “321 rule” outlines a simple yet highly effective approach to data backup and recovery.
+3 copies: The first part of the principle emphasizes the importance of keeping three copies of your data. This includes your primary data and two backup copies. This redundancy is crucial because it ensures that multiple copies of your data are available for recovery in case of data loss or corruption.
+2 locations: The second part of the principle recommends that you store two of the backup copies on different devices within your local environment. This diversification, also called redundancy, protects against hardware failures, localized incidents, and even some software issues. The use of different devices/locations adds a layer of security and redundancy.
+1 copy air gapped: The final part of the principle advocates for keeping one of the backup copies offsite or in a separate location. What’s that in cloud language though? That means your backup data resides outside of the administrative domain of your production data, such as a vendor-independent cloud, rather than within the same cloud. This would be the logically separate infrastructure.
+However, most cloud backup solutions store your backed-up data on the same public cloud infrastructure that also hosts your production data, which potentially exposes your company to several risks. It’s akin to storing your spare car keys inside the car in case you lock yourself out.
+It’s vital to find a backup solution that stores backed-up data on an independent cloud since the ‘one’ is your ultimate safety net. It ensures that in the event of a catastrophic failure, natural disaster, or even a ransomware attack that compromises your local environment, you have a separate and secure copy of your data to rely on for recovery. For an in-depth look, read our post about the 3-2-1 backup rule.
+Embracing the logical air gap not only fortifies digital assets against ransomware but also positions organizations at the forefront of proactive cybersecurity measures.
+Where we go from here
+While air gapping presents the best defense against ransomware, its effectiveness is contingent on strategic implementation. Regularly updating encryption protocols, monitoring access logs, and conducting thorough security audits are integral components of maintaining the integrity of this defense mechanism.
+If you’re interested in taking the next step toward protecting your SaaS data, get a demo on how Keepit can play a vital role in creating a robust, cyber resilience data protection system.
+Learn more about air gapping and other protective measures you can employ to mitigate your ransomware risk with our on-demand webinar co-hosted with Enterprise Strategy Group.
+This post is part two of a five-part series on ransomware resilience and the role backups play in the protection against ransomware — read part one: Why backups are key ransomware targets. Check back soon to catch the third installment, which will cover the importance of immutability in SaaS data protection.

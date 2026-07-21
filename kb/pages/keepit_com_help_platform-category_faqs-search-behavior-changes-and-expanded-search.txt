@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/help/platform-category/faqs-search-behavior-changes-and-expanded-search/
+Content type: Web page
+Last modified: 2026-01-28T15:53:52+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+FAQs for search behavior changes and expanded search
+Overview
+Keepit's search functionality has been optimized to deliver faster, more precise results. The new default search is streamlined and precise, returning results that closely match your query terms. This delivers 3-4x faster search performance while reducing irrelevant approximate matches.
+Frequently Asked Questions
+Why am I getting fewer results than before?
+This is expected and intentional. The new search prioritizes precision over comprehensiveness. Rather than returning every possible match (including loose approximations), it now returns only results that closely match your search terms. For example, searching "Smith" now returns primarily exact or near-exact matches, rather than also including "Smyth" or "Smythe."
+How do I search for approximate matches now?
+If your initial search returns no results or too few results, look for the "Search similar results" option in your results panel. Select it to re-run your query using a broader, more approximate matching algorithm. This is useful when searching for names that might be spelled multiple ways, looking for items with partial information, or when you know an item exists but the streamlined search didn't find it.
+Will these changes affect my backup or restore workflows?
+No. The search optimization only affects how you discover and locate items in Keepit. Your backup policies, restore procedures, and data retention settings remain completely unchanged. Search is a discovery tool; the underlying backup and restore mechanisms are unaffected.
+How does search interact with filters?
+Filters and search work together to narrow results. Filters narrow the scope (e.g., "Microsoft 365 - SharePoint only"), and search operates within that scope using the streamlined algorithm. For best results, use relevant filters like data area or date range before searching. This combination provides the fastest, most precise results.
+What if expanded search still doesn't find my item?
+If expanded search doesn't return results: verify the data is in your backup, try alternative spellings or partial terms, broaden your filters, and check for special characters that may require quotes. If you still cannot locate an item, contact Keepit support with your search term, data type, filters applied, and confirmation that you tried expanded search.
+Key takeaways
+Streamlined search is now the default for speed and precision. Use expand search when you need approximate matches, and quotation marks for exact phrase matching. Apply filters to narrow scope before searching. Search has no impact on backup, restore, or retention policies.

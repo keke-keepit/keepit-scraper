@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/help/google-workspace-category/check-if-keepit-app-is-installed-in-google/
+Content type: Web page
+Last modified: 2025-03-11T20:16:28+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Check if Keepit app is installed in Google
+Follow these steps to check if a Keepit app is installed in Google:
+1. Sign in to https://admin.google.com with an administrator’s credentials.
+2. Open the Apps page.
+3. Select Google Workspace Marketplace apps.
+4. Ensure that Keepit for Google Workspace is present in the list of apps and that its status is ON for everyone.

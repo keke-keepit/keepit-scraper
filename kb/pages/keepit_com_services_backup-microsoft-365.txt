@@ -1,0 +1,148 @@
+Source URL: https://www.keepit.com/services/backup-microsoft-365/
+Content type: Web page
+Last modified: 2025-08-21T20:46:46+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backup and recovery for Microsoft 365
+Secure, simple, and comprehensive data protection
+Why back up Microsoft 365?
+Oops! Mistakes hurt
+Mistakes happen every day. Your users and administrators have access to your most vital data, and one accidental deletion means losing the critical data you rely on the most.
+Security threats
+Data loss from security breaches, such as ransomware and malicious deletion, will lead you to lose access to your data. Without a backup in place, your SaaS data can be lost forever.
+Access is key to compliance
+To comply, you need uninterrupted access to your data, and any data loss or disruption, such as Microsoft service outages, may lead to failures to comply. With Keepit, it’s easy.
+Top benefits
+Secure your data
+With Keepit’s independent, purpose-built cloud and unique storage architecture and security, your data is immutable.
+Recover in minutes
+Fast smart search allows you to easily find any data or user across all your services/apps and quickly recover it e.g., in place, share it, or PST download.
+Full coverage
+Protect all key workloads with the most complete and granular coverage available. Our protection is described as “Top-tier” by Forrester.
+Your data deserves the best coverage
+Exchange Online
+- Outlook mail
+- Contacts
+- Tasks
+- Calendar
+- In-place archives
+- Public folders including sub-folders
+- User persmissions
+OneDrive
+- All documents
+- Form templates
+- Style library
+- Enhanced versioning
+- Intelligent integrated Microsoft Entra groups selection (formerly Azure AD groups)
+- Intelligent selection of SharePoint sites and teams
+SharePoint
+- Site collections
+- Lists
+- Document libraries
+- Site content types
+- Permissions
+- Customization
+- Pages
+- Sub-sites
+- Hot Archive (add-on)
+Groups and teams
+- Conversations
+- Calendar
+- Planner
+- Files
+- Channels
+- Wiki pages
+- Team channel posts and replies
+- Files in public and private channels
+- Channel tabs
+- SharePoint
+The all-inclusive Keepit platform
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
+Monitoring data to detect anomalies
+Minimal account administration
+How Keepit helps you
+Specifically designed for admins, Keepit makes manual restore processes a thing of the past.
+With ultra-fast smart search and restore features, you can restore multiple terabytes a day and get your M365 data back into its original location along with the original file structure and metadata.
+Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
+With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
+Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
+Fast search
+Fast federated search lets you search across all backup data so you can find what you need quickly.
+Smart search
+Controllable smart search allows partial or even misspelled search terms to provide results.
+Deleted items view
+If you’re not sure what was lost, activating the Deleted Items View takes the guesswork out of finding lost data. You can view all data that ever existed and was backed up on a tenant.
+The Keepit infrastructure runs on software that was designed and built from the ground up by our team.
+Blockchain-like Merkle tree structure
+We created a uniquely powerful architecture that employs a blockchain-like Merkle tree structure that allows you to store data in an immutable format to prevent attackers from manipulating your backups so you can recover quickly with uncompromised backups.
+"Incremental forever"
+The architecture also employs an innovative “incremental forever” approach that delivers performance and cost benefits such as unlimited hot storage, no data tiering, unlimited archiving, and no snapshot expiration. These benefits would simply not be possible to provide on general-purpose storage services.
+Get started in few minutes
+Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.
+Intuitive user interface
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
+API only
+You can integrate Keepit with your existing systems thanks to our API-only approach.
+Audit Logs. Track any user activity inside the Keepit platform, allowing you to monitor, review, and investigate any potential breaches.
+Job Monitor. Detect abnormalities in the job monitor and discover changes on a snapshot basis as well as the number of changes made.
+Data sovereignty. Keepit operates its own data centers in multiple regions globally, helping you meet sovereignty requirements.
+The Right to be Forgotten. Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.
+Security controls. Manage who has access to data and what permissions they have with granular Role Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
+Hot archive for SharePoint Online (add-on)
+If you are currently protecting, or looking to protect, your Microsoft 365 data with Keepit, you can now add Hot Archive for SharePoint to move rarely used data out of production, cut storage costs, and keep every file fully accessible on demand.
+Why companies globally trust us
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+- Vendor-independent cloud
+- Mirrored infrastructure
+- In line with the 3-2-1 backup rule and NIST framework
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+- Fast, easy, and granular restore
+- Rapid search and eDiscovery
+- Preview files securely
+- Secure file sharing
+- Recover data intelligently
+- Top-tier coverage
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+- Certified, cloud-native design
+- Resilient and immutable
+- Always-on compliance
+- Protect data in transit and at rest
+- Configure retention policies
+- Control access rights
+- Monitor data to detect anomalies
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+- Easy to budget
+- Software and admin savings
+- Drop unnecessary licensing costs
+- Upgrades and maintenance included
+- No hidden costs
+- Revolutionary storage efficiency
+- Scale with ease
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+- Truly simple and intuitive
+- Less effort, more efficiency
+- Easy deployment
+- Set and forget
+- Reduce admin time
+- Quick and responsive support
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic
+Head of IT, TALKE Group Germany 
+Frequently asked questions
+Always within the data center region you specify. Currently we have six data center regions: EU-DK, EU-DE, UKI, US, CA and APAC.
+As per Microsoft's responsibility model, the customer is responsible for keeping a backup of the data, not the cloud service provider. Read more
+It depends on the Service Offering you choose. Find our pricing here.
+Yes, to all the above.
+Further, uniquely to Keepit, our staff and software development are also ISO27001 certified — not just our data centers as most vendors. Read more.
+We are GDRP compliant, and our HQ is located in Denmark, EU. Read more.
+Twice daily. We have found trying more often doesn’t give our customers more successful or complete backups due to Microsoft throttling limitations.

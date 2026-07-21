@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/help/platform-category/why-is-it-best-to-use-an-incognito-window-when-using-sso/
+Content type: Web page
+Last modified: 2026-06-23T23:29:28+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why is it best to use an incognito window when using SSO?
+When you use SSO to sign in to Keepit, Keepit might use the credentials of the Microsoft account you are already signed in to. If you want to use the credentials of a different user, it's best to use an incognito window.
+The way SSO works is that as soon as you enter an email address, the service provider (Keepit) checks whether the user with that email address has SSO configured. If yes, Keepit creates an authentication request and sends it to the identity provider’s (Microsoft) login page. At this stage, Keepit is requesting Microsoft to perform authentication on its behalf.
+If you are not already logged in to Microsoft, then you can log in with the same user (i.e., the email address entered above and the user's password), and Microsoft will redirect you to Keepit.
+If you are already logged in to Microsoft and the user is a part of the SSO configuration, then Microsoft will automatically use those credentials to log you in to Keepit.
+And so to avoid this situation where Keepit automatically uses the credentials of the user logged in to Microsoft, we recommend using an incognito window.

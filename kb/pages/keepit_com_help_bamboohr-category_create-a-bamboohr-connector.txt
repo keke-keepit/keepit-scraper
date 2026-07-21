@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/help/bamboohr-category/create-a-bamboohr-connector/
+Content type: Web page
+Last modified: 2026-06-22T13:14:32+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create a BambooHR connector
+Obtain your organization URL
+Before creating your connector, obtain your BambooHR organization URL.
+When you sign in to your BambooHR instance, the URL will include your organization’s name — this is the value you need. Use only the base domain (for example, company.bamboohr.com).
+Create a connector
+Follow these steps to create a BambooHR connector and set up your backup configuration.
+1. On the Connectors page, selectâ¯Add connectorâ¯>â¯Add BambooHR Ñonnector.â¯
+2. In the Organization URL field, enter the your BambooHR URL (e.g., company.bamboohr.com).
+3. Clickâ¯Sign inâ¯to begin the authentication process.
+4. In the BambooHR sign-in page, enter the credentials of an admin account.
+5. Review the permissions requested by the Keepit application and select Accept to grant access.
+Note:â¯You will be prompted for permissions only the first time you create a connector. Afterward, Keepit retains the permissions it needs.
+6. After authentication, you'll be redirected to Keepit where you can configure your connector.
+Here you can:
+- Change the name of the connector
+- Manage user access to the connectorâ¯by selecting theâ¯lockâ¯icon
+- Limit the retention periodâ¯by selecting theâ¯calendarâ¯icon
+7. Selectâ¯Create.
+Your connector will be created, and the first backup will be scheduled.â¯

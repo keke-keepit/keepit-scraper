@@ -1,0 +1,11 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/back-up-shared-mailboxes/
+Content type: Web page
+Last modified: 2026-06-29T22:43:47+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Back up shared mailboxes
+A shared mailbox is backed up like a Microsoft user account. This means that in the configuration window you must select Mail in the advanced Exchange backup settings, and then add the shared mailbox either by selecting it from the user list or by selecting an AD group which includes it.
+If you want to back up the shared mailbox as part of an AD group, you must first add it to a group in Microsoft Office 365. Then in the Keepit configuration window, make sure the group and the shared mailbox are selected.
+Shared mailboxes will always be found in the Users folder, not in Groups & Teams.

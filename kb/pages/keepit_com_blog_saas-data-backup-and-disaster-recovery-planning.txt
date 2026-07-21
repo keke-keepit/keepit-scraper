@@ -1,0 +1,56 @@
+Source URL: https://www.keepit.com/blog/saas-data-backup-and-disaster-recovery-planning/
+Content type: Web page
+Last modified: 2026-02-03T09:20:38+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+SaaS data backup and disaster recovery planning
+Data is the lifeblood of connected, digital organizations. If data stops flowing or becomes unavailable, then anything that depends on it—including software-as-a-service (SaaS) applications—stops working, leading to consequences ranging from a short-term inconvenience to a full-blown existential crisis.
+According to ESG, the most common reasons for data loss in SaaS applications are service outages, accidental deletion, and external malicious deletion such as ransomware attacks.
+What is the top cause of data loss for the SaaS-based applications your organization uses? (Percent of respondents, N=344)
+Key to managing business risk and minimizing operational disruption when disaster strikes is having robust, easily accessible data backups and a reliable, up-to-date disaster recovery plan.
+While the cloud brings with it many benefits, its shared responsibility model has important implications for business continuity planning, backup programs, and disaster recovery planning.
+As the saying goes “failing to plan is planning to fail,” so to help you avoid that fate, this post examines:
+- The relationship between data backup and disaster recovery
+- What “recovery” really means to different members of the cloud ecosystem, and why the differences matter
+- How accessible backups enable business continuity even while the larger disaster recovery operation is underway
+- Why it’s important to think outside the public cloud
+The relationship between backup and disaster recovery
+“Backup” and “disaster recovery” are closely related, but nevertheless distinct.
+Backup is the process of storing copies of data, preserving it in a state that may be needed in the future. The 3-2-1 principle of backup mandates that you should have three copies of data (one primary and two backups), that the two copies are stored at two separate locations, and that one of the locations is offsite, separate from the primary cloud infrastructure.
+Disaster recovery (DR) encompasses the planning and processes for reestablishing access to, and the functioning of, systems and resources after something has gone wrong. DR falls under the larger umbrella of business continuity planning, existing alongside Incident Response (IR) and contingency plans.
+Like many business processes, disaster recovery plans are designed to meet measurable performance goals, with the most common being:
+- Recovery Time Objective (RTO): the amount of time it takes to return to normal operations
+- Recovery Point Objective (RPO): the amount of data that can be lost in a disaster, without unacceptable consequences
+In practice, different organizations will have different—perhaps very different—RTOs and RPOs, reflecting the significant differences across industries and operating models.
+In the digital world, a huge part of disaster recovery is restoring backup data into primary systems to enable their return to availability and operation. Restoration blurs the lines between backup and recovery, and can perhaps be thought of as the link between the two (although it’s traditionally considered part of backup).
+Despite the long list of things that can go wrong and disrupt today’s organizations, only a slight majority of businesses have some form of continuity and disaster recovery plan the books. Compounding matters, these plans often take for granted that the crucial backup data upon which they depend will be available quickly, easily, and completely.
+It’s worth noting that the chart above shows that 12% of respondents reported an inability to recover all the lost data with their current backup mechanism; plus, the same ESG research also revealed that 81% of Microsoft Office 365 users had to recover data, but only 15% were able to recover everything—underscoring the importance of reliable third-party backups for services like Azure Active Directory.
+Therefore, to avoid unpleasant and costly surprises, it’s crucial that the disaster recovery plan be tested (i.e., not just reviewed!) regularly, to ensure data can be restored reliably.
+But there’s more to it than that, because it turns out that the true meaning of “recovery” depends upon whom you ask.
+What does “recovery” really mean for software-as-a-service?
+It depends…
+In the on-premises model, meeting an RTO is largely dependent upon backup and restoration of systems and associated customer data. Over time, organizations have addressed their continuity and recovery needs by investing in hardware and software solutions.
+However, in the SaaS world’s shared responsibility model, things are quite different: “recovery” for you (i.e., the SaaS client/customer) has the same meaning described above; but for the SaaS vendor, “recovery” means making the infrastructure and application available—whether or not your data is there.
+But that’s not all: backing up cloud SaaS data—the crucial stuff you need to make those cloud workloads useful—is your responsibility, not the vendor's.
+From the report: “When Disaster Strikes. Recovery for SaaS apps”
+Putting it all together, achieving DR objectives requires accounting for both:
+- Cloud data availability (largely your responsibility), and
+- Cloud application availability (e.g., M365), which is controlled by the application vendor.
+More to the point, recovering from a disaster involving SaaS applications depends upon:
+- How completely and quickly backup data can be accessed, regardless of the SaaS application’s state, and
+- How completely and quickly backup data can be restored, once the application tenant is operational.
+However, enabling recovery isn’t the only role played by data backups during a disaster—they’re also essential to maintaining some minimal level of business continuity while the larger recovery is underway.
+Backups are about more than recovery
+Full SaaS application restoration requires the tenant to be restored and repopulated with data, but the business world doesn’t stop just because you’re suffering from an outage.
+Consider the experience of Carlsbad, a California-based company that was the victim of a retributive attack in which a former IT consultant sabotaged the organization’s O365 user accounts. The company’s Vice President of IT explained that:
+The impact was felt inside and outside the company. Employees’ accounts were deleted – they could not access their email, their contacts lists, their meeting calendars, their documents, corporate directories, video and audio conferences, and Virtual Teams environment necessary for them to perform their jobs. Outside the company, customers, vendors, and consumers were unable to reach company employees (and the employees were unable to reach them). No one could inform these buyers what was going on or when the company would be operational again.
+In a SaaS outage, easily accessible backups can manage risk and lessen disruption by allowing team members to access the essential information—e.g., contact lists, calendar entries, inventory levels, billing/financial information, data records—they need to perform basic operations.
+And the only way to have a truly robust, reliable, and accessible backup is to avoid the public cloud altogether.
+Thinking outside the public cloud: Keepit backup and recovery
+For the majority of organizations—i.e., those lacking the specialized skill sets and extensive resources required—the most reliable and cost-effective way to ensure availability of SaaS data is to use a third-party data protection service.
+However, backing up SaaS data within the same public cloud infrastructure that hosts their primary data fails to provide the needed assurances—since an event impacting that public cloud could render both the primary and backup data inaccessible, even with geographic distribution.
+As we explain in detail in our eGuide, Leading SaaS Data Security, only an infrastructure completely independent from public cloud environments can provide true backup for SaaS data.
+To help enterprises avoid disruption due to lost or inaccessible SaaS data, Keepit has architected a dedicated, vendor-neutral SaaS data backup solution that is resilient, secure, and easy to use—and we’d welcome the opportunity to show what Keepit can do for you.
+After all, what good is a disaster recovery plan without reliable backup and efficient restoration?

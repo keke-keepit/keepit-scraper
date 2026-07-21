@@ -1,0 +1,35 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/connect-your-entra-app-registration-to-keepit/
+Content type: Web page
+Last modified: 2026-06-29T23:22:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Connect your Entra app registration to Keepit
+Multi-app functionality enables Keepit to leverage multiple app registrations within your Entra tenant, optimizing backup processes for Teams Chats.
+Ðs part of the multi-app setup process, an Administrator with Application Administrator or Global Administrator permissions must initially create an app registration through the Microsoft Entra admin center.
+Once created, you can connect this app registration to Keepit to begin backing up your Teams Chats data.
+Note: We recommend backing up Teams Chats in a separate connector from other data areas.
+Preparation
+Before connecting your app, ensure the following:
+Create an app registration
+Prepare your app registration in Entra ID. Find instructions here.
+Retrieve your App ID
+Copy the App ID from your app registration.
+Obtain a certificate file and private key
+Find instruction on ow to generate a certificate here.
+Connect your Entra App Registration to Keepit
+1. Open the backup configuration of the connector you want to back up Teams Chats data.
+Note: We recommend you back up Teams Chats in a separate connector from other data areas. 
+2. Enable the Teams Chats backup.
+3. In the lower-right corner, select ••• > App registration.
+4. Ensure you're properly prepared and click Next.
+5. Enter the app ID.
+6. Upload the certificate and private key in the designated fields.
+The certificate can have the following formats: CRT, CER, PEM
+The key must be in the KEY format.  
+7. Click Connect app registration.
+8. Sign in with a global admin user and accept the permissions.
+9. Review the summary and click Configure.
+10. Review your backup setup, make any necessary changes, and click Save.
+Your Teams Chats backup will be scheduled accordingly.

@@ -1,0 +1,78 @@
+Source URL: https://www.keepit.com/help/platform-category/managing-access-to-connections/
+Content type: Web page
+Last modified: 2026-06-23T20:43:28+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Managing access to connections
+What is a connection?
+A connection is the authorization link between Keepit and a source application tenant. It’s what allows Keepit to access and back up data from services like Microsoft 365, Google Workspace, Salesforce, or other cloud platforms.
+A single connection can be reused by multiple connectors protecting the same source tenant. Because of this shared use, it’s important to control who can create, manage, or reauthenticate a connection.
+Each connection has its own access control list (ACL), which defines which users in your Keepit account can:
+- Use the connection
+- Manage it
+- Reauthenticate the associated applications
+This operates alongside existing role-based access control (RBAC) for connectors.
+In other words, a user now needs two things to perform an action on a connection:
+1. The appropriate role or connector-level permission
+2. Membership in that connection’s access list (or a role that grants automatic access)
+Why this matters
+In complex enterprise environments—tenants managing multiple companies, business units, or geographies—role-based access at the tenant level was not always sufficient.
+Without per-connection controls, an administrator from one company could potentially create connectors using a connection established by another company. This creates a risk of unintended cross-company or cross-region access.
+Per-connection access control helps to:
+- Segregate administrative responsibilities within a single Keepit account
+- Reduce the risk of cross-tenant or cross-region data exposure
+- Support separation-of-duties requirements in enterprise and compliance frameworks
+Connection security is managed separately from connector RBAC because the two entities hold different kinds of data. Unlike connectors, a connection can exist independently—it stores app authorization information without being tied to a specific connector. For this reason, access to each must be controlled separately.
+How access is granted
+Users can gain access to a connection in three ways:
+1. Automatic access on creation
+The user who creates a connection is automatically added to its access list.
+If a connection is created implicitly (for example, when setting up the first connector for a new tenant), the creating administrator is added as the first member.
+2. Explicit access granted by another user
+Users already on the connection’s access list—or a Master Admin—can grant or revoke access for others within the Keepit account.
+3. Automatic access through elevated roles
+- Master Admins have permanent access to all connections
+- Users with the Advanced Management role also have full access to all connections and connectors, consistent with their broader permissions
+Role-specific notes
+- Support and Audit roles do not receive automatic access to connections
+- Backup Admins can reauthenticate applications, but only for connections they have been explicitly granted access to
+What the access list controls
+Membership in a connection’s access list (combined with the appropriate role) is required to:
+- Create new connectors that use the connection
+- Manage applications configured under the connection
+- Reauthenticate those applications
+- View connection details
+Access to a connector and its underlying connection is managed separately. During the connection management preview, connector configuration is disabled if the acting user does not have access to the associated connection.
+What existing customers need to know
+When this feature is enabled, Keepit automatically creates access lists for existing connections:
+- Each connection’s access list is populated based on users who already had access to its connectors
+- Users with broadly permissive roles (such as Advanced Management) are included to preserve existing workflows
+- Pre-existing connections continue to function without disruption during the transition
+No action is required to maintain service continuity. You do not need to recreate connections or reauthenticate applications.
+After migration, it’s a good idea to review each connection’s access list and reduce it where appropriate—especially in multi-company or multi-region tenants, where inherited access may be broader than desired.
+Feature availability
+Connection management is currently available to preview customers, with general availability planned for later in 2026.
+If your account does not have multi-app management enabled, there will be no visible UI changes and your current experience remains unchanged.
+What happens when access is denied
+If a user attempts an action on a connection they are not authorized to access—for example, reauthenticating an application tied to that connection—the action is blocked.
+Keepit displays an error message explaining that access is denied at the connection level and directs the user to contact a connection owner or a Master Admin. This helps users resolve the issue quickly without needing to file a support request.
+Recommendations for administrators
+Keep each connection’s access list as small as practical. The goal is to enforce least-privilege access across companies and regions, and smaller lists are easier to review and audit.
+Treat the Master Admin role as a break-glass option rather than a daily working role. Because it grants irrevocable access to all connections, it should be reserved for escalation lockouts.
+When onboarding new administrators, grant access only to the specific connections they need, rather than assigning overly broad roles.
+Review connection access lists regularly—especially after organizational changes or geographic expansion—to ensure access still reflects current responsibilities.
+Frequently asked questions
+Does this change affect backups or restores that are already running?
+No. Access control applies to management operations on connections—creating connectors, managing applications, reauthenticating, and viewing details. It does not interrupt ongoing backup or restore jobs.
+Can a user be removed from a connection they created?
+Yes. Creators are added to the access list automatically, but they can be removed later by another authorized member or a Master Admin. Master Admins themselves cannot be removed from any connection’s access.
+What happens if everyone is removed from a connection’s access list?
+Master Admins always retain access, so the connection can be recovered. However, it’s best practice to keep at least one non–Master Admin on the list to avoid routing routine work through elevated roles.
+Will this slow things down?
+No. Access checks are designed to add negligible latency to connection operations and are optimized for bulk actions.
+How many users can be on a connection’s access list?
+Up to 100 users per connection, but future revisions to this capability are planned to make it more scalable and customizable.
+Getting help
+If you have questions about connection management or need help troubleshooting, contact Keepit Support.

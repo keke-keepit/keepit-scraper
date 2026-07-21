@@ -1,0 +1,40 @@
+Source URL: https://www.keepit.com/help/api-category/delete-an-account-via-api/
+Content type: Web page
+Last modified: 2025-10-15T13:42:11+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Delete an account
+This command deletes an account along with all resources, access tokens, backup history, and all child accounts.
+API request
+Method DELETE
+/users/{user-id}
+Example
+Method DELETE
+https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka
+Response
+Code: 200 OK
+Response body:
+Account deleted successfully
+PowerShell script
+try {
+    $username = '<Token username>'
+    $password = '<Token password>'
+    $subaccountID = 'Subaccount GUID'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent" = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $url = "https://dk-co.keepit.com/users/$subaccountID"
+    $response = Invoke-WebRequest -Uri $url -Method Delete -Headers $headers -ErrorAction Stop -TimeoutSec 10
+    Write-Host $response.Content
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}Additional information
+- If the delete-retention-period resource is set in the product configuration, the account will be scheduled for deletion instead of being deleted immediately. All associated resources will be retained until the retention period expires.
+- The initiating peer must be authenticated as a parent of that account.

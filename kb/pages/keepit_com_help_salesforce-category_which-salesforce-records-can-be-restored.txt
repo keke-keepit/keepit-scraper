@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/help/salesforce-category/which-salesforce-records-can-be-restored/
+Content type: Web page
+Last modified: 2026-03-04T14:04:42+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Which Salesforce records can be restored
+Records that can be restored
+Records of standard and custom objects can be restored. The records of certain types of standard objects can only be downloaded or shared. These types of records are found in object folders, which are marked with a special icon as seen below in the table.

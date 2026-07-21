@@ -1,0 +1,14 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/public-folder-failed-to-restore/
+Content type: Web page
+Last modified: 2026-06-30T02:13:45+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Public folder failed to restore
+If your public folder failed to restore this is probably because the Privileged Role Admin or Global Admin is not an owner of the public folder and sub-folders.
+For public folders to be backed up and restored, it is critical that the Global Admin has Owner level permissions on all folders.
+For existing public folders, make sure the Global admin has Owner level permissions at the root level and that these permissions are set on all sub-folders down the entire hierarchy.
+When creating a new public folder, set Owner permissions at the root level and all new sub-folders will automatically have the proper permissions.
+This is crucial because if a public folder is deleted and the Privileged Role Admin or Global Admin is not an owner, then it will not be possible to restore the public folder.
+It is also important to note that if a public folder mailbox is deleted, public folders – regardless whether the admin is an owner or not – cannot be restored as there is nowhere to restore them to.

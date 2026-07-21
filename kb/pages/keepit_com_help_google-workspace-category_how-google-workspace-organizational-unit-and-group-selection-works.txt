@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/help/google-workspace-category/how-google-workspace-organizational-unit-and-group-selection-works/
+Content type: Web page
+Last modified: 2025-03-11T20:16:05+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+How Google Workspace organizational unit and group selection works
+By default, all users across your entire Google Workspace organization are included in the backup, as indicated by the selected Organization checkbox. This means users in all organizational units, as well as those not assigned to any unit, will be backed up.
+All organizational units will be automatically selected. To exclude specific units, simply clear the checkboxes for the ones you wish to remove.
+Groups, on the other hand, are not selected by default, and their selection is disabled since all users are already included in the backup. If you need to manage users through groups, first deselect the Organization checkbox. Then, you can choose how to handle group selections. Please note, when you uncheck the Organization box, any selected organizational units will also be deselected, so you'll need to manually reselect any units you wish to include.
+You can exclude users from the backup either by organization, specific organizational unit, or group. After loading the user list, simply click the boxes for the users you want to exclude. Excluded users will be marked with a red "X."
+If you'd prefer to include users without selecting organizational units or groups, clear all the checkboxes on the left, load the user list, load the list of users, and select the individual users you wish to back up.
+Tip: Use the filters to easily locate organizational units, groups, or users.
+Checkbox states & their meanings
+Organizational units and groups can have the following checkbox states:
+- Bold check mark – a parent selected for backup (all child units and groups included in backup)
+- Faded check mark – a child selected for backup (inherited from parent)
+- Indeterminate (minus sign) – a parent which has one or more child organizational units or groups excluded from the backup
+- Unchecked – not selected for backup (all child checkboxes are unchecked)
+Users of an included organizational unit or group can have the following checkbox states:
+- Faded check mark – explicitly included in the backup
+- Red ex mark – explicitly excluded from backup
+Users when no organizational units or groups are selected have the following checkbox state:
+- Bold check mark – explicitly selected for backup

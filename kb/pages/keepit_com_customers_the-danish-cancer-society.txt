@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/customers/the-danish-cancer-society/
+Content type: Web page
+Last modified: 2026-01-08T12:01:06+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Danish Cancer Society chooses Keepit to protect against service outages and external cyberattacks
+The Danish Cancer Society is the largest patient association in Denmark devoted to fighting cancer. The group’s main activities are within research, patient support and prevention. The Danish Cancer Society has around 800 full-time employees, more than 400,000 members, and almost 45,000 volunteers.
+Collaboration is easier in the cloud
+The Danish Cancer Society decided to migrate to the Microsoft 365 cloud infrastructure three years ago, providing increased flexibility, greater capability for mobile working and more secure access to data. IT Systems Manager Jeanne Andersen explains that Microsoft 365 has also made it easier for employees to collaborate on projects; moreover, the cloud infrastructure makes it simpler to share information between colleagues, departments, and external stakeholders.
+The migration is an on-going process, integrating more elements of Microsoft 365 into daily use including SharePoint to collaborate on projects, and OneDrive for storing and sharing files.
+As we continue to migrate more of our data to the cloud, it is critical for us to have a secure backup solution in place. There have been examples of the Microsoft 365 service being offline for a whole day. Should this happen, and we are unable to access our emails and files, it would cause significant problems for the society.
+Jeanne Andersen
+IT Systems Manager, Danish Cancer Society
+Why cloud backup is important
+With the majority of the organization’s workflow and information now in the cloud, secure, third-party data backup became a top priority. The Danish Cancer Society also required a method to ensure constant access to their information during events like an Microsoft 365 service outage, external cyberattack, etc. In order to fulfil these requirements, Keepit was selected as the Microsoft 365 backup and recovery solution.
+It is important that we are prepared for ransomware threats, or other malicious attacks targeting our data. If we did not have a backup solution in place, it would leave us in big trouble!
+Jeanne Andersen
+IT Systems Manager, Danish Cancer Society
+Easy on-boarding with Keepit
+The Danish Cancer Society was fully satisfied with the service provided by Keepit’s staff. Andersen’s IT team enjoyed an effective dialogue with Keepit’s support team during and after the process of connecting their Microsoft 365 service to Keepit.
+I have been in the IT business for more than twenty years, and I’ve never before experienced an on-boarding process that was executed with such speed and efficiency!
+Jeanne Andersen
+IT Systems Manager, Danish Cancer Society
+In addition to being confident that their organization’s data is securely backed up and always available, Anderson notes some additional benefits from using Keepit. “It gives us peace of mind to know that there is full backup of all our cloud data,” Anderson adds. “But Keepit has given us a much clearer overview of our Microsoft 365 data, and provides greater ease of use too.“ Next steps for the Danish Cancer Society include using Teams for Microsoft 365, which will also be automatically and securely backed up as part of the Keepit service.

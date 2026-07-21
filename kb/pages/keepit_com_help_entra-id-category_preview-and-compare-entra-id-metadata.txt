@@ -1,0 +1,42 @@
+Source URL: https://www.keepit.com/help/entra-id-category/preview-and-compare-entra-id-metadata/
+Content type: Web page
+Last modified: 2026-07-03T23:43:42+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Preview and compare Entra ID metadata
+Using the previewer
+The metadata previewer allows you to view an object's attributes, relationships, licenses, and authentication methods.
+To open the metadata previewer, to the right of the object, select ••• > Object metadata.
+In the previewer, you can also compare the object's values with those from the previous snapshot.
+To see the comparison, open the Difference tab in the previewer.
+View different versions
+To open a different snapshot, in the toolbar select the versions icon and then select a snapshot from the versions viewer.
+Note: The versions viewer only shows snapshots where changes to the dataset were made. In total there may be more snapshots.
+Supported actions
+Directly from the previewer, you can restore, download, or share the object.
+Both the metadata overview table and the difference table can be printed.
+Viewing metadata
+The previewer shows the state of the data in the selected snapshot.
+Metadata overview table
+- The left column displays backed up attributes, relationships, licenses, and authentication methods.
+- The right column displays the value of each attribute and the number of other metadata items.
+Comparing metadata
+To view a comparison, open the Difference tab.
+The comparison is always between the selected snapshot and the previous snapshot. The differences between the snapshots are highlighted.
+Attributes can be modified. You can see the current value and compare it the value that was in the previous snapshot.
+Relationships, licenses, and authentication methods can be deleted or added. You can see how many items were added or deleted since the previous snapshot.
+Note: The manager is a relationship to another user, but in the difference table we display the name of the manager, not the number of managers. A user can have only one manager.
+Difference table
+1. The first column shows icons that indicate the type of change that was made to the attributes, relationships, licenses, and authentication methods:
+- Blue pen - modified (applies to attributes)
+- Green plus sign - added (applies to relationships, licenses, and authentication methods)
+- Red minus sign - deleted (applies to relationships, licenses, and authentication methods)
+2. The second column lists backed up attributes, relationships, licenses, and authentication methods.
+3. The third column shows what has been changed as compared to the previous snapshot, i.e., the state of the data in the selected snapshot.
+- For attributes, the value in the selected snapshot will be displayed.
+- For relationships, licenses, and authentication methods, the number of items added or deleted compared to the previous snapshot will be displayed.
+4. The fourth column shows the value of the attribute and the number of relationships, licenses, and authentication methods in the previous snapshot.
+- For attributes, the value in the previous snapshot will be displayed.
+- For relationships, licenses, and authentication methods, the total number of items that were present will be displayed.

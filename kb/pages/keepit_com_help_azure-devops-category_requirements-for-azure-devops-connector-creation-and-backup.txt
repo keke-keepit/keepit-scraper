@@ -1,0 +1,31 @@
+Source URL: https://www.keepit.com/help/azure-devops-category/requirements-for-azure-devops-connector-creation-and-backup/
+Content type: Web page
+Last modified: 2025-04-22T15:35:22+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Requirements for Azure DevOps connector creation and backup
+Requirements for backups
+To ensure that your Keepit backup is performed correctly and to avoid problems down the line, we recommend the following when setting up your Microsoft 365 account:
+Ensure the service account has proper permissions
+The Microsoft 365 service account used to handle the backup must have the proper permissions so that we can access and back up Azure DevOps organizations.
+To have these permissions, the service account must meet one of the following criteria:
+1. Organization Owner: As an owner, the service account will automatically become a member of the organization's PCA group.
+OR
+2. Member of both the organization and its Project Collection Administrators group
+The criteria needs to be true for each organization accessible to the service account.
+For more about becoming a member of the PCA group, see Change permissions at the organization or collection-level
+Important: Avoid changing the User Principal Name (UPN) of the service account
+The connector relies on the UPN as an immutable identifier, and modifying it may disrupt the backup process.
+Enable third-party application access for each organization
+To give Keepit access to all data in Azure DevOps, enable third-party application access via OAuth for each organization you want to back up.
+Sign in to Azure DevOps and select Organization settings > Policies. Then enable Third-party application access via OAuth. Repeat for each organization.
+Requirements for connector creation and reauthentication
+To create or reauthenticate a connector, the service account must install the enterprise application and grant consent for the required permissions.
+Application permissions can be approved by Ð° user with permission to approve app consent or by a Global Admin.
+Before proceeding with connector creation, ensure that one of the following conditions is met:
+- The service account has "Allow user consent for apps" enabled.
+- The service account is assigned the Global Admin role.
+Once the connector is created, these permissions can be removed without affecting ongoing backups.
+However, keep in mind that these requirements must be met each time the connector is reauthenticated.

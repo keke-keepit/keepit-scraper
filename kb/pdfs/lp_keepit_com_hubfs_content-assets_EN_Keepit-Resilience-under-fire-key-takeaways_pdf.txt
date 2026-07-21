@@ -1,0 +1,106 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Resilience-under-fire-key-takeaways.pdf
+Content type: PDF document
+Title: unknown
+Pages: 2
+Retrieved: 2026-07-21
+
+============================================================
+
+Hybrid warfare, nation-state attacks, and increasing 
+cyber risk — how resilient is your organization?
+As the line between physical and digital conflict blurs, CISOs and IT 
+leaders face mounting pressure to protect critical infrastructure from 
+sophisticated and ever-evolving threats. In a rapidly shifting threat 
+landscape where cybercrime, system failures, and hybrid attacks are 
+increasing in scale, sophistication, and impact, resilience becomes 
+paramount. As global dependencies deepen, even small disruptions can 
+have cascading consequences.  
+This was the key focus of a recent Keepit webinar, where Kim Larsen, CISO 
+at Keepit, and Ken Bonefeld Nielsen, Senior Cyber Security and Resilience 
+Advisor at Norlys, explored how true resilience requires preparation, 
+prioritization, and the ability to recover fast when the unexpected happens. 
+© 2025 Keepit. All rights reserved.
+Key takeaways
+The threat landscape: What to consider
+Cybercriminals are more capable than ever — now 
+supported by powerful AI — and organizations must 
+be prepared to deal with state actors, supply chain 
+risks, and accidental outages. The world is deeply 
+interconnected, meaning local disruptions trigger 
+global consequences. 
+Mission-critical systems and data must be 
+identified, classified, and protected first. Trying 
+to defend every asset equally leads to wasted 
+resources and slow recovery, becoming a threat to 
+business continuity.
+Nations and organizations are being disrupted 
+without formal declarations of war. Hybrid attacks 
+combine cyber, physical, economic, and informa-
+tion domains to create maximum impact. Resilience 
+starts with mental resilience: understanding the 
+threat and the scenarios to prepare for.
+Absolute prevention is impossible. The true resil-
+ience test is how fast you can restore operations 
+when you’re under attack. Immutable backups, 
+clear RPO/RTO objectives, and tested recovery 
+plans are essential.
+The threat landscape is 
+changing rapidly
+You can’t protect everything 
+— prioritize what matters most
+Hybrid attacks blur the line 
+between peace and conflict
+Recovery is as important 
+as defense
+Resilience under fire 
+How to safeguard against hybrid attacks
+
+Download now
+Read our data governance report for more insight into how to best classify, 
+protect, and recover your data so you can ensure operational continuity.
+Take control of your data
+Resilience starts with intelligent choices
+To build continuity and cyber resilience, follow these steps to make sure your organization can defend itself: 
+What this means for your organization 
+•	
+Interdependencies across telecom, energy, infrastructure, and 
+cloud services increase systemic risk — and no provider can 
+guarantee 100% uptime.  
+•	
+Organizations must be prepared for both accidental incidents 
+and intentional attacks — the root cause matters less than the 
+ability to recover.  
+•	
+Exercises, scenario planning, and tabletop simulations expose 
+vulnerabilities before a real incident does and are your best 
+chance to train resilience. 
+•	
+Backup and recovery is the final safety net — losing data has 
+lasting consequences for your business and needs to be avoided 
+at all costs. 
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-independent 
+cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection. 
+For more information visit www.keepit.com or follow Keepit on Linkedin
+© 2025 Keepit. All rights reserved.
+Map your critical infrastructure and know your dependencies — this includes servers, key staff, key assets, 
+suppliers, and more. 
+Map the risks to your infrastructure and conduct scenario planning: If this scenario happens, then how can you 
+keep your business running?
+Classify data and understand where it lives — including SaaS applications outside IT’s direct control. 
+Establish a governance structure and data classification across your organization.
+Define priorities for data and systems so mission-critical services can be recovered first in the event of an attack.  
+Involve business stakeholders — governance cannot be left to IT alone, but must be a coordinated effort across 
+the business. 
+Test recovery plans and learn from controlled failure before it’s too late. Define your RPOs and exercise thoroughly 
+to be prepared in case of emergency.
+“Your battlefield is your 
+infrastructure, your critical 
+systems, your delivery, 
+your data. And the most 
+important thing here 
+is to exercise, learning 
+about your infrastructure, 
+learning how to recover in 
+different scenarios.”
+Kim Larsen 
+CISO, Keepit

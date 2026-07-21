@@ -1,0 +1,55 @@
+Source URL: https://www.keepit.com/services/
+Content type: Web page
+Last modified: 2026-07-15T00:01:24+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Are you curious about the new Microsoft 365 Backup Storage? Do you want early access and a chance to give feedback on Keepit Rapid Recovery for Microsoft 365?
+Data loss woes? Not on our watch. Get protected now
+We own the stack so we can offer the best, most complete end-to-end SaaS data protection service. Your data remains secure and available 24/7
+Securing your data is your responsibility. Get intelligent SaaS data protection today.
+Microsoft 365
+80% of the Fortune 500 use MS365, which is why Keepit offers one of the industry’s most robust backup and recovery solutions to keep business moving.
+Learn moreMicrosoft Entra ID
+Don’t get caught on day 31 when Entra ID’s 30-day backup responsibility expires. Keepit protects your data forever and offers quick recovery.
+Learn moreGoogle Workspace
+Google Workspace is all about productivity, so imagine the productivity crash when Workspace data is compromised, and Google’s limited backup isn’t enough. Imagine no more with Keepit.
+Learn moreSalesforce
+A data breach or accidentally deleting Salesforce data can lead to major business disruption. Keepit protects Salesforce, not to mention preventing those fines for GDPR non-compliance.
+Learn moreMicrosoft Azure DevOps
+Every day, MS Teams records critical and sensitive information, so losing it could create sizeable setbacks. Keepit protects calendars, panels, Team sites, and more.
+Learn moreMicrosoft Power Platform
+You rely on Power Platform to build, integrate, and manage technology solutions, so rely on Keepit to ensure those apps can be quickly restored.
+Learn moreMicrosoft Dynamics 365
+Losing Dynamics 365 data can dramatically impact sales, marketing, supply chain, and other key operations. Keepit offers peace of mind that this critical data is always available.
+Learn moreZendesk
+Managing customer interactions through Zendesk is the heartbeat of any organization. Keepit preserves that valuable customer data and interactions to keep business going.
+Learn moreJira and Confluence
+Automated backups and swift recovery in a vendor-independent platform for Confluence Cloud.
+Learn moreJira and Confluence
+Automated backups and swift recovery in a vendor-independent platform for Atlassian Jira.
+Learn moreJira Service Management
+Compliance, long-term retention and fast recovery for mission-critical service data.
+Learn moreDocusign
+Never lose a signed deal — keep contracts safe, recoverable, and compliant at all times .
+Learn moreAutodesk Forma
+Your projects always running with full compliance, long-term retention and continuous access to all your Forma data.
+Learn moreWe’re continually adding new services
+Product updatesPreview program
+Keepit Rapid Recovery for Microsoft 365
+Future proof your protection with the only fully cloud-based solution
+Our service is offered in true SaaS fashion: All your data needs are met in one solution. Your data stays secure and your business stays compliant, leaving your focus free for everything else.
+Disaster
+recovery
+Data loss
+prevention
+Improve IT
+efficiency
+Cybersecurity
+readiness
+Compliance
+standards
+Tour the Keepit solution
+Explore Keepit's industry-leading cloud backup solutions
+Our vendor independence, broad coverage of services, fast recovery times, and dedication to security make us #1 in SaaS data backup. Built for the cloud, with simplicity and data security at the core of our identity. Take an interactive tour today:

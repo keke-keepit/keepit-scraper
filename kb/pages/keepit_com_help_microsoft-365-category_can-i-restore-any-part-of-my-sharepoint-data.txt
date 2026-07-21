@@ -1,0 +1,32 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/can-i-restore-any-part-of-my-sharepoint-data/
+Content type: Web page
+Last modified: 2026-06-30T01:32:54+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Can I restore any part of my SharePoint data?
+You can restore most of your SharePoint data, including metadata and configuration settings. Keepit can't restore certain data if parent content or configurations — such as views and permissions — are missing from SharePoint. Without this context, Keepit has nowhere to restore the data, or SharePoint can't display it correctly.
+For this reason, restore data at the highest appropriate level so it's restored intact, together with the configuration and permissions that define how it's displayed and who has access.
+You can't restore user-related data, metadata, permissions, and assignments if the user has been deleted from Microsoft Entra ID.
+You can't restore a subsite or data from a subsite if the Subsite in SharePoint has a different ID — for example, if a subsite was deleted and recreated. The Subsite and its items are skipped.
+Specific Cases
+The following cases describe when items aren't restored or are restored with missing elements.
+Site content type
+Site Content Type can't be restored if the Site Column or parent Content Type isn't present in SharePoint.
+Group of people
+If you restore a Group of people, users deleted from the Microsoft 365 account aren't restored. All others are restored.
+User assignments
+User Assignments can't be restored if the required user role isn't present in SharePoint.
+List content type
+List Content Type can't be restored if the parent Content Type isn't present in the SharePoint site and the required List Column isn't present in the list. A custom List Content Type can't be restored if it's assigned to a folder — the data is restored as a default Folder content type instead.
+List item
+If the list content type of the list item isn't present in SharePoint, the item is restored with the default content type.
+If the list column of the list item isn't present in SharePoint, the item is restored without the column's properties.
+Note: List items can't be restored if List metadata columns contain symbols, special characters, or spaces in their names.
+List view
+If the List column of the list view isn't present in the list, the view is restored without the column.
+Item permission
+An item permission can't be restored if the site, subsite, permission level, group role, user role, list or document library, or list item or document Library file aren't present in SharePoint.
+List permission
+A list permission can't be restored if the permission level, group role, or user role isn't present in SharePoint.

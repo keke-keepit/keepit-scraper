@@ -1,0 +1,37 @@
+Source URL: https://www.keepit.com/blog/data-protection-day/
+Content type: Web page
+Last modified: 2025-08-20T00:30:47+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Protecting your data: Best practices for Data Protection Day
+Data Protection Day — also known as Data Privacy Day — is an annual event observed on January 28 to raise awareness about the importance of protecting data and data privacy (think NIS Directive, NIS2 Directive, and GDPR).
+It’s here to make data protection, such as SaaS data backup and recovery, top of mind—and for good reason.
+Businesses must take the necessary measures to not only ensure the continuity of their operations and to protect themselves from the potentially catastrophic outcomes of a data loss event like ransomware, but to also comply with the increasingly strict demands from legislation such as the NIS2 Directive and the GDPR.
+Why is data protection relevant?
+As businesses increasingly move operations to software-as-a-service (SaaS) applications to streamline their operations, add flexibility (such as enabling remote work), and reduce operational costs, huge amounts of business-critical cloud data are produced every day, and it becomes ever more important to assess and ensure a robust backup and recovery plan is in place.
+There is a widely shared assumption that data stored in a SaaS cloud is automatically backed up and secure since it’s in the cloud. However, that is not always the case as what is offered may not provide the protection necessary for business continuity, data restoration, or compliance: Read more about the M365 shared responsibility model.
+Cloud data concerns
+It should come as no surprise that working with cloud services can come with risks. Ransomware and disaster recovery are more and more frequently in the headlines and serve as cautionary tales. (Read our post about the disruptive power of ransomware attacks here.)
+The rapid adoption of SaaS applications has also come with new and increased instances of data loss and breaches—especially in cases where there is a lag between adoption of SaaS apps and adoption of the necessary data protection. Companies may be left vulnerable to costly disruptions, downtime, and devastating fines without an adequate data security plan in place to safeguard mission-critical cloud data.
+What needs to be backed up?
+Data protection not only involves “just” backing up cloud SaaS data, but it should also focus on ensuring control of and continuous access to it (and the right access for the correct users at that). As with Microsoft 365 and Azure AD (Active Directory), there is a data plane and a control plane – and both need to be protected.
+One way to achieve this is to adopt a solution that can not only protect the data plane but can also preserve and protect the control plane, e.g., the admin center. Coverage of identity and application objects businesses rely on to remain operational is vital. For those using Microsoft 365, it’s important to learn about why you also need Azure AD data protection: Find out why in our AAD blog here.
+How do businesses protect their data?
+The best way to mitigate the risks of SaaS is to implement a data protection and management plan. This can involve using cloud-based data backup and recovery solutions which allow businesses to store their data in an independent cloud and access it from anywhere, at any time.
+Data protection is especially important for businesses that rely on SaaS data for their operations, which is many, many businesses (Microsoft 365 alone has over 345 million users), as it can help ensure that data is always available, even if there is a disruption with the SaaS provider.
+While cloud services can (and do) provide many benefits for businesses, they also present their own set of risks. For example, there is a very real risk that data stored in the cloud could be accessed by unauthorized parties (read our blog about the Zero Trust Principle here), or that data could be lost due to any number of issues, from technical glitches and issues to human error. Therefore, it’s important for companies to follow cloud data protection best practices. Read about backup strategy here.
+Data risks and responsibility
+But why is backing up SaaS data so important? Because it allows companies to mitigate the effects of ransomware and other data loss events. Many SaaS providers (e.g., Google, Microsoft, Salesforce) have shared responsibility models that state you, the customer, are responsible for the data created and processed.
+Here are a few reasons why backup is vital:
+1. Data breaches can happen to anyone
+While no company is immune to data breaches, having a backup solution in place can help minimize (or even nullify) the impact of a breach, helping businesses get up and running again quickly.
+2. Data loss can be costly
+Losing data can lead to lost productivity and lost revenue within the company, and it can even result in substantial legal penalties. (Read our NIS2 post here.) According to the World Economic Forum, “historically severe fines for data loss are also helping change the cost-benefit assessment around investment in cybersecurity measures.” By implementing a backup solution, businesses can minimize the impact of data loss, avoid fines, and get back to business as usual faster, and more comprehensively, than without.
+3. The future is uncertain
+A bit cliché, but it’s impossible to predict the future and that includes the risks to your data. According to the ESG (Enterprise Strategy Group) ransomware e-Book, “79% of respondent organizations report having experienced a ransomware attack within the last year.” By implementing a backup solution now, businesses can protect themselves against potential risks down the road – which stand to only increase.
+Where to go from here?
+Data Protection Day reminds us that SaaS data (and the protection of it) is essential to many daily operations. Not only that, with the scope and penalties of NIS2 and GDPR, enterprises are obligated to ensure a dedicated data protection solution is in place.
+Researching a third-party backup solution like Keepit can simplify the complexity of the current SaaS data protection environment. Businesses can maintain control of their data always and protect themselves against data loss events and mitigate the impacts of breaches and ransomware – all while remaining compliant.
+Don’t wait until it’s too late — what better way to celebrate Data Protection Day than to start backing up your SaaS data. Continue your journey by exploring our free e-guide “Leading SaaS Data Security: Raising the Bar for Data Protection in the Cloud Era.”

@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/help/platform-category/what-are-partial-snapshots/
+Content type: Web page
+Last modified: 2026-06-23T21:03:31+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What is a partial snapshot?
+If you see a partial snapshot, rest assured that this is intended behavior and means that Keepit is backing up a large amount of data. Partial snapshots can appear during the initial backup or if a significant amount of data gets added to the backup dataset (for example, because of migration).
+Depending on the amount of data, it may take several days or even weeks to make a complete backup, i.e., to create a backup copy of every item on a tenant. And so every four hours during this process, Keepit takes a snapshot of what data has been backed up so far. Each partial snapshot is larger than the one before until it contains your complete dataset.
+Keepit displays these partial snapshots so you have immediate access to the data that has been backed up. You can use them to restore and import data, but you must remember that they may not contain all the data you want. You can check that the data you want is in the snapshot by browsing the data in the connector from that particular snapshot.
+Please also note that when Keepit is creating partial snapshots, files that are modified or added to the backup set may not be up-to-date or present when the initial backup completes. However, they will be backed up as soon as the next complete snapshot is made.
+How partial snapshots are marked
+Partial backups are clearly marked with a special icon so you know what type of snapshot you are browsing or recovering.
+In the Snapshots Viewer:

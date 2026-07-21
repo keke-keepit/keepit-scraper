@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/restore-power-automate-desktop-flows/
+Content type: Web page
+Last modified: 2026-07-04T00:40:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Power Automate desktop flows
+Keepit supports in-place restore for Power Automate desktop flows.
+Restore a Power Automate desktop flow
+1. Open your Power Platform / Dynamics 365 connector.
+2. Navigate to Power Automate > Desktop Flows.
+3. Point to a desktop flow and click the restore icon.
+4. Select the method of restore, and then select Next.
+- Restore only this item - This option restores only the selected item and no connected items.
+- Also restore related items - This option restores the selected item along with all connected items.
+Important: To ensure proper restoration of a desktop flow, we recommend restoring it with related items.
+5. Review the restore summary and click Restore.
+What happens to your data after you restore
+Power Automate desktop flows are restored in place to their original locations.
+IDs and timestamps
+- Modified items: If an item has been modified, it will be updated while retaining its original ID and timestamp.
+- Deleted items: If an item has been deleted, the restored item will receive a new ID, and the timestamp will reflect the time of the restore.
+Metafiles
+- Regardless of the selected restore method, the Job Monitor may show that more items were restored than initially selected. These extra items are metafiles necessary for the item’s proper functionality, though they are not visible in Power Automate.

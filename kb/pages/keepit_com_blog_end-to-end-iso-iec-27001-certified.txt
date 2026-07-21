@@ -1,0 +1,42 @@
+Source URL: https://www.keepit.com/blog/end-to-end-iso-iec-27001-certified/
+Content type: Web page
+Last modified: 2025-08-20T00:20:08+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit is now end-to-end ISO/IEC27001 certified
+With the most comprehensive IS0/IEC 27001:2013 certification possible, Keepit has taken pole position in the cloud backup and recovery space.
+Let me just say: I am very proud to be part of this team! For years, our security, engineering, and operations teams have been preparing for the assessment. And for the past six months, British Standards Institution has been auditing all parts of Keepit rigorously.
+In March, the audit was completed and Keepit achieved â¯ISO/IEC 27001:2013 certificationâ¯for information security management systems (ISMS). The certification is documentation that the entire organization has been audited and is certified: The services, the technology, business continuity, operations, disaster recovery, sales, and legal. And in all of our locations.
+That we have succeeded is due to very hard work by key people – our Head of Information Security Yuliana Tvardovska in particular, who has led the team through the audit.
+The certificate states that:
+“[Keepit] operates an Information Security Management system which complies with the requirements of the ISO/IEC 27001:2013 for the following scope:
+The ISMS scope includes development, operations, and maintenance of services that support the company’s business & B2B SaaS Backup Solutions System, in accordance with the ISMS Statement of Applicability V.20220120."
+The scope of what we have done is very ambitious: It is not standard to include the entire organization. Up until now – like many other vendors in our industry – only our data centers have been ISO27001 certified. With the breadth of this certificate, our customers can rest assured that all processes within our organization live up to the highest international security standards.
+Security is baked into our DNA
+In the assessment report, the auditors commend Keepit for demonstrating a seriousness in our approach to security - an observation that pleases me more than just about anything else: Baking security in to everything we do has been our credo from the very beginning.
+But frankly, we are often met with questions on whether something as simple to use as the Keepit solution is really and truly secure. So having our efforts recognized and validated is a milestone to us and a reassurance for our customers.
+This recognition reinforces our decision to keep our solution and service simple – a decision that is our answer to one of the big dilemmas of the IT security industry: How to strike the balance between effective security on the one hand and, on the other hand, ensuring the adoption of the measures required to uphold the necessary level of security to protect the business.
+We subscribe to the belief that simplicity and ease-of-use are a key factor in security: Technology only works when you use it, and you only use it when it is simple and intuitive.
+Now, that belief and our execution of it has the seal of approval of the most respected international information security standards.
+If you have any questions about the certification or anything else, you are more than welcome to get in touch with me or the team.
+Here's what was assessed in the audit:
+The ISO/IEC 27001:2013 framework includes 150 controls, and the audit requires us to document what we do - and if we don't, then why.
+The assessment report and certificate cover all of Keepit's locations.
+The assessment report findings include, but is not limited to:
+- Management, Leadership, and commitment, ISMS Policy
+- ISMS Planning - Context, Scope, Interested Parties
+- Resources, Communication, Documented Information
+- Performance Evaluation and Improvement, Internal Audit, Management Review, Non-Conformity and Corrective Actions
+- HR & Personnel Security
+- Asset Management
+- Risk Management: Risk assessment & Risk Treatment Statement of Applicability (SoA)
+- Physical & Environmental Security
+- Access control, Technical, Networks, Apps & OS (A9), Cryptographic Controls
+- IT Operations Security
+- System Development
+- Supplier Security Management
+- Security Incident Management
+- Business Continuity Management
+- Compliance with Legal & Regulatory Requirements

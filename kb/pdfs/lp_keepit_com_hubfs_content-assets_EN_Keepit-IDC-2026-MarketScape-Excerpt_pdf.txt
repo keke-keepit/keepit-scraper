@@ -1,0 +1,307 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-IDC-2026-MarketScape-Excerpt.pdf
+Content type: PDF document
+Title: IDC MarketScape: Worldwide SaaS Data Protection 2025–2026 Vendor Assessment
+Pages: 9
+Retrieved: 2026-07-21
+
+============================================================
+
+December 2025, IDC #US52971725e 
+IDC MarketScape 
+IDC MarketScape: Worldwide SaaS Data Protection  
+2025–2026 Vendor Assessment 
+Johnny Yu 
+Phil Goodwin 
+THIS EXCERPT FEATURES KEEPIT AS A LEADER 
+IDC MARKETSCAPE FIGURE 
+  
+FIGURE 1 
+IDC MarketScape Worldwide SaaS Data Protection Vendor Assessment 
+ 
+Source: IDC, 2025
+
+©2025 IDC 
+#US52971725e 
+2 
+ 
+See the Appendix for detailed methodology, market definition, and scoring criteria.  
+ABOUT THIS EXCERPT 
+The content for this excerpt was taken directly from IDC MarketScape: Worldwide SaaS 
+Data Protection 2025–2026 Vendor Assessment (Doc # US52971725).  
+IDC OPINION 
+SaaS data protection remains one of the biggest challenges in the data protection 
+market for vendors and buyers alike. 
+Data protection vendors have long been able to provide backup and recovery for any 
+application, running in any environment, on any storage. However, this breadth of 
+coverage does not extend to every SaaS application. SaaS data protection is a 
+subsection of the larger data protection market, and very few vendors are focused 
+solely on providing data protection for SaaS applications. They must balance 
+developing data protection capabilities with supporting the SaaS applications their 
+customers demand. 
+As a result, IT buyers face a market that can be described as top heavy. They can find 
+many third-party products that can protect the most popular SaaS applications, but far 
+fewer options for niche SaaS applications that aren't widely adopted or are industry 
+specific. Buyers are put in the uncomfortable position of balancing using multiple SaaS 
+data protection vendors, using the native data protection tools from the SaaS vendors 
+themselves, internally developing their own method and workflow for exporting SaaS 
+data for protection, or a combination of these to cover all their SaaS applications. 
+It is, therefore, unlikely that a single, perfect SaaS data protection solution that will 
+address every IT buyer's needs exists. However, by knowing what solutions are in the 
+market and what criteria to consider, buyers can narrow the search for the best SaaS 
+data protection solution for them. The purpose of this evaluation is to offer guidance to 
+that end. 
+This IDC MarketScape evaluates what we believe are the six most prominent SaaS data 
+protection vendors. It is designed to help readers differentiate between these vendors' 
+solutions and align their capabilities and features with their own organizational needs. 
+IDC MARKETSCAPE VENDOR INCLUSION CRITERIA 
+To narrow the list of participants to those we believe are most significant, we applied 
+the following inclusion criteria:
+
+©2025 IDC 
+#US52971725e 
+3 
+▪ The vendor offers a purpose-built solution for at least five SaaS applications.  
+▪ The vendor's solution will be considered in totality of "own IP" and "other IP" (i.e., 
+partnerships), provided that at least 80% of the vendor's core solution is 
+primarily "own IP."  
+▪ The vendor's solution must be available as standalone products (options for 
+inclusion as a bundle are acceptable). 
+▪ The solution must be available in at least two of the three major geographies 
+(NA, EMEA, APJ). 
+▪ The core solution must have been in general market availability on January 1, 
+2024, with all features under consideration in general availability as of May 31, 
+2025. Features released after that time are considered road map items. 
+Our goal was to facilitate a head-to-head assessment with enough latitude that each 
+vendor can illustrate its unique value and not box vendors into a one-size-fits-all 
+evaluation. 
+ADVICE FOR TECHNOLOGY BUYERS 
+IDC research found that for SaaS application data protection, most organizations use 
+native tools from SaaS vendors. These tools often have limitations or require an 
+additional license to unlock premium data protection capabilities. 
+The vendors in this analysis can, at the bare minimum, provide greater value than what 
+SaaS application vendors can natively supply, simply because they can protect multiple 
+SaaS applications on a single platform. They often go beyond data backup and recovery 
+and can provide long-term data retention, immutable data storage, ransomware 
+protection, security, and other capabilities. 
+SaaS data protection vendors differentiate themselves in several ways. Very often, 
+these involve trade-offs. Some key considerations are: 
+▪ Breadth of SaaS application coverage: Many organizations use multiple SaaS 
+applications. Since most data protection vendors cover the most popular 
+business applications, buyers may value vendors that support more niche SaaS 
+applications they are using. 
+▪ Depth of solution: Some vendors focus on specific capabilities to expand SaaS 
+data protection beyond just backup and recovery. These often include 
+compliance, cyber-resilience, and other capabilities. Buyers will need to consider 
+what they need and balance that with the solution's breadth of SaaS application 
+coverage.
+
+©2025 IDC 
+#US52971725e 
+4 
+▪ Data sovereignty: To remain compliant, buyers should pay attention to the data 
+residency options that the SaaS data protection solution provides. Buyers should 
+consider whether the solution is hosted in a public cloud, the vendor's private 
+datacenters, or if there are options for customers to host the backup data in 
+their own datacenters, especially if there are cross-region or cross-cloud failover 
+capabilities involved. 
+▪ Price: While price was not an evaluation criterion in this IDC MarketScape, it 
+certainly is an issue for every buyer. Solutions mentioned in this document will 
+vary by price, and it is up to buyers to find the balance between cost and solution 
+capabilities. 
+▪ SaaS application coverage road map: Many of the vendors in this evaluation 
+publicly disclose the specific SaaS applications they intend to support as road 
+map items, which can be helpful in choosing a solution. However, buyers should 
+also consider vendors' expansion strategies because they may affect how long it 
+will take for road map items to become generally available. 
+This IDC MarketScape is best used as a way to identify solution differentiation and 
+formulate a short list of vendor candidates for further consideration. 
+We believe every vendor in this evaluation could be the perfect solution in some 
+scenarios and less optimal in other scenarios. IT buyers are advised to use this 
+document to narrow the field and then apply their own due diligence and proof-of-
+concept prior to making any selection or purchase. 
+VENDOR SUMMARY PROFILE 
+This section briefly explains IDC's key observations resulting in a vendor's position in 
+the IDC MarketScape. While every vendor is evaluated against each of the criteria 
+outlined in the Appendix, the description here provides a summary of each vendor's 
+strengths and challenges. 
+Keepit 
+IDC has identified Keepit as a Leader in this 2025–2026 IDC MarketScape for worldwide 
+SaaS data protection vendor assessment. 
+Keepit, headquartered in Denmark and founded in 2007, is a pure-play provider 
+focused exclusively on backup and recovery for SaaS applications. Keepit delivers SaaS 
+data protection through a vendor-neutral, API-driven platform with independent cloud 
+infrastructure as its back end instead of a public cloud. The solution provides unified 
+backup and recovery across all supported SaaS applications, which include Microsoft
+
+©2025 IDC 
+#US52971725e 
+5 
+365, Salesforce, Google Workspace, Microsoft Dynamics 365, Azure DevOps, Power 
+Platform, and others. 
+Data sovereignty is one of Keepit's core value propositions. All customer backup data is 
+stored in independent, Keepit-owned datacenters located in multiple global regions, 
+ensuring retention, residency, and compliance. The private cloud infrastructure also 
+allows Keepit to offer unlimited data retention, predictable seat-based pricing, and no 
+volume-based or egress fees. 
+Key solution capabilities include cross-user and in-place restore, point-in-time 
+snapshots, fast indexing with smart search and preview, a unified multi-SaaS 
+management dashboard, anomaly detection, logical air-gapping, and multitenant 
+management capabilities and white-labeling options specifically designed for MSPs. The 
+platform also features proprietary object storage using blockchain-like (Merkle tree) 
+immutability. 
+Strengths 
+▪ Vendor-independent cloud infrastructure: Keepit stores its customers' backup 
+data in its own datacenters, which are located in Denmark, Switzerland, 
+Germany, the United Kingdom, the United States, Canada, and Australia. This 
+ensures sovereign data control without relying on public cloud providers. 
+▪ Blockchain-like immutability: All Keepit backups are stored in proprietary 
+object storage using blockchain-like (Merkle tree) immutability. Once written, 
+data cannot be overwritten, deleted, or modified until outside the customer's 
+retention policy. 
+▪ Direct data access: Backup data is stored outside the SaaS environment and 
+can be accessed during SaaS outages for business continuity and data survival. 
+Since it's stored on Keepit's cloud, there is no chance that data availability is 
+impacted by public cloud outages. 
+▪ Rapid onboarding for new SaaS applications: Keepit uses a proprietary 
+Domain-Specific Language for rapid integration of new SaaS applications and has 
+recently expanded coverage into Jira, Okta, Confluence, Docusign, and Miro. It 
+will support GitHub and Monday.com in the near future. 
+Challenges 
+▪ SaaS data protection only: Keepit doesn't cover on-premises, VM, or container 
+workloads, limiting its appeal to customers seeking all-in-one solutions. In 
+addition, as a specialized vendor, it will face challenges competing against large 
+enterprise backup vendors expanding into SaaS data protection. 
+▪ Limited customer-premises/offline backup option: All backups remain in 
+Keepit's dedicated cloud, which can be a dealbreaker for customers that are
+
+©2025 IDC 
+#US52971725e 
+6 
+mandated to keep backup copies in their own datacenters. Keepit allows 
+scheduled export via physical media in special agreements to help address this. 
+Consider Keepit When 
+Keepit is a suitable choice for businesses that want a focused SaaS data protection 
+vendor rather than a generalist backup provider encompassing multiple traditional IT 
+workloads. Buyers for whom regulatory compliance and data sovereignty are top 
+priorities or otherwise require backups to be on infrastructure outside major public 
+clouds will also find Keepit appealing. 
+APPENDIX 
+Reading an IDC MarketScape Graph 
+For the purposes of this analysis, IDC divided potential key measures for success into 
+two primary categories: capabilities and strategies.  
+Positioning on the y-axis reflects the vendor's current capabilities and menu of services, 
+and how well aligned the vendor is to customer needs. The capabilities category 
+focuses on the capabilities of the company and product today, here and now. Under 
+this category, IDC analysts will look at how well a vendor is building/delivering 
+capabilities that enable it to execute its chosen strategy in the market. 
+Positioning on the x-axis, or strategies axis, indicates how well the vendor's future 
+strategy aligns with what customers will require in three to five years. The strategies 
+category focuses on high-level decisions and underlying assumptions about offerings, 
+customer segments, and business and go-to-market plans for the next three to five 
+years. 
+The size of the individual vendor markers in the IDC MarketScape represents the 
+annual SaaS data protection revenue of each individual vendor being assessed. It 
+doesn't represent any other data protection revenue.  
+For this 2025–2026 IDC MarketScape for worldwide SaaS data protection, capabilities 
+were weighed more heavily than strategies to emphasize current market needs and the 
+vendors currently addressing them. 
+IDC MarketScape Methodology 
+IDC MarketScape criteria selection, weightings, and vendor scores represent well-
+researched IDC judgment about the market and specific vendors. IDC analysts tailor the 
+range of standard characteristics by which vendors are measured through structured 
+discussions, surveys, and interviews with market leaders, participants, and end users.
+
+©2025 IDC 
+#US52971725e 
+7 
+Market weightings are based on user interviews, buyer surveys, and the input of IDC 
+experts in each market. IDC analysts base individual vendor scores, and ultimately 
+vendor positions on the IDC MarketScape, on detailed surveys and interviews with the 
+vendors, publicly available information, and end-user experiences in an effort to 
+provide an accurate and consistent assessment of each vendor's characteristics, 
+behavior, and capability. 
+Market Definition 
+While it is not itself a separate market, SaaS data protection capabilities are a subset of 
+data protection software. Our definitions of pertinent market components follow: 
+▪ Data protection software: Data protection software is focused on the 
+protection, restoration, and recovery of data in the event of physical or logical 
+errors. Products within the data protection and recovery market include data 
+protection, continuous data protection (CDP), bare metal restore, 
+backup/recovery software, host-based replication, and array-based replication 
+(inclusive of snapshots, mirror/clones, and remote replication). Data protection 
+software includes revenue from licensed software and online data protection 
+services (aka online backup) licensed in a subscription fashion. This is inclusive of 
+file- and image-level backup software, CDP software, and backup reporting 
+software. 
+▪ Data protection as a service: DPaaS is an umbrella term that includes backup, 
+archive, disaster recovery, and cyber-recovery as a service. These are cloud-
+based services fully managed by the service provider. Most DPaaS solutions can 
+address on-premises, hybrid, and multicloud workloads. 
+▪ Disaster recovery and disaster recovery as a service (DRaaS): Disaster 
+recovery systems include all of the infrastructure, process management, and 
+services necessary to restart an entire workload either on premises or in a public 
+cloud environment. DRaaS differs from on-premises and traditional disaster 
+recovery in that DRaaS is a cloud-based, fully managed service. An organization 
+may declare a disaster response based on datacenter fires or broken water 
+pipes, power loss, and regional events such as train derailments, plane crashes, 
+or terror events, as well as earthquakes, floods, tornadoes, and hurricanes. 
+▪ Cyber-recovery and cyber-recovery as a service (CRaaS): Cyber-recovery 
+builds upon disaster recovery, and CRaaS builds upon DRaaS. Cyber-recovery in 
+both contexts includes all infrastructure, process management, 
+analytics/forensics, and professional services to assist organizations in 
+recovering from malware attacks in general and ransomware specifically. To 
+qualify as a CRaaS service, we believe it must include all of the components of 
+DRaaS (in other words, the ability to reestablish an application workload in its
+
+©2025 IDC 
+#US52971725e 
+8 
+entirety) plus provisioning for a sanitary sandbox, forensic analysis, and curated 
+recovery. Some vendors may go substantially beyond that with additional data 
+security functions for added value and differentiation. 
+LEARN MORE 
+Related Research 
+▪ Safeguarding SaaS Application Data with Third-Party Data Protection (IDC 
+#US53556925, June 2025) 
+▪ Organizations Lean on Native Capabilities to Protect SaaS Application Data (IDC 
+#US53152325, February 2025) 
+▪ Challenges and Opportunities in SaaS Application Data Protection (IDC 
+#US52785524, December 2024) 
+Synopsis 
+This IDC study is an evaluation of six prominent SaaS data protection vendors on a 
+worldwide basis and offers details on each vendor's capabilities and offerings. This 
+evaluation is intended to help IT buyers differentiate between SaaS data protection 
+solutions and narrow down candidates that fit their specific needs. 
+"With so many SaaS applications, it is often difficult for organizations to find a data 
+protection solution that offers both the breadth of SaaS application coverage to 
+support everything they use and the depth of capabilities to make it more valuable 
+than what native tools can do," said Johnny Yu, research manager, Infrastructure 
+Software Platform at IDC. "This IDC MarketScape is designed to help IT buyers find that 
+balance of breadth and depth and narrow down their choices of SaaS data protection 
+solutions to ones that best match their needs."
+
+ABOUT IDC 
+International Data Corporation (IDC) is the premier global provider of market intelligence, advisory 
+services, and events for the information technology, telecommunications, and consumer technology 
+markets. With more than 1,300 analysts worldwide, IDC offers global, regional, and local expertise on 
+technology, IT benchmarking and sourcing, and industry opportunities and trends in over 110 countries. 
+IDC's analysis and insight helps IT professionals, business executives, and the investment community to 
+make fact-based technology decisions and to achieve their key business objectives. Founded in 1964, IDC 
+is a wholly owned subsidiary of International Data Group (IDG, Inc.). 
+Global Headquarters 
+140 Kendrick Street 
+Building B 
+Needham, MA 02494 
+USA 
+508.872.8200 
+Twitter: @IDC 
+blogs.idc.com 
+www.idc.com 
+Copyright and Trademark Notice 
+This IDC research document was published as part of an IDC continuous intelligence service, providing 
+written research, analyst interactions, and web conference and conference event proceedings. Visit 
+www.idc.com to learn more about IDC subscription and consulting services. To view a list of IDC offices 
+worldwide, visit www.idc.com/about/worldwideoffices. Please contact IDC at customerservice@idc.com 
+for information on additional copies, web rights, or applying the price of this document toward the 
+purchase of an IDC service. 
+Copyright 2025 IDC. Reproduction is forbidden unless authorized. All rights reserved.

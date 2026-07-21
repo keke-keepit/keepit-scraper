@@ -1,0 +1,35 @@
+Source URL: https://www.keepit.com/press/survey-highlights-growing-concerns-over-saas-data-protection/
+Content type: Web page
+Last modified: 2024-10-10T15:15:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Survey highlights growing concerns over SaaS data protection amid regulatory complexities
+Executives express lack of confidence in protective measures and are unclear on where responsibilities for data protection lie
+Copenhagen, Denmark – October 10, 2024 – Keepit, the world’s only vendor-independent cloud-native data protection platform, today released results from a recent survey. As SaaS applications become critical components of modern business operations the survey, conducted by Gatepoint Research for Keepit, reveals a troubling gap in confidence among executives regarding the protection of their SaaS data. The “SaaS data protection confidence survey”, which gathered responses from 100 senior decision-makers across industries such as finance, healthcare, technology, and manufacturing, shows that while businesses increasingly rely on SaaS tools, many leaders are not fully confident in their ability to safeguard their data.
+The survey will be a key focus of an upcoming webinar titled “Protecting your SaaS data – pitfalls and challenges to overcome”, scheduled for October 17, 2024. This event will provide industry professionals with actionable insights on how to bolster their SaaS data protection strategies and ensure compliance with evolving global regulations.
+SaaS data protection confidence is low
+According to the survey, while 28% of respondents expressed high confidence in their data protection measures, a significant 31% reported moderate to severe lapses in their data protection. This lack of confidence is alarming as the use of SaaS applications continues to grow, with critical data stored in applications like Microsoft 365, Salesforce, and Power BI.
+“Moderate confidence in SaaS data protection is not enough in today’s threat landscape,” said Paul Robichaux, Senior Product Director of Keepit and Microsoft MVP. “Organizations must ensure their data recovery processes are robust and regularly tested. Otherwise, they risk discovering weaknesses too late, when a disaster has already struck and they’re trying to recover.”
+Compliance and data growth are major challenges
+The survey reveals that 50% of respondents cite increased compliance requirements as their top challenge, with growing data volumes and the complexities of managing SaaS data also ranking high. As global regulations like NIS2 and DORA become more stringent, organizations are under pressure to ensure their SaaS data is adequately protected and compliant with these evolving mandates.
+“In the financial industry, for example, DORA requires that backup environments be segregated from production environments to reduce risk. And we know that many organizations aren’t well-prepared to meet these requirements,” noted Robichaux. “The rising volume of data, combined with increasingly complex regulations, presents a significant challenge for many organizations.”
+Financial and reputational risks drive data protection priorities
+The survey also highlights the financial and reputational risks associated with data loss. 57% of respondents identified brand and reputation damage as the most significant business impact of data loss, followed closely by financial consequences and regulatory compliance violations.
+“Customer data is among the most valuable assets an organization holds,” said Robichaux. “Losing access to that data, whether through ransomware or accidental deletion, can have devastating financial and reputational consequences. Organizations need to take a proactive approach to ensure their SaaS data is protected.”
+The big SaaS data backup disconnect
+While 58% of respondents reported using Microsoft to back up their SaaS data, there is a disconnect between perception and reality. Many executives mistakenly believe their data is fully protected by native SaaS backup features. However, shared responsibility models mean that SaaS providers are not accountable for customers’ data backup, leaving a critical gap in protection.
+"Only 15% of respondents consider backing up directory and identity services like Entra ID to be crucial, even though losing access to these services could cripple business operations," Robichaux added. "This shows a need for better education around SaaS data protection."
+Budget and expertise are key roadblocks
+When asked about the roadblocks to improving their data protection strategies, 56% of respondents cited budget constraints, while 33% noted a lack of expertise and resources. Many organizations also face the challenge of managing multiple data backup vendors, further complicating their efforts.
+To help organizations navigate these challenges, Keepit will host a free webinar titled “Protecting Your SaaS Data – Pitfalls and Challenges to Overcome” on October 17, 2024, at 4:00 pm CEST. The webinar will delve deeper into the survey results and provide actionable insights into:
+- Managing compliance with evolving global regulations
+- Testing recovery procedures to ensure preparedness
+- Mitigating financial and reputational risks associated with data loss
+Attendees can also participate in a live Q&A session with industry experts and take a benchmark test to see how their organization stacks up.
+Register for the webinar here.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguardsâ¯essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, over ten thousand companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+ 
+For more information visitâ¯www.keepit.comâ¯or follow Keepit onâ¯Linkedin.

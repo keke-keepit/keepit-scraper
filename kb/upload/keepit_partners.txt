@@ -1,0 +1,444 @@
+KEEPIT KNOWLEDGE BASE — PARTNERS
+Generated: 2026-07-21
+Pages: 15
+============================================================
+
+Source URL: https://www.keepit.com/partners/
+Content type: Web page
+Last modified: 2025-08-31T21:42:45+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Our focus is on growing our business together, creating joint go-to-market strategies, and guaranteeing competitive margins.
+Therefore, the program benefits increase with greater commitment from you. Each program tier has its own revenue and training requirement, enabling you to keep progressing and growing.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/partners/managed-service-providers/
+Content type: Web page
+Last modified: 2025-12-17T00:04:58+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Our data centers run on our own hardware and are managed by Keepit, with new regions added regularly.
+SaaS protection built for MSPs
+Keepit enables MSPs to boost recurring revenue, eliminate billing surprises, and provide best in breed backup without added complexity.
+Unlimited growth. 
+One dashboard. Total control. 
+Keepit’s Partner Management Console empowers MSPs with a unified view of all customers, streamlining operations and management.
+Most comprehensive SaaS coverage
+Expand your services to protect M365, Entra ID, Google, Salesforce, Jira, Okta and more. Reduce complexity, respond faster, and deliver seamless protection across every client.
+Fast and secure SaaS backups
+Immutable by design, Keepit backups can’t be changed, deleted, or tampered with — ever. True immutability, ensuring data remains intact and recoverable no matter what.
+Predictable profitability for recurring revenue
+Flat pricing. Unlimited storage. Unlimited retention. Unlimited restores. Unlimited profit potential.
+Regional data sovereignty and support for MSPs
+Choose where customer data is stored, with direct access to every version, regional support, and no hyperscaler lock-in.
+Read IF Blueprint partner story
+We don’t see a need to offer our clients any other solution - nothing beats Keepit quite frankly.
+Read IT Relation partner story
+Keepit’s solution allows us to easily administer many customers, making our job easy all while ensuring a great customer journey.
+Read Quorum partner story
+Keepit's support offering truly exceeds the standard. Their support team really goes the extra miles and genuinely cares for our needs.
+Keepit gives you control
+USA
+Canada
+Australia
+UK
+Denmark
+Germany
+Switzerland
+Why MSPs trust Keepit
+Vendor-independent cloud 
+Immutable, sovereign backups. No hyperscaler lock-in.  
+Comprehensive SaaS coverage 
+Manage all critical SaaS applications - Microsoft 365, Entra ID, Google, Salesforce, OKTA and more.
+Fast recovery and search 
+Restore anything instantly with advanced federated search. 
+Predictable pricing 
+Flat per-seat pricing with unlimited storage and no surprise fees.
+Built for compliance 
+ISO-certified with GDPR and NIS2 support and full audit logs. 
+Powerful Architecture 
+Fully automated for modern cloud environments  
+Grow with an award-winning solution
+Grow revenue. Reduce risk.
+Become a Keepit MSP
+Keepit helps MSPs increase recurring revenue, eliminate billing surprises, and deliver best in breed backup without added complexity. Our independent cloud, flat pricing, and automation-first design free your teams to focus on growth — not manual backup tasks.
+Stronger margins, happier clients, and a platform you can trust.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/partners/partner-locator/
+Content type: Web page
+Last modified: 2026-07-16T21:38:47+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+4infra Consultoria em TI
+Belo Horizonte Minas Gerais BrazilCompany website: https://4infra.com.br/keepit
+ACP IT Solutions GmbH (Ãsterreich)
+Vienna AustriaCompany website: https://www.acp-gruppe.com/de-at/
+Alchemy Technology Group, LLC
+Houston Texas United StatesCompany website: https://www.alchemytechgroup.com
+Bechtle Suisse SA
+Petit-Lancy SwitzerlandCompany website: https://www.bechtle.com/de-en/about-bechtle/company/locations/bechtle-suisse-petit-lancy
+Bluefield Servicos de Assessoria
+Rio de Janeiro RJ BrazilCompany website: https://www.bluefieldservicos.com.br/governanca-de-dados-backup-saas-com-keepit
+Centre Technologies
+Houston, Texas United StatesCompany website: https://www.centretechnologies.com/
+Cloud Ready Solutions
+Sydney AustraliaCompany website: https://www.cloudreadysolutions.com.au/about-us
+First Distribution - South Africa (Partner)
+Century City SouthAfricaCompany website: www.firstdistribution.com
+Half Past Five Computer & Network Solutions
+Glyndon Minnesota United StatesCompany website: www.halfpastfive.com
+Ingram Micro Canada
+Mississauga Ontario CanadaCompany website: https://ca.ingrammicro.com/cep/app/home
+Intuitive Infrastructure Solutions
+Chesterfield United KingdomCompany website: https://www.intuitiveis.co.uk/partner/keepit/
+NTC Integration Pte Ltd
+Redhill Industrial Estate SingaporeCompany website: https://www.ntc.com.sg/
+ORBIT Gesellschaft fÃ¼r Applikations und Informationssysteme mbH
+Bonn GermanyCompany website: www.orbit.de
+P1 Technologies
+Los Angeles California United StatesCompany website: https://www.p1technologies.com/
+Shark Serve LTD (Israel) (Distributor)
+Petah Tikva IsraelCompany website: https://www.sharkserve.co.il/
+SOFTWARESULTEK TECNOLOGIA DA INFORMACAO LTDA
+Curitiba Parana BrazilCompany website: www.softwaresul.com.br
+Total-Information-Management TIM AG
+Wiener Neudorf AustriaCompany website: https://www.tim-vad.com/aut/
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/partners/partners-stories/
+Content type: Web page
+Last modified: 2025-01-12T21:32:55+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Read what our partners have to say
+Validated by partners from around the world, Keepit is your most trusted ally within cloud-to-cloud backup.
+Validated by partners from around the world, Keepit is your most trusted ally within cloud-to-cloud backup.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/partners/partners-stories/fellowmind/
+Content type: Web page
+Last modified: 2024-03-27T23:46:13+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Fellowmind recommends Keepit as an agile and flexible partner
+Important to Close the Holes in Office 365
+After many years as an IT Consultant, Jesper Johansen knows that whenever he is assisting customers in moving IT infrastructure, there are always some holes that occur. It is his job to cover these gaps with the right supplementary products, such as to ensure backup for Office 365.
+Mr. Johansen explains the importance of securing your Office 365 data with backup of emails and documents in case of a data loss scenario. He states that, “Today, everybody knows it’s a must to do backup. I think everyone is aware that backup is just as necessary as having a toilet in the office.”
+'Backup might not be sexy, but it’s necessary!'
+Fellowmind is working with some of the largest companies in Denmark. These customers lean on Fellowmind as a trusted advisor, giving the individual customer exactly the right recommendation. The consultancy process varies depending on the individual customer, but common to all of them is that NO customers tolerate losing important emails. Being able to recreate emails or other important data and documents is absolutely mandatory, and Mr. Johansen concludes, “Backup isn’t sexy. But backup is necessary!”
+Fellowmind chose Keepit as the Best Backup Solution
+Each time Fellowmind enters into a commitment to help a customer in a cloud transition, it becomes relevant to discuss backup with the customer. It goes without saying that whenever backup is needed of emails and documents moving to the cloud via Office 365, then the backup solution and setup is also most often transferred from an on-premise solution to the cloud. And this is exactly where Fellowmind has entered into a strong partnership with Keepit’s cloud backup services:
+We have chosen Keepit to help cover this important area of data security because we believe that Keepit is the best backup product on the Danish market.
+Jesper Johansen
+Director of Cloud,
+Infrastructure & Security at Fellowmind
+Prior to the partnership, Fellowmind had scanned the market and investigated a large number of backup vendors as part of the selection process before choosing Keepit. Mr. Johansen elaborates:
+“It is important to have the right references. This was one of the reasons for why we chose Keepit. Keepit has a number of strong and solid references who recommended Keepit during our selection process.”
+Mr. Johansen adds that for many of Fellowmind's big public customers, it is also important that Keepit's solution can store the data in Denmark.
+Customers Demand Plug-and-Play Backup
+“We see backup solutions that are very large and complex, where it takes a long time to get to the finishing line. But our customers are demanding something that is simple and fast, that does the backup work like that! Therefore, we were looking for a Plug-and-Play solution, and Keepit jumped high on our radar,” says Mr. Johansen.
+He explains that Keepit is quick and easy to set up, with a very clear user interface. A crucial factor, as nobody has the time to do a long and complicated implementation.
+Mr. Johansen emphasizes the importance of the backup solution offering a simple and easy search function, as well as fast data recovery. In his own words, Keepit is a quick and sleek backup solution that can do whatever it takes with regards to data backup, search, and recovery.
+Dynamic Collaborator
+The world is constantly changing, demanding flexibility and tight deadlines. Fellowmind recommends Keepit as an agile and flexible partner who can deliver within a very short deadline. Mr. Johansen tells a story from a situation where Fellowmind had to give a bid for a public framework agreement within hours:
+Keepit immediately set up a task force and a swat team. They just did what it took in a very short time! Providing customers with the best solutions is an important part of Fellowmind's DNA at all times. And that's why I see a close collaboration and important constellation with Keepit, helping us in offering the best solution to our customers.
+Jesper Johansen
+Director of Cloud,
+Infrastructure & Security at Fellowmind
+The way it works is that Fellowmind is driving the implementation through Keepit's partner portal. The more complex customers, who require more extensive solutions, are run in close cooperation between Fellowmind and Keepit.
+GDPR Requires Proper Backup
+GDPR's set of rules must be respected: in addition to the legal requirements, there are also penalties if companies are not compliant with data storage and access. Mr. Johansen believes there is a huge market for backup & recovery going forward for an innovative company like Keepit, who are constantly developing their services.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/partners/partners-stories/gtp-works/
+Content type: Web page
+Last modified: 2024-03-28T00:04:29+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+For GTP Works, Only Keepit Is Good Enough for Its Clients
+GTP Works provides a vast range of technology services to its clients throughout the UK and Greece. The company previously recommended an alternative backup solution to its clients but has now switched to Keepit, which it offers as part of a comprehensive Office 365 security package that covers any need imaginable, as well as a standalone product.
+The importance of proper backup
+Both GTP Works and Keepit believe in educating companies and organizations on the importance of a solid, secure backup of your cloud-based data. Mr. Venianakis references the case of a client who relied solely on Microsoft’s backup capabilities to restore lost Outlook data. It turned out they could only restore conversations sent within the past 20 days, which wasn Ìt nearly enough to cover their needs.
+24/7 Support
+Keepit offers tailored support solutions with service agents that speak your language and go the extra mile to make sure that any question gets answered promptly and correctly. According to Mr. Venianakis, Keepit provides a high level of support in a timely fashion.
+I’ve even had cases where I’ve started a support case in the middle of the night and it’s been addressed immediately. That is impressive.
+George Venianakis
+Managing Director, GTP Works
+Simple, fully transparent pricing – the way it should be
+As well as Keepit’s best-in-class SaaS backup solution, Mr Venianakis is also impressed with Keepit’s flexible and easy-to-grasp price plans.
+"Keepit’s price model is crystal clear – there are no hidden costs, which makes it easy for us to offer Keepit to our customers." George Venianakis, Managing Director, GTP Works.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/partners/partners-stories/if-blueprint/
+Content type: Web page
+Last modified: 2024-03-27T23:39:19+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+IF-Blueprint leverages partner Keepit to help their customers protect the backbone of their Microsoft 365 data: Azure AD
+IF-Blueprint is an IT service provider and Microsoft Partner offering a managed Microsoft 365 solution. As a trusted Keepit partner, IF-Blueprint guarantees that their customers are getting the best-in-class backup for their data when they use Keepit data protection.
+When it comes to their customers’ Microsoft 365 data, Head of Managed Services at IF-Blueprint Stefan Hefele shares why backup for Azure AD is imperative to securing consistent access.
+Azure AD: The backbone of Microsoft 365
+As an identity provider, Azure AD ensures that your users have password-protected access to their Microsoft 365 data.â¯Without this access, employees may lose access to data, bringing business to a halt.â¯IF-Blueprint shares that Keepit's Azure AD backup solution ensures that their customers never lose access to their Microsoft 365 data, allowing them to keep their businesses running even when passwords become lost or hacked.
+Without access to Azure AD, there’s no way to access the entire M365 environment.
+Stefan Hefele
+Head of Managed Services, IF-Blueprint
+Easy to delete, difficult to recover
+In Stefan’s experience, Azure AD data can be deleted more easily than in other Microsoft apps, making the need for backup even more pressing. While apps like Exchange and SharePoint have recycling bins, Azure AD does not — in many cases — offer this function, making it even more difficult to access your Microsoft data if Azure AD data is accidentally deleted. As a side note, while a recycling bin can function as a “quick fix” for accidentally deleting a single file in some apps, it is far from enough to protect your company’s data from a ransomware attack or larger scale data deletions.
+Once Azure AD data is deleted, it has much larger implications than just deleting a file. You may not even be able to login to your account — or even your computer, making it impossible to continue working as normal.
+If Azure AD becomes compromised, it has much larger implications than just deleting a file. You may not even be able to log in to your computer, making it impossible to work.
+Stefan Hefele
+Head of Managed Services, IF-Blueprint
+Avoid recovery headaches
+Without backup for Azure AD, it can take hours just to reset one PC — and days to reset all the PCs in an organization — after a cyberattack. This reset could include creating a new Azure AD environment and potentially rescripting everything. In short, it’s a lot of work. IF-Blueprint recommends Keepit for Azure AD for this reason; when your Azure AD data is backed up with Keepit, you’ll never, ever lose access to your Microsoft 365 data.
+If a single machine gets corrupted, it can take up to 4 hours to reset the whole machine (without automations in place). Imagine translating this downtime to hundreds or thousands of machines across an entire organization.
+Stefan Hefele
+Head of Managed Services, IF-Blueprint
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/partners/partners-stories/inycom-strengthens-clients-backup-and-recovery/
+Content type: Web page
+Last modified: 2026-04-23T15:56:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Inycom strengthens clientsâ backup and recovery capabilities with Keepit partnership
+With ransomware threats at an all-time high, Inycom affirms that partnering with Keepit strengthens their ability to protect themselves and customers from potential cyber threats.
+Partners since 2019, Inycom has recently strengthened its alliance with Keepit by achieving Keepit’s Elite Partner Certification.
+Together, Inycom and Keepit protect over tens of thousands of users globally and continue to join forces in delivering next level SaaS data protection to even more companies worldwide.
+A brighter future for Inycom’s clients’ data retention
+Delivering clients with the Keepit solution means that Inycom customers can safeguard vital data in multiple locations – by storing data redundantly in two or more hosting centers. The solution offers unlimited data retention, integrates seamlessly with all Office programs, and allows quick and easy data restores. Clients can trust that their data is safe – and even in the event of a ransomware attack, they’ll quickly and easily be able to restore data and keep business operations running.
+Direct integration with Microsoft
+The Keepit solution is directly integrated with Microsoft 365, meaning that clients can automatically back up data without system disruptions. One example of the importance of such an integration is during the “Cerber” ransomware attacks of 2016, where companies experienced the importance of a robust backup and recovery solution during a cyberattack.
+One of the aspects where Keepit excels is its direct integration with Microsoft 365. This allows for automatic backups without consuming system resources or disrupting users.
+Ignacio Hernando,
+Infrastructure and Applications Consultant at Inycom
+Optimizes and protects client infrastructure
+Not only does Keepit offer an unparalleled level of data security to Inycom’s clients, the solution ensures that companies save time and resources due to minimizing downtime in the event of data loss – not to mention the time saved due to the ease of working with the Keepit interface. Such a streamlined data recovery process ensures business continuity and supports compliance standards.
+Providing clients with secure backup and recovery
+Partnering with Keepit allows Inycom to deliver secure SaaS data protection solutions to their clients. The Keepit solution provides independent cloud backup, allowing quick and easy restoration of deleted or modified data. Effectively, this certified security means that clients are fully protected against data loss, whether it’s from human error, cyberattacks, or malicious deletion.
+Our partnership with Keepit boosts our ability to increase and improve our technological capabilities in the field of SaaS data protection and positions us in an unbeatable position for the coming years.
+Ignacio Hernando,
+Infrastructure and Applications Consultant at Inycom
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/partners/partners-stories/it-relation/
+Content type: Web page
+Last modified: 2024-03-27T23:52:08+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+10-Year Partnership: Adapting to the Market Together
+"It’s really easy to collaborate with Keepit. We’ve created a strong partnership built on trust that has surpassed 10 years." Anders Kaad, CTO of IT Relation
+Serving Customers’ Cloud Data Needs
+According to IT Relation CTO Anders Kaag, it is key to choose partners who are constantly evolving and adapting to the market. The partnership with Keepit began with the monitoring software Sysorb and is to this day, the best solution to remain competitive in the changing market is Keepit.
+Partnering with Keepit means always being at the forefront of cloud SaaS data protection
+Anders Kaag
+CTO of IT Relation
+Highest Level of Data Security
+"When Microsoft releases a new feature or service, we ensure that every customer has the most secure and complete third-party backup for their M365 data. Keepit has enabled us to provide this" .Anders Kaag CTO of IT Relation
+Keepit provides the highest level of security. Data immutability, along with the wide range of global data center regions ,is key for customers of IT Relation. User data is always safe and available under any circumstances, complying with EU regulations, including GDPR.
+"It’s important for us that our customers feel safe, and Keepit provides us with a worry-free backup and recovery solution." Anders Kaag CTO of IT Relation.
+Easy to Use = Easy to Sell
+Another great benefit for IT Relation is that the Keepit solution is easy to install and even easier to manage–regardless of the number of users. The onboarding of new customers is a straightforward process, with little to no waiting time for both IT Relation and their customers: Everything is done through the Keepit platform. Keepit’s fast and easy recovery, intuitive features, and user-friendly interface make it remarkably easy to sell.
+A Strategic Partner for IT Relation
+Keepit’s SaaS backup services are a key addition to IT Relation’s portfolio, which are not only promoted to new customers but also have proven to be a great cross-selling asset to IT Relation’s existing Microsoft 365customers.
+"Keepit’s solution allows us to easily administer many customers, making our job easy all while ensuring a great customer journey." Anders Kaag CTO of IT Relation
+IT Relation supports over 75,000+ users across 55 countries, IT Relation is one of Denmark’s largest IT outsourcing companies providing the best IT solutions to support their customers’ growth potential.IT Relation provides digitalization, outsourcing, IT security, 24/7 support and other premium services to their global customer base.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/partners/partners-stories/quorum/
+Content type: Web page
+Last modified: 2024-03-27T23:39:39+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why Austrian IT Security Specialist Quorum is Both a Keepit Partner and Customer
+As one of the country’s leading IT security specialists, Quorum ensures businesses throughout Austria meet complex data security and availability requirements. The decision to offer Keepit as part of their portfolio was a given. After all, Quorum themselves use Keepit to protect their business-critical data.
+As both a Keepit customer and partner,
+we are the ultimate proof of concept.
+Alexander Paral
+Managing Director, Quorum
+A Strong, Straightforward Partnership
+For Mr. Paral, it’s vital that Quorum maintains competitive margins in its go-to-market strategy. Keepit’s partner-oriented program and collaborative approach help it do just that, while also ensuring Quorum’s customers are secure and compliant.
+The Best Support in the Business
+According to Mr. Paral, offering competent support in a timely fashion shouldn’t be a key differentiator in the industry, but it does set Keepit apart. Keepit teams take pride in offering truly best-in-class support to customers.
+Partnering directly with Keepit rather than through Veritas greatly improved our customer offering. It’s much easier to deal directly with Keepit –we get a fair price, competitive margins and an easy-to-use partner-friendly platform.
+Alexander Paral
+Managing Director, Quorum
+Trust Us, We Trust Keepit
+Quorum trusts Keepit’s cloud backup offering to protect its own business-critical data – the ultimate proof of concept. Mr. Paral explains that as Keepit customer, Quorum staff can easily showcase Keepit’s ease of use and benefits to their customer base:
+"With Keepit in our portfolio, we provide solid, reliable SaaS data protection to large enterprises and SMBs in Austria." Alexander Paral, Managing Director, Quorum.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/partners/partners-stories/sep/
+Content type: Web page
+Last modified: 2024-03-27T23:35:01+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+German Backup Specialist SEP Partners with Keepit to Provide Highest Level of Data Security
+SEP, one of Germany’s most prominent backup providers, provides enterprise companies with backup and disaster recovery solutions and services. In partnering with Keepit, SEP can provide their customers with a trusted platform to protect and manage SaaS cloud applications like Microsoft 365.
+With the SEP Cloud Application Protection Service powered by Keepit, we can now offer backup for cloud applications like Microsoft 365, Dynamics 365, Salesforce, and Google Workspace to our clients, which is a huge benefit.
+Susanne Moosreiner
+Administration Director at SEP
+It Simply Works!
+According to SEP Administration Director Susanne Moosreiner, Keepit provides a complete cloud-based solution that is easy to set up, easy to use, and ensures GDPR compliance. While other vendors require additional storage and retention fees, Keepit allows SEP to offer an all-inclusive seat pricing to their clients.
+GDPR Compliance & Data Sovereignty
+Compliance and data protection regulations are of the utmost importance for SEP and their clients. As a German and European vendor, SEP is required to comply to GDPR regulations and ensure that all client data is stored within the EU. As data remains within Europe/Germany, SEP can guarantee full control, ensuring data sovereignty.
+"It is key for us and our clients that Keepit has data centers in Europe and is compliant with GDPR regulations." Susanne MoosreinerAdministration Director at SEP
+Localized Support for the German Market
+By partnering with Keepit, SEP has chosen to handle everything from sales to implementation and support of the cloud backup solution, which is especially important in the German market.
+"We face our customers throughout the whole sales and onboarding process, offering a localized experience to companies in the DACH-region". Susanne MoosreinerAdministration Director at SEP.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/partners/partners-stories/serviceware/
+Content type: Web page
+Last modified: 2024-03-27T23:37:47+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+A strong partnership in the service of corporate business continuity
+Backup and recovery specialist Keepit and renowned enterprise service manager Serviceware successfully deliver data protection solutions to German businesses.
+Behind every successful IT company is a great product. But even the best product stands and falls with the quality of its sales and customer service.
+Only those who know the needs and problems of their customers can provide them with the best advice and offer the best solutions to address their individual challenges.
+In the realm of sales, the customer’s needs come first. The more aligned a company’s sales strategy is with its customers’ needs, the better the sales results are likely to be.
+For this reason, large IT companies and IT service specialists must maintain a balanced product and service portfolio that includes the right solution for every customer request.
+There are, however, fundamental requirements, like business continuity management, that all companies have to address, since reliable backup is a key element in this area.
+As an important part of our data management concepts, Keepit fits perfectly into our managed backup service. The simple implementation, usability and reliability of the solution are unparalleled in the market.
+Lars Linden,
+Sales Director of Serviceware Infrastructure, Data Management, Cybersecurity and Digital Experience
+How Keepit and Serviceware identified their synergies
+It was a mutual acquaintance - in the form of a Keepit OEM technology partner - that brought Keepit and Serviceware together in 2021. After initial discussions, it quickly became clear to both sides that a great deal of potential could be drawn from their shared strengths.
+When Keepit considered Serviceware as a potential partner, it was the large customer base - over 1,400 customers in the DACH region alone - as well as the proven expertise in business continuity management that convinced Keepit. As the market leader in enterprise service management with over 500 employees at 14 international locations, Serviceware met all the criteria for an optimal partnership.
+The concentrated manpower in combination with a high degree of technical understanding made the company particularly attractive to Keepit. Additionally, the Danish backup specialist pursues a partner-first channel strategy and therefore places great value on close and trusting partnerships.
+Keepit: a perfect fit for Serviceware’s portfolio
+Keepit’s great strength is its outstanding backup solution. Lars Linden, Sales Director of Serviceware Infrastructure, Data Management, Cybersecurity and Digital Experience explains his decision for partnering with Keepit as follows: “As an important part of our data management concepts, Keepit fits perfectly into our managed backup service. The simple implementation, usability and reliability of the solution are unparalleled in the market.”
+The fact that Keepit is an EU company with its own infrastructure (and is not using any data sub processors globally) is a further selling point. Customers can therefore be sure that all their compliance requirements are fully met and that their data remains within the territory of the EU at all times. This ensures compliance with all key European data protection requirements – both those inside and outside of “the box.”
+A broad coverage of all relevant cloud SaaS applications gives Keepit’s qualities the final touch. No other provider can boast such extensive compatibility with most Microsoft workloads. Thus, the Danish backup solution fits perfectly into Serviceware’s selected product portfolio.
+Business continuity management and cloud migration
+Many companies only realize the enormous importance of BCM when they fall victim to a cyberattack. In the worst-case scenario, they are then left without access to their critical IT systems and structures from one moment to the next.
+In such a precarious situation, having a functioning plan up your sleeve for continuing or restoring business operations is worth its weight in gold – especially since the NIS2 directive has become mandatory for many companies based in the EU.
+Such an emergency plan not only helps to take the right steps promptly in this - often chaotic – moment; in fact, in some cases of hardship, it even decides on the further existence of the company.
+Unfortunately, customers still underestimate the risk of losing data within a SaaS application and neglect their responsibility as owners of the data.
+“Many companies are not aware that the responsibility for their data in the cloud lies with themselves. Those responsible for security rely completely on the cloud provider - a fatal error,” says Michael Heuer, VP Central Europe (DACH) at Keepit, and adds: “After a migration of company data to the cloud, you often have even less control than before.”
+Therefore, the essential, expert advice of the Serviceware consultants makes the decisive difference for the joint customers - and often saves them from the existential risks of a cyberattack.
+Many companies are not aware that the responsibility for their data in the cloud lies with themselves. Those responsible for security rely completely on the cloud provider - a fatal error, (...) After a migration of company data to the cloud, you often have even less control than before.
+Michael Heuer,
+VP Central Europe (DACH) at Keepit
+The right chemistry
+Since the start of the partnership, both companies have been in close contact with each other and have been developing individualized solutions for their diverse client portfolio.
+The dedicated product managers are in regular contact with each other and thus ensure that the required know-how is available to all parties involved and that customers can be optimally advised. In joint webinars, relevant product innovations are communicated, and specialist personnel are trained in detail regarding the installation, use and maintenance of Keepit’s backup systems. Personal contact is guaranteed by the regular presence of Keepit employees at Serviceware’s headquarters.
+Shaping the future together
+The two specialists have taken the opportunity of being a part of this trusting cooperation to look to the future together. One particular project of note involves combining the ITSM product interfaces from the Serviceware portfolio with Keepit’s backup solution. This should enable customers to hand over their data recovery requirements even more easily via the user helpdesk service portal.
+Joint, industry-specific campaigns and approaches are also planned to tap into new market segments. With these words, Keepit’s Michael Heuer sums up the fruitful cooperation and looks forward to a promising future with Serviceware.
+We are very satisfied with the professional and goal-oriented cooperation with Serviceware. Our joint customers benefit from the strong synergies and can continue to rely on the highest quality of service and data security in the future.
+Michael Heuer,
+VP Central Europe (DACH) at Keepit
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/partners/partners-stories/upheads/
+Content type: Web page
+Last modified: 2024-03-27T23:59:21+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Upheads Chooses Keepit for Their Partner-Driven Strategy
+World-Class Addition to Upheads’ Portfolio
+Upheads previously relied on an on-premises backup solution, which according to Upheads CTO Henning Malmin, was both cumbersome and expensive – and not scalable in any way.
+The hardware’s limited lifetime meant recurring maintenance and licensing costs; moving data from one storage to another was not flexible. Altogether, this was the reasoning behind why Upheads looked towards Keepit.
+With Keepit, supporting our global clients
+has become an easy task.
+Henning Malmin
+CTO of Upheads
+With Keepit’s cloud SaaS backup for Microsoft 365, Upheads can provide their customers with the best solution on the market. Increased security and unlimited data retention, along with easy and fast data restore, are just a few of the benefits Upheads’ global customer base can now enjoy with Keepit.
+Security Bundle Works!
+Upheads sells Keepit’s backup and recovery service as part of their Security Employee Bundle, which includes Microsoft 365, secure backup and storage, service desk, antivirus, and additional services, making it a very attractive offering for their clients.
+Adding Keepit—including the unlimited data retention offering—to the Security Employee Bundle is the biggest added value for Upheads, and they offer it to all existing and new customers.
+Our clients pay one single fee for this service bundle, allowing them to focus on their business instead of cumbersome admin tasks.
+Henning Malmin
+CTO of Upheads
+Looking Ahead: One Partnership to Cover All SaaS Cloud Solutions
+Although Upheads is a Microsoft-driven company, they are seeing an increasing interest for consultancy services that cover additional SaaS applications, like Google Workspace. Since Keepit provides data protection of all major SaaS applications, including Salesforce, Dynamics 365, and more importantly Google Workspace, this creates new possibilities for Upheads by ensuring their security bundle meets market needs at all times.
+Upheads is one of Norway’s largest IT consulting company delivering managed IT services to small and medium businesses. With 20+ years of IT experience, Upheads provides attentive and world-class services to over 2000 customers worldwide all while remaining on the frontline when it comes to local legislation and security requirements.
+We don’t compete with Keepit, we succeed together. An equal partnership was the goal from the very beginning.
+Henning Malmin
+CTO of Upheads
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/partners/saas-invitational/
+Content type: Web page
+Last modified: 2024-12-07T00:13:14+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Kick Off with the Keepit SaaS Invitational
+The Keepit SaaS Invitational is an exclusive, high-stakes competition for select Keepit partners that combines elements of fantasy football and sales. This is an opportunity for both sales and technical pros to show your best on the field.
+Participants earn points by successfully advancing deals through the sales funnel, making strategic timing and deal progression essential. The first four representatives who reach 125 points will advance to the Playoffs, where even bigger prizes are at stake. The first team to accumulate 1,000 points by January 17 will win a Big Game Party. The grand prize will be awarded to the representative with the most registered revenue by March 31, 2025.
+Get ready to compete, earn rewards, and elevate your performance with Keepit!
+Register your points
+* Keepit will validate points submissions. Any false points claims will result in disqualification.
+Tiers and prizes
+$1/point
+Every Point you earn gets you $1 in an Amazon gift card
+Tier 1
+Earn your first 30 points and claim your Tier 1 prize
+Tier 2
+Show your offensive prowess and hit 75 points to claim your Tier 2 prize
+Tier 3
+Run up the score to 100 points and claim prizes from all tiers
+Playoff qualifier
+Advance to the playoffs by being one of the first 4 people to earn 125 points
+Big game party
+Earn 1000 points as a team before Jan 17 and win a huge party for the big game
+Grand prize
+The partner rep with the most deal registered pipeline by March 31, 2025 will receive the grand prize.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/partners/value-added-resellers/
+Content type: Web page
+Last modified: 2025-08-31T21:58:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Your customers are facing more and more complex security and compliance requirements.
+Expand your software and digital services portfolio to include next-level SaaS data protection and not only increase recurring revenue and margins, but also strengthen your market position as trusted advisor.
+Keepit is not like other SaaS data backup and recovery providers: Our platform is purpose-built to ensure business continuity, instant data recovery, leading security, cost effectiveness, and outstanding simplicity.
+
+------------------------------------------------------------

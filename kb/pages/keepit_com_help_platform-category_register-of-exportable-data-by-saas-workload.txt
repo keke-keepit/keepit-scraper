@@ -1,0 +1,12 @@
+Source URL: https://www.keepit.com/help/platform-category/register-of-exportable-data-by-saas-workload/
+Content type: Web page
+Last modified: 2026-04-30T15:09:52+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Register of exportable data by SaaS workload
+Keepit supports multiple SaaS workloads with exportable data primarily in open, standard formats to ensure interoperability and compliance.
+This document details data structures, formats, relevant standards, and specifications based on Keepit's documented backup and export capabilities across key workloads.
+In addition, the document details any data items that cannot be downloaded from the backup.
+Download the document here.

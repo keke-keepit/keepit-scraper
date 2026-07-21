@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/salesforce-demo/
+Content type: Web page
+Last modified: 2026-04-22T10:25:16+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Having everything backed up in one place just makes sense.â¯ As ourâ¯techâ¯stack grows, we know Keepit can grow with us.
+Discover how simple it is to protect your Salesforce data with Keepit.
+Independent cloud storage, flexible restore options, top notch security.
+- Learn how to protect your Salesforce data
+- Explore how easy it is to connect and restore
+- Get pricing information
+Book a demo with Keepit
+Read the case study
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Read the case study
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.

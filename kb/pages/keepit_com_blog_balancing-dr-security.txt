@@ -1,0 +1,31 @@
+Source URL: https://www.keepit.com/blog/balancing-dr-security/
+Content type: Web page
+Last modified: 2025-09-18T09:26:29+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Balancing disaster recovery, backup systems, and security
+Cyberattacks are no longer just an IT issue — they’re a business survival issue, and so without a tested, resilient backup strategy in place, a ransomware attack or cloud outage can bring operations to a standstill.
+In the past, backup was just something someone took care of, and testing wasn’t done that often. But with the cyberthreats and regulations of today, backup needs to be more agile and at the heart of cyber resilience strategies.
+Organizations must balance disaster recovery (DR), backup systems, and security to ensure resilience against ransomware, data breaches, and operational disruptions.
+Backup as the cornerstone of security
+In many cases, you don’t immediately know when an infection started, because some attackers deliberately wait for an organization to activate backups to strike deeper into the system. This makes it very difficult to find a clean backup — the last known-good state.
+That’s a tough challenge, which is why having historical backup data — and ensuring it’s quickly accessible, especially with hot storage — significantly improves the chances of a fast, complete recovery, minimizing downtime and financial loss.
+Having a backup that goes way back in order to get to that safe state helps to solve incidents. Often, incidents require deep analysis and cooperation with government and other entities to determine where/when you should roll back to.
+Cyber insurance providers recognize that a robust backup and recovery strategy is vital, which is why it’s a key insurability criterion. To qualify for coverage, organizations need immutable backups, regular testing, and vendor-independent storage in place as part of their business continuity plan to ensure real recoverability under real-world conditions.
+Comprehensive cybersecurity: From users to cloud providers
+Of course, it’s not only about backup; it starts with having a complete cybersecurity plan that covers everything from the user to backup systems and to partners in the cloud. Organizations must look at all the steps to protect themselves.
+For example, phishing is one of the most common attack methods used by bad actors. Phishing relies on tricking users into clicking a bait link or login, which, once interacted with, compromises the user’s system in various ways. Phishing attacks can lead to immediate execution of malicious code, harvesting of user-entered credentials, network compromise, and other impacts.
+Phishing attackers often escalate privileges and move laterally. This is why organizations must adopt a zero-trust approach — one where they always verify, never trust. No company has a full overview of all access and processes at all times.
+AI can help with visibility and control, but attackers also have access to AI, so it’s a continuous challenge. Offshoring, outsourcing, and cloud storage make control even more important — organizations must know where their data is (data sovereignty), who has access, and have more than one backup copy stored in a vendor-independent method, outside of the production data’s infrastructure.
+The cyber resilience mirage of single-cloud backups
+It’s risky to rely on the same cloud provider for both production data and backup data. If that provider experiences an outage, a cyberattack, or a policy change, organizations may lose access to their data — or even lose their data — because of the single point of failure.
+Part of cyber resilience means maintaining control over backups. This is done by storing backup copies in a vendor-independent cloud within the organization’s region and under its own governance. This isn’t just about choosing a backup provider, it’s about ensuring real recoverability and long-term security and compliance with current and future regulations. From my experience, it’s clear that organizations that control their own backups are better prepared for the unexpected.
+Backup as a board-level discussion
+Backup has historically been in the hands of system engineers, but it needs to be a discussion at the C-level. The key question is: If you don’t have access to Microsoft 365, what do you do? This is a risk management issue.
+Organizations need to move from just checking if backups exist to asking what happens if everything is gone — what’s the recovery plan? Cybersecurity strategies must integrate protection, access control, and recovery as cornerstones of business continuity.
+Conclusion
+Balancing disaster recovery, backup, and security is critical. The discussion must shift from compliance checkboxes to real operational readiness. Backup should be treated as a security asset, regularly tested, and protected.
+Organizations need to take control of their backup strategies, ensuring they have the ability to recover under catastrophic circumstances. Involving leadership, ensuring geographic redundancy, and integrating backup into cybersecurity strategies will enhance resilience.
+The organizations that prioritize backup and disaster recovery as part of their overall security posture will be best positioned to withstand cyberthreats and maintain business continuity, as well as being better equipped to meet current and future directives and regulations like NIS2 and DORA.

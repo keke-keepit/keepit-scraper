@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/help/pmc/managing-messages-received-by-your-customers/
+Content type: Web page
+Last modified: 2025-03-11T17:10:51+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Managing messages received by your customers
+Control which messages your customers receive about their accounts. Messages will be sent to their Keepit platform inbox and to their email.
+1. In the lower-left corner, select the account profile > Account info.
+2. Go to the Messages tab > Messages configuration.
+3. Enable Receive messages about customer accounts.
+4. Point to the message name and click the gear icon.
+5. Turn off/on Send message to the customer.
+Note: Messages will only be sent if a language is specified and the message is enabled. Languages cannot be configured directly from the platform. Please reach out to support for assistance with language settings.

@@ -1,0 +1,31 @@
+Source URL: https://www.keepit.com/press/keepit-raises-30-million/
+Content type: Web page
+Last modified: 2025-08-20T00:05:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit raises $30 million to conquer the global Backup-as-a-Service market in the single largest Series-A SaaS investment in the Nordics
+The Danish Backup-as-a-Service provider Keepit raises $30 million from growth investor One Peak to position Keepit as the category leader in a $12 billion underserved market.
+Keepit, one of the leaders within cloud-based Backup-as-a-Service solutions and an innovative challenger to the traditional backup providers, lands $30 million from growth investor One Peak, with the goal of increasing momentum both in Europe and the US. The round is the single largest SaaS investment in a bootstrapped company in the Nordics, according to Crunchbase.
+Keepit is a Backup-as-a-Service provider, specializing in protecting data from SaaS solutions such as Microsoft 365, Salesforce, Dynamics 365, and G Suite. This is a massive greenfield market worth $12 billion per year which is expected to continue growing at a 30% CAGR over the next five years.
+"We are incredibly excited to back Keepit and its founders as we share their view that there is a huge global opportunity in data protection and recovery, driven by the accelerating move to the cloud. Keepit has a unique technology stack, a strong infrastructure footprint, and is led by two world-class repeat entrepreneurs – Morten and Frederik – who have multiple successful exits on their CV and a proven ability to execute."
+David Klein
+Managing Partner at One Peak.
+“We are thrilled to partner with the One Peak team. The cloud backup market is a market with a few, but large, global players, and we need to build awareness and trust for our future customers, which is now possible with the support of One Peak,” says Frederik Schouboe, CEO and Co-founder of Keepit.
+Doubling the headcount
+With the investment from One Peak, Keepit expects to double the numbers of employees in its offices in Copenhagen, Denmark and Lviv, Ukraine, as well as their satellite offices around the world, including the US, with the goal of spreading awareness of Keepit’s solutions globally.
+As the market for cloud solutions continues to grow, so does the necessity for cloud-based data protection and backup solutions. The larger cloud providers offer uptime and data protection against intruders but do not offer a built-in backup solution of the SaaS data, should anything happen to it. This is often not known by companies with data in the cloud until it is too late.
+This makes Backup-as-a-Service a massive market as every end customer utilizing a cloud solution needs third-party backup. Creating backup of cloud data can be a tedious task, but Keepit provides a fast, reliable, and easy-to-use solution for its customers with its Backup-as-a-Service software.
+"We believe that we have the most secure, most agile and scalable solution in the market when it comes to data protection of cloud data. With the support of One Peak, we can continue our amazing growth journey in Europe and in the US where we just signed our biggest client yet, protecting its more than 30,000 employees."
+Frederik Schouboe
+CEO and Co-founder of Keepit
+About Keepit
+Keepit is a global software company specializing in cloud SaaS backup and recovery. With 20+ years of experience in building best-in-class data protection, Keepit is innovating the way to protect and secure cloud data at scale. Originating in Denmark, Keepit has offices in Copenhagen and Lviv, Ukraine, along with satellite offices around the world.
+About One Peak
+One Peak is a growth equity firm investing in technology companies in the scale-up phase. The firm provides growth capital to exceptional entrepreneurs with a view to transform innovative and rapidly growing businesses into lasting, category-defining leaders. In addition to Keepit, One Peak’s investments include HighQ, Neo4j, DocPlanner, Spryker Systems, Concentra Analytics, Quentic, Coople, DataGuard, and Pandadoc. To learn more, visit www.onepeakpartners.com.
+Press contact:
+Morten Sahl Käding,
+Digital PR
++45 2068 7949
+Morten@digitalpr.dk

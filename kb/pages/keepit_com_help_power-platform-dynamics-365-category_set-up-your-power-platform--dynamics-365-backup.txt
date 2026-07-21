@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/set-up-your-power-platform--dynamics-365-backup/
+Content type: Web page
+Last modified: 2025-03-11T20:59:11+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Requirements for setting up a Power Platform / Dynamics 365 backup
+The service account used for the backup must be assigned the proper admin roles and licenses to create a Power Platform / Dynamics 365 connector.
+Admin Roles
+For Power Platform and Dynamics 365 coverage, the Microsoft 365 service account must be assigned:
+- the global administrator role
+- the Dynamics 365 administrator role
+- the system administrator security role and have read-write access. For more information, see Check security role and access mode.
+Note: After the connector is created, you may remove the Global Admin role from the service account. However, for the backup to continue properly, you will need to add the Dynamics 365 Administrator and Power Platform Administrator roles and follow certain other measures.
+Licenses
+The Dynamics license can be
+- One of the following subscription plans (or individual licenses that are part of these plans): Dynamics 365 Plan, Customer Engagement Plan, Unified Operations Plan, Dynamics 365 Applications, Dynamics 365 Team Members
+- One of the following Dynamics 365 apps: Marketing, Sales, Customer Service, or Field Service
+The Power Platform license can be
+- Power Pages authenticated user
+- Power Pages anonymous user
+- Power Automate Premium
+Note: To back up both Power Pages and Power Automate, you’ll need a Power Pages license and a Power Automate Premium license.

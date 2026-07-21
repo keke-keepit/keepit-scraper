@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/customers/handwerkskammer-aachen/
+Content type: Web page
+Last modified: 2025-11-03T18:48:18+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Convenient and secure backup for Handwerkskammer Aachen
+With over 17,400 member companies, the Aachen Chamber of Skilled Crafts is a driving force in promoting skilled trades training and innovation in its region. As a public corporation, it assumes a variety of tasks assigned by the state, based on the Crafts Code (Handwerksordnung) and its statutes. In search of reliable and compliant backup, the Chamber chose Keepit after a recommendation from partner IT sure.
+Stringent data protection requirements
+The Aachen Chamber of Skilled Crafts faced stringent data protection requirements, including GDPR compliance and adherence to federal and state data protection laws. “With 250 users, our organization needed a solution that could handle sensitive personal data and ensure business continuity, as our tasks and responsibilities are regulated by federal law,” explains Markus Burgold, Head of IT Department at Handwerkskammer Aachen.
+European data centers and vendor independence were also crucial factors in choosing Keepit.
+- Markus Burgold, 
+Head of IT Department at Handwerkskammer Aachen
+The IT team aimed to find a convenient backup solution for their Microsoft 365 environment, with key criteria including GDPR compliance, user-friendliness, and reliability. Keepit provides independent backup of eleven business-critical SaaS applications, securing customer data in seven data center regions to ensure data sovereignty.
+Convenient cloud backup
+With Keepit, the Aachen Chamber of Crafts achieved their goal of convenient cloud backup for their Microsoft 365 environment. Keepit was able to provide a solution for backing up all crucial cloud data (Exchange Online, SharePoint, OneDrive), ensuring fast recovery in case of data loss, and supporting the Right to Be Forgotten (RTBF). The Aachen Chamber of Crafts also appreciated Keepit’s user-friendliness and reliability. Security measures such as encryption and data immutability were non-negotiable for the organization.
+Road to success through partnership
+The Aachen Chamber of Crafts became aware of Keepit through a recommendation in their network. IT sure, an established partner of Microsoft and Keepit, played a key role in the resulting cooperation. As a Keepit Elite Partner, IT sure focuses on modern data protection in the cloud, helping medium-sized companies maximize their competitive advantage through the efficient use of the Microsoft Cloud.
+The solution’s fast recovery capabilities and GDPR compliance were particularly beneficial to us. We’ve experienced improved data protection and business continuity with Keepit.
+- Markus Burgold, 
+Head of IT Department at Handwerkskammer Aachen

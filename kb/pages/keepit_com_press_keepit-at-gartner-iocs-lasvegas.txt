@@ -1,0 +1,34 @@
+Source URL: https://www.keepit.com/press/keepit-at-gartner-iocs-lasvegas/
+Content type: Web page
+Last modified: 2025-08-19T23:57:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit to Present at Gartner IT Infrastructure, Operations & Cloud Strategies Conference 2022
+Company to Lead Speaker Session and Offer Product Demonstrations
+Copenhagen, Denmark – November 17, 2022 – Keepit, the market leader in cloud data protection and management, today announced that it will be presenting and exhibiting at Gartner IT Infrastructure, Operations & Cloud Strategies Conference 2022 on December 8 in Las Vegas, NV.
+Keepit’s Chief Executive Officer (CEO) Frederik Schouboe and Legal Counsel Mikkel Oxfeldt, attorney-at-law, will conduct a session titled, “Stay Compliant and Cut Costs with Cloud Backup and Recovery.” The company will also have an exhibit presence that will include a product demonstration and return-on-investment calculations. Additionally, Keepit will also present at the Gartner IT Infrastructure, Operations & Cloud Strategies Conference in London, UK on November 21-22.
+The conference will be held at The Venetian Resort Las Vegas from December 6-8 and will provide attendees the opportunity to engage with a community of renowned information technology (IT) infrastructure, operations, and cloud leaders and learn how to empower the “anywhere business” through IT infrastructure and operations based on unbiased research, data, and insights designed to take strategies to the next level.
+Gartner IOCS 2022 Speaker Session
+Schouboe’s and Oxfeldt’s presentation will address how backup and recovery of cloud data can help organizations avoid legal consequences, fines, and irreparable brand damage as they navigate increased global focus on data protection and compliance, as well as industry regulations as they migrate to cloud software-as-a-service (SaaS) applications. Key takeaways will include:
+- How to ensure SaaS cloud data compliance
+- How to cut costs in the process
+- How to protect cloud SaaS applications
+Additional Keepit representatives will be in attendance and available to meet with conference attendees. Representatives from the executive team will include: Morten Felsvang, Chief Executive Officer (CEO) and Co-founder; Paul Robichaux, Microsoft MVP and Senior Director of Product; Niels van Ingen, Chief Customer Officer (CCO) and Vice President of Business Development; and Tony Sterling, Senior Director of Customer Success.
+Representatives from the Sales team will include: Søren Lindkvist, Senior Vice President and Head of Global Sales; John Keusenkothen, Director of Americas Sales; Rick LaCoume, Director of Americas Channels; Andrew Hamm, Enterprise Account Executive; Allison Ziegler, Enterprise Account Executive; and Pearl LaRue, Enterprise Account Executive.
+Session Details
+What: Speaker session, “Stay Compliant and Cut Costs with Cloud Backup and Recovery”
+Who: CEO Frederik Schouboe and Legal Counsel Mikkel Oxfeldt, attorney-at-law
+Where: The Venetian Resort, Las Vegas
+When: December 8, 2022
+Registration: https://gtnr.it/3EFR6m0
+Keepit is a Premier Sponsor and will be exhibiting for the duration of the conference at Booth 200.
+To arrange a product demonstration or meeting with a member of the Keepit team at the conference, contact John Keusenkothen at jke@keepit.com.
+About Keepit
+Keepit is a software-as-a-service company that provides dedicated data protection for companies with data stored in the cloud. Keepit is the world’s only vendor neutral and independent cloud dedicated to SaaS data protection based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Azure AD, Google, and Salesforce.
+Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. For more information, visit www.keepit.com or follow Keepit | LinkedIn.
+Media Contact
+RedIron PR for Keepit
+Kari Walker
+kari@redironpr.com

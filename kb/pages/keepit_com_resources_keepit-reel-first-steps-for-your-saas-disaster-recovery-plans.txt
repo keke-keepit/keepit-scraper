@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/resources/keepit-reel-first-steps-for-your-saas-disaster-recovery-plans/
+Content type: Web page
+Last modified: 2025-08-20T02:30:15+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Reel: First steps for your SaaS disaster recovery plans
+In this Keepit Reel, Niels van Ingen, CCO at Keepit, and Brent Ellis, Senior Analyst from Forrester, dive into the unique aspects of SaaS applications and how to develop disaster recovery plans for them.
+They discuss the importance of identifying which SaaS applications are being used within your organization to be fully aware of your risks. Shift the focus from IT management to risk management to ensure your SaaS disaster recovery plan is robust and effective.

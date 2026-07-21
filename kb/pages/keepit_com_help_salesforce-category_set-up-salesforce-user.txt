@@ -1,0 +1,35 @@
+Source URL: https://www.keepit.com/help/salesforce-category/set-up-salesforce-user/
+Content type: Web page
+Last modified: 2026-07-03T13:16:46+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Set up a Salesforce user
+This article explains how to create a dedicated Salesforce user account and configure the permissions Keepit needs to back up and restore your data.
+Before you begin
+Make sure you have a System Administrator profile in Salesforce.
+Supported Salesforce editions
+The following Salesforce editions support API access, which Keepit requires to back up and restore data and metadata:
+- Professional Edition (with API access enabled)
+- Enterprise Edition
+- Unlimited Edition
+- Performance Edition
+- Einstein 1
+- Developer Edition
+Choose a setup option
+Keepit supports two ways to set up the Salesforce user account: using the default System Administrator profile or using a custom profile.
+In Salesforce, a user's permissions are the sum of their profile permissions plus any assigned permission sets. The System Administrator profile already includes some of the permissions Keepit needs, so you don't need to add those manually to the permission set. With a custom profile, you assign those same permissions explicitly through the permission set instead.
+Option 1: Set up a user with the default System Administrator profile
+Step 1: Create a user
+1. In Salesforce, go to Setup > Users > New User.
+2. Enter a name, email address, and a unique username. For example: Keepit.
+3. Assign a Salesforce user license.
+4. Assign the System Administrator profile.
+5. Select Save. Salesforce sends a password setup email to the new user's address.
+6. Set a password for the user.
+Step 2: Create a permission set and assign it to the user
+1. In Salesforce, go to Setup > Permission Sets > New.
+2. Enter a label. For example: Backup and Restore.
+3. Select Save.
+4. Enable the following permissions:

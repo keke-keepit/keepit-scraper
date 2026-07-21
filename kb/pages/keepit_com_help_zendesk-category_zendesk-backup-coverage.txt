@@ -1,0 +1,36 @@
+Source URL: https://www.keepit.com/help/zendesk-category/zendesk-backup-coverage/
+Content type: Web page
+Last modified: 2025-03-11T20:08:51+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Zendesk backup coverage
+Keepit backs up the following Zendesk data:
+Required data coverage
+Tickets
+- Ticket comments and attachments
+- Ticket fields (custom and standard)
+- Ticket forms
+- Archived tickets
+Users
+- Team members
+ Group memberships
+ Organization memberships
+ Organization subscriptions
+ Personal views
+ Personal macros
+- End users
+ Organization memberships
+- User fields
+Groups and Organizations
+- Members
+- Subscribers
+- Organization fields
+Optional data coverage
+Views
+- Shared views
+Macros
+- Shared macros
+Triggers
+Automations

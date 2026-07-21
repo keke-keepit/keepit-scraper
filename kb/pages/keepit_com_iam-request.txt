@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/iam-request/
+Content type: Web page
+Last modified: 2026-06-01T20:51:21+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Read the case study
+We have the highest data protection needs as we handle live data, personal data for life insurances, and private insurances. We have only a very short time range to get “back to live” in case of a disaster.
+Talk to your account manager to learn why it’s important to include Entra ID and Okta in your backup and recovery strategy — all within a single platform designed to scale with your SaaS environments.
+Please fill out the form and we'll respond to you directly.
+Book a meeting with Keepit
+Read the case study
+We have the highest data protection needs as we handle live data, personal data for life insurances, and private insurances. We have only a very short time range to get “back to live” in case of a disaster.
+Read the case study
+Protecting multiple SaaS applications in one platform allows us to ensure our most important business data is consistently backed up and recoverable without increasing operational complexity.
+Read the case study
+Backing up our data with Keepit for Entra ID ensures that we never lose access to this business-critical data – which provides our organization with peace of mind.

@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/blog/predictions-for-data-protection/
+Content type: Web page
+Last modified: 2026-01-23T12:19:07+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+From hype-check to hard truths â real protection, real risk, real demandÂ
+Last year, Keepit predicted that 2025 would be the year SaaS data protection stops being optional and becomes a must-have as data volume increases, API strain grows, and practical AI solutions start to win over hype.
+Now, as we look ahead to 2026, our view sharpens. The growing complexity across cloud, hybrid, compliance, and threat landscapes forces us to confront three truths: First, protecting cloud data must become non-negotiable; second, AI should be used deliberately to defend, not just to automate; and third, compliance and regulatory pressure are reshaping how and where data lives.
+Here are four hard-edged predictions from Keepit’s Kim Larsen (CISO), Jakob Østergaard (CTO), Niels van Ingen (SVP Business Development and Strategy), and Jan Ursi (VP Global Channels) — each built on real trends and a clear roadmap, not marketing fluff.
+AI offense evolves faster than defense — unless leaders demand transparency
+Kim Larsen, Chief Information Security Officer
+AI-driven attacks will become highly adaptive. By 2026, adversaries will use AI systems that map entire infrastructures in seconds, identify weak links deep in the supply chain, and shift tactics in real time to bypass defenses. Hybrid warfare will amplify this trend as hostile actors blend geopolitical intent with AI-enabled automation at scale.
+Defenders will match this only if they adopt AI with intention and transparency. Security teams will use AI to understand exposure, strengthen detection, and model where risk concentrates. But success will depend on knowing how an AI system works, what data it relies on, and how decisions are made. CISOs will demand clarity, control, and accountability. The organizations that win will be those that use AI to enhance — not replace — human judgment.
+Hybrid is back — and so is the race for skills
+Jakob Østergaard, Chief Technology Officer
+Hybrid environments will grow faster than anyone expected. After years of cloud-first narratives, companies are re-evaluating what belongs where. Political instability, rising sovereignty requirements, and cost pressures are pushing critical workloads back on-premises. Servers, storage systems, and licensed software are seeing a resurgence because organizations want balance, not absolutism.
+This shift exposes the growing skills gap. Demand for deep technical expertise in networking, Linux, and systems engineering is accelerating while talent inflow is shrinking. By 2026, this shortage will influence everything from innovation speed to resilience planning.
+Meanwhile, quantum and AI will face a public reckoning. The promise of crypto-breaking quantum machines and near-term AGI will give way to more realistic timelines. Investments will continue, but the narrative will mature as enterprises look for practical, defensible value rather than speculative breakthroughs.
+AI stays practical in 2026, while modernization remains the real priority
+Niels van Ingen, SVP Business Development and Strategy
+AI adoption in 2026 will feel familiar. Most enterprises will continue using agentic AI to automate repeatable tasks and augment existing processes, not reinvent them. Only one in 5 organizations report getting meaningful value from their AI tools at the current time with key adoptions challenges being cost and lack of control mechanisms in context of the desired outcomes. Autonomous business intelligence will remain niche because the foundations, including infrastructure, required are simply not ready: Data quality, governance maturity, and organizational skills still lag far behind the ambition.
+Modernization efforts will remain the primary focus. Companies will keep working through the practical realities and motions to replace platforms like VMware and Citrix, while using SaaS to accelerate outcomes where it makes sense. At the same time, compliance and regulatory pressure will intensify. Leaders will need a clear understanding of sovereignty requirements, new operating models, and the talent divide between “old way” and “new way” practitioners.
+In 2026, CIOs will be planning for what IT must look like in 2030. The problems they solve today will not be the ones they face next, and there is a lot of pressure on the IT suite to ensure companies are ready and competitive as the AI transformation gains momentum.
+Compliance goes default: NIS2 and DORA will reshape every SaaS RFP
+Jan Ursi, VP Global Channels
+By 2026, compliance expectations will become embedded in nearly every SaaS data protection RFP. Requirements tied to NIS2 and DORA will shift from “requested” to “assumed,” especially in finance, energy, healthcare, and the public sector. Organizations will insist on local digital sovereignty: data stored in-region, zero sub-processors, and guaranteed access even if the original SaaS platform is unavailable.
+Because many companies are still in the early stages of meeting these regulations, demand will rise sharply as deadlines tighten. Local partners will play an essential role. They understand national sovereignty rules, infrastructure constraints, and the operational realities of regulated industries. As a result, the channel will become a core enabler of compliant SaaS adoption, not an afterthought.

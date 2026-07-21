@@ -1,0 +1,36 @@
+Source URL: https://www.keepit.com/customers/lapp/
+Content type: Web page
+Last modified: 2025-12-12T15:41:14+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+LAPP chooses Keepit for critical Azure AD coverage and EU hosting benefits
+On the search for a backup provider, LAPP received a recommendation from Keepit partner Syngain GmbH to back up their data with the Keepit solution. After a thorough evaluation, LAPP chose Keepit as their trusted backup and restore solution following further endorsement from their internal engineers.
+Azure AD: The critical need for authentication
+Azure AD is a critical application when it comes to receiving authentication to other business applications. For this reason, Azure AD backup was a high motivator in choosing Keepit. With this backup in place, LAPP can rest assured that their authentication provider is backed up, ensuring access to business-critical data and processes.
+Why is Azure AD backup so critical? In case of Azure AD service disruptions or data inconsistencies, we would have zero authentication to any of our critical business applications from today to tomorrow.
+Matthias Gut
+Head of Digital Innovation and Smart Enterprise at LAPP
+The role of Azure AD has grown tremendously in the last 5 years as companies increasingly consolidate their active directories into this environment.
+Dr. Andreas Rebetzky
+CEO of Syngain GmbH
+EU hosting as a unique selling proposal
+The convenience of EU hosting provided LAPP with an operational advantage. This benefit allowed a smooth, easy integration into LAPP’s ecosystem.
+EU hosting made life much easier for internal approval and overall buy-in.
+Matthias Gut
+Head of Digital Innovation and Smart Enterprise at LAPP
+Highly recommended by LAPP’s business network
+For starters, LAPP trusted their long-term business partner Syngain GmbH in their strong recommendation to trust Keepit with their data backup. And when two German mid-sized companies in their network recommended Keepit for its infrastructure and backup, these positive reviews encouraged them to give Keepit a closer look.
+Two German mid-sized companies in our network recommended Keepit for its infrastructure and backup.
+Matthias Gut
+Head of Digital Innovation and Smart Enterprise at LAPP
+Strong, well-organized proof of concept
+With LAPP’s engineers on the case, Keepit’s solution was put to the test and evaluated for network bandwidth, day-to-day functionality, administration, and overall physical infrastructure fit. And after about four weeks of thorough evaluation from the engineers, Keepit demonstrated a convincing proof of concept.
+For the evaluation, Keepit was evaluated among two other competitors. Matthias Gut, Head of Digital Innovation & Smart Enterprise, was pleased to see that Keepit was able to back up and recover a large 1GB+ Lotus Notes database. These extreme cases were the types of coverage that Matthias was looking for.
+LAPP’s engineers also tested the utilization of Keepit’s network bandwidth during working (daytime) hours to be sure that it wouldn’t affect any operational tasks during daily business operations.
+Finally, Keepit was evaluated for its level of support and technical acumen – to make sure that Matthias and his team felt safe and could rely on Keepit in potentially challenging situations.
+After this in-depth analysis, the evaluation showed that Keepit could deliver. Overall, LAPP evaluated that Keepit could provide an operationally smooth integration into their ecosystem.
+Keepit was ultimately recommended by our engineers after a thorough evaluation. I wanted to have the recommendation from my engineers as they’re the ones working with it every day.
+Matthias Gut
+Head of Digital Innovation and Smart Enterprise at LAPP

@@ -1,0 +1,57 @@
+Source URL: https://www.keepit.com/help/pmc/working-with-custom-properties/
+Content type: Web page
+Last modified: 2026-02-26T13:57:31+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Working with custom properties
+A custom property changes the value of a specific resource for an account. This change overrides the product property.
+In the PMC, custom properties can be added to seat limits for each connector type. Only Support can change the values of other properties.
+An account's current properties can be found in the Product tab. Under Custom properties, you will see all your custom properties, including those that were added by Support. This is also where you can add a custom property to set a seat limit for a workload as well as schedule version and delete seat limit custom properties. All other custom properties (non-seat limits) can only be viewed and deleted.
+In this article you will find how to:
+Create a custom property
+You can set one custom seat limit for each connector type. The seat limit can take effect immediately or it can be scheduled for the future.
+If a custom seat limit is active, you will see a green custom label near the connector type.
+1. On the Accounts page, point to the customer account, click ••• > Edit.
+2. Select the Product tab.
+3. Under Custom properties, click +Add custom property.
+4. Select a property name.
+5. Enter a value.
+6. Choose an activation date.
+7. Click Create.
+Schedule a new version of your custom property
+You can create multiple versions of your custom property in case seat limits need to change in the future.
+1. On the Accounts page, point to the customer account, click ••• > Edit.
+2. Select the Product tab.
+3. Under Custom properties, point to the property and click the gear icon.
+4. Enter a new value and new activation date.
+5. Click Save.
+Tip: To see a list of all versions, select the All versions tab.
+Make changes to your custom property
+Editing active versions of custom properties
+You cannot edit a custom property that is active. To modify the seat limit, schedule a new version for the nearest date. (See: Schedule a new version of your custom property)
+Editing scheduled versions of custom properties
+Seat limit value:
+- If there is no active version, you can change the seat limit. Enter a new value and click save. The version will be updated.
+- If there is an active version, you cannot change the seat limit value. In this case, delete the one you want to change and add a new version. (See: Schedule a new version of your custom property)
+Activation date:
+- If you want to change when a scheduled version comes into affect, first delete it and then add a new one. (See Delete a scheduled version of a custom property) 
+ 
+ Important: Saving a new activation date of a scheduled version will create a new version, not update the current version.
+Delete a custom property
+Deleting a custom property will revert the property back to its standard settings. The change will come take effect at midnight.
+Deleting an active or scheduled custom property will delete all past and scheduled versions.
+Note: If you created a custom seat limit that took effect immediately, but want to change the start date, you must first delete the entire custom property and then add a new one with the new activation date.
+1. On the Accounts page, point to the customer account, click ••• > Edit.
+2. Select the Product tab.
+3. Under Custom properties, find the property and click the trash icon.
+4. Click Delete.
+Delete a scheduled version of a custom property
+You can delete a scheduled version of the property without deleting the entire custom property. You cannot delete a version that is currently active or past versions.
+Deleting a scheduled version implies that the previous version will remain active until the next version takes effect.
+1. On the Accounts page, point to the customer account, click ••• > Edit.
+2. Select the Product tab.
+3. Under Custom properties, find the property and click the gear icon.
+4. In the All versions tab, click the trash icon for the value you want to delete
+5. Click Delete.

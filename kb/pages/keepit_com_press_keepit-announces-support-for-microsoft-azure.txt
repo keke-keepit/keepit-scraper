@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/press/keepit-announces-support-for-microsoft-azure/
+Content type: Web page
+Last modified: 2025-08-19T23:57:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Leading SaaS Data Protection Provider Keepit Announces Support for Microsoft Azure Active Directory in Upcoming New Release
+Keepit for Azure AD Safeguards Azure AD Infrastructure from Data Loss
+DALLAS-FORT WORTH, TX – February 2, 2022 – Keepit, the market leader in cloud backup and recovery, and the world’s only independent vendor-neutral and blockchain-based cloud dedicated to SaaS data protection, today announced that its upcoming software update will include support for Microsoft Azure Active Directory (AD).
+The update, which is being released today, adds comprehensive Azure AD support to Keepit’s trusted multi-cloud backup and recovery solution.
+Future updates, which will include support for additional Microsoft services including Microsoft Endpoint Manager and Conditional Access Policies, will result in Keepit coverage for all essential MS cloud services.
+“Azure AD is the heart of the Microsoft cloud ecosystem. Without a proper backup and the ability to immediately recover Azure AD, it can take days, weeks, or even months to get businesses back online, severely impacting operations and company reputation,” said Keepit Chief Executive Officer Frederik Schouboe. “Our new Azure AD connector provides the essential backup and recovery that organizations need to fully protect Microsoft 365. With Keepit’s extensive breadth of coverage, customers can control the granularity of their Azure AD backup and recovery.”
+Two of the biggest risk factors for organizations that migrate to the cloud or Azure AD are ransomware and data deletion. If Azure AD is compromised, operations can grind to a halt and face possible slowdowns for months. Other issues include problems with backup mechanisms and retention/deletion policy misunderstandings.
+Keepit research shows that while 81% of Microsoft 365 users have had to recover data at some point, only 15% were able to recover 100% of their data. To address gaps in protection, in their Services Agreement Microsoft recommends the use of third-party backup and recovery services for all products, including Azure AD. By covering Azure AD, Keepit allows for full protection of the core of the businesses it supports. Important benefits of Keepit for Azure AD include:
+- Data comparison reporting across snapshots in order to pinpoint specific changes or deletions;
+- Compliance with long-term retention guidelines and elimination of expensive storage costs;
+- Fast and granular search and recovery features across users, groups, roles, administrative units, audit logs, and sign-in logs.
+- Free customer support.
+ 
+“Keepit’s Azure AD backup and recovery solution gives our customers robust protection from mistakes and attacks against their data, since Keepit’s solution allows for full data recovery. That full data recovery ensures ransom threats are effectively neutralized, as businesses can simply restart operations without having to buy back their stolen data,” said Paul Robichaux, Keepit’s Senior Director Product Management.
+“And armed with the knowledge that Keepit provides protection from data loss due to issues such as configuration complications, information technology (IT) teams can confidently move forward with migration over to Azure AD. Additionally, having a full and frequent backup of Microsoft 365 and Azure AD in one single platform adds protection and increases the value of the backup solution, which greatly benefits customers.” Customers who need to secure their on-premises assets can pair Keepit’s advanced cloud recovery tools with a suitable on-premises product to give them complete end-to-end protection.
+In addition to protecting data in Microsoft Azure AD, Keepit also provides fully automated coverage for other key business applications, including Microsoft 365, Microsoft Dynamics 365, Google Workspace, and Salesforce. Another top feature in the new version of Keepit that will benefit all business applications it covers is its ingenious dashboards.
+Updates to the dashboards allow IT administrators and system technicians easy access to instant and comprehensive overview and monitoring of all backup and recovery activities, without having to conduct arduous searches or resort to third-party tools. By building on its existing unrivaled platform with this latest update, and with its unmatched ease-of-use, fast restore features that minimize downtime, and cost-effectiveness, Keepit will continue to be the solution that organizations rely on to protect their cloud-based data.
+For more information about Keepit or to meet with a member of the US-based team, contact press@keepit.com.
+More information about Keepit:

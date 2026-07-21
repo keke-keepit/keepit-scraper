@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/customers/porsche-holding/
+Content type: Web page
+Last modified: 2025-12-12T15:48:29+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Porsche Holding Salzburg migrates to the cloud, chooses Keepit for ransomware protection
+Initially seeking SaaS data backup to protect their company from ransomware threats, Porsche Holding Salzburg became a customer with Keepit to ensure that their 30,000 user accounts were secure and protected from data loss. Andreas Fackler and Michael Bojko, both System Engineers at Porsche Informatik, share Porsche Holding’s story of migrating their data from on-prem to the cloud. Read the full story to learn how Keepit delivers SaaS cloud data protection on a global scale for Porsche Holding.
+More companies are affected by ransomware globally. By working with Keepit, we now have a solution if an event like this ever arose.
+Andreas Fackler
+System Engineer atâ¯Porsche Informatik
+Making the switch: from on-prem to the cloud
+After moving from a locally installed, on-prem mail system to Microsoft 365, Porsche Holding was on the lookout for a SaaS cloud backup solution. After researching the SaaS data backup solutions available, Keepit’s user-friendly, transparent backup and recovery process was the most appealing option for Porsche Informatik.
+We were searching for a SaaS solution, and we didn’t want to back up all the data on-prem. Keepit’s simple, easy-to-use cloud backup delivered what we were looking for.
+Michael Bojko
+System Engineer at Porsche Informatik
+European data centers add extra level of security
+Keepit’s European headquarters was also a key selling point. In fact, Porsche Holding’s security department recommended that the data be stored in the same location as the company. With data centers in Germany and Denmark, Porsche Holding could ensure that their data would be stored in Europe. Of course, Keepit always follows the 3-2-1 principle of backup, where 2 copies of data are stored at separate locations, and one copy is backed up in an off-site, private cloud. This principle ensures that their data can survive any calamity, making it impenetrable to ransomware and accidental deletion.
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit’s European-based data centers were the answer.
+Michael Bojko
+System Engineer at Porsche Informatik
+Fast and simple onboarding leads to a smooth start
+After a quick, one-week onboarding process, Porsche Holding shared their satisfaction with the simple setup and friendly customer service. They felt supported in the process, highlighting that the Keepit team checked in regularly to make sure that their onboarding was going smoothly.
+We felt perfectly supported in the onboarding process, which only took one week. If we have any questions, we always get an answer. The Keepit team is trustworthy and friendly.
+Michael Bojko
+System Engineer at Porsche Informatik

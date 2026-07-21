@@ -1,0 +1,46 @@
+Source URL: https://www.keepit.com/help/salesforce-category/prepare-csv-file-with-records-to-restore/
+Content type: Web page
+Last modified: 2025-12-08T15:20:33+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Prepare CSV file with records to restore
+Keepit supports two CSV file formats that can be used to restore Salesforce records:
+- Keepit format
+- Salesforce-generated report
+ 
+Keepit Format
+The CSV file must meet the following requirements:
+- No header line
+- 2 columns
+- 1 or more lines with sobject-name,record-id with or without quotes, where:
+- sobject-name is the API (developer) name of the SObject (like Account or MyObject__c)
+- record-id is the 15-character or 18-character id of the record from given SObject
+For example, if you want to restore 2 Account records and 1 MyObject__c record, the CSV should look like this:
+Account,0017Q00000KGhjMQAT
+Account,0017Q00000M1H7EQAV
+MyObject__c,a007Q00000EMSkEQAX
+Salesforce-Generated Report
+In Salesforce you may configure, generate, and export a report, which meets the following requirements:
+- Saved with Unicode (UTF-8) encoding
+- A header line with some human-readable description, like "Account ID"
+- 1 column
+- 1 or more lines with record-idwith or without quotes, where:
+- record-id is a 15-character ID
+- all record IDs in the file should be from the same SObject
+For example, if you want to restore 2 Account records, the CSV should look like this:
+"Account ID"
+"0017Q00000KGhjM"
+"0017Q00000M1H7E"
+The report may contain an empty row at the end, followed by human-readable information about the file. This additional data will be disregarded when using the report for the restore process.
+Reasons why records may not be restored
+Restore initiation limitations
+You won't be able to initiate a restore if your upload includes:
+- An empty file
+- A non-text file (with some binary data in it, such as a JPEG)
+- A text file, not conforming to one of the above-described CSV formats (unexpected number of columns, ID length, symbols, etc.)
+Records skipped
+Certain records in the uploaded CSV file may be skipped due to the following reasons:
+- The record does not exist in the snapshot.
+- The record type is not supported for restore.

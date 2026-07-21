@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/help/pmc/create-an-api-token-in-pmc/
+Content type: Web page
+Last modified: 2025-07-17T10:30:35+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create an API token in PMC
+An API token is used to integrate with the PMC's API.
+An API token receives its own set of credentials that is used to authenticate each following session. A single API token can be used to authenticate multiple API requests.
+All user roles (except for the SSO Admin) can create an API token for their own user account.
+Create an API token
+1. In the lower-left corner, select your account profile > User info.
+2. Go to Security > Secondary tokens.
+3. Click + Add API token.
+4. (Optional) Enter a name for the token.
+6. Select a lifetime.
+The lifetime is the amount of time until the API token expires.
+7. Select Create.
+8. Enter your password and select Confirm.
+Note: If you have SSO or MFA enabled, you must also authenticate the token via the corresponding method.
+9. Copy the credentials and select OK.
+Important: Store the credentials in a secure location. Once you close this window, the credentials will never be displayed again.

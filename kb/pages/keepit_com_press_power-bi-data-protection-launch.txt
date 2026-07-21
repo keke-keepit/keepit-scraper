@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/press/power-bi-data-protection-launch/
+Content type: Web page
+Last modified: 2025-08-15T00:32:58+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+SaaS Data Protection Leader Keepit Launches Cutting-Edge Solution: Keepit for Power BIÂ
+New Solution Offers Unmatched Backup and Recovery for Power BI Users
+COPENHAGEN, DENMARK – February 1, 2023 – Keepit, the market leader in cloud data protection and management, today announced the launch of its backup and recovery solution for Power BI, Microsoft’s business intelligence solution platform for aggregating, analyzing, visualizing, and sharing data. With the release of Keepit for Power BI, Keepit is extending its lead as the premier data protection service for Microsoft’s cloud solutions. Power BI is the first of the Microsoft Power Platform services to be added to Keepit’s solutions, with support for Power Apps and Power Automate planned for later in 2023.
+Keepit is the only SaaS data protection specialist that fully covers Power BI. Because Microsoft doesn’t provide native backup options for reports, dashboards, workspaces, and datasets in Power BI, businesses that rely on Power BI in their decision-making risk losing data if something goes wrong – such as accidental deletions, alterations, malicious deletion, file corruption or ransomware attacks – including losing data and metadata required for compliance reasons and to maintain business continuity.
+Keepit’s protection for Power BI is secure and simple, and recovery of data is swift. With ultra-fast smart search and restore features, Keepit’s Power BI customers can restore multiple terabytes per day and get Power BI data back into its original location, along with original metadata and relationships. Restore capabilities include:
+- In-place restore: Get data back to where it originally resided
+- Download: Download individual data objects or complete folders
+- Shareable Links: Provide users with a secure link to their data.
+“Microsoft is currently investing heavily in the Power Platform, and Power BI is a major part of that platform,” said Paul Robichaux, Keepit’s Senior Director of Product Management and Microsoft MVP. “Power BI is a market leader in the business intelligence space, and the business intelligence space is growing exponentially. With Keepit for Power BI, organizations can protect the data they use to drive their business decisions against data loss and downtime. Keepit is thrilled to add this product to our market-leading range of Microsoft cloud data protection solutions.”
+To try Keepit for Power BI for free, visit the Keepit website.
+About Keepit
+Keepit is a software-as-a-service company that provides dedicated data protection for companies with data stored in the cloud. Keepit is the world’s only vendor neutral and independent cloud dedicated to SaaS data protection.
+Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. For more information visit www.keepit.com or follow Keepit | LinkedIn.
+Media Contact:
+Katrine Palsby, Keepit
+press@keepit.com

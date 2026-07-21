@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/help/platform-category/create-a-secure-shares-policy/
+Content type: Web page
+Last modified: 2026-06-23T23:48:03+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create a secure shares policy
+As a Master Admin, you can enforce security measures for all secure shares created within the account.
+Create a secure shares policy
+1. In the lower-left corner, click your account profile, then select Account info.
+2. Open the Security tab and go to the Secure shares section.
+3. Enable any combination of the following requirements:
+- Require password protection — all secure shares must be secured with a password.
+- Require expiration date — all secure shares must have an expiration date that doesn't exceed the maximum duration you set.
+- Require SSO authentication — all secure shares must be accessed via single sign-on (SSO).
+- Require trusted IP restriction — access to secure shares must be limited to trusted IP addresses.
+4. Click Save.
+What happens when a new secure share is created?
+Once a policy is in place, users can't create secure shares that don't comply with it. If a user attempts to create a share that violates the policy, a notification will inform them of the specific requirements they need to meet.
+What happens to existing secure shares?
+Any existing secure shares that don't comply with the newly enforced policy will automatically become inaccessible.
+How to check secure share compliance
+On the Secure shares page, a status label indicates whether each secure share complies with the current security policy.

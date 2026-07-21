@@ -1,0 +1,50 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-reason-for-unhealthy-or-critical-status/
+Content type: Web page
+Last modified: 2026-04-01T10:29:24+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve reason for unhealthy or critical status
+This command retrieves the reason for an unhealthy or critical status.
+API request
+Method GET
+/users/{account_id}/devices/{connector_id}/health?reason=true
+Example
+Method GET
+https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/devices/11ptlk-st7sly-ggba4c/health?reason=true
+Response
+Code: 200 OK
+Response body:
+<devhealth>
+    <health>critical</health>
+    <reason>BADLOGIN</reason>
+</devhealth>PowerShell script
+try {
+    $username = '<API Token username>'
+    $password = '<API Token password>'
+    $userId = '<Account GUID>'
+    $connectorId = '<Connector GUID>'
+    $hostname = 'dk-co.keepit.com'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $response = Invoke-WebRequest -UseBasicParsing `
+      -Uri "https://${hostname}/users/${userId}/devices/${connectorId}/health?reason=true" `
+      -Method Get -Headers $headers -ErrorAction Stop -TimeoutSec 10
+    $xmlContent = [xml]$response.Content
+    $healthStatus = $xmlContent.SelectSingleNode("//health").InnerText
+    $reason = $xmlContent.SelectSingleNode("//reason").InnerText
+    Write-Host "Health Status: $healthStatus"
+    Write-Host "Reason: $reason"
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}Script result
+Health Status: critical Reason: BADLOGIN
+Additional information
+Possible health reasons:

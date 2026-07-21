@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/help/salesforce-category/disabling-automation-and-rules-during-salesforce-record-restores/
+Content type: Web page
+Last modified: 2026-06-02T11:09:37+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+All supported items are automatically reactivated after the restore job completes.
+Managed package limitations
+Due to Salesforce API limitations, this type of restore cannot disable:
+- Managed package Flows
+- Managed package Apex triggers
+These items remain active during the restore job. If they could affect your restore, we recommend disabling them manually in Salesforce before starting the restore.
+Any managed package items detected during the restore are included in a downloadable CSV report found in the Job monitor. 
+Developer Edition org considerations
+Developer Edition orgs used for managed package development may not behave consistently due to Salesforce namespace-related API limitations.
+If you are restoring into one of these orgs, we recommend manually handling rules and automations directly in Salesforce before running the restore job.
+Error handling and notifications
+If rules or automations cannot be disabled before restore
+The restore job will not proceed and will be marked as unsuccessful. You'll receive an in-app message and email alert.
+To see which automations could not be disabled and why, download the CSV from the job report in the Job monitor.
+To continue, either retry the restore or manually disable the rules and automations in Salesforce before running it again.
+If rules or automations fail to reactivate after restore
+The selected items will be restored, but the job will be marked as incomplete. You'll receive an in-app message and email alert.
+To see which automations failed to reactivate and why, download the CSV from the job report in the Job monitor.
+To reactivate manually, use the CSV to identify the affected automations and reactivate them in Salesforce.
+If selected items fail to restore
+The restore job will be marked as unsuccessful. Keepit will still attempt to reactivate any rules or automations that were disabled.
+Disabling automation and rules helps reduce the risk of Salesforce automation interfering with restore jobs while minimizing the need for manual pre- and post-restore administration.

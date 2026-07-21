@@ -1,0 +1,144 @@
+Source URL: https://lp.keepit.com/hubfs/product-sheets/Keepit-Jira-Service-Management-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 2
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Backup and Recovery 
+for Jira Service Management 
+(JSM)
+When JSM data is lost, rapid recovery starts here
+When JSM data is lost, corrupted, or deleted, your service delivery, SLAs, and customer trust are at risk. 
+Keepit protects your JSM data and configurations with automated, immutable backups and granular restore, 
+giving your organization an independent safety net that improves resilience, speeds recovery, lowers 
+operational risks, and ensures compliance. All in a unified platform for protecting data in critical SaaS 
+applications, including Jira, Confluence, and other productivity, identity, collaboration, and CRM tools.
+Time-saving 
+usability
+Easy to implement and intuitive, Keepit 
+requires minimal expertise to use 
+ while 
+delivering confidence in your ability to 
+swiftly recover your data whenever you 
+need it.
+Confidence that
+you can recover
+We guarantee direct access to all your 
+data and automated, immutable backups. 
+You can be certain your data can't be 
+modified or deleted, and that it is always at 
+your fingertips.
+Centralized 
+management
+A unified platform for all backups across 
+Atlassian and other critical SaaS 
+applications 
+ provides transparency, 
+visibility, and easy reporting for managers 
+and leadership.
+The risk
+Without an independent backup, JSM teams risk 
+permanent data loss, limited recovery options, 
+compliance exposure, and costly disruption to
+critical service operations.
+Proven benefit
+Keepit customers were able to reduce the time 
+needed to restore data for priority users by 90% 
+after a data loss incident.
+Source: Forrester Total Economic Impact Study 2024.
+˝Protecting multiple SaaS applications in one 
+platform allows us to ensure our most important 
+business data is consistently backed up and 
+recoverable without increasing operational 
+complexity.˛
+Gérard Korda, Head of IT Operations & Infrastructure
+ZFV-Genossenschaft
+Connector Info
+Jira Service Management (JSM)
+Healthy
+Your data is protected
+
+Fast recovery for mission-critical 
+service data
+KEY CAPABILITIES
+Outstanding ease-of-use
+Point-in-time recovery
+Automated backups
+Built to protect SaaS applications, Keepit
+is quick to implement and intuitive to use.
+Restore data to an exact state from any 
+historical point to reverse accidental 
+changes or corruption.
+Customize and automate backup jobs so
+your data remains preserved and
+recoverable whenever you need it.
+Data compare
+Instant search and preview
+Compliance and reporting
+Compare backup snapshots to identify 
+records added, modified, or deleted over 
+time, enabling precise recovery.
+Easily find what you need with Keepitˇs s
+comprehensive search. Use filters to
+identify data and the preview function to
+review it before restoring.
+Easily document and prove compliance 
+with backup requirements and data 
+protection efforts.
+WHAT WE COVER
+Projects
+Components
+Form templates
+Organizations
+Avatar
+Properties
+Issues
+Work types
+Roles
+Queues*
+Requests
+Request types
+Versions
+Assets
+Global Statuses
+Global Icons*
+Object Schema
+Object Types
+Object Attributes
+Objects
+Schema Statuses
+Requests
+Request
+Request Attachments
+Request Comments
+Request Remote Links
+Request Voice*
+Request Watchers
+Request Participants
+Request Worklogs
+Chil d Requests
+Linke d Requests
+SLAs*
+Issue
+Issue
+Issue Attachments
+Issue Comments
+Issue Remote Links
+Issue Votes*
+Issue Watchers
+Issue Worklogs
+Chil d Issues
+Linke d Issues
+*Backup only
+We continuously extend our capabilities. Find the complete, current coverage here.
+Find out how 
+simple and easy 
+it is to use Keepit
+Book a demo
+Your data. Here today. Here tomorrow
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+ For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

@@ -1,0 +1,64 @@
+Source URL: https://www.keepit.com/help/salesforce-category/restore-your-entire-salesforce-organization/
+Content type: Web page
+Last modified: 2025-12-08T13:28:14+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore your entire Salesforce organization
+Use the restore wizard to restore all records in the organization. You can choose how to restore objects, fields, and records.
+Restore an entire organization
+1. Point to your connector and click the Restore icon.
+2. Select to restore to the same location, then click Next.
+Important: Restoring a full organization to a different location is currently not supported.
+3. Select a snapshot from the time you want to restore, then click Next.
+4. Choose Restore full organization, then click Next.
+5. Choose what to do with objects, fields, and records, then click Next.
+- Create missing: Items that no longer exist in Salesforce will be recreated from the snapshot. These are items that were deleted after the snapshot was made.
+- Update existing: Items that currently exist in Salesforce will be updated with the data in the snapshot.
+- Delete new: Items that were created after the snapshot and are not part of the snapshot will be deleted.
+6. Review the summary and optionally enter a comment, then clickâ¯Restore.
+What data and metadata are restored when you restore an entire organization
+What data is restored
+When you restore your entire organization, we restore:
+- Custom objects
+- Custom fields
+- Records
+When restoring, you can choose what to do with your objects, fields, and records:
+- Create missing items
+ Creates items in Salesforce that exist in the snapshot but are missing from Salesforce.
+- Update all existing items
+ Updates items in Salesforce to match the versions in the snapshot.
+- Delete new items
+ Deletes items that have been added to Salesforce but are not present in the snapshot.
+What related metadata is restored
+When you restore your entire organization, we also restore certain metadata. What precisely we restore may depend on how you choose to restore your data.
+Global value sets
+If fields are selected for restore (create missing and/or update existing), all global value sets are also restored.
+- If a global value set is missing, we will create it.
+- If a global value set exists, we will merge the changed version with the original value set.
+Layouts
+- If missing objects are created, missing layouts are also restored.
+- If missing fields are created and/or existing fields are updated, layouts are also restored.
+Custom tabs
+If missing custom objects are restored, we also restore custom tabs. You can then add the custom tabs to an app.
+Profiles
+We restore profiles to their original states. This means we restore:
+- Field permissions for the restored fields.
+- Tab visibilities for the restored tabs.
+What to consider when deciding how to restore your data
+Certain data may not be restored depending on your restore configuration. Keep in mind the following limitations when deciding how to recover your data.
+What happens to records if you choose not to restore fields to their original states:
+If you choose not to create missing, update existing, and delete new fields, we may be unable to create or delete certain records.
+Two possible reasons for this are the following:
+1) If the properties are different between the objects we are restoring and those in Salesforce, data in the snapshot may not meet the new requirements and we may be unable to restore it.
+2) If there are circular dependencies between records (when records are both child and parent to one another and have mandatory links), we may not be able to restore them:
+- If we restore custom fields to their original states, we temporarily remove the extra dependencies during the process to help ensure the records will be restored properly.
+- If we do not restore custom fields to their original states, we are more likely to encounter issues when restoring the records.
+What happens to records if you choose not to delete new records:
+If you choose not to delete new records, we may be unable to restore certain records:
+- We may be unable to restore duplicate records if they have the same values for unique-constrained fields, despite them having different IDs.
+- We may be unable to restore all records if the resulting amount of data (which could be the sum of the current organization state and the backed up state) will reach the storage limit.
+What happens to fields if you choose not to delete new fields:
+- In case of a field name conflict for incompatible field types, some fields may not be restored.
+- In case of a relationship name conflict, we will add a numeric suffix (e.g., "_1") to the relationship name before restoring the field.

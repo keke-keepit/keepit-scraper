@@ -1,0 +1,41 @@
+Source URL: https://www.keepit.com/help/salesforce-category/what-happens-to-your-salesforce-records-after-you-restore/
+Content type: Web page
+Last modified: 2025-12-03T15:41:15+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+What happens to your Salesforce records after you restore
+What happens to your records after you restore
+If the record still exists in Salesforce and has the same ID, we will check the modification time:
+- If it has a different modification time, we will update the record.
+- If it has the same modification time, we will skip it.
+If the record does not exist in Salesforce anymore, the record will be recreated in Salesforce. All recreated records will receive new record IDs.
+Records with mandatory links
+A child record with a mandatory link to a deleted parent record cannot be restored—the restore job will fail. To restore this child record, you must first restore the parent record and then restore the child record, or restore the parent record together with its related records.
+If we encounter circular dependencies—in which two records are both child and parent to one another and have mandatory links—we may not be able to handle them properly. In this case, some of the items may not be restored, and the job will be marked as failed.â¯
+During a full restore, we temporarily remove these dependencies to help ensure the records will be restored properly. After the restore, we will return the links to the way they were in the snapshot.â¯
+Fields
+Custom picklist status fields are backed up and restored, but Standard picklist status fields cannot be restored.
+To recover these statuses, we recommend opening the backed up records using the Keepit previewer and then manually entering the statuses in Salesforce.
+Custom records types and custom page layouts
+If a record created via a custom record type is deleted from Salesforce and then restored from Keepit, it will be restored as the master (default) record type. This means that field values that do not belong to the master record type will not be restored and that the record will be restored with default page layout settings.
+Additionally, the set of users who have access to the restored record may change as only those who have access to the master record type will see the record.
+To recover a record with a custom record type, copy the fields from the backed up record in Keepit and create a new record via a custom record type in Salesforce with these field values.
+What happens to files and attachments that are restored with records
+- Files and attachments of each record as well as of all related records will be restored.
+- Restored files will retain the same owners, but the creator will become the integration user.
+- All files will be restored to the Files tab of the file's owner.
+- Only the latest version of a file is backed up and restored.
+- All of a file's permissions will be restored.
+- Restored files will receive a new modification time: the time of restore.
+In case the restored file still exists in Salesforce:
+- If the restored file has a different modification time and differs from the latest version in Salesforce, we will create a new version of the file.
+- If the restored file has a different modification time, we will overwrite the latest version in Salesforce.
+- If the restored file has the same modification time, we will skip it.
+If you want to recover a file or attachment, you have three options:
+- Restore the parent record.
+ If the file or attachment is linked to a record, restoring that record will automatically restore the associated file or attachment.
+- Restore the file from the Files folder in the connector.
+ This option applies only to Salesforce Files. Attachments cannot be restored from the Attachments folder.
+- Download and reupload the file or attachment back into Salesforce.

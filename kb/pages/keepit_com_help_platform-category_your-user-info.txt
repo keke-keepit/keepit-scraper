@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/help/platform-category/your-user-info/
+Content type: Web page
+Last modified: 2026-07-09T15:53:04+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Your user info
+To view or edit your user info, in the lower-left corner, select your profile icon > User info.
+User settings
+In the User settings tab, you can edit your user details, including full name, email, and password. Select Update when you finish editing.
+Messages
+Customize your message alerts and select the types of account activity updates you want to receive. Messages will be sent to your in-app inbox and to your email. Select Update when you finish editing.

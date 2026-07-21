@@ -1,0 +1,67 @@
+Source URL: https://keep-it.cdn.prismic.io/keep-it/3355a199-20eb-4077-a973-02c8eb8d36ce_Smulders_Customer-story_Aug_2023.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+Customer Story: SMULDERS
+Smulders designates 
+Keepit as backup 
+of choice for cloud 
+migration
+
+With the fast transition to Microsoft Teams during the Covid-19 pandemic, 
+Smulders was on the lookout for a cloud-based data backup and restore 
+solution to protect their Office 365 data. When Keepit was recommended to 
+Smulders by Keepit partner CTG, Smulders evaluated Keepit to explore if it 
+could deliver their cloud storage needs. Keepit’s 100% cloud-based solution, 
+coupled with its ease of use and cost savings, proved to be the solution they 
+were looking for. 
+Keepit’s key role in necessary cloud migration
+With their employees across the globe working through Microsoft Teams as 
+a result of the Covid-19 pandemic, Smulders needed a cloud-based solution 
+that could not only back up Teams – but all of their Office 365 data. This cloud-
+based backup would secure their data and allow remote team members to 
+complete their own restores on their own timeline. 
+—Keepit makes our data restore process 
+smooth and seamless. Completing a data 
+restore in the cloud is much faster than 
+doing so on-prem.
+Ton Van der Hagen
+ICT Hardware & Infrastructure Manager at Smulders
+Ease of use and configuration delivers time and resource savings 
+Ton Van der Hagen, ICT Hardware & Infrastructure Manager at Smulders, shared 
+that their onboarding with the Keepit solution took a mere 2 hours. And now 
+that the solution is set up, Ton and his team have peace of mind that Keepit is 
+working efficiently in the background while they go about their daily tasks. If a 
+team member needs to do a restore or archive a mailbox due to an employee 
+departure, they can simply login and complete these tasks in just a few clicks. 
+“Keepit just works in the background while we go 
+about our daily tasks, saving time and resources. 
+The ease of use of this product is a huge strength.”
+Ton van der Hagen
+Customer Story: SMULDERS
+
+Clear economic benefits compared to competitors 
+Having previously stored their Office 365 data with a competitor on-prem, 
+Smulders encountered challenges when it came to the price of increasing 
+storage. The price of this previous on-prem solution would increase when 
+storage needs increased. With Keepit’s cloud-based solution, all data storage 
+is unlimited and therefore included – providing an immense benefit to Smulders. 
+—In transitioning our data backup from 
+on-prem to the cloud, Keepit proved to 
+deliver a key benefit in providing unlimited 
+storage. With the competitor we worked 
+with before, we would have had to pay 
+extra for this element – so this provided 
+major cost savings for us.
+Ton Van der Hagen
+ICT Hardware & Infrastructure Manager at Smulders
+About Smulders: Smulders is an international steel construction company with more than 1,400 
+employees working across offices in Belgium, the Netherlands, Poland and the United Kingdom. 
+Active in the Civil & Industry and Offshore Wind markets, the company has a proven track record in 
+the engineering, construction, supply and assembly of heavy, technical complex and architectonic 
+steel constructions.
+Customer Story: SMULDERS

@@ -1,0 +1,9 @@
+Source URL: https://www.keepit.com/use-cases/
+Content type: Web page
+Last modified: 2025-07-04T13:55:29+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Instant access, fast recovery. Any data loss can be disruptive, but with our granular data recovery and multiple restore options, you can get data back comprehensively and quickly with hot data storage, reducing negative impact to operations.
+“We are restoring missing data on a daily basis, and Keepit makes it possible for a single admin to manage the data of 1,500 users.”

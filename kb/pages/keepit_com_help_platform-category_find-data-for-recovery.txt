@@ -1,0 +1,48 @@
+Source URL: https://www.keepit.com/help/platform-category/find-data-for-recovery/
+Content type: Web page
+Last modified: 2026-06-23T21:13:57+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Find data for recovery
+To find data to restore or to locate something you would like to download or share as a public link, use one of Keepit's many features to help you establish the location of this data.
+Begin by selecting the connector where the data you want is located.
+Search connector
+Use the search box to find specific files in your connector.
+You can search by filename or metadata (email subject, sender email, data type, etc.).
+Keepit identifies exact or nearly-exact matches of search terms.
+If your initial search returns no results or too few results, look for the Expand search option in your results panel. Select it to re-run your query using a broader, more approximate matching algorithm. This is useful when searching for names that might be spelled multiple ways, looking for items with partial information, or when you know an item exists but the streamlined search didn't find it.
+Filter items in a folder
+Browse to the folder where your item is and then enter a term in the filter field to narrow down the items.
+You can filter by name, size, date, label, or any of the other data types shown in the table you are viewing.
+User filters
+You can use one of the available filters to narrow your results according to file type.
+Click the filter icon in the upper-right corner. Then select which search filters you want to apply.
+If you select the Emails filter, you will be offered additional options for filtering by email subject, sender, receiver, or date range. Enter the terms and then click Apply email filters.
+Add or remove columns
+Click the gear icon in the upper-right corner of the table. Select or unselect the columns you want to add or remove from the table.
+In addition to the "Display name" column, only up to 5 more columns can be shown at one time.
+Note: The Object ID column displays raw system identifiers (e.g., Salesforce Record ID, Microsoft Object ID).
+Sort data by column
+Click the down arrows near the column names to sort the column alphabetically, by size, date, etc. Click again to reverse.
+Deleted Items View
+Enable the Deleted Items View to see all data that has ever existed in your tenant and has been backed up by our solution.
+To activate this feature, simply click the Deleted Items View icon (trash can & eye). This will display deleted users, files, folders, and objects in the current view.
+Deleted items will be clearly labeled as "Deleted," allowing you to easily differentiate them from the files currently in your tenant.
+Once you find your lost items, you can restore, download, or share them directly from this view.
+Snapshots Viewer
+You can use the Snapshots Viewer if you want to step back in time.
+Select the Snapshots Viewer icon, and then select a snapshot. You can use the slider to limit the list of snapshots shown below.
+Once you have selected a snapshot, you will now be browsing this particular backup. The day and time of the snapshot will be shown above.
+Versions Viewer
+You can find different versions of a folder or file by selecting ••• > Versions to the right of the item. Only snapshots where the folder or file is present will be listed.
+Select a snapshot to then browse items inside that folder from that point in time.
+File Previewer
+The File Previewer allows you to preview any data object before initiating a restore, helping to guarantee that the correct data is recovered.â¯â¯
+To open the File Previewer, simply click on the file name. From the preview window, you can:
+- View previous versions
+- Restore the file
+- Download, share, or print it
+An extensive range of file types are supported, including PDF, DOCX, XLSX, CSV, TXT, PPTX, PNG, and JPG, along with many others.
+The File Previewer is not available for the Entra ID connector.

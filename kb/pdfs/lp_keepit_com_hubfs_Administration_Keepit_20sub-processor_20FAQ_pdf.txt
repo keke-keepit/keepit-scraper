@@ -1,0 +1,59 @@
+Source URL: https://lp.keepit.com/hubfs/Administration/Keepit%20sub-processor%20FAQ.pdf
+Content type: PDF document
+Title: unknown
+Pages: 2
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit is a software company specializing in cloud data backup and recovery, deriving from 20+ years of experience in 
+building best-in-class data protection services at scale. 
+Keepit Poland as sub-processor: FAQ 
+ 
+Why is Keepit making this change now? 
+ 
+As Keepit has grown to serve over 20,000 companies globally, we faced a choice either to outsource part 
+of our services to third-party vendors, or to invest in our own wholly-owned EU subsidiary. We chose the 
+latter. This allows us to expand our internal capabilities whilst maintaining complete control over our 
+customers data.  
+ 
+Does this change Keepit’s “no sub-processors” principle?  
+ 
+The key objective of our "no sub-processors" commitment was always about avoiding third-party vendor 
+dependencies, particularly reliance on other cloud providers. That commitment remains unchanged. 
+Under General Data Protection Regulation (“GDPR”), even wholly-owned subsidiaries must be listed as 
+sub-processors for regulatory transparency. Keepit Poland isn't a third-party vendor - it's Keepit. We own 
+it, control it, and hold it to the same high security standards. 
+ 
+Will this change affect the security of the data backed-up on Keepit’s platform?  
+ 
+No. Keepit Poland maintains the same security certifications and adheres to the same compliance 
+standards. Your data continues to be hosted in the same certified data centres with the same security 
+protections. Nothing about how we protect your data has changed.  
+ 
+Will this change affect data sovereignty and residency commitments? 
+ 
+No. Your data sovereignty and residency commitments remain exactly as specified in your agreement. 
+Keepit Poland is based in the EU and operates under the stringent legislative framework. Your data 
+continues to be processed in accordance with your data residency requirements and EU data protection 
+and security laws, ensuring complete data sovereignty. If your data is configured to remain in a specific 
+region or jurisdiction, those configurations and commitments remain unchanged. 
+ 
+What changes in my agreement with Keepit?  
+ 
+There are no substantive changes to your agreement with Keepit. Keepit Poland will be added to our sub-
+processor list under the Data Processing Agreement. Other terms, commitments, security obligations, 
+data residency requirements, including commercial terms, remain unchanged.  
+ 
+Can I object to the addition of the new subprocessor?  
+Yes, you have the right to object. If you wish to exercise this right, please contact us at dpo@keepit.com  
+within the timeframe specified in your Data Processing Agreement with us.
+
+Keepit is a software company specializing in cloud data backup and recovery, deriving from 20+ years of experience in 
+building best-in-class data protection services at scale. 
+ 
+What can I tell my stakeholders about this change?  
+You can reassure your stakeholders that Keepit Poland is Keepit's wholly-owned EU subsidiary (not an 
+external third party). This addition represents strategic growth within Keepit's own organisation, not 
+outsourcing. No third-party sub-processors will access or handle your data, and all data protection, 
+sovereignty and security commitments remain unchanged.

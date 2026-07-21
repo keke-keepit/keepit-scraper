@@ -1,0 +1,58 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-information-on-all-tokens/
+Content type: Web page
+Last modified: 2026-03-24T14:51:09+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve information on all tokens
+This command retrieves information on all tokens, both primary and secondary, in the account.
+API request
+Method POST
+/users/{account_id}/tokens/
+Example
+Method POST
+https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/tokens/
+Response
+Code: 200 OK
+Response body:
+<tokens>
+    <token>
+        <descr>Test</descr>
+        <aname>test@keepit.com</aname>
+        <created>2025-07-28T10:26:21Z</created>
+        <primary>false</primary>
+        <acl>MasterAdmin</acl>
+        <eacl></eacl>
+        <primary_aname>test1@keepit.com</primary_aname>
+        <lifetime>PT48H</lifetime>
+    </token>
+…PowerShell script
+try {
+    $username = '<API Token username>'
+    $password = '<API Token password>'
+    $hostname = 'dk-co.keepit.com'
+    $userId = '<Account GUID>'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"   = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+        "Content-Type"  = "application/xml"
+    }
+    $url = "https://$hostname/users/$userID/tokens/"
+    $response = Invoke-WebRequest -Uri $url -Method Get -Headers $headers -ErrorAction Stop -TimeoutSec 10
+    $xml = [xml]$response.Content
+    foreach ($token in $xml.tokens.token) {
+        foreach ($node in $token.ChildNodes) {
+            Write-Host "$($node.Name): $($node.InnerText)"
+        }
+        Write-Host ""
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}
+Script result
+descr: Test aname: test@keepit.com created: 2025-07-28T09:27:35Z primary: false acl: MasterAdmin eacl: primary_aname: test1@keepit.com lifetime: PT48H

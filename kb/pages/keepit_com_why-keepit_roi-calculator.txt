@@ -1,0 +1,9 @@
+Source URL: https://www.keepit.com/why-keepit/roi-calculator/
+Content type: Web page
+Last modified: 2024-09-12T15:58:12+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+To identify cost savings and business benefits of the Keepit SaaS platform, Keepit has commissioned Forrester Consulting to conduct “The Total Economic Impact™ of Keepit Dedicated SaaS Data Protection” study.
+Disclaimer: The underlying financial model for this ROI calculator has been commissioned by Keepit and delivered by Forrester Consulting based on its Total Economic Impact™ methodology. Keepit has created this tool and Forrester has not verified it for accuracy or certified its results. Although great care has been taken to ensure the accuracy and completeness of the model used in this tool, Keepit and Forrester are unable to accept any legal responsibility for any actions taken on the basis of the information contained herein. The tool is provided ‘AS IS’ and Keepit and Forrester make no warranties of any kind.

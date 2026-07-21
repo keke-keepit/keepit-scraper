@@ -1,0 +1,44 @@
+Source URL: https://www.keepit.com/help/entra-id-category/restore-an-entra-id-role/
+Content type: Web page
+Last modified: 2026-07-03T23:55:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore an Entra ID role
+Restoring a role will update its attributes and assignments to users and groups.
+Restore an Entra ID role
+Before you begin, ensure the Entra ID service account that was used to create the connector is assigned the global admin role.
+1. Open the Connectors page and select the desired connector.
+2. Locate the group in your connector.
+3. Optional: If you want to restore an older version of the object, click the Snapshots Viewer icon, then select an earlier snapshot. You will now be viewing data from that particular time.
+5. Select ••• > Restore.
+Tip: To preview the attributes and relationships and to compare them to older versions, select ••• > Object metadata. You can also initiate the restore directly from this previewer.
+6. Select whether to restore subobjects.
+Subobjects can be users and groups with this role.
+- If you select Restore only this object, click Next.
+- If you select Also restore subobjects, click Next. Then select the restore method and click Next.
+7. Review the summary and click Restore.
+Note: Roles can be restored in bulk, but the option to restore related items will be disabled.
+What happens when a role is restored
+Attributes restored
+The role's attributes are recreated (if missing) or updated (it still existing).
+Relationships reestablished
+The following relationships are reestablished:
+- Role assignments - links to all users and groups that are assigned this role (all users and groups will be assigned this role)
+ 
+ Note: A relationship can be reestablished only if the linked object still exists in Entra ID.
+New ID and creation time
+Only custom roles can be deleted from Entra ID. If the role has been deleted from Entra ID, all attributes and relationships will be recreated. The original template ID will be restored.
+This diagram shows the relationships that are restored:
+Restoring a role with subobjects
+A role's subobjects are users and groups assigned with the role.
+Enabling subobjects restore will create missing subobjects. This means for each missing user and group we will restore attributes and relationships. All recreated users and groups will receive new IDs.
+Selecting create missing and update existing subobjects:
+- Recreates deleted users and groups.
+- Updates existing users with its attributes, link to manager, role assignments, group ownerships, group and unit memberships, and licenses.
+- Updates existing groups with its attributes, links to members and owners, group and unit memberships, role assignments, and licenses.
+Selecting only create missing subobjects:
+- Recreates deleted users and groups.
+- Does not update attributes, relationships, licenses, and authentication methods of existing users and groups.
+Note: We cannot reestablish deleted users' memberships to distribution and mail-enabled groups. In this case, the restore job will be marked as incomplete, and these relationships will be skipped.

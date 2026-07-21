@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/press/new-data-centre-in-the-uk/
+Content type: Web page
+Last modified: 2025-08-20T02:30:22+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+New data centre in the UK | Keepit
+Backup and Recovery expert Keepit offers first and only no-transmission guarantee with new UK data centre
+Copenhagen, Denmark, 26 October, 2020: Keepit A/S, a global leader in cloud-to-cloud backup of SaaS data, today announced the opening of its first UK data centre*, making it the only vendor to physically move a data centre to the UK, in response to demand from British clients' ahead of Brexit.
+Following a recent investment round of $30 million from One Peak, which has enabled expansion into new markets, Keepit is partnering with Equinix – one of the world’s leading, green by design digital infrastructure companies – to run the data centre, guaranteeing that all customer data remains on UK soil. This avoids any data spill-over into other countries, as permitted by EU law, offering peace of mind to Keepit's Government and compliance-driven clients.
+Frederik Schouboe, CEO of Keepit A/S, said: “Over the last 12 months we have been on a strong growth trajectory and we are excited to be officially entering the UK market and prioritising our investment here ahead of Brexit. The rules for data storage might not be clear going forward, but we can confidently guarantee that our infrastructure ensures all customers' data will remain in situ, with no middleware transmissions outside regions – as is common with other data centres. We are proud to be the first and only vendor with that claim.”
+"There is a growing demand for our unique back-up and data recovery offerings from both global enterprise and regional businesses, and the pandemic's effect on the economy has further escalated migration to the cloud. We look forward to making sure that our flexible, scalable and secure (backup) services are fully available to our UK customers during these uncertain times."
+Frederik Schouboe
+CEO and Co-founder of Keepit
+The opening of the data centre recognises the importance of providing the fastest and most efficient (and secure) service to Keepit’s growing UK customer base, in addition to demonstrating significant expansion of its global network. It will also greatly increase the company’s ability to offer seamless low latency data back-up and recovery services across leading platforms such as Office 365, Google G-Suite, and Salesforce.
+Keepit’s new data centre investment tracks with the wider growth in the data backup-as-a-service (BaaS) and recovery sector, largely being fuelled by the exponential increase in data volumes, resulting from the increased adoption of connected technologies and digital transformation drives. The UK's Home Office department also reported a 120% rise in data loss incidents during the financial year 2019-20, while the latest market research report by Technavio puts the global data centre back-up and recovery market on a CAGR of more than 4% during the period 2019-2023.
+*Keepit’s new UK data centre is located in Slough, west of London.

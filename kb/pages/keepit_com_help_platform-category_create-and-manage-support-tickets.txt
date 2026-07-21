@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/help/platform-category/create-and-manage-support-tickets/
+Content type: Web page
+Last modified: 2026-06-23T23:51:23+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create and manage support tickets
+If you encounter any issues or questions, you can easily submit a Support ticket directly through the platform.
+Submit a support ticket
+1. In the left-hand menu, click the Support icon in the lower corner.
+2. Click + Create new ticket.
+3. Select the product area related to your issue.
+4. Enter a subject.
+5. Describe your issue. You can add up to 10 screenshots.
+6. Click Submit.
+A support agent will get back to you as soon as they can.
+You will be notified via an in-app message and by email as soon as you receive a reply.
+Close a support ticket
+If your issue has been resolved, you can close the support ticket one of the following ways:
+- Point to the ticket in the ticket list and click the check mark on the right. Then click Yes, close to confirm.
+- Open the ticket, click Close ticket, and then click Yes, close.
+Reopen a support ticket
+If you need to reopen a ticket, you can do so one of the following ways:
+- Point to the ticket in the ticket list and click the circular arrow on the right. Then click Yes, reopen to confirm.
+- Open the ticket, click Reopen ticket, and then click Yes, reopen.

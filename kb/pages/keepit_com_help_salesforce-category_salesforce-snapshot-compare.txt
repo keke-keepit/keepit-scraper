@@ -1,0 +1,41 @@
+Source URL: https://www.keepit.com/help/salesforce-category/salesforce-snapshot-compare/
+Content type: Web page
+Last modified: 2025-03-11T20:12:35+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Salesforce snapshot compare
+The snapshot compare feature enables you to compare items in different snapshots, allowing you to quickly spot differences, identify data loss, and easily find records that need to be restored.
+Open the compare snapshots feature
+1. Open the snapshot you want to use as your baseline by clicking the Snapshots Viewer and selecting a snapshot.
+If you want to the baseline to be the most recent snapshot, then skip this step.
+2. Click the Compare snapshots icon in the toolbar.
+3. Select a snapshot.
+Note: The comparative snapshot must be older than the baseline snapshot. 
+4. Click Compare.
+What you will find in the snapshot compare
+The snapshot compare feature assesses the snapshot you are currently viewing (the baseline snapshot) against an older snapshot (the comparative snapshot).
+In the table, you'll find
+- Name: The item's name in the baseline snapshot (if absent, we will show the name from the comparative snapshot)
+- Label: RTBF or other applicable labels
+- Status: The status of the item in the baseline snapshot compared to the comparative snapshot
+- Size (comparative): The size of the item in the comparative snapshot
+- Size (baseline): The size of the item in the baseline snapshot
+- Size change: The change in size of the item in the baseline snapshot compared to the comparative snapshot
+Statuses
+The status of the item in the baseline snapshot compared to the comparative snapshot:
+- Unchanged: The item has not been changed since the comparative snapshot
+- Modified: The item has been modified since the comparative snapshot
+- Deleted: The item has been deleted since the comparative snapshot
+- Added: The item has been added since the comparative snapshot
+Hide unchanged items
+Select the Hide unchanged items checkbox to show only items that have been modified, added, or deleted.
+Note: This applies only to the items listed on the page you are currently viewing.
+Use the filters 
+Click the Filter categories icon in the right side of the toolbar.
+Here you can filter the records based on their statuses.
+Restoring and downloading records while comparing data
+You can easily restore and download records while comparing data.
+Records with an unchanged, modified, or deleted status will be restored and downloaded from the comparative snapshot.
+Records with with the added status will be restored and downloaded from the baseline snapshot.

@@ -1,0 +1,31 @@
+Source URL: https://www.keepit.com/customers/blaze/
+Content type: Web page
+Last modified: 2026-05-19T15:17:28+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Blaze Credit Union protects multiple SaaS applications with Keepit
+For financial institutions, protecting SaaS data is essential toâ¯maintainâ¯security, supportâ¯compliance, and ensureâ¯business continuity. Blaze Credit Union needed a backup and recovery solution that could protect critical systems without increasing complexity or infrastructure requirements.â¯
+Grant Aslakson, Director of Information Security Operations at Blaze Credit Union,â¯is responsible forâ¯ensuring business-critical dataâ¯remainsâ¯secure, recoverable, and easy to manage.â¯â¯With most of the data being sensitive financial data across multiple SaaS applications, the organization needed reliable protection without added administrative overhead.
+Streamlining identity and DevOps data protection
+As SaaS adoption expanded, the team needed a way to centrally protect identity and DevOps data alongside core productivity applications. Managing multiple tools would have added operational complexity and increased maintenance requirements.
+We protect all of our business critical SaaS platforms with Keepit. Using one platform to secure all of this data reduces complexity and makes it very easy to manage.
+Grant Aslakson 
+Director of Information Security Operations, Blaze Credit Union 
+Ease of use, strong restoration capabilities, reliability, and low administrative overhead were key evaluation criteria. The team also wanted to avoid expanding its on-premise footprint while ensuring data remained accessible when needed.
+One platform to reduce complexity
+Using a single platform to protect multiple SaaS applications simplified management and eliminated the need for separate backup solutions. Consolidation reduced infrastructure requirements and allowed the team to manage protection more efficiently.
+Keepit has helped us reduce our on-premise footprint, which is a significant value add for us.
+Grant Aslakson 
+Director of Information Security Operations, Blaze Credit Union 
+Keepit’s independent architecture also provided additional assurance that backup data would remain accessible even if issues affected major cloud providers. The availability of U.S. data centers offered flexibility should future regulatory requirements require data to remain within the country.
+Restores that keep teams productive
+Since deploying Keepit, Blaze Credit Union has reduced its on-premise footprint and simplified its data protection approach. The platform’s reliability and ease of use allow the security team to focus on broader priorities, confident that backup data is consistently protected.
+Fast, reliable restores help support daily operations while ensuring important data can be recovered when needed.
+Keepitâ¯canâ¯capture data that no other backup solution has been able to capture. That has been extremely beneficial in our day-to-day use, especially when restoring files quickly and confidently.
+Grant Aslakson 
+Director of Information Security Operations, Blaze Credit Union 
+A modern approach to multi-application SaaS backup
+Blaze Credit Union first learned about Keepit through its IT advisory and consulting partner, who recommended evaluating the platform. The solution aligned closely with the organization’s need for simple, dependable SaaS backup that supports both operational resilience and long-term data protection goals.
+By consolidating protection for productivity, identity, and DevOps data into a single platform, Blaze Credit Union has implemented a modern approach to multi-application SaaS data protection that is easy to manage and built for resilience.

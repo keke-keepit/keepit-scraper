@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/help/pmc/managing-customer-messages/
+Content type: Web page
+Last modified: 2025-03-11T17:08:49+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Managing customer messages
+Stay up to date on important updates and events in your customer accounts by customizing your message preferences. You can choose which messages you receive for each customer, ensuring you only get the information that matters most.
+Messages will be delivered directly to the PMC messages inbox and to the emails of all the users within the account who have the "receive customer messages" option enabled in their settings.
+Note: If you want the account contact email to receive these messages, we recommend you create a user with this email address.
+Enable customer messages at the account level
+1. In the lower-left corner, select the account profile > Account info.
+2. Go to the Messages tab > Customer messages.
+3. Enable the Receive messages about customer accounts toggle.
+4. Select which messages you wish to receive.
+5. Click Update to save your preferences.
+Important: To receive these messages, messaging must also be enabled at the customer account level.
+Enable messages for specific customers
+By default, messages for customer accounts are disabled. To receive messages, you need to manually enable them for each customer account.
+1. Open the Accounts page.
+2. Point to the account and select ••• > Edit.
+3. In Account settings, enable the Receive messages about this customer toggle.
+4. Click Update to save your settings.

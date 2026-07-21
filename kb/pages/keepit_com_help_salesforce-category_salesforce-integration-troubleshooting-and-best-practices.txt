@@ -1,0 +1,43 @@
+Source URL: https://www.keepit.com/help/salesforce-category/salesforce-integration-troubleshooting-and-best-practices/
+Content type: Web page
+Last modified: 2026-06-30T16:34:19+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Salesforce integration troubleshooting and best practices
+Use this guide if you’re encountering issues connecting to Salesforce or restoring data.
+Common issues & fixes
+Issue 1: OAuth token fails
+Check: Authenticated User has API Enabled + OAuth Access + ‘Approve Uninstalled Connected Apps’ permission
+Fix: Reauthenticate user using the Keepit Connector Settings
+Issue 2: Not all files are backed up
+Check: "Query All Files" permission
+Fix: Add it to the assigned permission set
+Issue 3: Restore errors on specific fields
+Check: Field-Level Security (FLS) for the Authenticated User
+Fix: Grant read/edit access for fields like Owner, CreatedBy, etc.
+Issue 4: Session timeouts or IP lockouts
+Check: Session Settings (timeout, IP lock)
+Fix: Relax settings for Authenticated User
+Issue 5: Unexpected token expiration
+Cause: Password resets, permission changes, manual token revocation, logout behavior, Org-wide session or security policy changes
+Fix:
+- Avoid frequent password changes
+- In Orgs older than 2016, reviewâ¯Session Settings > Revoke refresh tokensâ¯on logout
+Issue 6: Login errors due to custom domain
+Cause: Some orgs enforce login through a custom domain (e.g., mydomain.my.salesforce.com)
+Fix:
+- Go to Setup > My Domain
+- Confirm your org’s login policy
+- Ensure the integration uses the custom domain URL for authentication
+Platform limitations
+Not supported:
+- Big Objects
+- Fields encrypted with Classic Encryption (unless View Encrypted Data is enabled)
+- Objects restricted by managed or unmanaged packages or license limits
+Pro tips
+- Use a cloned System Admin profile + Permission Set for flexibility
+- Assign needed feature licenses (Knowledge, CRM Analytics, etc.)
+- Revalidate permissions after major Salesforce updates
+- For full object and permission requirements, see the Permission Reference Guide

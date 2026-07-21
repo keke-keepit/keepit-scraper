@@ -1,0 +1,23 @@
+Source URL: https://www.keepit.com/press/keepit-wins-uk-business/
+Content type: Web page
+Last modified: 2025-08-14T23:55:39+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit named Best Cybersecurity Backup Service by Business Awards UK, 2024 Cybersecurity and Resilience Awards
+Copenhagen, Denmark – April 11 – Keepit, a global leader in SaaS data protection, has been awarded “Best Cybersecurity Backup Service” by the Business Awards UK, 2024 Cybersecurity and Resilience Awards. Keepit announced the opening of its UK office in March 2024 – a testament to the company’s plans to expand its local market share and cement its commitment to providing its UK customers with local support.
+“We’re honored to be recognized as a leader in cybersecurity by the Business Awards UK. Companies are seeing an increase in cyber threats that target business-critical SaaS data. Keepit is committed to supporting UK customers in future-proofing their journey to the cloud with our SaaS backup and recovery products, enabling business continuity”, says Michele Hayes, CMO at Keepit.  
+Headquartered in Copenhagen, Denmark, with offices in the US, Germany, and now the UK, Keepit counts The National Gallery and Oxford University Innovation Ltd among its UK customers.  
+Key benefits of the Keepit platform include: 
+- Data protection for all major SaaS applications in a single platform, including Azure DevOps, Dynamics 365, Entra ID (formerly Azure AD), Google Workspace, Microsoft 365, Power Platform, Salesforce, and Zendesk
+- Vendor-independent cloud: Keepit ensures backup data is stored separately from the production data, on its independent cloud, meaning data is always accessible even if a SaaS vendor has downtime.
+- Data sovereignty: with seven isolated data center regions (one of which is in the UK), Keepit’s customers can always be 100% certain that they can customize their backups to comply with local regulatory requirements.
+- Instant recovery: fast, easy, and granular search and restore features means data can be located, previewed, and retrieved with just a few clicks.
+- Certified, cloud-native design: Keepit is ISO/IEC 27001:2013 and ISAE 3402-II certified. Unique security and ransomware protection keeps data available and immutable by default.
+- Predictable costs: customers pay one flat fee per user which includes unlimited data storage, ingress/egress, and retention.
+- Simple and intuitive software: the simple interface and API-first architecture of the Keepit Platform requires no training, and can easily be integrated into existing systems, meaning customers can get up and running in minutes. 
+ 
+Keepit Backup and Recovery for Entra ID (formerly Azure AD) has won several awards, including: "Risk management solution provider of the year" from 2023 CyberSecurity Breakthrough Awards; "2023 Product of the Year" from Redmond Magazine; “Data Loss Prevention” and “Disaster Recovery/Business Continuity” categories from Security Today’s CyberSecured Awards, and the "Azure Cloud Security" category from the 2024 Globee® Awards for Cybersecurity.
+About Keepit
+Keepit provides next-level SaaS data protection for companies with data stored in the cloud. Keepit's vendor-independent cloud dedicated to SaaS data protection is based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Azure AD, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. For more information visit www.keepit.com or follow Keepit on LinkedIn.

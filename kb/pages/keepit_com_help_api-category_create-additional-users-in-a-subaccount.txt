@@ -1,0 +1,16 @@
+Source URL: https://www.keepit.com/help/api-category/create-additional-users-in-a-subaccount/
+Content type: Web page
+Last modified: 2025-10-16T09:59:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create additional users (tokens) in a subaccount
+This command allows you to create additional users (access tokens) in a subaccount.
+When you create a subaccount, you also get one access token for one user. You can create additional users (tokens) for a newly created subaccount.
+In other words, when a subaccount is created, one user (access token) is automatically created. However, you can create additional ones via an API call if needed.
+API request
+Method POST
+/users/{subaccount_id}/tokens/
+Elements table
+Root object element: token

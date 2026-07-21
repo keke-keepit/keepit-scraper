@@ -1,0 +1,56 @@
+Source URL: https://www.keepit.com/blog/keepit-partner-network/
+Content type: Web page
+Last modified: 2025-08-20T00:41:09+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Partner Network: Growing partnerships to the next level
+Leading the way with vendor-independent data protection
+When I started in Keepit in July 2023, I knew that I was joining a very special company. Not only does the company have a great product, but it also has a great partner ecosystem and the two are key to having an impact on the market.
+At the heart of data protection specialist Keepit’s success lies indeed a resilient and purpose-built cloud infrastructure — and also many long-lasting partner relationships.
+The company's platform, exclusively owned and operated independently from other cloud vendors, signifies a revolutionary shift in data protection strategies. Serving as the ultimate safeguard against potential data loss resulting from security incidents or unforeseen events, Keepit ensures that its partners empower clients to maintain control over their critical SaaS data.
+And it’s not just a few workloads that we cover: Keepit’s unique easy-to-use platform ensures business-critical SaaS data from multiple SaaS applications, like Microsoft 365, Entra ID (Azure AD), Salesforce (and others) is kept immutable, accessible, and compliant with even the strictest of requirements. Learn more about Keepit’s security and compliance.
+Keepit’s impressive scaling secures $40 million from HSBC Innovation Banking
+On Jan. 9, 2024, Keepit announced that HSBC Innovation Banking has provided Keepit with a $40 million refinancing package together with The Export and Investment Fund of Denmark (IEFO). The fresh capital is earmarked to sustain the impressive growth trajectory and substantial expansion strategy of Keepit.
+Keepit CEO and co-founder, Morten Felsvang, shares that the funding “is an infusion of confidence in our capabilities on all levels. And it means that we can continue our growth strategy at full throttle.”
+Partners prove invaluable to Keepit’s growth and success
+The Keepit Partner Network (KPN) highlights the company's dedication to its channel ecosystem. Tailored for resellers, managed service providers, and distributors, this program elevates partner engagement with its tiered structure, ensuring customized support for diverse partner needs.
+KPN is designed to propel partners toward unparalleled success within data protection together with Keepit. The recognition of Keepit with its addition as a scaler in the Canalys "Global Managed Backup and Disaster Recovery Leadership Matrix 2023" report underscores the program's rapid growth and our outstanding performance.
+And in support of that commitment to growth, we’re setting our sights on crossing over into the coveted Canalys "Champions" category on our impressive journey by adopting a partner-only model.
+Keepit's Partner Network emerges not just as a program but as a strategic cooperation for the future. Partners get the chance to be a hero for customers by offering them award-winning, next-level SaaS data protection that’s transparent in cost and incredibly easy to set up, onboard, and use.
+Partnering with Keepit means always being at the forefront of cloud SaaS data protection.
+Anders Kaag
+CTO of IT Relation
+Unlocking the next level with Keepit and partners
+Keepit is committed to taking the industry to new heights, and through our Partner Network, we’re doing exactly that. Whether you’re a Value-added Reseller (VAR), a Managed Service Provider (MSP), or a hybrid partner, KPN offers a tailor-made program that goes beyond the ordinary.
+It’s no big secret that no one really likes onboarding new tools, but we do things differently at Keepit. That’s why we’ve created the simplest to onboard and easiest to use solution available. Easy to implement, easy to operate, and easy to do business with. It’s a low entry point to start benefiting from Keepit. Customers of VARs and MSPs themselves recognize this, and they’ve gained a substantial advantage with our leading solution and customer experience.
+We don’t see a need to offer our clients any other solution – nothing beats Keepit quite frankly.
+Stefan Hefele
+Head of Managed Services
+IF-Blueprint
+Key Features of the Keepit Partner Network
+The KPN delivers clear, enticing, and more tailored benefits. The benefits aren’t static — they evolve with your commitment, ensuring a partnership that grows and thrives. With a Keepit Regional Partner Manager in most countries and regions, partnering with Keepit has never been easier.
+Here’s what you can look forward to:
+- Build recurring revenue streams: Deliver industry-leading data protection and security solutions to your customers, ensuring transparent costs and unparalleled ease of use.
+- Focus on growing business together: Join us in creating joint go-to-market strategies, guaranteeing customer success and providing fully automated data protection across all popular SaaS apps like Microsoft 365, Entra ID, Salesforce, and Google Workspace.
+- Amplify and retain your gross profit: Unlock incentives, boost and retain gross profit, and cultivate a long-term recurring revenue stream without the burden of operational expenses.
+- Diversify your offerings: Stand out from competitors with the most comprehensive SaaS data backup coverage available.
+- Adopt Keepit your way: Tailor your approach by managing customers with our ready-to-use Partner Management Console or seamlessly integrating services into your preferred systems with our APIs.
+We’re looking to establish partnerships for the future along two main tracks: The Value-added Reseller (VAR) track and the Managed Service Provider (MSP) track. Regardless of your track, we’ll support you in every step of our journey together with partner empowerment.
+Here’s eight ways Keepit supports your growth:
+1. 24/7 partner support
+2. Partner Management Console
+3. Sales resources and training
+4. Deal registration
+5. Global co-sell support
+6. Rebates and discounts
+7. Co-marketing opportunities
+8. MDF funds
+“Growing” forward, together
+As we continue to grow, we want inspired partners to join us on this transformative journey to get to the next level, together, because we know that we’re better together. Whether you're a VAR or an MSP (or something in between), the Keepit Partner Network is tailored to elevate your businesses — and to unprecedented heights. We have an impressive growth strategy that we’d love to have you alongside of us pushing forward.
+We are very delighted about the new Keepit Partner Program. The fair requirements and multiple benefits strengthen our cooperation and are an excellent basis for further exponential growth in the new SaaS Data Backup as a Service market segment.
+Matthias Schick
+Director Solution & Practice Management Security & Software
+Bechtle
+Ready to embark on a journey of growth and innovation? Together, let's shape the future of data protection and create lasting success. Learn more about partnering with Keepit. Are you ready to empower your business?

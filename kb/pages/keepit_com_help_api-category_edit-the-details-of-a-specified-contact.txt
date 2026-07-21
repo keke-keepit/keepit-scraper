@@ -1,0 +1,58 @@
+Source URL: https://www.keepit.com/help/api-category/edit-the-details-of-a-specified-contact/
+Content type: Web page
+Last modified: 2025-10-16T10:08:32+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Example
+The Legal (L) contact update:
+Method PUT
+https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka/contacts/l
+Body
+<contact>
+    <email>test123456789@keepit.com</email>
+    <companyname>Company</companyname>
+    <fullname>test123456789@keepit.com</fullname>
+    <phone>11111111111111</phone>
+    <street1>TheExampleStreet</street1>
+    <city>Copenhagen</city>
+    <language>en-GB</language>
+</contact>Response
+Code: 200 OK
+Response body:
+Successfully updated contact details.
+PowerShell script
+try {
+    $username = '<Token username>'
+    $password = '<Token password>'
+    $userId = '<Account ID>'
+    $contactType = 'p'  # Indicate contact type: p/e/f/l
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))   
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+        "Content-Type"  = "application/xml"
+    }
+    $url = "https://dk-co.keepit.com/users/$userId/contacts/$contactType"
+    $xmlBody = @"
+<contact>
+    <email>test123456789@keepit.com</email>
+    <companyname>Company</companyname>
+    <fullname>test123456789@keepit.com</fullname>
+    <phone>11111111111111</phone>
+    <street1>TheExampleStreet</street1>
+    <city>Copenhagen</city>
+    <language>en-GB</language>
+</contact>
+"@
+    $response = Invoke-WebRequest -Uri $url -Method PUT -Headers $headers -Body $xmlBody -ErrorAction Stop -TimeoutSec 10
+    Write-Host $response.Content
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}Additional information
+- Only include the fields that need to be updated. Fields that are not specified will remain unchanged.
+- To remove a parameter (if removable), provide an empty value.

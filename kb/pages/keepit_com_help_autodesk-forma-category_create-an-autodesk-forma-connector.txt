@@ -1,0 +1,47 @@
+Source URL: https://www.keepit.com/help/autodesk-forma-category/create-an-autodesk-forma-connector/
+Content type: Web page
+Last modified: 2026-07-09T09:21:45+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create an Autodesk Forma connector
+Requirements
+Before you begin, make sure you have:
+- Hub Admin access in your Autodesk Forma instance.
+- Autodesk Platform Services (APS) activated on your Autodesk account. To acquire it, see Autodesk Platform Services on the Autodesk website.
+Part 1: Create the integration application in Autodesk Platform Services
+1. Sign in at aps.autodesk.com.
+2. Go to Developer Hubs, then select Applications.
+3. Select Create application.
+4. Select Traditional Web App as the application type, then enter a name for the application.
+5. Note the Client ID and Client Secret shown in the Client Credentials section. You need both in Parts 2 and 3.
+6. In General Settings, add the following callback URL:
+https://{server}.keepit.com/desktop/oauth
+7. Under API Access, add permissions for the following APIs:
+- Data Management API
+- Forma API (formerly ACC)
+- BIM 360 API
+Part 2: Register Keepit in Autodesk Forma
+1. Sign in to your Autodesk Forma instance.
+2. Go to Hub Admin > Custom Integrations.
+3. Select Add custom integration. A dialog appears.
+4. In the Autodesk Platform Services Client ID field, enter the Client ID from Part 1, step 5.
+5. Enter a name for the integration in the Name field.
+6. (Optional) Enter a description in the Description field.
+7. Note the Hub ID shown in the dialog. You need it in Part 3. Then select Next.
+8. In the confirmation dialog, select Proceed anyway.
+Note: If you didn't save the Hub ID in step 7, you can find it under Hub Admin > Settings in your Autodesk Forma instance.
+Part 3: Add the connector in Keepit
+1. Sign in to the Keepit platform.
+2. In the left navigation, select Connectors.
+3. Select Add connector. A list of available connectors appears.
+4. Select Autodesk Forma. A dialog appears.
+5. Enter the following:
+- Organization ID — paste the Hub ID from Part 2, step 7.
+- Application ID — paste the Client ID from Part 1, step 5.
+- Application Secret — paste the Client Secret from Part 1, step 5.
+- 6. Select Sign in. Autodesk redirects you to the sign-in page.
+7. Review the permissions that Keepit requests, then select the option to grant access. Keepit redirects you back to the platform.
+8. Enter a name for your connector, then select Create.
+Keepit will now start the initial backup of your Autodesk Forma data.

@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/resources/resilience-under-fire-key-takeaways/
+Content type: Web page
+Last modified: 2025-11-17T21:23:36+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Resilience under fire: Key takeaways on safeguarding against hybrid attacksÂ
+In today’s world, the boundaries between physical and digital conflict are fading. Hybrid warfare, nation-state threats, and increasingly sophisticated cyberattacks are putting unprecedented pressure on organizations to stay resilient. The question isn’t if you’ll face disruption — it’s how ready you are to recover when it happens.
+This was the focus of our recent “Resilience under fire” webinar, where Kim Larsen, CISO at Keepit, and Ken Bonefeld Nielsen, senior cyber security and resilience advisor at Norlys, explored what it takes to safeguard against hybrid attacks.
+Here’s what we learned:
+- Hybrid attacks redefine the battlefield. 
+ Modern conflicts combine cyber, physical, economic, and informational dimensions — often without a formal declaration of war. Understanding these scenarios and building mental resilience is key to withstanding complex, multi-layered threats.
+- You can’t protect everything — prioritize what matters most. 
+ Not all systems are created equally. Identifying and classifying mission-critical data and services is essential. Spreading resources too thinly leads to slower recovery and increased business risk.
+- Recovery is your strongest defense. 
+ Absolute prevention is no longer realistic. True resilience lies in your ability to bounce back quickly. Immutable backups, clear RPO/RTO targets, and regular recovery testing form the foundation of an intelligent resilience strategy.
+Our webinar handout summarizes these insights into actionable guidance, including:
+- An overview of the threat landscape
+- Key capabilities your organization needs to adopt now
+- Practical steps to map your dependencies, classify your data, and define recovery priorities
+Download the handout now to learn how to strengthen your organization’s resilience and safeguard against hybrid threats — because in today’s digital battlefield, recovery is security.

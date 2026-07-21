@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/customers/penta/
+Content type: Web page
+Last modified: 2025-11-28T14:11:32+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Penta Hospitals recognizes Keepitâs unparalleled business continuity and data compliance benefits
+As a healthcare organization, consistent access to data is essential. Penta Hospitals shines light on Keepit’s ability to prevent data loss and quickly recover data in the event of a ransomware attack. The solution also ensures that the key to their Microsoft data, Entra ID, is consistently backed up. Finally, Keepit makes data compliance easy to achieve with its flexible retention policies and detailed audit trails.
+The search for streamlined data loss prevention
+Aware that their organization faces risks of data loss from accidental deletion, system errors, and cyberattacks, Penta Hospitals was looking for a backup solution with robust data security and data retention. Their research showed that Keepit offers a reliable backup and recovery solution which provides the guarantee that any accidentally or maliciously deleted data can be recovered. Keepit’s independent cloud backup was also a selling point; with their data stored separately with a third party, they can be sure that any Microsoft service disruptions do not affect their data backups. Additionally, Penta Hospitals wanted to make use of Keepit’s 3-2-1 backup rule which ensures 3 copies of data, across two types of storage media, with one off-site copy. Such measures ensure that all hospital data is truly, securely, independently backed up.
+I don't think that you will find a better solution than Keepit when it comes to securing your SaaS data across multiple applications and ensuring robust, independent data security.
+Leonard Haraslin
+Penta Hospitals, Information and Cyber Security Specialist
+Fulfilled compliance requirement for the new NIS2 directive
+With the introduction of the NIS2 directive across the EU in October 2024, Penta Hospitals had a new need to comply with this amendment to the law on cybersecurity. Such directives are indicators of times to come. Optimal cybersecurity is no longer a “nice to have” – it’s a necessity. Penta Hospitals chose Keepit for its ability to ensure it meets stringent compliance requirements - such as the NIS2 directive. Keepit further makes compliance easier by providing flexible retention policies and detailed audit trails, allowing the organization to both remain compliant and prove compliance when needed. For example, when the company was gaining ISO27001 certification, they used Keepit to demonstrate how their services are backed up to help them receive the certification.
+Since the new NIS2 directive arrived, we must take extra steps to comply with this new regulation. Keepit makes it easy for our organization to store data as per regulatory standards.
+Leonard Haraslin
+Penta Hospitals, Information and Cyber Security Specialist
+Keepit for Entra ID chosen to ensure smooth disaster recovery
+Penta Hospitals also chose to utilize Keepit for Entra ID to ensure simple, quick recovery in the event of a cyber disaster. Serving as the key to their Microsoft data, the company was aware of the importance of securing Entra ID to prevent losing access to business-critical data. Backing up this environment allows the company to quickly recover any hacked or deleted data and deliver business continuity in the event of a ransomware attack or accidental data deletion.
+It is absolutely critical for us to back up Entra ID in order to ensure simple, quick recovery from ransomware or other cyber disasters.
+Leonard Haraslin
+Penta Hospitals, Information and Cyber Security Specialist

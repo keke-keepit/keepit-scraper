@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/help/power-bi-category/requirements-for-setting-up-a-power-bi-backup/
+Content type: Web page
+Last modified: 2026-03-12T09:56:26+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Requirements for setting up a Power BI backup
+The Microsoft 365 service account used to handle the backup must be assigned the Global administrator role and the Fabric administrator role.
+The service account must also have a proper license: Power BI Pro or Power BI Premium – depending on the type of workspaces that will be backed up.

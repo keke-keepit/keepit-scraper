@@ -1,0 +1,147 @@
+Source URL: https://www.keepit.com/Assets/Pdf/Keepit_x_Viborg_Municipality_Customer_Case.pdf
+Content type: PDF document
+Title: unknown
+Pages: 3
+Retrieved: 2026-07-21
+
+============================================================
+
+With 7,000 full-time
+employees and over
+97,000 inhabitants, Viborg
+Municipality has secured
+its data in the cloud with
+Keepit since 2018
+Ole Christiansen is Head of IT Operations & Support 
+in Viborg Municipality’s IT & Digitalization department, 
+which consists of 37 employees who, in addition to the 
+service desk, work with networks, servers and applications. 
+The IT department serves a total of 180 locations in the 
+municipality.
+From Lotus Notes to Microsoft 365
+After using Lotus Notes for many years, the IT department 
+in Viborg Municipality (VM) found it increasingly difficult 
+to recruit new Lotus Notes administrators and developers. 
+At the same time, the municipality wanted to follow the 
+market trend and meet the employees’ demands for a 
+flexible workplace by moving to the cloud:
+The desire to be a more modern 
+workplace contributed to our shift to 
+Microsoft 365.
+Ole Christiansen
+Head of IT department, Viborg Kommune 
+Customer Story: Viborg Kommune
+Page 1
+
+Rather than starting with a hybrid solution, as many 
+others had done, VM chose to go all-in from when the 
+municipality implemented Microsoft 365 back in 2014.    
+In addition to the many thousands of users in the school 
+district, the municipality has almost 4,500 Microsoft 365 
+users in their administration. Today, VM uses much of the 
+Microsoft package; in addition to the usual apps like mail 
+(Exchange) and calendar, they also use OneDrive, Teams, 
+and SharePoint. Their strategy is being planned, together 
+with digitalization consultants in the management 
+areas, for how all the services in Microsoft 365 can be 
+implemented.
+Inadequate Backup & Restore in Microsoft 365   
+When Microsoft 365 was implemented, IT spent a 
+great deal of time figuring out what exactly Microsoft 
+guarantees in terms of data protection. It was concluded 
+that Microsoft basically guarantees that they keep the 
+platform running with the systems they make available. 
+They guarantee 30 days of backup via the Recycling Bin, 
+but with the risk of users emptying it and thereby deleting 
+the data within.              
+There is the opportunity to enable Ligitation Hold to 
+restore data that goes further back, but the challenge 
+with this is, according to Christiansen, that it can be a 
+difficult and slow task to retrieve data, one that requires 
+PowerShell skills:        
+“For example, if a user deletes an entire folder in his 
+mailbox with many emails and files, then we cannot 
+restore the folder directly with the full content. We are 
+forced to recreate all the individual elements. A huge 
+task,” says Christiansen.
+Teacher Lost Two Years of Work 
+Christiansen shared some stories in which the IT 
+department’s Service Desk was contacted by users 
+who had lost data, and in particular, a case involving a 
+teacher who, for two years, had been saving all of his 
+teaching materials in a folder in OneDrive. And then 
+lost it. It was not possible to see what had happened - 
+whether the folder had been deleted or just disappeared 
+- but when the 30 days had passed, there was no way to 
+restore anything via the Recycling Bin. Years of valuable 
+work and teaching materials were permanently lost.
+Proper Backup and Quick Restore Is ‘Need to Have’      
+The cloud contains many risks for losing data if you do 
+not secure a backup. After a few years with Microsoft 365, 
+it became clear to IT departments that what Microsoft 
+offers for restoring was not enough. They decided to 
+find a supplementary backup solution for Microsoft 365, 
+with the primary aim to ensure easy and fast back up & 
+restore.              
+“That our Service Desk can easily and quickly restore data 
+for a user is very important for the municipality of Viborg. 
+Customer Story: Viborg Kommune
+Page 2
+Moving data to the cloud 
+does not mean that 
+server people no longer 
+have something to do.
+Ole Christiansen
+Head of IT department, Viborg Kommune
+
+Customer Story: Viborg Kommune
+Page 3
+After all, a lot of important documents and decisions are 
+made in a municipality, so we need to be able to quickly 
+restore that if users lose it, ‘ shares Christiansen, who also 
+states that backup is an absolute need to have.
+After a thorough search, VM chose Keepit, whose 
+complete backup & restore solutions contain everything 
+the municipality wanted. This includes quick and easy 
+restores when things go wrong for users, which also 
+ensures full flexibility from restoring a single file or folder 
+to restoring a complete user account.
+Response Times Can Be Problematic 
+A second challenge that the municipality experiences 
+with the migration to Microsoft 365 and other cloud 
+services is the response time, also called latency. With the 
+municipality’s ability to run 10 GB in their core network, it 
+can be problematic when sending large amounts of data 
+and queries via an internet connection              
+However, since Keepit is a cloud to cloud backup service, 
+the network is not affected by the transfers between 
+Microsoft 365 and the backup system. 
+The Cloud Requires Continued Internal Operation    
+Although VM has moved to the cloud with Microsoft 
+365 (among others), there is still a lot of work to do with 
+managing the things that are in the cloud. Whenever 
+Microsoft updates their systems to keep them running, 
+the municipality’s IT department takes care of all the 
+administration behind the changes.         
+‘Moving data to the cloud does not mean that server 
+people no longer have something to do,’ Christiansen 
+says, challenging the myth that the cloud takes the work 
+away from IT departments.
+Outsourcing in the Cloud Is the New Black 
+In relation to outsourcing, the municipality’s IT 
+department opinion is that one should outsource where 
+it makes sense, with care, to choose the right products 
+with the right features and the right price. When it makes 
+sense to shift to the cloud, one does. Therefore, the 
+municipality does not rely only on Microsoft 365 - they 
+have a secondary backup in the cloud, and also for other 
+solutions from larger providers, such as the financial 
+system VM uses. This is a trend that has come to stay:            
+“I think that in the coming years we will see a much larger 
+movement towards cloud services. I don’t think there can 
+be any doubt - this is a clear movement that has been 
+started,” concludes Christiansen.  
+Get in touch with Keepit
+Reach out for a talk and get a free 30-day trial.
++45 8987 7792
+sales@keepit.com

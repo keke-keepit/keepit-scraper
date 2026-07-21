@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/partners/partners-stories/if-blueprint/
+Content type: Web page
+Last modified: 2024-03-27T23:39:19+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+IF-Blueprint leverages partner Keepit to help their customers protect the backbone of their Microsoft 365 data: Azure AD
+IF-Blueprint is an IT service provider and Microsoft Partner offering a managed Microsoft 365 solution. As a trusted Keepit partner, IF-Blueprint guarantees that their customers are getting the best-in-class backup for their data when they use Keepit data protection.
+When it comes to their customers’ Microsoft 365 data, Head of Managed Services at IF-Blueprint Stefan Hefele shares why backup for Azure AD is imperative to securing consistent access.
+Azure AD: The backbone of Microsoft 365
+As an identity provider, Azure AD ensures that your users have password-protected access to their Microsoft 365 data.â¯Without this access, employees may lose access to data, bringing business to a halt.â¯IF-Blueprint shares that Keepit's Azure AD backup solution ensures that their customers never lose access to their Microsoft 365 data, allowing them to keep their businesses running even when passwords become lost or hacked.
+Without access to Azure AD, there’s no way to access the entire M365 environment.
+Stefan Hefele
+Head of Managed Services, IF-Blueprint
+Easy to delete, difficult to recover
+In Stefan’s experience, Azure AD data can be deleted more easily than in other Microsoft apps, making the need for backup even more pressing. While apps like Exchange and SharePoint have recycling bins, Azure AD does not — in many cases — offer this function, making it even more difficult to access your Microsoft data if Azure AD data is accidentally deleted. As a side note, while a recycling bin can function as a “quick fix” for accidentally deleting a single file in some apps, it is far from enough to protect your company’s data from a ransomware attack or larger scale data deletions.
+Once Azure AD data is deleted, it has much larger implications than just deleting a file. You may not even be able to login to your account — or even your computer, making it impossible to continue working as normal.
+If Azure AD becomes compromised, it has much larger implications than just deleting a file. You may not even be able to log in to your computer, making it impossible to work.
+Stefan Hefele
+Head of Managed Services, IF-Blueprint
+Avoid recovery headaches
+Without backup for Azure AD, it can take hours just to reset one PC — and days to reset all the PCs in an organization — after a cyberattack. This reset could include creating a new Azure AD environment and potentially rescripting everything. In short, it’s a lot of work. IF-Blueprint recommends Keepit for Azure AD for this reason; when your Azure AD data is backed up with Keepit, you’ll never, ever lose access to your Microsoft 365 data.
+If a single machine gets corrupted, it can take up to 4 hours to reset the whole machine (without automations in place). Imagine translating this downtime to hundreds or thousands of machines across an entire organization.
+Stefan Hefele
+Head of Managed Services, IF-Blueprint

@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/blog/microsoft-365-backup-responsibility/
+Content type: Web page
+Last modified: 2025-08-20T00:13:01+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why Microsoft's entry into the backup space is good news
+Microsoft's recent jump into the backup space with Microsoft 365 Backup signals a significant shift. Paul Robichaux, a seasoned Microsoft MVP and Senior Director of Product Management, shares what Microsoft’s entry to the market means for customers and the broader SaaS data protection community in a contributed article for Storage Magazine.
+Read the full article or continue reading for the abbreviated version.
+A bit of a surprise — yet welcomed — entry
+For years, Microsoft has been synonymous with data integrity measures (think back to trusty-old Windows Backup), yet their prior reluctance to offer dedicated backup solutions for Microsoft 365 left a data protection gap.
+“They have been pretty steadfast in ignoring Microsoft 365 as a backup opportunity, broadcasting the message that the native data protection features in the service provide adequate coverage.” However, with the unveiling of Microsoft 365 Backup, a public preview poised for general availability, the narrative is set to change.
+You are responsible for your Microsoft SaaS data
+Robichaux underscores a critical message: While Microsoft ensures redundancy, the onus remains on users to safeguard their data. Put simply, Microsoft 365 Backup emphasizes that you need backup. This fundamental shift in perception is crucial, especially considering the prevalent misconception that cloud-hosted data is impervious to loss.
+The introduction of Microsoft 365 Backup not only validates the necessity of third-party data protection but also ignites conversations around shared responsibility models. Questions like “What components of Microsoft 365 warrant backup?” and “What defines a robust backup strategy?” are being asked.
+While Microsoft's solution is a step in the right direction, it's essential to recognize its limitations, notably in coverage and granularity. Moreover, the collaboration between Microsoft and third-party ISVs in leveraging Microsoft 365 Backup Storage opens avenues for innovation and growth.
+Ultimately, Microsoft's venture into the backup arena revitalizes discussions on data protection, fostering a more nuanced understanding of shared responsibilities. With Microsoft's influence, Robichaux envisions a future where comprehensive SaaS data protection becomes the norm, ensuring resilience in an ever-evolving digital landscape.

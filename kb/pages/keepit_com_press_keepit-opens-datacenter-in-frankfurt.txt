@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/press/keepit-opens-datacenter-in-frankfurt/
+Content type: Web page
+Last modified: 2025-08-19T23:57:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit is strengthening its position in the DACH region
+Keepit Creates an Independent Backup Infrastructure 
+for SaaS Data with data centers close to the source of data
+The Danish company Keepit, founded in 2007, is now strengthening its presence in the DACH region with local data centers to provide German companies with data sovereignty.
+Keepit is a cloud-to-cloud backup solution for all popular SaaS platforms such as Microsoft Office 365, Dynamics 365, Salesforce, Google Workspace, and Zerto Backup for SaaS. The Keepit architecture runs on a secure, private infrastructure and ensures that all company data stays immutable and secure.
+Keepit has opened its data centers in Frankfurt. Similar to the existing data centers in Copenhagen, London, Washington, and Sydney, data always stays in the data center region with four backup copies that are always available, stored separately from the primary environment and independent from the SaaS vendor’s storage locations – that’s the promise.
+That way, Keepit can ensure that the data of German enterprises and organizations stays available always and within EU and German borders on Keepit’s independent hardware – which only the Danish backup provider can access.
+IT security is more important than ever before, especially now with Covid-19 and remote work increasing the implementation of SaaS platforms within companies, schools, and public authorities. A lot of IT teams are not aware that they must ensure data security in the cloud. One of the least-observed risks to data is the shared responsibility model, which can affect business continuity and disaster recovery planning. This is a responsibility a lot of companies cannot uphold in the case of malicious or accidental data loss incidents.
+According to Keepit, a completely independent infrastructure offers reliability and data availability as the security of SaaS data in the public cloud is vulnerable to security risks such as misapplication, malware, and hacker attacks.
+Keepit wants to provide the remedy. By building an independent and dedicated private cloud infrastructure, Keepit provides companies with continuous data availability and the best possible cost control due to the easy, simple, and plannable “All in One” pricing structure.

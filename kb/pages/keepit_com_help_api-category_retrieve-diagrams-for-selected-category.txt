@@ -1,0 +1,192 @@
+Source URL: https://www.keepit.com/help/api-category/retrieve-diagrams-for-selected-category/
+Content type: Web page
+Last modified: 2026-04-01T10:25:28+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Retrieve diagrams for selected category
+This API request retrieves the diagrams for the selected category and provides data on added, removed, and modified imported files, along with the total snapshot size and snapshot coverage.
+API request
+Method GET
+/users/{account_id}/devices/{connector_id}/monitoring/{category}/diagrams
+Possible categories:
+- imported-files-added
+- imported-files-removed
+- imported-files-modified
+- total-snapshot-size
+- snapshot-coverage
+Example
+Method GET
+Response 1:
+Code: 200 OK
+Response body (partial):
+<name>exchange-users-selected</name>
+                <axes>
+                    <axis>x</axis>
+                    <axis>y1</axis>
+                </axes>
+                <points>
+                    <p>
+                        <v>2025-01-20T21:31:49Z</v>
+                        <v>35</v>
+                    </p>
+                    <p>
+                        <v>2025-01-21T09:31:47Z</v>
+                        <v>35</v>
+                    </p>
+                    <p>
+                        <v>2025-01-21T16:10:46Z</v>
+                        <v>30</v>
+                    </p>
+                </points>
+            </dataset>
+<dataset>
+                <name>exchange-users-covered</name>
+                <axes>
+                    <axis>x</axis>
+                    <axis>y1</axis>
+                </axes>
+                <points>
+                    <p>
+                        <v>2025-01-20T21:31:49Z</v>
+                        <v>26</v>
+                    </p>
+                    <p>
+                        <v>2025-01-21T09:31:47Z</v>
+                        <v>26</v>
+                    </p>
+                    <p>
+                        <v>2025-01-21T16:10:46Z</v>
+                        <v>25</v>
+                    </p>
+                </points>
+            </dataset>
+           <dataset>
+                <name>exchange-users-size</name>
+                <axes>
+                    <axis>x</axis>
+                    <axis>y2</axis>
+                </axes>
+                <points>
+                    <p>
+                        <v>2025-01-20T21:31:49Z</v>
+                        <v>89259782</v>
+                    </p>
+                    <p>
+                        <v>2025-01-21T09:31:47Z</v>
+                        <v>89962542</v>
+                    </p>
+                    <p>
+                        <v>2025-01-21T16:10:46Z</v>
+                        <v>89706340</v>
+                    </p>
+                </points>
+            </dataset>- As this is a diagram response, it has axes, axis (x, y1, y2). They indicate the position of the item in the diagram.
+- This first dataset “exchange-users-selected” shows the date of the snapshot and the number of users selected for the backup in the Exchange data area. For example, 5 users were deselected in the latest snapshot.
+- The second dataset “exchange-users-covered” shows the actual number of backed up mailboxes. For example, 1 user was not backed up in the latest snapshot compared to the older ones.
+- The third dataset “exchange-users-size” shows the size of the backed up users’ data (in bytes).
+Additional information
+- Selected is the total number of units chosen for backup based on the connector configuration (for example, selected Exchange users, OneDrive users, Groups, SharePoint sites).
+- Covered is the total number of units that were completely and successfully backed up. This number may be lower than Selected if some items were not backed up completely or successfully. In such cases, it is recommended to review the Job Report to identify any failed or incomplete items.
+Response 2:
+Code: 200 OK
+Response body (partial):
+<dataset>
+                <name>sharepoint-sites-selected</name>
+                <axes>
+                    <axis>x</axis>
+                    <axis>y1</axis>
+                </axes>
+                <points>
+                    <p>
+                        <v>2025-01-21T09:31:47Z</v>
+                        <v>34</v>
+                    </p>
+                    <p>
+                        <v>2025-01-21T16:10:46Z</v>
+                        <v>34</v>
+                    </p>
+                    <p>
+                        <v>2025-01-21T16:11:06Z</v>
+                        <v>30</v>
+                    </p>
+                </points>
+            </dataset>
+            <dataset>
+                <name>sharepoint-sites-covered</name>
+                <axes>
+                    <axis>x</axis>
+                    <axis>y1</axis>
+                </axes>
+                <points>
+                    <p>
+                        <v>2025-01-21T09:31:47Z</v>
+                        <v>34</v>
+                    </p>
+                    <p>
+                        <v>2025-01-21T16:10:46Z</v>
+                        <v>34</v>
+                    </p>
+                    <p>
+                        <v>2025-01-21T16:11:06Z</v>
+                        <v>30</v>
+                    </p>
+                </points>
+            </dataset>
+            <dataset>
+                <name>sharepoint-sites-size</name>
+                <axes>
+                    <axis>x</axis>
+                    <axis>y2</axis>
+                </axes>
+                <points>
+                    <p>
+                        <v>2025-01-21T09:31:47Z</v>
+                        <v>1501395700</v>
+                    </p>
+                    <p>
+                        <v>2025-01-21T16:10:46Z</v>
+                        <v>1501395702</v>
+                    </p>
+                    <p>
+                        <v>2025-01-21T16:11:06Z</v>
+                        <v>1328868999</v>
+                    </p>
+                </points>
+            </dataset>- This example shows the number of SharePoint sites selected for backup, the number of sites successfully backed up, and the total size of the backed-up sites.
+PowerShell script
+try {
+    $username = '<API Token username>'
+    $password = '<API Token password>'
+    $userGuid = '<Account ID>'
+    $deviceGuid = '<Connector ID>'
+    $category = '<Category>' # Possible categories: snapshot-coverage/total-snapshot-size/imported-files-added/imported-files-removed/imported-files-modified
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+    }
+    $uri = "https://dk-co.keepit.com/users/$userGuid/devices/$deviceGuid/monitoring/$category/diagrams"
+    $response = Invoke-WebRequest -UseBasicParsing `
+        -Uri $uri `
+        -Method Get -Headers $headers -ErrorAction Stop -TimeoutSec 10
+    $xmlContent = [xml]$response.Content
+    foreach ($dataset in $xmlContent.diagrams.graph.datasets.dataset) {
+        Write-Host "`nDataset: $($dataset.name)"
+        Write-Host ("  Time: {0,-20} Value: {1,-20}" -f "Time", "Value")
+     
+        foreach ($point in $dataset.points.p) {
+            $time = $point.v[0]
+            $value = $point.v[1]
+            Write-Host ("  Time: {0,-20} Value: {1,-20}" -f $time, $value)
+        }
+        Write-Host "`n------------------------------------------------------------"
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}Script result
+----------------------------------------------------------- Dataset: sharepoint-sites-selected Time: Time Value: Value Time: 2025-01-13T21:30:57Z Value: 34 Time: 2025-01-14T09:31:09Z Value: 34 Time: 2025-01-14T21:31:03Z Value: 34 Time: 2025-01-15T21:31:19Z Value: 34 Time: 2025-01-16T21:31:27Z Value: 34 Time: 2025-01-17T21:31:28Z Value: 34 Time: 2025-01-18T21:31:31Z Value: 34 Time: 2025-01-19T09:31:31Z Value: 34 Time: 2025-01-20T21:31:49Z Value: 34 Time: 2025-01-21T09:31:47Z Value: 34 Time: 2025-01-21T16:10:46Z Value: 34 Time: 2025-01-21T16:11:06Z Value: 30 Time: 2025-01-22T16:11:11Z Value: 30 Time: 2025-01-23T04:11:24Z Value: 30 ------------------------------------------------------------ Dataset: sharepoint-sites-covered Time: Time Value: Value Time: 2025-01-13T21:30:57Z Value: 34 Time: 2025-01-14T09:31:09Z Value: 34 Time: 2025-01-14T21:31:03Z Value: 34 Time: 2025-01-15T21:31:19Z Value: 34 Time: 2025-01-16T21:31:27Z Value: 34 Time: 2025-01-17T21:31:28Z Value: 34 Time: 2025-01-18T21:31:31Z Value: 34 Time: 2025-01-19T09:31:31Z Value: 34 Time: 2025-01-20T21:31:49Z Value: 34 Time: 2025-01-21T09:31:47Z Value: 34 Time: 2025-01-21T16:10:46Z Value: 34 Time: 2025-01-21T16:11:06Z Value: 30 Time: 2025-01-22T16:11:11Z Value: 30 Time: 2025-01-23T04:11:24Z Value: 30 ------------------------------------------------------------ Dataset: sharepoint-sites-size Time: Time Value: Value Time: 2025-01-13T21:30:57Z Value: 1501395700 Time: 2025-01-14T09:31:09Z Value: 1501395700 Time: 2025-01-14T21:31:03Z Value: 1501395700 Time: 2025-01-15T21:31:19Z Value: 1501395700 Time: 2025-01-16T21:31:27Z Value: 1501395700 Time: 2025-01-17T21:31:28Z Value: 1501395700 Time: 2025-01-18T21:31:31Z Value: 1501395700 Time: 2025-01-19T09:31:31Z Value: 1501395700 Time: 2025-01-20T21:31:49Z Value: 1501395700 Time: 2025-01-21T09:31:47Z Value: 1501395700 Time: 2025-01-21T16:10:46Z Value: 1501395702 Time: 2025-01-21T16:11:06Z Value: 1328868999 Time: 2025-01-22T16:11:11Z Value: 1328868999 Time: 2025-01-23T04:11:24Z Value: 1328868996 ------------------------------------------------------------

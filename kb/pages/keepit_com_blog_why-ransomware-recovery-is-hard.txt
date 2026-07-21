@@ -1,0 +1,27 @@
+Source URL: https://www.keepit.com/blog/why-ransomware-recovery-is-hard/
+Content type: Web page
+Last modified: 2025-08-20T00:41:09+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Why ransomware recovery is hard
+More than the restore: Why ransomware recovery is hard
+Many discussions about ransomware recovery focus on getting critical data back where it belongs. While this is absolutely necessary, it’s not always sufficient to allow full resumption of business-as-usual—the actual goal of disaster recovery.
+In this session, we’ll discuss the key lessons we’ve learned as a SaaS data protection company about the holistic requirements for resuming normal operations after a large-scale attack or disaster, including restoration, remediation, retraining, and retrospection.
+Backups are critical. We all know this is true—not just in an obvious “water is wet” way, but in a more serious “if you don’t drink enough water, you will die” way. At the same time, having a reliable backup system to capture your data and the ability to restore the right data in the right place at the right time is only part of what modern enterprises need.
+Restoring data is not the same thing as recovering operations. Restoration is the first step along that path, but not the only one. You can sum this argument up with a single phrase: “restoring data is necessary but not sufficient by itself.”
+Before you restore…
+Re-read the first sentence above. Before we can proceed with talking about what else a full restoration will take besides just clicking the “restore” icon, I’m going to assume that you have a complete, valid, tested backup of your most important data. (And if you don’t, click here to learn how Keepit can get you there!)
+What you get when you restore
+OK, now you’re all set, right? You’ve got a known-good backup, and you’ve tested your restore procedures. You’re comfortable with the software, you’ve ensured that everyone who needs to conduct restores has the correct permissions, and so on. If not, you probably at least know what areas of improvement you need to focus on (and quickly)!
+The next step in the process is understanding exactly what you get when you execute a restore, assuming that it goes perfectly. This will obviously vary quite a bit depending on what you’re backing up in the first place. For example, there are certain Zendesk and Azure Active Directory objects that can be restored in place (that is, the restored object can overwrite the old one), but other objects will only be restored as new objects. Knowing exactly what a restore will give you, where it will go, and what, if any, manual steps might be required post-restore are all key parts of understanding the overall journey.
+Now for the fun part
+One crucial mistake we sometimes make when talking about restore planning is failing to think about, and plan for, what happens after the restore.
+Resuming operations after a cyberattack involves many considerations that you may not have thought about during your restore planning, including the time required to install or reinstall patches and updates on users’ computers, the need to maintain an effective communications channel for your staff while your primary systems are being restored, and non-computer-related issues like making sure that you know where physical assets and people may have moved to during your outage.
+There may be other unique considerations that apply to you, too. For example, in 2021, a large auto company suffered a cyberattack that prevented their dealers from ordering cars or parts—so once the company restored their systems, they had a lot of manual and unplanned work to clean up and reconcile their pending orders, update dealers with information on where their parts were, and so on.
+None of that cleanup work could take place until the restore was complete and all the data they needed was present.
+How to get started
+The exact mechanics of how you go from “restore successful” to “we’re back in business” will vary according to many factors, including how large and/or complicated your organization is, how mature your operational processes are, how many additional regulatory requirements you have to deal with, and the nature of the problem from which you’re recovering.
+There’s a huge continuum that covers the space from the simple (restoring a single critical file for one user) to the very complex (recovering operations after a large-scale disaster like a wildfire or hurricane).
+Investigating, documenting, and practicing what your business needs to quickly get back to normal after the restore succeeds is perhaps the most important single thing you can do to protect your data and your business.

@@ -1,0 +1,115 @@
+Source URL: https://www.keepit.com/help/mcp-category/mcp-overview-for-customers/
+Content type: Web page
+Last modified: 2026-05-20T13:06:09+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Installation
+Step 1: Clone the repository
+git clone https://github.com/keepit-official/keepit-mcp.git
+cd keepit-mcp
+Step 2: Install dependencies
+npm install
+Step 3: Configure credentials
+For production use, we recommend using a secrets manager instead of storing credentials in clear text file. The MCP reads credentials from environment variables, so any method that injects KEEPIT_USER, KEEPIT_PASS, and KEEPIT_ENV will work.
+Basic Setup (Non-Encrypted)
+Pass credentials directly in your MCP client configuration.
+The Claude configs are typically stored in these paths:
+macOS: ~/Library/Application Support/Claude/claude_desktop_config.json
+Linux: ~/.config/Claude/claude.json
+Windows: %APPDATA%\Claude\claude_desktop_config.json
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "node",
+      "args": ["/path/to/keepit-mcp/build/main.js"],
+      "env": {
+        "KEEPIT_USER": "your-username",
+        "KEEPIT_PASS": "your-password",
+        "KEEPIT_ENV": "us-dc"
+      }
+    }
+  }
+}Credentials are passed directly in your MCP client configuration. While not encrypted, this keeps secrets out of your project repository, preventing accidental Git commits.
+Using 1Password CLI (Cross-Platform)
+1Password CLI (op) works on macOS, Linux, and Windows. Adjust the node path according to your deployment. In order to use it via CLI, you have to enable 1Password CLI in the 1Password desktop app Settings > Developer and allow biometric unlock.
+Documentation: 1Password CLI: Getting Started | Secret References
+Path examples:
+- macOS/Linux: /path/to/keepit-mcp/build/main.js
+- Windows: C:/path/to/keepit-mcp/build/main.js
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "op",
+      "args": ["run", "--", "node", "/path/to/keepit-mcp/build/main.js"],
+      "env": {
+        "KEEPIT_USER": "op://Private/Keepit/username",
+        "KEEPIT_PASS": "op://Private/Keepit/password",
+        "KEEPIT_ENV": "op://Private/Keepit/datacenter"
+      }
+    }
+  }
+}Windows user environment variables
+Note: This option is for Windows users. Credentials are stored in the Windows Registry (unencrypted) but kept separate from the config file, reducing the risk of accidental sharing.
+Set the following as User Environment Variables (see Microsoft's guide on environment variables):
+- KEEPIT_USER : your-username
+- KEEPIT_PASS : your-password
+- KEEPIT_ENV : us-dc
+Restart Claude Desktop after adding the variables.
+Then use this config no env block needed:
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "node",
+      "args": ["C:/Users/YourName/keepit-mcp/build/main.js"]
+    }
+  }
+}Security note: This approach stores credentials as plaintext in the Windows Registry. Any process running as your user can read them. The benefit over the basic setup is that credentials won't be accidentally shared when copying config files.
+macOS Keychain
+Documentation: Keychain Access User Guide | security command man page
+Option A: Using Keychain Access GUI
+- Open Keychain Access (Applications → Utilities → Keychain Access)
+- Select login keychain in the sidebar
+- Click File → New Password Item (or press âN)
+- Create two entries:Keychain Item Name: keepit-mcp-username, Account: keepit, Password: your-usernameKeychain Item Name: keepit-mcp-password, Account: keepit, Password: your-password
+Option B: Using Terminal
+security add-generic-password -s "keepit-mcp-username" -a "keepit" -w "your-username"
+security add-generic-password -s "keepit-mcp-password" -a "keepit" -w "your-password"
+Claude Desktop config (uses security find-generic-password to retrieve at runtime):
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "sh",
+      "args": [
+        "-c",
+        "KEEPIT_USER=$(security find-generic-password -s keepit-mcp-username -a keepit -w) KEEPIT_PASS=$(security find-generic-password -s keepit-mcp-password -a keepit -w) KEEPIT_ENV=us-dc node /path/to/keepit-mcp/build/main.js"
+      ]
+    }
+  }
+}Linux secret-tool (GNOME Keyring / libsecret)
+Documentation: libsecret / secret-tool | secret-tool man page
+First, store credentials (one-time):
+secret-tool store --label="Keepit MCP Username" service keepit-mcp field username
+secret-tool store --label="Keepit MCP Password" service keepit-mcp field password
+Then in your MCP client config (e.g., Claude Code's ~/.claude.json or similar):
+{
+  "mcpServers": {
+    "keepit": {
+      "command": "sh",
+      "args": [
+        "-c",
+        "KEEPIT_USER=$(secret-tool lookup service keepit-mcp field username) KEEPIT_PASS=$(secret-tool lookup service keepit-mcp field password) KEEPIT_ENV=us-dc node /path/to/keepit-mcp/build/main.js"
+      ]
+    }
+  }
+}Step 4: Connect to your AI client
+For Claude Desktop using the .mcpb package:
+1. Build the package: npm run generate-mcpb
+2. In Claude Desktop, go to Settings > Extensions > Advanced settings.
+3. Click Install Extension and select the generated keepit-mcp.mcpb file.
+4. Enter your Keepit credentials when prompted.
+5. Enable the extension.
+Alternatively, run the server directly with npm start and configure your AI client to connect to the local MCP endpoint.
+Supported tools and capabilities
+Keepit MCP exposes 8 tools via the MCP protocol.

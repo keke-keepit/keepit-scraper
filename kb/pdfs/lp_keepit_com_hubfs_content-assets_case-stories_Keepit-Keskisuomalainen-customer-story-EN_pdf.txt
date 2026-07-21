@@ -1,0 +1,142 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Keskisuomalainen-customer-story-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-07-21
+
+============================================================
+
+Largest media
+company in Finland
+chooses Keepit to
+protect cloud data
+Customer case:
+Keskisuomalainen
+
+With over 2.2 million weekly readers, 
+Keskisuomalainen is the largest media 
+company in Finland. Migrating from on-prem 
+Exchange to Microsoft 365 was essential to 
+ensuring quick and efficient recovery of user 
+data, and Keepit was the obvious choice.  
+3rd-party backup is a no-brainer
+A risk often overlooked during the cloud 
+migration process is failing to opt for a true third-
+party backup and recovery provider. Microsoft’s 
+retention periods and recovery functions are 
+extremely limited, and many backup vendors 
+in the market use the same data centers as 
+Microsoft. 
+It was key for ICT Architect Arto Voutilainen to 
+have a secure and accessible backup solution at 
+an off-site location to ensure that company data 
+is always accessible, even if Microsoft’s servers 
+go offline.
+“If Microsoft’s data center 
+goes out, then our data 
+goes out too.”
+“It’s crucial for us that our 
+M365 data is safeguarded 
+at another location than that 
+of Microsoft within the EU. 
+provides this for us.”
+Customer case:
+Keskisuomalainen
+- Arto Voutilainen
+ICT Architect at Keskisuomalainen
+- Arto Voutilainen
+ICT Architect at Keskisuomalainen
+
+Restoring data in a heartbeat
+For Voutilainen, backup is an integral part of 
+migrating the company’s on-prem data to 
+Microsoft 365 – not only to protect existing and 
+new data, but also to ensure quick and easy 
+restore. Keepit provides Keskisuomalainen with 
+simple and easy restore functions that allow 
+Voutilainen to find and share user data directly, 
+reducing operating costs.
+Predictable and all-inclusive pricing
+According to Voutilainen, other backup vendors 
+charged additional fees and had numerous 
+limitations regarding restores. What sets 
+Keepit apart is that everything is included in the 
+price. Voutilainen now relies on simple and fast 
+recovery features, making restore tasks an easy 
+process.
+Keepit has supported Keskisuomalainen with 
+their journey to the cloud and now ensures 
+all business-critical data is backed up and 
+protected with the highest level of security. 
+About Keskisuomalainen
+Keskisuomalainen Oyj is the leading 
+Finnish media company engaged in the 
+printing and publishing sector with 60+ 
+newspapers read weekly by 2.2 million 
+people. The company employs 2000 
+media professionals and owns more than 
+90 media brands as well as marketing 
+communications, research, printing 
+and distribution services within its 
+subsidiaries.
+“We need easy access to share M365 data 
+with returning users and Microsoft’s built-in 
+capabilities are simply not sufficient here.”
+“With Keepit, data availability is 
+straightforward: We own and have full, 
+direct access to our data at all times.”
+Customer case:
+Keskisuomalainen
+- Arto Voutilainen
+ICT Architect at Keskisuomalainen
+- Arto Voutilainen
+ICT Architect at Keskisuomalainen
+
+Learn how Keepit can 
+securely back up and 
+recover your data
+Request demo
+Keepit provides next-level SaaS data protection 
+purpose-built for the cloud, by securing data in a 
+vendor-independent cloud to safeguard essential 
+business applications, boost cyber resilience and 
+future-proof data protection.
+Headquartered in Copenhagen with offices and data 
+centers worldwide, over ten thousand companies 
+trust Keepit for its ease of use and effortless backup 
+and recovery of cloud data.   
+HQ - Copenhagen
+Denmark
+Keepit A/S
+Per Henrik Lings Allé 4, 7.
+2100 København, Denmark
+CVR: 30806883
++45 8987 7792
+sales@keepit.com
+Dallas, Texas
+United States
+Keepit USA Inc.
+3232 McKinney Avenue Suite 820 
+Dallas TX 75204, USA
+TIN: 85-358 6335
++1 469-461-4892
+sales@keepit.com
+London
+United Kingdom
+Keepit Technologies UK, LTD.
+Warnford Court
+29, Throgmorton Street
+London EC2N 2AT, UK
+Company reg. no.: 13785045
+sales@keepit.com
+Munich
+Germany
+Keepit Germany GmbH
+Maximiliansplatz 22
+380639 München
+Amtsgericht München,
+HRB 270094
+Geschäftsführer Morten Felsvang
+sales@keepit.com
+© 2024 Keepit. All rights reserved.
+www.keepit.com

@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/blog/prepare-for-surge-in-ransomware/
+Content type: Web page
+Last modified: 2025-08-20T00:20:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+âWhen it comes to ransomware attacks, itâs a matter of when, not if.â
+Ransomware attacks are on the rise — in the first half of 2021, the average amount paid by organizations to perpetrators of was $570,000, an increase of 171% over the previous year. (1)
+Last year also saw a 93% increase in the overall number of ransomware attacks (2) – a trend that is only likely to continue. While such attacks were once limited to outlandish movie plots, they’ve become an all-too-real problem for organizations of all sizes. In fact, when it comes to ransomware attacks, it’s more likely to be a question of when, not if.
+Our concern at Keepit is that the regularity of ransomware attacks may lead to them eventually being dismissed as just a cost of doing business. But by choosing to pay the ransoms demanded, companies are powering a vicious cycle where the proceeds fuel increased cybercrime. (And paying a ransom does not guarantee getting your data back, as documented in the report "The Long Road Ahead to Ransomware Preparedness" from ESG)
+It’s vital for the sake of commerce – and for society – that companies, governments, and law enforcement agencies come together to find long-term solutions to ransomware attacks.
+In the short-term, we encourage companies to invest in a third-party backup and recovery service to minimize the threat posed by encrypted malware. The more secure your data is—and the quicker you’re able to recover it—the less worried you need to be about ransomware attacks.
+At best, an attack won’t affect business continuity – it'll just be a nuisance rather than a crisis. If you know your data is safe, you don’t have to pay the bad guys’ ransom. Problem solved.
+The disruptive power of ransomware attacks in 2023
+An increasingly common threat, ransomware attacks are forecast to cost victims around $265 billion annually by 2031. (3) With conventional data recovery times often taking weeks or even months, the disruption to companies can be catastrophic in terms of financial costs to your business. But the damage goes beyond the bottom line. Additional impacts of ransomware attacks in 2023 are likely to include:
+- Intellectual property cost – temporary or permanent loss of sensitive or proprietary information can be enormously damaging.
+- Business continuity – disruption is frustrating and costly as companies struggle to restore data and operations
+- Reputational cost – a ransomware attack can damage customer perception of the company and impact digital trust.
+Why Keepit is the answer
+Keepit backs up to an independent cloud, separate from your SaaS vendor’s environment, which means your data can be accessed completely independent from SaaS application availability. True backup—immutable and tamperproof on a separate logical infrastructure — is your answer to ransomware attacks.
+For more details about Keepit's dedicated SaaS data protection, read about our security on our website
+References
+1. Research from Palo Alto suggests the average ransom in the first half of 2021 is $570,000 USD, an increase of 171% over the year prior; see Average Ransomware Payment Hits $570,000 in H1 2021 [Dark Reading]
+2. Research from Check Point reports that ransomware incidents increased 93% year over year; see Ransomware attacks increase dramatically during 2021 [Computer Weekly]

@@ -1,0 +1,32 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/microsoft-365-backup-coverage/
+Content type: Web page
+Last modified: 2026-07-13T15:01:53+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Limitations
+Microsoft 365 Government Cloud
+We do not support the backup of Microsoft 365 Government Community Cloud (GCC, GCC High, or similar) tenants. The exception is GCC tenants that use a .com domain — these can be backed up.
+GoDaddy-provisioned Microsoft 365 tenants
+Keepit doesn't support the backup of Microsoft 365 tenants provisioned through GoDaddy. GoDaddy-hosted tenants use a local mail client that isn't exposed via Exchange. As a result, Keepit's backup requests can't detect or access this data — it's invisible by design, and there's no API available to identify a GoDaddy tenant in advance.
+Exchange Public Folders
+We do not back up posts created in Outlook Online or Desktop. 
+Groups & Teams
+The backup of Channel posts may not work for some customers. For details, click here. 
+Teams Chats
+- Microsoft's API for retrieving chats returns all chats, including chats deleted by users. As a result, your Keepit backup of private chats may contain data that the user deleted.
+- Currently, chats can only be previewed and downloaded. Support for restoring chats will be added in a future release.
+- Due to an API limitation, backups of chats where the chat owner belongs to a different tenant are not supported.
+- Due to an API limitation, backups of attachments from chats shared by users from other tenants are not supported. 
+- We do not support the backup of "chat with self" chats.
+Teams Chats Performance and Throttling
+With the recent release of our services (version 9.18.1) aimed at improving the backup performance of Teams Chats, significant strides have been made in enhancing the efficiency and reliability of our backup processes. However, it is important to note that despite these improvements, there are still certain limitations imposed by Microsoft’s throttling mechanisms which may impact the frequency and duration of backup operations, particularly for large enterprise customers.
+For enterprises with extensive chat histories with large volumes (millions) of chat messages, the backup processes may be subject to throttling by Microsoft.
+This throttling can impede our ability to perform daily backups of Teams Chats data. The duration of backup jobs is directly influenced by the size of the customer's environment and the intensity of Teams Chat usage. Consequently, the Recovery Point Objective (RPO) and Recovery Time Objective (RTO) for Teams Chat data backups may vary.
+Customer Advisory
+We advise our customers to follow the instructions provided in our latest release to benefit from the performance enhancement made. Given the variability in backup job durations and potential throttling impacts, we advise customers to consider these factors when planning their data recovery strategies. While we strive to provide the most efficient and comprehensive backup services, the inherent limitations imposed by external throttling are beyond our control.
+Service Commitment
+Our commitment remains to continually optimize backup performance and mitigate any limitations to the best of our ability. We encourage customers to reach out to our support team for assistance and guidance in setting up the service.
+Legal Disclaimer
+The information provided herein is intended to inform our customers of potential limitations and does not constitute a guarantee of daily backups. The actual backup frequency and duration may vary based on external factors such as Microsoft’s throttling policies and the specific usage patterns of the customer’s Teams environment.

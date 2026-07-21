@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/help/google-workspace-category/revoke-access-to-the-keepit-app-in-google/
+Content type: Web page
+Last modified: 2025-03-11T20:16:46+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Revoke access to the Keepit app in Google
+1. Sign in to https://admin.google.com with an administrator’s credentials.
+2. Open the Apps page.
+3. Select Google Workspace Marketplace apps.
+4. Select Keepit for Google Workspace.
+5. Select Revoke access.
+1. Sign in to https://admin.google.com with an administrator’s credentials.
+2. Open the Apps page.
+3. Select Google Workspace Marketplace apps.
+4. Select Keepit for Google Workspace.
+5. Select Revoke access.

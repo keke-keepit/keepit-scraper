@@ -1,0 +1,47 @@
+Source URL: https://www.keepit.com/help/platform-category/keepit-messages/
+Content type: Web page
+Last modified: 2026-06-23T22:46:18+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit messages
+Keepit messages help you staÑ informed about various events, helping you monitor your connectors as well as your backup and restore jobs.
+Default messages
+- By default, Keepit sends messages to the in-app inbox of the primary Master Admin user and to their email.
+- Other users do not receive messages unless this option is manually enabled for them.
+Important message exceptions
+- Account-related messages: Messages concerning a user's sign-in (e.g., activation emails or password reset emails) are always sent to the relevant user, regardless of message settings. Only the intended recipient will have access to these messages.
+- Link generation messages: A user who generates a PST download or a compliance report will receive a message with the download link, regardless of their message settings.
+Finding messages in the Keepit platform
+In-app messages can be found on the Messages page by clicking Messages in the left navigation menu.
+Enabling messages for users
+A Master Admin can enable messages being sent to other users to allow them to see connector, backup, and restore updates.
+Messages can be enabled when a user is first being created by turning on the Send messages toggle.
+To enable messages for users that have already been created:
+1. Go to your account profile > Account info.
+2. In the Users tab, point to the user and click the gear icon.
+3. Select the Messages tab.
+4. Turn on the Send messages toggle.
+5. Select Update to save.
+What events trigger messages
+Connector updates
+- A new connector is added
+- A connector's health is changed
+- A connector is scheduled for deletion
+Backup updates
+- The initial backup on a connector is completed
+- A backup is unsuccessful
+- A backup is incomplete
+- An anomaly is detected
+Restore updates
+- A restore is started
+- A restore is successful
+- A restore is unsuccessful
+- A restore is incomplete
+PST download update
+- PST file download link is generated
+Backup coverage report download update
+- Backup coverage report download link is generated
+Multi-geo configuration update
+- The geo location of a connector is changed (only for connectors with multi-geo support)

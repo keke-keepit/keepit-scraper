@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/move-or-copy-an-item-from-a-restored-folder-to-a-different-one/
+Content type: Web page
+Last modified: 2026-06-30T01:00:02+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Move or copy an item from a restored folder to a different one
+1. Log in to your Microsoft account.
+2. Find the folder the data has been restored to. It is usually named “Keepit_Restore_[the date of restore].”
+3. Select a subfolder.
+4. Choose an item and in the main menu at the top of the page, click Move to.
+5. Select the destination folder from the list or click Move to a different folder… Alternatively, you can create a New folder.
+6. To move the file choose the folder and click Move.
+7. To copy the file, chose the folder, select Copy the conversation to the selected folder, and click Copy.

@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/help/platform-category/delete-a-connector/
+Content type: Web page
+Last modified: 2026-06-18T10:41:26+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Delete a connector
+Deleting a connector erases your entire backup - all data across all snapshots.
+Connectors have a delete retention period (by default 30 days), which gives you a set time to revive the connector before your data is lost irreversibly.
+Schedule the deletion of your connector
+1. On the Connectors page, point to the connector and select ••• > Delete.
+2. Select Yes.
+In the dialog you will see how many days you have before your connector and all backed up data is deleted permanently.
+3. Enter CONFIRM in the field and then click the Confirm button.
+4. Click Close.
+Your connector will be scheduled for deletion. You will see a message near your connector with the date when it will be deleted.

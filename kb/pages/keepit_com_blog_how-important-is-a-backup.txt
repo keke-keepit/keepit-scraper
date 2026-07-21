@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/blog/how-important-is-a-backup/
+Content type: Web page
+Last modified: 2025-08-20T02:24:07+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Podcast: How important is a backup?
+In this podcast Keepit’s Paul Robichaux and podcast host Thomas Stensitzki talk about the principle of “shared responsibility” between SaaS vendors like Microsoft, Google and Salesforce, and their customers. The two discuss how to protect cloud data and ensure business continuity. And they also touch on the differences in data regulations for businesses operating in the EU and USA.
+And don’t worry: Although the brief introduction is in German, the rest of the podcast is in English.
+Podcast featuring Keepit’s own Paul Robichaux
+Paul Robichaux is Senior Director of Product Management at Keepit and a Microsoft MVP (Most Valuable Professional) – a title he has been awarded every year since 2003. Paul has worked in IT since 1978 and held a number of CTO and senior product development positions in the software industry. Paul is a prolific contributor to the Microsoft community: He is the author of an impressive amount of books and articles about Microsoft technologies, including the best-selling Office 365 for IT Pros, a contributing editor for Practical 365, and produces a continuous stream of videos, podcasts, and webinars. He is based in Alabama, USA. Find Paul on LinkedIn and Twitter.
+Hear the full podcast on Thomas’ Tech & Community Talk.

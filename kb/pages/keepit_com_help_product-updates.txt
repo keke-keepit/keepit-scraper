@@ -1,0 +1,844 @@
+Source URL: https://www.keepit.com/help/product-updates/
+Content type: Web page
+Last modified: 2026-07-08T17:46:36+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit product updates
+ââWhat's new in the Keepit Platform
+10.22.0 - What's New in the Keepit Platform
+Platform: Easier account identification
+We’re making it easier for you to confirm who’s signed in at a glance. Now the Keepit Platform will display a personalized identity block in the bottom-left corner after you log in, replacing generic login labels.
+What’s new
+The new identity block gives you a clearer view of your active account by displaying personalized user information instead of generic labels.
+- Your first and last name are now displayed instead of a role name, such as "Custom Role."
+- Your avatar now shows initials generated from your name.
+- Your role is displayed as the secondary identifier instead of your email address.
+Why it matters
+Knowing exactly which account you’re using helps you work with greater confidence, especially if you switch between multiple accounts or roles. By replacing generic labels with personalized identity details, you can quickly verify that you’re signed in with the correct account, reducing confusion and the risk of taking action under the wrong identity.
+This update also lays the groundwork for future personalization improvements, including upcoming enhancements to roles and permissions, as well as fully customizable roles later this year.
+Entra ID: filter Audit log categories and simplified Activity Logs configuration
+You now have more control over which Entra ID logs you back up, making it easier to optimize backup performance. We've also simplified the Activity Logs configuration, so you can get started faster with fewer setup steps.
+What’s new
+You can now choose which Microsoft Entra ID Audit log categories to include in your backup instead of backing up all categories by default.
+We've also streamlined the Activity Logs configuration with:
+- Clearer configuration options.
+- A simpler onboarding experience with less risk of misconfiguration.
+These updates are available in the Entra ID connector configuration for customers whose services include Entra ID log backup support.
+Why it matters
+Microsoft heavily throttles Entra ID Audit logs, which can slow backups and affect reliability for organizations with large log volumes. By letting you back up only the Audit log categories you need, you can reduce the impact of throttling, improve backup reliability, and gain greater control over what you protect.
+The simplified Activity Logs configuration also helps you complete setup more quickly and reduces the likelihood of configuration errors, so you can start protecting your Entra ID logs with greater confidence.
+Salesforce: pre-restore job insights
+You can now preview the scope and potential impact of a Salesforce restore before you run it. Key metrics help you make informed decisions and avoid unexpected issues during execution.
+What’s new
+Salesforce pre-restore job insights provides a snapshot of your restore job before it starts.
+You can view:
+- The number of records included in the restore
+- The total data and file size
+- Available storage in the target environment
+- Indicators of potential restore constraints
+This gives you a clearer understanding of restore scope and environment readiness before execution.
+Why it matters
+Without visibility into restore impact, jobs can fail or run into storage and resource limitations. Pre-restore job insights helps you identify potential issues early and adjust your restore plan as needed.
+With these insights, you can:
+- Reduce the risk of failed or partial restores
+- Avoid storage and API-related constraints
+- Spend less time troubleshooting and rework
+- Better plan sandbox seeding and development activities
+- Support restore decisions with clear impact metrics
+By giving you visibility before execution, pre-restore job insights helps you restore with greater confidence and control.
+Introducing Keepit for Autodesk Forma
+You can now purchase backup for Autodesk Forma with Keepit. This new service adds support for this critical application for customers in the Architecture, Engineering, and Construction (AEC) industry.
+What's new
+Keepit for Autodesk Forma delivers independent, automated protection for users, projects, and more, including:
+- Automated backups fully separated from production.
+- Immutable, air-gapped storage that helps mitigate the effects of ransomware, malicious attacks, and compromised accounts.
+- Flexible retention and detailed audit trails that support your compliance efforts.
+- Reliable access to your backup data, even if Autodesk experiences an outage or in a data loss event.
+Why it matters
+Autodesk Forma is a critical application in the AEC industry — disruptions in the service impact teams and projects with costly consequences, making backup and recovery a critical element for business continuity. Autodesk's native retention and recovery capabilities are limited in scope for enterprise backup requirements.
+To learn more about Keepit for Autodesk Forma, contact your Keepit representative directly.
+10.21.0 - What's New in the Keepit Platform
+Platform: View backup coverage across connectors
+Keeping track of backup coverage across connectors should be simple, even as your environment grows. This update introduces a unified approach that automatically captures and displays backup coverage insights in the data protection dashboard.
+What's new
+We've implemented a solution that automatically collects backup coverage insights across all connectors — both existing connectors and any added in the future. With this update:
+- Backup coverage data is captured through a single, centralized framework.
+- New connectors automatically inherit backup coverage reporting without additional development work.
+- Coverage insights are dynamically displayed as connectors are introduced.
+Why it matters
+As we continue expanding backup support across SaaS applications, maintaining visibility into backup coverage can become increasingly complex. With this unified approach, you automatically gain access to backup coverage insights in the data protection dashboard without waiting for connector-specific implementations.
+This reduces operational overhead, improves consistency across connectors, and helps ensure backup coverage information remains accurate and up to date as new connectors are added to the platform.
+Google Workspace: Restore permissions alongside your Google Drive data
+With permission backup and restore for Google Drive and shared drives, you can recover access settings alongside your content, helping you return your environment to a known state with greater confidence.
+What's new
+Keepit now backs up Google Workspace permissions for Google Drive and shared drives, enabling you to restore access settings together with your files. This enhancement allows you to:
+- Restore who had access to specific files and folders at a given point in time.
+- Recover permission levels alongside content during restore operations.
+- Roll back unintended permission changes caused by cleanups, migrations, ownership changes, or automation errors.
+- Maintain consistent access controls without relying on manual reconstruction from screenshots, logs, or memory.
+By protecting permissions as part of your backup, Keepit helps preserve both your data and the access model that supports collaboration across your organization.
+Why it matters
+When permissions are lost or changed unexpectedly, productivity and security can be affected immediately. Restoring files without the correct access settings can leave users locked out of critical content or lead to overly broad sharing that increases risk. With permission-aware protection, you can:
+- Restore access, not just files, so users can get back to work faster.
+- Reduce the need for risky workarounds such as broad link sharing.
+- Recover confidently after reorganizations, migrations, and large-scale changes.
+- Support audit and compliance efforts by providing visibility into who had access to content at a specific point in time.
+10.20.0 - What's New in the Keepit Platform
+Action required for users backing up Exchange data in Microsoft 365
+In connection with the upcoming deprecation of Microsoft Exchange Web Services (EWS), please reauthenticate your connectors as soon as possible, to ensure uninterrupted backup of your Exchange data. Read more here.
+Platform: Secure shares
+Securely share restore and recovery links with the right people — without compromising control or visibility. Secure shares replace public links with a more compliant, enterprise-ready experience for recovery workflows.
+What’s new
+Secure share gives you a safer way to generate and share restore links for recovery jobs.
+With secure shares, you can:
+- Share restore and recovery links using single sign-on (SSO) controls.
+- Restrict access based on IP ranges.
+- Track exactly what was opened, when it was accessed, and by whom through audit logs.
+Why it matters
+When you need to recover a single file or a small set of data, secure shares helps you simplify the process by allowing stakeholders to securely review and recover relevant data independently.
+You also gain stronger security and auditability for recovery access — a critical compliance requirement.
+Platform: Anomaly detection insights
+Get more context around anomalies so you can quickly understand what changed, assess risk, and decide what to do next. The latest updates improve visibility from notification through investigation.
+What’s new
+We’ve introduced several usability improvements across anomaly notifications and analysis workflows.
+You can now:
+- Compare detected anomalies against a baseline covering the last 60 snapshots.
+- View detailed anomaly insights in a dedicated panel.
+- See contextual details, including: Standard snapshot range. Added or removed data volume. Affected data areas. Direct links to data compare views and recommended next steps.
+Why it matters
+With these updates, you can investigate anomalies faster, understand their impact more clearly, and take action with greater confidence — helping reduce unnecessary escalations and support overhead.
+Platform: Health status improvements
+Get clearer connector health information across Keepit. Health status and diagnostic details are now resolved from a single backend-driven source for a standard experience across the platform.
+What’s new
+We’ve introduced backend-driven health status and reason handling across Keepit surfaces.
+This update includes:
+- A single dedicated endpoint that returns both connector health status and the associated reason.
+- Human-readable health reasons directly in the user interface.
+- Consistent health status visibility across the Dashboard and Connector page
+Because all surfaces now use the same endpoint, the status and reason you see in the UI will match the information returned through the API.
+Why it matters
+With this update, you get a single source of truth for connector health, making troubleshooting faster and easier.
+Salesforce: Rule and automation management
+Restore Salesforce data in a more controlled way by temporarily disabling rules and automations that can interfere with recovery jobs. This new capability helps reduce restore failures and preserve data integrity.
+What’s new
+This capability gives Salesforce admins more control during recovery operations.
+With Rule and automation management, you can:
+- Temporarily disable rules that may block records from being restored.
+- Prevent automations from modifying restored data or triggering during recovery.
+- Restore data into a cleaner, more controlled state.
+Why it matters
+Without this feature, recovery jobs could fail or result in inconsistent data states caused by active rules and automations. With this capability, you get a more predictable and reliable recovery experience.
+Salesforce: New connection flow
+Connect Salesforce to Keepit using an updated setup flow aligned with Salesforce security requirements. The new connection experience introduces additional permission and app installation steps for new Salesforce environments.
+What’s new
+Customers adding a new Salesforce connector must now install the Keepit app and assign permissions directly within their Salesforce environment.
+At this stage, the update affects:
+- New customers connecting Salesforce to Keepit.
+- Existing customers adding a new Salesforce environment.
+Why it matters
+Salesforce is strengthening its security requirements for third-party integrations, and this updated connection flow helps ensure the Keepit integration continues to align with those requirements.
+Azure DevOps: Work item relationship restore
+Restore Azure DevOps Work Items with their relationships intact — including links between parent, child, related, and duplicate items. This update helps preserve project structure and context during recovery operations.
+What’s new
+When a Work Item is restored, Keepit now restores its connections to other Work Items alongside the item content itself.
+This includes support for restoring relationships such as:
+- Parent and child links.
+- Related Work Items.
+- Duplicate relationships.
+- Other organizational dependencies between Work Items.
+The restore process is designed to be non-destructive. Missing links are restored, while newer links created after the backup remain untouched.
+This functionality also works for permanently deleted Work Items.
+Why it matters
+With this update, you get a more consistent and predictable recovery experience across deletion scenarios while preserving newer changes made after the backup. This helps maintain continuity, reduce manual reconstruction work, and protect the integrity of project relationships after recovery.
+Introducing Keepit for Jira Service Management
+You can now purchase backup for Jira Service Management with Keepit. This new service adds to Jira, Confluence, and other SaaS applications we already protect for you — so you can manage backup and recovery across your critical SaaS applications in one place.
+What's new
+Keepit Backup and Recovery for Jira Service Management delivers independent, automated protection for your projects, requests, issues and more, including:
+- Automated daily backups fully segregated from Atlassian.
+- Point-in-time recovery, so you can restore to a specific previous state.
+- Immutable, air-gapped storage that helps mitigate the effects of ransomware, malicious attacks, and compromised accounts.
+- Flexible retention and detailed audit trails that support your compliance efforts.
+- Reliable access to your backup data, even if Atlassian experiences an outage or in a data loss event.
+Why it matters
+Atlassian’s native options leave gaps in independent backup, granular restore, long-term retention, and recovery from accidental deletion, corruption, admin error, or broader service-data loss. This exposes companies to disruption, reputation damage, and compliance risks.
+To learn more about Keepit for Jira Service Management contact your Keepit representative directly.
+10.19.0 - What's New in the Keepit Platform
+Entra ID: hybrid visibility and reporting
+If you’re migrating to Entra ID or running a hybrid setup, some users and groups may still be managed on-premises while others live in the cloud. You can now clearly see which identities are hybrid and understand exactly what gets restored.
+What’s new
+You get improved visibility and reporting for hybrid identities in Entra ID backups:
+- Users and groups synced from on-premises Active Directory are now clearly labeled with a “hybrid” tag in the platform.
+- Restore reports explicitly show which objects were restored and which were skipped due to their hybrid nature.
+Why it matters
+When you’re working in a hybrid environment, you can clearly see which identities are managed on-premises and understand exactly why some objects aren’t restored, so you spend less time investigating and stay in control of your data.
+Entra ID: back up and restore role settings for PIM (Privileged Identity Management)
+You can now back up and restore Privileged Identity Management (PIM) role settings in Entra ID, with improved performance for faster, more reliable protection. This ensures your critical role configurations are preserved alongside role assignments.
+What’s new
+You can now protect more of your Entra ID PIM configuration:
+- Back up and restore role settings, including activation rules, approval workflows, and notification preferences (see the complete list here).
+- Experience faster, more reliable backups and restores for privileged roles with performance improvements
+Why it matters
+If an incident occurs, you can restore not just who has access, but how that access is controlled, so you recover your security posture faster and avoid manually rebuilding critical role settings.
+Salesforce: recycle bin restore
+You can now benefit from faster, more efficient restores in Salesforce, as restore jobs will automatically check (and restore) Salesforce recycle bin first. Restore jobs automatically take the most efficient recovery path without any changes to your workflow.
+What’s new
+We’ve optimized how restore jobs retrieve deleted data in Salesforce:
+- Restore jobs automatically check the Salesforce Recycle Bin first and restore from there when possible, before seamlessly falling back to snapshot-based recovery.
+- Restored records retain their original object ID and auto-number fields, such as case numbers.
+Why it matters
+You get faster, more reliable restores while maintaining data continuity. By preserving original object IDs and naming conventions, you avoid mismatched references — reducing cleanup and ensuring your restored data fits seamlessly back into your environment.
+Introducing Keepit for monday.com
+You can now purchase backup for monday.com with Keepit. This new service adds to the growing list of SaaS applications for collaboration we already protect for you — so you can manage backup and recovery across your critical SaaS applications in one place.
+What's new
+Keepit Backup and Recovery for monday.com delivers independent, automated protection for your boards, workspaces, account metadata and more, including:
+- Automated daily backups fully segregated from monday.com.
+- Point-in-time recovery, so you can restore to a specific previous state.
+- Immutable, air-gapped storage that helps mitigate the effects of ransomware, malicious attacks, and compromised accounts.
+- Flexible retention and detailed audit trails that support your compliance efforts.
+- Reliable access to your backup data, even if monday.com experiences an outage or in a data loss event.
+Why it matters
+Your collaboration projects are business-critical — and you’re ultimately responsible for protecting them. Native recovery features alone may not cover accidental deletion, insider threats, or long-term retention needs. With Keepit, you get independent backup and fast restore for monday.com, alongside the other SaaS applications your business depends on, so you can reduce risk, limit downtime, and stay in control of your data. Learn more about Keepit for monday.com here, or contact your Keepit representative directly. 
+10.18.0 - What's New in the Keepit Platform
+Connection Management (preview)
+Control application permissions to apply only those strictly necessary to perform the backup and restore jobs.
+Important: Connection management is available currently only to preview customers.
+What's new
+Connection management will allow customers to deploy and configure minimally permissioned applications to backup or restore in accordance with the principles of least privilege.
+Why it matters
+Many organizations are required by security, governance, and compliance policies to ensure that applications only have the minimum permissions necessary for their tasks. For Keepit, this means applications should request access only to the data and services needed for backup or restore—nothing more.
+For questions about this release please contact support.
+10.17.0 - What's New in the Keepit Platform
+Microsoft 365 Backup Coverage Report
+Easily monitor backup coverage and failures across all M365 connectors with automated, customizable, and easy to export reports. This replaces the former "compliance report.”
+What’s new
+The report is redesigned for operational backup validation across all Microsoft 365 connectors, including:
+- Object-level insights with Object ID tracking
+- Visibility into object level coverage
+- Cross-connector aggregation in a single report
+- Automated report delivery (daily/weekly/monthly)
+- Easy export for audits
+Why it matters
+Pressure to demonstrate the health of backups continues to build up. This new report provides detailed visibility, making it easier to identify specific objects that are failing or are repeatedly skipped, so you can detect and address any issues before they impact recovery or compliance checks. It also makes reporting easier and more comprehensive. Learn more here.
+Entra ID cross-tenant restore
+You can now restore Entra ID data from one tenant to a separate, clean tenant — helping ensure business continuity and providing a testing environment before deploying changes.
+What’s new
+Cross-tenant restore allows you to recover Entra ID objects into a different tenant while automatically maintaining object relationships and dependencies.
+Keepit securely connects to the target tenant, configures the required application and permissions, and validates tenant-specific requirements such as domain availability. During the restore process, object dependencies are preserved to help ensure the restored tenant functions as expected. Customers can also select which of their verified domains should be assigned to restored identities.
+Supported objects include Users, Groups, Administrative Units, Role Definitions with Assignments, Policies, App Registrations, and Service Principals.
+You will find the option to restore to a different tenant in the Restore Wizard. Learn more here.
+Why it matters
+If your primary Entra ID tenant becomes inaccessible — due to misconfiguration, cyber incidents, or other disruptions — restoring identities, policies, and access settings manually can be complex and time-consuming.
+Cross-tenant restore allows you to quickly recover Entra ID data into a secondary tenant that mirrors your primary environment. This helps minimize downtime, reduce operational risk, and ensures your organization can continue operating while issues are resolved.
+It also provides a secure environment where you can test and validate changes before applying them to your production tenant.
+Entra ID: Switching to Graph V1 for logs backup (expected changes to snapshot sizes)
+We’re introducing a change to how Entra ID sign-in logs are backed up in Keepit, ensuring more stable and reliable snapshots over time.
+What's new
+Keepit now uses the official Microsoft Graph API (v1.0) to collect Entra ID Interactive User Sign-In Logs. Previously backed-up logs via the Microsoft Graph Beta API included additional log types but were less stable for long-term use.
+With this update:
+- Interactive User Sign-In Logs continue to be backed up.
+- Non-interactive User Sign-In Logs, Service Principal Sign-In Logs, and Managed Identity Sign-In Logs are no longer included in snapshots.
+As a result, you may notice smaller snapshot growth over time, which is expected and reflects the updated log scope — not an issue with your data or environment.
+Why it matters
+This update ensures more stable and reliable snapshots, consistent backup behavior, and better long-term support from Microsoft.
+Salesforce API control made simple
+You can now choose how many API requests must remain available in Salesforce before Keepit jobs pause. Keepit now reads Salesforce’s “API requests remaining” value and compares it to a user-defined threshold (expressed as a percentage). Based on that threshold, backup and restore jobs either continue running or back off.
+What’s new
+In the Salesforce connector settings, you’ll now see:
+- A Backup coverage summary, aligned with how other connectors show high level coverage
+- A new API limit tab, where users set the API related safety threshold for all jobs
+- Explanations on how job API settings relate to Salesforce API usage
+Why it matters
+Currently, it is not easy to understand the API usage in Keepit, which leads to backup jobs to pause repeatedly or never complete, and gives little insights into how much API Keepit jobs really need. This update makes it clearer how far into the API pool Keepit jobs are allowed to run before we back off, improving both protection from limits and job reliability. You can learn more here.
+Zendesk: Tagging restored tickets
+Zendesk tickets created via a restore job are now automatically tagged.
+What’s new
+Zendesk tickets created through a restore job will now automatically receive a tag at the moment they are created. This tag is compatible with Zendesk’s automation framework, allowing admins to build rules that exclude restored tickets from specific automation actions.
+When starting a restore, you can define the tag to be applied. You can also identify which tickets were created through a restore both directly in the Zendesk interface and in Keepit.
+Why it matters
+Zendesk does not natively distinguish restored tickets from user-submitted ones. As a result, restored tickets are treated as newly created and can trigger default automations and notifications, including messages sent to external customers.
+By flagging restored tickets, admins can configure workflows to handle restores differently. This helps prevent unintended customer notifications and reduces disruption to SLAs, reporting, and internal processes.
+Learn more about this feature here.
+Azure DevOps improvements
+You can now back up larger repositories, complete jobs faster, and restore with fewer manual steps. These updates make Azure DevOps protection more efficient and scalable for growing environments.
+What’s new
+We’ve introduced several enhancements to how you back up and restore Azure DevOps repositories:
+- Repository size limit increased from 16 GB to 256 GB, expanding support for larger codebases and long histories
+- Snapshots no longer include commit graph and .idx files, reducing snapshot size
+- Backup jobs no longer parse packfiles, improving speed and lowering resource usage
+- A new setup script (Windows and Linux) is required during restore — it regenerates .idx files for all packfiles and runs git checkout automatically
+Why it matters
+You can now protect significantly larger repositories without hitting previous limits, making the solution viable for enterprise-scale development.
+Backup jobs run faster and more efficiently because we’ve removed packfile parsing, which reduces system load and improves reliability at scale. Smaller snapshots mean less data to store and transfer, helping you optimize both time and cost.
+The updated restore process simplifies recovery by automating key steps, so you can get repositories back online quickly and with less manual effort.
+MCP integration toolbox
+Connect your AI assistants to Keepit backups metadata using Model Context Protocol (MCP). You can now ask questions in plain language in your LLM's and get instant answers about your backup environment.
+What’s new
+Keepit’s MCP integration toolbox connects AI assistants — such as Claude or Copilot — to your Keepit backup metadata through an open standard called Model Context Protocol (MCP).
+The integration is publicly available on GitHub and is designed with security and control in mind. This version gives read-only access to backup metadata in Keepit to perform only the specific tasks we’ve defined. Your backup data is never exposed and you keep full control over access, security, and governance, while simplifying:
+- Connector management
+- Job monitoring
+- Audit and compliance
+- Snapshot management
+Why it matters
+Instead of navigating dashboards or running manual searches, you can simply ask your AI assistant questions about backup status, coverage, or metadata — and get immediate answers. That means you spend less time looking for information and more time acting on it. You streamline how you access backup insights while maintaining strict control over your environment. Because the integration is limited to read-only metadata access, you reduce risk while still making critical backup information easier to use.
+Learn more about Keepit's MCP integration toolbox here.
+Introducing Keepit for GitHub
+You can now purchase backup for GitHub with Keepit. This new support adds to the growing list of DevOps SaaS applications we already protect for you — including Jira, Confluence, and Azure DevOps — so you can manage backup and recovery across your development stack in one place.
+What’s new
+Keepit Backup and Recovery for GitHub delivers independent, automated protection for your repositories and related data, including:
+- Automated daily backups of repositories, metadata, and configurations, stored separately from GitHub.
+- Point-in-time recovery, so you can restore repositories and settings to a specific previous state.
+- Immutable, air-gapped storage that helps mitigate the effects of ransomware, malicious commits, and compromised accounts.
+- Flexible retention and detailed audit trails that support your compliance efforts beyond GitHub’s native recovery capabilities.
+- Reliable access to your backup data, even if GitHub experiences an outage or data loss event.
+Why it matters
+Your source code is business-critical — and you’re ultimately responsible for protecting it. Native recovery features alone may not cover accidental deletion, insider threats, or long-term retention needs. With Keepit, you get independent backup and fast restore for GitHub, alongside the other SaaS applications your DevOps team depends on, so you can reduce risk, limit downtime, and stay in control of your data. 
+Learn more about Keepit's GitHub here, or contact your Keepit representative directly.
+10.16.0 - What's New in the Keepit Platform
+Improved Search and Filters
+You can now enjoy faster search and filtering, making it quicker to restore and access your data.
+What’s new
+- Significantly improved search performance, especially visible on very large datasets
+- More relevant results first, so you immediately see what matters most.
+- Shorter lists of results with the option to broaden the search when needed.
+Why it matters
+Faster, more accurate results means quicker restores and reduced downtime.
+Learn more about improved search behavior changes and expanded research in this article.
+Entra ID: Expanding Privileged Identity Management (PIM) protection
+You can now back up and restore Entra ID Privileged Identify Management (PIM) role settings and scheduled role activations.
+What’s new
+This update adds backup and restore coverage for PIM role settings.
+This means critical configurations - such as activation rules, approval requirements, notification preferences, and time-bound role assignments - are now preserved as part of your Entra ID backups and restored with greater fidelity after an incident.
+Why it matters
+With these improvements, restored environments more closely reflect their original security posture, reducing the need for manual reconfiguration and helping organizations maintain compliance, governance, and least-privilege access principles.
+The release also includes performance optimizations, delivering faster and more reliable backup and restore operations for Entra ID privileged roles.
+Entra ID: Antivirus Policies
+Back up and restore Microsoft Intune Antivirus policies to quickly recover critical security configurations after accidental deletion, misconfigurations, or incidents.
+What’s new?
+Antivirus policies are now included in Entra ID backup and restore coverage.
+Why it matters?
+This ensures that critical antivirus configurations can be quickly recovered, helping maintain strong organizational security and minimizing risk from accidental changes or incidents.
+Power Platform: Power Apps and Power Automate cloud flows
+Keepit now extends its Microsoft Power Platform protection to include Power Apps and Power Automate cloud flows — alongside existing backup support for Power Pages and Power Automate desktop flows.
+What’s new
+Power Apps
+- Canvas apps
+- Model-driven apps
+Power Automate
+- Cloud flows
+Why it matters
+You likely invest significant time and effort building low-code apps and automations in Microsoft Power Platform. Protecting that data and those workflows ultimately falls on you, while Microsoft’s native Power Platform backups are limited — offering only short-term retention and full environment restores instead of granular recovery.
+With Keepit, you get independent, long-term protection and the ability to restore exactly what you need, when you need it.
+Learn more about Power Platform coverage here.
+Salesforce: Advanced Relationship Restore
+Get more control when restoring related records in Salesforce.
+What’s new
+You can now choose exactly how related records are restored alongside the Salesforce data you’re recovering. Explore all available options in our dedicated help center article.
+Why it matters
+Restoring a record without its relationships can limit its usefulness, as relationships provide essential context. While restoring all relationships can be convenient, it may also risk overwriting changes made since the backup.
+The new advanced relationship restore options give you the flexibility to restore related records safely and precisely—so you can maintain context without unintended overwrites.
+10.15.0 - What's New in the Keepit Platform
+Okta improved recovery
+Keepit introduced Okta backup in summer 2025. This new iteration of Okta Backup enables you to restore users, groups, applications, policies, and security configurations exactly as they were — giving you complete confidence in your ability to recover after an incident.
+What’s new
+- User & group role assignments — Instantly restore critical access relationships.
+- Richer application recovery — Recover provisioning settings, features, secrets, JWKs, and role assignments.
+- Stronger security posture — Fully restore Threat Insight settings and related IP zones.
+- Advanced admin support — Recover custom roles, permissions, resources, and resource sets.
+- Smarter policy restore — Restore policy definitions, rules, types, and app or group relationships.
+- Network zones — Restore your Zero Trust boundaries with a single click.
+Why it matters
+When misconfigurations or incidents occur, you need to recover quickly and accurately. Keepit helps you restore your identity environment without manual rework, maintain consistent security policies, and reduce downtime.
+With Keepit backup for Okta you get complete, confident, and reliable identity recovery.
+10.14.0 - What's New in the Keepit Platform
+Expanding Salesforce Industry Cloud support
+We’ve expanded our Salesforce coverage to include all clouds available in Salesforce API version 61 and earlier.
+Objects and metadata from the following Industry Clouds are now fully supported in backup and restore:
+- Automotive Cloud
+- Education Cloud
+- Energy & Utilities Cloud
+- Media Cloud
+- Nonprofit Cloud
+- Revenue Cloud
+You can now protect and restore industry-specific configurations and records alongside your existing Sales, Service, and other Salesforce data—with no additional setup required.
+Support for Salesforce migration from profiles to permission sets
+As Salesforce moves from profiles to permission sets by Spring '26, our connector now validates permissions using permission sets and permission set groups to keep your connectors running smoothly.
+With this release, the connector now:
+— Validates the following permissions across permission sets and permission set groups:
+- Query All Files
+- Modify All Data
+- View All Users
+- API Enabled
+— Combines permissions from all assigned permission sets and groups
+— Continues to support existing profile-based permission configurations
+If the integration user lacks any of the required permissions, whether from its profile or assigned permission sets/groups, the authorization check will fail, and we will return an error so you can correct the Salesforce configuration.
+10.13.0 - What's New in the Keepit Platform
+Entra ID: Restore wizard enhancements for Authentication Methods
+Restoring authentication methods is now simpler and safer.
+You can now easily restore included and excluded assignments when restoring policies, helping prevent accidental access changes and ensuring consistent security configurations.
+10.11.0 - What's New in the Keepit Platform
+Salesforce: Granular restore control for smarter data management
+You can now decide which related records to include or exclude in a restore job. This makes restores faster and lighter, helps reduce storage and API usage, and ensures you keep only the data that matters while preserving key relationships.
+Integration to Microsoft Sentinel for monitoring audit logs
+Use our custom Azure Resource Manager (ARM) template to forward Keepit audit logs to Microsoft Sentinel.
+By integrating Keepit audit logs, your security team gains visibility into backup activity, tracking regulatory compliance, detecting signs of anomalies or malicious actions targeting backups, so they can rapidly coordinate response and recovery.
+10.10.0 - What's New in the Keepit Platform
+Salesforce: Data anonymization options for sandbox seeding and restore jobs
+You can now apply advanced anonymization to your Salesforce data using redaction, hashing or shuffling. This gives you flexible, privacy-compliant ways to protect sensitive information across any environment – from production to sandboxes. You can use it when seeding a sandbox, masking data for development, or restoring data.
+Previously, anonymization was limited to nulling fields, so this adds more control and options for handling sensitive data safely.
+For more details, click here.
+Entra ID: Expanded support for Intune Device Configuration Profiles
+We’ve expanded backup and restore support to cover Settings Catalog, Imported Administrative Templates (Preview), Software Updates, and other key configuration profiles, giving you broader protection and easier recovery for device settings.
+For a full list of supported configuration profiles, click here.
+10.9.0 - What's New in the Keepit Platform
+Salesforce: Embedded image support in rich text fields
+We now support images embedded in Salesforce Rich Text Fields, including JPEG, PNG, PJPEG, and GIF formats. These images are stored as Salesforce Attachments and retrieved via the REST API.
+On your next full scan, any embedded images will be detected and stored. Because Attachments are not Bulk API-compatible, this may result in slower performance for that initial scan — especially for orgs with a high volume of embedded images. After this one-time sync, backup performance should return to normal unless large volumes of changes continue to occur in rich text fields.
+Salesforce: Expanded support for industry clouds
+As part of the continuous expansion of our coverage, we now fully support the following Salesforce industry clouds:â¯ Communication Cloud, Consumer Goods Cloud, Financial Services Cloud, Health Cloud, Loyalty Cloud, Manufacturing Cloud, Net Zero Cloud, Public Sector Solutions Cloud. These clouds are built on standard Salesforce architecture and are now included in all backup and restore operations, ensuring data protection across more specialized environments.
+Azure DevOps: Restore work items from the recycle bin
+You can now restore soft-deleted work items in Azure DevOps directly from the recycle bin. These items retain their original IDs and creation dates, ensuring continuity and data integrity.
+10.8.0 - What's New in the Keepit Platform
+Easily recover items with the new "Object ID" column
+You can now enable a new Object ID column to help identify and trace items more precisely during backup browsing and restore. The column displays unique system identifiers (e.g.. Salesforce Record IDs or Microsoft Object IDs) making it easier to trace and recover the right items.
+For clarity, the old "Name" column is now called "Display Name." The Object ID column is hidden by default (except for Salesforce and Zendesk) and can be added via column settings.
+Microsoft Entra ID PIM Eligible Role Assignments now supported
+We’ve added support for backing up and restoring Eligible Role Assignments as part of Microsoft Entra ID Privileged Identity Management (PIM) support.
+This ensures your just-in-time (JIT) access settings are fully protected, eliminating the risk of data loss or the need to manually recreate configurations.
+Restore Google Workspace files in their original formats
+You can now restore Google Workspace files—including Docs, Sheets, Slides, and Apps Scripts—in their original formats instead of only generic exports like .zip or .csv. This means faster, easier, and more reliable restores that preserve your Google files' original structure and functionality.
+To ensure your files are stored in their original formats and enable the new restore functionality, please reauthenticate your connectors.
+10.7.0 - What's New in the Keepit Platform
+Azure DevOps Git repositories backup now supported
+We’ve expanded our Azure DevOps connector to include support for backing up Azure DevOps Git Repositories. You can download the repositories, which can be easily pushed to any new or existing Git hosting platform.
+10.6.0 - What's New in the Keepit Platform
+New feature for tracking skipped items in backups
+The Data Protection Dashboard now includes a new feature that analyzes recent consecutive backups to identify items that are recurrently skipped, alerting you to take timely action. You can download lists of skipped items to investigate and address potential gaps in your backup coverage.
+10.5.0 - What's New in the Keepit Platform
+Introducing the Anomaly Detection Dashboard
+We’re excited to launch the Anomaly Detection Dashboard, a powerful new tool to help you monitor changes in your backup data. This dashboard tracks your data for the selected month and notifies you if any anomalies are detected.
+Anomalies are flagged when there is a significant change in data size or item count between consecutive snapshots. If an anomaly is detected, you can use our data compare tool to identify and analyze the changes, helping you assess their potential impact.
+The Anomaly Detection Dashboard is available exclusively to customers with Enterprise Unlimited and Governance Plus service offerings.
+One-click export of entire Salesforce object folders
+You can now export a CSV file of an entire object folder with a single click. This allows you flexibility in how you can access your backed up data.
+10.4.0 - What's New in the Keepit Platform
+Leveraging partial snapshots for enhanced data protection insights
+We’ve improved data protection insights by incorporating data from partial snapshots, which are taken every 4 hours during the initial backup. This allows users to access coverage metrics sooner, providing earlier visibility into data protection progress.
+10.3.0 - What's New in the Keepit Platform
+Enhanced connector configuration experience for Microsoft 365 connector
+We’ve made several key improvements to the connector configuration process to enhance usability and clarity:
+- Improved UI layout: The connector configuration interface has been refined for greater clarity and ease of use, ensuring a consistent user experience across all workloads.
+- Enhanced license verification: We've streamlined the process for checking Microsoft 365 service plans and license assignments. The UI now provides clearer notifications should a required license be missing, helping users quickly identify and resolve any issues.
+10.2.0 - What's New in the Keepit Platform
+Protect SharePoint term store data in your Microsoft 365 connector
+The Microsoft 365 connector now supports the backup and restore of SharePoint Term Store, a critical component for managing metadata and taxonomy in SharePoint. This update ensures comprehensive protection for both global and local term sets, enhancing backup and restore integrity for enterprise users.
+Please note that reauthentication is necessary before you can enable the new supported data area in your backup configuration.
+Introducing the Power Platform / Dynamics 365 Connector
+Our Dynamics 365 connector now supports Microsoft Power Platform data, including Power Pages Sites and Power Automate Desktop Flows, with additional capabilities planned for future releases.
+Additional seats are required to back up Power Automate and Power Pages data. Contact your Keepit representative for assistance.
+10.1.1 - What's New in the Keepit Platform
+Reduced permissions for connector authentication and restore actions
+We've minimized the permissions required for creating and authenticating connectors, now limiting them to the least privileged built-in role: Privileged Role Administrator.
+Additionally, restore actions that previously required Global Administrator rights—such as SharePoint site external settings, site quota settings, and communication site restores—will now use application permissions. This means you no longer need to use highly privileged accounts for these actions, enhancing security and simplifying access management.
+10.0.0 - What's New in the Keepit Platform
+Introducing the Data Protection Dashboard
+We're excited to introduce the new Data Protection Dashboard, designed to give users a comprehensive and intuitive overview of backup status and essential metrics, such as health, coverage, and restore statistics for all connectors.
+This workload-based dashboard provides near real-time insights, displaying aggregated values for backup status and coverage, with the flexibility to drill down into specific connectors for more detailed information.
+With this enhanced observability, users can quickly identify and address potential issues before they escalate, improving productivity and reducing the risk of errors.
+Entra ID connector expands backup capabilities
+The Entra ID connector has been enhanced to support the backup of Windows Local Administrator Password Solution (LAPS). Additionally, it now backs up account protection policies, including local user group memberships and Windows LAPS configurations.
+To enable backup support for Windows LAPS, we require an additional permission: Read device local credential passwords. You can grant this permission by reauthenticating your connector through its backup configuration.
+Please note that reauthentication is necessary before you can enable the new supported data areas in your backup configuration.
+LAPS backup functionality is available exclusively for Advanced Entra ID connectors. However, all customers, including those using Standard Entra ID connectors, will still be prompted to reauthenticate.
+Enhanced Entra ID bulk restore for greater efficiency
+We’ve introduced significant enhancements to the Entra ID restore process to make it faster and more efficient. With this update, you can now perform bulk restores for more Entra ID objects, helping you save time and maintain data relationships seamlessly.
+In addition to the recent bulk restore capabilities for users and groups, you can now restore all administrative units, roles, service principals, app registrations, and policies in one go. This comprehensive approach streamlines the recovery of your Entra ID environment, ensuring a more efficient and cohesive restoration process.
+9.22.0 - What's New in the Keepit Platform
+Enforce security policies for public links
+Master Admins can now enforce security policies for all public links created within the account, ensuring sensitive data remains protected.
+Navigate to Account info > Security to activate policies such as requiring password protection and setting a maximum expiration date for public links, providing greater control and reducing the risk of unauthorized access.
+For more details, see Create a public links policy
+9.21.0 - What's New in the Keepit Platform
+Add comment to restore job
+Enhance documentation and auditing by using the new comment field when initiating a restore job. This feature allows you to document the reasons for restore actions and include ticket references. For easy tracking, comments are visible in restore reports and in a new column in the Job Monitor. If the column isn't visible, you may need to add it to your table view.
+Optimized search experience
+Refine your search with precision by selecting the specific data area and using double quotes for exact matches.
+For Microsoft 365 connectors, leverage the new integrated contextual filters to gain better control and ensure more accurate results. Whether conducting broad or narrow searches, use predefined filters, open text fields, and common search patterns to fine-tune your queries within the connector.
+Enhanced data security for restore operations
+We've strengthened data security by adding additional security controls governing who can restore data and the locations they can restore to. This enhancement improves data management for large-scale customers.
+Improved Teams chats connector notifications
+As of release version 9.18.1, an app registration is required to back up Teams chats. In this release, any connector with Teams chats enabled that lacks this app registration will result in failed or skipped backups of Teams chats data. This will trigger notifications to promptly alert you, ensuring you can reconfigure your connectors as needed for smooth and successful Teams chat backups. For more info, go to: Teams Chats custom app registration FAQ
+9.20.0 - What's New in the Keepit Platform
+Enhanced Entra ID restore process for increased efficiency
+This release introduces key improvements to streamline and optimize your restore processes:
+- Restore users and groups in bulk to save time and preserve relationships
+- Reduce the number of recreated items by restoring soft deleted items directly from the recycle bin
+9.19.0 - What's New in the Keepit Platform
+Enhanced Entra ID restore wizard for Conditional Access policies
+With the enhanced Entra ID restore wizard, you can now seamlessly restore missing users and groups assigned to Conditional Access policies. Our improved functionality allows you to restore the following elements of a selected policy:
+- Included users
+- Included groups
+- Excluded users
+- Excluded groups
+This feature ensures that both inclusions and exclusions can be restored when missing. Existing assignments between Conditional Access policies and users or groups will be accurately recreated according to the original setup, providing a reliable and efficient restoration process.
+Advanced file restore options for Salesforce
+Restoring files in Salesforce now offers more flexibility with advanced restore options:
+- Update an existing file or create a new one
+- Select any active user to become the new file owner
+- Choose which records to associate the file with
+9.18.1 - What's New in the Keepit Platform
+Improved Teams Chats backup performance and control
+To minimize the impact of Microsoft's per-app throttling, we now require you to create an app registration in your Entra ID specifically for backing up Teams Chats. This will improve overall Microsoft 365 backup performance and ensure Teams Chats backups are timely and complete.
+Please note, if you currently back up Teams Chats either in a dedicated connector or in a connector with other data areas, the backup of Teams Chats data will be paused until the app registration is created and the connector is reauthenticated. All other data areas will continue to be backed up without interruption.
+Visit our Help Center for more details: 
+Create an app registration in Entra ID 
+Teams Chats custom app registration FAQs 
+9.18.0 - What's New in the Keepit Platform
+Enhanced Google Workspace connector configuration
+Configuring the Google Workspace connector is now more intuitive with the latest improvements:
+- Granularly select users for backup
+- Enable or disable shared drives backup
+- See the number of shared drives backed up
+- View information on missing groups and organizational units in the backup
+9.17.0 - What's New in the Keepit Platform
+Back up and restore Salesforce metadata
+The Salesforce connector now supports the restore of various metadata types. The coverage is based on what is supported with the Salesforce Metadata API. For a complete list of supported metadata types, refer to: Metadata Coverage.
+Control which messages you receive for account activities
+You can now customize and receive messages for account activities. These alerts will be sent to your in-app inbox and email. You can choose to receive messages about backups, data recovery, seat limits, and POC status.
+Improved file download experience
+We have improved the download experience by enabling you to easily copy download links directly from the user interface.
+9.15.0 - What's New in the Keepit Platform
+Spot data loss, compare snapshots, and easily restore data with the data compare feature
+The snapshot compare feature is now available for all Keepit connectors.
+This feature allows you to:
+- You can compare two snapshots to quickly check the data difference and detect data loss.
+- Spot deleted files you need to restore and bring back to your production environment.
+- Track files that have been modified, deleted, added, or unchanged.
+Usage page enhancements for better seat management
+We've enhanced our seat usage breakdown to provide a detailed overview of consumed seats for each individual connector. This improvement will help you efficiently manage your consumption.
+See what Keepit is working on & give us your feedback
+Keepit partners now have full transparency into what we are working on and considering for both the PMC and the main Keepit platform. Click on the link to the Keepit Product Portal to get an up to date view of our development plans. You can give us direct feedback on any of the individual projects in the portal, or submit your own idea if you think we're missing something.
+9.14.0 - What's New in the Keepit Platform
+Microsoft 365 connector improvements
+We have updated our application to request additional permissions that will enhance our Microsoft 365 Groups and SharePoint backup capabilities. To gain access to these enhancements, please reauthenticate your connector to update permissions. You can reauthenticate from the dashboard page or from the connector configuration. For more information, see: Grant new permissions to Keepit backup app
+9.13.0 - What's New in the Keepit Platform
+Effortlessly restore Salesforce files to their original location
+You can now select one or more files to be restored to their original location within your Salesforce organization, streamlining the recovery process and ensuring seamless access to critical data.
+9.12.0 - What's New in the Keepit Platform
+Enhanced user role customization
+Now creating custom roles tailored to your organization's privacy policy is simpler than ever before. This gives you increased control and flexibility in the permissions you assign to specific users and gives you more options to fine-tune your access control. Available to customers on Enterprise Unlimited and Governance Plus plans.
+Azure AD connector renamed to Entra ID
+Microsoft has completed the renaming of Microsoft Azure Active Directory to Microsoft Entra ID. To keep the experience and naming terminology consistent for our customers, we have renamed our Azure AD connector to Entra ID. The renaming changes and new Entra ID logo have been implemented across the Keepit platform in accordance with Microsoft's new terminology.
+End of support for legacy user interface
+We've officially retired our legacy Keepit platform user interface. Moving forward, we will no longer be providing support for the old interface.
+9.11.1 - What's New in the Keepit Platform
+Improved data security and policy backup in Advanced Azure AD backup
+We've implemented enhancements to bolster data security and streamline policy backup processes within Azure AD backup. Now, our Azure AD Advanced connector includes comprehensive backup support for authentication methods, authentication strengths, and named locations.
+To get increased coverage, the list of permissions granted to the Keepit app must be updated, which can be done by reauthenticating your connector.
+9.10.0 - What's New in the Keepit Platform
+Auto-update SharePoint domain changes
+Now, if you update your SharePoint domain in your Microsoft tenant, Keepit will automatically detect the changes to ensure that your backups continue to run without needing to contact support to manually update the domain.
+9.9.0 - What's New in the Keepit Platform
+Dynamics 365 backup now uses minimal privileges
+The Dynamics 365 backup now requires a reduced set of privileges. Although the initial creation of the connector mandates Global admin access, this role can be safely removed from the service account post-creation. To ensure seamless and uninterrupted backups, preparation of the account is crucial. Refer to the instructions provided in this article for detailed guidance: Removing the Global admin role from Dynamics 365 backup service account
+9.8.0 - What's New in the Keepit Platform
+Spot data loss and easily restore data with Salesforce data compare
+Detect and recover from data loss effortlessly with our new Salesforce data compare feature. This functionality enables you to quickly compare two snapshots, identify differences, and maintain data integrity. Whether you need to locate deleted files or track modified and added items, the compare feature offers enhanced control over your Salesforce data.
+Higher control and flexibility with on-demand backup jobs
+Manually initiate backup jobs on demand for enhanced control over your data protection. Simply go to the Connectors page, select a specific connector, and click the "Start backup" button to ensure your critical data is safeguarded whenever you need it.
+Get improved visibility and understanding of your Azure AD service offering
+Quickly identify your current service offering on the dashboard. Evaluate data coverage gaps to make informed decisions about upgrading to Azure AD Advanced for a more comprehensive experience.
+9.7.1 - What's New in the Keepit Platform
+Improved control over SharePoint and OneDrive versions backup
+Now you have the option to disable versions backup for SharePoint and OneDrive, offering increased control over your backup performance. Easily manage this feature through the Advanced backup configuration settings.
+9.7.0 - What's New in the Keepit Platform
+Get full visibility into your data with our new Monitoring Dashboard
+We've introduced a Monitoring Dashboard, designed to provide you with comprehensive insights into your data environments. This tool enhances your ability to prevent data loss, detect malicious activity, and ensure compliance.
+Access the new page by selecting Monitoring icon in the left-hand menu. Here you'll find detailed information about data changes between snapshots, including:
+- Data growth trends for each connector
+- Number of added, modified, and removed items
+- Amount of data affected by the added, modified, or removed items
+Improved control over Dynamics 365 backups
+You can now select which specific Dynamics 365 environments you want included in a given backup configuration. This makes it easy for you to ensure that your production, sandbox, and development environments are appropriately protected.
+Enhanced security and user experience for Public Links
+We've improved the security of public links by highlighting password and time expiration settings. Additionally, we've enhanced the user experience by simplifying the process of copying and editing links.
+Improved SharePoint site downloads
+Now, when you download a SharePoint document library or folder, the data will no longer contain duplicate files, ensuring a smoother and more efficient SharePoint site download experience.
+9.6.0 - What's New in the Keepit Platform
+Improved Salesforce backup
+Our Salesforce data backups have been optimized for better performance by leveraging Bulk API 2.0. This enhancement reduces API request usage, provides more reliable coverage for objects with a substantial number of records, and boosts the speed of your backups.
+9.5.0 - What's New in the Keepit Platform
+Receive support directly in the platform
+We now offer an improved support experience that is integrated directly into the Keepit platform. This will make it more convenient for you to request help – if you ever need it!
+Click the Help icon in the lower-left corner of the dashboard to bring you to our new Support Page. Here you will find not only useful articles, but also the option to create support tickets and have ongoing conversations with our support agents until your problems are solved.
+Improved Azure AD connector initial backup performance
+Now, when setting up a new Azure AD connector, you can specify how many hours or days of activity logs to include in the initial backup. This feature will allow you to streamline your first backup, reducing the overall backup time.
+9.4.0 - What's New in the Keepit Platform
+Get full transparency with our new seat usage overview
+For enhanced license management and informed decision-making regarding your future backup requirements, we've introduced a seat usage overview in the Keepit platform. This feature provides a comprehensive view of both current and historical usage patterns.
+You can access this overview in your account info under the Usage tab. Here, you'll find daily usage statistics for each connector type, as well as a detailed historical monthly overview.
+Experience faster restore of Salesforce records
+Thanks to enhanced engine capabilities, restores of large numbers of records will now execute significantly faster while consuming fewer API calls.
+9.3.1 - What's New in the Keepit Platform
+Monitor event status in the Audit Log
+Stay informed with the latest enhancement to our audit log feature. Now, you can quickly determine whether an event has succeeded or failed, enabling you to easily assess the status of each event.
+9.3.0 - What's New in the Keepit Platform
+Use our improved Azure AD connector backup configuration for enhanced control
+You can now individually select groups and/or administrative units for inclusion in your backup, providing you with precise management over your configuration.
+Stay informed of missing Azure AD objects in your backup
+If Azure AD objects initially selected for backup are later removed from your tenant, we will pause the backup process and promptly notify you. This will allow you to swiftly take the proper action, safeguarding your backup's intended data integrity.
+9.2.0 - What's New in the Keepit Platform
+Stay informed about your M365 backup coverage with our new compliance reports
+Now there is an easy way to get a comprehensive overview of backed-up users, SharePoint sites, and Groups & Teams within a connector.
+Simply find your connector on the Dashboard, click Compliance report, and generate a report. You will receive a link to the compliance report in your to the in-app message inbox and in an email.
+9.1.0 - What's New in the Keepit Platform
+Effortlessly restore SharePoint sites to a different tenant in bulk
+Accelerate the recovery of your SharePoint sites by seamlessly restoring multiple sites to a different tenant all at once. Regain access to your sites swiftly and efficiently.
+9.0.0 - What's New in the Keepit Platform
+Find your data seamlessly with our new search and filter improvements
+We are releasing a more advanced search engine and extended filtering options to help you find data quicker - enabling you to significantly reduce admin time spent on data management and recovery.
+Filter your Exchange data
+Now you can limit your search to only include emails created within a specified time range. This gives you greater control of results and reduces search time.
+Follow your search progress
+We have added a progress bar to better guide you on the progression of your search. If the search is taking too long, you can always cancel, narrow the scope, and re-run the search.
+Search data in shared links
+We have enhanced your users' self-service experience by introducing full search to all shared links. Now, when you share a link with your colleagues, they can run a quick search through all content shared to find the files they need themselves – reducing time spent on handling data requests and identifying individual files greatly.
+8.9.0 - What's New in Keepit
+Centralize all security insights with our new SIEM integration
+With our new integration to Splunk, it is now possible to automatically send audit log and job monitor events from Keepit directly to your SIEM system, so you can monitor all necessary security data in one central dashboard.
+For details on how to set up an integration, refer to our Help Center.
+Add additional contacts to your account
+You can now add additional contact details to your account for specific areas. This enables us to identify key contacts for addressing any technical, contractual, and compliance inquiries and ensures timely communication of relevant information.
+Your account contacts can be managed from your account info page. Simply select your profile icon > Account info and in Account settings open Account contacts.
+8.8.0 - What's New in Keepit
+Enhanced platform availability
+We have implemented significant backend improvements to enhance platform availability and mitigate any potential disruptions caused by accidental or deliberate cyber attacks. These improvements are aimed at minimizing downtime and ensuring a reliable user experience.
+8.7.0 - What's New in the Keepit Platform
+Protect Teams chats with our new Microsoft 365 data area
+In addition to backing up channel chats in Teams, we now allow you to back up Teams one-on-one chats, group chats, and meeting chats. Chats can be previewed and downloaded, and a future release will add support for restoring chats in a variety of formats. 
+ 
+To back up Teams chats on existing connectors, open the connector configuration and enable the Teams Chats backup. 
+Restore your Salesforce records with more ease
+We have improved our Salesforce restore wizard, giving you a smoother experience in recovering your data.
+- You can now upload Salesforce-generated CSV files with a list of records you want to restore
+- We have added better search and filter options to help you quickly find needed records
+- You can now review the list of records you have selected for restore on the last step of the wizard
+8.6.0 - What's New in the Keepit Platform
+Get more guidance and clarity when adding a Microsoft 365 connector
+We have introduced an enhanced flow for adding a Microsoft 365 connector. The new wizard provides more transparency on every step, ensuring the proper service account is used and that connector is created successfully
+Get a better overview of your backup and restore jobs
+We have improved the backup and restore job reports in the Job Monitor. Now you will find a sleeker look with a better overview of job details.
+As part of the improvements, you will now find:
+- A more detailed breakdown of what Microsoft 365 data was backed up
+- The email address of the user who initiated a restore job
+- A list of items that were selected for restore, which can be filtered to help you find what you need
+8.5.0 - What's New in the Keepit Platform
+Configure the number of SharePoint and OneDrive versions to back up
+On all newly created Microsoft 365 connectors by default we will back up only the last 100 versions of your SharePoint and OneDrive files.
+In the advanced settings of your backup configuration, you can enable the backup of all versions.
+If you already have versions enabled for your connector, we will continue to back up all versions.
+Preview: Back up more data in your Azure DevOps connector
+We now back up Azure Pipelines and their associated subtypes: pipelines, environments, releases, and library.
+Additionally, we also now back up agent pools and queues as well as deployment pools and groups.
+Improvements to our Zendesk connector
+- Have more control over your Zendesk backup
+We have improved the configuration window to provide you with more flexibility. Now you can choose to include or exclude views, macros, automations, and triggers from your backup.
+- Search for Zendesk tickets by ID
+We have added a ticket ID column to help you find tickets by their IDs.
+- Rest assured your Zendesk API requests won't reach the limit
+We have introduced an internal throttling mechanism to control how many API requests we are using per minute. This will ensure that users can continue to work in Zendesk without disruptions.
+8.4.1 - What's New in the Keepit Platform
+Improved Google Workspace backup configuration gives you more control
+You can now select users for backup based on Google Workspace organizational units or groups. The improved configuration gives you more control for a quicker and smoother backup setup process.
+8.4.0 - What's New in the Keepit Platform
+Have more control over your Exchange public folders backup
+Public folders are now a separate data area in the Microsoft 365 backup configuration, making it easier for you to configure your backup settings.
+If you have an older version of the Keepit app in Microsoft 365, you will be prompted to reauthenticate your connector. After reauthentication, you will have access to the new configuration.
+Restore Azure AD service principal with related app registration
+Now you can restore an Azure AD service principal with its related app registration.
+Back up Dynamics 365 data with fewer permissions
+The Keepit Dynamics 365 app in Microsoft now needs fewer permissions to back up data. Now only the following permissions need to be granted:
+- Access Common Data Service as organization users
+- Sign in and read user profile
+- Read directory data
+8.2.1 - What's New in the Keepit Platform
+Use subfolder search for quicker and more precise results
+Now by default our search looks in the folder you are viewing and all of its subfolders, rather than across the whole connector. To search the entire connector, simply change the option in the upper-right corner of the Connectors page.
+8.2.0 - What's New in Keepit
+Access all your account info in one place
+For better account management, we have moved all account-related information to the Account Info page. There you can find tabs for Account Settings, Users, Security, and Service & Billing.
+To access your account information, in the lower-left corner select your account profile > Account info.
+Easily create new users with our enhanced flow
+The flow for creating new users is now divided into three steps for clearer guidance. We have also improved the display of permissions for each role, making it easier to understand what role is most appropriate for the user.
+Access the new Users page by opening your Account Info.
+8.1.1 - What's New in the Keepit Platform
+Restore your SharePoint site to a different tenant
+You can now restore a SharePoint site to a different Microsoft 365 tenant for use in investigations or for archive retrieval. Simply navigate to the site you want to restore and select the option to restore to a different tenant.
+8.1.0 - What's New in the Keepit Platform
+Back up data in specific locations with our new Multi-Geo support
+If you’ve deployed Microsoft support for multi-geo tenants, you can now configure a connector to back up data from all locations or only from a specific satellite location.
+What's New in the Keepit Platform
+Preview: Protect Microsoft Azure DevOps data with our new connector
+Keepit's new Azure DevOps connector offers comprehensive protection and fast recovery for your DevOps data. The connector provides complete coverage for Azure Boards, in particular for work items, boards, backlogs, team sprints, queries, and delivery plans. Use our platform features to recover your data with our smart search, file previewer, and versatile restore options.
+Close the gap in your cloud security strategy with Advanced Azure AD protection
+Our Azure AD connector now backs up even more business-critical data, including:
+- Conditional access policies: Preserve, restore, inspect, and track differences in Azure AD Conditional Access policies
+- App registrations: Back up application objects that have been registered in Azure AD
+- Enterprise applications: Back up service principals registered in the Azure AD tenant along with their assigned permissions
+- Intune device configuration profiles and device compliance policies: Protect against unwanted or accidental changes that might affect device access
+- BitLocker key protectors: Ensure continued access to BitLocker-encrypted device
+Ready to see Keepit's Azure AD Advanced backup in action? Sign up now to get an introduction to Keepit's backup and recovery solution.
+7.0.0 - What's New in the Keepit Platform
+Find data for recovery even faster
+We have added more ways to refine your search with improvements to sorting and filtering. The optimized features will make it even easier and quicker for you to find your data.
+For more information, see Find data for recovery.
+Navigate across the platform with improved user interface
+We now have an even better way of showing the dataset:
+- We introduced pagination instead of lazy loading to reduce load times and help you browse through large numbers of items
+- We organized content in an easy-to-scan table instead of a multiline view
+- We improved how the breadcrumbs work to help you navigate to different folders.
+For more information, see Find data for recovery.
+Scandinavian languages no longer supported in UI
+With this release, Danish, Swedish, and Norwegian languages will no longer be available for Keepit's user interface (UI). If you have been using any of these languages, you will notice that you have been switched to English.
+6.4.0 - What's New in the Keepit Platform
+Restore your entire Salesforce organization
+To help meet your disaster recovery needs, you can now restore your entire Salesforce organization to the same location. Simply open the restore wizard and select Restore full organization. You can even choose how to recover the data – whether to create missing items, update items that still exist in Salesforce, or delete items in Salesforce that are not in the snapshot.
+6.3.0 - What's New in the Keepit Platform
+Seamlessly recover a deleted Microsoft 365 user
+Easily recover a user that has been deleted from the Microsoft 365 tenant with our optimized import flow. Simply find the user in the backup, select the restore option, and you will be offered to import the user's data to any user in any of your backed up connectors.
+6.2.2 - What's New in the Keepit Platform
+Cancel restore job feature gives you more control
+Now you can cancel restore jobs directly in the platform, giving you full control of the recovery process in Keepit. If a restore of an incorrect dataset was initiated, simply go to the job monitor and cancel the job.
+6.2.1 - What's New in the Keepit Platform
+Support for IdP-initiated SSO
+We now support IdP-initiated SSO, allowing you to sign in to Keepit directly with your IdP provider.
+You can enable IdP-initiated SSO when you set up your SSO configuration.
+6.2.0 - What's New in the Keepit Platform
+Improved backup behavior in case of deleted Azure AD groups
+We have improved how we handle the backup of Microsoft 365 data in the case that groups have been deleted from Azure AD, either on purpose or accidentally. Now as soon as we detect groups are missing from the backup configuration, we will stop the backup and warn you so you can fix the problem. The will help prevent your backup from not having intended data in it.
+For more information, click here.
+Keepit now supports Graph API 1.0
+We now use Graph API 1.0 instead of the beta version, providing better backup support of Teams channels posts. To switch to the Graph API 1.0, please re-authenticate your connector to update permissions. You can re-authenticate from the dashboard page or from the connector configuration.
+6.1.0 - What's New in the Keepit Platform
+Manage session tokens and create API tokens for API integration
+Now a master admin can view and delete session tokens on their user account and for other users.
+A master admin can also now create API tokens to integrate with the API. A single API token can be used to authenticate multiple API requests - making API integration even easier.
+Changes to SSO functionality Ð¾n the Keepit platform
+Access to the SSO configuration is now found under the Security tab in the the Master Admin account info.
+In addition, now only one SSO configuration can be enabled at a time. If you had more than one configuration enabled before, they will still all be enabled and the same one will remain active. However, as soon as you make any changes to a configuration and save it, all other configurations will be disabled.
+6.0.0 - What's New in the Keepit Platform
+Protect your Zendesk data with our new connector
+Ensure your organization has uninterrupted access to business critical Zendesk data with our Zendesk connector.
+The connector offers the secure backup of the following Zendesk data types: tickets, users, groups, organizations, views, macros, automations, and triggers.
+Use our platform features to find and recover your data, including the smart search, in-place restore, point-in-time recovery, data download, online preview, and secure link sharing.
+What's new in the Partner Management Console (PMC)
+10.20.0 - What's New in the PMC
+Keepit MCP toolkit for partners is now available
+Keepit MCP for Partners connects your preferred AI assistant directly to the Partner Management Console, enabling you to manage your entire customer portfolio through natural language — without navigating multiple PMC screens.
+Ask a single question and get a consolidated answer in seconds. Check your portfolio, backup health across all accounts, identify seat usage and seat limits, review connector failures with remediation steps, and pull audit logs — all from your AI client.
+What's in scope
+11 tools across four capability areas:
+- Account Info — partner account details, full subaccount list, and individual account profiles
+- Connector Insights — connector health, critical state detection, failure reasons, and remediation guidance
+- Seat Usage — seat allocation tracking, historical usage timelines, and portfolio-wide overage detection
+- Audit Log — timestamped activity events across all accounts for a specified date range
+Compatible with Claude Desktop, Cursor, VS Code, and any MCP-compatible AI client.
+Designed specifically for our MSP partners
+Get started
+- GitHub repository: https://github.com/keepit-official
+- Support articles: /help/mcp-category/
+Platform: health status improvements
+Get clearer connector health information across Keepit. Health status and diagnostic details are now resolved from a single backend-driven source for a standard experience across the platform.
+What’s new
+We’ve introduced backend-driven health status and reason handling across Keepit surfaces.
+This update includes:
+- A single, dedicated endpoint that returns both connector health status and the associated reason.
+- Human-readable health reasons directly in the user interface.
+- Consistent health status visibility across the Dashboard, Connector page, and the Partner Management Console (PMC)
+Because all surfaces now use the same endpoint, the status and reason you see in the UI will match the information returned through the API.
+Why it matters
+With this update, you get a single source of truth for connector health, making troubleshooting faster and easier.
+10.18.0 - What's New in the PMC
+We’ve expanded where you can use the internal customer ID field, it’s now available across all account levels.
+- Add or update the field on partner accounts and end-customer accounts
+- Set it during provisioning or when editing existing accounts
+- Use the same identifier consistently across your PMC structure
+Why it matters
+You no longer need to manually cross-reference Keepit accounts with your internal systems. Your internal IDs are stored directly in PMC, so you can more easily manage billing reconciliation, chargeback processes, and account tracking. This helps you stay organized, reduce errors, and keep your data consistent across systems.
+10.17.0 - What's New in the PMC
+What’s new
+- Reimagined account provisioning: A rebuilt, interactive "Create" flow that features color-coded avatars for instant account-type recognition, a scrollable product catalog, and a flexible stepper that allows you to jump back and edit steps without losing progress.
+- Enhanced account settings: We’ve aligned the 'Settings' tabs to mirror the provisioning flow. This makes managing accounts more intuitive and includes better data transparency.
+- UI & UX Refinement: A comprehensive polish of the console’s interface, featuring improved data validation, clearer labeling, and standardized "snackbar" notifications to provide instant feedback on your actions.
+Why it matters
+Consistency drives efficiency. By aligning the way you create accounts with the way you manage them, we’re reducing the learning curve and eliminating friction. These updates ensure that the most critical data is always front and center, allowing you to manage the account lifecycle with greater speed and fewer errors.
+10.13.0 - What's New in the PMC
+Enhancing PMC for future growth
+We've updated the PMC with a focus on delivering a more efficient and clear experience. With the addition of new workloads in Keepit service, we've improved the account, product, and seat views to help you manage your business more effectively.
+- Smarter Account Overview: Get a streamlined, at-a-glance view of your connectors with a redesigned dashboard. See your connector health by category (Critical, Unhealthy, and Healthy) and dive into detailed lists to quickly address issues. You'll also see a new section that tracks total seat usage and month-over-month trends.
+- Intuitive Seat Usage Page: We've updated this section with a faster, more scalable view of your data. A new card-based layout gives you a clearer overview of each customer's seat count per workload, and improved navigation makes it easier to find what you need.
+- Updated Product Portfolio: The Product Portfolio now has an optimized, scalable layout to handle a growing list of workloads. The list is collapsible by default, so the page remains clean and easy to navigate.
+These updates are a direct result of your feedback and are part of our ongoing commitment to provide you with the best tools to succeed.
+10.8.0 - What's New in the PMC
+Improved token management and API integration
+You can now manage session tokens directly from your user account. View and delete active session tokens for yourself and other users as needed.
+Additionally, we've introduced API token support for seamless API integration. Create reusable API tokens to authenticate multiple requests—simplifying the process and improving security.
+10.1.1 - What's New in the PMC
+Enhanced usage breakdown for improved seat management
+We’ve made significant improvements to our seat usage page, providing a more detailed breakdown of consumed seats. This enhancement offers a clearer overview, enabling you to better monitor your customers' seat usage over time.
+To further support you and your customers in understanding Keepit for Microsoft 365 seat consumption, we've introduced two new seat categories: Faculty and Student. Alongside the existing Full and Light seats, these additions now more closely align with Microsoft’s current license plans.
+These new seat types are now shown for all accounts with standard Keepit Service Offerings and are visible in the PMC and for customers in the Keepit platform.
+If you have any questions regarding the applicability of this enhancements, usage, or pricing, please reach out to the Keepit Customer Success Team: customersuccess@keepit.com
+For further information, see: How Microsoft licenses are counted as Keepit seats or read more in our updated Service Guide.
+9.23.0 - What's New in the PMC
+Updated message settings for new customer accounts in PMC
+Messages for newly created customer accounts will now be disabled by default, even if you've enabled "Receive messages about customer accounts" at the PMC account level. To start receiving messages for a specific customer account, you must manually enable them by going to the customer’s account settings and turning on the message option for that particular account.
+For more details, see: Managing customer messages
+9.12.0 - What's New in the PMC
+Total insight into the day-to-day activity across your customer accounts
+Stay informed about important updates and events in your customer accounts by customizing your message preferences. You have the flexibility to choose which messages you receive for each customer account, ensuring you stay connected to the information that matters most. In addition, you can now also control which messages your customers receive about their accounts.
+Old Partner Portal and Administrator user role decommissioned
+The old Partner Portal has now been decommissioned and is no longer available. The Partner Management Console (PMC) is now the default tool for our partners and offers all the capabilities and features needed.
+As part of this transition, support for the Administrator role has been discontinued:
+- Partner users who were using the Administrator role and had subaccounts will be automatically migrated to the Partner Parent role
+- Partner users who were using the Administrator role without subaccounts will be automatically migrated to the Master Admin role
+9.10.0 - What's New in the PMC
+Complete control over customer creation with our new Enhanced Account Provisioning capabilities
+Keepit partners can now benefit from a new account provisioning workflow, which will simplify and standardize the whole provisioning process.
+Using a multi-step wizard, partners can easily and consistently create new accounts with the required product and connector information, service details, customer account details, and end-user details.
+For resellers, there is the option to provision an account from the list of registered customer deals, using the account data we already hold to ensure consistency and data integrity.
+8.4.1 - What's New in the PMC
+Monitor your accounts and seat usage
+We have added two new tabs to the dashboard to help you stay on top of the status of your accounts:
+- The Expiring soon tab will show accounts scheduled for deletion, POC accounts ending their trial periods, and services expiring soon.
+- The Exceeding usage tab will show which accounts have reached their seat limit.
+8.2.0 - What's New in the PMC
+Keep track of all account activity in the PMC audit log
+We have introduced an audit log page to the Partner Management Console. Now partners can track changes that are made to their account and subaccounts. The audit log shows not only what event occurred, but also such information as which user initiated it, the IP address of the user who initiated it, and the time it occurred.
+8.1.0 - What's New in the PMC
+Stay on top of your subaccounts' seat usage
+Use the new seat usage page in the PMC to get a quick overview of seat consumption for all your accounts. For each account you can open the usage page to get more insights, along with charts and graphs showing usage by seat type and over time. You can also download CSV reports for accounts.
+Access invoices in the new billing page
+Now you can see your invoices and keep track of your billing history in the PMC's new billing page. The page can be accessed in your Account info in the Billing tab. Invoices are downloaded as XML files.
+6.4.0 - What's New in the PMC
+Create product portfolios for your partners
+We have introduced a Product Portfolio page to the PMC for clearer and simpler provisioning. This is an overview of the products that can be added to your sub partners' product portfolios. In turn, these are the products that partners can assign to their customers. 
+For more information, see Working with products. 
+Add custom properties to meet customers' unique needs
+With our new functionality, you can now add a custom property to set a seat limit for a connector type. You can also schedule multiple values of the custom property in case seat limits need to change in the future. 
+For more information, see Working with custom properties. 
+6.2.2 - What's New in the PMC
+Quickly access customer accounts with multi-account management
+Keepit Managed Service Provider (MSP) partners can now manage multiple accounts in the Partner Management Console (PMC) more efficiently. Using our new dedicated MSP Partner user role, you can now sign in to customer accounts directly through the PMC using your MSP account credentials. With the quick access, you can troubleshoot customer issues, approve TOS on behalf of your customers, and audit user activity across customers.
+6.1.0 - What's New in the PMC
+Improvements to SSO in PMC
+Single Sign-On (SSO) is now available for partner accounts in the new Partner Management Console (PMC). When enabling a configuration, the partner has the option to enable SSO just for their account or also for all subaccounts. The partner also has the option to make SSO mandatory, requiring users to log in with SSO by disabling the option to use PMC credentials.
+5.3.0 - What's New in the PMC
+Introducing the Partner Management Console (PMC)
+We now have a new user interface available for our partners. On top of the existing functionalities you love, you will be able to:
+- See all your customers in a single pane of glass
+- Instantly identify needed troubleshooting
+- Quickly understand your customers’ backup status
+At the same time we have also added multi-factor authentication support to the PMC. MFA can be enabled for the partner account and all its subusers - but not for partner or customer subaccounts.

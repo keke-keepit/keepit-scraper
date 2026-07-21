@@ -1,0 +1,35 @@
+Source URL: https://www.keepit.com/partners/partners-stories/fellowmind/
+Content type: Web page
+Last modified: 2024-03-27T23:46:13+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Fellowmind recommends Keepit as an agile and flexible partner
+Important to Close the Holes in Office 365
+After many years as an IT Consultant, Jesper Johansen knows that whenever he is assisting customers in moving IT infrastructure, there are always some holes that occur. It is his job to cover these gaps with the right supplementary products, such as to ensure backup for Office 365.
+Mr. Johansen explains the importance of securing your Office 365 data with backup of emails and documents in case of a data loss scenario. He states that, “Today, everybody knows it’s a must to do backup. I think everyone is aware that backup is just as necessary as having a toilet in the office.”
+'Backup might not be sexy, but it’s necessary!'
+Fellowmind is working with some of the largest companies in Denmark. These customers lean on Fellowmind as a trusted advisor, giving the individual customer exactly the right recommendation. The consultancy process varies depending on the individual customer, but common to all of them is that NO customers tolerate losing important emails. Being able to recreate emails or other important data and documents is absolutely mandatory, and Mr. Johansen concludes, “Backup isn’t sexy. But backup is necessary!”
+Fellowmind chose Keepit as the Best Backup Solution
+Each time Fellowmind enters into a commitment to help a customer in a cloud transition, it becomes relevant to discuss backup with the customer. It goes without saying that whenever backup is needed of emails and documents moving to the cloud via Office 365, then the backup solution and setup is also most often transferred from an on-premise solution to the cloud. And this is exactly where Fellowmind has entered into a strong partnership with Keepit’s cloud backup services:
+We have chosen Keepit to help cover this important area of data security because we believe that Keepit is the best backup product on the Danish market.
+Jesper Johansen
+Director of Cloud,
+Infrastructure & Security at Fellowmind
+Prior to the partnership, Fellowmind had scanned the market and investigated a large number of backup vendors as part of the selection process before choosing Keepit. Mr. Johansen elaborates:
+“It is important to have the right references. This was one of the reasons for why we chose Keepit. Keepit has a number of strong and solid references who recommended Keepit during our selection process.”
+Mr. Johansen adds that for many of Fellowmind's big public customers, it is also important that Keepit's solution can store the data in Denmark.
+Customers Demand Plug-and-Play Backup
+“We see backup solutions that are very large and complex, where it takes a long time to get to the finishing line. But our customers are demanding something that is simple and fast, that does the backup work like that! Therefore, we were looking for a Plug-and-Play solution, and Keepit jumped high on our radar,” says Mr. Johansen.
+He explains that Keepit is quick and easy to set up, with a very clear user interface. A crucial factor, as nobody has the time to do a long and complicated implementation.
+Mr. Johansen emphasizes the importance of the backup solution offering a simple and easy search function, as well as fast data recovery. In his own words, Keepit is a quick and sleek backup solution that can do whatever it takes with regards to data backup, search, and recovery.
+Dynamic Collaborator
+The world is constantly changing, demanding flexibility and tight deadlines. Fellowmind recommends Keepit as an agile and flexible partner who can deliver within a very short deadline. Mr. Johansen tells a story from a situation where Fellowmind had to give a bid for a public framework agreement within hours:
+Keepit immediately set up a task force and a swat team. They just did what it took in a very short time! Providing customers with the best solutions is an important part of Fellowmind's DNA at all times. And that's why I see a close collaboration and important constellation with Keepit, helping us in offering the best solution to our customers.
+Jesper Johansen
+Director of Cloud,
+Infrastructure & Security at Fellowmind
+The way it works is that Fellowmind is driving the implementation through Keepit's partner portal. The more complex customers, who require more extensive solutions, are run in close cooperation between Fellowmind and Keepit.
+GDPR Requires Proper Backup
+GDPR's set of rules must be respected: in addition to the legal requirements, there are also penalties if companies are not compliant with data storage and access. Mr. Johansen believes there is a huge market for backup & recovery going forward for an innovative company like Keepit, who are constantly developing their services.

@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/customers/ku-leuven/
+Content type: Web page
+Last modified: 2026-01-08T11:21:04+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+KU Leuven ensures data sovereignty and resilience with Keepit
+When one of Europe’s oldest and most respected universities set out to modernize its IT infrastructure, data protection was at the top of the agenda. KU Leuven, home to more than 65,000 students and 12,000 staff, needed to ensure its move to Microsoft 365 would not compromise the university’s strict data-sovereignty and GDPR requirements.â¯
+KU Leuven recognized early that Microsoft’s native backup tools were not sufficient for an institution of KU Leuven’s scale and compliance demands and therefore launched a public tender for a Microsoft 365 backup solution. The European IT solutions provider Cegeka reacted to that tender, provided Keepit as the right backup and recovery solution, and guided the university through its implementation.â¯
+A solution built for compliance and controlâ¯
+KU Leuvenâ¯operatesâ¯under some of the strictest Europeanâ¯data protectionâ¯standards. Handling sensitive academic, administrative, and research information means the university mustâ¯maintainâ¯full control over where its dataâ¯residesâ¯and how it is recovered.â¯Keepit’sâ¯GDPR-compliant data storage in dedicated European data centers met this requirement while ensuring complete independence from Microsoft’s cloud infrastructure.â¯
+Vendor independence was a decisive factor. By keeping backups separate from Microsoft’s ecosystem, KU Leuven gained anâ¯additionalâ¯safeguard against dependency and improved control over data retention and recovery.â¯
+Aâ¯great advantage of Keepit is that the backup takes place outside the Microsoft cloud, in European data centers.â¯For our compliance requirements, that wasâ¯absolutely essential.
+Jan Deâ¯Baereâ¯ 
+IT manager,â¯KU Leuven ICTS Management Teamâ¯
+Simplified recovery and reduced IT overheadâ¯
+When migrating from on-premises systems like Exchange, Skype for Business, and SharePoint to Microsoft 365, KU Leuven wanted toâ¯retainâ¯the same level of backup and restore reliability it had previously managed internally. The IT team alsoâ¯soughtâ¯to simplify recovery processes and reduce administrative overhead.â¯
+Keepit delivered on both fronts. Its ease of deployment meant KU Leuven was fully operational within just 1.5 hours. The platform’s intuitive interface allowed the universityâ¯to delegate restore tasks to its service desk — a significant efficiency gain over older, more complex snapshot systems.â¯
+Restores that onceâ¯requiredâ¯specialist intervention can now be performed quickly and accurately, ensuring continuous protection for critical teaching, research, and administrative data.â¯
+With Keepit, we’ve gained full confidence that our academic and administrative data is protected — and that anyone on our service desk can perform a restore quickly and easily.
+Jan Deâ¯Baereâ¯ 
+IT manager,â¯KU Leuven ICTS Management Teamâ¯
+Proven reliability andâ¯a future-proof solutionâ¯
+Today, Keepit safeguards more than 1 petabyte of KU Leuven’s OneDrive data in its European data centers, with coverage extending across the university’s vast Microsoft 365 environment. The platform’s fast, automated backups and user-friendly restore capabilities give the university confidence that its data is secure and easily recoverable.â¯
+Cegeka’s partnership with Keepit provided the local support and technical assurance KU Leuven needed during the implementation. According toâ¯Janâ¯Deâ¯Baere, ITâ¯manager, KU Leuven ICTS Management Team,â¯the combination of Cegeka’sâ¯expertiseâ¯andâ¯Keepit’sâ¯reliable technology created a future-proof solution that supports the university’s long-term digital transformation goals.â¯
+With Keepit, we have greater peace ofâ¯mindâ¯and we've reduced our operational burden across the university’s digital ecosystem.
+Jan Deâ¯Baereâ¯ 
+IT manager,â¯KU Leuven ICTS Management Teamâ¯

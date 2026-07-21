@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/press/keepit-and-hammer/
+Content type: Web page
+Last modified: 2026-03-11T10:30:04+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit signs strategic agreement with Hammer Distribution
+Partnership to enhance Keepit's offering in the UK and Ireland
+Copenhagen, Denmark, March 11th, 2026 – Keepit, the independent, cloud-native data protection and recovery provider, today announced it has signed a strategic agreement with Hammer Distribution, an enterprise-focused value-added distributor empowering partners with best-in-class infrastructure, cybersecurity, and data solutions. The partnership will enhance Keepit’s offering in the UK and Ireland, helping customers secure business-critical SaaS data with an independent recovery layer. Through local data centers, Keepit and Hammer will support customers in staying compliant with evolving UK regulations.
+Enhancing cloud resilience and data sovereignty
+“Across the board, we’re seeing a huge increase in demand for specialized SaaS data protection. With data sovereignty becoming a core principle for our partners and customers, Keepit’s local data centers and vendor-independent cloud are the perfect answer to the growing need for cloud resilience,” says Alex Walsh, Regional Vice President, EMEA North at Keepit.
+Keepit’s cloud backup and recovery platform currently secures fourteen SaaS applications — and the company has committed to continue adding critical applications to its portfolio. With per-seat pricing, Keepit’s solution offers budgeting predictability for both customers and partners.
+The platform is built to ensure that customers always retain access to their data, accessible regardless of the status of the original SaaS environment. In the UK, vendor independence, compliance, and fast recovery are key demands; Keepit’s immutable architecture aligns strongly with these requirements.
+“By teaming up with expert distributors such as Hammer Distribution, we’re able to offer high-quality, localized support and scale our presence rapidly across the UK channel,” adds Alex Walsh.
+Strengthening the UK partner ecosystem
+The Keepit Partner Network empowers resellers, MSPs, and distributors to offer secure, cloud-native data protection. In the UK, the focus is on expanding deep relationships with value-added resellers and managed service providers who prioritize cyber resilience.
+“Keepit is aiming to be the most partner-friendly organization in the world. We’re excited to add Hammer Distribution to our network to further support our UK partners. We’re focused on building long-lasting relationships to benefit our partners and ultimately our customers,” says Jan Ursi, Global VP of Channels at Keepit.
+“We chose to partner with Keepit as we see an increase in demand for third-party SaaS backup that complements existing cloud investments. Keepit delivers best-in-class recovery for crucial applications and is a natural, high-value addition to our cybersecurity and data portfolio,” says Dominic Ryles, Director of Cloud and Cybersecurity at Hammer Distribution.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no third-party sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 20,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data. â¯
+For more information visit www.keepit.com or follow Keepit on LinkedIn.
+About Hammer Distribution
+Hammer Distribution is an enterprise-focused value-added distributor empowering partners with best-in-class infrastructure, cybersecurity, and data solutions. Through deep technical expertise and a partner-first approach, Hammer helps the channel design, deliver, and support modern solutions that drive measurable business outcomes.

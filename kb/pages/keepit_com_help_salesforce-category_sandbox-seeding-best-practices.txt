@@ -1,0 +1,47 @@
+Source URL: https://www.keepit.com/help/salesforce-category/sandbox-seeding-best-practices/
+Content type: Web page
+Last modified: 2025-03-11T20:14:31+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Sandbox seeding best practices
+Salesforce Sandboxes are essential for creating meaningful environments for development, testing, and training. However, due to refresh limitations and the constrained storage capacity of partial or developer sandboxes, effective data seeding is crucial. Using our backup solution, you can seed sandboxes either by manually selecting records to restore or by using a CSV file.
+Follow these best practices to manage and optimize your sandbox environments.
+1. Plan Your Seeding Strategy
+Define the purpose
+- Clearly identify the purpose of the sandbox (e.g., development, testing, or training).
+Identify essential data
+- Select only the most relevant objects and records to reduce storage usage.
+Understand data relationships
+- If including related records, consider initially limiting the number of parent records selected to prevent hitting storage limits.
+ 
+2. Use Selective Data Extraction
+Leverage Salesforce reports
+- Use Salesforce reports to filter and export specific data subsets based on criteria such as record type or last modified date.
+- Focus on parent records and pull in related records during the restore process, if necessary.
+Avoid sensitive data
+- Exclude or anonymize sensitive information, such as personally identifiable information (PII).
+- Right to Be Forgotten (RTBF): Records flagged as RTBF in your backup are automatically excluded during the restore process.
+3. Seed the Sandbox
+Refresh and prepare
+- Use a newly refreshed copy of your sandbox or restore necessary metadata to resolve potential discrepancies between production and sandbox environments.
+Restore data
+- CSV file restore: Use a CSV file with a list of records. For detailed guidance, refer to Restore Salesforce records using a CSV file.
+- Manual restore: Manually select specific records. For detailed guidance, refer to Restore Salesforce records manually.
+Optimize restore settings
+- Select only essential fields and relationships to minimize data volume.
+- Anonymize data as needed for compliance and security.
+4. Post-Seed
+Perform quality checks
+- Ensure that seeded data is accurate, relationships are intact, and all records are usable.
+Refine the process
+- Address storage limit issues or unexpected failures by reviewing and adjusting your seeding approach.
+Apply permissions
+- Limit access to sandbox environments based on user roles and needs.
+5. Monitor Sandbox Health
+Analyze Performance
+- Monitor sandbox performance post-seeding to ensure optimal operation.
+Maintain Data Hygiene
+- Periodically remove outdated or unnecessary data to free up storage.
+By adhering to these best practices, you can maintain a lightweight yet fully functional sandbox environment. This ensures smooth development, testing, and training processes while managing the constraints of partial or developer sandboxes.

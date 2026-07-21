@@ -1,0 +1,38 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/restore-sharepoint-sites-with-the-restore-wizard/
+Content type: Web page
+Last modified: 2026-06-30T01:30:22+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore SharePoint sites from the connector level
+To restore all or several of your SharePoint sites at one time, use the connector-level restore.
+To restore a SharePoint site as a new site with a new URL to a different tenant, go to Restore a SharePoint site.
+To restore one item of your SharePoint site, use the Item Restore.
+Restore SharePoint sites
+1. To start the connector-level restore, click your connector's Restore icon.
+2. Select Restore > Next.
+3. Select a snapshot from the time you want to restore. Then click Next.
+4. Select SharePoint > Next.
+5. Select the sites you want to restore. Then click Next.
+6. (Optional) Select Local term sets to include it in the restore.
+7. Select Next.
+8. Select In-place.
+9. Select how to handle duplicate items:
+- Skip duplicate items: Items that already exist in SharePoint are skipped. Keepit adds all items not found in SharePoint.
+- Overwrite existing items: Items that already exist in SharePoint are overwritten with the version from the snapshot. Keepit adds all items not found in SharePoint.
+10. Select a version restore option:
+- Restore only most recent version: The most recent version of each file and item is restored as a new version.
+- Restore all versions: All existing versions of each file and item are overwritten, and restored versions receive new modified dates.
+11. Click Next.
+12. Review the summary. Then click Next.
+Will items be deleted?
+List items
+List items that are present in SharePoint but not in the snapshot will be deleted.
+Term set data
+The following data that is present in SharePoint but not in the snapshot will be deleted:
+- Term groups, term sets, terms, and subterms
+- Properties
+- Taxonomy administrators, Term Group Managers, term set Owners, and stakeholders
+Other data
+All other SharePoint data will not be deleted.

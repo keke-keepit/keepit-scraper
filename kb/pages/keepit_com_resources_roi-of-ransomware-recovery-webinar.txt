@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/resources/roi-of-ransomware-recovery-webinar/
+Content type: Web page
+Last modified: 2025-08-14T23:56:50+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The ROI of ransomware recovery
+While ransomware prevention is always the goal, what happens when, inevitably, an attack occurs anyway? You might already have a backup and disaster recovery solution in place, but often, that is not enough if you don’t have a solid, and thoroughly tested, ransomware recovery process. Join us for an insightful webinar with Brent Ellis, Forrester Senior Analyst, Elia Gollini, Forrester Associate Consultant, and Paul Robichaux, Microsoft MVP and Senior Director of Product at Keepit, as they dive into the current state of ransomware recovery processes in the market while highlighting often-missed gaps in disaster recovery planning. The landscape of disaster recovery is undergoing a significant transformation as organizations continue to rely more heavily on SaaS applications, and in this context, disaster recovery strategies are transitioning as well.
+Learn what companies can do now to improve their disaster recovery plans, as well as practical strategies to enhance your business continuity – and significantly reduce downtime during a ransomware attack while maximizing ROI. Because it’s not a question of if it will happen, the question is how to bounce back when it does.
+You will also hear how organizations have orchestrated effective ransomware recovery processes with Keepit and what return on investment they have realized for their company by employing Keepit as their data protection vendor – based on the commissioned Total Economic Impact™ study conducted by Forrester Consulting.
+Join us, and you will walk away with:
+- Actionable insights and recommendations for how you can address current gaps in disaster recovery planning
+- Insight into best practices for ensuring business continuity during a ransomware attack
+- Information about the ROI organizations have realized when deploying Keepit for ransomware recovery

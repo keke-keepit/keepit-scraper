@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/help/entra-id-category/restore-an-entra-id-app-registration/
+Content type: Web page
+Last modified: 2026-07-03T23:59:02+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore an Entra ID app registration
+Restoring an app registration will update basic information about the application and reestablish links to its owners.
+Restore an app registration
+1. In your connector, find the app registration you want to restore.
+2. Optional: If you want to restore an item from an earlier point in time, open the Snapshots Viewer. Then select the appropriate snapshot.
+3. To the right of the item, click ••• > Restore.
+4. Click Yes to restore the item.
+Note: To restore multiple items at a time, select the items. In the toolbar, click Restore.
+What happens when an app registration is restored
+Attributes and basic information restored
+Attributes, basic information about the application (Essentials in the overview), and the data in the sections Branding & properties, Authentication, and App roles are restored.
+Relationships reestablished
+The following relationships are reestablished:Owners - links to users who are owners of this app registration will be restored.
+Note: A relationship can be reestablished only if the linked object still exists in Entra ID. 
+New ID and creation time
+If the app registration has been recently deleted (the app remains in a suspended state for 30 days), it will be restored with its original ID and original creation times (but deletion time property will change to null).If the app registration has been permanently deleted, it will be restored with new ID and creation times.
+Limitations
+Due to an API limitation, we do not back up or restore data in Certificates & secrets. After an app registration is restored, create the certificates and client secrets manually.

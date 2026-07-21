@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/backing-up-encrypted-messages/
+Content type: Web page
+Last modified: 2026-06-29T23:50:47+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Backing up encrypted messages
+Keepit backs up messages that are encrypted with Office 365 Message Encryption (OME). The backup works as seamlessly as backing up simple messages.
+Let's say that you set a rule that messages from a specific account will be encrypted when you receive them. When you back up received messages from this account, the preview in Keepit will look like this:
+If you click Read the message you will be redirected to Office 365 and will have to sign into the account that sent or received the encrypted messages. Only then you will be able to see the message.
+But if you log in to an account that did not receive the encrypted message, the item will not be found.
+It is also possible to restore encrypted messages.

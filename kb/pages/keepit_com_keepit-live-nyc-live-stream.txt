@@ -1,0 +1,44 @@
+Source URL: https://www.keepit.com/keepit-live-nyc-live-stream/
+Content type: Web page
+Last modified: 2025-03-20T19:21:48+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Resilience starts with intelligent choices
+Keepit is on a mission to bring intelligent resilience to the world. This is an exclusive opportunity to tap into the Resilience Strategy Summit NYC online.
+Join our live stream for exclusive access to expert insights and real-time discussions on how to connect, empower, and protect your critical data.
+| Sign up now
+Keepit Live Stream: Resilience Strategy Summit
+March 27, 2025 | 9:30 a.m.–12:00 p.m. EST  
+Sign up now to receive your exclusive live stream link
+Tune in live to:
+Hear from renowned security and risk analyst Heidi Shey on data security best practices
+Gain exclusive insights from an expert panel tackling today’s biggest IT resilience challenges
+Walk away with actionable strategies to strengthen your security posture—all from the comfort of your office
+Speakers
+Guest speaker
+Heidi Shey
+Principal Analyst, Forrester Research
+The SaaS data security imperative: Understanding risks, mitigating threats, and ensuring resilience
+In an era where data is more dynamic, dispersed, and targeted than ever, traditional security approaches are no longer enough. What defines critical data? How do organizations ensure SaaS data remains secure, compliant, and recoverable amid rising cyberthreats, regulatory pressures, and evolving business needs?
+Hear from guest speaker Heidi Shey, Principal Analyst at Forrester Research, as she breaks down the key components of a data-centric security strategy for SaaS environments. This session will explore:
+- How to define what data you need to protect
+- How to mitigate the risk behind threats and data loss scenarios unique to SaaS
+- What to consider in the selection and management of data security capabilities and controls
+Kim Larsen
+Chief Information Security Officer, Keepit
+A CISO’s look at strengthening cyber resilience and preparing for the future
+The interconnected nature of global cyberthreats makes it impractical to deviate from existing frameworks. Organizations can better prepare for upcoming national regulations and enhance protection against cyber risks through business continuity and data resilience. That’s why ensuring your organization has tamper-proof backups and effective disaster recovery capabilities is key to surviving infrastructure and data threats. Join Kim Larsen, CISO at Keepit and seasoned cybersecurity advisor with experience in NATO, the EU, and global corporations, for insights on data governance, regulatory compliance, and business continuity strategies.
+Michael Amsinck
+Chief Product and Technology Officer, Keepit
+Building a smarter, more resilient future: Our solution for intelligent resilience
+Resilience is no longer just about withstanding challenges — it’s about adapting, evolving, and thriving. Join us as we unveil our solution for intelligent resilience — leveraging AI, data-driven insights, and cutting-edge innovations to create more adaptive, secure, and sustainable solutions for the world. This session will provide an exclusive sneak peek at the future of data security.
+Panelists
+Niels Van Ingen
+Moderator
+SVP of Business Development and Strategy, Keepit
+Elizabeth "Liz" Carrizal
+IT Data Recovery Manager, NOV
+Ben Jenkins
+Area Vice Pesident - US, Canada & LATAM, Zerto

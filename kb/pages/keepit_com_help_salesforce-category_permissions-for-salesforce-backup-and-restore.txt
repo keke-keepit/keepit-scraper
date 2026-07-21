@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/help/salesforce-category/permissions-for-salesforce-backup-and-restore/
+Content type: Web page
+Last modified: 2026-07-08T14:21:17+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Additional notes 
+- Permission dependencies may vary based on Salesforce edition, managed packages, or specific features in use. 
+- Always test permissions in a sandbox environment before connecting to production. 
+ 
+Upcoming Salesforce shifts that may affect permission needs 
+As Salesforce phases out legacy tools and rolls in newer technologies, your permission models may need to evolve. Keep the following in mind: 
+- Workflow Rules & Process Builder are deprecated → Increased reliance on Flow, which is more permission-intensive 
+- Experience Cloud, Flow Orchestration, In-App Guidance, and Prompt Builder usage is growing → Requires specific permissions like Manage Prompts, Manage Experiences, Manage Orchestration Runs 
+- AI-driven features and Einstein tools (like GPT summaries, Predictions) may expand API requirements 
+Security note: If Multi-Factor Authentication (MFA) is enforced org-wide, the Authenticated User must be excluded via profile or permission set assignment. This ensures uninterrupted OAuth token issuance. 
+Monitor Salesforce release notes and roadmap updates to ensure future compatibility.

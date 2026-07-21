@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/help/salesforce-category/salesforce-support-for-images-embedded-in-rich-text-fields/
+Content type: Web page
+Last modified: 2025-12-02T10:11:11+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Salesforce support for images embedded in rich text fields
+We support backup of images embedded within Salesforce rich text fields. This ensures that visual content inside rich text areas is properly preserved during backup and restore.
+Supported image formats
+- JPEG
+- PNG
+- PJPEG
+- GIF
+Salesforce limits embedded images to 1MB in size. These images are stored as Salesforce Attachments and are retrieved using the REST API.

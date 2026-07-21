@@ -1,0 +1,1815 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/Help%20center%20documents/Register-of-exportable-data-by-SaaS-workload.pdf
+Content type: PDF document
+Title: unknown
+Pages: 32
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit: Register of exportable data by 
+SaaS workload
+
+Contents 
+M365 ....................................................................................................................... 4 
+Data structures & formats .................................................................................. 4 
+Schema & compliance details ............................................................................ 5 
+Non downloadable items ................................................................................... 5 
+Entra ID ................................................................................................................... 7 
+Data structures & formats .................................................................................. 7 
+Schema & compliance details ............................................................................ 8 
+Non downloadable items ................................................................................... 8 
+Salesforce ............................................................................................................... 9 
+Data structures & formats .................................................................................. 9 
+Schema & compliance details ............................................................................ 9 
+Non downloadable items ................................................................................. 10 
+Google Workspace ................................................................................................. 11 
+Data structures & formats ................................................................................ 11 
+Schema & compliance details .......................................................................... 11 
+Non downloadable items ................................................................................. 12 
+MS Dynamics ......................................................................................................... 13 
+Data structures & formats ................................................................................ 13 
+Schema & compliance details .......................................................................... 13 
+Non downloadable items ................................................................................. 14 
+Azure Dev Ops ....................................................................................................... 15 
+Data structures & formats ................................................................................ 15 
+Schema & compliance details .......................................................................... 15 
+Non downloadable items ................................................................................. 16 
+Zendesk ................................................................................................................ 17 
+Data structures & formats ................................................................................ 17 
+Schema & compliance details .......................................................................... 18 
+Non downloadable items ................................................................................. 18 
+Power Platform ...................................................................................................... 19 
+Data structures & formats ................................................................................ 19 
+Schema & compliance details .......................................................................... 20
+
+Non downloadable items ................................................................................. 20 
+Jira ........................................................................................................................ 21 
+Data structures & formats ................................................................................ 21 
+Schema & compliance details .......................................................................... 22 
+Non downloadable items ................................................................................. 22 
+Confluence ........................................................................................................... 23 
+Data structures & formats ................................................................................ 23 
+Schema & compliance details .......................................................................... 24 
+Non downloadable items ................................................................................. 24 
+Okta ...................................................................................................................... 25 
+Data structures & formats ................................................................................ 25 
+Schema & compliance details .......................................................................... 25 
+Non downloadable items ................................................................................. 26 
+BambooHR ............................................................................................................ 27 
+Data structures & formats ................................................................................ 27 
+Schema & compliance details .......................................................................... 27 
+Non downloadable items ................................................................................. 28 
+Miro ...................................................................................................................... 29 
+Data structures & formats ................................................................................ 29 
+Schema & compliance details .......................................................................... 29 
+Docusign ............................................................................................................... 31 
+Data structures & formats ................................................................................ 31 
+Schema & compliance details .......................................................................... 31
+
+M365 
+Keepit backs up Microsoft 365 (M365) data using native Microsoft APIs, storing it in proprietary 
+encoded formats optimized for immutability and recovery, with exports available in standard 
+portable formats 
+Keepit supports key M365 workloads including Exchange (email, calendars, contacts, tasks, 
+archives), OneDrive (documents, form templates), SharePoint (site collections, lists, libraries, 
+permissions, pages), and Groups/Teams (conversations, channels, chats, Planner, files, wiki). 
+Exportable data preserves original structures like folder hierarchies, metadata, and 
+permissions, outputting primarily to PST for Exchange, native Office formats (DOCX, XLSX, 
+PPTX) for files, and CSV/JSON for reports and lists. These align with open standards such as RFC 
+4180 for CSV, OpenDocument (ODS) where applicable, and Microsoft's Open Specifications for 
+data portability (e.g., Office Open XML). 
+Data structures & formats 
+Workload 
+Data Structures 
+Export Formats 
+Standards/Specs 
+Exchange 
+Online 
+Emails, Calendars, Contacts, 
+Tasks, In-Place Archives, Public 
+Folders (incl. sub-folders, 
+permissions) 
+PST (emails/archives), ICS 
+(calendars), CSV 
+(contacts/tasks), native MSG 
+PST (Microsoft .pst), ICS 
+(iCalendar RFC 5545), 
+CSV (RFC 4180), EWS XML 
+OneDrive 
+Documents (incl. OneNote), Form 
+Templates, Style Library, Versions, 
+Metadata 
+Native Office formats 
+(DOCX, XLSX, PPTX), ZIP 
+archives, Enhanced 
+versioning exports 
+OOXML (ISO/IEC 29500), 
+CSV metadata, 
+SharePoint REST API JSON 
+SharePoint 
+Site Collections, Lists, Document 
+Libraries, Pages, Sub-sites, 
+Content Types, Columns, 
+Permissions, Term Store, 
+Customizations 
+Native files, WSP packages 
+(site templates), CSV 
+(lists/metadata), JSON 
+(structures) 
+CSOM/REST (OData v4, 
+JSON), CSV (RFC 4180), 
+WSP (SharePoint Solution 
+XML) 
+Groups & 
+Teams 
+Conversations, Calendar, Planner 
+tasks, Files, Channels, Chats 
+(1:1/group/meeting), Wiki Pages, 
+Channel Posts/Replies/Tabs, 
+SharePoint integration 
+JSON (chats/conversations), 
+ICS (calendars), Native files, 
+CSV (planner/metadata) 
+Microsoft Graph JSON 
+(OpenAPI/Swagger), ICS 
+(RFC 5545), CSV (RFC 
+4180)
+
+Workload 
+Data Structures 
+Export Formats 
+Standards/Specs 
+Public 
+Folders 
+Folders, Sub-folders, Emails, 
+Permissions 
+PST, Native MSG 
+PST (Microsoft .pst), EWS 
+XML 
+ 
+Schema & compliance details 
+Schema 
+Reference 
+Metadata/Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication 
+Jurisdiction 
+of Storage 
+Microsoft 
+Graph/EWS 
+Timestamps, UPN, 
+object IDs, permissions, 
+labels (RTBF) 
+Graph API, EWS, 
+OOXML, RFC 
+4180 (CSV) 
+GDPR 
+retention 
+labels, custom 
+tags 
+Graph v2.0 
+(2023), EWS 
+v2.0  
+EU (DK data 
+centers 
+primary for 
+compliance)  
+SharePoint 
+CSOM/REST 
+Site hierarchies, list 
+schemas, versioning 
+metadata 
+REST APIs, 
+XML/JSON 
+schemas 
+SharePoint 
+content types, 
+sensitivity 
+labels 
+CSOM 16.1 
+(2023-)  
+Global (EU, 
+US, others) 
+Office file 
+formats 
+File props, metadata, 
+edit history 
+ISO/IEC 29500 
+(OOXML) 
+MIME types, 
+file hashes 
+OOXML 2nd 
+Ed. (2016)  
+User-
+selected 
+regions 
+ 
+Non downloadable items 
+In Keepit for Microsoft 365 workloads, certain data items are backed up for compliance and 
+recovery purposes but cannot be directly downloaded or previewed through the platform's UI. 
+These are primarily metadata-driven or non-file elements that require restoration or raw export 
+methods. 
+Groups & Teams Items 
+• 
+Wiki pages: Fully backed up within team sites, but not downloadable via UI; data must 
+be recovered by copying from previews or downloading raw files. 
+• 
+Channel post replies: Backed up and restored with parent posts, but not visible or 
+independently downloadable in the UI. 
+Teams Chats Limitations
+
+• 
+Chat messages: Backed up comprehensively (one-on-one, group, meeting chats), but 
+currently previewable/downloadable only in limited capacity; full restore to M365 is 
+planned but not yet UI-downloadable as files.
+
+Entra ID 
+Keepit supports backups for the Entra ID workload, covering objects like users, groups, 
+administrative units, roles, service principals, and app registrations, with data primarily 
+structured as JSON objects mirroring Microsoft Graph API schemas. 
+Keepit exports Entra ID data in native JSON format, preserving object attributes, metadata (e.g., 
+ownerships, memberships, licenses), and relationships. This aligns with Microsoft Graph API 
+standards and OpenID Connect/SAML interoperability specs for identity data. 
+Data structures & formats 
+Data Structure 
+Data 
+Format 
+Relevant Standards/Open Specs 
+Users (incl. owners, members, roles, licenses, 
+photo) 
+JSON, JPEG 
+Microsoft Graph API, OpenID Connect  
+Groups (incl. owners, members, roles, licenses, 
+photo) 
+JSON 
+Microsoft Graph API, SCIM  
+Administrative Units (incl. members, scoped roles) 
+JSON 
+Microsoft Graph API  
+Roles 
+JSON 
+Microsoft Graph API  
+Service Principals (incl. appId, credentials, scopes) 
+JSON 
+Microsoft Graph API, OAuth 2.0  
+App Registrations (incl. appRoles, keyCredentials) 
+JSON 
+Microsoft Graph API, SAML metadata  
+Policies/Devices/Activity Logs 
+JSON 
+Microsoft Graph API (logs as audit 
+events)
+
+Schema & compliance details 
+Schema 
+Reference 
+Metadata/Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication 
+Date 
+Jurisdiction 
+of Storage 
+Microsoft 
+Graph Users 
+displayName, 
+ownerships, licenses 
+Graph API 
+v1.0/2.0, SCIM 
+Entra ID object 
+types  
+Latest: 2025 
+(ongoing)  
+EU (e.g., 
+Denmark)  
+Microsoft 
+Graph 
+Groups 
+members, 
+roleAssignments 
+Graph API, 
+OAuth 2.0 
+Group types 
+(security/M365) 
+Latest: 
+2025  
+EU Global 
+DCs  
+Admin Units 
+scopedRoleAssignments 
+Graph API 
+Unit scopes  
+2025 
+updates  
+EU  
+Service 
+Principals 
+appId, keyCredentials, 
+scopes 
+OAuth 2.0, 
+OpenID 
+Connect 
+Principal types 
+(app/managed)  
+2024-2025  
+EU  
+App 
+Registrations 
+appRoles, 
+samlMetadataUrl 
+SAML, Graph 
+API 
+App audiences  
+2025  
+EU  
+Roles/Activity 
+Logs 
+assignment details, 
+events 
+Graph Audit 
+Logs 
+Risk/privilege 
+schemes  
+2025-09  
+EU  
+ 
+Non downloadable items 
+Keepit backs up several Microsoft Entra ID data objects that cannot be directly downloaded through the 
+platform’s UI. These elements are preserved for disaster recovery and compliance purposes but are only 
+accessible through restore operations, not as standalone exports. 
+Users, Groups, Administrative Units, and Roles: Core directory objects are fully backed up, including 
+memberships and assignments, but cannot be downloaded individually as flat files due to their 
+dependency on tenant-specific identifiers and relationships. 
+App Registrations and Service Principals: Application identities, permissions, role assignments, and 
+consent configurations are backed up in structured form; however, they are not available for direct UI 
+download because they rely on integrated tenant configuration and security bindings.
+
+Salesforce 
+Keepit Salesforce backups support export of data from standard and custom objects, primarily 
+in structured record formats with metadata preservation. Exports are typically available as CSV 
+files or JSON for specific elements like Campaign details, aligning with Salesforce API standards 
+for interoperability. 
+Data structures & formats 
+Data Structure 
+Data Format 
+Standards/Open 
+Specifications 
+Standard Objects (e.g., Account, 
+Campaign, Case, Contact, Event, Lead, 
+Note, Opportunity, Task) 
+Records with standard/custom 
+fields 
+Salesforce API (REST/SOAP), 
+CSV export  
+Custom Objects 
+Records with all custom fields 
+Salesforce API, CSV export  
+Campaign & Campaign Members 
+JSON files (hierarchy, activities, 
+history, opportunities, members) 
+Salesforce API, JSON  
+Files & Attachments 
+Binary files with metadata 
+Salesforce Files API, native 
+formats (e.g., PDF, images)  
+Object Metadata 
+Parent-child relationships, field 
+configs, general info 
+Salesforce Metadata API, 
+JSON  
+  
+Schema & compliance details 
+Schema 
+Reference 
+Metadata/Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication 
+Date 
+Jurisdiction 
+of Storage 
+Salesforce Object 
+Schema 
+(standard/custom 
+objects) 
+Salesforce field 
+metadata, RTBF labels 
+Salesforce 
+REST/SOAP 
+APIs, OASIS 
+standards 
+Custom labels 
+(e.g., RTBF for 
+GDPR) 
+Latest API 
+v58.0 (2023 
+pub.)  
+EU/US data 
+centers 
+(GDPR 
+compliant)
+
+Schema 
+Reference 
+Metadata/Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication 
+Date 
+Jurisdiction 
+of Storage 
+Campaign JSON 
+Schema 
+Hierarchy, 
+activity/history vocab 
+Salesforce Bulk 
+API, JSON 
+Schema 
+Campaign-
+specific tags 
+Product 
+sheet 2022  
+Global 
+immutable 
+storage  
+Files/Attachments 
+Schema 
+Attachment metadata 
+Salesforce 
+Content API 
+File type 
+classifications 
+API v58.0 
+(2023)  
+Multi-region 
+(EU primary 
+for DK 
+users)  
+Metadata Schema 
+Relationship/field vocab 
+Metadata API 
+58.0 
+Compliance 
+labels 
+ESG 
+validation 
+Oct 2021  
+Jurisdiction-
+specific 
+(e.g., EU for 
+GDPR)  
+ 
+Non downloadable items 
+Keepit backs up several Salesforce data items that cannot be downloaded directly via the 
+platform UI. These primarily include certain structural elements and metadata that are captured 
+for comprehensive coverage but are designed for restore operations rather than individual file 
+exports. 
+• 
+Campaign metadata: Campaign details, hierarchy, open activities, active history, 
+opportunities, and members are stored in JSON files within the Campaign folder. These 
+cannot be downloaded as standalone items from the UI. 
+• 
+Attachments (Salesforce Classic): Files in the Attachments folder are backed up 
+separately from objects but cannot be restored or downloaded individually; they must 
+be restored alongside their associated records. 
+• 
+Object metadata and relationships: While records from standard/custom objects (e.g., 
+Account, Contact) support direct download, underlying metadata like field definitions, 
+relationships, and API-limited standard objects are backed up but not accessible for UI 
+download.
+
+Google Workspace 
+Keepit backs up Google Workspace data across services like Gmail, Drive, Docs, Sheets, Slides, 
+Calendar, with exports primarily in native Google formats, JSON, MBOX, and ZIP archives for 
+portability. 
+Data structures & formats 
+Data Structure 
+Data Format 
+Standards/Specs 
+Gmail (messages, labels) 
+MBOX, JSON 
+MBOX (RFC 4155), JSON (RFC 8259) 
+Drive (files, folders, Shared 
+Drives) 
+ZIP (native Google formats: Docs, 
+Sheets, Slides) 
+ZIP (RFC 1951), Google Drive API v3 
+Calendar (events) 
+ICS, JSON 
+iCalendar (RFC 5545), JSON 
+Docs/Sheets/Slides 
+Native Google or PDF/Office 
+export 
+Google Docs API, Office Open XML (OOXML, 
+ISO/IEC 29500) 
+ 
+Schema & compliance details 
+Schema 
+Reference 
+Metadata / 
+Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication Date 
+Jurisdiction of 
+Storage 
+Google 
+Workspace 
+Admin 
+SDK/Data 
+Export 
+Timestamps, 
+user IDs, labels 
+(e.g., RTBF), 
+sizes 
+Google APIs 
+(v3+), OAuth 2.0 
+(RFC 6749) 
+Google Drive 
+labels, Vault 
+retention 
+API v3 (2025-04 
+update) 
+EU (GDPR-
+compliant) 
+Gmail API 
+RFC 2822 
+headers, IMAP-
+like labels 
+IMAP (RFC 
+3501), MBOX 
+Email 
+retention 
+policies 
+Latest: 2026-02 
+Global (EU primary) 
+Drive API 
+File metadata 
+(permissions, 
+versions) 
+JSON-LD, 
+ActivityPub-like 
+feeds 
+Shared drive 
+classifications 
+v3 (ongoing, 2025-
+04) 
+EU/US options
+
+Schema 
+Reference 
+Metadata / 
+Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication Date 
+Jurisdiction of 
+Storage 
+Calendar 
+API 
+Event schemas 
+CalDAV (RFC 
+4791), 
+iCalendar 
+Event 
+categories 
+v3 (2026) 
+EU 
+Tasks API 
+Task title, 
+notes, due 
+dates, status, 
+parent-child 
+relationships 
+REST (JSON), 
+OAuth 2.0 (RFC 
+6749) 
+Task lists 
+(user-scoped), 
+completion 
+state 
+V1 (stable, ongoing 
+updates) 
+EU/US options 
+(aligned with 
+Workspace data 
+residency settings) 
+ 
+Non downloadable items 
+Keepit backs up several Google Workspace data items that cannot be directly downloaded 
+through the platform's UI, requiring alternative methods like API access or support-assisted 
+export for retrieval. These are typically metadata-heavy or system-integrated elements 
+preserved for compliance and recovery but not exposed in the standard web interface. 
+• 
+Google Shared Drives metadata and full hierarchy: Structural details across the tenant 
+are backed up comprehensively, but full navigation or bulk download of shared 
+configurations aren’t available via UI; only individual files within drives can be 
+downloaded. 
+• 
+Google Forms responses and attachments: Forms data is captured, but interactive 
+elements and linked responses aren't downloadable directly; they require granular 
+restore or export via API. 
+• 
+Calendar recurring events metadata: Full event series details and tasks are backed up, 
+but complex recurring patterns or attachments may not support direct UI download 
+without point-in-time restore.
+
+MS Dynamics 
+Keepit backs up Microsoft Dynamics 365 (Power Platform workload) data primarily in JSON 
+format, covering entities, records, metadata, and related structures across applications like 
+Sales, Customer Service, and Field Service. 
+Keepit's Dynamics backups organize data hierarchically under connectors, with JSON as the 
+core exportable format for portability. No explicit mentions of additional open standards like 
+Common Data Model (CDM) exports appear in coverage details, though Dynamics natively 
+aligns with CDM schemas. 
+Data structures & formats 
+Data Structure 
+Data 
+Format 
+Standards/Open Specifications 
+Environments 
+JSON 
+JSON (RFC 8259); no proprietary 
+lock-in  
+Dynamics 365 Data > Entities > Records 
+JSON 
+JSON; entity schemas from 
+Dynamics metadata  
+Dynamics 365 Metadata > Entities > Entity meta, attribute 
+meta, relationships (1:N, N:1, N:N) 
+JSON 
+JSON; aligns with OData for 
+interoperability  
+Power Pages > Sites 
+JSON 
+JSON  
+Power Automate > Flows (Desktop Flows) 
+JSON 
+JSON  
+ 
+Schema & compliance details 
+Schema 
+Reference 
+Metadata/Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication 
+Date 
+Jurisdiction 
+of Storage 
+Dynamics 
+Entities & 
+Metadata 
+Entity/attribute/relationship 
+meta 
+OData v4; JSON 
+(RFC 8259)  
+Custom tables; 
+standard 
+Dynamics 
+entities 
+Latest as of 
+2025-02-24  
+EU/US data 
+centers 
+(GDPR-
+compliant)
+
+Schema 
+Reference 
+Metadata/Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication 
+Date 
+Jurisdiction 
+of Storage 
+Power 
+Platform 
+Records 
+Record-level JSON 
+schemas 
+Common Data 
+Model (CDM) 
+traits  
+N/A 
+Ongoing 
+(GitHub 
+open-
+source)  
+Global, user-
+selected 
+regions 
+Flows & 
+Power 
+Pages 
+Flow/site metadata 
+JSON; Power 
+Platform APIs 
+N/A 
+2025-02-24 
+coverage 
+update  
+Immutable 
+storage, 
+multi-
+jurisdiction 
+ 
+Non downloadable items 
+Keepit backs up over 500 data objects in Microsoft Dynamics 365, covering the common data 
+model across apps, but certain items are captured for recovery purposes without direct 
+download support via the platform UI: 
+• 
+Relationships and metadata dependencies: While all objects retain their relationships 
+as backed up, complex relational links (e.g., choice fields or cross-object references) 
+are preserved for in-place restore but cannot be downloaded as standalone structured 
+files. 
+• 
+System files: Skipped or system-level files in Dynamics backups (noted similarly for 
+Salesforce) are backed up where relevant but excluded from download options, as they 
+lack user data value and are not needed for restore.
+
+Azure Dev Ops 
+Keepit provides backup for Azure DevOps workloads covering projects, repositories, boards, 
+pipelines, work items, and related metadata, but specific export formats emphasize structured 
+recovery rather than open standards. Exportable data typically appears in native Azure DevOps-
+compatible formats or JSON/CSV for reporting, with limited public details on interoperability 
+specs. 
+Data structures & formats 
+Data Structure 
+Data Format 
+Standards/Specs 
+Projects & Organizations 
+JSON 
+Azure DevOps API 
+Teams, Iterations, Areas 
+JSON 
+Azure DevOps API 
+Repositories (Git) 
+Git repositories  
+AzureDevops API 
+Work Items (Boards, Backlogs) 
+JSON  
+AzureDevops API 
+Pipelines & Releases 
+YAML/JSON  
+AzureDevops API 
+Wikis & Dashboards 
+Markdown/HTML + JSON  
+Azure DevOps API 
+Agent Pools/Queues 
+JSON  
+Azure DevOps API  
+ 
+Schema & compliance details 
+ 
+Schema 
+Reference 
+Metadata/ 
+Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication 
+Date 
+Jurisdiction 
+of Storage 
+Azure 
+DevOps 
+REST API 
+v6.0-v7.1 
+work item 
+schema, 
+pipeline 
+configuration 
+model, 
+organizational 
+JSON 
+Work item types 
+and 
+attachments, 
+area/iteration 
+hierarchies 
+Latest: 7.1 
+(2024)   
+Keepit data 
+centers
+
+configuration 
+objects 
+Git Repo 
+Schema 
+Git objects:  
+pack-files, refs 
+Git protocol (v1) 
+Git specific 
+Git 2.40+ 
+(ongoing) 
+Keepit data 
+centers 
+Azure 
+Pipelines 
+YAML 
+Definition 
+Pipelines 
+definition 
+objects 
+YAML 1.2 
+Stage, 
+deployment and 
+job strategies 
+No specific 
+version 
+Keepit data 
+centers 
+ 
+Non downloadable items 
+Keepit backs up various Azure DevOps data items but restricts UI downloads for specific ones 
+due to API limitations, security, or technical constraints. Keepit protects but does not support 
+direct download via the platform UI for these Azure DevOps workload items: 
+• 
+Secure Files (in Pipelines): Cannot be backed up or downloaded due to API restrictions. 
+• 
+Secure Variables (in Pipelines): Excluded from backups and thus not downloadable. 
+• 
+Permissions: Not supported in backups across services like Pipelines and Repos. 
+• 
+Approvals and Checks (in Pipelines): Backed up metadata but no UI download option. 
+• 
+Task Groups (in Pipelines): Unsupported for backup and restoration via UI. 
+• 
+Environmental Resources (in Pipelines): Not downloadable despite coverage. 
+• 
+Logs (pipeline runs and release history): Captured but inaccessible for direct UI 
+download.
+
+Zendesk 
+Keepit backs up Zendesk data across key structures like Tickets (with comments, attachments, 
+custom/standard fields, and forms), Organizations (members, subscribers, fields), Users 
+(team/end-user fields), Groups (members), Triggers, Macros (shared), Views (shared), and 
+Automations. 
+Keepit's Zendesk backups store data in native Zendesk-compatible formats, enabling direct 
+restoration. Exportable data aligns with Zendesk's API structures, primarily JSON for 
+hierarchical objects and CSV for flat exports where applicable. 
+Data structures & formats 
+Data Structure 
+Data Formats 
+Standards/Specs 
+Tickets (incl. comments, attachments, 
+fields, forms) 
+JSON, Binary 
+(attachments) 
+Zendesk REST API v2 (JSON), NDJSON for 
+incremental 
+Organizations (members, subscribers, 
+fields) 
+JSON 
+Zendesk REST API v2 (JSON) 
+Users (team/end-users, fields) 
+JSON 
+Zendesk REST API v2 (JSON) 
+Groups (members) 
+JSON 
+Zendesk REST API v2 (JSON) 
+Triggers 
+JSON 
+Zendesk REST API v2 (JSON) 
+Macros (incl. shared) 
+JSON 
+Zendesk REST API v2 (JSON) 
+Views (incl. shared) 
+JSON 
+Zendesk REST API v2 (JSON) 
+Automations 
+JSON 
+Zendesk REST API v2 (JSON)
+
+Schema & compliance details 
+Schema Reference 
+Metadata / 
+Vocabularies 
+Interoperabili
+ty Standards 
+Classificat
+ion 
+Schemes 
+Version & 
+Publication 
+Date 
+Jurisdiction 
+of Storage 
+Zendesk Tickets API 
+JSON-LD attributes 
+(e.g., ticket_id, 
+created_at) 
+Zendesk REST 
+API v2, 
+JSON:API 
+Custom 
+fields, tags 
+v2 (ongoing, 
+latest 2025)  
+EU/US data 
+centers 
+(GDPR-
+compliant) 
+Zendesk Organizations 
+API 
+JSON fields (org_id, 
+members) 
+Zendesk REST 
+API v2 
+Organizatio
+n roles 
+v2 (ongoing, 
+latest 2025) 
+EU/US (multi-
+region)  
+Zendesk Users API 
+JSON profiles 
+(user_id, fields) 
+Zendesk REST 
+API v2 
+User types 
+(agent/end-
+user) 
+v2 (ongoing, 
+latest 2025) 
+Global 
+(immutable) 
+Zendesk Groups API 
+JSON (group_id, 
+members) 
+Zendesk REST 
+API v2 
+Group 
+membershi
+ps 
+v2 (ongoing, 
+latest 2025) 
+EU/US  
+Triggers/Macros/Views 
+/Automations 
+JSON configs 
+Zendesk REST 
+API v2 
+N/A 
+(config-
+based) 
+v2 (ongoing, 
+latest 2025)  
+GDPR 
+jurisdictions  
+ 
+Non downloadable items 
+Keepit backs up a comprehensive set of Zendesk data types, but certain configuration and 
+metadata items are backed up yet cannot be directly downloaded via the platform UI. These 
+items are primarily intended for restoration to Zendesk rather than standalone export or 
+download. 
+• 
+Triggers: Backed up for recovery of automation rules, but no direct download option; 
+restores in-place only. 
+• 
+Automations: Includes workflows and macros; protected for instant recovery but not 
+available as downloadable files. 
+• 
+SLAs (Service Level Agreements): Captured in backups, with granular restore support, 
+but UI download limited to preview/restore workflows. 
+• 
+Views and Organizations: Configuration data backed up, but not exposed for direct 
+ZIP/PST-style downloads; requires restore process.[prior context] 
+• 
+Macros and Business Rules: Stored immutably, yet UI focuses on search/restore, not 
+item-level export.
+
+Power Platform 
+Keepit backs up Microsoft Power Platform workloads, including Dynamics 365 data structured 
+around environments, entities, records, metadata, Power Pages, and Power Automate desktop 
+flows. Exportable data primarily follows Microsoft's Dataverse schema in XML or ZIP formats via 
+tools like Configuration Migration Tool, with no explicit Keepit-specific formats mentioned 
+beyond native structures. 
+Data structures & formats 
+Data Structure 
+Data Format 
+Standards/Open Specifications 
+Environments 
+Native Dataverse 
+structure 
+Dataverse Web API (OData v4)  
+Dynamics 365 Data/Entities/Records 
+XML schema (via 
+CMT) 
+Microsoft Configuration Migration 
+Tool schema  
+Dynamics 365 Metadata (Entity meta, attributes, 
+relationships 1:N/N:1/N:N) 
+JSON/XML 
+metadata files 
+Common Data Model (CDM)  
+Power Pages (Sites/Enhanced pages) 
+Native structure 
+Power Pages API (REST)  
+Power Automate Desktop Flows 
+Flow definitions 
+Power Automate export format  
+Power BI Report 
+Power BI report 
+format 
+Power BI API (REST) 
+Power BI dataflow 
+JSON metadata 
+files 
+Power BI API (REST)
+
+Schema & compliance details 
+Schema 
+Reference 
+Metadata/Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication 
+Date 
+Jurisdiction 
+of Storage 
+Dataverse 
+Entity 
+Schema  
+CDM vocabularies 
+OData v4, 
+OpenAPI  
+Dataverse 
+labels 
+Latest: 
+2025-09-18  
+EU/US data 
+centers 
+(Keepit 
+global)  
+Dynamics 365 
+Metadata  
+Entity/Attribute meta 
+Web API 
+(JSON/XML) 
+Custom fields 
+2025-02-24  
+Customer-
+selected 
+region 
+Configuration 
+Migration Tool 
+Schema  
+Relationship metadata 
+ZIP/XML export 
+Dependency 
+tracking 
+Tool version 
+ongoing 
+(2019 base)  
+Immutable 
+Keepit 
+storage 
+Power 
+Pages/Flows 
+Schema  
+Flow definitions 
+REST APIs 
+N/A 
+2025-02-24  
+Global 
+compliance 
+zones 
+ 
+Non downloadable items 
+Keepit backs up specific data items in the Power Platform workload (primarily Power BI) that 
+cannot be downloaded directly via the platform UI due to technical limitations. 
+• 
+Datasets: Not backed up separately; only embedded copies within reports are captured 
+(duplicates may occur across workspaces). These cannot be downloaded 
+independently. 
+• 
+Capacities: Assignment to workspaces is backed up, but capacity configurations 
+themselves are not included or downloadable. 
+• 
+Sensitivity label configurations: Application locations are tracked, but the label setups 
+are not backed up or retrievable via UI.
+
+Jira 
+Keepit supports backup and recovery for Jira Cloud workloads, capturing structured data like 
+issues, workflows, and pages in native formats for granular export and restore. Exportable data 
+primarily uses JSON for metadata and structures, with attachments in original binary formats, 
+aligned to Atlassian REST API standards. 
+Keepit's Jira workload backs up native Jira structures, with exports following Jira REST API 
+conventions for interoperability. Data is preserved in JSON for hierarchical elements and 
+flattened CSV/JSON for reports. 
+Data structures & formats 
+Data Structure 
+Details 
+Data Formats 
+Standards/Specs 
+Issues 
+Core records with fields, types, 
+links 
+JSON 
+Jira REST API v3, JSON Schema  
+Attachments 
+Files linked to issues/pages 
+Original (PDF, images, 
+etc.) 
+MIME types, binary streams  
+Comments 
+Inline/threaded remarks 
+ADF/JSON 
+Atlassian Document Format 
+(ADF)  
+Workflows 
+Schemes and configurations 
+JSON 
+Jira Workflow Descriptor  
+Custom Fields 
+User-defined fields/types 
+JSON 
+Jira Field Schema  
+Pages/Blog 
+Posts 
+Content with restrictions 
+ADF/HTML, JSON 
+metadata 
+ADF v1, Confluence Storage 
+Format  
+Users/Groups 
+Membership and properties 
+JSON 
+Jira User Schema
+
+Schema & compliance details 
+Schema Reference 
+Metadata / 
+Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication 
+Jurisdiction 
+of Storage 
+jira_issue 
+issue_id, 
+summary, 
+description, 
+custom_fields 
+Jira REST API, 
+ODBC/JDBC 
+mapping 
+Issue types, 
+priorities, 
+resolutions  
+API v3 
+(2023-12), 
+Keepit 2025  
+EU/US data 
+centers 
+(GDPR 
+compliant)  
+jira_issue_field 
+field_id, key, 
+value options 
+JSON Schema, 
+Analytics Data 
+Lake 
+Custom field 
+contexts 
+Schema 1.0 
+(2023-12)  
+Global 
+immutable 
+storage 
+jira_issue_attachment 
+attachment_id, 
+filename, size 
+MIME, binary 
+export 
+File types 
+Latest 
+(2025)  
+Customer-
+selected 
+region 
+jira_workflow 
+workflow_id, 
+schemes 
+Workflow JSON 
+Descriptor 
+Statuses, 
+transitions 
+Jira 9+ 
+(2025)  
+EU (primary 
+for 
+compliance) 
+confluence_page 
+page_id, 
+restrictions, 
+content 
+ADF v1 
+Space 
+permissions 
+ADF 1.0 
+(ongoing)  
+GDPR/SOC2 
+jurisdictions 
+ 
+Non downloadable items 
+Keepit backs up comprehensive Jira Cloud data including projects, issues, boards, comments, 
+workflows, and attachments, but certain items are captured for complete recovery yet cannot 
+be directly downloaded via the platform UI. These are typically metadata-driven or structural 
+elements requiring granular restore workflows instead. 
+• 
+System configurations and audit logs: Backed up for compliance and point-in-time 
+recovery but not exposed for UI download; accessible only through full restore jobs. 
+• 
+Workflow schemes and permission schemes: Stored in snapshots for restoration to Jira 
+but lack direct ZIP/PST-style download options in the UI. 
+• 
+Skipped items during backup: Items like throttled or API-inaccessible elements (e.g., 
+certain filters or dashboards) are logged and viewable via Job Monitor CSVs, but not 
+downloadable as they aren't fully ingested. 
+• 
+Historical change histories: Issue update histories are backed up but previewed only; 
+full export requires item restore, not UI download.
+
+Confluence 
+Keepit supports backups for the Confluence workload by capturing structured content like 
+pages, spaces, blog posts, attachments, comments, and restrictions from Atlassian 
+Confluence Cloud. 
+Keepit exports Confluence data in formats compatible with native Atlassian exports, primarily 
+XML (for full site backups) and JSON (for structured elements like page hierarchies, metadata, 
+and content payloads). Attachments are stored as binary files (original formats: PDF, images, 
+docs). Inline and footer comments, page restrictions, and properties use JSON payloads. 
+Data structures & formats 
+Data Structure 
+Details 
+Data Formats 
+Standards/Specs 
+Pages 
+Content, child pages, 
+restrictions 
+JSON (content), XML 
+(hierarchy) 
+Atlassian Backup XML, REST 
+API JSON 
+Blog Posts 
+Content, restrictions, 
+version history 
+JSON (body), XML 
+(structure) 
+Atlassian Backup XML, JSON 
+Schema 
+Spaces 
+Permissions, properties 
+JSON, XML 
+Confluence Space Export XML 
+Attachments 
+Files linked to pages/blogs 
+Binary (native), ZIP 
+bundles 
+MIME types, ZIP (Atlassian std) 
+Comments/Replies 
+Inline/footer comments 
+JSON 
+REST API v2 JSON
+
+Schema & compliance details 
+Schema 
+Reference 
+Metadata/Vocabularies 
+Interop 
+Standards 
+Classification 
+Schemes 
+Version & 
+Pub Date 
+Jurisdiction 
+Atlassian 
+Content 
+Schema 
+Page/space properties, 
+user/group refs 
+REST API v2, 
+Backup XML 
+Space/page 
+labels, 
+permissions 
+v1.0 (2025-
+07)  
+EU (GDPR) 
+Page 
+Hierarchy 
+JSON 
+Content tree, restrictions 
+JSON 
+Schema 
+(Atlassian) 
+Content types 
+(page/blog) 
+Cloud API 
+(ongoing) 
+Global DCs 
+Attachment 
+Metadata 
+File props, links 
+MIME, ZIP 
+File extensions 
+Latest 
+(2026) 
+EU/US 
+(selectable) 
+ 
+Non downloadable items 
+Keepit backs up a wide range of Confluence Cloud data, but certain items are captured for 
+completeness and recovery while lacking direct download options through the platform UI. 
+These are typically metadata or configuration elements viewable in snapshots but not 
+exportable as standalone files. 
+• 
+Page and blog post metadata: Includes watchers, labels, properties, restrictions, and 
+version histories; browsable but not downloadable individually. 
+• 
+Space configurations: Space settings, permissions, themes, and schemes; backed up 
+for restore but no UI download. 
+• 
+Global configurations: Users (limited), groups, group memberships, and site-wide 
+properties; stored immutably but UI-limited to browsing. 
+• 
+Workflow schemes: Confluence workflow definitions and schemes; captured for 
+integrity but not UI-exportable
+
+Okta 
+Keepit supports backups for the Okta workload, focusing on identity and access management 
+data like users, groups, policies, and configurations. Exportable data primarily uses JSON 
+structures aligned with Okta's API schemas, with CSV options for reporting where applicable. 
+Data structures & formats 
+Data Structure 
+Data Format 
+Standards/Specs 
+Users 
+JSON (attributes: ID, email, username, status) 
+Okta API v1 (JSON:API-like), SCIM 2.0 
+Groups 
+JSON (ID, name, members array) 
+Okta Groups API, SCIM 2.0 
+Policies & Rules 
+JSON (policy ID, conditions, actions) 
+Okta Policies API, OAuth 2.0 
+Applications 
+JSON (app ID, name, settings), XML (SSO SAML config) 
+SAML 2.0, OIDC 1.0, SCIM 
+Configurations 
+JSON metadata (e.g., factors, threats) 
+Okta System Log API (JSON events) 
+Reports/Exports 
+CSV (flattened tables) 
+RFC 4180 (CSV) 
+ 
+Schema & compliance details 
+Schema 
+Reference 
+Metadata / 
+Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication 
+Date 
+Jurisdiction of 
+Storage 
+Okta Users 
+Schema 
+Okta Core 
+Attributes (e.g., 
+profile, 
+credentials) 
+SCIM 2.0, 
+OAuth 2.0 
+User Status 
+(ACTIVE/STAGED) 
+v1.0, 
+Ongoing 
+(latest 
+~2025)  
+EU/US data centers 
+(sovereign) 
+Okta 
+Groups 
+Schema 
+Group 
+membership 
+vocab (type, 
+members) 
+SCIM 2.0 
+Group Types 
+(OKTA/APP) 
+v1.0, 
+Ongoing 
+Global immutable 
+storage
+
+Schema 
+Reference 
+Metadata / 
+Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication 
+Date 
+Jurisdiction of 
+Storage 
+Policies 
+Schema 
+Policy 
+conditions/actions 
+RDF-like 
+OAuth 2.0, 
+SAML 2.0 
+Policy 
+Priority/Order 
+Latest API 
+(2025 pub)  
+GDPR-compliant 
+regions 
+Apps & 
+Factors 
+App instance 
+metadata (SSO 
+config) 
+OIDC, SAML 
+metadata 
+Factor Types 
+(MFA/DUO) 
+v1.1, 2024-
+2026 
+User-selectable 
+jurisdictions 
+System 
+Logs/Events 
+Event timestamps, 
+actors 
+JSON Schema 
+drafts 
+Threat 
+Categories 
+Event API 
+v1, 2025  
+EU (DK primary for 
+Keepit) 
+ 
+Non downloadable items 
+Keepit backs up Okta configurations and identity data, but certain items are designed for restore 
+rather than direct UI download to ensure secure, operationally safe recovery. Based on product 
+details, the following data items are backed up but not downloadable via the Keepit platform UI: 
+• 
+Policies: Including sign-on, password, and MFA policies; backed up immutably but only 
+restorable to Okta to roll back tampering. 
+• 
+IAM Configurations: Application settings, group memberships, and administrative units; 
+previewable/searchable but not exportable as files. 
+• 
+User Access Rules: Role assignments and permission sets; supported for granular 
+restore, not ZIP/PST-style downloads
+
+BambooHR 
+Keepit supports backups for the BambooHR workload, capturing HR data such as employee 
+records, tables (e.g., employment history, skills, certifications), and attachments via 
+BambooHR's API. Exportable data from Keepit is typically available in CSV format, aligning with 
+BambooHR's native export capabilities for interoperability. 
+Keepit preserves BambooHR's core structures including employee profiles, custom fields, and 
+tabular data like time-off requests and reports. Exports maintain CSV as the primary format, 
+with JSON for complex nested data such as hierarchies or metadata. 
+Data structures & formats 
+Data Structure 
+Format 
+Standards/Specs 
+Employee Records 
+CSV, JSON 
+CSV (RFC 4180), BambooHR API 
+Employment History 
+CSV 
+CSV (RFC 4180) 
+Tables (e.g., Skills) 
+CSV, JSON 
+BambooHR API v1, JSON (RFC 8259) 
+Attachments/Files 
+Binary/CSV 
+Salesforce-like API export 
+Reports/Custom Fields 
+CSV 
+CSV (RFC 4180), HR-XML subset 
+Time-Off/Time Tracking 
+CSV 
+CSV (RFC 4180), BambooHR schema 
+ 
+Schema & compliance details 
+Schema 
+Reference 
+Metadata/Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Pub Date 
+Jurisdiction 
+Employee 
+API 
+BambooHR fields (e.g., 
+eId, supervisorEId) 
+REST API v1, 
+OAuth 2.0 
+HR-XML, 
+Custom fields 
+v1 
+(ongoing), 
+2018+ 
+Global (DK 
+primary) 
+Tables API 
+Table-specific (skills, 
+certs) 
+JSON/CSV export, 
+RFC 4180/8259 
+None specified 
+Latest API 
+(2024) 
+EU/US data 
+centers
+
+Schema 
+Reference 
+Metadata/Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Pub Date 
+Jurisdiction 
+Reports API 
+Custom report params 
+CSV (RFC 4180) 
+BambooHR 
+labels 
+Custom 
+(2024-06) 
+GDPR-
+compliant 
+Time-Off 
+API 
+Status, dates 
+BambooHR 
+schema, HR-
+JSON 
+Employment 
+status 
+v1 (2018-
+11) 
+Multi-
+jurisdictional 
+ 
+Non downloadable items 
+Keepit backs up BambooHR employee records and attachments, but certain data items are 
+backed up yet not directly downloadable via the platform's UI. 
+• 
+System Metadata and Configurations: Items like deleted Entra ID-linked groups or 
+administrative units (if integrated), which may be backed up but become inaccessible 
+and skipped in future snapshots, are not downloadable. These appear in job reports but 
+require configuration fixes for access. 
+• 
+Repeatedly Skipped Items: Any BambooHR objects or files consistently skipped due to 
+API issues, throttling, or inaccessibility (e.g., system files) are retained in snapshots but 
+not UI-downloadable. Downloadable CSV lists of skipped items are available via Job 
+Monitor for analysis, though the items themselves need alternative restore paths.
+
+Miro 
+Keepit supports backups for the Miro workload, capturing boards, teams, spaces, projects, and 
+associated metadata from the Miro collaboration platform. Exportable data primarily uses 
+structured formats tied to Miro's API, with options for recovery and reporting. 
+Keepit's Miro backups preserve hierarchical structures like teams > spaces > projects > boards, 
+including widgets, text, shapes, connections, and user metadata. Exports are available in native 
+Miro-restorable formats or standard open formats for compliance and interoperability 
+Data structures & formats 
+Data Structure 
+Data Formats 
+Standards/Open Specifications 
+Boards 
+JSON (native), PDF export 
+Miro REST API v2 (JSON-based), PDF/A (ISO 19005)  
+Teams/Spaces 
+JSON metadata 
+DCAT 2 (W3C for catalogs), JSON Schema  
+Projects 
+JSON hierarchical 
+OpenAPI (Miro API spec), GeoJSON (for shapes if 
+applicable)  
+Widgets/Content 
+Structured JSON (text, images, 
+links) 
+SVG (vector graphics), CSV/OPML (mind maps via 
+plugins)  
+Metadata (users, 
+changes) 
+JSON audit logs 
+SHACL (RDF validation), ActivityPub (fed. collab. 
+potential)  
+ 
+Schema & compliance details 
+Schema 
+Reference 
+Metadata/Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication 
+Date 
+Jurisdiction 
+of Storage 
+Miro REST API 
+Schema v2 
+Schema.org, Dublin 
+Core 
+DCAT-AP 2.0.1 
+(EU), JSON-LD 
+RTBF labels, 
+GDPR classes 
+API v2 
+(2023-10), 
+DCAT 2020  
+EU/US data 
+centers 
+(immutable)  
+Board Object 
+Schema 
+EXIF/IPTC (images), XMP 
+CSV on the Web 
+(W3C), OPML 
+2.0 
+Custom tags, 
+compliance 
+enums 
+OPML 2.0 
+(2007), 
+Global (DK-
+based HQ)
+
+Schema 
+Reference 
+Metadata/Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version & 
+Publication 
+Date 
+Jurisdiction 
+of Storage 
+CSVW 1.0 
+(2017)  
+Widget/Change 
+Logs 
+PROV-O (provenance) 
+SHACL 2017 
+(W3C), RelaxNG 
+Miro types 
+(sticky, shape) 
+SHACL 
+2017-07-20  
+EU (GDPR 
+compliant)
+
+Docusign 
+Keepit backs up DocuSign data including envelopes, documents, templates, and metadata, 
+with exports typically available in native DocuSign formats and standard portable options for 
+recovery and compliance. Specific details on data structures and standards derive from 
+Keepit's SaaS backup approach aligned with DocuSign's API capabilities. 
+Keepit's DocuSign workload supports export of key structures like envelopes (with recipients, 
+status, and custom fields), documents (PDFs), templates, and audit trails. Exports use formats 
+such as native DocuSign ZIP archives, PDF for documents, CSV/JSON for tabular metadata, and 
+DocuSign's File Output Tabular Format for compliance reporting. 
+Data structures & formats 
+Data Structure 
+Data Formats 
+Standards/Specs 
+Envelopes 
+JSON, CSV, ZIP 
+DocuSign REST API v2.1, File Output Tabular Format  
+Documents 
+PDF, native DocuSign 
+PDF 1.7/2.0, ISO 32000  
+Templates 
+JSON, ZIP 
+DocuSign eSignature Schema  
+Audit Logs 
+CSV, JSON 
+OpenAPI 3.0 (via API)  
+Custom Fields 
+CSV/Tabular 
+CSV RFC 4180  
+ 
+Schema & compliance details 
+Schema 
+Reference 
+Metadata/Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version 
+& Pub 
+Date 
+Jurisdiction 
+EnvelopeDefinition 
+envelopeStatus, 
+recipientMetadata  
+REST API v2.1, 
+OpenAPI 3.0  
+DocuSign 
+Status Codes 
+v2.1 
+(2024-
+06-01)  
+EU (GDPR)  
+DocumentItems 
+documentBase64, name  
+PDF/A-3, ISO 
+32000 
+MIME types 
+PDF 2.0 
+(2017-
+10) 
+Global DCs
+
+Schema 
+Reference 
+Metadata/Vocabularies 
+Interoperability 
+Standards 
+Classification 
+Schemes 
+Version 
+& Pub 
+Date 
+Jurisdiction 
+TemplateDefinition 
+templateRoles, 
+sharedTemplate  
+JSON Schema 
+Draft 2020-12 
+DocuSign 
+Object Types 
+2025-
+03  
+EU/US  
+AuditTrail 
+events, timestamp  
+CSV RFC 4180, 
+JSON RFC 8259 
+Event Types 
+RFCs 
+(2017) 
+EU Primar

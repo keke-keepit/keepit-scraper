@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/help/google-workspace-category/create-a-google-workspace-connector/
+Content type: Web page
+Last modified: 2026-06-22T13:26:29+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Create a Google Workspace connector
+Follow these steps to create a Google Workspace connector and set up your backup configuration.
+1. On the Connectors page, select Add connector > Add Google Workspace connector.
+2. Click Install to be taken to the Google Workspace Marketplace, where you can install the Keepit App.
+If you have already installed the Keepit App, select Skip this step. 
+3. Go back to Keepit and select Sign in. Enter the credentials to your Google Workspace admin account. Once this is complete, you will be redirected back to Keepit to the configuration window.
+4. Configure your connector.
+Here you can:
+- Change the name of the connector.
+- Select which users to back up using organizational units and groups. (By default, all users are included in the backup.)
+- Enable or disable the backup of Shared drives.
+- Manage access to the connector by selecting the lock icon.
+- Limit the retention period for this particular connector if necessary.
+5. Select Create. Your connector will be created, and the first backup will be scheduled.

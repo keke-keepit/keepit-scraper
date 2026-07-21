@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/help/salesforce-category/ensuring-backup-continuity-after-a-salesforce-sandbox-refresh/
+Content type: Web page
+Last modified: 2025-03-11T20:10:59+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Ensuring backup continuity after a Salesforce sandbox refresh
+When you perform a sandbox environment refresh in Salesforce, the Organization ID (Org ID) changes. As a result, we are no longer able to detect the sandbox, and your backups will begin to fail.
+To ensure your backups continue running smoothly, please follow these steps after an environment refresh:
+I. Obtain the new Org ID:
+1. Sign in to the Salesforce organization you want to check.
+2. In the upper-right corner, click the gear icon and select Setup.
+3. In the Quick Find search box, type "company" and select Company Information from the search results.
+4. Under the Organization Detail section, locate the Salesforce.com Organization ID entry. This is your new Org ID.
+II. Send the new Org ID to Support:
+After obtaining your new Org ID, please send it to our support team so we can update the backend and ensure your backups continue without interruption.

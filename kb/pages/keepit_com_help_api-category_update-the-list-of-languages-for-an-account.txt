@@ -1,0 +1,47 @@
+Source URL: https://www.keepit.com/help/api-category/update-the-list-of-languages-for-an-account/
+Content type: Web page
+Last modified: 2025-10-15T23:45:07+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Update the list of languages for an account
+This command is used to update the list of languages for the account.
+API request
+Method PUT
+/bl/partner/{partner_id}/messages/languages
+Elements table
+Root object element: languages
+This command is used to update the list of languages for the account.
+Method PUT
+/bl/partner/{partner_id}/messages/languages
+Root object element: languages
+Method PUT
+https://dk-co.keepit.com/bl/partner/nq2v51-5mx23m-qb7sah/messages/languages
+Body
+<languages>
+    <language>en-GB</language>
+</languages>Code: 200 OK
+Response body:
+Updated
+try {
+    $username = '<Token username>'
+    $password = '<Token password>'
+    $partnerGuid = '<partner account ID>'
+    $language = 'en-GB'  # Example language, replace as needed
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}"))
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+        "Content-Type"  = "application/xml"
+    }
+    $url = "https://dk-co.keepit.com/bl/partner/$partnerGuid/messages/languages"
+    $xmlBody = "<languages><language>$language</language></languages>"
+    $response = Invoke-WebRequest -Uri $url -Method PUT -Headers $headers -Body $xmlBody -ErrorAction Stop -TimeoutSec 10
+    Write-Host "Response: $($response.Content)"
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}

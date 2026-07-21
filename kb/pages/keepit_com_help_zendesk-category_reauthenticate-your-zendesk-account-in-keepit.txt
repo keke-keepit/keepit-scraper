@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/help/zendesk-category/reauthenticate-your-zendesk-account-in-keepit/
+Content type: Web page
+Last modified: 2025-11-13T09:36:50+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Reauthenticate your Zendesk connector
+Why reauthentication is required
+Zendesk is transitioning to a new OAuth refresh token flow, which introduces short-lived access tokens that expire and must be refreshed using a refresh token. This change affects all integrations, including Keepit. Existing connections using permanent tokens will stop working unless you reauthenticate.
+To ensure uninterrupted backup of your Zendesk data in Keepit, please reauthenticate your Zendesk connector.
+How to reauthenticate your Zendesk connector
+1. Open your backup configuration and select Proceed on the dialog.
+2. Sign in to your dedicated service account. 
+Note: Ensure this account has the appropriate admin role.
+3. Follow the prompts to authorize Keepit to access your Zendesk account using the new OAuth flow.
+4. Once connected, your backups will continue without interruption.
+What happens if I don’t reauthenticate
+If you do not reauthenticate before the deadline:
+- Keepit will lose access to your Zendesk account.
+- Your Zendesk backups will stop.
+- Any new data in Zendesk will not be backed up until you reauthenticate. However, previously backed-up data will remain intact.
+Need Help?
+If you encounter any issues during the reauthentication process, please submit a support ticket through Keepit, and we’ll guide you step by step.

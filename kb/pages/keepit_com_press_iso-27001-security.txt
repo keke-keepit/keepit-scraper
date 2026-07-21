@@ -1,0 +1,20 @@
+Source URL: https://www.keepit.com/press/iso-27001-security/
+Content type: Web page
+Last modified: 2026-06-26T11:23:46+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit Achieves Enterprise-Wide ISO/IEC 27001 Security Certification
+Certification by BSI Group Ensures that Keepit Meets Stringent, International Information Security Standards
+UPDATE, APRIL 30, 2025: Keepit's ISO/IEC 27001 certification was successfully renewed in April 2025 following a surveillance audit conducted by BSI Group, confirming that the company's information security management system continues to meet the standard's requirements. The renewal reflects Keepit's ongoing commitment to maintaining rigorous, independently verified security practices across its entire organization — from software development and operations to business continuity and legal functions.
+Copenhagen, Denmark – May 17, 2022 – Keepit, the market leader in cloud backup and recovery, and the world’s only independent, vendor-neutral cloud dedicated to SaaS data protection with a blockchain-verified solution, today announced that the company has earned International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27001:2013 certification for information security management systems (ISMS). By achieving the certification, Keepit continues to demonstrate its dedication and ability to deliver best-in-class security technology to its customers.
+“We are pleased to announce Keepit’s ISO/IEC 27001 certification. This accomplishment, the work for which has been underway for years, conveys how committed we are to implementing the highest level of internal security and compliance, and to satisfying industry-leading standards for security and privacy,” said Keepit Chief Technology Officer, Jakob Østergaard.
+“When it comes to backup and recovery, businesses seeking solutions need to be incredibly thorough in their due diligence processes. The ISO/IEC assessment report for Keepit acknowledged that our company already had a tradition of a high level of security based on long-term work within our industry and with our partners, and we are pleased that our ISO/IEC certification will further reassure our customers and streamline their due diligence processes. Additionally, we are extremely proud that we met our distinct and ambitious goal of certifying our entire organization, including our entire software development lifecycle and the physical locations of the primary development offices”
+A worldwide information security management standard jointly published by the ISO and IEC, the 27001 certification specifies a comprehensive set of best practices and controls -- including policies, procedures, and staff training -- that structure how businesses should manage risks associated with information security threats. The certification also outlines requirements for developing, operating, maintaining, and continually improving an ISMS. Benefits of Keepit’s 27001 certification include:
+- A systematic, verified approach to information security that results in superior customer data protection;
+- Ongoing performance evaluations and internal audits that ensure Keepit continues to meet the requirements of the ISO/IEC 27001 standard;
+- Continued improvement of business continuity management and disaster recovery plans;
+- Risk, vulnerability, and security incident management practices that enhance overall information technology (IT) operations security;
+- Compliance with current and future legal and regulatory requirements.
+To attain ISO/IEC 27001 certification, Keepit engaged in a rigorous, multi-faceted audit conducted by The British Standards Institution (www.bsigroup.com). Comprising a framework that includes 150 controls, the audit evaluated Keepit’s ISMS information security, cybersecurity, and privacy protection processes, and encompassed the entire company, including services and technology, business continuity and operations, disaster recovery, and sales and legal operations. For more information on ISO/IEC 27001, please visit www.iso.org.

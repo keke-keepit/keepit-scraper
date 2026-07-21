@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/tenant-missing-microsoft-365-licenses/
+Content type: Web page
+Last modified: 2026-06-30T00:22:09+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Tenant missing Microsoft 365 licenses
+When you create a connector, we automatically check which Microsoft data areas are licensed. If we obtain from Microsoft all the necessary permissions for a specific data area, we can back it up, and it will be available for selection in your backup configuration.
+If a data area is missing the required Microsoft licenses, it will be marked with a warning icon in the connector configuration. Hovering over the icon will display a tooltip explaining the issue.
+Adding additional data areas to your backup
+If you'd like to back up additional data areas, you must first purchase the relevant Microsoft licenses. After that, reauthenticate your connector to detect the newly licensed data areas, which will then appear in your connector configuration.
+Handling previously licensed data areas
+If a data area was previously licensed and backed up in Keepit but later became unlicensed in Microsoft, Keepit will detect this and notify you that the affected data areas are no longer being backed up. Your connector's health status will change to Unhealthy if some data areas are still being backed up while others are not. If no data is being backed up, the status will change to Critical.
+To resume backups for these data areas, reassign the appropriate Microsoft licenses to your tenant and then reauthenticate the connector.

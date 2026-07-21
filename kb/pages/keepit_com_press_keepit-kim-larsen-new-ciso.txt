@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/press/keepit-kim-larsen-new-ciso/
+Content type: Web page
+Last modified: 2025-11-21T11:19:17+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Kim Larsen new Chief Information Security Officer at leading SaaS data protection vendor Keepit
+A seasoned cyber security professional, Keepit’s new CISO brings experience from a wide range of organizations, including NATO, EU, Verizon, Systematic, as well as a number of industry security boards.
+Copenhagen, Denmark – April 16 – Keepit, a global leader in SaaS data backup and recovery, today announced Kim Larsen as new Chief Information Security Officer (CISO). With more than 20 years of leadership experience in IT and cybersecurity from government and the private sector, the new CISO’s areas of expertise include: business driven security; aligning corporate, digital and security strategies; risk management and threat mitigation; developing and implementing security strategies; leading through communication; and coaching.
+Kim Larsen is an experienced keynote speaker, negotiator, and board advisor on cyber and general security topics, with experience from a wide range of organizations, including NATO, EU, Verizon, Systematic, and a number of industry security boards.
+“It's a real pleasure to welcome Kim Larsen to the team — his deep government and broad private sector experience is exceptional, and perfectly positions him to bring Keepit’s security advisory capabilities and development of future services to the next level. Our current growth trajectory and go-to-market strategy has us engaging in conversations where his expertise is highly valuable,” says Morten Felsvang, Keepit CEO.
+Kim Larsen started his career in the Danish National Police and subsequently spent nine years with Security and Intelligence Service (PET) where he served as delegate for the Danish government in both NATO’s and the EU’s security committees.
+Moving into the private sector to act as strategic advisor on government, public and financial sector matters, and developing security organizations and partnerships in companies such as Verizon, Huawei and Systematic, he has served on the information security board of the Danish Industry confederation (DI) and Danish Council for Digital Security for 10 years.
+Backup and recovery critical components to cybersecurity
+With this background, Kim Larsen has a holistic take on cybersecurity and a profound understanding of what is required and desired in organizations bolstering their IT infrastructures against cyber threats:
+“I am very happy to join Keepit: Backup and recovery are critical components of a solid cybersecurity posture, and the unique Keepit solution is the answer to so many compliance and security challenges. It’s a great opportunity to work with organizations on how to retain access to their data in the face of any malign or arbitrary threats to their infrastructure,” says Kim Larsen.
+The CISO points to compliance, cyber resilience, and disaster recovery best practices as three of his favorite subjects and reasons for choosing Keepit as his new stomping ground:
+“If there’s one thing we can be sure of, it’s this: We don’t know the threats we will be facing in the future. But we can make educated guesses. And based on those, we can make sure to cross the t’s and dot the i’s that we do know about. That’s why the Keepit solution is a future-proof solution: With its vendor-independent tech stack that keeps data physically and logically separate from the production environment, it’s a guarantee that customer data is always available. And with local data centers keeping data in the same regulatory regions as the organization, full compliance is assured. It really is quite unique,” states Kim Larsen.
+About Kim Larsen
+Kim Larsen is Chief Information Security Officer at Keepit and has more than 20 years of leadership experience in IT and cybersecurity from government and the private sector.
+Areas of expertise include business driven security, aligning corporate, digital and security strategies, risk management and threat mitigation adequate to business needs, developing and implementing security strategies, leading through communication, and coaching.
+Kim Larsen is an experienced keynote speaker, negotiator, and board advisor on cyber and general security topics, with experience from a wide range of organizations, including NATO, EU, Verizon, Systematic, and a number of industry security boards.
+Find Kim Larsen on LinkedIn.
+About Keepit
+Keepit provides next-level SaaS data protection for companies with data stored in the cloud. Keepit's vendor-independent cloud dedicated to SaaS data protection is based on a blockchain-verified solution. Keepit protects data in key business applications including Microsoft 365, Microsoft Entra ID, Google, and Salesforce. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. For more information visit www.keepit.com or follow Keepit on LinkedIn.

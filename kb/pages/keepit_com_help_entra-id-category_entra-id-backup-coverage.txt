@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/help/entra-id-category/entra-id-backup-coverage/
+Content type: Web page
+Last modified: 2026-07-03T23:37:15+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Entra ID backup coverage
+Entra ID coverage overview
+Keepit offers the following Microsoft 365 Entra ID backup coverage:
+- Entra ID Advanced: 
+ Protects users, groups, administrative units, roles, service principals, app registrations, policies (conditional access policies, compliance policies, configuration profiles, authentication methods, authentication strengths, named locations, account protection policies, Intune Antivirus policies), selected device attributes, and activity logs.
+Keepit's legacy backup coverage:
+- Entra ID Basic: 
+ Protects users, groups, administrative units, roles, and activity logs.
+- Entra ID Standard: 
+ Protects users, groups, administrative units, and roles.
+Supported object attributes
+Each object (user, group, administrative unit, role, service principal, policy, and app registration) has a set of attributes that we protect. For the full list, click here to here.
+Supported Microsoft Intune device configuration profiles
+For a full list of Intune device configuration profiles, click here.
+Metadata backup scope
+Metadata for objects can only be backed up and restored in relation to other objects included in the backup.
+For instance, if a user is a member of 10 groups in Entra ID but only 5 of those groups are selected for backup in the connector configuration, the metadata of only those 5 groups will be backed up for the user.

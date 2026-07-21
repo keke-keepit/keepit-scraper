@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/customers/ornskoldsvik-municipality/
+Content type: Web page
+Last modified: 2025-12-02T13:37:29+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+ÃrnskÃ¶ldsvik Municipality chooses Keepit for its Entra ID coverage and compliance benefits
+In search of robust and reliable Entra ID data coverage, Örnsköldsvik Municipality chose Keepit for its unparalleled, comprehensive Entra ID data protection – ensuring that their organization can run smoothly even if Entra ID data is temporarily compromised. In need of independent, third-party backup, Örnsköldsvik Municipality concluded that Keepit’s solution provided more comprehensive disaster recovery and data restore than Microsoft retention restore. Finally, in the interest of meeting the most rigid GDPR compliance standards, the municipality found that Keepit makes it easy to ensure that their data is both safe and GDPR compliant at the same time.
+Provides complete coverage for Entra ID - and all Microsoft 365 workloads
+After comparing Keepit for Entra ID to competitors’ solutions, the team at Örnsköldsvik Municipality concluded that Keepit provided the best Entra ID coverage on the market. As the organization is highly dependent on Entra ID user access, any block to this system could bring the business to a halt – and extended loss of access could have serious impacts. Keepit for Entra ID is not only secure and cost-effective but allows Örnsköldsvik Municipality to avoid disruption due to lost or inaccessible data by enabling instant search and comprehensive recovery across Users, Groups, Audit Logs, and more. Additionally, data compliance becomes simplified as users can view Entra ID at points in the past to quickly see what changes have occurred and provide corrections where necessary.
+We are super dependent on Groups in Entra ID. Our risk assessments showed that a longer duration of access loss could have serious impacts. Keepit for Entra ID ensures comprehensive recovery of any temporary data losses due to a cyberattack or user error.
+- Fredrik Westin, 
+Technical Supervisor of the Microsoft 365 platform at Örnsköldsvik Municipality 
+Meets the highest GDPR standards
+When it comes to compliance, Keepit facilitates meeting compliance needs across the most stringent global requirements. Örnsköldsvik Municipality needed a backup and recovery solution that would both ensure that their data is safe and ensure GDPR compliance at the same time. As a European vendor, GDPR compliance is second nature to Keepit. The service is built to make compliance requirements easy to accommodate for customers. Forrester even recommended Keepit as the “best for companies that need Microsoft 365 protection and GDPR expertise.” Örnsköldsvik Municipality chose Keepit to facilitate GDPR compliance and offer robust protection against ransomware and aid in the necessary workflows for regulatory adherence.
+The European data centers were a large driver for us choosing Keepit. We needed a backup and recovery solution that could deliver the highest level of GDPR compliance – and Keepit leads the market when it comes to ensuring compliance.
+- Fredrik Westin, 
+Technical Supervisor of the Microsoft 365 platform at Örnsköldsvik Municipality 
+Better disaster recovery and data restore than Microsoft
+In the current ransomware landscape, a potential cyberattack is a matter of “when” – not “if.” With a need to recover quickly from a potential cyber disaster, Örnsköldsvik Municipality was on the lookout for a backup and recovery solution that could restore data quickly and ensure that business operations keep running as smoothly as possible. After doing their own research, Örnsköldsvik Municipality learned that Keepit offered true, independent, third-party backup. And while Microsoft can deliver protection for some – but not all – of the organization’s business-critical data, Keepit came out on top as the better workload for coverage, restore granularity, and cost-effectiveness. Furthermore, since Keepit is independent of Microsoft authentication and storage, an attack on the organization’s tenant would not endanger backups – meaning that the municipality can still reliably access data even when Microsoft is having service problems.
+Since using Keepit, we’ve noticed that the data restore process is much easier than Microsoft’s. Keepit offers independent backup separate to Microsoft – ensuring our data is secure even if Microsoft service is down.
+- Fredrik Westin, 
+Technical Supervisor of the Microsoft 365 platform at Örnsköldsvik Municipality

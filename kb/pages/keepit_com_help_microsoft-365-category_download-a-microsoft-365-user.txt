@@ -1,0 +1,13 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/download-a-microsoft-365-user/
+Content type: Web page
+Last modified: 2026-06-30T01:11:23+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Download a Microsoft 365 user
+Download an entire user
+Downloading a user will download all user data including the user's mailbox, contacts, tasks, calendar, and in-place archives.
+1. Select the connector from which you want to download.
+2. Find the user you want to restore. Navigate Users > user name, or use the search to locate the user.
+3. To the right of the user, select the Download icon. A folder with the user's data will be download to your browser’s default download location.

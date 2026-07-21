@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/help/platform-category/download-data-from-a-shared-link/
+Content type: Web page
+Last modified: 2026-06-23T21:53:41+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Download data from a shared link
+Open the shared link in a browser to view that data that has been shared with you.
+Have a Keepit account? Sign in to unlock all platform features.
+Shared file
+When a single file is shared, you'll see a preview of it. To download or print the file, click the icons in the top-right corner of the preview window.
+Note: Previews may not be available for all file types.
+Shared folder
+When a folder is shared, you can browse its contents.
+- To download the entire folder: Select all items, then click Download > Download.
+- To download individual files: Click the download icon next to each item.
+- To preview a file: Click on it to open the File Previewer, where you can also download or print it directly.

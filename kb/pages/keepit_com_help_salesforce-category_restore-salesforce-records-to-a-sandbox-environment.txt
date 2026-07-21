@@ -1,0 +1,35 @@
+Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-records-to-a-sandbox-environment/
+Content type: Web page
+Last modified: 2025-12-08T13:48:21+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Salesforce records to a sandbox environment
+Follow these steps to restore Salesforce records to a sandbox environment.
+1. On the Connectors page, point to your Salesforce connector and click the Restore icon.
+2. Click Restore to different location and select Sandbox.
+3. Select Sign in.
+You will be redirected to the Salesforce sign-in page. Enter your Salesforce user account credentials for the sandbox environment.
+4. Choose a snapshot from the time you want to restore and click Next.
+5. Decide how you want to select records to restore and click Next.
+- If you choose Manually select records, select which records you want to restore.
+- If you have a CSV file with a list of records IDs, you can select Upload CSV of records
+ Ensure the CSV file meets the requirements detailed here: Prepare CSV file with records to restore
+6. Proceed to select the records you want to restore and click Next.
+7. Choose whether to also restore related records and click Next.
+Enabling this function will restore all related records lower in the hierarchy, including files and attachments.
+If enabled, all related objects will be selected by default. You can deselect any objects you don't want to include. Related objects that are dependent on others cannot be excluded.
+Note: Restoring a related record will also restore all its child records in the hierarchy, including associated files and attachments.
+8. Select whether to restore specific fields and anonymize data. Click Next.
+Note: Certain fields such as ID and Name must be restored.
+9. Review the summary and click Restore.
+Check the results of the restore
+1. Navigate to the Job Monitor to view the progress of the restore.
+2. Refresh the page to see updated progress. An in-app message and email will also be sent once the restore is complete.
+3. If the job is incomplete, click on the Show more icon to review the details.
+3. Click the Download arrow to download the list of skipped items.
+4. Review and address errors.
+- Review the errors that caused the records to fail.
+- Make any necessary changes, such as turning off Duplicate Rules in Salesforce.
+- Perform an additional restore as appropriate.

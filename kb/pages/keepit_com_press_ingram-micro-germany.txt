@@ -1,0 +1,21 @@
+Source URL: https://www.keepit.com/press/ingram-micro-germany/
+Content type: Web page
+Last modified: 2025-09-10T11:56:10+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit and Ingram Micro launch strategic sales agreement in Germany and Switzerland
+New alliance strengthens the IT channel in Germany and Switzerland in protecting business-critical SaaS data
+Copenhagen, Denmark — September 10, 2025 — Keepit, the world's only independent, cloud-native data protection, backup and recovery provider, has entered into a strategic go-to-market agreement in Germany and Switzerland with Ingram Micro, a leading business-to-business (B2B) platform company for the global technology ecosystem.
+The aim of this cooperation is to further expand Keepit's market presence in Germany and Switzerland and to intensify the joint go-to-market strategy in these markets. Thanks to the new agreement, value-added resellers (VARs), managed service providers (MSPs) and managed security service providers (MSSPs) will gain access to Keepit's SaaS data protection solutions—supported by Ingram Micro's comprehensive channel know-how and platform expertise.
+Ingram Micro will assist Keepit with marketing, sales and support of the Keepit portfolio and provide greater flexibility in purchasing and financing solutions that include Keepit's SaaS data security services.
+“As a leading B2B platform company, Ingram Micro is a key enabler of our channel strategy in the DACH region,” explains Cyril VanAgt, VP EMEA Channel at Keepit. "This new relationship enables us to make our vendor-agnostic SaaS data protection solution even more widely available and provides resellers, MSPs and MSSPs with a scalable, high-margin offering for their customers.”
+As a European provider, Keepit delivers its services entirely through European data centers. With its own datacenters in both Germany and Switzerland and complete independence from global hyperscalers, Keepit’s backup and recovery solution ensures that organizations retain access to their data at all times—even if the original SaaS system is unavailable or data on the public clouds is seized. This is a critical contribution to data resilience in the context of European digital sovereignty.
+”We are pleased to welcome Keepit and its vendor-agnostic cloud platform for SaaS data security as an addition to our growing network and security portfolio and to offer it to our partners as a strategic extension,” said Britta Appel, Head of Category Software at Ingram Micro Germany. "Managed cyber security is an area of growing complexity and we are committed to providing partners with modern, reliable, and secure cloud solutions that meet today’s data security and recovery requirements. Keepit takes a consistent approach to simplifying data protection and makes it easier for channel partners to reliably secure SaaS data."
+Keepit Partner Network continues to support channel partners
+Launched in January 2024, the Keepit Partner Network underscores Keepit's commitment to empowering resellers, MSPs and distributors through its “Partner Only” strategy. The Keepit Partner Network is active in North America, EMEA and ANZ.
+To become a Keepit partner, contact the partner team at partner@keepit.com or visit keepit.com/partners/
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 18,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit keepit.com or follow Keepit on LinkedIn.

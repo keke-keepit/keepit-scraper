@@ -1,0 +1,33 @@
+Source URL: https://www.keepit.com/press/zerto-backup-for-saas-powered-by-keepit/
+Content type: Web page
+Last modified: 2025-08-19T23:57:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Zerto Announces: Zerto Backup for SaaS, powered by Keepit: Industry-Leading Backup and Recovery Solution for Managing and Protecting Cloud SaaS Data
+Protects Data Against Accidental Deletion, Ransomware Attacks, Reduces Compliance Errors, and Improves Recoverability
+Boston and Copenhagen - April 20th, 2021 - Zerto, an industry leader in cloud data management and protection, announced the availability of Zerto Backup for SaaS powered by Keepit, an industry-leading cloud backup and recovery solution designed to manage and protect cloud SaaS data covering some of the most widely-used SaaS solutions, including Microsoft 365, Dynamics 365, Salesforce, and Google Workspace.
+Built in the cloud and for the cloud, Zerto Backup for SaaS has been purpose-built for simplicity, powerful scalability, and security by design. The solution supports rapid adoption of cloud deployments by taking data protection best practices to the cloud, making top-tier IT security simple. Zerto Backup for SaaS architecture runs on a secure private infrastructure offering data immutability, compliance, and guaranteeing data availability.
+"The cloud has enabled people to do business anywhere and at any time, resulting in more critical data constantly being placed in the cloud. The problem is that leaving SaaS backup as an afterthought can result in debilitating loss, especially since most SaaS vendors do not provide this critical service as a standard inclusion."
+David Osman
+Director, Technology Alliances, Zerto
+SaaS cloud data is subject to the same recoverability challenges and requirements as traditional data: human error, accidental deletions, compliance requirements, and data access and management during planned and unplanned outages. Companies also remain potential targets for ransomware attacks. Everything you store in the cloud—emails, files, chat history, sales data, etc.—is your responsibility. Zerto Backup for SaaS has taken this complex challenge and made it simple.
+Zerto Backup for SaaS offers complete granular recovery, data availability outside the normal production data center, and an independent secure backup of your data stored at a different location for added ransomware recovery protection. Designed with simplicity in mind, the solution offers uniquely intuitive features like smart search, which enables users to search across levels, providing relevant results even for misspelled or incomplete searches.
+Zerto Backup for SaaS is designed to help users quickly find and restore lost data. Powered by Keepit, the industry leader within the Backup-as-a-Service market no matter how much data they have or how it is organized, the solution provides tools that match each workflow, enabling organizations to bring back data quickly and efficiently.
+"Zerto Backup for SaaS is the most simple and versatile cloud data management and protection solution on the market, and by offering one convenient service to cover the backup and recovery needs for today’s cloud-centric organizations, users can protect their SaaS data wherever it resides."
+David Osman
+Director, Technology Alliances, Zerto
+"We are excited to partner with an industry leader like Zerto and proud that Keepit meets the high quality standards that Zerto customers have come to expect. We are thrilled our platform is being recognized for true cloud SaaS data protection and management, with added capabilities like archiving, eDiscovery, and open APIs – all vital to Zerto's discerning customers."
+Frederik Schouboe
+CEO and Co-founder of Keepit
+To learn more about the benefits of using Zerto Backup for SaaS, attend ZertoCON 2021 Virtual.
+Premier sponsorsâ¯ofâ¯Zerto CON 2021 Virtual areâ¯AWS,â¯Google, IBM,â¯andâ¯Microsoft.
+About Zerto
+Zerto helps customers accelerate IT transformation through a single, scalable platform for cloud data management and protection. Built for enterprise scale, Zerto’s simple, software-only platform uses continuous data protection to converge disaster recovery, backup, and data mobility and eliminate the risks and complexity of modernization and cloud adoption. Zerto enables an always-on customer experience by simplifying the protection, recovery, and mobility of applications and data across private, public, and hybrid clouds. Zerto is trusted by over 9,000 customers globally and is powering offerings for Microsoft Azure, IBM Cloud, AWS, Google Cloud, Oracle Cloud, and more than 450 managed service providers.
+Aboutâ¯Keepit
+Keepitâ¯is a global software company specializing in cloud SaaS backup and recovery. With 22+ years of experience in building best-in-class data protection,â¯Keepitâ¯isâ¯leadingâ¯the way to protect and secure cloud data at scale. Originating in Denmark,â¯Keepitâ¯has offices in Copenhagen and â¯Lviv, Ukraine, along with satellite offices around the world.
+Contact:
+Derrick Shannon
+Touchdown PR
+772.475.1027

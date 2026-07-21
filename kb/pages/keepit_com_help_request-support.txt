@@ -1,0 +1,10 @@
+Source URL: https://www.keepit.com/help/request-support/
+Content type: Web page
+Last modified: 2025-12-23T15:51:55+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Submit a ticket
+For more complex support issues, please fill out the form below to create a support ticket, being as detailed as possible. We will reply as soon as possible in the order the inquiries are received.
+Attention: Please note that tickets should be submitted to request support but should not include confidential information or personal data (whether part of the message or as an attachment). If your ticket does include such information, you may ask us to delete the ticket and resubmit a new ticket without the aforementioned information.

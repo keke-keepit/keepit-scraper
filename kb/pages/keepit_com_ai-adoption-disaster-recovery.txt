@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/ai-adoption-disaster-recovery/
+Content type: Web page
+Last modified: 2026-04-20T14:57:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Research report
+Peer insights on AI adoption
+and the disaster recovery gap   
+Autonomous AI, SaaS sprawl, and limited testing are exposing gaps in enterprise disaster recovery readiness.
+This exclusive report — developed in partnership with CIO and based on insights from more than 300 senior IT decision-makers across the U.S., Europe, and APAC — explores how rapidly evolving AI environments are impacting disaster recovery (DR) strategies. Even though SaaS data protection is seen as a high priority when implementing AI solutions, the survey reveals a gap between perceived readiness and tested, validated disaster recovery capability.
+This report is for IT leaders and security decision-makers who want a peer-driven view of how AI adoption is reshaping disaster recovery — and where critical gaps remain.
+Key takeaways from the report
+- AI adoption is accelerating faster than recovery readiness. More than half of organizations report active AI implementations, while the rest are piloting or evaluating initiatives. Yet only 41% of respondents have significantly changed their approach to DR as a result of AI adoption. 
+ 
+ 
+- Confidence in DR plans doesn’t match reality. Although 94% believe their disaster recovery strategy covers agentic AI systems, only 32% test those plans monthly. This gap between confidence and validation raises concerns about organizations’ ability to recover when failures occur. 
+ 
+ 
+- Governance gaps are creating recovery risks. 33% of IT and security leaders report only partial control over the use of agentic AI in their organizations, making it harder to coordinate response and recovery when multiple systems are affected. 
+ 
+ 
+- SaaS data protection is a priority — but recovery is complex. While 56% of respondents prioritize protecting SaaS data when implementing AI solutions, many underestimate the steps required to fully restore operations — from reconnecting systems to validating workflows — in the event of disruption.
+ 
+To get the full picture, download the report now.

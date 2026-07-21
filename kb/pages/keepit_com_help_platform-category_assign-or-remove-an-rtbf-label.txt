@@ -1,0 +1,47 @@
+Source URL: https://www.keepit.com/help/platform-category/assign-or-remove-an-rtbf-label/
+Content type: Web page
+Last modified: 2026-06-23T22:00:12+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Assign or remove an RTBF label
+Use RTBF (Right to be Forgotten) labels to ensure data items cannot be recovered to the production database. RTBF labels protect files by preventing them from being previewed, downloaded, or restored.
+What is an RTBF label
+RTBF labels allow you to mark items, which according to GDPR's "right to be forgotten," cannot be recovered in any way.
+An item with the RTBF label continues to be backed up but cannot be restored, downloaded as a ZIP or PST file, previewed, or shared as a public link.
+This item cannot be directly restored, nor will it be restored as part of a larger restore. For example, if you restore a folder, all items in the folder will be restored except for those marked with the RTBF label.
+The same rule applies when restoring a Salesforce or Dynamics record along with related records: the selected record will be restored, but RTBF-marked related records will not.
+Note: We cannot restore the related records of RTBF-marked related records. In this case, the restore job will be marked as incomplete.
+Deleted items can be assigned the RTBF label.
+RTBF labels are applied only to the selected instance of an item
+The RTBF label is applied only to the selected item. This means that if the item is stored also in another location, it can still be recovered from that location.
+For example:
+- An email in a user's inbox may also exist in the outbox of the sender.
+- A file in the Groups & Teams General folder may also exist in the SharePoint General folder.
+To ensure that the file cannot be recovered from another location, we recommend marking all instances of the item with an RTBF label.
+To help find other instances of the file, use the search.
+Assign an RTBF label
+1. Locate the item in your connector.
+2. Point to the item and select ••• > Assign RTBF label.
+3. Optional: Add a comment.
+4. Click Next.
+5. Review the summary and click Assign.
+Note: To assign an RTBF label to multiple items, select the items. In the toolbar, select RTBF.
+Once assigned, the item will appear faded out and marked with the RTBF label. All RTBF items can be found on the RTBF page.
+Remove an RTBF label
+1. In the left-hand menu, select RFTB to open the RTBF page.
+2. Point to the item and click the Remove RTBF label icon.
+3. Optional: Add a comment.
+4. Click Next.
+5. Review the summary and click Remove.
+Note: To remove RTBF statuses from multiple items, select the items. In the toolbar, click Remove RTBF label.
+RTBF page
+Only Master admins and Compliance admins have access to the RTBF page.
+The RTBF page contains a list of all files and folders that have been marked with the RTBF label, with the following information:
+- Date and time the RTBF label was assigned
+- User who assigned the RTBF label
+- Comments added to the items
+- Path to the item
+You can generate a report for selected items by clicking the Download report icon in the toolbar.
+The RTBF page also allows you to remove RTBF labels from items.

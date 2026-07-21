@@ -1,0 +1,63 @@
+Source URL: https://www.keepit.com/help/azure-devops-category/restore-azure-devops-data/
+Content type: Web page
+Last modified: 2025-03-11T20:18:38+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Restore Azure DevOps data
+Keepit supports in-place restore for Azure DevOps data.
+Restore an Azure DevOps item
+1. In your connector, find the item you want to restore.
+2. Optional: If you want to restore an item from an earlier point in time, click the Snapshots Viewer. Then select the appropriate snapshot.
+3. Point to the item and click ••• > Restore.
+4. Click Yes to restore the item.
+Note: To restore multiple items at a time, select the items. In the toolbar, click Restore.
+Restoring related entities
+If an item has related items (relationships), without which it will be incomplete, we will also automatically restore its related entities.
+Here is the complete list of restore dependencies:
+Restore limitations
+Organization
+A whole organization cannot be restored because there is no REST API for this. An organization can be created only in the Azure DevOps web application.
+Wiki
+The restore of Wiki pages order is not supported. The restore order is arbitrary.
+Boards
+Due to API limitations, we cannot restore:
+- Backlogs
+- Boards
+Pipelines
+- Agent pools agents
+When an agent pool is restored, besides pool settings, only the attributes and capabilities of each agent are restored.
+To bring an agent back Online, it must be reconfigured at the host level.
+To reconfigure the agent, use the following command:
+hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{AGENT} --work _work --pool ${POOL} --replaceWhere:
+- TOKEN - a valid PAT token
+- ORGANIZATION - the organization to which the agent should be added
+- AGENT - the agent name
+- POOL - the pool that the agent should belong to
+For more details, refer to Microsoft's documentation: Remove and re-configure an agent
+- Deployment pool targets
+When a deployment pool is restored, besides pool settings, only the attributes and capabilities of each target are restored.
+To bring a target back Online, it must be reconfigured at the host level.
+To reconfigure the target, use the following command:
+hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{TARGET} --work _work --deploymentpool --deploymentpoolname ${POOL} --runasserviceWhere:
+- TOKEN - a valid PAT token
+- ORGANIZATION - the organization to which the agent should be added
+- AGENT - the agent name
+- POOL - the pool that the agent should belong to
+For more details, refer to Microsoft's documentation: Remove and re-configure an agent. Find the section Deployment group only.
+- Environment resources
+When an environment is restored, the resources themselves are not restored. Only the environment and its settings are restored.
+To bring a resource back Online, it must be reconfigured at the host level.
+To reconfigure the resource, use the following command:
+hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{RESOURCE}  --work _work --environment --environmentname ${ENVIRONMENT} --projectname ${PROJECT} --runasserviceWhere:
+- TOKEN - a valid PAT token
+- ORGANIZATION - the organization to which the agent should be added
+- PROJECT - the project to which a resource should be added
+- RESOURCE - the resource name
+- ENVIRONMENT - the environment that the resource should belong to
+For more details, refer to Microsoft's documentation: Remove and re-configure an agent. Find the section Environments only.
+Note
+Please note that the provided commands for the agent, deployment target, and environment resource configuration are for the Linux operating system (and specifically tested on Ubuntu 20.04).
+For other operating systems and architectures, follow the instructions provided by the web application or, if needed, refer to the MS documentation: Manage agents and agent pools
+The Azure DevOps web application provides many ways to configure a specific agent, target, or resource, as can be seen in the application agent creation dialog box below:

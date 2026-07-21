@@ -1,0 +1,30 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/recover-data-using-the-pst-download/
+Content type: Web page
+Last modified: 2026-06-30T01:13:32+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Recover data using the PST download
+The Outlook, Calendar, Contacts, and Tasks folders as well as certain Outlook and Calendar subfolders can be downloaded as PST files.
+Note: If you download the Deleted Items folder under Outlook, only the emails in the folder, and not deleted Calendar, Contacts, or Task items, will be downloaded.
+Download a PST file
+1. Open your connector and find the folder you want to recover.
+2. Optional: If you want to download an older version of the item, select the Snapshots Viewer icon, and then select an earlier snapshot. You will now be viewing data from that particular time.
+3. Point to the folder and select ••• > Download options > Download PST.
+4. A message indicating that the link will be generated will appear. Select Close.
+Note: If the file size is large, it may take some time to generate the link. You can follow the progress in the Job Monitor. When the job completes, you will receive an in-app message and an email with the link.
+5. Click the link to the PST file from the in-app message or email, and the file will download to your computer.
+Notes
+- If you do not see an in-app notification or email, select again Download PST and your file will automatically download. However, please wait at least a few minutes before selecting it.
+- If you click the link in the email and encounter a login error, it might be because you have SSO set up using a different Keepit domain. In this case, please copy the link, paste it into a browser, and replace the "ws.keepit.com" with "dk-co.keepit.com" - now the page should open and the file should download.
+6. Now you can either open the file on your computer to see the content or import the data back into Outlook.
+Note: Bulk download is not available for PST files.
+Import data back to Outlook
+Once you have downloaded the PST file, you can directly mount the data back into Outlook using Outlook's import feature.
+For details on how to do this, please refer to Microsoft's article here.
+Where will the imported data be located?
+If you import the whole Outlook folder, then in Outlook you will see a new folder named "Outlook" with all the data. As the restored data will be located in a separate inbox, you can view it in parallel with the current inbox. You can then simply drag and drop data between the two inboxes to bring back lost mail. Or you right click on the mail you want and select Move to place it in a different folder. If you import an Outlook subfolder, for example the "Inbox" folder, then the individual mails in the folder will be restored back to their original locations.
+If you import a calendar that has been deleted from Outlook, then a new calendar with its items will be created under My calendars. If the calendar you are importing is still present, then the individual calendar items will appear back in that calendar.
+If you import Tasks, the tasks will return to your Tasks.
+If you import Contacts, the contacts will return to Your Contacts.

@@ -1,0 +1,34 @@
+Source URL: https://www.keepit.com/customers/alpla/
+Content type: Web page
+Last modified: 2024-03-27T23:37:06+01:00
+Retrieved: 2026-07-21
+
+============================================================
+
+The Most Scalable Backup and Recovery Solution for ALPLA's Fast-Paced Cloud Migration
+ALPLA is one of the world’s leading manufacturers of high-quality plastic packaging with around 22,000 employees across 45 countries. Keepit is a true enabler for ALPLA’s journey to the cloud, providing the IT Infrastructure team with intelligent backup and recovery to safeguard their cloud SaaS data.
+Keepit allows us to easily scale our business, adding new Microsoft 365 users with no hidden costs.
+Stefan Toefferl
+Senior Data Center Engineer, ALPLA
+Saving Money While Scaling the Business
+ALPLA’s rapid global expansion requires an agile Microsoft 365 backup and recovery solution that can keep up with this growth. Keepit automatically detects and adds new users to the backup set, saving valuable admin time. As an additional benefit, Senior Data Center Engineer Stefan Toefferl is now saving money by avoiding the costs needed to maintain and scale on-premise backup capabilities.
+Keepit truly is a simple-to-understand and user-centric solution for any scaling enterprise.
+Stefan Toefferl
+Senior Data Center Engineer, ALPLA
+Full Control of Business Data
+Microsoft’s restore options and retention period do not meet ALPLA’s requirements. Toefferl saw the need for a third-party backup that provided a retention period of up to 10 years, which was easily accommodated with Keepit. Now, Toefferl can easily identify and restore data at any time, like in the case of data breach or during audits.
+We quickly figured out that we needed a backup as Microsoft does not meet our retention requirements. Also, the restore options provided are extremely limited.
+Stefan Toefferl
+Senior Data Center Engineer, ALPLA
+As Keepit operates a cloud in multiple regions across the globe, ALPLA can remain fully independent of Microsoft’s data storage locations, ensuring compliance to EU regulations including GDPR.
+Fast and Simple eDiscovery
+Finding the right data to restore can be a tedious task, especially when very little information is provided by users. Keepit’s unique and intelligent search features helps ALPLA easily identify and restore data. For ALPLA, one of the most valuable features is the option to share a secure link to download a file, quickly getting the data back to the users. Keepit provides more than just an ordinary backup - it helps ALPLA become more efficient in their daily IT operations, ensuring business continuity at all times.
+Keepit provides search filters that make eDiscovery simple, allowing us to quickly find and restore an exact file.
+Stefan Toefferl
+Senior Data Center Engineer, ALPLA
+Looking Ahead
+Keepit’s simple and intuitive solution makes it possible for ALPLA’s IT team to easily manage the data of 10,000+ users. Toefferl characterizes Keepit’s solution as simple and easy to understand, requiring no training therefore saving the team valuable time.
+Having teamed up with Keepit to handle cloud SaaS data backup, proper data protection and management remains an integral part of ALPLA’s global expansion and safe journey to the cloud.
+We trust that Keepit provides the most efficient and flexible backup solution. An on-premise solution would be much too cumbersome for our team to maintain.
+Stefan Toefferl
+Senior Data Center Engineer, ALPLA

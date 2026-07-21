@@ -1,0 +1,35 @@
+Source URL: https://www.keepit.com/help/platform-category/your-service-info/
+Content type: Web page
+Last modified: 2026-06-23T22:54:03+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Your service info
+Follow these simple steps to find your service offering, ID, and service expiration date.
+1. In the lower-left corner, select the account profile > Account info.
+2. Select the Service & Billing tab.
+Change a connector's retention period
+Configure role-based access control (RBAC) for a connector
+Reasons you may need to reauthenticate your connector
+Reauthenticate a connector when authentication is no longer valid
+Reauthenticate connector to update app permissions
+Reauthenticate a connector to add proper service account
+Set Up SSO
+Set up SSO using Microsoft Entra as identity provider
+Set up SSO using Okta as identity provider
+Renew an SSO application certificate before expiration
+Can I still use my Keepit credentials after setting up SSO?
+Why is it best to use an incognito window when using SSO?
+Set Up MFA
+Configure multi-factor authentication
+Set up TOTP authenticator for MFA
+Token Management
+View or delete secondary tokens
+SIEM Integration
+Retrieve data for a SIEM solution using Keepit API
+Deploy the Keepit ARM template to MicrosoftÂ Sentinel
+Secure Shares Policy
+Follow these simple steps to find your service offering, ID, and service expiration date.
+1. In the lower-left corner, select the account profile > Account info.
+2. Select the Service & Billing tab.

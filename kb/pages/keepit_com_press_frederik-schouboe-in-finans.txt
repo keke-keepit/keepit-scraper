@@ -1,0 +1,30 @@
+Source URL: https://www.keepit.com/press/frederik-schouboe-in-finans/
+Content type: Web page
+Last modified: 2025-08-20T00:05:18+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Keepit CEO in Finans: A discussion about data responsibility
+Companies' most important COVID tool is a data security timebomb. Industry leader discusses data responsibility and secure backup.
+"My biggest criticism of Teams concerns data security:â¯While my view is that Microsoft's protection of its data centers - both physical and software-based - is of the absolute highest level, there simply is no backup of users’ data."
+Frederik Schouboe
+CEO and Co-founder of Keepit
+#1 Business Collaboration Tool During COVID Is a Data Security Timebomb
+As a safety line between companies and remote employees, cloud services such as Microsoft Teams have meant that companies have been able to keep their productivity up. It's a great tool, but have you thought about where all that newly generated cloud data ends up?
+When Mette Frederiksen closed Denmark down for the first time back in the spring of 2020, Danish companies faced an overriding problem: How to maintain daily internal communication when employees are spread over a large area – often far away from the office and meeting rooms?
+For many Danish companies, the primary electronic communication source is still email, but email is not geared for dynamic, engaging, and continuous dialogue where the goal is creative and productive thinking. And it goes without saying that you do not hold meetings via email either
+Microsoft Office 365 is the preferred digital platform of Danish companies, and therefore Microsoft Teams was the obvious alternative to in-person collaboration. Teams, as part of Office 365 Business, integrates well with the rest of the Office package, such as OneDrive for Business and Microsoft SharePoint - both services that the vast majority of companies use today. At the same time, there are a large number of thirdparty applications that work with the platform. Additionally, there are many video and chat features, which is an asset for companies with remote employees.
+No Teams = more bankruptcies
+We at Keepit already used Teams pre-COVID, but the pandemic and shutdown forced us to embrace the digital multiplatform workplace to a much greater degree so that we could maintain a fairly normal level of work. We would not have done as well through the shutdown had we not had a collaboration platform like Teams.
+And yes, Teams is a commercial product from Microsoft that Microsoft makes money on, but there must still be room for recognition: Even though most of us are tired of Teams calls while wearing sweatpants with the computer on the dining table, and are missing our colleagues, the daily contact, and the social gathering, we must remember that - without a doubt - there would have been far more dismissals, far more bankruptcies, and a lower job satisfaction had we not had platforms like Teams.
+Great support
+The Danes are not alone in that view. Back in March 2020 - at the start of the pandemic – Microsoft, in eight days, saw Teams gain 12 million new users and ended up with 44 million users. At Microsoft's investor call back in October, the figure was 115 million users: a number that has significantly increased since.
+For companies that had never used this kind of platform before, they became more digital, which in the future, on the other side of the pandemic, will continue to benefit the company. We will also see greater employee satisfaction, because companies have realized that home offices can easily work, and we will see more flexible workplaces where you combine physical and virtual meetings.
+At the same time, we see a completely different maturity in digital communication today than we did a year ago - and therefore we also see that far more business-critical data is shared via platforms such as Teams. Good for the company's digital agility - not so good if there is no control over data security.
+Where is your data?
+Teams is not a flawless platform, and I think many can come up with criticisms of the platform that most users have been forced to live with, which is probably exacerbated by being tired of working from home and not necessarily Teams itself.
+My biggest criticism of Teams concerns data security. While my view is that Microsoft's protection of its data centers - both physical and software-based - is of the absolute highest level, there is no backup of users' data.
+Deleted data is stored in the Recycling Bin, as you know from Windows, and only for a very limited time - after which your data is irretrievably gone. There is no option to recover files or even versioning of your data should a file be overwritten, and this is causing problems for businesses. Here at Keepit, we have already experienced files being overwritten, and there is no help or remedy from Microsoft.
+Therefore, it is crucial that Danish companies remember to save a backup of their data outside of Teams. Microsoft calls for this, too, but there are still far too many companies that blindly trust that the data in the cloud is automatically protected and can be recovered should something go wrong from actions such as accidental deletion, hackers, or malicious employees.
+As with all other business-generated data, including cloud SaaS solutions like Microsoft Office 365, keep in mind that it's the company's own responsibility to have a secure backup, and not that of the SaaS provider. A half-baked backup strategy for cloud services creates daily frustrations over missing files and, in the worst case, a shutdown of production, paralyzing the entire company

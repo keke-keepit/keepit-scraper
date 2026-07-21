@@ -1,0 +1,75 @@
+Source URL: https://www.keepit.com/help/microsoft-365-category/teams-planner-is-not-restoring/
+Content type: Web page
+Last modified: 2026-06-30T02:07:56+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Teams planner is not restoring
+If the Planner belongs to a private group, Microsoft may lack the necessary permissions to allow a restore.
+In this case, after you restore the group, simply navigate to the Plans folder and restore the whole folder.
+Requirements for setting up a Microsoft 365 backup
+Create a Microsoft 365 connector
+Configure your Microsoft 365 backup
+Selecting users for Exchange and OneDrive backup
+Multi-Geo support for your Microsoft 365 connector
+Calculate the amount of data you have in Microsoft 365
+Service account requirements
+How admin user credentials are used in Keepit
+Removing the admin role from the Microsoft 365 backup account
+Permissions for Microsoft 365 Backup and Restore
+Can the service account used for the backup have MFA enabled?
+Preparing for Teams Chats backup
+Create an app registration in Entra ID
+Connect your Entra app registration to Keepit
+Generate a certificate for your Entra ID app registration
+Microsoft 365 backup coverage
+Microsoft 365 Groups and Teams backup coverage
+Does Keepit back up data on Litigation Hold?
+Does Keepit back up inactive mailboxes?
+Does Keepit support Legacy Authentication?
+Generate or schedule a backup coverage report
+Understanding recurrently skipped items for unlicensed users
+Understanding recurrently skipped items for SharePoint content storage
+EWS to Microsoft Graph API migration: What it means for your Exchange backup
+About the Microsoft 365 backup
+How Keepit processes data in Microsoft 365
+What happens to backups after Microsoft 365 tenant-to-tenant migration
+Why snapshot size may be smaller from amount of data seen in Microsoft 365
+Seats in a Microsoft 365 connector
+How Microsoft products are counted as Keepit seats
+What counts as a seat in a Microsoft 365 connector
+Tenant missing Microsoft 365 licenses
+Missing data areas in your Microsoft 365 connector configuration?
+Recover Exchange, OneDrive, and Teams Chats
+Restore Exchange data from the connector level
+Restore OneDrive data from the connector level
+Exchange data restore behavior
+OneDrive data restore behavior
+Restore OneDrive file versions
+Recover an existing Microsoft 365 user
+Recover a deleted Microsoft 365 user
+How restored Outlook emails are sorted
+Move or copy an item from a restored folder to a different one
+Recover data using the PST download
+Recover SharePoint data
+Best practices for restoring SharePoint data
+Restore SharePoint sites from the connector level
+Can I restore any part of my SharePoint data?
+Restoring SharePoint data with an advanced backup configuration
+Restore SharePoint item and file versions
+Restoring SharePoint term store
+Recover Groups & Teams data
+Restore Groups & Teams data from the connector level
+Restore team channels and posts
+Throttling and what can be done
+My Microsoft 365 connector's authentication is no longer valid
+I authenticated my Microsoft 365 connector with the wrong account
+Teams channel posts are not being backed up
+Teams channel failed to restore
+Teams planner is not restoring
+Not all of my dynamic group data is backed up
+Public folder failed to restore
+Remove the admin service account from Groups and Teams
+If the Planner belongs to a private group, Microsoft may lack the necessary permissions to allow a restore.
+In this case, after you restore the group, simply navigate to the Plans folder and restore the whole folder.

@@ -1,0 +1,60 @@
+Source URL: https://www.keepit.com/help/api-category/add-a-contact-to-the-account/
+Content type: Web page
+Last modified: 2025-10-15T23:45:06+02:00
+Retrieved: 2026-07-21
+
+============================================================
+
+Add a contact to the account
+This command allows you to add a contact to an account.
+API request
+Method POST
+/users/{account_id}/contacts
+Elements table
+Root object element: contact
+This command allows you to add a contact to an account.
+Method POST
+/users/{account_id}/contacts
+Root object element: contact
+Method POST
+https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka/contacts/
+Body
+<contact>
+    <type>l</type>
+    <email>test123456789@keepit.com</email>
+    <companyname>Company</companyname>
+    <fullname>test123456789@keepit.com</fullname>
+    <phone>11111111111111</phone>
+    <language>en-GB</language>
+</contact>Code: 201 Created
+try {
+    $username = '<Token username>'
+    $password = '<Token password>'
+    $userId = '<Account ID>'
+    $basicauth = [Convert]::ToBase64String([System.Text.Encoding]::ASCII.GetBytes("${username}:${password}")) 
+    $headers = @{
+        "User-Agent"    = "PowerShell-Keepit-API-Agent-1.0"
+        "Authorization" = "Basic $basicauth"
+        "Content-Type"  = "application/xml"
+    }
+    $url = "https://dk-co.keepit.com/users/$userId/contacts"
+    $xmlBody = @"
+<contact>
+    <type>l</type>
+    <email>test123456789@keepit.com</email>
+    <companyname>Company</companyname>
+    <fullname>test123456789@keepit.com</fullname>
+    <phone>11111111111111</phone>
+    <language>en-GB</language>
+</contact>
+"@
+    $response = Invoke-WebRequest -Uri $url -Method POST -Headers $headers -Body $xmlBody -ErrorAction Stop -TimeoutSec 10
+    if ($response.StatusCode -eq 201) {
+        Write-Host "201 Success"
+    }
+}
+catch {
+    $line = $_.InvocationInfo.ScriptLineNumber
+    Write-Host "Cannot query Keepit API due to: $_"
+    Write-Host "at line $line"
+}
