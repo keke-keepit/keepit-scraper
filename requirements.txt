@@ -1,0 +1,4 @@
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5
+lxml>=5.2          # BeautifulSoup's XML parser, used for sitemaps
+pdfplumber>=0.11
