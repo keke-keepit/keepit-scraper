@@ -40,5 +40,47 @@
       "... (+5293 more)"
     ],
     "error": null
+  },
+  {
+    "run_at": "2026-07-21T14:04:47.890742+00:00",
+    "success": true,
+    "duration_seconds": 4196.0,
+    "pages_total": 5311,
+    "pdfs_updated": 0,
+    "changes": {
+      "new": 33,
+      "changed": 3,
+      "unchanged": 5275,
+      "deleted": 40
+    },
+    "changed_urls": [
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/10?utm_campaign=PR-2023&utm_medium=press+release&utm_source=businesswire%5B&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/10?utm_medium=pressrelease&utm_source=website&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/11?amp%3Butm_medium=pressrelease&amp%3Butm_source=website&amp%3Butm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/11?utm_campaign=PR-2023&utm_medium=press+release&utm_source=businesswire%5B&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/11?utm_medium=pressrelease&utm_source=website&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/12?amp%3Butm_medium=pressrelease&amp%3Butm_source=website&amp%3Butm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/12?utm_campaign=PR-2023&utm_medium=press+release&utm_source=businesswire%5B&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/12?utm_medium=pressrelease&utm_source=website&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/1?amp%3Butm_medium=pressrelease&amp%3Butm_source=website&amp%3Butm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/1?utm_campaign=PR-2023&utm_medium=press+release&utm_source=businesswire%5B&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/1?utm_medium=pressrelease&utm_source=website&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/2?amp%3Butm_medium=pressrelease&amp%3Butm_source=website&amp%3Butm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/2?utm_campaign=PR-2023&utm_medium=press+release&utm_source=businesswire%5B&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/2?utm_medium=pressrelease&utm_source=website&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/3?amp%3Butm_medium=pressrelease&amp%3Butm_source=website&amp%3Butm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/3?utm_campaign=PR-2023&utm_medium=press+release&utm_source=businesswire%5B&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/3?utm_medium=pressrelease&utm_source=website&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/4?amp%3Butm_medium=pressrelease&amp%3Butm_source=website&amp%3Butm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/4?utm_campaign=PR-2023&utm_medium=press+release&utm_source=businesswire%5B&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/4?utm_medium=pressrelease&utm_source=website&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/5?utm_campaign=PR-2023&utm_medium=press+release&utm_source=businesswire%5B&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/5?utm_medium=pressrelease&utm_source=website&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/6?amp%3Butm_medium=pressrelease&amp%3Butm_source=website&amp%3Butm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/6?utm_campaign=PR-2023&utm_medium=press+release&utm_source=businesswire%5B&utm_term=PowerBI",
+      "[new] https://help.keepit.com/support/discussions/forums/6000111739/page/6?utm_medium=pressrelease&utm_source=website&utm_term=PowerBI",
+      "... (+51 more)"
+    ],
+    "error": null
   }
 ]
