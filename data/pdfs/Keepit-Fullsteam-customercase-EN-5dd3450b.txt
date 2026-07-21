@@ -1,0 +1,111 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Fullsteam-customercase-EN.pdf
+
+--- Page 1 ---
+Fullsteam strengthens
+business continuity
+with independent SaaS
+backup and recovery
+Customer success story
+
+--- Page 2 ---
+Fullsteam strengthens
+business continuity
+with independent SaaS
+backup and recovery
+Fullsteam provides industry-specific software and integrated payments technology that
+help businesses operate efficiently and grow. Its platforms support financial and operational
+processes across multiple industries, so downtime has real consequences and business
+continuity is nonnegotiable. The US-based company’s data protection strategy supports
+more than 2,700 identities and over 108 TB of data across several enterprise SaaS platforms.
+LOCATION INDUSTRY EMPLOYEES
+USA Fintech 2,100+
+Compliance-driven protection at scale
+Fullsteam’s requirements are shaped by scale,
+complexity, and compliance obligations. The
+“Business continuity is critical
+organization relies on multiple enterprise SaaS
+to Fullsteam because our
+applications that require comprehensive backups
+platforms support essential
+to support disaster recovery and precise, targeted
+financial and operational
+restores for key business processes. Compliance
+restrictions on where data may be stored made processes, and any disruption
+regional data residency a critical factor in the directly impacts customers,
+evaluation process. revenue, and trust.”
+As the team assessed alternatives to its previous JP Peters
+backup solution, the priorities were clear: scalability Senior Director of Enterprise Services,
+Fullsteam
+across multiple SaaS applications, stronger restore
+capabilities, and more granular role-based access
+control within Entra ID and Microsoft 365.
+Customer success story 2
+
+--- Page 3 ---
+“We were looking for a solution that provided more granular role-based access
+control for individuals to back up or restore data within Entra ID and Microsoft 365.”
+Stephen Johnson
+Director of Platform Engineering, Fullsteam
+The goal was to delegate backup and restore Why Fullsteam chose Keepit
+responsibilities within Enterprise IT without Keepit’s US data centers played an important
+relying solely on a Global Administrator, while role due to compliance requirements restricting
+maintaining strong governance. where Fullsteam data may reside.
+Delegated access with full control Vendor independence was another key factor.
+Keepit’s detailed permission structure allowed Keepit’s architecture supports an independent
+Fullsteam to assign appropriate access across product roadmap, creating opportunities to
+multiple layers of the IT organization. That change extend backup services to other SaaS platform
+improved operational flexibility while preserving owners within the organization.
+control.
+Security was equally critical. Encryption
+The team also prioritized protecting Entra ID and combined with immutable backups ensures data
+Intune configuration policies to ensure identity cannot be altered or deleted, preserving reliable
+and device management settings could be recovery points.
+recovered if needed.
+Keepit’s simple cost structure, including
+Fast recovery and continuous data access unlimited storage, has made spending
+were essential. Even short outages can predictable. The solution delivers similar cost to
+create operational risk, customer impact, and the previous platform, with improved usability
+compliance exposure. and expanded opportunity to provide backup
+services to other application owners internally.
+Cost and functionality were primary drivers,
+along with the ability to scale beyond Microsoft to For organizations evaluating their options,
+support additional SaaS platforms over time. The Fullsteam’s IT leadership offers clear guidance:
+evaluation began after Fullsteam’s VP discovered “If you want a solution that offers reliability,
+Keepit at a technology conference and brought flexibility, scalability, and predictable pricing,
+it back to the team as a potential replacement Keepit is the answer”, says JP Peters, Senior
+provider. Director of Enterprise Services.
+Customer success story 3
+
+--- Page 4 ---
+“Encryption combined with immutable
+backups ensures our data cannot be
+altered or deleted, which is essential for
+reliable recovery and the security of
+our organization.”
+Stephen Johnson
+Director of Platform Engineering, Fullsteam
+Independent recovery by design
+Keepit provides a vendor-independent SaaS
+data protection platform purpose-built for
+cloud environments. By storing backups in an
+independent cloud and combining encryption
+with immutability, the platform creates a secure
+foundation for reliable recovery. Flexible access
+controls and scalable architecture enable
+organizations to protect multiple applications while
+maintaining governance and compliance.
+For Fullsteam, that means stronger operational
+resilience without added complexity, and confi-
+dence that its data is here today and here tomorrow.
+About Fullsteam
+Fullsteam provides software and payments technology that help businesses across a wide range of industries
+operate efficiently and grow. The company delivers purpose-built software for retail stores, vineyards, ground
+transportation providers, hospitality businesses, and many other everyday industries. Its vision is to give business
+owners all the tools they need in one place by embedding payments, marketing services, and insurance directly
+into their business management systems. Fullsteam’s purpose is to help customers grow by delivering efficient,
+tailored solutions for each industry it serves.
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-independent
+cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+For more information visit www.keepit.com or follow Keepit on LinkedIn.
+© 05/12/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

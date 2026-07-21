@@ -1,0 +1,111 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-ALPLA-Use-Case-EN.pdf
+
+--- Page 1 ---
+Customer case:
+ALPLA
+The most scalable
+backup and recovery
+solution for ALPLA’s fast-
+paced cloud migration
+
+--- Page 2 ---
+Customer case:
+ALPLA
+ALPLA is one of the world’s leading Full Control of Business Data
+manufacturers of high-quality plastic Microsoft’s restore options and retention
+packaging with around 22,000 employees period do not meet ALPLA’s requirements.
+across 45 countries. Keepit is a true enabler Toefferl saw the need for a third-party backup
+for ALPLA’s journey to the cloud, providing that provided a retention period of up to 10
+the IT Infrastructure team with intelligent years, which was easily accommodated with
+backup and recovery to safeguard their Keepit. Now, Toefferl can easily identify and
+cloud SaaS data. restore data at any time, like in the case of data
+breach or during audits.
+Saving Money While Scaling the Business
+ALPLA’s rapid global expansion requires an As Keepit operates a cloud in multiple regions
+agile Microsoft 365 backup and recovery across the globe, ALPLA can remain fully
+solution that can keep up with this growth. independent of Microsoft’s data storage
+Keepit automatically detects and adds new locations, ensuring compliance to EU
+users to the backup set, saving valuable regulations including GDPR.
+admin time. As an additional benefit, Senior
+Data Center Engineer Stefan Toefferl is now
+saving money by avoiding the costs needed
+to maintain and scale on-premise backup
+capabilities.
+“Keepit allows us
+to easily scale our
+business, adding new
+Microsoft 365 users
+with no hidden costs.”
+Stefan Toefferl
+Senior Data Center Engineer
+ALPLA
+
+--- Page 3 ---
+Customer case:
+ALPLA
+“We quickly figured out that we needed
+a backup as Microsoft does not meet our
+retention requirements. Also, the restore
+options provided are extremely limited.”
+Stefan Toefferl
+Senior Data Center Engineer
+ALPLA
+Fast and Simple eDiscovery
+Finding the right data to restore can be a tedious
+task, especially when very little information is
+provided by users. Keepit’s unique and intelligent
+search features helps ALPLA easily identify and
+restore data. For ALPLA, one of the most valuable
+features is the option to share a secure link to
+download a file, quickly getting the data back
+to the users. Keepit provides more than just an
+About ALPLA
+ordinary backup - it helps ALPLA become more
+ALPLA is one of the world’s leading
+efficient in their daily IT operations, ensuring
+companies for high-quality packaging
+business continuity at all times. solutions. With headquarters in Hard,
+Austria, ALPLA employs around 22,000
+people across 45 countries producing
+Looking Ahead
+packaging for brands in the food, beverage,
+Keepit’s simple and intuitive solution makes it pharmaceutical, oil and lubricant, home,
+possible for ALPLA’s IT team to easily manage and beauty care industries.
+the data of 10,000+ users. Toefferl characterizes
+Keepit’s solution as simple and easy to
+understand, requiring no training therefore saving
+the team valuable time.
+“We trust that Keepit provides
+the most efficient and flexible
+Having teamed up with Keepit to handle cloud
+backup solution. An on-
+SaaS data backup, proper data protection and
+premise solution would be
+management remains an integral part of ALPLA’s
+much too cumbersome for
+global expansion and safe journey to the cloud.
+our team to maintain.”
+Stefan Toefferl
+Senior Data Center Engineer
+ALPLA
+
+--- Page 4 ---
+Learn how Keepit can
+securely back up and
+recover your data
+Request demo
+Keepit provides next-level SaaS data protection Headquartered in Copenhagen with offices and data
+purpose-built for the cloud, by securing data in a centers worldwide, over ten thousand companies
+vendor-independent cloud to safeguard essential trust Keepit for its ease of use and effortless backup
+business applications, boost cyber resilience and and recovery of cloud data.
+future-proof data protection.
+HQ - Copenhagen Dallas, Texas London Munich
+Denmark United States United Kingdom Germany
+Keepit A/S Keepit USA Inc. Keepit Technologies UK, LTD. Keepit Germany GmbH
+Per Henrik Lings Allé 4, 7. 3232 McKinney Avenue Suite 820 Warnford Court Maximiliansplatz 22
+2100 København, Denmark Dallas TX 75204, USA 29, Throgmorton Street 380639 München
+CVR: 30806883 TIN: 85-358 6335 London EC2N 2AT, UK Amtsgericht München,
++45 8987 7792 +1 469-461-4892 Company reg. no.: 13785045 HRB 270094
+sales@keepit.com sales@keepit.com sales@keepit.com Geschäftsführer Morten Felsvang
+sales@keepit.com
+© 2024 Keepit. All rights reserved. www.keepit.com

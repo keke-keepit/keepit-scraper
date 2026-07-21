@@ -1,0 +1,90 @@
+Source: https://lp.keepit.com/hubfs/content-assets/Keepit-Statement-on-sustainability-EN.pdf
+
+--- Page 1 ---
+Statement on
+sustainability initiatives
+August 12, 2025
+At Keepit, sustainability is an integral part of how we operate and innovate. We are
+dedicated to reducing our environmental impact while delivering secure, reliable
+SaaS data protection to our customers.
+Keepit’s vendor-independent cloud, dedicated to SaaS data protection and built on a
+blockchain-verified solution, supports key business applications like Microsoft 365,
+Microsoft Entra ID, Google Workspace, and Salesforce.
+Keepit A/S (CVR. No. 30806883), a Danish public limited liability company, privately
+held, and its affiliates (collectively referred to as “Keepit”, “we” or “our”) adhere to the
+same sustainability standards as detailed in this statement. Headquartered in
+Copenhagen, with offices and data centers globally, we are dedicated to combining
+technological excellence with environmentally responsible practices.
+Sustainability in our operations
+At Keepit, we are committed to practicing our business in an environmentally responsible
+way. Our environmental initiatives include:
+• Increasing the energy efficiency of our operations, primarily within our data
+centers and offices.
+• Reducing waste through sustainable office practices and digital workflows.
+• Minimizing our environmental impact across the value chain.
+• Environmental considerations are an essential part of how we operate and evolve
+as a company.
+Efficient and responsible cloud computing
+Cloud computing is energy efficient compared to on-premises computing solutions and
+although the direct impact of SaaS companies on the environment may be relatively low
+compared to other industries, Keepit recognizes the importance of environmental
+sustainability and is aware that data centers consume large amounts of power,
+contributing to our environmental footprint.
+
+--- Page 2 ---
+To minimize this impact, Keepit has taken several proactive measures:
+• We source colocation services from vendors that can document that most, if not
+all, power used for our services comes from renewable sources.
+• Our data centers in EMEA and Americas are powered by 100% renewable
+energy, as documented through green power certificates.
+• Powering data centers with clean energy has always been a core priority, and it
+is our mission to operate as a carbon-free, ecologically responsible company.
+We work closely with our colocation providers, who have implemented various initiatives
+to reduce overall power consumption, furthering our efforts to reduce environmental
+impact. Moreover, Keepit’s core technology, primarily our file system, was built for speed
+and simplicity. As a positive side effect:
+• It leads to lower energy consumption
+• Allows us to utilize 100% of disk capacity without performance degradation
+• Improves overall efficiency of our infrastructure, resulting in reduced
+environmental impact
+Governance and responsible business conduct
+Ethical governance and responsible business conduct are essential to how we operate.
+Keepit adheres to the OECD Guidelines for multinational enterprises on responsible
+business conduct, as amended from time to time (the “OECD Guidelines”). The OECD
+Guidelines set the minimum standards for our operations and are embedded in Keepit’s
+Code of Conduct, which serves as our benchmark for acting ethically, transparently, and
+sustainably, respecting human rights, the environment, and fair business practices.
+Keepit’s Code of Conduct can be found at: https://www.keepit.com/code-of-conduct/.
+Every person working for Keepit, whether permanently or temporarily employed, is subject
+to the Code of Conduct, including management and the board of directors. The code
+applies across all countries in which we operate and to every person working on behalf of
+Keepit. Managers are responsible for ensuring that the Code of Conduct is known and
+upheld by all employees within their respective areas of responsibility. We also expect our
+suppliers and their subcontractors to adhere to the Code of Conduct or equivalent
+standards and to demonstrate compliance through documentation when required.
+© 2025 Keepit. All rights reserved
+
+--- Page 3 ---
+Sustainable workplace culture
+As a SaaS vendor providing backup and recovery solutions, we understand the
+importance of fostering an environmentally conscious culture within our organization.
+Our office policies reflect this commitment, including:
+• Energy-saving measures in our offices
+• Waste recycling programs
+• Digital workflows to minimize paper usage
+We believe that consistent efforts across our teams meaningfully contribute to a greener
+workplace. Our services are designed to be delivered remotely, which reduces the need
+for physical infrastructure and transportation-related emissions. Additionally, we prioritize
+digital communication and documentation. At Keepit, we aim to reduce paper use,
+supporting forest conservation and reducing water and soil pollution tied to paper
+production.
+Continuous commitment
+We believe that raising awareness and fostering a culture of environmental responsibility
+is essential to driving meaningful change. At Keepit, we are proud of the measures we
+have implemented and remain focused on strengthening and expanding our
+sustainability efforts.
+Environmental responsibility is not a one-time initiative, it’s a continuous commitment
+embedded in how we build, grow, and deliver our services. As we evolve, we will
+continue to explore new ways to enhance our sustainability practices and reinforce our
+dedication to environmental responsibility.
+© 2025 Keepit. All rights reserved

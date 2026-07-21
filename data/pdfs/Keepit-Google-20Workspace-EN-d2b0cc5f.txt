@@ -1,0 +1,63 @@
+Source: https://lp.keepit.com/hubfs/product-sheets/Keepit-Google%20Workspace-EN.pdf
+
+--- Page 1 ---
+Keepit Backup and Recovery
+for Google Workspace
+Protect team collaboration with vendor-independent backup
+Google Workspace is the heart of your business productivity and collaboration, storing
+critical data that should be protected. While Google ensures infrastructure uptime, they don’t
+safeguard against all forms of data loss. With the shared responsibility model, “you remain
+responsible for your access controls and the data that you choose to store in the application.”*
+Without third-party backup and long-term retention, there’s a real risk of permanent loss with
+costly operational and financial consequences.
+Keepit offers vendor-independent backup for Google Workspace, keeping your data secure
+and easily recoverable, your business compliant, and your teams productive, no matter what.
+*Source: Shared responsibilities and shared fate on Google Cloud
+Time-saving usability Assured data integrity Unified visibility
+Keepit is quick to set up and sim- Keepit’s immutable backups en- A unified platform for all backups
+ple to use, giving you fast, effort- sure your Google Workspace data across critical SaaS applications
+less Google Workspace recovery can’t be tampered with, giving provides transparency, visibility,
+whenever you need it, no techni- you full confidence in compliance and easy reporting for managers
+cal skills required. and audit-readiness. and leadership.
+The risk The impact Proven benefit
+85% of organizations reported 90% of those reporting data loss Keepit customers were able to reduce the
+at least one data loss incident in incidents suffered consequences, time needed to restore data for priority
+the past 12 months. including business disruption, revenue users by 90% after a data loss incident.
+loss, and reputational damage. Source: Forrester Total Economic Impact Study 2024
+Source: Proofpoint “The 2024 Data Loss
+Landscape” Source: Proofpoint “The 2024 Data Loss Landscape”
+“Keepit is a set-and-forget solution, and
+everything is available from one screen - so we
+can check how much data is being backed up
+and ensure everything is running smoothly.”
+Laura Riley - CEO, Mums In Need
+
+--- Page 2 ---
+Take control of your Google Workspace data with Keepit
+KEY CAPABILITIES
+Instant search Unlimited retention Proactive monitoring
+Find what you need fast with Keepit’s Customize retention for up to 99 years Data Protection and Anomaly
+powerful search. Use filters to locate with no extra costs, including data Detection Dashboards help maintain
+emails, docs, and more. Restore or archiving for inactive users. backup integrity and health and allow
+share with a secure link with one click. for early identification, investigation,
+Highest security and remediation of risks to data.
+Multiple restore options Keepit’s vendor-independent
+Restore objects in bulk or granularly to cloud and immutable-by-design
+guarantee fast and precise recovery. architecture ensure your backups stay
+protected.
+WHAT WE COVER
+All Google
+Google drive Gmail Forms
+shared drives
+Google Items in Find complete
+Google tasks
+calendar the trash coverage here.
+Secure your Google
+Workspace in minutes
+with Keepit.
+Get a demo
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

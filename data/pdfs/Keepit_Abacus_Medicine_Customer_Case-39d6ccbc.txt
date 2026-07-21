@@ -1,0 +1,75 @@
+Source: https://www.keepit.com/Assets/Pdf/Keepit_Abacus_Medicine_Customer_Case.pdf
+
+--- Page 1 ---
+Customer Story: Abacus Medicine
+Keepit Helps Abacus Danish pharmaceutical company Abacus Medicine
+supplies original prescription medicines in Europe through
+Medicine Remain Secure parallel distribution. As part of the vital pharmaceutical
+industry, Abacus Medicine has to comply with a set of
+and Agile strict regulations and safety practices: Data storage is no
+exception to this rule. After an extensive due-diligence
+process, Abacus Medicine chose Keepit to secure its
+business-critical Microsoft 365 data.
+Compared to Veeam, Keepit offers the
+most complete coverage of M365 at a
+competitive price point.
+Nikolaj Friis Krøyer
+Global IT Manager at Abacus Medicine
+Downtime Isn’t an Option
+For a pharmaceutical company, data loss can have
+significant financial and legal consequences. As a result,
+a long data retention period is essential. Keepit provides
+Abacus Medicine with the required 5-year retention
+period.
+Page 1
+
+--- Page 2 ---
+Customer Story: Abacus Medicine
+With Keepit, we can access For Abacus Medicine, downtime isn’t an option. In order
+to adhere to the 3-2-1 strategy, they needed to ensure
+our M365 data at any a true backup—which requires a logical infrastructure
+separate from the primary M365 data—something The
+time- even in the event of Keepit Cloud provides.
+a ransomware attack or
+Complete Coverage
+accidental data loss. Since the pandemic, the 1000+ Abacus Medicine
+employees have been using Teams, leaving a hefty trail of
+files across SharePoint sites.
+Nikolaj Friis Krøyer
+Global IT Manager at Abacus Medicine In the event of data loss, you need
+quick and easy access to backed-up
+files – Keepit makes this possible. It’s
+very comforting to know that Keepit
+backs up all files shared through
+Teams.
+Nikolaj Friis Krøyer
+Granular Restore
+Another feature that sets Keepit apart is the high level of
+granularity. This means that the user can instantly access
+individual files that may have been deleted by accident,
+rather than having to revert to a snapshot of the entire
+dataset.
+The Right Choice for Abacus Medicine
+According to Mr. Krøyer, onboarding was simple and
+efficient. In addition, Abacus Medicine rarely finds the
+need to reach out to Keepit’s support team due to the
+intuitive and user-friendly platform features.
+Keepit is easy and intuitive. It’s pretty
+much a self-contained platform that
+requires very little monitoring.
+Nikolaj Friis Krøyer
+Page 2
+
+--- Page 3 ---
+Customer Story: Abacus Medicine
+Abacus Medicine supplies original prescription medicines in Europe
+through what is generally known as parallel distribution or parallel
+import. The total market for parallel trade of medicines in Europe
+amounts to approximately 5.4 billion euros. Their business model is
+based on the core principle of the free movement of goods in the EU’s
+single market.
+Get in touch with Keepit
+Reach out for a talk and get a free 30-day trial.
++45 8987 7792
+sales@keepit.com
+Page 3

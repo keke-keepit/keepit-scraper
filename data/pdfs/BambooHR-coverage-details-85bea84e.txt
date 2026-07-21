@@ -1,0 +1,208 @@
+Source: https://lp.keepit.com/hubfs/content-assets/Help%20center%20documents/BambooHR-coverage-details.pdf
+
+--- Page 1 ---
+Keepit coverage for
+Coverage details
+© 2025 Keepit. All rights reserved
+
+--- Page 2 ---
+Contents
+Keepit coverage for ......................................................................................................... 1
+Employee tables .............................................................................................................. 2
+Backup ........................................................................................................................ 2
+Restore ........................................................................................................................ 2
+Employee fields ............................................................................................................... 2
+Backup ........................................................................................................................ 2
+Restore ........................................................................................................................ 4
+Company fields ............................................................................................................... 6
+Restore ........................................................................................................................ 6
+Employee tables
+Backup
+“Dependent” tables (e.g., benefits table) cannot be backed up in this iteration as support
+for “benefits” is not included in this release.
+Restore
+- Only an entire table can be selected for restore. Individual rows cannot be
+restored.
+- Hard-restore logic applies to this entity. Table rows that exist in the organization
+in BambooHR but not in the snapshot are deleted.
+- The order in the tables is determined by the ID field. Therefore, it might be
+difficult to predict which row will be the most recent if the date value of any row
+has changed.
+- Rows from the Job Information table that exist only in BambooHR but not in the
+snapshot are not deleted during restore (Invalid permissions error).
+Employee fields
+Backup
+Keepit supports the backup of custom fields, as well as the following whitelisted fields:
+© 2025 Keepit. All rights reserved
+
+--- Page 3 ---
+Whitelist
+ acaStatus
+ addressLineOne
+ addressLineTwo
+ allergies
+ birthplace
+ citizenship
+ city
+ contractEndDate
+ country
+ createdByUserId
+ dateOfBirth
+ dietaryRestrictions
+ eeid
+ eeoJobCategory
+ email
+ employeeNumber
+ ethnicity
+ facebookUrl
+ firstName
+ gender
+ hireDate
+ homeEmail
+ homePhone
+ instagramUrl
+ isSupervisor
+ jacketSize
+ lastChanged
+ lastChangedIso
+ lastName
+ lengthOfService
+ lengthOfServiceYears
+ linkedinUrl
+ maritalStatus
+ middleName
+ mobilePhone
+ nationalId
+ nationality
+ nin
+© 2025 Keepit. All rights reserved
+
+--- Page 4 ---
+ noticePeriod
+ originalHireDate
+ pinterestUrl
+ potentialBonusAnnualAmount
+ potentialBonusAnnualPercentage
+ preTerminationEmploymentStatus
+ preferredName
+ probationEndDate
+ secondaryLanguage
+ selfServiceAccess
+ shirtSize
+ sin
+ ssn
+ state
+ status
+ supervisorEid
+ supervisorEmail
+ supervisorId
+ supervisorName
+ team
+ terminationDate
+ timezone
+ tshirtSize
+ twitterFeed
+ veteranStatus
+ workExtension
+ workPhone
+ zipcode
+Restore
+Whitelist
+Keepit supports the restoration of custom fields, as well as the following whitelisted
+fields:
+ acaStatus
+ addressLineOne
+ addressLineTwo
+ allergies
+© 2025 Keepit. All rights reserved
+
+--- Page 5 ---
+ birthplace
+ citizenship
+ city
+ contractEndDate
+ country
+ dateOfBirth
+ dietaryRestrictions
+ eeoJobCategory
+ email
+ employeeNumber
+ ethnicity
+ facebookUrl
+ firstName
+ gender
+ hireDate
+ homeEmail
+ homePhone
+ instagramUrl
+ jacketSize
+ lastName
+ linkedinUrl
+ maritalStatus
+ middleName
+ mobilePhone
+ nationalId
+ nationality
+ nin
+ noticePeriod
+ originalHireDate
+ pinterestUrl
+ preferredName
+ probationEndDate
+ secondaryLanguage
+ selfServiceAccess
+ shirtSize
+ sin
+ ssn
+ state
+ status
+ team
+ terminationDate
+ tshirtSize
+© 2025 Keepit. All rights reserved
+
+--- Page 6 ---
+ twitterFeed
+ veteranStatus
+ workExtension
+ workPhone
+ zipcode
+Company fields
+Restore
+We do not support the restoration of standalone fields.
+Limitations
+Most list fields (dropdowns) are restorable, except for the following, which cannot be
+restored:
+ Location
+ FLSA Code
+ Termination Type
+ Eligible For Re hire
+ Ethnicity
+ EEO Job Category
+ Veteran Status
+ Benefit Class: Change Reason
+ Disability
+ Pay Schedule
+ Gender Identity
+ Pronouns
+ Vaccination Status
+ Testing Tracker: Results
+ Testing Tracker: Test Type
+ Vaccination History: Vaccination Status
+ Vaccination History: Dosage
+ Regrettable or Non Regrettable
+ Equity: Grant Type
+ Equity: Vesting Schedule
+ State Tax Work Address Type
+ Work In Tax State
+ Work In Tax Unemployment State
+ State Withholding Type
+ State Unemployment Insurance Type
+ Employee
+ Project
+© 2025 Keepit. All rights reserved
+
+--- Page 7 ---
+ Task
+ Pay Group
+© 2025 Keepit. All rights reserved

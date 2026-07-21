@@ -1,0 +1,95 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-LAUDA-Use-Case-DE.pdf
+
+--- Page 1 ---
+Kundenreferenz
+Keepit unterstützt LAUDA
+beim Schutz kritischer
+Entra-ID-Daten
+
+--- Page 2 ---
+Kundenreferenz:
+LAUDA
+LAUDA, ein deutscher Anbieter von Temperiergeräten und -systemen, suchte nach einer
+zuverlässigen Backup- und Recovery-Lösung für seine gesamte Microsoft-365-Umgebung.
+Keepit bot eine umfassende und benutzerfreundliche Lösung, mit der sich kritische Daten
+schnell wiederherstellen lassen und gleichzeitig die Einhaltung zunehmender regulatorischer
+Anforderungen sichergestellt wird.
+Zuverlässigkeit und Compliance als Backup-Management und Disaster Recovery
+entscheidende Faktoren spezialisiert und entwickelt seine Services so,
+„Keepit hat uns mit seiner Benutzerfreundlichkeit, dass Kunden die Einhaltung von Vorschriften
+zuverlässigen Datensicherung und schnellen wie DSGVO und NIS2 einfacher erfüllen
+Wiederherstellungsoptionen überzeugt. können. Keepit betreibt eigene Rechenzentren
+Besonders geschätzt haben wir auch die in sieben Regionen und gewährleistet so
+unabhängige Datenspeicherung außerhalb der Datensouveränität.
+Microsoft-Infrastruktur sowie die Einhaltung der
+Schnelles und granulares Recovery kombiniert
+europäischen Datenschutz-Grundverordnung
+mit einer benutzerfreundlichen Oberfläche
+(DSGVO)“, sagt Jürgen Irmer, Manager IT-
+Keepit konnte LAUDA eine Plattform bereitstellen,
+Infrastructure bei LAUDA Dr. R. Wobser GmbH &
+die alle erforderlichen Funktionen umfasst,
+Co. KG.
+darunter umfassende tägliche Backups, schnelle
+Datensicherung und -wiederherstellung sind ein und granulare Wiederherstellungsoptionen, eine
+zentraler Bestandteil von Compliance-Strategien. benutzerfreundliche Oberfläche, leistungsstarke
+Keepit, in Europa gegründet und betrieben, istauf Suchfunktionen sowie detaillierte Audit-Logs.
+„Keepit hat uns mit seiner Benutzerfreundlichkeit,
+zuverlässigen Datensicherung und schnellen
+Wiederherstellungsoptionen überzeugt.“
+- Jürgen Irmer
+Manager IT-Infrastructure
+LAUDA
+
+--- Page 3 ---
+Kundenreferenz:
+LAUDA
+Die Keepit-Plattform erfordert keine Schulung
+und stellt sicher, dass jeder Schritt für Anwender
+einfach ist – von der Einrichtung bis zur
+kontinuierlichen Überwachung.
+„Keepit stellt sicher, dass wir den
+Zugriff auf Entra ID im Notfall schnell
+wiederherstellen können.“
+- Jürgen Irmer
+Manager IT-Infrastructure
+LAUDA
+Über LAUDA
+Schutz von Microsoft Entra ID als zentrale LAUDA ist weltweit führender Anbieter präziser
+Priorität Temperierlösungen und Messinstrumente. Das
+Unternehmen mit Hauptsitz in Lauda-Königshofen
+Mit Keepit kann LAUDA jederzeit sicher und
+entwickelt seit 1956 Temperiergeräte und -systeme,
+zuverlässig auf geschäftskritische Microsoft-
+die eine zentrale Rolle in wichtigen Anwendungen
+Daten zugreifen. spielen – beispielsweise in der Elektromobilität, der
+Pharma- und Biotechnologie, der Halbleiterindustrie
+„Der Verlust des Zugriffs auf Microsoft Entra
+sowie in der Medizintechnik.
+ID würde unsere gesamte Microsoft-365-
+Umgebung lahmlegen“, sagt Jürgen Irmer und
+ergänzt: „Keepit stellt sicher, dass wir den Zugriff
+Höhere Effizienz für die IT-Abteilung
+auf Entra ID im Notfall schnell wiederherstellen
+Die Keepit-Plattform bietet IT-Abteilungen eine
+können.“
+kosteneffiziente Möglichkeit, Daten zuverlässig
+Keepits branchenführende Abdeckung für zu sichern und wiederherzustellen, indem sie
+Microsoft Entra ID bietet den umfassendsten die hohen Kosten für langfristige On-Premise-
+Schutz für Objekte und Richtlinien, einschließlich oder Cloud-Speicherlösungen reduziert. Durch
+Intune, BitLocker und LAPS. Dadurch können die Sicherung mehrerer Workloads auf einer
+Unternehmen sicher sein, dass sie ihre Daten Plattform behalten Unternehmen jederzeit den
+jederzeit wiederherstellen können. vollständigen Überblick über ihre Daten.
+„Ich würde empfehlen, die Bedeutung von SaaS- „Wir konnten die Effizienz unserer IT-Abteilung
+Backups keinesfalls zu unterschätzen. Keepit steigern, indem wir zusätzliche Backup-
+bietet eine unkomplizierte, aber leistungsstarke Prozesse eliminiert haben“, sagt Jürgen
+Lösung. Besonders wichtig ist es, auf Backup- Irmer. „Früher nutzten wir viele verschiedene
+Funktionen für Entra ID zu achten – dieser Bereich Produkte, die jeweils ihren Zweck erfüllten, aber
+wird oft übersehen, ist aber entscheidend für separat konfiguriert und überwacht werden
+die Aufrechterhaltung des Geschäftsbetriebs“, mussten. Keepit bot uns eine umfassende und
+ergänzt Jürgen Irmer. adds Jürgen Irmer. benutzerfreundliche Lösung.“
+Your data. Here today. Here tomorrow.
+Keepit bietet eine hochmoderne SaaS-Datenschutzplattform, die speziell für die Cloud entwickelt wurde,
+indem sie Daten in einer anbieterunabhängigen Cloud sichert, um geschäftskritische Anwendungen zu
+schützen, die Cyber-Resilienz zu stärken und die Datensicherung zukunftssicher zu machen.
+© 04/07/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

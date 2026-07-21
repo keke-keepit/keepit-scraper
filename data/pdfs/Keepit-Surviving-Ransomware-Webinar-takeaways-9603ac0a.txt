@@ -1,0 +1,124 @@
+Source: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Surviving-Ransomware-Webinar-takeaways.pdf
+
+--- Page 1 ---
+Surviving ransomware:
+Data protection insights
+and strategies
+ESG conducted a ransomware study for the
+What is being affected by
+second time in early 2023 (2023 Ransomware
+ransomware attacks?
+preparedness: Lighting the Way to Readiness
+and Mitigation) surveying 600 enterprise IT and The study found that the top target areas for
+cybersecurity professionals across North America attackers include key core IT infrastructure,
+and Western Europe. On 28 November 2023, storage systems, network connectivity, messaging
+Keepit and ESG organized an industry webinar to and collaboration infrastructure, and identity
+discuss the findings of the report. The webinar and access. Cloud-based data is an increasingly
+panel included Pavul Robichaux, Microsoft MVP and popular target for ransomware attacks as well as
+Keepit’s Senior Director of Product Management, the data protection infrastructure and
+Dave Gruber, Principal Cybersecurity Analyst, ESG mechanisms themselves.
+and Christophe Bertrand, Practice Director, ESG.
+Backups are a key target for ransomware attacks as
+The report found that ransomware attacks are victims will be more likely to pay the ransom if their
+becoming so prevalent that it’s a matter of when, ability to recover data is affected. However, there’s
+not if. no guarantee that all your data will be recovered
+after a successful ransomware attack. The ESG
+• 75% of organizations had a successful
+study showed that only 16% of respondents were
+ransomware attack in the last 12 months.
+able to recover 100% of their lost data.
+• 16% of organizations experienced a
+ransomware attack on a weekly basis.
+Backups are a key target
+Level of concern that data protection Nearly one in three express
+copies could also become infected or serious concerns about the
+corrupted by ransomware attacks security of their backups
+Column2
+29% very
+concerned
+45%
+somewhat
+concerned
+22% not very
+concerned
+4% not at all
+concerned
+Very concerned Somewhat concerned Not very concerned Not at all concerned
+
+--- Page 2 ---
+Typically, not all data is recovered
+Percentage of data organizations were able to recover
+3% 11% 28% 42% 16%
+Recovered Recovered Recovered Recovered Recovered
+25% or less 26% to 50% 51% to 75% 76% to 99% 100%
+of their data of their data of their data of their data of their data
+How to build security strategies that protect
+from ransomware attacks?
+Key terms
+1. Invest in preventative security controls. For example,
+network security, endpoint security, backup and
+Air gapping gives you a level
+of protection that makes your disaster recovery infrastructure security and
+backup somewhat tamper proof. e-mail security are great places to start.
+It means disconnecting the
+2. Test your capabilities continuously, including your
+backup copies from mainstream
+production – ensuring they don’t recovery operations. This also helps you to understand
+share the same risk profile. what data is mission critical for your company and
+what the sequence is to recover lost data.
+Immutability means your data
+source can’t be tampered
+3. Be confident in your disaster recovery plans, including the
+with nor deleted.
+immutability of your backup data. A good disaster recovery
+plan is jointly prepared within the company to ensure all sides
+of data protection and cyber security are considered.
+Only 40% organizations
+“The research showed that
+said they take extra
+very few people had the
+measures to protect all of
+ability to recover 100%
+their backups.
+of mission critical data. “
+
+--- Page 3 ---
+What does a winning ransomware recovery
+and data protection strategy look like?
+Data protection checklist Evaluate your current ransomware
+recovery plan and data
+ຉ 100% of your mission-critical
+protection strategy
+data is protected.
+ຉ How do you score on the data
+ຉ Your backups are immutable
+protection checklist?
+and tamper-proof.
+ຉ How much of your mission-critical data
+ຉ Your backups are stored on a
+are you confident you can recover
+separate, air-gapped infrastructure.
+ຉ Are there additional steps you can
+ຉ You regularly test and verify
+take to improve your resilience and
+your recovery processes.
+strengthen your last line of defense?
+Here in Keepit we:
+Are a completely independent
+Deploy leading security measures,
+backup provider with no
+such as air gapping, immutability,
+dependencies on any public cloud.
+and encryption both in transfer
+Vendor independence means you’ll
+and at rest
+always have access to your data,
+even when disaster strikes
+Store data in seven regions, in data Are ISO/IEC 27001:2013 certified -
+centers that don’t have any shared the entire company and all locations
+components with any public
+cloud provider
+Continue the conversation
+Watch the webinar now on demand
+Watch it now
+Read the ESG report

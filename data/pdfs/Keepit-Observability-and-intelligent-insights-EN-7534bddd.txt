@@ -1,0 +1,87 @@
+Source: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Observability-and-intelligent-insights-EN.pdf
+
+--- Page 1 ---
+Observability and
+intelligent insights
+with Keepit
+The integrity of backups is fundamental for recovery when data is lost and needs to be restored.
+But even without a data loss incident, documenting backup activities is now a key requirement
+for compliance and regulatory purposes. With the growing adoption of SaaS applications and
+increasing regulatory pressure, having a single platform to support multi-SaaS environments
+becomes a game changer.
+As a cloud-native platform purposefully built for SaaS data protection, Keepit offers a set
+of observability, analytics, insights, and reporting capabilities that ensure the health and
+integrity of backups, identify potential risks to data, and provide a single pane of glass for SaaS
+backup and recovery activities. It saves time, reduces complexity, and simplifies reporting and
+compliance.
+In this factsheet, you’ll find how our capabilities support observability and intelligent insights.
+We’ll walk you through common challenges you might encounter in this context and describe
+how Keepit can solve these challenges in a more intelligent way.
+The challenge: Having a complete view of backup activities for a growing number of SaaS applications
+managed by different teams across the business
+Keepit’s solution
+Unified platform across SaaS environments
+With growing coverage of critical SaaS applications, the Keepit platform offers centralized visibility and
+transparency over backup and recovery activities to functional managers and their teams. Expanding
+beyond the traditional coverage of Microsoft 365 and Salesforce, Keepit also offers backup and recovery
+services for Microsoft Entra ID, Power Platform, Jira and many more. We are continuously adding new
+services so we can offer you the best, most complete end-to-end SaaS data protection service.
+See which applications we currently protect here.
+
+--- Page 2 ---
+The challenge: Ensuring that backups are healthy and running accordingly so you are ready to recover
+in the case of a data loss incident
+Keepit’s solution
+Healthy backups for fast recovery
+Keepit’s job monitor as well as the monitoring and data protection dashboards give you an overview of
+backup configuration issues and backup performance. To support continuous improvement, repeatedly
+skipped items are automatically flagged so you can easily review them and take action.
+The notification system complements these capabilities, always keeping you informed and driving fast action.
+The data compare capability makes it easy to identify the most appropriate version for recovery.
+Together, these insights help address issues and ensure backup integrity and health. With healthy backups,
+you can be confident that your data is ready for recovery whenever you need it.
+The challenge: Identifying risks to your data quickly
+Keepit’s solution
+Full insights into risks to your data
+Keepit monitoring and anomaly detection help to identify potential threats and notify you when significant
+changes occur to your backup data. It helps you proactively investigate and remediate issues affecting
+your data and your backups.
+The challenge: Documenting and reporting on backup activities for transparency, regulatory, and
+compliance purposes across SaaS applications
+Keepit’s solution
+Complete transparency and confidence
+Keepit audit log and dashboards guarantee transparency for managers and leaders. Reporting
+capabilities equip you with documentation to confidently demonstrate the integrity of your backups and
+regulatory compliance.
+The challenge: Integrating data from backup and recovery activities into other systems
+your organization relies on
+Keepit’s solution
+API-only architecture
+Our API-only architecture allows you to integrate your backup and recovery into other systems, such as
+SIEM to support integrating and streamlining business processes.
+Together, these capabilities give you complete confidence that the data from your most critical
+SaaS applications is not only securely backed up but easily recoverable when you need it, enabling
+you to prove this fact to regulators and auditors no matter what.
+
+--- Page 3 ---
+Keepit continuously develops its observability, analytics, insights, and reporting capabilities to help
+its customers’ ever-evolving needs. See how we helped a customer recover from a cyberattack
+that compromised their Microsoft 365 user accounts and supported the incident postmortem
+process by tracing back when and where changes on privileged Microsoft Entra ID objects had first
+occurred, down to the attribute level.
+“More than a simple backup tool, Keepit is an independent
+SaaS cyber resilience solution encompassing powerful
+recovery, cybersecurity and compliance features.”
+Siddick Elaheebocus, Founder and CEO of INNOVISION
+Keepit has received recognition for its leading backup and recovery platform. Keepit took home
+the top prize at Cybersecured, Global Infosec, and the Cloud Awards 2025 for disaster recovery
+and business continuity.
+If you’d like to discuss how Keepit
+can help your unique data protection
+needs, let’s have a conversation.
+Let’s talk
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

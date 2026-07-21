@@ -1,0 +1,133 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Flow-Control-Group-customercase-EN.pdf
+
+--- Page 1 ---
+Customer case
+Flow Control Group strengthens
+identity and multi-application
+SaaS protection with Keepit
+
+--- Page 2 ---
+Customer case:
+Flow Control Group
+When your company grows through acquisition, complexity comes with it. For Flow Control
+Group, a solutions provider for flow control and industrial automation, that complexity shows up
+in dozens of independently run brands, different IT environments, and a steady stream of new
+systems coming online. The challenge isn’t just growth — it’s making sure data stays protected at
+every stage.
+Grant Walsh, director of IT for infrastructure A maturity shift toward comprehensive SaaS
+operations and security, and Jonathan Carr, backup
+cyber security and compliance manager, are Like many organizations, Flow Control Group
+responsible for securing a fast-expanding initially focused on backing up traditional
+portfolio. Today, 70 to 80 brands have already infrastructure such as file servers and local
+been migrated to Flow Control Group’s primary systems. As more critical operations moved into
+domain. “We’re a Microsoft shop,” Carr explains. SaaS applications, the team recognized a gap.
+“But as we’ve matured as an organization, we
+They needed more than basic backup. They
+realized we needed to take more ownership of
+wanted independent protection across multiple
+our SaaS backups.”
+SaaS applications, stronger compliance support,
+The first step was protecting Microsoft Entra and the flexibility to protect newly acquired
+ID with Keepit. Once the team saw how quickly brands that hadn’t yet been fully integrated.
+backups started and how easy it was to deploy
+connectors, they expanded protection across
+Microsoft 365, Salesforce, Okta, Power BI, and
+Power Platform applications.
+“Having a centralized platform is very valuable.
+Having everything in one spot — where legal, HR,
+and our Salesforce team can access what they
+need — is a big advantage.”
+- Grant Walsh
+Director of IT, infrastructure operations and security
+Flow Control Group
+
+--- Page 3 ---
+Customer case:
+Flow Control Group
+After discovering Keepit at a conference, Carr The speed of initial backups was an unexpected
+began researching further. What stood out was surprise. With terabytes of data, Carr thought the
+Keepit’s ability to back up critical SaaS applications process would take longer than it did. “Keepit
+independently of the vendor cloud, all within a did it faster than I thought it would,” he says.
+single platform.
+Extending protection to acquired brands
+Today, Flow Control Group protects Microsoft Flow Control Group does not immediately
+Entra ID, Microsoft 365, Salesforce, Okta, Power migrate every acquired company to its
+BI, and components of the Power Platform family, primary domain. Many of the brands are small
+including Power Automate, with Keepit. organizations with limited internal IT resources
+and may remain on existing systems during
+Easy rollout, immediate impact
+transition. Keepit allows the team to extend SaaS
+Deployment was straightforward. The team
+protection even before full migration.
+began with Entra ID and quickly expanded from
+there. Being able to say, “We’ve backed up your
+Microsoft 365,” provides added assurance
+They added Microsoft 365 workloads,
+while those brands are brought into the broader
+Salesforce, Teams, OneDrive, and additional
+ecosystem. This layered approach strengthens
+connectors individually, making the rollout
+security during a potentially vulnerable transition
+manageable. Some connectors were
+period and reinforces Flow Control Group’s
+implemented during the proof of concept, and
+commitment to protecting every acquisition
+the rest followed shortly after.
+from day one.
+“The Keepit set-up process was super simple.
+Once we saw how easy it was to add that
+connector and how fast the backups started,
+we just kept going.”
+- Grant Walsh
+Director of IT, infrastructure operations and security
+Flow Control Group
+
+--- Page 4 ---
+Customer case:
+Flow Control Group
+Supporting legal and business teams directly
+Backup wasn’t the only driver. Compliance and
+legal workflows also played a major role in their
+decision to use Keepit.
+Previously, the legal team relied on searches that
+required IT involvement. Legal would submit a
+request, IT would run the search, download the
+data, and deliver it back — a time-consuming
+process.
+With Keepit, the chief legal officer now has direct
+access and can conduct research independently.
+One particularly impactful feature is public links.
+About Flow Control Group
+IT can generate secure, password-protected links
+Flow Control Group (FCG) is the leading solutions
+to specific backup folders, set expiration dates,
+provider focused on technically oriented products
+and share them with outside counsel. This allows
+and services for flow control, industrial automation
+external reviewers to work from backup data and life sciences with locations throughout North
+without exposing live mailboxes or requiring hours America.
+of manual IT effort. “Keepit’s secure, password-
+protected public links are a huge time-saver for
+everyone,” says Carr.
+As Flow Control Group acquires new brands and
+Identity protection and predictable pricing expands its SaaS footprint, Keepit provides a
+Identity and access management are critical consistent foundation — one platform protecting
+across Flow Control Group’s environment. multiple applications, strengthening identity
+The company uses Okta as its primary identity resilience, and supporting long-term compliance
+provider while maintaining deep integration with and growth.
+Microsoft technologies. Backing up both Okta
+and Entra ID ensures business continuity in the “As we grow, we don’t want costs to keep
+event of tenant corruption or data issues. escalating. Knowing we can store what
+we need long term with Keepit gives us
+Finally, predictable economics played a key role.
+confidence.”
+Keepit’s approach to unlimited data storage and
+long-term retention gives the team confidence - Grant Walsh
+that protection will scale as the organization Director of IT, infrastructure operations and security
+Flow Control Group
+continues to grow.
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. www.keepit.com
+© 04/06/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

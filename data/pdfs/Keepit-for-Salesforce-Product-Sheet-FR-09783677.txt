@@ -1,0 +1,72 @@
+Source: https://lp.keepit.com/hubfs/product-sheets/Keepit-for-Salesforce-Product-Sheet-FR.pdf
+
+--- Page 1 ---
+Sauvegarde et restauration
+Keepit pour Salesforce
+Limite l’impact et la complexité de la restauration des données et processus
+La corruption des données dans Salesforce peut survenir en raison d’écrasements accidentels,
+d’erreurs d’intégration ou de défaillances. La restauration est alors complexe et fastidieuse.
+Sans fonctionnalités de restauration précises, les risquent sont la perte de données critiques,
+la rupture des relations commerciales ou la restauration d’informations inutiles. Des procédures
+incomplètes, manuelles ou obsolètes sont source de perturbations opérationnelles et de
+non-conformité.
+Avec ses fonctionnalités intelligentes, Keepit assure la sécurité et la récupération des données
+et métadonnées, tout en garantissant la visibilité sur l’état des sauvegardes sur une plateforme
+unique pour toutes vos applications SaaS.
+Ayez confiance en votre Identifiez et prévisualisez Options de restauration flexibles
+capacité de restauration vos données facilement Restaurez vos données avec flexibilité
+Gardez toutes vos données Identifiez rapidement les données et de manière granulaire, depuis
+et métadonnées à portée de à récupérer à l’aide de la recherche des fichiers spécifiques jusqu’à des
+main grâce à des sauvegardes intelligente et de la prévisualisation instantanés ponctuels.
+complètes et automatisées. des données, métadonnées, fichiers
+et pièces jointes.
+Les risques Une efficacité prouvée
+50% des clients de Salesforce n’ont pas pu récupérer Les clients Keepit ont pu réduire de 90% le temps nécessaire
+leurs données perdues ou corrompues dans les délais. à la restauration des données perdues pour les utilisateurs.
+Source: Rapport Forrester sur l’état de la protection des données SaaS Source: Rapport Forrester sur l’impact économique total 2024
+«Nous sommes parvenus à répartir les
+responsabilités en matière de protection
+des données entre différentes équipes.
+Elles peuvent ainsi travailler efficacement
+et de manière indépendante.»
+Michael Bojko, System Engineer. Porsche Informatik
+© Keepit. All rights reserved. Version 1.1
+
+--- Page 2 ---
+Contenu de la solution Keepit pour Salesforce
+FONCTIONNALITÉS CLÉS
+Restauration granulaire des enregistrements, des Comparaison des instantanés de sauvegarde pour
+champs et des données associées spécifiques. identifier les enregistrements ajoutés, modifiés ou
+supprimés et ainsi permettre une restauration précise.
+Restauration ponctuelle des données à un
+état précis à n’importe quel état antérieur Restauration avec réaffectation de l’utilisateur et
+afin d’annuler les modifications accidentelles des données en fonction des utilisateurs actifs pour
+ou la corruption des données. que les administrateurs puissent les réaffecter à
+différentes données afin de maintenir des associations
+Restauration sélective des métadonnées
+appropriées et d’assurer un bon fonctionnement.
+uniquement nécessaires sans affecter
+l’ensemble de l’environnement. Remplissage de sandbox pour alimenter les
+environnements de test avec des données
+Restauration des relations parent-enfant
+sélectionnés, tout en préservant les relations.
+pour récupérer les enregistrements tout en
+préservant les relations parent-enfant.
+NOTRE COUVERTURE
+Données Métadonnées Fichiers et pièces jointes Clouds professionnels
+• Données standard • Toutes les métadonnées • Pièces jointes • Communications
+• Données personnalisées disponibles via l’API • Fichiers • Biens de consommation
+sont incluses dans la
+• Relations parent/enfant • Documents de référence • Services financiers
+sauvegarde
+illimitées • Health cloud
+• Loyalty cloud
+Découvrez à quel point Keepit est
+simple et facile d’utilisation
+Réservez une démo
+Your data. Here today. Here tomorrow.
+Keepit fournit une plateforme de protection des données SaaS de nouvelle génération spécialement conçue
+pour le cloud en sécurisant les données dans un cloud indépendant afin de protéger les applications cloud
+essentielles, renforcer la résilience cybernétique et garantir une protection des données pérenne.
+Pour plus d’informations, visitez www.keepit.com ou suivez Keepit sur LinkedIn.
+© 2025 Keepit. All rights reserved.

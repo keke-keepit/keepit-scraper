@@ -1,0 +1,123 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-JACOPS-customer-case-EN.pdf
+
+--- Page 1 ---
+Customer case
+Keepit helps JACOPS
+strengthen resilience and
+business continuity
+
+--- Page 2 ---
+Customer case:
+JACOPS
+As an infrastructure-driven organization active across construction, utilities, and technical
+services, JACOPS operates in environments where downtime isn’t just inconvenient — it can
+directly impact projects, safety communication, and client commitments. With a hybrid IT
+landscape that’s increasingly Microsoft cloud-centric, the Belgian company needed a data
+protection strategy built for resilience, compliance, and long-term growth.
+Geoffrey Desmet, IT infrastructure manager at Moving beyond native Microsoft retention
+JACOPS, oversees end-to-end IT operations, Before implementing Keepit, the IT team
+working across internal teams, business units, and faced clear gaps. Microsoft’s native retention
+external partners to ensure operational continuity capabilities were limited, restoration processes
+and a strong security posture. were complex, and protection across Teams and
+SharePoint lacked consistency. Most importantly,
+“We handle sensitive operational data, there was no independent backup environment
+project documentation, and outside the Microsoft tenant.
+communication with government and
+The team needed a solution that would go beyond
+enterprise clients. That means integrity,
+built-in retention and deliver fast, straightforward
+retention, and recoverability aren’t
+restore for Teams, SharePoint, and OneDrive.
+optional — they’re core requirements.”
+It also had to provide immutable protection
+- Geoffrey Desmet against ransomware, reduce administrative
+IT Infrastructure Manager overhead, establish vendor independence, and
+JACOPS
+offer predictable, transparent pricing.
+“Vendor independence is crucial for us. If the
+Microsoft tenant is compromised, we need to
+know our backup is completely separate and
+unaffected.”
+- Geoffrey Desmet
+IT Infrastructure Manager
+JACOPS
+
+--- Page 3 ---
+Customer case:
+JACOPS
+Business continuity was the driving force behind EU-based storage was essential for regulatory
+those requirements. In JACOPS’ sector, downtime compliance and simplifying data protection
+disrupts field coordination, planning, and impact assessments. It also reinforces trust with
+contractual timelines. Reliable access to data — clients who expect EU-only data processing.
+and the ability to recover it quickly — is essential.
+Vendor independence was equally important. In
+“We rely heavily on Teams, SharePoint, and the event of a Microsoft tenant compromise,
+OneDrive every day,” Desmet explains. “If we can’t outage, ransomware attack, or identity breach,
+restore quickly — whether it’s a full site, a specific JACOPS needed confidence that its backups
+file, or even a Teams conversation — productivity would remain isolated and unaffected.
+drops immediately.”
+Security architecture further reinforced that
+Why vendor independence and EU data decision. The IT team required write-once
+residency mattered immutable backup copies, strong encryption,
+Two factors stood out during the evaluation and clear separation from production systems to
+process: European data residency and true vendor address modern ransomware threats and reduce
+independence was important to the Belgian exposure to insider risks.
+company.
+“Restore times have gone from hours to
+minutes with Keepit. We now have full Microsoft
+365 coverage, zero manual retention overhead,
+and much better visibility into our backups.”
+- Geoffrey Desmet
+IT Infrastructure Manager
+JACOPS
+
+--- Page 4 ---
+Customer case:
+JACOPS
+Immutable protection with fast, granular restore
+Keepit delivered the independent, immutable
+backup environment JACOPS was looking for,
+along with full Microsoft 365 coverage and rapid,
+granular recovery.
+Backups run automatically. Retention policies are
+enforced without manual intervention. Restores
+are simple and precise — whether recovering an
+entire site, a specific file, or an individual Teams
+conversation. The intuitive interface enables the IT
+team to locate, preview, and restore data in just a
+few steps.
+Stronger posture, greater confidence About JACOPS
+Before Keepit, restore times JACOPS NV is a Belgian infrastructure-focused
+were inconsistent, retention management organization active in construction, utilities, and
+technical services. The company delivers complex
+required manual handling, and overall
+infrastructure and technical projects across
+risk exposure was higher. Today,
+multiple domains, supporting both public and
+JACOPS operates with compliant retention private sector clients. With distributed teams and
+policies, automated long-term backups, and a strong operational footprint, JACOPS combines
+field expertise with modern digital infrastructure
+significantly improved recoverability.
+to maintain high standards of quality, safety, and
+The impact extends beyond IT. Faster recovery compliance.
+minimizes disruption for distributed teams and
+strengthens overall ransomware resilience. With
+a scalable, cloud-engineered platform in place,
+For JACOPS, backup is no longer a reactive
+JACOPS is well positioned to support continued
+safeguard. It’s a strategic layer of protection —
+growth across Microsoft services and other SaaS
+built to support critical infrastructure projects
+applications.
+today and safeguard the company’s digital future.
+JACOPS discovered Keepit through industry
+recommendations, peer reviews, vendor
+comparisons, and positive references
+within the Microsoft partner ecosystem. The
+decision ultimately came down to resilience,
+independence, and operational simplicity.
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. www.keepit.com
+© 03/17/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

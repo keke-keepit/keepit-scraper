@@ -1,0 +1,136 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Porsche-Use-Case-EN.pdf
+
+--- Page 1 ---
+Customer case:
+Porsche Informatik GMBH
+Porsche Holding Salzburg
+migrates to the cloud,
+chooses Keepit for
+ransomware protection
+
+--- Page 2 ---
+Customer case:
+Porsche Informatik GMBH
+Initially seeking SaaS data backup to protect
+their company from ransomware threats,
+Porsche Holding Salzburg became a customer
+with Keepit to ensure that their 30,000 user
+accounts were secure and protected from
+data loss.
+“More companies are
+Andreas Fackler and Michael Bojko, both System
+affected by ransomware
+Engineers at Porsche Informatik, share Porsche
+globally. By working with
+Holding’s story of migrating their data from on-
+Keepit, we now have a
+prem to the cloud. Read the full story to learn
+solution if an event like this
+how Keepit delivers SaaS cloud data protection
+ever arose.”
+on a global scale for Porsche Holding.
+- Andreas Fackler
+Making the switch: from on-prem to the cloud System Engineer
+Porsche Informatik
+After moving from a locally installed, on-prem
+mail system to Microsoft 365, Porsche Holding
+was on the lookout for a SaaS cloud backup
+solution. After researching the SaaS data backup
+solutions available, Keepit’s user-friendly, trans-
+parent backup and recovery process was the
+most appealing option for Porsche Informatik.
+“We were searching for a SaaS
+solution, and we didn’t want to back up
+all the data on-prem. Keepit’s simple,
+easy-to-use cloud backup delivered
+what we were looking for.”
+- Andreas Fackler
+System Engineer
+Porsche Informatik
+
+--- Page 3 ---
+Customer case:
+Porsche Informatik GMBH
+“We have been able to split the
+responsibilities for data protection among
+different teams. This setup allows teams to
+work efficiently and independently.”
+- Andreas Fackler
+System Engineer
+Porsche Informatik
+Global scalability provides key benefits
+With over 30,000 email accounts stored in their
+system, Porsche Holding needed a solution that
+was scalable. Keepit’s per user pricing model
+made it simple and cost-effective to manage
+accounts.
+The solution also allows their colleagues in other
+teams (SharePoint, Teams, OneDrive) to manage
+and restore their own data when necessary. This About Porsche Holding
+level of autonomy allows every team to manage Salzburg
+their data, without needing support.
+Porsche Holding GmbH is the largest and
+most successful distributor in Europe. The
+Approach Salzburg-based company was founded
+in 1947 and operates today in 22 countries
+Keepit’s European headquarters was also a key
+throughout Europe, as well as in Colombia,
+selling point. In fact, Porsche Holding’s security
+Chile, China, Malaysia, Singapore and
+department recommended that the data be Japan.
+stored in the same location as the company.
+With data centers in Germany and Denmark,
+Porsche Holding could ensure that their data
+would be stored in Europe. Of course, Keepit
+always follows the 3-2-1 principle of backup,
+where 2 copies of data are stored at separate
+locations, and one copy is backed up in an off-
+site, private cloud.
+This principle ensures that their data can survive
+any calamity, making it impenetrable to ran-
+somware and accidental deletion.
+
+--- Page 4 ---
+Customer case:
+Porsche Informatik GMBH
+Fast and simple onboarding leads to a smooth start
+After a quick, one-week onboarding process,
+Porsche Holding shared their satisfaction with the
+simple setup and friendly customer service.
+They felt supported in the process, highlighting that
+the Keepit team checked in regularly to make sure
+that their onboarding was going smoothly.
+“Based on official guidance from our security
+department, it was important to have data
+centers in the same location as our company.
+Keepit’s European-based data centers were
+the answer. (...) We felt perfectly supported in
+the onboarding process, which only took one
+week. If we have any questions, we always get
+an answer. The Keepit team is trustworthy and
+friendly.”
+- Michael Bojko
+System Engineer
+Porsche Informatik
+
+--- Page 5 ---
+Learn how Keepit can
+securely back up and
+recover your data
+Request demo
+Keepit provides next-level SaaS data protection Headquartered in Copenhagen with offices and data
+purpose-built for the cloud, by securing data in a centers worldwide, over ten thousand companies
+vendor-independent cloud to safeguard essential trust Keepit for its ease of use and effortless backup
+business applications, boost cyber resilience and and recovery of cloud data.
+future-proof data protection.
+HQ - Copenhagen Dallas, Texas London Munich
+Denmark United States United Kingdom Germany
+Keepit A/S Keepit USA Inc. Keepit Technologies UK, LTD. Keepit Germany GmbH
+Per Henrik Lings Allé 4, 7. 3232 McKinney Avenue Suite 820 Warnford Court Maximiliansplatz 22
+2100 København, Denmark Dallas TX 75204, USA 29, Throgmorton Street 380639 München
+CVR: 30806883 TIN: 85-358 6335 London EC2N 2AT, UK Amtsgericht München,
++45 8987 7792 +1 469-461-4892 Company reg. no.: 13785045 HRB 270094
+sales@keepit.com sales@keepit.com sales@keepit.com Geschäftsführer Morten Felsvang
+sales@keepit.com
+www.keepit.com
+© 2024 Keepit. All rights reserved.

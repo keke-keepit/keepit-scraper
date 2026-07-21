@@ -1,0 +1,106 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Oxford-University-customer-case-FR.pdf
+
+--- Page 1 ---
+Customer case
+Oxford University Innovation Ltd.
+choisit Keepit pour protéger et gérer
+ses actifs de propriété intellectuelle
+
+--- Page 2 ---
+Customer case:
+Oxford University Innovation Ltd.
+Depuis sa migration vers le cloud et l’adoption de solutions SaaS comme Microsoft 365, Oxford
+University Innovation Limited (OUI) utilise la technologie propriétaire de sauvegarde cloud-to-
+cloud de Keepit pour protéger sa propriété intellectuelle et restaurer ses données sensibles. En
+cas de violation ou de perte, ces données pourraient coûter à l’une des institutions académiques
+les plus prestigieuses au monde des centaines de millions de livres sterling.
+Organisation La gestion des actifs de propriété intellectuelle
+L’Université d’Oxford est l’un des établissements implique de conserver les dossiers, y compris
+d’enseignement les plus reconnus au monde. Elle les brevets et toutes les transactions associées,
+soutient plus de 50 000 emplois et contribue à pendant 33 ans. Ces brevets très précieux servent
+hauteur de plus de 5,8 milliards de livres sterling souvent de base à la création de nouvelles
+par an à l’économie britannique. OUI, filiale de entreprises : environ 20 spin-offs sont créées
+l’Université, est chargée de gérer le transfert de chaque année. Les conséquences d’une perte
+technologie et les activités de conseil. Elle est de données associées à ces brevets seraient
+responsable du développement de nouvelles considérables, tant du point de vue financier que
+innovations et de la protection de toutes les réputationnel.
+données liées aux nombreux brevets détenus par
+l’Université.
+“La technologie Keepit nous a montré que même
+si Microsoft proposait une solution similaire
+avec une rétention à long terme, l’Université
+d’Oxford continuerait de privilégier une solution
+indépendante de sauvegarde et de restauration.
+C’est une couche de protection indispensable
+et un élément essentiel pour que l’Université
+conserve le contrôle de ses données.”
+- Lasse Thomsen
+Information Systems Manager
+Oxford University Innovation Ltd.
+
+--- Page 3 ---
+Customer case:
+Oxford University Innovation Ltd.
+Objectifs Approche
+L’objectif principal de l’intégration d’une solution Après un processus rigoureux d’évaluation et de
+de sauvegarde SaaS était de protéger la propriété sécurité visant à déterminer la valeur à long terme
+intellectuelle des entités commerciales issues de d’un partenariat avec Keepit, la solution a été
+l’Université d’Oxford, en offrant à OUI une période retenue peu avant la migration d’Exchange 2010
+de rétention des sauvegardes de 33 ans, conforme vers Microsoft 365. Elle a permis de renforcer
+aux exigences associées à la protection des actifs la sécurité durant cette transition et de réaliser
+de propriété intellectuelle. la migration en une nuit, sans aucune perte de
+données.
+Les systèmes de sauvegarde et de restauration
+natifs de Microsoft n’offraient pas les capacités Pour limiter les risques de perte de données et
+de rétention à long terme dont OUI avait besoin. garantir une restauration rapide, OUI a déployé
+La plupart des pertes de données sont dues à la solution SaaS de Keepit afin de protéger ses
+de simples erreurs humaines, souvent détectées données dans le cloud grâce à une sauvegarde
+trop tard pour être corrigées. Une solution de automatique, à une recherche rapide et à une
+sauvegarde et de restauration à long terme était récupération de données historiques en quelques
+donc indispensable pour garantir une redondance minutes.
+complète et une protection optimale.
+
+--- Page 4 ---
+Customer case:
+Oxford University Innovation Ltd.
+Aujourd’hui, Keepit continue d’accompagner OUI
+comme partenaire IT stratégique. Son support
+dans la transition vers le cloud garantit que toutes
+les données sont correctement sauvegardées
+et protégées, et que l’Université ne dépend pas
+d’un fournisseur unique pour ses systèmes de
+sauvegarde et de restauration.
+Résultats
+Depuis l’intégration de la solution Keepit dans les
+systèmes d’Oxford University Innovation, trois À propos d’Oxford University
+Innovation
+restaurations critiques ont été réalisées. La capacité
+à récupérer ces données pourrait permettre à L’Université d’Oxford est l’un des établissements
+l’Université d’économiser plusieurs millions de livres d’enseignement les plus reconnus au monde,
+soutenant plus de 50 000 emplois et générant plus de
+sterling en évitant la perte de documents essentiels
+5,8 milliards de livres sterling par an pour l’économie
+liés à ses actifs.
+britannique. Oxford University Innovation est une filiale
+de l’Université chargée de son transfert de technologie
+Keepit reste un partenaire clé pour OUI, notamment
+et de ses activités de conseil. Elle développe de
+grâce à sa capacité d’ajouter de nouvelles
+nouvelles idées et protège les données associées aux
+applications SaaS au fil du temps. La prochaine nombreux brevets détenus par l’Université.
+étape consiste à accompagner l’intégration d’autres
+solutions cloud, comme Dynamics 365.
+“Nous avons étudié le marché de manière
+exhaustive avant de choisir Keepit comme
+la solution la mieux adaptée aux besoins de
+l’Université en matière de rétention longue
+durée.”
+- Lasse Thomsen
+Information Systems Manager
+Oxford University Innovation Ltd.
+Your data. Here today. Here tomorrow.
+Keepit fournit une plateforme de protection des données SaaS de nouvelle génération spécialement conçue
+pour le cloud en sécurisant les données dans un cloud indépendant afin de protéger les applications cloud
+essentielles, renforcer la résilience cybernétique et garantir une protection des données pérenne.
+Pour plus d’informations, visitez www.keepit.com ou suivez Keepit sur LinkedIn.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

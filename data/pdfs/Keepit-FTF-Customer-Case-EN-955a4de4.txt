@@ -1,0 +1,82 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-FTF-Customer-Case-EN.pdf
+
+--- Page 1 ---
+Customer case
+Keepit and the French Tennis Federation:
+A grand slam for
+data protection
+
+--- Page 2 ---
+Customer case:
+French Tennis Federation
+The French Tennis Federation, tasked with the organization, coordination, and promotion of the
+sport, chose Keepit to independently back up its Microsoft 365, Microsoft Entra ID, and Power
+BI data. Since 2022, the federation, headquartered at the famous Roland Garros stadium, has
+trusted Keepit to secure its data — facilitating important work developing tennis through 8,000
+tennis clubs across the country. The partnership was made possible by SCC France, a long-
+standing partner of the federation.
+The search for vendor-independent backup cloud-based applications, and my focus was
+Realizing that Microsoft would not be responsible to find a European backup solution that was as
+for recovering lost data, the French Tennis independent as possible. I did some research
+Federation began to search for a vendor- and found a company called Keepit in Denmark,”
+independent backup and recovery solution explains Frank Labat, IT Technical Director at the
+that would also be easy to implement, agile, French Tennis Federation.
+and secure. “At the time, we had no backup for
+“Keepit has brought us what we initially wanted
+— independent backup. It has also brought us
+quite specific uses that we hadn’t identified at
+the beginning, such as centralized and traceable
+archiving and the ability to integrate everything
+into the same platform.”
+- Frank Labat,
+IT Technical Director at the French Tennis Federation
+
+--- Page 3 ---
+Customer case:
+French Tennis Federation
+Keepit owns and operates its own cloud and data
+centers, making sure backed-up data is always
+online, even in cases of vendor downtime. This
+was exactly what the French Tennis Federation
+was looking for — backing up their data in an
+environment separated from their production
+environment.
+Expected and unforeseen benefits
+Due to the nature of its operations, the French
+Tennis Federation deals with a lot of seasonal About the French Tennis Federation
+employees. This means a lot of arrivals and The French Tennis Federation (French: Fédération
+departures, and more data to process — and française de tennis, FFT) is the governing body for
+tennis in France. It was founded in 1920, and is tasked
+recover. Keepit helps to facilitate this process
+with the organization, coordination and promotion of
+while ensuring the security of the data being
+the sport. It is recognized by the International Tennis
+handled. Federation and by the French Minister for Sports. Its
+headquarters are at the Roland Garros stadium in
+Continued partnership
+France.
+A relationship that started with backing up
+Microsoft 365 has grown into a well-established,
+developing partnership in which the federation
+has integrated Power BI and Microsoft Entra ID
+with the Keepit platform.
+About SCC France
+“There are many new developments in the pipeline With a turnover of more than €2.7 billion and more than
+for Microsoft. The plan is that every time we 3,300 employees in France, SCC France supports the
+digital transformation of its clients in three areas: the
+add new assets to Microsoft 365, they can be
+development of uses and user experience, the mod-
+integrated with Keepit,” says Frank Labat.
+ernization of IT infrastructures and opening up to the
+Cloud, and the deployment of network and security
+See how the French Tennis Federation, SCC
+strategies. Learn more: https://www.france.scc.com/
+France, and Keepit work together to protect
+critical data — watch the video here: https://
+www.keepit.com/customers/french-tennis-
+federation/
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

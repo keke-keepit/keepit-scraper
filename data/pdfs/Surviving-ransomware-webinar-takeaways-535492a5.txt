@@ -1,0 +1,110 @@
+Source: https://lp.keepit.com/hubfs/content-assets/EN/Surviving-ransomware-webinar-takeaways.pdf
+
+--- Page 1 ---
+How to survive ransomware by
+mastering disaster recovery
+The landscape of disaster recovery continues to undergo a
+significant transformation, driven by the increasing reliance on
+SaaS applications and the rising threat of ransomware. As part
+of this transformation, traditional disaster recovery methods
+are evolving into more comprehensive resilience strategies.
+In a recent Keepit webinar, guest speaker Brent Ellis,
+senior analyst at Forrester, shared actionable advice for
+organizations to shift from a reactive to a proactive strategic
+position, focusing on securing systems to withstand various
+disruptions. This involves understanding where data resides
+and recognizing the unique risks associated with each
+location, requiring tailored protection strategies.
+Here’s a look at a comprehensive approach to data management and risk mitigation
+Data location Risk Protection strategies
+Data centers Physical damage, theft Secure facilities, regular backups
+Cloud Downtime, data breaches Multi-cloud strategy, encryption
+Silos Access control issues Centralized management, audits
+Desktops Loss, malware Endpoint protection, backups
+Mobile devices Theft, data leaks Mobile device management, encryption
+SaaS environment API exploits, outages Third-party backups, continuous monitoring
+Consider where your data resides Evolution of disaster recovery
+Data resides in various locations such as data centers, The focus is shifting from traditional disaster recovery
+cloud environments, silos, desktops, mobile devices, to technology resilience, emphasizing proactive
+and SaaS platforms. Looking ahead, there will be a measures to ensure business continuity and making sure
+growing integration of data into and generation by AI disruptions have limited impact on the business.
+systems, which will require robust security measures to
+handle these emerging data flows effectively.
+Focus areas for resilience
+Understanding the risks associated with different data
+Recognizing risks
+storage methods is essential for building resilience.
+Different locations and systems, such as cloud versus Implementing and maintaining robust backup solutions
+on-premises, pose unique risks that require tailored is critical, including regular testing to ensure backups
+protection and recovery strategies. These risks need to are effective and can be quickly restored when needed.
+be identified and evaluated before risk mitigation can Regularly testing and updating recovery plans ensures
+take place. they can withstand disruptions such as ransomware
+attacks, which are continuously evolving.
+© 2024 Keepit. All rights reserved.
+
+--- Page 2 ---
+SaaS resilience
+SaaS environments present unique risks, due to the limited control over the underlying
+infrastructure. The shared responsibility model means organizations are responsible for
+protecting their data themselves.
+To build a resilience strategy, organizations should consider using third-party backup
+services, offering additional layers of protection in an isolated environment separated
+from the public cloud.
+“Generally, people expect their SaaS providers to back up their data,
+protect it and secure it. But as we’ve seen, that is not always the case.
+And when you think about SaaS, it’s not just one platform, it’s not just
+your data center, it’s not just your cloud environment. It’s a variety
+of different platforms that do different things for your environment.
+And each has a different way of protecting it and keeping it safe.”
+Brent Ellis, Senior Analyst at Forrester
+SaaS platform risks to consider in your disaster recovery planning
+Risk Solution
+API exploits Regular audits, stronger authentication
+Shared platform vulnerabilities Segregated, air-gapped backup location, e.g.,with a third-party backup service
+Cyber threats Continuous monitoring, advanced threat etection, and incident response
+Limited version retention Implement comprehensive version control and retention policies
+Role-based access control issues Enforce strict RBAC policies, regular review, and adjustment of access privileges
+Exfiltration threats Encryption, network segmentation, and data loss prevention (DLP) tools
+Malicious data changes Implement immutability options, regular integrity checks, and audit trails
+Accidental data changes Regular user training, versioning, and undo capabilities
+Platform misconfigurations Regular configuration audits, automated compliance checks
+Vendor dependency Diversify vendors, implement robust exit strategies
+Insufficient backup solutions Ensure comprehensive backup plans, regular testing, and validation
+Compliance and regulatory risks Regular compliance audits, adherence to data protection regulations
+© 2024 Keepit. All rights reserved.
+
+--- Page 3 ---
+How to create a SaaS resilience strategy
+Building cyber resilience involves gathering knowledge about the SaaS platforms you use and
+understanding their risk profiles. Once you have done a risk assessment, you can decide how to mitigate that
+risk and develop a resilience strategy. This includes assuring that the security posture of these environments
+meets your needs and backing up data. It is vital to use immutable backups and set up isolated recovery
+environments, which ensure data integrity and quick restoration. Continuous scanning of backups is crucial
+for detecting threats, maintaining the overall integrity of data recovery processes.
+Three important resilience measures
+1. Isolated recovery environments: Dedicated spaces for secure data recovery
+2. Immutable backups: Backups that cannot be altered by malware
+3. Continuous scanning: Regular scans to detect and mitigate threats
+Here at Keepit we:
+Are specialized on SaaS data protection Deploy leading security measures
+We support a wide range of commonly We deploy leading security measures,
+used SaaS platforms, such as M365, Entra keeping your data safe in a fully air-
+ID, Salesforce, and more. Our solution is gapped, separated environment with
+purpose-built and specifically designed immutability by default and encryption
+for protecting cloud SaaS data. both in transfer and at rest.
+Hold relevant security certifications
+Are a completely independent
+backup provider
+As your trusted cloud backup vendor, we’re
+We maintain our own cloud infrastructure serious about the security of your data.
+and our own data centers across the Keepit holds both the ISO/IEC 27001:2013
+world. Vendor independence means certification and the ISAE 3402-II
+you’ll always have access to your certification (audited by Deloitte annually).
+data, even when disaster strikes.
+Continue the conversation
+Watch the on-demand webinar
+Watch it now
+Keepit provides next-level SaaS data protection purpose-built for the cloud, by securing data in a vendor-independent
+cloud to safeguard essential business applications, boost cyber resilience and future-proof data protection.
+For more information visit www.keepit.com or follow Keepit on Linkedin
+© 2024 Keepit. All rights reserved.

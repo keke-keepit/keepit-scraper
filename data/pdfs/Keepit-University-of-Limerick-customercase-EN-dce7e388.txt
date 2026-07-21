@@ -1,0 +1,121 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-University-of-Limerick-customercase-EN.pdf
+
+--- Page 1 ---
+Keepit chosen as
+partner for University
+of Limerick’s disaster
+recovery strategy
+Customer success story
+
+--- Page 2 ---
+Keepit chosen as
+partner for University
+of Limerick’s disaster
+recovery strategy
+As a research-led university, the University of Limerick (UL) manages critical academic and
+administrative data across its Microsoft 365 environment. As the University expanded its
+cloud services, the IT team recognised an opportunity to enhance its disaster recovery
+capabilities by introducing an independent backup solution for Microsoft 365 data and key
+Entra ID and Intune configurations. To strengthen resilience and ensure critical data and
+settings could be recovered in the event of a major incident, the University evaluated SaaS
+backup and recovery solutions and ultimately selected Keepit.
+LOCATION INDUSTRY EMPLOYEES
+Ireland Higher education 2,130
+Building a stronger disaster recovery
+strategy “The solution had to be
+Mark Twomey, Cloud Architect at the University immutable and separate from
+of Limerick and a member of the Enterprise our Microsoft environment.
+Architecture team within the Information
+Because Keepit operates its
+Technology Division (ITD), was the technical lead
+own data centers, we know our
+for the project and part of the implementation
+backup remains isolated from the
+team established for onboarding this solution. His
+systems we rely on every day.”
+role includes evaluating cloud technologies and
+ensuring they integrate effectively within the Treasa Cunneen
+University architecture and meet security and Head of Enterprise Architecture
+University of Limerick
+operational requirements.
+Customer success story 2
+
+--- Page 3 ---
+“Entra ID and Intune contain the configurations and settings that make your tenant
+function. If you had to rebuild all that tomorrow, it would be extremely difficult.”
+Mark Twomey
+Cloud Architect, University of Limerick
+The team in UL recognised that protecting Evaluating vendors through a rigorous
+process
+SaaS data was part of its responsibility under
+Microsoft’s shared responsibility model. UL conducted a formal tender process to
+According to Mark and Treasa Cunneen, Head of evaluate potential backup solutions. Following
+Enterprise Architecture at UL, the University had completion of this process, Keepit was selected
+high-value information stored across its tenant, as the successful vendor.
+and there was an internal expectation that the
+Today, UL protects Microsoft 365 data for all
+data was being backed up, just as it has been in
+staff and students. The University also backs up
+UL’s on-prem environment.
+important Entra ID and Intune configurations and
+The University also needed to support GDPR by settings.
+ensuring backed up data remains within the EU.
+Protecting configurations that keep
+As a research-led institution, protecting research
+systems running
+data was another important consideration during
+As device management, user management, and
+the evaluation process to ensure alignment with
+policy functions continue to move to the cloud,
+NIS2 if required.
+protecting this configuration data became just as
+Ensuring data was securely backed up and important as safeguarding user files, making the
+recoverable in the event of a major incident was ability to easily backup and restore these settings
+critical, and the University viewed Keepit as a key a key project requirement.
+part of its disaster recovery strategy.
+The ability to protect Intune configuration
+That separation gave the University confidence profiles, compliance policies and the groups
+that its backup environment would remain assigned to these settings as well as Entra
+available even in the event of a major incident objects, including BitLocker recovery keys, app
+affecting its Microsoft tenant, helping reduce registrations and enterprise apps played a major
+cloud concentration risk by keeping backups role in the University’s decision.
+isolated from the production environment.
+Customer success story 3
+
+--- Page 4 ---
+“Keepit’s support is excellent. I can
+contact my account team or log a
+support call through the admin portal,
+and they’re usually back within a couple
+of hours to help resolve the issue.”
+Brian Kinane
+IT networking
+University of Limerick
+The University sees this additional layer of
+protection as a significant enhancement to its
+disaster recovery capabilities.
+Simple management, responsive support
+Following deployment, the University found
+the onboarding process straightforward and
+collaborative. The project team worked closely
+with the Keepit team to configure connectors, app
+registrations, and prerequisites for the Microsoft
+environment, including onsite support during
+critical implementation stages.
+The team at UL also values the day-to-day usability
+of the platform, noting that the dashboard is
+intuitive and easy to manage from an administrator
+perspective. For UL, Keepit has become an
+important part of strengthening disaster recovery
+readiness and protecting the systems and
+configurations the university depends on every day.
+About University of Limerick
+University of Limerick (UL) is an independent research-led university located in Limerick, Ireland. With over 18,000
+students, including more than 3,300 internationally mobile students annually, UL offers undergraduate and
+postgraduate programs across arts, humanities and social sciences, education and health sciences, science and
+engineering, and business.
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-independent
+cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+For more information visit www.keepit.com or follow Keepit on LinkedIn.
+© 06/04/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

@@ -1,0 +1,68 @@
+Source: https://lp.keepit.com/hubfs/product-sheets/Keepit-for-Azure-DevOps-EN.pdf
+
+--- Page 1 ---
+Keepit Backup and Recovery for
+Microsoft Azure DevOps
+Protect and swiftly recover Microsoft Azure DevOps data for business continuity
+Lose Microsoft Azure DevOps data and you’ve lost your software development brain and
+nervous system. Under the shared responsibility model, Microsoft ensures the availability
+of the platform, but your data is your responsibility. Without proactive backups or disaster
+recovery strategies, the smallest mistake or malicious act can severely cripple your
+organization’s software development lifecycle.
+Awarded for its impenetrable architecture and ease-of-use, Keepit ensures that your data
+remains accessible and can be recovered swiftly and accurately at all times. Keepit effectively
+minimizes the impact of data loss and the burden of recovery on your teams.
+Time-saving usability Confidence that Assured data integrity
+Easy to implement and intuitive, you can recover With Keepit, you’re certain that your
+Keepit requires minimal expertise to Have all your data always at your backups are immutable — they can’t
+use — while delivering confidence fingertips with comprehensive, be modified or deleted. Stored in
+in your ability to swiftly recover your automated backups of your data our vendor-independent cloud, your
+data whenever you need it. and metadata. data remains accessible at all times.
+THE RISK PROVEN BENEFIT
+In the first half of 2025, Azure DevOps had 74 incidents Keepit customers were able to realize a 163% return
+reported, affecting pipelines, repos, boards, and on investment when deploying the Keepit solution.
+others. Payback was achieved in under six months.
+Source: DevOps Platforms Show Cracks: GitHub Incidents Surge 58%, Azure, GitLab
+and Jira Also Under Pressure Source: “Forrester TEI Report 2024”
+“We quickly figured out that we needed a backup as
+Microsoft does not meet our retention requirements.
+Also, the restore options provided are extremely limited.”
+Stefan Toefferl – Senior Data Center Engineer, ALPLA
+
+--- Page 2 ---
+Retain access to all your software development data in Azure DevOps with Keepit
+KEY CAPABILITIES
+Automated backups Flexible restore options Unlimited retention
+Customize and automate backup jobs Restore objects in bulk or granularly to Customize retention for up to
+so your data remains preserved and guarantee fast and precise recovery. 99 years with no extra costs.
+recoverable whenever you need it.
+Instant search and preview Compliance and reporting
+Proactive monitoring Find what you need fast with Keepit’s Easily document and prove
+Data Protection and Anomaly powerful search. Use filters to identify compliance with backup requirements
+Detection Dashboards help maintain data, and the preview function check and data protection efforts.
+backup integrity and health and allow it before restore or share with a secure
+for early identification, investigation, link in one click.
+and remediation of risks to data.
+WHAT WE COVER
+Projects and organization Planning and tracking Build and release pipeline Find the complete
+Projects Azure Boards Pipelines coverage here.
+Teams Backlogs Releases
+Iterations Boards Environments
+Areas Work Items Deployment Groups
+Members Queries Agent Queues
+Users Team Sprints Library
+Agent Pools Delivery Plans
+Deployment Pools
+Reporting and collaboration
+Repositories
+Dashboards (including
+widgets)
+Wiki (project wiki)
+Find out how simple and
+easy it is to use Keepit
+Book a demo
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

@@ -1,0 +1,86 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-LAUDA-Case-Study-EN.pdf
+
+--- Page 1 ---
+Customer case:
+LAUDA
+Keepit supports LAUDA
+in securing critical
+Entra ID data
+
+--- Page 2 ---
+Customer case:
+LAUDA
+LAUDA, a German temperature equipment and systems company, was in search of a reliable
+backup and recovery solution for their entire Microsoft 365 environment. Keepit offered a
+comprehensive and user-friendly solution that enabled them to restore critical data quickly,
+while ensuring compliance with increasing regulations.
+Reliability and compliance as key differentiators Data backup and recovery are integral to
+“Keepit impressed us with its ease of use, compliance. European born and operated, Keepit
+reliable data backup, and fast recovery options. specializes in backup management and disaster
+We also appreciated the independent data recovery and prioritizes compliance by designing
+storage outside the Microsoft infrastructure and services to make complying with regulations like
+compliance with the European General Data GDPR and NIS2 easier for customers. Keepit runs
+Protection Regulation (GDPR),” says Jürgen Irmer, its own data centers in seven regions, ensuring
+Manager IT-Infrastructure at LAUDA Dr. R. Wobser data sovereignty.
+GmbH & Co KG. LAUDA.
+“Keepit impressed us with its ease of use, reliable
+data backup, and fast recovery options.”
+- Jürgen Irmer, Manager IT-Infrastructure at LAUDA
+
+--- Page 3 ---
+Customer case:
+LAUDA
+Fast and granular recovery combined with a
+user-friendly interface
+Keepit was able to offer LAUDA with a platform
+that included all the features they needed,
+including comprehensive daily backups, fast and
+granular restore options, a user-friendly interface,
+comprehensive search functions, and detailed
+audit logs.
+The Keepit platform requires no training and About LAUDA:
+ensures every step is easy for the end user from LAUDA is the world’s leading provider of precise
+setup to continuous monitoring. temperature control solutions and measuring
+instruments. Headquartered in Lauda-Königshofen,
+Germany, the company has provided temperature
+“Keepit ensures that we can quickly equipment and systems that are at the heart of
+important applications used in, for example,
+restore Entra ID access in the event of an
+the electromobility, pharmaceutical/biotech,
+emergency.”
+semiconductor and medical industries since 1956.
+- Jürgen Irmer, Manager IT-Infrastructure at LAUDA
+Securing Microsoft Entra ID was paramount Increased efficiency as a result
+With Keepit, LAUDA can always securely and The Keepit platform offers IT departments a cost-
+reliably access business-critical Microsoft data. efficient way to securely backup and recover
+“Losing access to Microsoft Entra ID would data by removing expensive costs associated
+paralyze our entire Microsoft 365 environment”, with long-term on-premises or cloud-based
+says Jürgen Irmer, and adds: “Keepit ensures that storage. Securing multiple workloads in one
+we can quickly restore Entra ID access in the event platform ensures you always have full visibility
+of an emergency.”
+over your data.
+Keepit’s industry-leading coverage of Microsoft “We were able to increase the efficiency of our
+Entra ID has the broadest coverage of objects IT department by eliminating additional backup
+and policies, including Intune, Bitlocker and LAPS, processes,” says Jürgen Irmer. “Previously, we
+enabling companies to feel confident in their had many different products in use, all of which
+ability to recover data at any time.
+served their purpose, but had to be configured
+and monitored in separate consoles. Keepit
+“I would recommend that nobody underestimates
+offered us a comprehensive and user-friendly
+the importance of SaaS backups. Keepit offers
+solution.”
+a straightforward but powerful solution. Paying
+particular attention to the backup capabilities for
+Entra ID is paramount as this is often overlooked
+but critical to maintaining business operations,”
+adds Jürgen Irmer.
+
+--- Page 4 ---
+Resilience starts with
+intelligent choices
+Recover and restore your SaaS data
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-independent
+cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+www.keepit.com
+© 2025 Keepit. All rights reserved.

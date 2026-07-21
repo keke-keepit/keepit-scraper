@@ -1,0 +1,122 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit%20Ornskoldsvik%20Kommun%20customer%20case.pdf
+
+--- Page 1 ---
+Customer case:
+Örnsköldsvik Municipality
+Örnsköldsvik Municipality
+chooses Keepit for its
+Entra ID coverage and
+compliance benefits
+
+--- Page 2 ---
+Customer case:
+Örnsköldsvik Municipality
+In search of robust and reliable Entra ID data coverage, Örnsköldsvik Municipality chose Keepit
+for its unparalleled, comprehensive Entra ID data protection – ensuring that their organization
+can run smoothly even if Entra ID data is temporarily compromised. In need of independent,
+third-party backup, Örnsköldsvik Municipality concluded that Keepit’s solution provided more
+comprehensive disaster recovery and data restore than Microsoft retention restore. Finally, in
+the interest of meeting the most rigid GDPR compliance standards, the municipality found that
+Keepit makes it easy to ensure that their data is both safe and GDPR compliant at the same time.
+Provides complete coverage for Entra ID - is not only secure and cost-effective but allows
+and all Microsoft 365 workloads Örnsköldsvik Municipality to avoid disruption due
+After comparing Keepit for Entra ID to to lost or inaccessible data by enabling instant
+competitors’ solutions, the team at Örnsköldsvik search and comprehensive recovery across Users,
+Municipality concluded that Keepit provided Groups, Audit Logs, and more. Additionally, data
+the best Entra ID coverage on the market. As the compliance becomes simplified as users can view
+organization is highly dependent on Entra ID user Entra ID at points in the past to quickly see what
+access, any block to this system could bring the changes have occurred and provide corrections
+business to a halt – and extended loss of access where necessary.
+could have serious impacts. Keepit for Entra ID
+“We are super dependent on Groups in
+Entra ID. Our risk assessments showed that
+a longer duration of access loss could have
+serious impacts. Keepit for Entra ID ensures
+comprehensive recovery of any temporary data
+losses due to a cyberattack or user error.”
+- Fredrik Westin
+Technical Supervisor of the Microsoft 365 platform
+Örnsköldsvik Municipality
+
+--- Page 3 ---
+Customer case:
+Örnsköldsvik Municipality
+Meets the highest GDPR standards
+When it comes to compliance, Keepit facilitates meeting
+compliance needs across the most stringent global
+requirements. Örnsköldsvik Municipality needed a backup
+and recovery solution that would both ensure that their
+data is safe and ensure GDPR compliance at the same
+time. As a European vendor, GDPR compliance is second
+nature to Keepit. The service is built to make compliance
+requirements easy to accommodate for customers.
+About Örnsköldsvik
+Forrester even recommended Keepit as the “best for
+Municipality:
+companies that need Microsoft 365 protection and GDPR
+Örnsköldsvik municipality is the
+expertise.” Örnsköldsvik Municipality chose Keepit to
+municipality’s largest workplace. Just over
+facilitate GDPR compliance and offer robust protection
+5,000 people in municipal administration
+against ransomware and aid in the necessary workflows for and municipal companies ensure that the
+regulatory adherence. municipality’s 56,000 residents receive
+good community services.
+“The European data centers were a large driver The municipality is densely populated
+with many international companies, a long
+for us choosing Keepit. We needed a backup and
+entrepreneurial and industrial tradition
+recovery solution that could deliver the highest level
+and a strong development focus where
+of GDPR compliance – and Keepit leads the market collaboration is an important key. The
+proximity to Umeå means that Örnsköldsvik
+when it comes to ensuring compliance.”
+is part of a larger labor market region in
+- Fredrik Westin Sweden with a total of 200,000 inhabitants
+Technical Supervisor of the Microsoft 365 platform and 13,000 companies. Örnsköldsvik
+Örnsköldsvik Municipality is part of the scenic High Coast where
+archipelago and rocks meet forest and
+wilderness.
+
+--- Page 4 ---
+Customer case:
+Örnsköldsvik Municipality
+Better disaster recovery and data restore offered true, independent, third-party backup.
+than Microsoft And while Microsoft can deliver protection for
+In the current ransomware landscape, a potential some – but not all – of the organization’s business-
+cyberattack is a matter of “when” – not “if.” With critical data, Keepit came out on top as the better
+a need to recover quickly from a potential cyber workload for coverage, restore granularity, and
+disaster, Örnsköldsvik Municipality was on the cost-effectiveness. Furthermore, since Keepit
+lookout for a backup and recovery solution is independent of Microsoft authentication and
+that could restore data quickly and ensure that storage, an attack on the organization’s tenant
+business operations keep running as smoothly would not endanger backups – meaning that the
+as possible. After doing their own research, municipality can still reliably access data even
+Örnsköldsvik Municipality learned that Keepit when Microsoft is having service problems.
+“Since using Keepit, we’ve noticed that the data
+restore process is much easier than Microsoft’s.
+Keepit offers independent backup separate to
+Microsoft – ensuring our data is secure even if
+Microsoft service is down.”
+- Fredrik Westin
+Technical Supervisor of the Microsoft 365 platform
+Örnsköldsvik Municipality
+
+--- Page 5 ---
+Keepit future proof
+Take the next step toward protecting your SaaS data
+Request demo
+Keepit provides a next-level SaaS data protection Headquartered in Copenhagen with offices and data
+platform purpose-built for the cloud, by securing centers worldwide, over ten thousand companies
+data in a vendor-independent cloud to safeguard trust Keepit for its ease of use and effortless backup
+essential business applications, boost cyber and recovery of cloud data.
+resilience and future-proof data protection.
+HQ - Copenhagen Dallas, Texas London Munich
+Denmark United States United Kingdom Germany
+Keepit A/S Keepit USA Inc. Keepit Technologies UK, LTD. Keepit Germany GmbH
+Per Henrik Lings Allé 4, 7. 3232 McKinney Avenue Suite 820 Warnford Court Maximiliansplatz 22
+2100 København, Denmark Dallas TX 75204, USA 29, Throgmorton Street D-80333 München
+CVR: 30806883 TIN: 85-358 6335 London EC2N 2AT, UK Amtsgericht München
++45 8987 7792 +1 469-461-4892 Company reg. no.: 13785045 HRB 270094
+sales@keepit.com sales@keepit.com sales@keepit.com Geschäftsführer Morten Felsvang
+sales@keepit.com
+© 2024 Keepit. All rights reserved. www.keepit.com

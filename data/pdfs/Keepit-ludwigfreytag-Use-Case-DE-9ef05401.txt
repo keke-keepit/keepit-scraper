@@ -1,0 +1,106 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-ludwigfreytag-Use-Case-DE.pdf
+
+--- Page 1 ---
+Kundenreferenz
+Keepit bietet
+unveränderliche Backups
+für Ludwig Freytag
+
+--- Page 2 ---
+Kundenreferenz:
+Ludwig Freytag
+Unveränderliche Backups, gespeichert in europäischen Rechenzentren, waren für das deutsche
+Unternehmen Ludwig Freytag ein entscheidender Faktor bei der Auswahl eines Partners für
+Datensicherung. Die IT-Abteilung des Bauunternehmens unterstützt 1.600 Benutzer an mehr
+als 30 Standorten und betreibt über 500 Anwendungen. Keepit konnte eine zuverlässige,
+unabhängige und revisionssichere Backup-Lösung für die Microsoft-365-Daten des
+Unternehmens bereitstellen.
+Compliance im Fokus Unabhängigkeit von Cloud-Anbietern
+Ludwig Freytag begann die Suche nach einer Für Ludwig Freytag war auch die Unabhängigkeit
+revisionssicheren, DSGVO-konformen Backup- von Microsoft ein entscheidender Faktor bei
+Lösung mit der Recherche nach europäischen der Suche nach einem Backup-Partner für
+SaaS-Backup-Anbietern. Nach einer Empfehlung die wachsenden Datenmengen in Teams und
+entschied sich das Unternehmen schließlich für SharePoint.
+die Lösung von Keepit.
+Die herstellerunabhängige, Cloud-native Lösung
+Da zunehmende regulatorische Anforderungen von Keepit ermöglicht es Unternehmen, ihre
+Unternehmen dazu verpflichten, jederzeit Zugriff Daten vollständig getrennt von ihrem SaaS-
+auf geschäftskritische Daten zu gewährleisten Anbieter zu speichern. Mit Keepit können
+und diesen Zugriff auch nachweisen zu können, Kunden ihre Daten in der Rechenzentrumsregion
+bietet die Backup-Lösung von Keepit wichtige ihrer Wahl sichern und so die Datenhoheit
+Funktionen wie DSGVO-konforme Archivierung, gewährleisten. „Die Speicherung unserer Daten
+um die Einhaltung von Compliance-Vorgaben in europäischen Rechenzentren war ein zentrales
+zu erleichtern. „Als Bauunternehmen mit Kriterium, um die Anforderungen der DSGVO
+öffentlichen Auftraggebern unterliegen wir zu erfüllen und das Vertrauen unserer internen
+strengen Anforderungen an Datenschutz und Datenschutzbeauftragten zu stärken“, sagt
+Datenaufbewahrung“, erklärt Stefan Gerdes, Stefan Gerdes.
+Teamleiter IT Operations & Infrastructure bei
+Ludwig Freytag.
+„Wir wollten eine Lösung, die unabhängig
+vom Microsoft-Ökosystem arbeitet,
+einfache Wiederherstellungsoptionen bietet
+und gleichzeitig unsere Anforderungen an
+Datensicherheit und Compliance erfüllt.“
+- Stefan Gerdes
+Team Leader, IT Operations & Infrastructure
+Ludwig Freytag
+
+--- Page 3 ---
+Kundenreferenz:
+Ludwig Freytag
+Verschlüsselte und unveränderliche Backups
+Die Lösung von Keepit stellt sicher, dass
+gesicherte Daten unveränderlich bleiben – sie
+können weder gelöscht noch verändert werden.
+Die Daten werden mit AES-256 verschlüsselt, um
+ein Höchstmaß an Sicherheit zu gewährleisten.
+Angesichts strenger Aufbewahrungspflichten
+kann Ludwig Freytag beruhigt sein: Keepit
+bietet unbegrenzten Speicher und unbegrenzte
+Aufbewahrung ohne versteckte Kosten.
+Über Ludwig Freytag
+Da Vorfälle von Datenverlust zunehmen, ist Das familiengeführte Unternehmen Ludwig Freytag
+die Sicherung geschäftskritischer Daten zur nutzt seit 1891 die Erfahrung von vier Generationen
+und hat sich zu einem führenden Unternehmen der
+Gewährleistung der Geschäftskontinuität zu
+deutschen Bauindustrie entwickelt. Das Unternehmen
+einem weiteren wichtigen Auswahlkriterium für
+ist auf Planung, Instandhaltung und Bauüberwachung
+das Unternehmen geworden. im Hoch-, Industrie- und Ingenieurbau spezialisiert.
+„Verschlüsselung und Daten-Immutability
+Mit 1.900 qualifizierten Mitarbeitenden und der
+sind entscheidend für unsere Compliance- gebündelten Kompetenz von vierzehn eigenständigen
+mittelständischen Unternehmen innerhalb der
+Anforderungen und schützen uns
+Unternehmensgruppe bietet Ludwig Freytag optimale
+gleichzeitig vor Ransomware-Angriffen.“
+Lösungen für unterschiedlichste Bauprojekte jeder
+Größe.
+- Stefan Gerdes,
+Team Leader, IT Operations & Infrastructure
+Ludwig-Freytag
+Zeit- und Kosteneinsparungen müssen IT-Teams keine aufwendigen Schulungen
+„Vor Keepit war die Wiederherstellung einzelner durchführen – die Einrichtung des Systems ist
+Microsoft-365-Elemente zeitaufwändig und schnell und unkompliziert.
+unzuverlässig. Heute können wir Daten innerhalb
+„Die Lösung ist intuitiv,
+weniger Minuten wiederherstellen – mit deutlich
+zuverlässig und erfüllt höchste
+geringerem Aufwand für unseren IT-Support“,
+Datenschutzanforderungen. Sehr
+erklärt Stefan.
+empfehlenswert für Unternehmen mit
+Die Keepit-Plattform hilft IT-Abteilungen, Zeit und Microsoft 365 und hohen Compliance-
+Kosten zu sparen, indem Backups automatisiert
+Anforderungen.“
+werden und der administrative Aufwand reduziert
+- Stefan Gerdes,
+wird. Durch die nutzerbasierte Preisgestaltung ist
+Team Leader, IT Operations & Infrastructure
+die Lösung zudem kosteneffizient und planbar. Ludwig-Freytag
+Dank der benutzerfreundlichen Oberfläche
+Your data. Here today. Here tomorrow.
+Keepit bietet eine hochmoderne SaaS-Datenschutzplattform, die speziell für die Cloud entwickelt wurde,
+indem sie Daten in einer anbieterunabhängigen Cloud sichert, um geschäftskritische Anwendungen zu
+schützen, die Cyber-Resilienz zu stärken und die Datensicherung zukunftssicher zu machen.
+© 04/07/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

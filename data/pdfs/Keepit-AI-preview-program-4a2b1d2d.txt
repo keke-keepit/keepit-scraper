@@ -1,0 +1,29 @@
+Source: https://lp.keepit.com/hubfs/Keepit-AI-preview-program.pdf?_gl=1*705eaw*_gcl_aw*R0NMLjE3NTc0MTQ4NjMuQ2owS0NRandvUF9GQmhERkFSSXNBTlBHMjRQeHIzUkJ0ZlJDOTFzV0pJTDdMZks3aHZnY1FUOHNiYWdJU1lQWHFfUU85Z2xPbUtLdzRIY2FBbEhPRUFMd193Y0I.*_gcl_au*MTU5NzQ4Njg0My4xNzY0MDY0NzY1*_ga*MTc0NDg3ODMxOC4xNzYzOTgwNzEw*_ga_QN4TJ1NCZ3*czE3NjQ2NjQ2MDUkbzgkZzEkdDE3NjQ2NjUwMjQkajYwJGwwJGgw
+
+--- Page 1 ---
+Keepit AI
+preview program
+About the program
+AI offers real opportunities to create customer value, but with so many possibilities, it’s difficult to
+know which ones matter most. That’s why we’re turning to you. We want to work with our customers
+to explore and identify AI capabilities that solve genuine challenges in managing and protecting data.
+The Keepit MCP Integration is our first initiative in this direction. We’re inviting you to test it and share
+your feedback as we continue developing AI features for the platform.
+What’s MCP?
+Model Context Protocol is an open standard that connects AI applications directly to your business
+systems.
+What this enables today
+Our initial surface is read-only by design. It focuses on low-risk, high-value queries admins already
+ask, such as:
+• Reviewing connector posture and highlighting unhealthy states with likely root causes to check
+(for example, misconfiguration).
+• Inspecting jobs and snapshot ranges to explain recent failures.
+• Pulling scoped audit logs and assembling summaries suitable for governance stakeholders.
+Interested in trying it? Join the program.
+Fill in the enrolment form to get started.
+Once you’ve submitted the form, we’ll contact you to schedule a demo and information
+session for the current preview and hear your views and needs related to AI.
+Questions? Comments? Reach out to me directly:
+Stanislav Shymanskyi
+Senior Product Manager
+ssh@keepit.com

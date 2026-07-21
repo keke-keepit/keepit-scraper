@@ -1,0 +1,141 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-JACOPS-customercase-DE.pdf
+
+--- Page 1 ---
+Kundenreferenz
+Keepit hilft JACOPS, Resilienz
+und Geschäftskontinuität
+zu stärken
+
+--- Page 2 ---
+Kundenreferenz:
+JACOPS
+Als infrastrukturlastiges Unternehmen, das in den Bereichen Bau, Versorgungsinfrastruktur und
+technische Dienstleistungen tätig ist, arbeitet JACOPS in Umgebungen, in denen Ausfallzeiten
+nicht nur unbequem sind — sie können sich direkt auf Projekte, Sicherheitskommunikation
+und Kundenverpflichtungen auswirken. Mit einer hybriden IT-Landschaft, die zunehmend
+auf die Microsoft-Cloud ausgerichtet ist, benötigte das belgische Unternehmen eine
+Datenschutzstrategie, die Resilienz, Compliance und langfristiges Wachstum unterstützt.
+Geoffrey Desmet, IT Infrastructure Manager Das Team benötigte eine Lösung, die über
+bei JACOPS, verantwortet den gesamten IT- integrierte Aufbewahrungsfunktionen
+Betrieb und arbeitet eng mit internen Teams, hinausgeht und eine schnelle, unkomplizierte
+Geschäftsbereichen und externen Partnern Wiederherstellung für Teams, SharePoint und
+zusammen, um die betriebliche Kontinuität und OneDrive ermöglicht. Gleichzeitig musste sie
+eine starke Sicherheitsstrategie sicherzustellen. unveränderlichen Schutz vor Ransomware bieten,
+den administrativen Aufwand reduzieren, echte
+Über die nativen Microsoft-
+Herstellerunabhängigkeit gewährleisten und
+Aufbewahrungsfunktionen hinaus
+transparente, planbare Kosten ermöglichen.
+Vor der Einführung von Keepit sah sich das IT-
+Team mit klaren Lücken konfrontiert. Die nativen „Herstellerunabhängigkeit ist für uns
+Aufbewahrungsfunktionen von Microsoft waren entscheidend. Wenn der Microsoft-
+begrenzt, Wiederherstellungsprozesse komplex, Tenant kompromittiert wird, müssen wir
+und der Schutz über Teams und SharePoint sicher sein, dass unser Backup vollständig
+hinweg war nicht konsistent. Am wichtigsten war getrennt und nicht betroffen ist.“
+jedoch, dass es keine unabhängige Backup-
+- Geoffrey Desmet
+Umgebung außerhalb des Microsoft-Tenants gab.
+„Wir arbeiten mit sensiblen Betriebsdaten,
+Projektdokumentationen und Kommunikation
+mit Behörden sowie Unternehmenskunden. Das
+bedeutet, dass Integrität, Aufbewahrung und
+Wiederherstellbarkeit keine Option sind — sie
+sind grundlegende Anforderungen.“
+- Geoffrey Desmet
+IT Infrastructure Manager
+JACOPS
+
+--- Page 3 ---
+Kundenreferenz:
+JACOPS
+Geschäftskontinuität war der zentrale Treiber Warum Herstellerunabhängigkeit und EU-
+hinter diesen Anforderungen. In der Branche von Datenresidenz entscheidend waren
+JACOPS können Ausfallzeiten die Koordination Zwei Faktoren stachen im Evaluierungsprozess
+im Außendienst, die Planung und vertragliche besonders hervor: europäischer Datenstandort
+Zeitpläne erheblich beeinträchtigen. Ein und echte Herstellerunabhängigkeit.
+zuverlässiger Zugriff auf Daten — und die Fähigkeit,
+Eine Speicherung der Daten innerhalb der EU war
+diese schnell wiederherzustellen — ist daher
+entscheidend, um regulatorische Anforderungen
+entscheidend.
+zu erfüllen und Datenschutz-Folgenabschätzungen
+zu vereinfachen. Gleichzeitig stärkt sie das
+„Wir verlassen uns täglich stark auf
+Vertrauen von Kunden, die eine ausschließlich
+Teams, SharePoint und OneDrive [...]
+innerhalb der EU stattfindende Datenverarbeitung
+Wenn wir nicht schnell wiederherstellen
+erwarten.
+können — sei es eine komplette Site, eine
+bestimmte Datei oder sogar eine Teams- Ebenso wichtig war die Herstellerunabhängigkeit.
+Im Falle einer Kompromittierung des Microsoft-
+Konversation — sinkt die Produktivität
+Tenants, eines Ausfalls, eines Ransomware-
+sofort.“
+Angriffs oder einer Identitätsverletzung benötigte
+- Geoffrey Desmet
+JACOPS die Sicherheit, dass seine Backups isoliert
+IT Infrastructure Manager
+JACOPS und unbeeinträchtigt bleiben.
+„Die Wiederherstellungszeiten sind mit Keepit
+von Stunden auf Minuten gesunken. Wir
+haben jetzt vollständigen Schutz für Microsoft
+365, keinen manuellen Aufwand mehr für
+Aufbewahrungsrichtlinien und deutlich bessere
+Transparenz über unsere Backups.“
+- Geoffrey Desmet
+IT Infrastructure Manager
+JACOPS
+
+--- Page 4 ---
+Kundenreferenz:
+JACOPS
+Unveränderlicher Schutz mit schneller, granularer
+Wiederherstellung
+Keepit stellte die unabhängige, unveränderliche
+Backup-Umgebung bereit, nach der JACOPS
+gesucht hatte — einschließlich vollständigem
+Schutz für Microsoft 365 sowie schneller,
+granularer Wiederherstellung.
+Backups werden automatisch ausgeführt.
+Aufbewahrungsrichtlinien werden ohne manuelles
+Eingreifen durchgesetzt. Recoverys sind einfach Über JACOPS
+und präzise — egal, ob eine gesamte Site, eine JACOPS NV ist ein belgisches
+einzelne Datei oder eine Teams-Konversation Infrastrukturunternehmen, das in den Bereichen
+Bau, Versorgungsinfrastruktur und technische
+wiederhergestellt werden muss. Die intuitive
+Dienstleistungen tätig ist. Das Unternehmen realisiert
+Benutzeroberfläche ermöglicht es dem IT-Team,
+komplexe Infrastruktur- und Technikprojekte in
+Daten in wenigen Schritten zu finden, zu prüfen verschiedenen Branchen und unterstützt sowohl
+und wiederherzustellen. Kunden aus dem öffentlichen als auch aus dem
+privaten Sektor. Mit dezentralen Teams und einer
+Stärkere Sicherheitsstrategie und mehr starken operativen Präsenz verbindet JACOPS
+Vertrauen praktische Expertise im Feld mit moderner digitaler
+Infrastruktur, um hohe Standards in Qualität,
+Vor der Einführung von Keepit waren Recovery-
+Sicherheit und Compliance sicherzustellen.
+Zeiten uneinheitlich, das Management von
+Aufbewahrungs-Richtlinien erforderte
+manuellen Aufwand und das Gesamtrisiko war
+höher. Heute arbeitet JACOPS mit konformen JACOPS wurde durch Branchenempfehlungen,
+Aufbewahrungsrichtlinien, automatisierten Peer-Reviews, Anbieter-Vergleiche und
+Langzeit-Backups und deutlich verbesserter positive Referenzen innerhalb des Microsoft-
+Wiederherstellbarkeit. Partnerökosystems auf Keepit aufmerksam.
+Letztlich fiel die Entscheidung aufgrund von
+Die Auswirkungen gehen über die IT
+Resilienz, Unabhängigkeit und operativer
+hinaus. Schnellere Recoverys minimieren
+Einfachheit.
+Unterbrechungen für dezentrale Teams und
+stärken die allgemeine Resilienz gegenüber Für JACOPS ist Backup heute nicht mehr nur
+Ransomware. Mit einer skalierbaren, Cloud- eine reaktive Sicherheitsmaßnahme. Es ist
+nativen Plattform ist JACOPS gut aufgestellt, um eine strategische Schutzebene — entwickelt,
+weiteres Wachstum über Microsoft-Services um kritische Infrastrukturprojekte heute zu
+und andere SaaS-Anwendungen hinweg zu unterstützen und die digitale Zukunft des
+unterstützen. Unternehmens zu sichern.
+Your data. Here today. Here tomorrow.
+Keepit bietet eine hochmoderne SaaS-Datenschutzplattform, die speziell für die Cloud entwickelt wurde,
+indem sie Daten in einer anbieterunabhängigen Cloud sichert, um geschäftskritische Anwendungen zu
+schützen, die Cyber-Resilienz zu stärken und die Datensicherung zukunftssicher zu machen.
+© 04/07/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

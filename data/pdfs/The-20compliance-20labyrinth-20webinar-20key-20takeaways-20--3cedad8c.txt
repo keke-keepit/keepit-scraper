@@ -1,0 +1,103 @@
+Source: https://lp.keepit.com/hubfs/content-assets/EN/The%20compliance%20labyrinth%20webinar%20key%20takeaways%20-%20EN.pdf
+
+--- Page 1 ---
+The compliance labyrinth: Navigating
+global cybersecurity regulations
+Cybersecurity regulations are evolving rapidly to
+address the growing threat of cybercrime, yet the
+global regulatory landscape remains fragmented
+and complex. This was a key focus of discussion
+during a recent Keepit webinar, where Kim Larsen,
+CISO at Keepit, and a panel of industry experts
+explored the challenges and opportunities
+presented by global cybersecurity regulations.
+The panel highlighted how regulations differ
+between the U.S. and European markets, as well
+as the added complexity brought by industry-
+specific requirements. Importantly, the experts
+underscored the need for clearer regulatory goals
+and alignment with widely adopted frameworks
+such as NIST and ISO. By doing so, regulators
+can help organizations better allocate resources,
+streamline compliance efforts, and ultimately,
+improve their security posture in this rapidly
+changing environment.
+Overview of cybersecurity standards and frameworks
+Topic US Approach European Approach
+Frameworks and Emphasis on frameworks like NIST, with Focus on ISO 27001 standards and the
+standards sector-specific compliance regulations such adoption of new regulations like NIS2.
+as HIPAA and PCI.
+Regulation vs. directive Predominantly compliance-based regulations NIS2 is a directive framework, allowing each EU
+specific to certain industries. member state to adapt it to local needs.
+Certification Compliance with standards may vary by ISO 27001 is certifiable; however, NIS2
+sector; certification isn’t universal across currently lacks a certification path, though
+frameworks. future certification requirements may emerge.
+© 2024 Keepit. All rights reserved.
+
+--- Page 2 ---
+Commonalities across cybersecurity frameworks
+Framework Overview
+Resilience and recovery Shift from separate disaster recovery and cyber controls to integrated resilience approaches.
+Regulations now stress the ability to protect, detect, respond, and recover in a unified model.
+Zero Trust principles The need for “least privilege” access, consistent verification, and breach assumption. Zero Trust
+architecture is emerging as a common expectation across frameworks.
+Continuous monitoring Regular assessments, testing, and monitoring are essential for meeting and maintaining
+and testing compliance standards over time.
+The role of risk assessment and data classification
+Effective risk assessment is vital for achieving compliance and safeguarding critical assets. By identifying
+high-risk areas and ensuring operational resilience, organizations can align with regulatory standards while
+protecting business continuity. Effective data classification and governance are foundational steps in this
+process. Technology managers need to implement the following practices to build a secure and adaptable
+security framework:
+Data classification and governance Operational resilience
+• Identify critical assets and data categories. • Map critical systems and assess risks.
+• Focus resources on high-risk areas. • Develop and rehearse an incident response plan.
+Next steps for building a resilient cybersecurity and
+compliance framework
+Achieving compliance and building a robust cybersecurity framework require a unified strategy that
+assesses risks, involves key stakeholders, and adapts to new challenges. The following checklist offers
+practical steps for organizations to strengthen their security posture and ensure regulatory alignment:
+1. Prioritize based on risk: 5. Regular audits and updates:
+Identify and protect critical assets and business Treat cybersecurity as an ongoing program by
+processes to maintain continuity during disruptions. conducting regular reviews and staying ahead of threats.
+2. Involve all stakeholders: 6. Focus on training and awareness:
+Engage C-level, IT teams, and business units to align Keep employees informed and engaged with regular
+security goals across the organization. cybersecurity training and clear policies.
+3. Collaborative risk mapping: 7. Utilize external audits:
+Foster teamwork across departments to create a Leverage independent assessments to validate your
+comprehensive view of potential risks. efforts and identify improvement areas.
+4. Exercise and test response plans: 8. Invest in continuous improvement:
+Regularly test your incident response strategy through Stay agile by reassessing strategies and adapting to
+tabletop exercises to ensure readiness. regulatory and business changes.
+© 2024 Keepit. All rights reserved.
+
+--- Page 3 ---
+“A common trend in cybersecurity regulations is that all of them are changing. All of them are
+being updated because the environment we operate in today looks vastly different than only a
+couple of years ago. That’s because we have a much bigger attack surface, and we introduced
+more advanced technology to support all our organizations.”
+Jimmy Nilson, Global VP at Kyndryl Security Consulting
+Here at Keepit we:
+Support thousands of organizations as they navigate their compliance journey. We have been recognized by Forrester
+for our significant experience with data privacy and compliance needs.
+Specialize in SaaS data protection Are committed to compliance
+We support a wide range of business- Keepit holds end-to-end compliance
+critical SaaS platforms, such as certifications and is certified by both
+Microsoft 365, Entra ID, Salesforce, and ISO/ IEC 27001:2013 and the ISAE
+more. Our solution is purpose-built and 3402-II, ensuring the highest standards
+specifically designed for protecting of data protection and security.
+cloud SaaS data.
+Run independent cloud operations Deploy leading security measures
+We maintain our own cloud We deploy leading security measures,
+infrastructure and our own data centers keeping your data safe in a fully
+across the world without relying on air gapped, logically segregated
+any data sub-processors. Vendor environment with immutability by
+independence means you’ll always have default and encryption both in transfer
+access to your data. and at rest.
+Continue the conversation
+Watch the on-demand webinar
+Watch it now
+Keepit provides next-level SaaS data protection purpose-built for the cloud by securing data in a vendor-independent
+cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+For more information visit www.keepit.com or follow Keepit on Linkedin
+© 2024 Keepit. All rights reserved.

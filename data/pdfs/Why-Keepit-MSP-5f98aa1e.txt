@@ -1,0 +1,74 @@
+Source: https://lp.keepit.com/hubfs/Partner/Why-Keepit-MSP.pdf
+
+--- Page 1 ---
+EEffffoorrttlleessss SSaaaaSS pprrootteeccttiioonn ffoorr MMSSPPss
+Data in SaaS platforms is growing fast—and so is the risk. One accidental deletion or breach can bring your customers to
+a halt. Keepit gives MSPs the power to deliver seamless, secure backup and recovery for Microsoft 365 and customers
+business. With Keepit, you reduce complexity, respond faster, and build a more profitable service offering.It’s low
+effort, high impact. Green means GO—with Keepit.
+Less friction
+“By 2029, 80% of enterprises
+Keepit’s purpose-built SaaS platform gives you a clean, unified view across all
+will prioritize backup of SaaS
+your customers—removing the need for switching between tools and minimizing
+chaos. Our multi-tenant MSP Portal makes it easy to scale, automate, and applications as a critical requirement,
+onboard new clients fast. Minimal training, maximum productivity—so your team compared with 20% in 2025.”
+can spend less time managing backups and more time growing the business.
+Gartner® , Magic Quadrant™ for Backup and
+Data Protection Platforms, 24 June 2025*
+Faster recovery
+When something goes wrong, your customers count on you to fix it—fast. Cost over data
+Keepit is 100% independent and doesn’t rely on Microsoft or any hyperscaler
+Storage
+storage. That means you stay in control. Real-time dashboards and early- costs
+warning alerts help you catch issues before they become problems, and
+instant access to backup data means you’re always ready to respond. Other providers
+Keepit
+Accelerated profits
+Keepit keeps your margins clean. Our pricing is simple—unlimited
+storage and retention, with no hidden fees for ingress, egress, or
+restores. That means fewer billing surprises, lower overhead, and
+a more profitable path to growing your MSP business.
+Time
+As organizations prioritize backup of SaaS applications, Keepit enables MSPs to offer
+scaleable, immutable, and compliant services to customers.
+Cloud-native data protection Data sovereignty
+• Scalable and adaptive, unlike on-prem • Data stays protected in the chosen region
+solutions retrofitted for the cloud
+• Own data centers in seven countries
+• Purpose-built, Keepit works smoothly across SaaS applications on three continents
+• No infrastructure and maintenance costs associated
+with on-premises or hybrid alternatives Immutable backups by design
+• Built so that it’s impossible to change or delete
+files, guaranteeing true immutability
+Secure and encrypted
+• AES encryption employed directly
+on our storage systems
+• Advanced encryption standards
+both in transit and at rest
+• Keepit exchanges traffic directly with workload
+providers over major internet exchange
+© 2025 Keepit. All rights reserved.
+
+--- Page 2 ---
+Tried, tested, and proven
+“We’ve now got complete confidence and visibility “We needed to back up our Microsoft 365 hosted data
+that all of our Microsoft 365 and Google Workspace and were looking for the most effective way to do that.
+user data is being backed up on a single platform. We looked at free or low-cost cloud-to-on-prem
+Since Microsoft doesn’t guarantee our data, I need a solutions but Keepit’s low management overhead and
+solution like Keepit. Data retention is absolutely key simplicity to configure and use made it a much better
+for us, and ultimately the data is my responsibility.” solution and worth the cost.”
+| James Mallet, Head of Global Infrastructure, Cognita | Chris Downing, Systems Engineer, Prince Alfred College
+Recognized by the industry
+WINNER
+CYBER DEFENSE MAGAZINE
+2025
+Experience how Keepit gives MSPs
+the green light to profitability,
+schedule a demo today.
+Book a demo
+Next-level SaaS data protection
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

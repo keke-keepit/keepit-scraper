@@ -1,0 +1,91 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-HandwerkskammerAachen-customer-case-DE.pdf
+
+--- Page 1 ---
+Kundenreferenz
+Bequeme und sichere
+Datensicherung für die
+Handwerkskammer Aachen
+
+--- Page 2 ---
+Kundenreferenz:
+Handwerkskammer Aachen
+Mit über 17.400 Mitgliedsunternehmen ist die Handwerkskammer Aachen eine treibende Kraft
+bei der Förderung der handwerklichen Ausbildung und Innovation in ihrer Region. Als öffentlich-
+rechtliche Körperschaft übernimmt sie auf Grundlage der Handwerksordnung und ihrer Satzung
+eine Vielzahl von Aufgaben, die ihr vom Staat übertragen werden. Auf der Suche nach einer
+zuverlässigen und konformen Backup-Lösung entschied sich die Kammer nach einer Empfehlung
+ihres Partners IT sure für Keepit.
+Strenge Datenschutzanforderungen Das IT-Team suchte nach einer komfortablen
+Die Handwerkskammer Aachen sah sich strengen Backup-Lösung für seine Microsoft
+Datenschutzanforderungen gegenüber, 365-Umgebung, wobei die Einhaltung
+darunter die Einhaltung der DSGVO sowie der DSGVO, Benutzerfreundlichkeit und
+der Datenschutzgesetze des Bundes und der Zuverlässigkeit zu den wichtigsten Kriterien
+Länder. „Mit 250 Nutzern benötigte unsere zählten. Keepit bietet ein unabhängiges
+Organisation eine Lösung, die mit sensiblen Backup von elf geschäftskritischen SaaS-
+personenbezogenen Daten umgehen und die Anwendungen und sichert Kundendaten in sieben
+Geschäftskontinuität gewährleisten konnte, Rechenzentrumsregionen, um die Datenhoheit zu
+da unsere Aufgaben und Verantwortlichkeiten gewährleisten.
+durch Bundesgesetze geregelt sind“, erklärt
+Markus Burgold, Leiter der IT-Abteilung der
+Handwerkskammer Aachen.
+„Europäische Rechenzentren und die
+Unabhängigkeit von Anbietern waren ebenfalls
+entscheidende Faktoren für die Wahl von Keepit.“
+- Markus Burgold,
+Leiter der IT-Abteilung der Handwerkskammer Aachen
+
+--- Page 3 ---
+Kundenreferenz:
+Handwerkskammer Aachen
+Bequeme Cloud-Sicherung
+Mit Keepit hat die Handwerkskammer Aachen
+ihr Ziel einer komfortablen Cloud-Sicherung
+für ihre Microsoft 365-Umgebung erreicht.
+Keepit konnte eine Lösung für die Sicherung
+aller wichtigen Cloud-Daten (Exchange Online,
+SharePoint, OneDrive) bereitstellen, die eine
+schnelle Wiederherstellung im Falle eines
+Datenverlusts gewährleistet und das Recht
+auf Vergessenwerden (RTBF) unterstützt. Die Über die Handwerkskammer Aachen
+Handwerkskammer Aachen schätzte auch die Seit ihrer Gründung am 24. April 1900 stärkt,
+Benutzerfreundlichkeit und Zuverlässigkeit unterstützt und fördert die Handwerkskammer
+Aachen das Handwerk in der Region. Seit über einem
+von Keepit. Sicherheitsmaßnahmen wie
+Jahrhundert unterstützt, fördert und berät die Kammer
+Verschlüsselung und Datenunveränderbarkeit
+Handwerksbetriebe in der Stadtregion Aachen und
+waren für die Organisation unverzichtbar. den Kreisen Düren, Heinsberg und Euskirchen.
+Der Weg zum Erfolg durch Partnerschaft Mit über 17.400 Mitgliedsunternehmen ist die
+Die Handwerkskammer Aachen wurde durch Handwerkskammer Aachen eine starke Stimme und
+treibende Kraft bei der Förderung der handwerklichen
+eine Empfehlung aus ihrem Netzwerk auf Keepit
+Ausbildung und Innovation.
+aufmerksam. IT sure, ein etablierter Partner von
+Microsoft und Keepit, spielte eine Schlüsselrolle Über IT sure
+bei der daraus resultierenden Zusammenarbeit. IT sure ist ein etablierter Partner von Microsoft und
+Als Keepit Elite Partner konzentriert sich IT sure Keepit und hilf mittelständischen Unternehmen dabei,
+ihren Wettbewerbsvorteil durch den effizienten
+auf modernen Datenschutz in der Cloud und
+Einsatz der Microsoft Cloud zu maximieren. Als
+hilft mittelständischen Unternehmen, ihren
+Keepit Elite Partner setzt IT sure gezielt auf moderne
+Wettbewerbsvorteil durch die effiziente Nutzung Datensicherung in der Cloud – DSGVO-konform,
+der Microsoft Cloud zu maximieren. transparent, unabhängig.
+Mit den Dienstleistungen und Managed Cloud
+„Die schnellen Wiederherstellungsfunktionen Services rund um Microsoft Azure, Microsoft 365
+und Microsoft Fabric steigern das Unternehmen die
+und die DSGVO-Konformität der Lösung
+IT-Sicherheit, Kommunikation, Kollaboration und
+waren für uns besonders vorteilhaft. Mit Keepit
+Datenkultur bei ihren Kunden. Die IT sure blickt auf
+haben wir eine verbesserte Datensicherheit über 20 Jahre Erfahrung im Bereich IT-Consulting
+zurück.
+und Geschäftskontinuität erreicht.“
+- Markus Burgold,
+Leiter der IT-Abteilung der Handwerkskammer Aachen
+Your data. Here today. Here tomorrow.
+Keepit bietet eine hochmoderne SaaS-Datenschutzplattform, die speziell für die Cloud entwickelt wurde,
+indem sie Daten in einer anbieterunabhängigen Cloud sichert, um geschäftskritische Anwendungen zu
+schützen, die Cyber-Resilienz zu stärken und die Datensicherung zukunftssicher zu machen.
+Weitere Informationen finden Sie unter www.keepit.com oder folgen Sie Keepit auf LinkedIn.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

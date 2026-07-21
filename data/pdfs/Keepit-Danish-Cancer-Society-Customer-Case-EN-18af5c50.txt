@@ -1,0 +1,124 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Danish-Cancer-Society-Customer-Case-EN.pdf
+
+--- Page 1 ---
+Customer case:
+Danish Cancer Society
+Danish Cancer Society
+chooses Keepit to
+protect against outages
+& external cyberattacks
+
+--- Page 2 ---
+Customer case:
+Danish Cancer Society
+The Danish Cancer Society is the largest
+patient association in Denmark devoted to
+fighting cancer. The group’s main activities
+are within research, patient support and
+prevention. The Danish Cancer Society has
+“There have been examples
+around 800 full-time employees, more than
+of the Office 365 service
+400,000 members, and almost 45,000
+being offline for a whole
+volunteers.
+day. Should this happen,
+and we are unable to access
+Collaboration is easier in the cloud our emails and files, it would
+The Danish Cancer Society decided to migrate cause significant problems
+to the Office 365 cloud infrastructure three for the society.”
+years ago, providing increased flexibility, greater
+- Jeanne Andersen
+capability for mobile working and more secure
+IT Systems Manager
+access to data. IT Systems Manager Jeanne
+Danish Cancer Society
+Andersen explains that Office 365 has also
+made it easier for employees to collaborate
+on projects; moreover, the cloud infrastructure
+makes it simpler to share information between
+colleagues, departments, and external
+stakeholders.
+“It is important that we
+are prepared for
+ransomware threats, or
+other malicious attacks
+targeting our data. If we
+did not have a backup
+solution in place, it would
+leave us in big trouble!”
+- Jeanne Andersen
+IT Systems Manager
+Danish Cancer Society
+
+--- Page 3 ---
+Customer case:
+Danish Cancer Society
+The migration is an ongoing process, integrat-
+ing more elements of Office 365 into daily use
+including SharePoint to collaborate on projects,
+and OneDrive for storing and sharing files.
+“I have been in the IT business for more
+than twenty years, and I’ve never
+before experienced an onboarding
+process that was executed with such
+speed and efficiency!”
+- Jeanne Andersen
+IT Systems Manager
+Danish Cancer Society
+Why cloud backup is important
+With the majority of the organization’s workflow
+and information now in the cloud, secure, third-
+party data backup became a top priority. The
+About Danish Cancer
+Danish Cancer Society also required a method
+Society
+to ensure constant access to their information
+The Danish Cancer Society is the largest
+during events like an Office 365 service outage,
+patient association in Denmark devoted
+external cyberattack, etc. In order to fulfil these to fighting cancer. Its aims are to prevent
+requirements, Keepit was selected as the the development of cancer, to improve
+patients’ chances of successful recovery
+Office 365 backup and recovery solution.
+and to limit the physical, psychological
+Easy onboarding with Keepit and social side-effects of cancer. The
+The Danish Cancer Society was fully satisfied group’s main activities are within research,
+patient support and prevention. The
+with the service provided by Keepit’s staff.
+Danish Cancer Society has around 800
+Andersen’s IT team enjoyed an effective
+full-time employees, more than 400,000
+dialogue with Keepit’s support team during and members, and almost 45,000 volunteers.
+after the process of connecting their Office
+365 service to Keepit.
+In addition to being confident that their
+organization’s data is securely backed up
+and always available, Anderson notes some
+additional benefits from using Keepit. Next
+steps for the Danish Cancer Society include
+using Teams for Office 365, which will also be
+automatically and securely backed up as part of
+the Keepit service.
+
+--- Page 4 ---
+Learn how Keepit can
+securely back up and
+recover your data
+Request demo
+Keepit provides next-level SaaS data protection Headquartered in Copenhagen with offices and data
+purpose-built for the cloud, by securing data in a centers worldwide, over ten thousand companies
+vendor-independent cloud to safeguard essential trust Keepit for its ease of use and effortless backup
+business applications, boost cyber resilience and and recovery of cloud data.
+future-proof data protection.
+HQ - Copenhagen Dallas, Texas London Munich
+Denmark United States United Kingdom Germany
+Keepit A/S Keepit USA Inc. Keepit Technologies UK, LTD. Keepit Germany GmbH
+Per Henrik Lings Allé 4, 7. 3232 McKinney Avenue Suite 820 Warnford Court Maximiliansplatz 22
+2100 København, Denmark Dallas TX 75204, USA 29, Throgmorton Street 380639 München
+CVR: 30806883 TIN: 85-358 6335 London EC2N 2AT, UK Amtsgericht München,
++45 8987 7792 +1 469-461-4892 Company reg. no.: 13785045 HRB 270094
+sales@keepit.com sales@keepit.com sales@keepit.com Geschäftsführer Morten Felsvang
+sales@keepit.com
+www.keepit.com
+© 2024 Keepit. All rights reserved.

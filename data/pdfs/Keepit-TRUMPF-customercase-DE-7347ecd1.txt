@@ -1,0 +1,147 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-TRUMPF-customercase-DE.pdf
+
+--- Page 1 ---
+Kundenreferenz
+TRUMPF stärkt die globale
+Datensicherung mit Keepit
+
+--- Page 2 ---
+Kundenreferenz:
+TRUMPF
+Für TRUMPF, einen weltweit führenden Anbieter von Werkzeugmaschinen und Lasertechnologie,
+ist Datensicherheit ein zentraler Bestandteil, um den Geschäftsbetrieb aufrechtzuerhalten
+und das geistige Eigentum seiner Kunden zu schützen. Das Team Infrastructure Solutions and
+Operations unterstützt weltweit Tausende von Anwendern und schützt umfangreiche Microsoft
+Office 365-Daten. Dafür benötigte das Unternehmen eine Backup- und Recovery-Lösung, die
+sensible Konstruktionsdaten schützt, internationale Compliance-Standards erfüllt und einen
+unterbrechungsfreien Geschäftsbetrieb gewährleistet.
+Schutz sensibler Daten für eine globale Ein klarer Bedarf an stärkerem und zuverlässigerem
+Belegschaft SaaS-Schutz
+TRUMPF verarbeitet täglich eine große Mit der zunehmenden Nutzung von Cloud-
+Bandbreite an Daten. Diese Daten sind nicht nur Services erkannte das IT-Team von TRUMPF die
+essenziell für die Bereitstellung hochwertiger Notwendigkeit, seine Backup- und Recovery-
+Produkte und Dienstleistungen, sondern auch Strategie zu modernisieren.
+äußerst sensibel. Das Unternehmen muss die
+Zu den wichtigsten Zielen gehörten eine
+DSGVO sowie weitere regionale Vorschriften
+stärkere Business Continuity, eine bessere
+einhalten, geistiges Eigentum schützen und
+Wiederherstellungsleistung sowie ein konsistenter
+sich gegen zunehmende Cyberbedrohungen
+Schutz der SaaS-Anwendungen im gesamten
+absichern.
+Unternehmen. Zu den zentralen Anforderungen
+Mit Tausenden von Mitarbeitenden, die über zählten Zuverlässigkeit, Skalierbarkeit und
+verschiedene Märkte hinweg zusammenarbeiten, Benutzerfreundlichkeit. Ebenso wichtig war eine
+ist die Datenmenge in Exchange, SharePoint, Lösung, die sich nahtlos in bestehende Systeme
+OneDrive und Teams erheblich. Die Sicherheit integrieren lässt und zuverlässigen Support bietet,
+und Wiederherstellbarkeit dieser Daten ohne zusätzliche Komplexität zu schaffen.
+sicherzustellen, hat für die IT-Organisation
+höchste Priorität.
+„Wir arbeiten mit Informationen, die äußerst
+sensibel sind. Vertraulichkeit und Compliance
+sicherzustellen, ist für unsere Abläufe
+essenziell.“
+- Jonathan Gaiser
+Infrastructure Solutions and Operations
+TRUMPF
+
+--- Page 3 ---
+Kundenreferenz:
+TRUMPF
+Warum Keepit überzeugte Einfache und intuitive Datensicherung
+TRUMPF entdeckte Keepit im Rahmen einer Die Plattform von Keepit ist darauf ausgelegt,
+strukturierten Suche nach einer modernen, Backup und Recovery einfach und intuitiv zu
+cloudfähigen Plattform für Datensicherheit. gestalten. Dank schneller Einrichtung, einfacher
+Schnell wurde deutlich, dass der Ansatz von Keepit Navigation und nahtloser Integration zentraler
+gut zu den Anforderungen des Unternehmens in Anwendungen kann sich TRUMPF auf seine
+Bezug auf Sicherheit, Compliance und operative Kernaufgaben konzentrieren und gleichzeitig
+Resilienz passt. sicherstellen, dass Daten compliant und mit
+minimalem Aufwand wiederherstellbar bleiben.
+Europäische Rechenzentren waren ein wichtiger
+Differenzierungsfaktor. Aufgrund strenger Diese Einfachheit erwies sich für das IT-Team als
+DSGVO-Vorgaben und der globalen Präsenz besonders wertvoll. Funktionen wie Granular
+benötigte TRUMPF die Gewissheit, dass die Daten Restore, SSO- und MFA-Integration sowie
+innerhalb der Region gespeichert bleiben. Auch eine intuitive Weboberfläche erleichtern die
+die herstellerunabhängige Architektur von Keepit tägliche Verwaltung. Das Team kann nun präzise
+spielte eine wichtige Rolle, da sie Neutralität und Wiederherstellungen auf Elementebene schnell
+Flexibilität bietet. durchführen und Anwendern eine reibungslosere
+Erfahrung bieten, wenn Daten wiederhergestellt
+Sicherheitsfunktionen waren ein weiterer
+werden müssen. TRUMPF profitiert außerdem
+entscheidender Faktor. Verschlüsselung
+von der „Right to be Forgotten“-Funktion von
+und Daten-Immutability sind essenzielle
+Keepit, die bei der Einhaltung von Compliance-
+Schutzmechanismen für Konstruktionsdaten,
+Anforderungen unterstützt.
+Fertigungsinformationen und Kundendaten. Die
+Möglichkeit, sicherzustellen, dass Backups nicht
+verändert oder manipuliert werden können, stärkte
+die gesamte Sicherheitsstrategie von TRUMPF.
+„Die Automatisierung unserer Backups und
+die schnellere Wiederherstellung haben einen
+großen Unterschied gemacht. Wir haben Risiken
+reduziert und die Kontinuität im gesamten
+Unternehmen verbessert.“
+- Jonathan Gaiser
+Infrastructure Solutions and Operations
+TRUMPF
+
+--- Page 4 ---
+Kundenreferenz:
+TRUMPF
+Stärkung von Compliance und Business
+Continuity
+Die Plattform von Keepit legt den Fokus auf
+die Integrität von Cloud-Daten und bietet
+eine unabhängige, unveränderliche Backup-
+Umgebung mit flexiblen Zugriffs- und
+Aufbewahrungsoptionen. Für TRUMPF bedeutet
+das mehr Transparenz, Audit-Bereitschaft und
+eine bessere Ausrichtung an regulatorische
+Über TRUMPF
+Anforderungen.
+TRUMPF ist ein Hightech-Unternehmen,
+Heute erfolgen Recoverys schneller, der Support- das Fertigungslösungen in den Bereichen
+Werkzeugmaschinen und Lasertechnologie anbietet.
+Aufwand ist geringer, und das Team kann auf
+Das Unternehmen treibt die digitale Vernetzung in
+Vorfälle schneller reagieren – ohne Produktions-
+der Fertigung durch Beratung, Plattformprodukte
+oder Serviceprozesse zu unterbrechen. und Software voran. TRUMPF gehört zu den
+Technologie- und Marktführern bei hochflexiblen
+Empfehlung für Unternehmen, die SaaS-Backup
+Werkzeugmaschinen für die Blechbearbeitung sowie
+evaluieren im Bereich industrieller Laser.
+Basierend auf seinen Erfahrungen empfiehlt Im Geschäftsjahr 2024/25 beschäftigte TRUMPF
+Gaiser anderen Organisationen, ihre 18.303 Mitarbeitende und erzielte einen Umsatz von
+4,3 Milliarden Euro. Mit rund 90 Gesellschaften ist
+Anforderungen frühzeitig klar zu definieren
+die TRUMPF-Gruppe in nahezu allen europäischen
+– insbesondere in Bezug auf Compliance,
+Ländern sowie in Nordamerika, Südamerika und Asien
+Datensouveränität und Erwartungen an die vertreten. Produktionsstandorte befinden sich in
+Wiederherstellung. Zudem rät er zu einer Deutschland, Frankreich, Großbritannien, Italien,
+Österreich, der Schweiz, Polen, Tschechien, den USA,
+Pilotphase, um operative Anforderungen zu
+Mexiko und China.
+validieren und Support-Optionen zu bewerten,
+damit langfristige Stabilität gewährleistet ist.
+„Man sollte von Anfang an genau wissen, was man
+braucht, und sicherstellen, dass die Lösung mit „Der granulare Restore und die intuitive
+dem Unternehmen wachsen kann.“ Benutzeroberfläche von Keepit waren für
+uns große Vorteile. Sie machen die Arbeit
+Mit Keepit hat TRUMPF seine globale
+schneller und effizienter.“
+Datenschutzstrategie gestärkt, die operative
+Effizienz verbessert und eine zuverlässige - Jonathan Gaiser
+Grundlage geschaffen, um sensible Infrastructure Solutions and Operations
+TRUMPF
+Informationen im gesamten Unternehmen sicher
+zu verwalten.
+Your data. Here today. Here tomorrow.
+Keepit bietet eine hochmoderne SaaS-Datenschutzplattform, die speziell für die Cloud entwickelt wurde,
+indem sie Daten in einer anbieterunabhängigen Cloud sichert, um geschäftskritische Anwendungen zu
+schützen, die Cyber-Resilienz zu stärken und die Datensicherung zukunftssicher zu machen.
+© 04/01/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

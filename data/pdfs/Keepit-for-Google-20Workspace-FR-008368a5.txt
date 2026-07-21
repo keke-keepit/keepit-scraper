@@ -1,0 +1,74 @@
+Source: https://lp.keepit.com/hubfs/product-sheets/Keepit-for-Google%20Workspace-FR.pdf
+
+--- Page 1 ---
+Sauvegarde et Récupération
+pour Google Workspace
+Protégez la collaboration d’équipe avec une sauvegarde indépendante du fournisseur
+Google Workspace est le cœur de la productivité et de la collaboration de votre entreprise, stockant des
+données critiques qui doivent être protégées. Bien que Google assure la disponibilité de l’infrastructure, il ne
+protège pas contre toutes les formes de perte de données. Selon le modèle de responsabilité partagée, « vous
+restez responsable de vos contrôles d’accès et des données que vous choisissez de stocker dans l’application »*.
+Sans sauvegarde tierce ni conservation à long terme, il existe un réel risque de perte définitive, avec des
+conséquences opérationnelles et financières coûteuses.
+Keepit propose une solution de sauvegarde indépendante du fournisseur pour Google Workspace,
+garantissant la sécurité et la récupération facile de vos données, la conformité de votre entreprise, et la
+productivité de vos équipes, quelles que soient les circonstances.
+*Source: Responsabilités partagées et destin commun sur Google Cloud
+Utilisabilité gain de temps Intégrité des données garantie Gestion centralisée
+Keepit s’installe rapidement et est Les sauvegardes immuables de Keepit Une plateforme unifiée pour toutes
+simple à utiliser, vous offrant une garantissent que vos données Goo- les sauvegardes des applications
+récupération rapide et sans effort gle Workspace ne peuvent pas être SaaS critiques, offrant transpar-
+de Google Workspace quand altérées, vous offrant une confiance ence, visibilité et rapports faciles
+vous en avez besoin, sans com- totale en matière de conformité et de pour les managers et les dirigeants.
+pétences techniques requises. préparation aux audits.
+Le risque L’impact Bénéfice avéré
+85 % des organisations ont 90 % de celles ayant signalé des incidents de Les clients de Keepit ont pu réduire de 90
+signalé au moins un incident de perte de données ont subi des conséquences, % le temps nécessaire pour restaurer les
+perte de données au cours des notamment des interruptions d’activité, des données des utilisateurs prioritaires après
+pertes de revenus et des dommages à leur un incident de perte de données.
+12 derniers mois.
+réputation. Source: Forrester Total Economic Impact Study 2024
+Source: Proofpoint “The 2024 Data Loss
+Landscape” Source: Proofpoint “The 2024 Data Loss Landscape”
+« Keepit est une solution à configurer et oublier, et tout
+est accessible depuis un seul écran — nous pouvons
+ainsi vérifier la quantité de données sauvegardées et
+nous assurer que tout fonctionne parfaitement. »
+Laura Riley - CEO, Mums In Need
+
+--- Page 2 ---
+Prenez le contrôle de vos données Google Workspace
+avec Keepit
+FONCTIONNALITÉS CLÉS
+Recherche instantanée Rétention illimitée Surveillance proactive
+Trouvez rapidement ce dont vous avez Personnalisez la durée de conserva- Les tableaux de bord de protection
+besoin grâce à la puissante fonction tion jusqu’à 99 ans sans frais supplé- des données et de détection des
+de recherche de Keepit. Utilisez des mentaires, incluant l’archivage des anomalies permettent de maintenir
+filtres pour localiser emails, docu- données pour les utilisateurs inactifs. l’intégrité et la santé des sauvegardes,
+ments, et plus encore. Restaurez ou ainsi que d’identifier, d’investiguer et
+partagez via un lien sécurisé en un clic. Sécurité maximale de remédier rapidement aux risques
+L’architecture indépendante liés aux données.
+Options de restauration multiples du fournisseur et immuable par
+Restaurez des éléments en masse ou conception de Keepit garantit la
+de manière granulaire pour garantir protection de vos sauvegardes.
+une récupération rapide et précise.
+CE QUE NOUS COUVRONS
+Tous les espaces
+Gmail Google drive Forms
+partagés Google
+Découvrez la
+Google Éléments dans
+Google Tasks couverture
+Agenda la corbeille
+complète ici.
+Sécurisez votre Google
+Workspace en quelques
+minutes avec Keepit.
+Demandez une
+démo
+Your data. Here today. Here tomorrow.
+Keepit fournit une plateforme de protection des données SaaS de nouvelle génération spécialement conçue
+pour le cloud en sécurisant les données dans un cloud indépendant afin de protéger les applications cloud
+essentielles, renforcer la résilience cybernétique et garantir une protection des données pérenne.
+Pour plus d’informations, visitez www.keepit.com ou suivez Keepit sur Linkedin.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

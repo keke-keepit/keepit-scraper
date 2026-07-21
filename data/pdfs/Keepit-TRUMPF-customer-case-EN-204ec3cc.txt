@@ -1,0 +1,128 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-TRUMPF-customer-case-EN.pdf
+
+--- Page 1 ---
+Customer case
+TRUMPF strengthens
+global data protection
+with Keepit
+
+--- Page 2 ---
+Customer case:
+TRUMPF
+For TRUMPF, a global leader in machine tools and laser technology, data protection is central
+to keeping its business running and its customers’ intellectual property secure. The company’s
+Infrastructure Solutions and Operations team supports thousands of users worldwide and
+protects extensive Microsoft Office 365 data. They needed a backup and recovery solution that
+could safeguard sensitive design information, meet international compliance standards, and
+keep the business operating without interruption.
+Protecting data across a global workforce in Exchange, SharePoint, OneDrive, and
+TRUMPF handles a wide range of data every day. Teams is significant. Keeping that data safe
+That data is not only essential to delivering high- and recoverable is a core priority for the IT
+quality products and services; it’s also highly organization.
+sensitive. The company must comply with GDPR
+“We work with information that’s incredibly
+and other regional regulations, protect
+sensitive. Ensuring confidentiality and
+intellectual property, and guard against
+compliance is essential to our operations.”
+increasing cyberthreats.
+- Jonathan Gaiser
+With thousands of employees collaborating
+Infrastructure Solutions and Operations
+across markets, the amount of data stored TRUMPF
+“Keepit’s granular restore and the intuitive
+interface were big advantages for us. They make
+the work faster and more efficient.”
+- Jonathan Gaiser
+Infrastructure Solutions and Operations
+TRUMPF
+
+--- Page 3 ---
+Customer case:
+TRUMPF
+A clear need for stronger, more reliable SaaS Why Keepit stood out
+protection TRUMPF discovered Keepit during a structured
+As TRUMPF expanded its use of cloud services, search for a modern, cloud-ready data
+the IT team recognized the need to modernize its protection platform. The company quickly
+backup and recovery strategy. recognized that Keepit’s approach aligned with
+its requirements for security, compliance, and
+Key objectives included strengthening business
+operational resilience.
+continuity, improving recovery performance,
+and ensuring consistent protection across European data centers were an important
+the company’s SaaS applications. Reliability, differentiator. With strict GDPR obligations and a
+scalability, and ease of use were central global footprint, TRUMPF needed assurance that
+requirements. So was finding a solution that its data would remain in-region. Keepit’s vendor-
+integrated smoothly with existing systems and independent architecture also mattered, offering
+offered strong support without adding complexity. neutrality and flexibility.
+“We wanted a solution that improved our Security features played a major role in the
+backup processes but also simplified decision. Encryption and data immutability are
+them,” Gaiser says. “Fast, accurate essential safeguards for protecting design data,
+recovery was a top priority.” manufacturing information, and customer details.
+The ability to ensure that backups couldn’t be
+- Jonathan Gaiser
+altered or tampered with helped TRUMPF
+Infrastructure Solutions and Operations
+TRUMPF strengthen its overall security posture.
+“Automating our backups and
+improving recovery speed has had a big
+impact. We’ve reduced risk and improved
+continuity across the organization.”
+- Jonathan Gaiser
+Infrastructure Solutions and Operations
+TRUMPF
+
+--- Page 4 ---
+Customer case:
+TRUMPF
+Straightforward, intuitive protection
+Keepit’s platform is designed to make backup
+and recovery straightforward and intuitive. With
+fast setup, simple navigation, and seamless
+integration across key applications, TRUMPF
+can focus on what matters while ensuring its
+data remains compliant and easily recoverable
+with minimal effort.
+This simplicity proved valuable for the IT About TRUMPF
+team. Features like granular restore, SSO TRUMPF is a high-tech company offering
+and MFA integration, and an intuitive web manufacturing solutions in the fields of machine tools
+and laser technology. It drives digital connectivity in
+interface make day-to-day management easier.
+manufacturing through consulting, platform products
+The team can now perform precise, item-level
+and software. TRUMPF is one of the technology and
+recoveries quickly and give users a smoother market leaders in highly versatile machine tools for
+experience when something needs to be sheet metal processing and in the field of industrial
+lasers.
+restored. TRUMPF also benefits from Keepit’s
+right to be forgotten feature, helping support In 2024/25, TRUMPF employed 18,303 people and
+compliance requirements. generated sales of 4.3 billion euros. With about 90
+companies, the TRUMPF Group is represented in
+Strengthening compliance and business nearly every European country as well as in North
+continuity America, South America and Asia. The company has
+production facilities in Germany, France, the United
+Keepit’s platform prioritizes cloud data integrity
+Kingdom, Italy, Austria, Switzerland, Poland, the Czech
+and provides an independent, immutable backup
+Republic, the United States, Mexico and China.
+environment with flexible access control and
+retention options. For TRUMPF, this helps ensure
+transparency, audit readiness, and alignment with
+He also suggests running a pilot phase
+regulatory standards.
+to validate operational needs and assess support
+Today, recovery is faster, support workload is options to ensure long-term stability. “Know
+lower, and the team can respond more quickly what you need from the start and make sure the
+to incidents without disruption to production or solution can grow with you,” he says.
+service operations.
+With Keepit, TRUMPF has strengthened its global
+Advice for organizations evaluating SaaS backup data protection strategy, improved operational
+Based on Gaiser’s experience, he recommends efficiency, and gained a reliable foundation for
+that other organizations define their requirements securely managing sensitive information across
+early, especially when it comes to compliance, its business.
+data sovereignty, and recovery expectations.
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. www.keepit.com
+© 03/05/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

@@ -1,0 +1,90 @@
+Source: https://lp.keepit.com/hubfs/product-sheets/Keepit-Cyber-storage-EN.pdf?
+
+--- Page 1 ---
+Cyber storage by
+Keepit: The future
+of backup
+Protect, recover, and stay in control — backups built for modern threats
+Ransomware proves prevention isn’t enough. Attackers now steal and encrypt data — including
+backups — making recovery harder and raising pressure to pay. Meanwhile, critical data is spread across
+countless SaaS apps, each a potential risk.
+That’s why every byte of critical data must be as close to invulnerable as possible. Even in the event of a
+breach, data must stay untouched, recoverable, and instantly available.
+This is where cyber storage comes in. Unlike passive backups, cyber storage takes a proactive
+approach, combining advanced storage capabilities with built-in security to protect data throughout
+its lifecycle and defend it against modern threats.
+With a fully independent and cloud-native platform, Keepit is purpose-built for cyber storage, helping
+companies minimize data loss, reduce downtime, and support compliance. Learn how in this factsheet.
+The challenge: Shared infrastructure
+Backups stored with production are exposed to the same outages and attacks.
+Keepit’s solution
+Independent cloud
+Keepit stores backup data in its own independent cloud — completely separate from production systems
+and SaaS vendors. Because Keepit owns the entire stack, your data stays safe from supply chain risks,
+cloud outages, and shared vulnerabilities.
+The challenge: Ransomware
+Backups are now a primary target.
+Keepit’s solution
+Immutable, air-gapped backups
+With Keepit, backups are immutable by default — meaning no one, not even internal users, can alter or
+delete them. Built-in access controls and an air-gapped design ensure backups stay untouched and
+recoverable, even during advanced attacks.
+
+--- Page 2 ---
+The challenge: Insider threats
+Credentials and trust boundaries can be abused.
+Keepit’s solution
+Zero trust by design
+Keepit protects backups from unauthorized access with multiple layers of security — including role-
+based access controls, SAML-based identity management, secure device authentication, and IP-based
+restrictions — strengthening overall data protection and giving you peace of mind.
+The challenge: Blind spots
+Hard to detect anomalies or malicious changes.
+Keepit’s solution
+Built-in monitoring
+Keepit’s monitoring and anomaly detection functionalities identify potential threats and alert you when
+major changes affect your backup data. This proactive protection helps you investigate and resolve issues
+before they compromise your backups.
+The challenge: Compliance burden
+Proving data integrity slows audits.
+Keepit’s solution
+Risk governance
+Keepit offers tamper-proof audit logs, intuitive dashboards, and built-in reporting that give managers
+and leaders full visibility. By aligning with major standards such as ISO/IEC 27001 and ISAE 3402-II, Keepit
+proves backup integrity, supports compliance, and simplifies audits.
+The challenge: Slow recovery
+Delays locating the right version prolong downtime.
+Keepit’s solution
+Point-in-time recovery
+Keepit enables rapid, granular recovery in place, with clear version histories and searchable backup data.
+Whether restoring a single file or an entire environment, Keepit ensures fast, accurate recovery, minimizing
+downtime and helping you meet your RTOs.
+The attack is on your data
+In a cyberattack, the target is always the data. Attackers don’t just breach systems — they steal
+and corrupt backups. That’s why keeping your backups secure by design is just as critical as how
+fast you respond.
+The defense is in your backup
+Keepit delivers cyber storage: vendor-independent, immutable, and air-gapped, with zero trust
+access controls. Built-in analytics and fast point-in-time recovery let you spot threats early and
+restore instantly. You stay in control, minimize damage, and bounce back with confidence.
+
+--- Page 3 ---
+What our customers say
+“My job is to ensure business continuity, compliance and resilience. I wouldn’t be
+fulfilling my responsibilities if I didn’t rely on a third-party backup provider like Keepit.”
+James Mallett, Head of Global Infrastructure, Cognita
+“I don’t think that you will find a better solution than Keepit when it comes to securing
+your SaaS data across multiple applications and ensuring robust, independent data
+security.”
+Leonard Haraslin, Penta Hospitals, Information and Cyber Security Specialist
+Industry recognition
+Don’t wait for an attack to test
+your resilience.
+See how Keepit can help you build a
+secure cyber storage foundation.
+Book a demo
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on LinkedIn.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

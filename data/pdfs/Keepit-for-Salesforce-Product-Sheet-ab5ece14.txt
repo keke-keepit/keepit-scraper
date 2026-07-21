@@ -1,0 +1,67 @@
+Source: https://lp.keepit.com/hubfs/product-sheets/Keepit-for-Salesforce-Product-Sheet.pdf
+
+--- Page 1 ---
+Keepit Backup and Recovery
+for Salesforce
+Reduce the impact and the burden of restoring your data and processes
+Data corruption in Salesforce can occur due to accidental overwrites, integration errors, or
+system failures, making recovery complex and time-consuming. Without precise restore
+capabilities, businesses lose critical data, break relationships, or restore unnecessary
+information. Incomplete, manual, or outdated methods lead to operational disruption and
+compliance risks.
+Keepit eliminates those problems by providing you with intelligent capabilities needed to keep
+your data and metadata safe and easily recoverable, while ensuring visibility into the health of
+backups in a single platform across SaaS applications.
+Be confident that Easily identify and Flexible restore options
+you can recover preview records Restore records with flexibility and at
+Have all your data always at your Quickly identify the correct data a granular level, from specific objects
+fingertips with comprehensive, to recover with smart search and and files to point-in-time snapshots.
+automated backups of your data and previewer for data, metadata, files,
+metadata. and attachments.
+The risk Proven benefit
+50% of Salesforce customers were unable to recover Keepit customers were able to reduce the time
+their lost or corrupted data in a timely manner. needed to restore data for priority users by 90% after
+Source: Forrester State of SaaS Data Protection a data loss incident
+Source: Forrester Total Economic Impact Study 2024
+“We have been able to split the responsibilities
+for data protection among different
+teams. This setup allows teams to work
+efficiently and independently.”
+Michael Bojko, System Engineer. Porsche Informatik
+© Keepit. All rights reserved. Version 1.1
+
+--- Page 2 ---
+What’s in Keepit for Salesforce
+KEY CAPABILITIES
+Granular restore - Restore specific Files restore with user and object reassignment –
+records, fields, and related data. Restore files based on active users while allowing
+admins to reassign them to different objects to
+Parent-Child relationship restore – Restore records
+maintain proper associations and ensure usability.
+while preserving parent-child relationships.
+Selective metadata restore – Restore
+Sandbox seeding – Populate sandboxes with
+only the necessary metadata without
+selected data sets while preserving relationships.
+affecting the entire environment.
+Data compare – Compare backup snapshots
+Point-in-time recovery – Restore data to
+to identify records added, modified, or deleted
+an exact state from any historical point to
+over time, enabling precise recovery.
+reverse accidental changes or corruption.
+WHAT WE COVER
+Objects Object metadata Files and attachments Industry clouds
+• Standard objects • All metadata available via • Attachments • Communications
+• Custom objects the API is included in the • Files • Consumer goods
+backup
+• Unlimited parent/child • Content • Financial services
+relationships • Documents • Health cloud
+• Loyalty cloud
+Find out how simple
+and easy it is to use Keepit
+Book a demo
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a
+vendor-independent cloud to safeguard essential business applications, boost cyber resilience and future-
+proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.

@@ -1,0 +1,182 @@
+Source: https://lp.keepit.com/hubfs/content-assets/Help%20center%20documents/monday-coverage-details.pdf
+
+--- Page 1 ---
+Coverage details
+© 2025 Keepit. All rights reserved
+
+--- Page 2 ---
+Contents
+Coverage details ........................................................................................................... 1
+Account metadata ........................................................................................................ 2
+User definition .............................................................................................................. 2
+Team photo ................................................................................................................. 3
+Board definition ............................................................................................................ 3
+Group .......................................................................................................................... 5
+Item definition .............................................................................................................. 5
+Columns definition ....................................................................................................... 5
+Asset ........................................................................................................................... 6
+Item subitems .............................................................................................................. 6
+Product ........................................................................................................................ 7
+Content ........................................................................................................................ 7
+Members ..................................................................................................................... 7
+Account metadata
+Restore
+Account metadata entities cannot be restored.
+User definition
+Backup
+Product fields cannot be backed up.
+Restore
+User attributes:
+Users are restored in two phases:
+1. A user is created with only email and role at the user folder level.
+2. A second request updates the user with additional attributes.
+If the second step fails, the user will still exist, but attributes may be missing.
+© 2025 Keepit. All rights reserved
+
+--- Page 3 ---
+Product fields:
+• Product fields cannot be retrieved and therefore cannot be restored.
+• As a result, products assigned to users will not be restored.
+Roles restore logic:
+Restorable attributes:
+Only a fixed set of attributes supported by monday.com can be restored:
+• email
+• name
+• title
+• department
+• location
+• mobile_phone
+• phone
+• birthday
+• join_date
+Date-type attribute limitations:
+The following fields cannot be cleared:
+• birthday
+• join_date
+If these fields are empty in the backup but contain values in monday.com, they will not be
+overwritten.
+Team photo
+Restore
+Team photos cannot be restored.
+Board definition
+Backup
+• Board automations cannot be backed up.
+• Archived or deleted boards cannot be backed up.
+© 2025 Keepit. All rights reserved
+
+--- Page 4 ---
+Note:
+If you want to restore a board as a new board, you can:
+1. Archive the original board in monday.com
+2. Restore the board from Keepit
+3. Unarchive the original board
+This allows both versions to exist simultaneously.
+Restore
+General limitations
+Only the name and description of a board can be updated during restore.
+Columns
+Column type updates
+• When restoring, the system attempts to update the column type.
+• However, the final behavior depends on the monday.com API.
+• If changing the column type would cause data loss, a duplicate column is created
+instead.
+Example:
+• Column A exists in both backup and monday.com.
+• Restore attempts to change its type from Text → Number.
+• If a value like "123a" exists:
+o The original column remains unchanged.
+o A new column is created with the Number type.
+Label colors
+• Status column label colors may differ after restore if their configuration has changed.
+Board connections
+• Relations or labels linked to another board cannot be restored if the referenced data
+has changed or been deleted.
+Example:
+• Board A is connected to Board B.
+• If an item or label in Board B is deleted:
+o The corresponding relation in Board A will not be restored.
+Archived or deleted boards
+• Boards in archive or trash are treated as missing.
+• Restore will create a new board instead of updating the existing one.
+© 2025 Keepit. All rights reserved
+
+--- Page 5 ---
+Unsupported column types
+• The direct_doc column type cannot be created via API and therefore cannot be
+restored.
+Location
+• When restoring a missing board, its recovered location depends on whether its parent
+folder and workspace still exist:
+1. If the parent folder is missing and not selected for restore, the board will be
+restored to the workspace's root folder.
+2. If the original workspace is missing and not selected for restore, the board
+will be restored to the Main workspace.
+Group
+Restore
+Group updates
+• Restoring a group only updates its name.
+• Group color is not restored.
+Group order
+• The order of groups may not be preserved, especially when groups are newly created.
+Item definition
+Restore
+• Items cannot be restored directly.
+• Item restoration is handled indirectly through Columns Definition.
+Columns definition
+Backup
+• Auto Number column: not included in the backup.
+• Progress Tracking column: not included in the backup.
+• Formula column:
+o Only the display value (result) is backed up.
+© 2025 Keepit. All rights reserved
+
+--- Page 6 ---
+o The actual formula is stored in the Board Definition backup.
+• monday doc column:
+o Only metadata is backed up (not the full document content).
+Restore
+Unsupported columns
+Column values cannot be restored for the following column types:
+• Auto Number
+• Button
+• Color Picker
+• Creation Log
+• Formula
+• Last Updated
+• monday doc (planned support in Phase 2)
+• Progress Tracking
+• Time Tracking
+• Vote
+File column limitations
+• Files uploaded directly to monday.com (Assets) can be restored.
+• Files stored as external links (e.g., Google Drive, Box, Dropbox) cannot be restored.
+Asset
+Backup
+Versions support: Only the current version of an asset is backed up.
+Item subitems
+All limitations from Item Definition, Columns Definition, and Asset also apply here.
+Restore
+Moved subitems:
+© 2025 Keepit. All rights reserved
+
+--- Page 7 ---
+If a subitem has been moved to a different parent item:
+• It is treated as missing.
+• A new subitem will be created under the original parent item during restore.
+Product
+Restore
+• Missing products cannot be restored.
+Content
+Backup
+The workspace structure covers only folders and boards.
+Restore
+Moved folders:
+If a folder has been moved (e.g., to a different workspace or parent folder):
+• It is treated as missing.
+• A new folder will be created during restoration.
+Members
+Restore
+Members whose permission levels differ from the backup (e.g., subscriber vs owner) will be:
+1. Removed
+2. Re-added with the permission level from the backup snapshot
+© 2025 Keepit. All rights reserved

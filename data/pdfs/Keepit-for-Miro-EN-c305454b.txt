@@ -1,0 +1,69 @@
+Source: https://lp.keepit.com/hubfs/product-sheets/Keepit-for-Miro-EN.pdf
+
+--- Page 1 ---
+Keepit Backup and
+Recovery for Miro
+From brainstorm to backup: Keep your Miro work safe
+Losing Miro boards and settings can halt projects, disrupt teamwork, erase critical IP, delay
+releases, and force costly recreations. As a vital application for teams to plan, design, and
+collaborate, it becomes essential to protect it from data loss.
+Awarded for its broad SaaS coverage, impenetrable architecture, and ease-of-use, Keepit
+ensures that your Miro data is backed up and swiftly recoverable at all times, minimizing the
+impact of data loss and the burden of recovery on your teams.
+Time-saving usability Confidence in recovery Centralized management
+Easy to implement and intuitive, Have your data always at your A unified platform for all backups
+Keepit requires minimal expertise to fingertips with comprehensive, across critical SaaS applications
+use — while delivering confidence automated backups and flexible — provides transparency, visibility,
+in your ability to swiftly recover your restoring of teams, spaces, and easy reporting for managers
+data whenever you need it. boards, and more. and leadership.
+THE RISK PROVEN BENEFIT
+In 2024, over 70% of data loss incidents were Keepit customers were able to realize a 163% return
+caused by user mistakes. on investment when deploying the Keepit solution.
+Payback was achieved in under six months.
+Source: Proofpoint - The 2024 Data Loss Landscape
+Source: Forrester Total Economic Impact Study 2024
+”Miro is an important part of our technology
+stack, and we need an easy, reliable way
+to back it up and protect our data”
+Chief Technology Officer in a mid-sized publisher in the Nordics
+
+--- Page 2 ---
+Retain full access to your Miro data and settings with Keepit
+KEY CAPABILITIES
+Automated backups Outstanding ease-of-use Data compare
+Customize and automate backup jobs Built to protect SaaS applications, Compare backup snapshots to identify
+so your data remains preserved and Keepit is quick to implement and records added, modified, or deleted
+recoverable whenever you need it. intuitive to use. over time, enabling precise recovery.
+Instant search and preview Highest security Unlimited retention
+Easily find what you need with Keepit’s Stored in our vendor-independent Customize retention for up to 99 years
+comprehensive search. Use filters to cloud, and immutable by design, with no extra costs.
+identify data, and the preview function Keepit offers industry-leading security,
+to review it before restoring. keeping your backups safe. Compliance and reporting
+Easily document and prove compliance
+with backup requirements and data
+protection efforts.
+WHAT WE COVER
+Teams Spaces Find the complete
+coverage here.
+• Boards • Boards
+• Spaces • Members
+• Members • Settings
+• Settings
+Board items
+Boards • App cards
+• Members • Cards
+• Connectors • Documents
+• Frames • Embeds
+• Groups • Formats
+• Items • Images
+• Tags • Shapes
+• Sticky notes
+• Texts
+Find out how simple and
+easy Keepit is to use
+Get a demo
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+© 2025 Keepit. All rights reserved.

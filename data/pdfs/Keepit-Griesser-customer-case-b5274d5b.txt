@@ -1,0 +1,93 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Griesser-customer-case.pdf
+
+--- Page 1 ---
+Customer case
+Data availability and simplicity:
+Keepit backs up
+Griesser’s critical data
+
+--- Page 2 ---
+Customer case:
+Griesser
+Griesser is a leading provider of high quality and market-responsive solar shading solutions for
+windows and patios in Europe. With European regulations dictating data retention periods, and
+the company seeking an independent backup and recovery provider to cover its 1,750 users,
+Griesser deployed Keepit to secure its Microsoft 356 data, including Entra ID.
+Data availability and retention at the forefront provides unlimited data storage and retention
+“Business continuity is a very important factor for its customers, allowing companies to not only
+in production. If production were to come to a fulfill regulatory requirements, but ensure data
+standstill, it would have far-reaching negative availability far into the future.
+consequences,” explains Nico Guglielmo,
+Head of ICT Platform Services at Griesser. The “Thanks to Keepit, we were able to achieve
+company began its search for an independent a massive increase in data stability and
+backup solution to secure its data — and comply availability.”
+with data retention requirements — when the
+- Nico Guglielmo,
+decision to replace its on-premises solution with
+Head of ICT Platform Services, Griesser
+a SaaS solution was made. The Keepit platform
+“The manpower required for the old solution was
+around one day’s work per week. This has been
+reduced to almost zero.”
+- Nico Guglielmo,
+Head of ICT Platform Services, Griesser
+
+--- Page 3 ---
+Customer case:
+Griesser
+Simple and easy to use platform
+Choosing Keepit’s platform boiled down to the
+simplicity of the platform. “Handling the backups
+in the platform is very simple and self-explanatory.
+We don’t have to worry about updates, availability,
+maintenance or storage space,” continues
+Nico Guglielmo. With IT resources and budgets
+continuing to be a challenge for most companies,
+Keepit’s solution reduces manual hours spent by
+automating backups, simplifying maintenance
+About Griesser
+and ensuring security — all in one simple to use
+In 1882, Anton Griesser laid the foundation stone for
+platform.
+today’s Griesser Group in Aadorf, Switzerland. The
+company, which is steeped in tradition, has remained
+Keepit’s platform streamlines data protection
+committed to this location to this day, putting all its
+with a single, intuitive dashboard that secures
+experience into the manufacture of innovative and
+SaaS applications like Microsoft 365 and high-quality sun shading products. The Griesser
+Salesforce. The platform is seamlessly integrated Group is now one of Europe’s leading suppliers of
+high-quality, market-driven sun shading solutions
+with customer systems and requires almost
+for windows and patios. With their commitment and
+no training, allowing the location, preview, and
+enthusiasm, around 1600 employees ensure that the
+restoration of data with just a few clicks.
+excellent reputation of the two independent brands
+Griesser and weinor is confirmed time and time again.
+Independent data centers in Europe
+Griesser and weinor face up to the competition
+Keepit owns and runs its own, independent cloud independently. Both are united by the common goal of
+and stores customer data in seven regions across providing their customers with a better quality of life.
+Griesser manufactures its wide range of sun shading
+the globe. For Griesser, it was paramount to store
+products in Switzerland (Aadorf), Austria (Nenzing)
+data in Europe. Cloud-native and European born,
+and France (Nice and Wolschwiller). Griesser has its
+Keepit is completely independent from large
+own companies in five countries and is represented
+hyperscalers. “We are convinced that we have by partners in 20 countries. weinor manufactures its
+chosen the right provider,” adds Nico Guglielmo. products for sun and weather protection on patios at
+its main factory in Cologne and in Möckern. weinor is
+active in over 30 countries through its partners.
+“Our data is stored in an independent
+data center in Western Europe. This was
+important to us during the procurement
+process.”
+- Nico Guglielmo,
+Head of ICT Platform Services, Griesser
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

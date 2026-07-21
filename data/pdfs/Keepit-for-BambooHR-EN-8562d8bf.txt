@@ -1,0 +1,67 @@
+Source: https://lp.keepit.com/hubfs/product-sheets/Keepit-for-BambooHR-EN.pdf
+
+--- Page 1 ---
+Keepit Backup and
+Recovery for BambooHR
+Taking care of your people and your business means keeping your HR data safe
+BambooHR is mission-critical for companies, storing sensitive human resources data.
+It’s often integrated with other applications such as productivity or payroll tools. Any
+data or configuration loss — accidental or malicious — disrupts business operations and
+exposes companies to legal and compliance risks. BambooHR doesn’t offer backups or
+comprehensive recovery options, making it essential to integrate with a backup solution.
+Awarded for its impenetrable architecture and ease-of-use, Keepit ensures that your data
+is backed up and swiftly recoverable at all times, minimizing the impact of data loss and the
+burden of recovery on your teams.
+Time-saving usability Assured data integrity Confidence in recovery
+Easy to implement and intuitive, With Keepit, you’re certain that your Have your data always at your
+Keepit requires minimal expertise to backups are immutable — they can’t fingertips with comprehensive,
+use — while delivering confidence be modified or deleted. Stored in our automated backups of your data
+in your ability to swiftly recover your vendor-independent cloud, your data and metadata.
+data whenever you need it. remains accessible at all times.
+THE RISK PROVEN BENEFIT
+In 2024, over 70% of data loss incidents were Keepit customers were able to reduce the time
+caused by user mistakes. needed to restore data for priority users by 90% after
+a data loss incident.
+Source: Proofpoint - The 2024 Data Loss Landscape
+Source: Forrester Total Economic Impact Study 2024
+”Not only does Keepit provide us with a strong and
+reliable backup, we also get instant recovery and can
+share data across the company in less than a minute.”
+Mario Hinterndorfer – Head of Group IT Infrastructure,
+Lasselsberger
+
+--- Page 2 ---
+Retain access to your BambooHR data and settings with Keepit
+KEY CAPABILITIES
+Automated backups Outstanding ease-of-use Highest security
+Customize and automate backups Built to protect SaaS applications, Stored in our vendor-independent
+so your data remains preserved and Keepit is quick to implement and cloud, and immutable by design,
+recoverable whenever you need it. intuitive to use. Keepit offers industry-leading
+security, keeping your backups safe.
+Instant search and preview Compliance and reporting
+Easily find what you need with Keepit’s Easily document and prove Point-in-time recovery
+comprehensive search. Use filters to compliance with backup requirements Restore data to an exact state from
+identify data, and the preview function and data protection efforts. any historical point to reverse
+to review it before restoring. accidental changes or corruption.
+WHAT WE COVER
+Employee data Company data Find the complete
+coverage here.
+Employee ID Company tables
+Name, surname, Company fields
+email, address
+Company files
+Employee tables
+Time off types
+Employee files
+Time off policies
+Time off requests
+and registrations
+Time off account balance
+Find out how simple and
+easy it is to use Keepit
+Book a demo
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+© 2025 Keepit. All rights reserved.

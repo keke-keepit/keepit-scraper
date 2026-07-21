@@ -1,0 +1,660 @@
+Source: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Leading-SaaS-Data-Security-eGuide-EN.pdf
+
+--- Page 1 ---
+Leading SaaS data security
+Raising the bar
+for data protection Image
+in the cloud era
+
+--- Page 2 ---
+Index
+Foreword
+���������������������������������������������������������������������������������������������������������� 3
+Executive summary
+���������������������������������������������������������������������������������������� 4
+Introduction
+����������������������������������������������������������������������������������������������������� 5
+Why Keepit built a dedicated cloud ����������������������������������������������������������������������� 6
+True backup requires a separate logical infrastructure ���������������������������������������������7
+Gaining control and managing hidden risks ������������������������������������������������������������ 9
+Raising the bar for secure SaaS backups ���������������������������������������������������������������10
+Image
+Vendor-neutrality �������������������������������������������������������������������������������������������������11
+Resilience and data immutability �������������������������������������������������������������������������� 12
+Secure, reliable and change-based long-term data storage ���������������������������������� 13
+Unparalleled easy and fast data recovery ������������������������������������������������������������� 15
+Security standards, practices, and features ���������������������������������������������������������� 15
+Physical security ������������������������������������������������������������������������������������������������� 16
+Operational security �������������������������������������������������������������������������������������������� 17
+Software development life cycle ������������������������������������������������������������������������� 20
+Security features ������������������������������������������������������������������������������������������������� 21
+Conclusions
+��������������������������������������������������������������������������������������������������� 22
+Leading SaaS data security | 2
+
+--- Page 3 ---
+Foreword
+Information security has never been more The cloud brings the agility and availability was to architect it from the ground up—so We sincerely hope this guide answers your
+important—or challenging—than it is today. enterprises require, but it also introduces that’s exactly what we did. The output of questions and we would greatly value the
+There are growing threats from external new challenges. Perhaps foremost among our efforts is The Keepit Cloud. opportunity to respond to any that we may
+actors and insiders, new systems and soft- these issues, but one of the least-recog- not have anticipated.
+ware are being deployed faster and more nized, is a shared data responsibility model When presented with a new solution,
+frequently than ever before, the zero-trust and its important implications for business it is only natural—and prudent—to ask Happy reading,
+model is leading to widespread changes in continuity planning, in general, and disas- questions. We understand, and we would Jakob Østergaard Hegelund
+visibility and access control, and economic ter recovery specifically. expect no less from security professionals. CTO at Keepit
+pressures demand that costs be reduced Fortunately, we believe we have created
+or avoided altogether. Keepit’s mission is to protect data in the the industry’s best SaaS data backup and
+cloud recovery solution.
+At the same time, Chief Information Secu-
+rity Officers (CISOs) also need to ensure Since 2013, we have worked tirelessly to We believe in transparency, because it
+appropriate data privacy and protection purpose-build an efficient and—above enables prospective buyers and technical
+throughout the company’s entire tech all—secure data protection solution that evaluators to make informed decisions.
+stack. provides simple, reliable, cost-effective, Accordingly, we have prepared this doc-
+and vendor-neutral backup and recovery ument to proactively address the most
+These evolving demands exist in parallel for software-as-a-service (SaaS) work- common inquiries about our solution, to
+to a paradigm shift in which a range of loads. explain what we built and why we made
+workloads—from customer-facing appli- certain decisions, and—frankly—to show
+cations to business-critical operational With deep roots and 20+ years of experi- how our solution is fundamentally different
+systems—have migrated from on-prem- ence building best-in-class data protec- from, and meaningfully superior to, other
+ises appliances and servers to third-party tion and hosting services, we recognized products in the market.
+cloud environments. that the only way to create such a solution
+Leading SaaS data security | 3
+
+--- Page 4 ---
+Executive summary
+Backing up cloud SaaS data is the re- that hosts their primary data fails to provide We architected the solution with a secu-
+sponsibility of the SaaS customer, not the the needed assurances—since an event rity-first design, incorporating innovative
+vendor. However, this reality is not yet well impacting that public cloud could render features that meet the needs of even the
+understood within the marketplace, and both the primary and backup data inacces- most demanding enterprises, and we
+with that lack of understanding comes sig- sible, even with geographic distribution. extend that same care to its physical and
+nificant risk: operational security. As an added benefit,
+Only an infrastructure completely inde- constructing and managing our own infra-
+In 2023, 65% of data breaches affected pendent from public cloud environments structure also allows us to offer our backup
+data hosted in public cloud or hybrid envi- can provide true backup for SaaS data. This service with a predictable, all-inclusive
+ronments.1 premise led us to build, from the ground pricing structure.
+up, The Keepit Cloud—a vendor-neutral
+Similarly, many organizations have not yet and dedicated SaaS data backup solution
+recognized that backing up SaaS data that is resilient, secure, and exceptionally
+within the same public cloud infrastructure easy to use.
+1. Source: Cost of Data Breach Report 2024 [IBM] Leading SaaS data security | 4
+
+--- Page 5 ---
+Introduction
+Saas Provider’s Responsibility
+As software-as-a-service (SaaS) applica- Unfortunately, many enterprises will learn
+tions enable modern businesses, critical the hard way that relying on their SaaS
+services are migrating from the trusted provider to keep their data safe is a risky Application Hardware failure
+confines of the on-premises computing proposition: in 2023, 65% of data breach-
+Operation system Software failure
+facility to cloud providers, far away from es affected data stored in public cloud or
+traditional backup solutions. hybrid environments.
+Virtualisation Natural disaster
+This widespread and ongoing shift intro- To help enterprises avoid disruption due Hardware Power outage
+duces a shared model in which the SaaS to lost SaaS data, Keepit has architected
+Network Physical intrusion
+provider and the SaaS customer—you— a dedicated, vendor-neutral SaaS data
+each assume ownership of particular re- backup solution that is resilient, secure,
+sponsibilities with respect to data security and easy to use—and that’s provided with a
+Your data — your responsibility
+(Figure 1). predictable, all-inclusive pricing structure.
+In this guide, we will explain how this
+While adoption of cloud services has dedicated cloud raises the bar for secure User Human errors
+soared—and accelerated by the COVID-19 backup and we will present some of the
+Data Programmatic errors
+pandemic’s disruption2 —enterprises are security standards, practices, and features
+only now beginning to understand the that protect your data.
+Administration Malicious insiders
+implications of shared data responsibility.
+According to Gartner®, "By 2028, 75% of But before we get to those topics, we’ll Ransomware attacks
+enterprises will prioritize backup of SaaS start by explaining why we built our own
+Viruses/malware
+applications as a critical requirements, dedicated data protection cloud in the first
+compared to 15% in 2024".3 place.
+Figure 1—Division of responsibilities between the SaaS provider (left)
+and the SaaS customer (right)
+2. For example, Microsoft Teams usage jumps 50 percent to 115 million daily active users [The Verge]
+3. Source: Gartner, Top Trends in Enterprise Backup and Recovery for 2024, By Chandra Mukhyala, Michael Hoeck, Jason Donham, Rene Rodriguez, Stanton Cole, 1 April 2024.
+Leading SaaS data security | 5
+GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and is used herein with permission. All rights reserved.
+
+--- Page 6 ---
+Why Keepit built a dedicated cloud
+The 3-2-1 principle of backup (Figure 2)
+Key Takeaways: mandates that you must have one copy
+of your data off site. In the days of tape
+• Because backing up SaaS data in the public backup, where fire and theft were the only
+cloud comes with significant security com- credible threats to your backup data, the
+promises (and introduces hidden risks), Keepit off-site copy effectively ensured that your
+operates our own data center regions, running backup data would survive any calamity
+on our own hardware, managed by our own that could befall your primary data and
+people� your primary site.
+• Once a customer chooses a Keepit region for
+backup, their data never leaves that region�
+3 2 1
+Copies of data Copies stored Off-site storage
+• Building our own cloud allows Keepit to man- (1 primary and 2 backups) (At separate locations) (Secure private cloud)
+age supply chain risks and provides tremen-
+Figure 2—The time-tested 3-2-1 principle of data backup
+dous control over costs, which enables us to
+offer simple and predictable “all-in” pricing
+In the cloud age, however, backups have
+become much more complicated: geo-
+graphic dispersal is insufficient to ensure
+your data is secure, and hidden risks are
+introduced by relying on clouds that may
+be taken offline to protect the providers’
+primary business interests.
+Leading SaaS data security | 6
+
+--- Page 7 ---
+True backup requires
+a separate logical
+infrastructure
+While the requirement for separate backup
+infrastructure may seem self-evident to
+many IT and security professionals, most
+alternative cloud backup solutions will read-
+ily store your backup directly on the same
+cloud infrastructure that hosts your primary
+data—introducing unnecessary risk and
+really stretching the meaning of “backup.”
+You can choose to store your backup data in
+the public cloud, and you can even specify
+a data center location that is separate from
+your primary data—but in no way does this
+approach provide the assurances that you
+need, because all your data (now including
+your only backups!) is managed under the
+same administrative infrastructure. ▶
+Leading SaaS data security | 7
+
+--- Page 8 ---
+Consequently, if that infrastructure is com- To ensure that your backups are never
+promised, then both your primary data and stored on the same cloud infrastructure
+your backups are at risk, no matter if they that hosts your primary data (e.g., Ama-
+reside on servers in different parts of the zon Web Services, Microsoft Azure, etc.),
+country or even on different continents. Keepit does not run on public cloud infra-
+structure; instead, The Keepit Cloud:
+In our view, offering “true backup” means
+guaranteeing to our customers that their • runs in our own data center regions
+backup data doesn’t reside on the same • operates on our own hardware
+logical infrastructure as their primary data, • is managed by our own people
+regardless of which combination of prima-
+ry workloads are being protected. To ensure data sovereignty, once a cus-
+tomer chooses a Keepit region for backup,
+their data never leaves that region. Not
+“True backup requires a only does Keepit guarantee that backup
+logical infrastructure separate data will always go to that region, but no
+from the primary data” processes exist that even could transfer Americas EU EMEA APAC
+backup data out of that region (aside from
+USA, Washington, D.C. Denmark, Copenhagen UK, London Australia, Sydney
+customer initiated restores and down-
+Canada, Toronto Germany, Frankfurt Switzerland, Zurich
+loads, of course). ■
+Figure 3: The Keepit Cloud spans the globe with seven locations, each of which has two data centers
+Leading SaaS data security | 8
+
+--- Page 9 ---
+Gaining control
+Passing along the benefits
+and managing
+Why Keepit customers don’t worry about
+hidden risks
+deduplication, compression, and storage
+Aside from the fact that a dedicated pri- We want to make it simple for you to be- Since customers and partners are not
+vate cloud is a fundamental requirement come (and to happily remain) our customer. sensitive to the cost structures around the
+of any legitimate backup solution, building Fortunately, building our own dedicated underlying storage, we can continue to
+our own cloud gives Keepit a higher de- private cloud provides advantages for improve our systems regardless of how this
+gree of control over both the supply chain Keepit that translate into benefits for our will affect byte-for-byte consumption on
+and costs, with considerable benefits for customers. whatever storage media the future brings.
+our customers. There will continue to be some demand for
+For example, the Keepit licensing model is BYOS (Bring Your Own Storage) business
+Additionally, this strategy showed an un- simple: There are no complicated API trans- models in which the customer effectively
+anticipated—but vital—benefit when the action fees, network egress or ingress fees, pays twice: once for the backup service
+COVID-19 pandemic struck. To protect or even storage consumption fees. That’s and once more for the public cloud storage
+their own primary businesses, many public right, storage is included—Keepit custom- onto which the backup data is subsequently
+cloud vendors shut down customer work- ers don’t need to worry about deduplica- copied. However, this approach is funda-
+loads, forcing thousands of those custom- tion capabilities or compression ratios! mentally at odds with our philosophy that
+ers offline. All the while, Keepit’s dedicated true backups cannot be stored on the same
+private cloud continued normal operation. We can offer simple and predictable pricing cloud as the primary data; therefore, BYOS
+because we retain the freedom to innovate is not a model we have chosen to pursue.
+and to evolve the storage technology be-
+hind the scenes—something that would not
+be possible if we were using a public cloud.
+Leading SaaS data security | 9
+
+--- Page 10 ---
+Raising the bar for secure SaaS backups
+Key Takeaways: When designing and building The Keepit
+Cloud, we aspired to provide a number of
+• Keepit’s backup service is vendor neutral and important fundamental features and char-
+already supports major SaaS application pro- acteristics, including:
+viders�
+• Vendor-neutrality
+• Resilience and data immutability are achieved
+through immediate encryption of backup data, • Resilience and data immutability
+30-day delete retention, data region sover-
+eignty and dual data center redundancy, and a • Secure, reliable and change-based
+unique, tamper-proof infrastructure� long-term data storage
+• A blockchain-like Merkle tree architecture and • Easy and fast data recovery unparalleled
+innovative “incremental forever” data transfer in the industry
+ensure secure, reliable and change-based
+long-term data storage� • The following subsections describe
+these in detail�
+• Restoring from a backup is quick and easy:
+simply browse and search through time and
+space, then click to restore once you find what
+you lost with our multiple restore options�
+Leading SaaS data security | 10
+
+--- Page 11 ---
+Vendor-neutrality Four copies
+Today’s enterprises rely on a growing list
+of SaaS applications and providers, head-
+lined by Microsoft Office 365 and Dynam- 2 copies sent to 2 copies sent to
+ics 365, Google Workspace (formerly G
+Suite), and Salesforce. It is imperative that
+any practical SaaS data backup solution Data center A Data center B
+support these services, otherwise clients
+will be burdened with the extra overhead,
+complexity, and potential risk that comes
+with maintaining multiple backup systems.
+Automated daily
+Moreover, the SaaS vendor ecosystem is
+backup Fast and easy
+Blockchain-verified recovery
+always expanding. Accordingly, The Keepit Fully secure and encrypted
+technology
+Cloud is completely vendor agnostic,
+meaning there is no technical reason why
+support for a particular SaaS application
+provider cannot be introduced in addition
+to the major vendors already integrated
+into the platform (Figure 4).
+Figure 4—The Keepit Cloud is
+completely vendor agnostic
+Leading SaaS data security | 11
+
+--- Page 12 ---
+Protective measure Benefits
+Resilience and
+Upon ingestion by the Keepit platform, backup data is immediately encrypted before it is written
+to storage media. This process employs industry best practice algorithms believed to offer
+Immediate encryption
+data immutability
+unbreakable security for at least the next 30 years.
+There is no simple way to immediately delete your data in Keepit: you, or the attacker who has
+Assuming physical security is adequate,
+successfully taken over your identity, will have to wait for 30 days for datasets to be deleted or for
+no threat actor can erase the data stored
+accounts to be closed.
+30-day delete lock
+on an offline tape. In the cloud, however,
+This deliberate delay is the first line of defense against user error, insider threats, and ransomware
+everything is always online and expecta-
+attacks that target backups.4
+tions for ease of use dictate a high degree
+of accessibility.
+To comply with data sovereignty requirements and desires for geographical dispersal of information
+assets, Keepit offers multiple regions around the world. Once your data enters a given Keepit region,
+Data region sovereignty
+To ensure security while maintaining con-
+your data stays in that region - forever.
+and dual data center
+venience, Keepit combines several protec-
+redundancy
+To provide protection from the most common disasters such as fire, power or cooling system
+tive measures (Table 1).
+outages—or other events that can render a building or complex of buildings unusable—all data is
+copied into two separate data center facilities within the chosen region.
+The Keepit infrastructure runs on software that was designed and built from the ground up by our
+team. This proprietary storage infrastructure allows us to provide fast and reliable backup at a
+reasonable cost, and supports the data immutability that protects backup datasets—like the backup
+tapes of yesteryear, our disk-based storage systems do not offer a mechanism for modifying backup
+Unique, tamper-proof data.
+infrastructure
+This core characteristic means that even in a nightmare scenario—e.g., administrative accounts are
+compromised, primary data is corrupted or encrypted, attackers gain access to your backups—there
+is no way for the system to comply with an attacker’s efforts to tamper with your backup.
+Table 1—These protective measures ensure security without limiting convenience
+4. Many ransomware families are adept at targeting backups. A recent study found that 94% of
+organizations hit by ransomware said the cybercriminals attempted to compromise their backup,
+Leading SaaS data security | 12
+showing just how much backup and security products are under attack. [Sophos]
+
+--- Page 13 ---
+Architectural element Benefits
+Secure, reliable and
+change-based long-
+The Keepit information architecture is inspired by the Merkle tree structure that gained renown from
+blockchain systems such as Bitcoin and the ‘git’ version control system.
+term data storage
+Merkle Tree architecture
+In addition to providing benefits including strong consistency checks, this design also allows us to
+We designed the Keepit platform for the
+represent and access backup sets over time—completely removing the antiquated model of ‘full’ and
+specific purpose of providing secure and
+‘incremental’ backups, along with all the overhead associated with that legacy approach.
+reliable long-term storage for SaaS backup
+data. In pursuit of this objective, we created
+a uniquely powerful information architecture
+(Table 2) that employs a Merkle tree struc-
+ture and an innovative “incremental forever”
+approach to deliver performance and cost
+benefits that would simply not be possible
+In the Keepit data model, when a backup executes, we effectively only transfer the differences in your
+on general-purpose storage services.
+dataset; however, when you view your data in the Keepit platform, all access is instant across time and
+space, and every single backup—no matter how old—appears as if it was a standalone full copy of
+your dataset at the time it was taken.
+“Incremental forever” data
+We have even gone a step further: by designing, completely from scratch, an object storage
+transfer
+architecture for this information model, we are able to store backup data very efficiently on simple
+high-density hard drive-based storage systems, which simplifies our supply chain and lowers both
+the risk and the price point for our customers.
+Table 2—By rethinking information architecture, the Keepit platform provides secure and reliable long-
+term backup with unmatched performance
+Leading SaaS data security | 13
+
+--- Page 14 ---
+Day 0 Day 1 Day 2
+Initial backup Data changes No changes
+H7712 Hash root H3281 H3281
+H4223 H7770 H7770
+H8892 H8892 H8892
+Hash number
+H4223 H8892 H7770 H8892 H7770 H8892
+H4223 H4223
+Updated
+Notes.docx Budget.xlsx Notes.docx Budget.xlsx Notes.docx Budget.xlsx
+• We make the initial • Notes is updated and is • No data changes - hash
+backup, including the given a new hash. root remains the same.
+files, notes, and budget.
+• The hash root has also
+• The files get structured changed.
+in a Merkle tree,
+• The budget remains the
+including hashes.
+same, as it has not been
+• A hash is a unique modified.
+identifier for a particular
+subset of data.
+Figure 5 —The Merkle Tree architecture
+Leading SaaS data security | 14
+
+--- Page 15 ---
+Unparalleled easy and Security standards,
+fast data recovery practices, and features
+What good is reliable backup if you can’t not only live browsing but also provides Key takeaways:
+find what you’re looking for, or if it takes previews, downloads, and restores of your
+days or weeks to recover your data? data elements. • All data center facilities employed by Keepit • Mature software development lifecycle pro-
+conform to a high physical security baseline cesses ensure that security is incorporated
+With Keepit, all data is instantly accessible. And that’s it—there are no extra steps. and hold ISO 27001 certification plus comple- from the inception of a new project and contin-
+To restore from a backup, simply search You browse and search through time and mentary certifications (e�g�, SOC-2, ISAE 3402, ued throughout the entire life of the system
+for or browse to the data you need and space, and you click the button once you PCI/DSS, HIPAA)
+click “Restore.” All your data with all your find what you’ve lost. The efficiency of the • To enhance protection of customer data, the
+history is readily available for you in a mod- restore process is unparalleled in the • Technical and organizational measures are in Keepit platform incorporates TLS transport se-
+ern web-based user interface that offers market. place to ensure operational security� Keepit curity and secure, logged access controls; the
+demonstrates its dedication and ability to recommended best practice for deployment
+deliver best-in-class security technology to its uses the customer’s existing authentication
+customers by holding the ISO/IEC 27001:2013 infrastructure by means of SAML integration
+certification and the ISAE 3402-II certification.
+These certifications are documentation that Providing secure backup demands more
+our entire organization has been audited and than just a secure platform design. Securi-
+is certified: Not just our data centers, but the ty extends to the physical and operational
+services, the technology, business continuity, aspects of the platform and must be
+operations, disaster recovery, sales, and legal� ingrained in the software development
+Figure 6 — Easily find the right data with our Smart Search and restore across time with a few clicks
+And in all of our locations� lifecycle.
+Leading SaaS data security | 15
+
+--- Page 16 ---
+Physical security
+As noted in Table 1, once backup data This system-level redundancy is comple- While there are some local differences be- When providing large-scale storage, failure
+reaches the Keepit platform, it is immedi- mented by significant component-level tween the regions 5, all data center facilities of storage media is a regular and undra-
+ately copied into systems in two separate redundancy on the individual servers that employed by Keepit must conform to a matic event. Failed storage media is never
+data centers within the designated region. host the Keepit platform. Components physical security baseline that: sent back to the media vendor for analysis;
+This practice provides resilience in case a that most commonly fail on modern serv- instead, it is kept onsite for physical disin-
+facility is permanently lost (e.g., to fire or a ers (e.g., cooling fans, power supplies • Ensures high availability tegration (mechanical shredding) before
+natural disaster) and also ensures contin- and spinning disks) can typically be hot • Restricts access to the physical systems that being disposed of, upholding Keepit’s
+uous availability of data in case of a more swapped without even powering down the constitute the Keepit platform commitment that customer data never
+benign facility problem (e.g., temporary system holding the failed component. leaves its designated region.
+failure of power or cooling systems). Physical security at a facility can feature
+a combination of multi-factor authenti- Additionally, and as noted previously, cus-
+In every region, the Keepit platform oper- cation including biometric identification tomer backup data is encrypted before it is
+ates in active-active mode between the for facility access, controlled access with written to storage media. Therefore, even in
+two data centers. This model: man traps, CCTV monitoring of the facility the most unlikely event that a storage de-
+and facility perimeter, plus onsite security vice is stolen from a processing facility, any
+• Allows the platform to continue virtually un- staff. Typically, the processing facilities will data on the media remains inaccessible.
+interrupted in the unlikely scenario that a full hold an ISO 27001 certification and several
+building is incapacitated complementary certifications such as
+• Provides system-level redundancy, allowing SOC-2, ISAE 3402, PCI/DSS, HIPAA etc.
+the platform to continue servicing customers
+in case any single system is lost or needs to be
+taken offline for service, upgrades, mainte-
+nance, or repairs
+Figure 7 - Each region has dual data centers which
+typically holds the above certifications.
+5. Please consult your Keepit sales representative for details
+Leading SaaS data security | 16
+
+--- Page 17 ---
+Operational security
+When it comes to backup and recovery, The scope of what we have done is very • Compliance with current and future legal and
+businesses seeking solutions need to be ambitious: It is not standard to include the regulatory requirements
+incredibly thorough in their due diligence entire organization. With the breadth of this
+processes. The Keepit service holds the certificate, our customers can rest assured ISAE 3402-II certification:
+ISO 27001:2013 certification and the ISAE that all processes within our organization Keepit holds the ISAE 3402-II certification
+3402-II certification. live up to the highest international security and is audited by Deloitte on Service Or-
+standards. ganizational Controls annually. In addition
+End-to-end ISO/IEC 27001:2013 to the conditions required by ISAE 3402-II
+certification: Benefits of Keepit’s ISO/IEC 27001:2013 certification, Keepit has implemented a
+By achieving the ISO/IEC 27001:2013 certi- certification include: number of operational security measures
+fication, Keepit continues to demonstrate (Table 3). ▶
+its dedication and ability to deliver best-in- • A systematic, verified approach to information
+class security technology to its customers. security that results in superior customer data
+The certificate states that: protection
+“[Keepit] operates an Information Security • Ongoing performance evaluations and internal
+Management system which complies audits that ensure Keepit continues to meet the
+with the requirements of the ISO/IEC requirements of the ISO/IEC 27001 standard
+27001:2013 for the following scope:
+• Continued improvement of business continuity
+The ISMS scope includes development, management and disaster recovery plans
+operations, and maintenance of services
+that support the company’s business & • Risk, vulnerability, and security incident man-
+B2B SaaS Backup Solutions System, in agement practices that enhance overall infor-
+accordance with the ISMS Statement mation technology (IT) operations security
+of Applicability V�20220120�”
+Leading SaaS data security | 17
+
+--- Page 18 ---
+Operational security measure Explanation
+The Keepit service is fully automated, operating based on the instructions (i.e., the configuration) provided by the
+customer. Therefore, no human operators outside of the customer’s own organization are involved in accessing,
+Automation
+reviewing, or otherwise processing actual customer data.
+The Keepit platform itself is regularly updated as part of the ongoing maintenance and evolution of our service.
+However, there are no recurring or routine tasks that require human operators to access customer data. Furthermore,
+Restricted access
+there are technical measures in place to ensure that no such access is required and that it is not easily or accidentally
+invoked. Additionally, there are organizational measures in place to educate and train staff on information security
+practices and policies.
+Regional support If a customer needs assistance—and in the rare event that this assistance involves access to actual customer backup
+data—the Keepit support organization will work with the customer to ensure that such requests are served by support
+staff in an appropriate region, considering data sovereignty requirements, support availability, and time constraints.
+Not only do we employ external auditors for security assessments, we also subject our platform to regular penetration
+testing conducted by third-party security and risk management specialists. This process replicates the tactics threat
+Third-party security assessments
+6
+actors employ to gain Initial Access , and extends beyond simple automated security scanners (which we also employ,
+of course).
+Keepit has no subprocessors in connection with the provision of the Keepit Services. We adhere to the strictest data
+protection standards and ensure that no one else will be accessing or handling your data. This guarantees compliance
+No subprocessors
+with local regulations and that your data will always be handled with the highest level of sensitivity.
+Table 3—Keepit employs a number
+of operational security measures
+6. See Initial Access within the MITRE ATT&CK Framework [MITRE]
+Leading SaaS data security | 18
+
+--- Page 19 ---
+Operational concern Explanation
+Operational insights
+We measure tens of thousands of datapoints every minute, aggregating them and making them instantly available to our
+To ensure reliable around-the-clock op-
+operational staff, thereby ensuring efficient investigation and mitigation to meet our high uptime guarantees.
+eration, we closely monitor our production
+Physical operational health System and data center performance is continuously compared to baseline thresholds, while our health monitoring
+systems’ physical operational health and
+system monitors the physical equipment (e.g., environmental, network, hardware, operating systems and services) with
+software stack health (Table 4).
+30-second granularity, alerting on a range of unwanted situations (e.g., high temperatures in our data centers, failing disks
+in storage systems, congested network connections that threaten to impede ingress and egress, etc.)
+Looking for the current status and change history?
+Visit status.keepit.com to view and subscribe to updates.
+Our Real-Time High-Frequency Event Monitoring (RTHFEM) system provides platform-specific deep stack insights on
+software components and their operational health.
+Our operations team has different dashboards and areas of interest they follow and monitor, and live metrics can even
+be shared across organizational groups to provide developers with real-world insights into how their code performs in
+production.
+Software stack health
+The RTHFEM system provides insights into data ingress rates from different SaaS vendors and quickly identifies problems,
+should they arise within the software stack. Our backend engineers also use this system to troubleshoot specific
+customer-related situations based on anonymized views of the interoperability of each customer’s connectors, data
+estate, and index.
+Additionally, detailed insights into software processes can assist with determining if an SLA is at risk or if an anomaly might
+be an indicator of malicious activity.
+Table 4—Operational insights provide our team with timely feedback, visibility, and alerts
+Leading SaaS data security | 19
+
+--- Page 20 ---
+Software development life cycle
+Keepit is dedicated to providing best-in- Strong processes are a necessity for the
+class solutions for cloud-to-cloud backup secure development of new functionality
+and data management. For us to make on the Keepit platform. While information
+Software lifecycle
+good on our promises, we are actively sharing is vital in any growing organization,
+developing our platform in the pursuit of segregation of duties is also an essential
+Software Quality IT Customer
+development assurance operation support
+continuous improvement. Our software part of the actual execution of devel-
+Overall service level
+development lifecycle processes (Figure opment, qualification, and—ultimate- agreement 99.9% uptime
+8) ensure that security is incorporated from ly—deployment of software. We employ
+the inception of a new project and contin- a number of technical and organizational
+ued throughout the entire life of the sys- measures to ensure that only the software
+• Every developer has • Takes version upon • 24/7 dedicated OPS • 24/7 dedicated OPS
+tem; these mature processes have been approved by our Quality Assurance team Continuous
+their own local feature completeness team customer support
+capacity planning development
+refined over the lifespan of the company, goes to production. By enforcing signif- environment • Structured test effort • Privileged access • Integrated support
+with risk management workstations experience in-product
+but we continue to invest in their ongoing icant workflow around “simple things” • Extensive full stack test for compliance
+suite • Owns test and staging • Deploys version on order
+environments from QA • Can request access to
+evolution. like software deployment, we ensure that
+• CI system (builds and customer portal
+tests) • Centralized release • Events can feed back to
+we have a high degree of confidence approval DEV and QA
+Real-time • Developers have no
+in any and all software that is deployed instrumentation of stack access to production
+to production and, in case a problem is
+discovered, that we are able to roll back a
+deployment or deploy hot fixes efficiently
+(once qualified).
+Figure 8—Keepit executes a mature and agile security-oriented
+software delivery methodology
+Leading SaaS data security | 20
+
+--- Page 21 ---
+Security feature Explanation
+Security features
+TLS transport security
+All primary workloads supported by Keepit employ modern Transport Layer Security (TLS) encryption on the endpoints used
+by Keepit and customers to access data. Both the Keepit Web UI and mobile app require the use of TLS. These communication
+In addition to the measures already pre-
+protocols are designed to provide safe transport of data over insecure networks such as open Wi-Fi or broadband internet
+TLS transport security connections.
+sented (e.g., regional lock-in, dual data
+center redundancy), the Keepit platform
+Network security
+also incorporates a number of additional
+Additionally, to ensure a short path and the fastest possible data exchange with the primary customer data clouds for backup
+security features to enhance protection of and restoration, Keepit connects directly to major internet exchanges.
+customer data. Two of the most important
+to govern are transport security and access
+Single sign-on
+control (Table 5).
+Keepit’s recommended best practice for deployment uses the customer’s existing authentication infrastructure (such as AD/
+ADFS, Okta, etc.) by means of SAML integration. This approach allows customers to leverage the identity security measures they
+already have in place (e.g., multi-factor authentication).
+Fine-grained role-based access control
+Inside Keepit, an elaborate access control list (ACL) and role-based access control (RBAC) system allow fine-grained control
+over which identities can perform which operations on the customer tenant. For example, pre-defined policies permit an
+Secure and logged
+administrative role to manage the backup and a support role that can only restore data in place (as part of an internal IT support
+access controls
+role) and cannot download or otherwise exfiltrate data from the platform.
+Additionally, separate groups of administrators can manage separate backup configurations; for example, one group can
+manage the Salesforce or Dynamics 365 backup while another manages the Microsoft Office 365 or Google Workspace
+backup.
+Immutable system audit log
+Finally, an audit trail is maintained for the duration of the customer engagement. The audit log can be viewed directly in the web
+application by authorized administrators and it can be accessed via the API for integration into third-party log analysis solutions.
+Data can also be pushed to Splunk, Sentinel or other third-party SIEM systems.
+Table 5—Security features provide additional protection for data in transit and at rest
+Leading SaaS data security | 21
+
+--- Page 22 ---
+Conclusions
+Keepit believes that real backup requires • A blockchain-like Merkle tree architecture and These characteristics and others combine
+a separate logical infrastructure from the innovative “incremental forever” data transfer to form a SaaS data backup solution that
+With increasing numbers of business- cloud in which the primary data is hosted. ensure secure, reliable, and change-based is fundamentally different from and—we
+critical SaaS applications migrating to the The most practical solution, then, is a dedi- long-term data storage sincerely believe—superior to other prod-
+cloud, and in a world in which new threats cated cloud platform. • All data center facilities employed by Keepit ucts in the market, and that provides you
+arise daily, continuity planning demands conform to a high physical security baseline with the benefits of offsite storage and the
+a secure SaaS data backup solution—and But simply having a dedicated platform is and hold ISO 27001 certification plus comple- comforting knowledge that if your primary
+the SaaS vendors are clear that backups not enough: the platform must be secure. mentary certifications (e�g�, SOC-2, ISAE 3402, cloud is compromised, your backup is safe
+are your responsibility, not theirs. However, security is not something that PCI/DSS, HIPAA) and secure elsewhere.
+can be bolted on as an afterthought—it • Technical and organizational measures are in
+The question then becomes: where to needs to be designed into the very es- place to ensure operational security, including If you would like to know more about our
+back up this critical data? sence of a system. This secure-by-design a high degree of automation, comprehensive solution, please visit our website at
+philosophy guided the creation of The staff training, third-party security audits, keepit.com or talk to us directly to find out
+“SaaS vendors are clear Keepit Cloud, which was architected from proactive penetration testing, and detailed how we can support you.
+that backups are your the ground up by information security and operational monitoring of the health of physical
+responsibility, not theirs�” hosting experts to provide secure backup infrastructure and the software stack
+Start a conversation with us here
+of SaaS data: • Mature software development lifecycle pro-
+cesses ensure that security is incorporated
+• Resilience and data immutability are achieved from the inception of a new project and contin-
+through immediate encryption of backup ued throughout the entire life of the system
+data, 30-day delete retention, data region • To enhance protection of customer data, the
+sovereignty and dual data center redundancy, Keepit platform incorporates TLS transport
+and a unique, tamper-proof infrastructure with security and secure, logged access controls
+immutability by default
+Leading SaaS data security | 22
+
+--- Page 23 ---
+Keepit future proof
+Take the next step toward
+protecting your SaaS data
+Keepit provides next-level SaaS data Headquartered in Copenhagen with
+protection purpose-built for the cloud, by offices and data centers worldwide, over
+securing data in a vendor-independent ten thousand companies trust Keepit for
+cloud to safeguard essential business its ease of use and effortless backup and
+applications, boost cyber resilience and recovery of cloud data.
+future-proof data protection.
+HQ - Copenhagen Dallas, Texas London Munich
+Denmark United States United Kingdom Germany
+Keepit A/S Keepit USA Inc. Keepit Technologies UK, LTD. Keepit Germany GmbH
+Per Henrik Lings Allé 4, 7. 3232 McKinney Avenue Suite Warnford Court Maximiliansplatz 22
+2100 København, Denmark 820 Dallas TX 75204, USA 29, Throgmorton Street D-80333 München
+CVR: 30806883 TIN: 85-358 6335 London EC2N 2AT, UK Amtsgericht München
++45 8987 7792 +1 469-461-4892 Company reg. no.: 13785045 HRB 270094
+Geschäftsführer
+Morten Felsvang
+Request a demo
+www.keepit.com
+© 2024 Keepit. All rights reserved.
+Leading SaaS data security | 23

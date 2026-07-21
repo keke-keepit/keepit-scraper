@@ -1,0 +1,117 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-HDI-customer-case-DE.pdf
+
+--- Page 1 ---
+Kundenreferenz:
+HDI
+HDI vertraut auf Keepit
+HDI head office HDI head office
+zur Einhaltung europäischer
+Vorschriften
+HDI head office in Hanover, Germany
+6 7
+
+--- Page 2 ---
+Kundenreferenz:
+HDI
+Der Versicherungslösungsanbieter HDI verarbeitet in seinen Geschäftsabläufen einige der
+sensibelsten personenbezogenen Daten überhaupt. Umso wichtiger ist es, einen Backup- und
+Recovery-Partner zu wählen, dem man uneingeschränkt vertrauen kann. Keepit stellt sicher,
+dass HDIs Microsoft Entra ID nicht nur zuverlässig gesichert wird, sondern auch den geltenden
+Vorschriften wie dem Digital Operational Resilience Act (DORA) entspricht.
+Kontinuierliche Verfügbarkeit im Mittelpunkt der Die unabhängige Cloud und eigenständigen
+Compliance Rechenzentren von Keepit als entscheidender
+Als Versicherungsunternehmen verarbeitet HDI Vorteil
+sensible Daten, die den strengsten Regulierungen Keepit ist der weltweit einzige
+Europas unterliegen, darunter der Digital herstellerunabhängige Cloud-Anbieter für SaaS-
+Operational Resilience Act (DORA). Datensicherung. Mit Rechenzentren in sieben
+Regionen, darunter Europa, können Kunden
+„In Deutschland müssen wir beispielsweise eine
+sowohl Datensicherheit als auch Datenhoheit
+Verfügbarkeit rund um die Uhr sicherstellen, da
+gewährleisten.
+wir als kritische Infrastruktur gelten und unter
+der Aufsicht von BaFin und DORA stehen – Keepit-Backup für Microsoft Entra ID verschafft
+Versicherungsleistungen müssen im Krisenfall Unternehmen wie HDI volle Transparenz
+ausgezahlt werden können“, erklärt Philipp Poppe über ihre Daten, indem Änderungen erkannt
+von HDI. und schnell korrigiert werden können – ein
+entscheidender Faktor für einen Versicherer, um
+Die Lösung von Keepit gibt HDI die notwendige
+die Systemkonformität aufrechtzuerhalten.
+Sicherheit, dass alle Backups im Bedarfsfall
+verfügbar sind. Weitere Funktionen wie
+„Keepit betreibt eigene Rechenzentren,
+standardmäßige Unveränderlichkeit
+sodass wir im Falle von Serviceausfällen
+(Immutability) und granulares Recovery
+vollständig unabhängig von Microsoft
+erleichtern die Einhaltung sämtlicher
+Entra ID sind.“
+regulatorischer Anforderungen und ermöglichen
+die Bereitstellung der erforderlichen Niko Pieper
+Dokumentation für Audits. HDI Cloud Core Services
+„Wir haben höchste Anforderungen an den
+Datenschutz, da wir mit Live-Daten sowie
+personenbezogenen Daten aus Lebens-
+und privaten Versicherungen arbeiten. Im
+Katastrophenfall haben wir nur ein sehr kurzes
+Zeitfenster, um wieder produktiv zu sein.“
+Philipp Poppe
+HDI Cloud, Product Manager Core Services
+
+--- Page 3 ---
+Kundenreferenz:
+HDI
+Unkomplizierter Beschaffungsprozess
+Neben den Vorteilen der Keepit-Plattform
+schätzte HDI auch die schnelle und
+unkomplizierte Zusammenarbeit während des
+Beschaffungsprozesses. Da ein Backup- und
+Recovery-Partner als kritisches Outsourcing gilt,
+musste HDI sicherstellen, dass der ausgewählte
+Anbieter den hohen Anforderungen gerecht wird.
+„Wir haben im Rahmen der Beschaffung einen
+Proof of Concept durchgeführt und uns nach dem
+Test mehrerer Lösungen für Keepit entschieden.
+Über HDI
+Die Gespräche rund um Vertrag und Abschluss
+HDI VVaG bietet Sachversicherungslösungen für
+mit Keepit sowie mit dem Keepit-Partner Bechtle
+Privat- und Firmenkunden sowie spezielle Lösungen
+waren sehr kooperativ, was uns geholfen hat, enge
+für Selbstständige an. Das Unternehmen ist Teil
+Zeitpläne einzuhalten“, berichtet Philipp Poppe des Geschäftsbereichs Retail Deutschland der
+und ergänzt: „Sehr schnelle Rückmeldungen und Talanx Gruppe. Mit Beitragseinnahmen von 43,2
+Mrd. Euro (2023) und rund 28.000 Mitarbeitenden
+einfache Abstimmungen waren auch für unsere
+zählt Talanx zu den größten Versicherungsgruppen
+Einkaufsabteilung wichtig – was gerade bei einem
+Europas. Die Talanx AG ist im MDAX der Frankfurter
+deutschen Versicherungsunternehmen nicht Wertpapierbörse sowie an der Börse Hannover
+immer selbstverständlich ist.“ notiert.
+Einfachheit und Benutzerfreundlichkeit Über Bechtle
+„Wir sind nur drei Personen, die eine sehr Bechtle ist eines der führenden IT-Systemhäuser in
+komplexe Infrastruktur betreuen – daher war eine Europa. Das Unternehmen gestaltet zukunftsfähige
+IT-Architekturen – von On-Premise- und Multi-
+einfach zu bedienende Lösung ein Muss“, sagt
+Cloud-Infrastrukturen über digitale Transformation
+Niko Pieper. „Wir haben es sehr geschätzt, wie
+und Modern Workplace bis hin zu resilienter Security,
+einfach die Einrichtung von Keepit war, und heute Künstlicher Intelligenz und einem umfassenden
+findet man die benötigten Informationen bei der Managed-Services-Portfolio. Mit über 15.500
+Mitarbeitenden an mehr als 120 Standorten in 14
+Nutzung der Plattform extrem schnell.“
+europäischen Ländern verbindet Bechtle persönliche,
+Die Keepit-Plattform wurde speziell für die lokale Betreuung mit einem digitalen Angebot im
+Rahmen einer globalen Multi-Channel-Strategie.
+Cloud entwickelt und lässt sich problemlos in
+Bechtle ist im MDAX und TecDAX gelistet und erzielte
+bestehende Systeme integrieren. Die Lösung
+2023 einen Umsatz von 6,42 Mrd. Euro.
+erfordert kaum bis gar keine Schulung und kann
+schnell eingerichtet werden, sodass Backups
+nahezu sofort sichtbar sind.
+Your data. Here today. Here tomorrow.
+Keepit bietet eine hochmoderne SaaS-Datenschutzplattform, die speziell für die Cloud entwickelt wurde,
+indem sie Daten in einer anbieterunabhängigen Cloud sichert, um geschäftskritische Anwendungen zu
+schützen, die Cyber-Resilienz zu stärken und die Datensicherung zukunftssicher zu machen. www.keepit.com
+© 03/05/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

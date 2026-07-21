@@ -1,0 +1,103 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-ELIN-customer-case-DE.pdf
+
+--- Page 1 ---
+Kundenreferenz
+Keepit bietet eine
+kosteneffiziente Backup-
+Lösung für die ELIN Group
+
+--- Page 2 ---
+Kundenreferenz
+ELIN Group
+Die ELIN Group, ein österreichisches Unternehmen für Elektrotechnik und technische
+Gebäudeausrüstung, suchte nach einer neuen Lösung zur Sicherung ihrer Microsoft-365-
+Umgebung. Mit der Vorgabe, Daten bis zu 35 Jahre aufbewahren zu müssen, benötigte das
+Unternehmen einen Anbieter, der eine kosteneffiziente und einfach zu bedienende Lösung bietet,
+um diese Anforderungen zu erfüllen und die Daten von 1.800 Anwendern zu schützen.
+Einfaches, kosteneffizientes Backup Schulung und ermöglicht es Anwendern, Daten
+Die bisherige Backup- und Recovery-Lösung der mit nur wenigen Klicks zu finden, in der Vorschau
+ELIN Group war kompliziert in der Anwendung. anzuzeigen und zu recyclen.
+Gemeinsam mit dem Partner LB-systems machte
+„Die Möglichkeit, Backup-Daten über einen
+sich das Unternehmen daher auf die Suche nach
+Weblink an unsere Anwender zu senden, ist für
+einer benutzerfreundlicheren Alternative.
+unsere tägliche Arbeit sehr hilfreich“, ergänzt
+„Unsere alte Lösung war sehr umständlich, und Alfred Pusterhofer.
+die Benutzeroberfläche war schlecht. Wir wollten
+Fokus auf die Sicherstellung der
+eine intuitive, kosteneffiziente Lösung und wurden
+Geschäftskontinuität
+auf Keepit aufmerksam“, sagt Alfred Pusterhofer,
+Geschäftskontinuität hatte für die ELIN
+Head of IT bei der ELIN Group.
+Group hohe Priorität. Bei der Suche nach
+Mit Keepit kann die ELIN Group kritische einem Backup- und Recovery-Partner
+Microsoft-365-Daten innerhalb von hob das Unternehmen insbesondere die
+Sekunden wiederherstellen. Die intuitive Bedeutung von Sicherheitsmaßnahmen wie der
+Benutzeroberfläche erfordert kaum bis gar keine Unveränderbarkeit (Immutability) hervor.
+„Europäische Rechenzentren und
+Unveränderbarkeit waren für uns bei der
+Auswahl eines Backup- und Recovery-
+Anbieters entscheidend.“
+- Alfred Pusterhofer,
+Head of IT at ELIN Group
+
+--- Page 3 ---
+Kundenreferenz
+ELIN Group
+„Wenn unsere Systeme ausfallen, müssen wir in
+der IT so schnell wie möglich wieder arbeitsfähig
+sein. Um das zu erreichen, spielt das Backup
+von Microsoft 365 mit Hilfe von Keepit eine
+entscheidende Rolle“, erklärt Alfred.
+Angesichts zunehmender regulatorischer
+Anforderungen wird von Unternehmen erwartet,
+über Notfall- und Disaster-Recovery-Pläne zu
+verfügen. Keepit sichert geschäftskritische Daten
+Über die ELIN Group
+zuverlässig, damit Unternehmen im Falle eines
+ELIN ist Österreichs führendes Unternehmen im
+Datenverlusts schnell wieder handlungsfähig sind.
+Bereich Gebäudetechnik und elektrotechnischer
+Anlagenbau und bietet sowohl umfassende
+Herstellerunabhängige Backup- und
+systemintegrative als auch spezialisierte
+Recovery-Lösung
+Ingenieurlösungen. Mit 17 eigenen Kompetenzzentren
+Das europäische Unternehmen Keepit bündelt ELIN tiefgehendes technisches Know-how
+bietet vollständig unabhängige Backups für und treibt Innovation kontinuierlich voran – unter
+anderem durch die Entwicklung eigener Produkte
+Unternehmen, die ihre kritischen Daten schützen
+(zum Beispiel im Bereich Flughafentechnologie). Das
+möchten. Dank globaler Rechenzentren können
+Unternehmen erzielt einen Jahresumsatz von rund 415
+Kunden ihre Daten in der gewünschten Region
+Millionen Euro, beschäftigt etwa 1.800 Mitarbeitende
+speichern und so die Datenhoheit sicherstellen. und ist an 15 Standorten in Österreich sowie mit sechs
+Niederlassungen international vertreten (www.elin.
+„Wenn man die aktuelle geopolitische Lage com).
+betrachtet, werden europäische Rechenzentren
+Über LB-systems
+für uns immer wichtiger“, sagt Alfred Pusterhofer.
+Seit fast 40 Jahren beschäftigt sich LB-systems mit
+Der intelligente Ansatz für Compliance dem Thema Daten und deren Verfügbarkeit. Von
+Beginn an liegt der Fokus auf Technologie und eigener
+Die Keepit-Plattform legt den Fokus auf
+technischer Expertise. LB-systems liefert Lösungen,
+Integrität und Compliance von Cloud-Daten
+die mit den wachsenden Anforderungen der Kunden
+und stellt eine unabhängige, unveränderbare skalieren – einfach, kosteneffizient und sicher (www.
+Backup-Umgebung mit flexiblen Zugriffs- und lb-systems.at).
+Aufbewahrungsoptionen bereit. Von einer
+sicheren Architektur bis hin zu auditfähigen
+Protokollen sorgt Keepit dafür, dass Daten „Die Lösung von Keepit ist einfach und
+geschützt, transparent und im Einklang mit allen unkompliziert zu bedienen – und vor allem
+regulatorischen Anforderungen bleiben. zuverlässig.“
+- Alfred Pusterhofer,
+Head of IT at ELIN Group
+Your data. Here today. Here tomorrow.
+Keepit bietet eine hochmoderne SaaS-Datenschutzplattform, die speziell für die Cloud entwickelt wurde,
+indem sie Daten in einer anbieterunabhängigen Cloud sichert, um geschäftskritische Anwendungen zu
+schützen, die Cyber-Resilienz zu stärken und die Datensicherung zukunftssicher zu machen. www.keepit.com
+© 03/06/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

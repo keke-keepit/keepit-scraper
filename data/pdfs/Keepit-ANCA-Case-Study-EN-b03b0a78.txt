@@ -1,0 +1,99 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-ANCA-Case-Study-EN.pdf
+
+--- Page 1 ---
+Customer case
+ANCA improves data
+protection efficiency and
+compliance with Keepit
+
+--- Page 2 ---
+Customer case:
+ANCA
+When ANCA, an Australian manufacturer known for its precision-engineered CNC grinding
+machines, expanded its use of Microsoft 365, including SharePoint Online for engineering
+documentation and Entra ID for secure identity management, the IT team knew it needed a better
+way to protect critical data. To keep information always accessible and stay compliant with
+Australia’s Essential Eight Maturity Model, ANCA turned to Keepit for a solution that matched its
+values of simplicity, resilience, and innovation.
+Backup failures prompt a rethink Keepit delivers simplicity, security, and
+Before implementing Keepit, ANCA’s IT team compliance
+struggled with its previous backup provider. When it came time to evaluate new options,
+Persistent reliability issues with the previous the team had clear priorities: reliability,
+solution put critical data at risk and undermined compliance, and ease of use. Working with its
+trust in recovery. “The IT team was buried in alerts, trusted partner, FullBackup, ANCA discovered
+and we couldn’t guarantee the recovery of critical Keepit as the ideal choice for protecting its
+data,” said Andrew Zhou, Group IT Manager at SaaS data. FullBackup recommended Keepit
+ANCA. because it provides immutable backups and
+full data sovereignty through its Australian data
+With compliance at risk, particularly meeting the
+center, both key to meeting ANCA’s compliance
+Essential Eight maturity level 2 requirements,
+requirements.
+the team needed a trusted, transparent solution
+that could deliver consistent backups and fast,
+dependable recovery.
+“Keepit’s immutability and ease of use give
+me total confidence that our data is safe
+and always recoverable.”
+- Andrew Zhou,
+Group IT Manager at ANCA
+
+--- Page 3 ---
+Customer case:
+ANCA
+Deployment was fast and hassle-free. Even
+ANCA’s large SharePoint environment was fully
+protected within days. The platform’s clean,
+intuitive interface meant the team did not need
+extra training to get started. Within moments, they
+had full visibility and control across Microsoft 365
+and Entra ID.
+Reliable protection, improved operations
+With Keepit, ANCA’s IT team no longer has
+About ANCA
+to stress about backups. Immutable storage
+Founded in 1974 and headquartered in Melbourne,
+keeps data safe from corruption or attack, and
+ANCA is a world-leading manufacturer of CNC
+day-to-day management is simple. The team
+grinding machines, automation solutions, and motion
+also benefits from smarter recovery tools that controls. With customers in more than 45 countries
+have improved both efficiency and overall user and offices across North America, Europe, and Asia,
+ANCA supports industries from automotive and
+experience across the organization.
+aerospace to medical and general manufacturing.
+End users can now browse snapshots and recover About FullBackup
+what they need on their own, saving IT hours that FullBackup is an Australian data protection
+used to be spent chasing vague restore requests. specialist focused on secure, sovereign, and
+compliant backup solutions. As a trusted Keepit
+Managers also gain instant read-only access
+partner, FullBackup supports all 12 Keepit-protected
+during employee offboarding, allowing Microsoft
+workloads - including Microsoft 365, Entra ID,
+365 licenses to be retired right away. The result is Google Workspace, Okta, Salesforce, DocuSign and
+stronger security, lower costs, and more efficient more, delivering proven expertise across SaaS
+environments. With a strong local presence and deep
+operations overall.
+technical capability, FullBackup helps organizations
+Full compliance, renewed confidence deploy resilient, compliant backup and recovery
+platforms that safeguard data integrity and business
+Since moving to Keepit, ANCA has not had a
+continuity.
+single backup failure and now meets Australia’s
+Essential Eight compliance with confidence. Self-
+service recovery has increased efficiency across
+“No more sleepless nights worrying
+teams by reducing IT workload and providing
+about recovery. Keepit gives us reliability,
+faster access to data when it’s needed most.
+compliance, and peace of mind — all in one
+The solution’s reliability and simplicity have
+platform.”
+strengthened resilience against data loss while
+giving ANCA complete assurance in its backup - Andrew Zhou,
+strategy. Group IT Manager at ANCA
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

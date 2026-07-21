@@ -1,0 +1,72 @@
+Source: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Cyberinsurance-Webinar-Key-Takeaways.pdf
+
+--- Page 1 ---
+Key takeaways
+From threat to defense:
+Ransomware and cyber insurance
+Ransomware plagues security professionals — and,
+in turn, the companies that insure them — more
+than ever before. It’s now one of the most signif-
+icant cybersecurity challenges, with 89% of en-
+terprises identifying it as a top-five threat to their
+business. No longer limited to isolated incidents,
+ransomware has evolved into a booming global
+economy as attackers expand their capabilities
+and collaborate across networks.
+This was a key focus of discussion during a recent
+Keepit webinar, where Kim Larsen, CISO at Keepit,
+engaged a panel of cybersecurity and IT experts to
+discuss trends in ransomware and how they affect
+an organization’s ability to secure cyber insurance
+today.
+Actionable strategies to build resilience against the threat
+1. Proactive defense 3. Insurability controls
+• Ensure active monitoring and conduct regular vulnerability • Develop a cybersecurity maturity framework that includes
+assessments to identify and mitigate potential entry points. multi-factor authentication (MFA), Endpoint Detection
+• Focus on initial access points, as most breaches occur here. and Response (EDR), privileged access management, and
+• Deploy compartmentalization strategies to contain threats employee awareness training.
+and prevent lateral movement within systems. • Test incident response plans and conduct tabletop
+exercises regularly to ensure operational resilience.
+2. Comprehensive backup systems
+• Store backups offsite and frequently check for corruption to 4. Resilience building
+maintain recovery readiness. • Shift to a “we are being attacked” mindset. Resilience, not
+• Implement robust detection systems to identify just defense, is essential to maintaining operations during and
+compromises before restoration is necessary. after an attack.
+• Conduct regular restoration exercises, at least annually, to • Use established frameworks like NIST or ISO to create
+verify backup integrity. structured and measurable security policies.
+Read more about how one of our
+customers recovered from a cyber attack
+© 2024 Keepit. All rights reserved.
+
+--- Page 2 ---
+The role of cyber insurance to mitigate risk
+Cyber insurance has become a cornerstone of risk management, providing financial protection against
+cyberattacks. It complements proactive initiatives like incident response planning and data recovery
+processes, acting as a safety net against increasingly sophisticated threats.
+However, securing coverage is not straightforward. As threats evolve, so do insurer requirements. Insurers
+now demand evidence of cybersecurity maturity, often rejecting applicants without critical safeguards
+such as MFA, monitoring, or access controls. Policies also require proof of implementation rather than mere
+declarations of compliance, underscoring the need for demonstrable cybersecurity practices.
+“You cannot get an insurance policy without controls. Insurance policies now overlap with
+cybersecurity maturity frameworks, demanding organizations strengthen their defenses.”
+Dara Gibson, Senior Manager Cyber Insurability Services at Optiv
+Here’s a look at the Top 10 cyber insurability controls
+Identity and access controls Detection response
+MFA, PAM, managed identity EDR, NDR, MDR, MXDR, threat hunting
+Data privacy and governance Data security
+State/federal regulations, compliance, Cloud, discovery, encryption, protection
+privacy-by-design (DLP, CASB)
+Business resilience Incident response readiness
+CRS, backup, TPRM Plans, playbooks, tabletops
+Logging and monitoring Cybersecurity awareness
+SIEM, WAF, SOAR, email Phishing, education
+Vulnerability management Network and OT security
+VM programs, patch, management, remediation SASE, architecture, management, protocols
+Data recovery guide
+Check out our 7-step guide for data recovery and
+business continuity
+Download now
+Keepit provides next-level SaaS data protection purpose-built for the cloud by securing data in a vendor-independent
+cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+© 2024 Keepit. All rights reserved.
+For more information visit www.keepit.com or follow Keepit on Linkedin © 2024 Keepit. All rights reserved.

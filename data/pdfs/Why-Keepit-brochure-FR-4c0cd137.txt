@@ -1,0 +1,120 @@
+Source: https://lp.keepit.com/hubfs/content-assets/FR/Why-Keepit-brochure-FR.pdf
+
+--- Page 1 ---
+La seule plateforme indépendante, conçue pour le cloud,
+dédiée à la protection intelligente des données SaaS
+Les stratégies de gestion, de protection et de récupération
+des données des applications SaaS n’ont pas évolué au même
+“D’ici 2028, 75 % des
+rythme que l’utilisation de ces applications.
+entreprises considéreront la
+Avec 9 organisations sur 10 dépendant de la technologie SaaS
+sauvegarde des applications
+professionnelle*, les dirigeants prennent davantage conscience
+SaaS comme un impératif
+de l’urgence de s’adapter à cette nouvelle réalité.
+majeur, contre 15 % en 2024.”
+Le constat est sans appel : les technologies existantes et
+Gartner 2024 Magic Quadrant (MQ) Enterprise
+les méthodes obsolètes ne permettent pas de protéger Backup and Recovery Software Solutions
+efficacement les données SaaS.
+*2023 State of SaaSOps – Better Cloud
+Keepit est le choix intelligent pour la protection des données SaaS. Conçu intelligemment
+dans le cloud pour le cloud, il garantit des sauvegardes immuables et souveraines ainsi
+qu’un accès instantané à toutes les données avec des analyses exploitables. Sa restauration
+intelligente vous fait gagner du temps et réduit la complexité, permettant à vos équipes de
+rester concentrées sur l’essentiel.
+LE CHOIX INTELLIGENT
+Sécurisé, uniformisé, économique
+Un cloud indépendant Coûts prévisibles et stables. Pas Coût selon les données
+des fournisseurs de clauses en petits caractères
+SCtooûrat gdee
+• Keepit dispose de sa propre • Tarification basée sur le nombre de stococsktasge
+infrastructure. Celle-ci est sièges avec stockage illimité
+indépendante des fournisseurs • Rétention personnalisable OAutthreers pforourvnidisesersurs
+de cloud public et des centres de
+avec capacité illimitée
+données à très grande échelle
+KKeeeeppiitt
+• Aucuns frais d’entrée, de sortie
+• Les sauvegardes sont isolées de
+ou de transfert de données
+la production et conformes aux
+normes de sécurité les plus strictes
+Facilité d’utilisation et
+Plateforme uniforme pour gain de temps
+toutes les applications • Sans maintenance ni infrastructure,
+votre personnel peut se concentrer
+• Une interface unique pour
+sur ses activités principales TeTimmpes
+toutes les applications SaaS
+• Configuration facile et interface
+• Des processus rationalisés pour
+intuitive pour accélérer
+une productivité optimale
+l’adoption et les processus
+© 2025 Keepit. All rights reserved.
+
+--- Page 2 ---
+UNE CONCEPTION INTELLIGENTE
+Évolutive, inaltérable, conforme
+Protection des données native sur le cloud Sécurisé et crypté
+• Évolutive et adaptative, contrairement aux • Cryptage AES intégré directement à
+solutions sur site adaptées au cloud nos systèmes de stockage
+• Conçu à cet effet, Keepit fonctionne • Normes de cryptage avancées en transit et au repos
+parfaitement avec les applications SaaS
+• Keepit échange directement le trafic avec les fournisseurs de
+• Aucun coût d’infrastructure ni de maintenance charge de travail via les principaux points d’échange Internet
+associé aux solutions sur site ou hybrides
+Sauvegardes inaltérables de par leur conception
+• Des données réellement inaltérables, car toute
+modification ou suppression de fichiers est impossible
+Souveraineté des données
+• Les données restent protégées dans la région choisie
+• Nos propres centres de données sont répartis
+dans sept pays sur trois continents
+GESTION ET RÉCUPÉRATION INTELLIGENTES DES DONNÉES
+Flexible, intuitive, précise
+Accès instantané à toutes les Informations utiles
+versions de vos données
+• Vue consolidée de l’état et des
+• Stockage à chaud performances des tâches de
+permanent, sans période sauvegarde et de restauration
+d’hydratation des données • Alertes précoces en cas
+• Peu importe leur ancienneté, d’anomalies et de menaces
+prévisualisez, partagez ou pour l’intégrité des données
+restaurez instantanément • Intégration avec des
+vos données outils de sécurité
+• Fonction de recherche intuitive
+Transparence et
+Options de restauration responsabilité
+flexibles • Alertes et rapports
+personnalisables pour
+• Permet une restauration
+documenter la conformité
+groupée ou granulaire à
+et la préparation à la
+la fois rapide et précise
+reprise après incident
+
+--- Page 3 ---
+Éprouvé, testé et approuvé
+« Compte tenu des activités internationales d’Emmi, « “Conçue dans le cloud pour le cloud”, la solution
+une solution disponible partout dans le monde et proposée par Keepit a permis au client de se remettre
+évolutive était indispensable. Keepit est le partenaire rapidement et efficacement de cet incident de
+idéal pour relever les défis d’une entreprise laitière cybersécurité avec un impact minimal. Un tel résultat aurait
+active à l’échelle mondiale. » été pratiquement impossible à obtenir avec une solution de
+| Marc Baumann sauvegarde classique sur site. »
+| Services principaux de plateforme de données, Emmi
+| Siddick Elaheebocus
+| Fondateur et directeur général d’INNOVISION
+Reconnu dans le secteur
+Découvrez la simplicité
+unique de Keepit
+Demandez une démo
+Your data. Here today. Here tomorrow.
+Keepit fournit une plateforme de protection des données SaaS de nouvelle génération spécialement conçue
+pour le cloud en sécurisant les données dans un cloud indépendant afin de protéger les applications cloud
+essentielles, renforcer la résilience cybernétique et garantir une protection des données pérenne.
+Pour plus d’informations, visitez www.keepit.com ou suivez Keepit sur LinkedIn.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

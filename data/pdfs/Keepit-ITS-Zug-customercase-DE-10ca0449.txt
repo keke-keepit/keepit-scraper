@@ -1,0 +1,123 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-ITS-Zug-customercase-DE.pdf
+
+--- Page 1 ---
+ITS Zug vereinfacht
+mandantenübergreifendes
+Microsoft 365-Backup
+mit Keepit
+Kundenreferenz
+
+--- Page 2 ---
+ITS Zug vereinfacht
+mandantenübergreifendes
+Microsoft 365-Backup
+mit Keepit
+Die IT Services Zug AG (ITS Zug) stellt zentrale IT-Services für öffentliche Verwaltungen und
+Schulen im Kanton Zug bereit. Da das Team mehrere Organisationen in komplexen Microsoft
+365-Umgebungen unterstützt, ist es dafür verantwortlich, kritische Daten zu schützen und
+gleichzeitig strenge Anforderungen an Datenschutz, Verfügbarkeit und Sicherheit zu erfüllen.
+Als die Nutzung von Microsoft 365 über mehrere Mandanten hinweg schnell zunahm, benötigte
+ITS Zug eine Backup-Lösung, die konsistenten Schutz in großem Umfang bietet und zugleich
+die operative Komplexität deutlich reduziert. Zuverlässigkeit, schnelle Wiederherstellung und
+hohe Sicherheit waren entscheidend, um die Kontinuität für die unterstützten Organisationen
+sicherzustellen.
+STANDORT BRANCHE MITARBEITENDE
+Schweiz Regierung 5,000+
+Ein stabilerer Ansatz für
+„Unsere Umgebungen unterstützen
+mandantenübergreifendes Backup
+mehrere Organisationen mit hohen
+ITS Zug schützt große Mengen an Microsoft
+Erwartungen an Verfügbarkeit,
+365-Daten in Exchange, OneDrive, SharePoint und
+Sicherheit und Datenschutz. Wir
+Teams für mehrere Organisationen. Die bisherige
+Backup-Lösung verursachte laufende betriebliche brauchten eine Lösung, auf die wir uns
+Herausforderungen: Mehrmals pro Woche traten verlassen können, ohne zusätzlichen
+wiederkehrende Probleme auf, die ständige operativen Aufwand zu schaffen.“
+Eingriffe, zeitaufwendige Fehlerbehebung
+Natascha Markzoll
+und wiederholte Nacharbeiten erforderten.
+System Engineer,
+Wiederherstellungsprozesse waren häufig
+IT Services Zug AG
+unzuverlässig oder zu komplex, was im
+Kundenreferenz 2
+
+--- Page 3 ---
+„Keepit gibt uns eine zentrale Möglichkeit, Backups über mehrere Mandanten
+hinweg zu verwalten und gleichzeitig die Unabhängigkeit zu bewahren, die wir für
+Sicherheit und Compliance benötigen.“
+Natascha Markzoll
+System Engineer,
+IT Services Zug AG
+Tagesgeschäft einen erheblichen Aufwand Durch die klare Trennung zwischen
+verursachte und Backup-Abläufe unvorhersehbar Produktions- und Backup-Umgebungen
+und ressourcenintensiv machte, statt ein stabiler erhält das IT-Team mehr Kontrolle und Resilienz
+Bestandteil der Umgebung zu sein. bei Datenverlust oder Cybervorfällen.
+Granulare Wiederherstellungsfunktionen
+Da mehrere Mandanten unterstützt werden
+ermöglichen es, einzelne E-Mails, Dateien und
+müssen, benötigte das Team eine konsistentere
+Kollaborationsdaten schnell wiederherzustellen.
+und besser planbare Möglichkeit, Backups in
+So bleibt die Kontinuität gewahrt, während
+großem Umfang zu verwalten. Den operativen
+Unterbrechungen für die Nutzer minimiert
+Aufwand zu reduzieren und gleichzeitig
+werden.
+das Vertrauen in die Integrität der Backups
+aufrechtzuerhalten, wurde zu einer zentralen Zuverlässige Wiederherstellung mit
+weniger operativem Aufwand
+Priorität.
+Seit der Implementierung von Keepit hat ITS
+Zentraler Schutz, unabhängiges Design
+Zug den Zeitaufwand für die Verwaltung von
+ITS Zug entschied sich für Keepit, um ein zentrales
+Backup-Prozessen deutlich reduziert. Backups
+SaaS-Backup für Microsoft 365 über die
+laufen nun konsistent und zuverlässig, sodass sich
+verschiedenen Mandantenumgebungen hinweg
+das IT-Team stärker auf strategische Prioritäten
+bereitzustellen. Die unabhängige Architektur
+konzentrieren kann, statt sich mit routinemäßiger
+von Keepit trennt Backup-Daten von der
+Fehlerbehebung zu beschäftigen.
+Microsoft-Produktionsumgebung. Das stärkt die
+Sicherheit, da Backup-Daten von der Produktion Schnelle, granulare Wiederherstellungsfunk-
+isoliert werden und eine Zero-Trust-Architektur tionen stellen sicher, dass Nutzer bei Bedarf
+unterstützt wird. schnell wieder Zugriff auf wichtige Daten
+Kundenreferenz 3
+
+--- Page 4 ---
+erhalten. Dank des Vertrauens in die Stabilität der
+Backup-Umgebung ist die tägliche Überwachung
+keine Belastung mehr für das Team.
+Heute profitiert ITS Zug von einer skalierbaren
+und zuverlässigen Backup-Umgebung, die
+die Anforderungen von Organisationen des
+öffentlichen Sektors unterstützt und gleichzeitig
+die operative Komplexität reduziert. Mit
+zuverlässigem Schutz kann sich das Team darauf
+konzentrieren, sichere und effiziente IT-Services
+bereitzustellen, die Schulen und öffentliche
+Verwaltungen im gesamten Kanton unterstützen.
+„Die Verwaltung von Backups mit Keepit
+ist fast langweilig – im besten Sinne.
+Es funktioniert einfach. Wir verbringen
+keine Zeit mehr mit der Fehlerbehebung
+bei Backups, und die Wiederherstellung
+ist schnell und unkompliziert.“
+Natascha Markzoll
+System Engineer,
+IT Services Zug AG
+Über IT Services Zug AG
+Die IT Services Zug AG (ITS Zug) ist ein zentraler IT-Dienstleister für öffentliche Verwaltungen und Schulen im Kanton
+Zug in der Schweiz. ITS Zug ermöglicht es Organisationen des öffentlichen Sektors, zuverlässige digitale Services
+bereitzustellen und dabei Compliance und betriebliche Stabilität sicherzustellen.
+Your data. Here today. Here tomorrow.
+Keepit bietet eine hochmoderne SaaS-Datenschutzplattform, die speziell für die Cloud entwickelt wurde, indem sie Daten in einer
+anbieterunabhängigen Cloud sichert, um geschäftskritische Anwendungen zu schützen, die Cyber-Resilienz zu stärken und die
+Datensicherung zukunftssicher zu machen.
+Weitere Informationen finden Sie unter www.keepit.com oder folgen Sie Keepit auf LinkedIn.
+© 05/22/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

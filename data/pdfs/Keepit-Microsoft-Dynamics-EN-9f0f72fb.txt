@@ -1,0 +1,65 @@
+Source: https://lp.keepit.com/hubfs/product-sheets/Keepit-Microsoft-Dynamics-EN.pdf
+
+--- Page 1 ---
+Keepit Backup and Recovery
+for Microsoft Dynamics 365
+Keep processes running with vendor-independent backup
+From CRM and finance to supply chain and HR, Dynamics 365 powers the core of your
+business. But if data is lost or systems fail, sales stop and operations stall.
+Native Dynamics 365 tools offer only basic protection and limited retention, and under
+Microsoft’s shared responsibility model*, you’re still accountable for your data.
+Keepit solves this with intelligent tools to back up and restore Dynamics 365 data and
+metadata in minutes, so your business can keep running without interruption.
+* Microsoft Dynamics 365 guidance, implementation guide
+Time-saving usability Flexible restore options Be confident that you can recover
+Easy to implement and intuitive, Keepit Restore records flexibly and granu- Have all your data always at your fingertips
+requires minimal expertise to use. You larly, from specific entities to point- with comprehensive, automated backups
+can focus on managing your Dynamics in-time snapshots. Keepit prioritizes of your data — including metadata and
+365 environment instead of complex recovery plans to get your business custom tables.
+backup processes. running again — fast.
+The risk Financial impact Proven benefit
+85% of organizations reported 90% of those reporting data loss Keepit customers were able to reduce the
+at least one data loss incident incidents suffered consequences, time needed to restore data for priority
+in the past 12 months. including business disruption, revenue users by 90% after a data loss incident.
+loss, and reputational damage.
+Source: Proofpoint “The 2024 Data Loss Source: Forrester Total Economic Impact Study 2024
+Landscape”
+Source: Proofpoint “The 2024 Data Loss Landscape”
+“We searched the market extensively for backup
+and restore products ahead of choosing Keepit
+as the right solution for the University’s needs for
+long-term data retention.”
+Lasse Thomsen, Information Systems
+Manager, Oxford University Innovation Ltd
+
+--- Page 2 ---
+Take control of your Dynamics 365 data with Keepit
+KEY CAPABILITIES
+The best coverage Unlimited retention Proactive monitoring
+Keepit delivers the most Customize retention for up to 99 Gain full visibility into backup health
+comprehensive, granular backup for years with no extra costs. Even as with Data Protection and Anomaly
+all key Microsoft 365 applications, attachments pile up and data grows, Detection Dashboards, enabling early
+offering unmatched coverage in the you can safely store everything identification and quick remediation
+market. without added complexity. of potential risks to your Dynamics
+365 data.
+Instant search Selective metadata restore
+Find what you need fast with Keepit’s Restore customizations such as Highest security
+powerful search. Use filters to locate entities, fields, and relationships Keepit’s vendor-independent
+entities, metadata, and tables and without rolling back the entire cloud and immutable-by-design
+then restore or share with a secure link Dynamics 365 environment. architecture ensure your backups stay
+in one click. protected.
+COVERAGE
+All entities’ associated metadata and all custom tables for the following applications
+Dynamics 365 Dynamics 365
+Dynamics Sales
+Field Service Customer Insights
+Dynamics 365 Dynamics 365 Find complete
+Customer Service Project Operations coverage here.
+Secure your Microsoft Dynamics
+365 data in minutes with Keepit
+Book a demo
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

@@ -1,0 +1,318 @@
+Source: https://lp.keepit.com/hubfs/content-assets/Help%20center%20documents/Jira-coverage-details.pdf
+
+--- Page 1 ---
+Keepit for
+Coverage details
+1
+
+--- Page 2 ---
+Contents
+Keepit for ........................................................................................................................... 1
+Projects ............................................................................................................................... 2
+Project roles .................................................................................................................... 3
+Project properties ............................................................................................................ 3
+Project avatar (restore) ................................................................................................... 3
+Project versions (Releases) ............................................................................................ 3
+Issues .................................................................................................................................. 3
+Issue (work) type screen schemes and type schemes .................................................. 3
+Issue type avatars ........................................................................................................... 3
+Issue custom fields .......................................................................................................... 3
+Issue entities ................................................................................................................... 4
+Issue field configurations & schemes ............................................................................. 4
+Issue resolutions ............................................................................................................. 4
+Issue work logs ................................................................................................................ 4
+Request — Expand to issue definition file ...................................................................... 4
+Boards ................................................................................................................................. 4
+Sprints ................................................................................................................................. 5
+Dashboards ......................................................................................................................... 5
+Dashboard limitations ...................................................................................................... 5
+Dashboard gadget limitations ......................................................................................... 6
+Gadget restore order ................................................................................................... 6
+Dashboard layout limitations ....................................................................................... 6
+Handling layout mismatches ....................................................................................... 6
+Gadget properties limitations....................................................................................... 6
+Work items settings............................................................................................................. 6
+Priority schemes known limitations: ................................................................................ 7
+Permission schemes known limitations ...................................................................... 7
+Notification schemes known limitations ...................................................................... 7
+Issue security schemes ............................................................................................... 7
+Workflow scheme drafts .............................................................................................. 7
+Service desk organizations known limitations: ........................................................... 7
+Plans ................................................................................................................................... 7
+2
+
+--- Page 3 ---
+Known limitations ......................................................................................................... 7
+Teams in plan known limitations ................................................................................. 8
+Workflows ............................................................................................................................ 8
+Workflows for issues or issue types within team-managed projects .......................... 8
+Workflow schemes ...................................................................................................... 8
+Deleted workflows ....................................................................................................... 8
+Screens ............................................................................................................................... 8
+Screen tabs .................................................................................................................. 9
+General ............................................................................................................................... 9
+Important limitation............................................................................................................ 10
+3
+
+--- Page 4 ---
+Projects
+Projects can only be restored as company-managed projects.
+Project roles
+• Company-managed projects: All project roles can be restored.
+• Team-managed projects: All project roles can be restored, except for predefined
+ones (Administrator, Viewer, Member)
+Project properties
+• We only support the creation and updating of project properties. If certain
+properties exist remotely but are absent in the snapshot, we don't remove them
+— extra remote properties are preserved.
+Project avatar (restore)
+• The API always returns image/png in the header for custom avatars, regardless
+of their original format. As a result, we can't reliably determine the actual file type.
+When the avatar is re-uploaded, formats like GIF and JPEG lose quality due to
+being treated as PNG. Only original PNGs retain full quality.
+Project versions (Releases)
+• We are unable to restore sections in the project version.
+• We are unable to restore approvers for the project version.
+• To restore "Fix version" value in associated issues, you have two options:
+o Select the whole Project version folder to restore. This will update "Fix
+version" value in every associated issues.
+o To update "Fix version" in single issue, go to the location of origin for the
+given issue and select that issue to restore ("Fix version" is restored if the
+given version exists).
+Issues
+Issue (work) type screen schemes and type schemes
+• Restoring the relationship between issue (work) type screen schemes and
+projects is not supported.
+• Restoring the relationship between issue (work) type schemes and projects is not
+supported.
+• Restoring the relationships between issue (work) type screen schemes and issue
+(work) type schemes is not supported.
+Issue type avatars
+• Restoring the avatar image for issue types is not supported.
+4
+
+--- Page 5 ---
+Issue custom fields
+• Restoring the state of issue custom fields is not supported.
+• Restoring the default value of custom field contexts is not supported.
+• Only the following issue properties are supported: issue type, summary,
+description, priority, assignee, reporter, and status (for company-managed
+projects).
+Issue entities
+• The following items are backed up as separate entities in the snapshot and can
+be restored individually: issue comments, watchers, attachments, parent links,
+and linked or child issues.
+Issue field configurations & schemes
+• Restoring the relationships between field configurations, field configuration
+schemes, and other related entities is not supported.
+• If a field configuration's relationship with a screen is deleted, we are
+currently unable to restore the relationship.
+Issue resolutions
+• When restoring issue resolutions, we can't set the resolution for dependent
+issues. The restore process only covers the resolution entity itself, not its
+associations with dependent issues.
+Issue work logs
+• We can't restore the original author of an issue work log — it is always restored
+under the authenticated user. To indicate the original author, we add a note in
+the comment in the format: "Originally logged by: {userId}". This logic is similar to
+the approach already implemented for restoring issue comments.
+• We only support the creation and updating of issue work logs properties. If
+certain properties exist remotely but are absent in the snapshot, they are not
+removed — extra remote properties are preserved.
+Request — Expand to issue definition file
+• Currently, we support backing up additional data related to requests, including
+request participants, which are now included in the issue definition file.
+• Additionally, requests from Jira Service Management projects are supported for
+backup only.
+• Restore operations of the whole request, including restoring request participants,
+are not supported.
+Boards
+• We are unable to update details of already existing boards. Only creation is
+supported due to API limitations.
+5
+
+--- Page 6 ---
+• After restoration, the backlog is functional only in team-managed projects. As a
+result, moving issues to or from the backlog may not work on certain boards after
+the restore (recreation) process.
+• When restoring user boards, the owner is automatically set to the currently
+authenticated user. It isn't possible to restore a board with its original owner.
+• Board configuration can't be set via the REST API. After restoration, you must
+manually adjust the board settings to match those saved in the snapshot.
+• We are unable to restore board quick filters.
+• Our solution doesn't include custom filters on boards in team-managed projects.
+• If the previous board location (project) doesn't exist while restoring the board, the
+restore fails and the board is not restored.
+• Boards from team-managed projects can't be restored. They are skipped during
+the restore process.
+Sprints
+• We are unable to transition state from CLOSED to ACTIVE.
+• Sprints are always restored with the state FUTURE. After restoration, a Jira
+administrator must update their state via the Jira web UI to match the state saved
+in the snapshot.
+• When restoring a sprint from a previously deleted board, an error can occur when
+attempting to move issues into a sprint. This happens because sprints are not
+automatically removed when a board is deleted. To avoid this error, follow these
+steps:
+o If an error occurs, delete any sprints that contain the note "from Restricted
+Board" in the board backlog.
+o Select board sprints to restore again.
+Note: If this error occurs while the board is selected for restore, you need to delete this
+board as well and then select the given board to restore.
+Dashboards
+Dashboard limitations
+• The dashboard owner is always set to the user performing the restore.
+• Only dashboards visible to you (based on permissions) can be accessed or
+restored.
+• The API doesn't allow setting or retrieving whether a dashboard is a system
+dashboard.
+• The API doesn't allow setting the dashboard's popularity value.
+• The API doesn't expose or allow setting whether the dashboard is editable by
+you.
+• Restored dashboards are always marked as favourite (starred in the UI).
+6
+
+--- Page 7 ---
+• The definition file is read-only.
+Dashboard gadget limitations
+Gadget restore order
+• Gadgets must be restored in sequential row order (for example, row 0 → row 1
+→ row 2). Skipping rows leads to API errors.
+• Columns must also be restored in order (for example, column 0 → column 1 →
+column 2) to ensure proper positioning logic in fallback scenarios.
+Dashboard layout limitations
+• The Jira Cloud API doesn't support setting or restoring the number of dashboard
+columns.
+• The column layout is inferred based on gadget positions. If some columns are
+empty, they can be omitted from the inferred layout during restore.
+• As a result, even a dashboard originally using three columns can restore as two-
+column if no gadgets were placed in the third column.
+Handling layout mismatches
+• If the restored layout has fewer columns than the original (for example, restoring
+a three-column layout as two-column), gadgets from non-existent columns are
+reassigned to the last available column, at the top of the column (for example,
+column 2 → column 1, or column 1 → column 0), with adjusted row values.
+• This fallback logic is based on preserving as much layout context as possible
+while avoiding API errors.
+• This behavior applies both when:
+o A dashboard is deleted and recreated.
+o You manually change the layout (for example, from three to two columns)
+before restore.
+• Post-restore adjustments:
+o In any of the above scenarios, restored dashboards can require manual
+repositioning of affected gadgets to reflect their original column structure.
+Gadget properties limitations
+• When multiple dashboards use the same filter or board in gadgets, restoring only
+one dashboard with a missing filter or board configured in gadget properties
+doesn't update the filter or board IDs in the other dashboards. Gadgets in
+dashboards that were not restored can therefore keep outdated IDs, resulting in
+broken or invalid references.
+7
+
+--- Page 8 ---
+Work items settings
+Priority schemes known limitations:
+• We are unable to restore the association between a project and its priority
+scheme.
+• To restore a priority scheme, all associated priorities must still exist in the
+system.
+• If any of the priorities used in the scheme have been deleted, the priority scheme
+cannot be restored.
+Permission schemes known limitations
+• We can’t restore the association between a project and its permission scheme.
+Notification schemes known limitations
+• We can’t restore the association between a project and its notification scheme.
+Issue security schemes
+• We only support the creation and updating of issue security scheme levels. If
+certain levels exist remotely but are absent in the snapshot, they are not
+removed — extra remote levels are preserved.
+• We only support the creation of issue security scheme level members. There is
+no way to update a member, we remove the old one and add the new one. If
+certain members exist remotely but are absent in the snapshot, they are not
+removed — extra remote members are preserved.
+Workflow scheme drafts
+• Due to the complexities of Jira's handling of workflow scheme drafts, the restore
+option for workflow scheme drafts is disabled. The draft logic introduces too
+many inconsistencies.
+Service desk organizations known limitations:
+• If an organization's name is updated, it can't be reverted to its original value
+through the Jira API, because no endpoint exists to restore or rename it back.
+• When restoring an organization, its association with the Jira Service
+Management project is not restored.
+Plans
+Known limitations
+• Projects referenced by a plan must already exist before restore. They are not
+recreated automatically.
+• Missing boards and filters linked to a plan are restored together with the plan if
+they are missing.
+• The owner of the restored plan is always the user performing the restore.
+8
+
+--- Page 9 ---
+• Incomplete or invalid references (for example, a deleted project) can cause the
+restore to fail or create an unusable plan.
+• Cross-project releases must be recreated separately before restoring plans that
+reference them.
+• Epic ordering (numeric hierarchy of epics in plan) is not preserved during restore.
+• We can’t update an existing plan. Restore always creates a new plan (with a new
+ID and name).
+• The plan ID changes after restore.
+• If a board from a team-managed project was added to the plan, it is not restored
+during plan restore and is not added to plan issue sources, because this type of
+board can't be restored.
+• If the plan that was backed up has no issue sources, it can't be restored.
+Teams in plan known limitations
+• Only plan-only teams are supported. Atlassian teams are not backed up or
+restored.
+• Team restore is only performed during plan restore. Teams can't be restored
+independently.
+• Teams are never updated. Existing teams are not modified — only new ones are
+created during restore.
+• Team issue sources are excluded, as the required internal IDs can't be reliably
+determined.
+• Backup includes only visible teams per plan.
+Workflows
+Workflows for issues or issue types within team-managed projects
+• As of April 2025, the Jira API doesn't provide endpoints to retrieve information
+about workflows (transitions graph) for issues or issue types within team-
+managed projects. Keepit can only obtain transition information for company-
+managed projects. As a result, we may not be able to accurately restore the
+correct state of an issue. However, Keepit can obtain the list of available issue
+statuses for the current issue and check if it's possible to reach the required
+status from the current one with a single transition.
+Workflow schemes
+• Restoring the relationship between workflow schemes and projects is not
+supported.
+Deleted workflows
+• We can only restore workflows that have been deleted, not update ones that still
+exist in Jira.
+9
+
+--- Page 10 ---
+Screens
+Screen tabs
+• Restoring the order of screen tabs is not supported because the index (for each
+tab) is not available.
+10
+
+--- Page 11 ---
+General
+• Restoring the relationship between statuses and projects is not supported.
+• We can restore a deleted work item link type and update it to its initial state.
+• If the link type was previously used in an issue, the relationship itself can't be
+restored.
+• We cover global time tracking settings. While time tracking details may also
+appear in individual issue definitions, we currently don’t support restoring time
+tracking information at the issue level.
+• We don't support restoring group product access. While restoring a group brings
+back its users, associated apps are not restored automatically. You need to
+manually restore any apps after the group has been restored.
+Important limitation
+A Jira project can't be restored if its associated issue type scheme and issue type screen
+schemes have been deleted.
+For example, if you have a company-managed project and you delete the project and its
+related schemes (issue type scheme, issue type screen schemes, screens, and so on),
+attempting to restore the project fails.
+Restoring a deleted project requires that the original issue type scheme and issue type
+screen schemes still exist in the Jira settings.
+11

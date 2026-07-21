@@ -1,0 +1,126 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-ZFV-Genossenschaft-customer-case-EN.pdf
+
+--- Page 1 ---
+Customer case
+ZFV-Genossenschaft:
+Improved resilience and
+operational efficiency
+
+--- Page 2 ---
+Customer case:
+ZFV-Genossenschaft
+For ZFV-Genossenschaft, reliable data protection is essential to keeping daily operations running
+smoothly. As one of Switzerland’s leading providers of food services, accommodation, and care,
+the cooperative operates more than 220 establishments and relies on SaaS platforms to support
+communication, collaboration, and business processes across its operations.
+To ensure these systems remain protected and recoverable, ZFV-Genossenschaft selected
+Keepit as its backup and recovery provider — giving the IT team a centralized way to protect data
+across multiple SaaS applications while strengthening its business continuity strategy.
+Protecting critical business data across multiple By protecting these applications within a single
+SaaS applications platform, the IT team can manage SaaS data
+ZFV-Genossenschaft protects approximately protection consistently while ensuring critical
+1,100 users and about 25 TB of data across SaaS data remains recoverable.
+environments that support daily operations.
+“Compared to other solutions we
+These platforms include Confluence, Docusign, evaluated, Keepit provided the best
+Microsoft Entra ID, Exchange Online, Microsoft balance of functionality, reliability, and
+Teams (including chat data), OneDrive, and cost predictability.”
+SharePoint — systems that form the backbone of
+- Gérard Korda
+the organization’s collaboration, communication,
+Head of IT Operations & Infrastructure
+and document management. ZFV-Genossenschaft
+“Protecting multiple SaaS applications in one
+platform allows us to ensure our most important
+business data is consistently backed up and
+recoverable without increasing operational
+complexity.”
+- Gérard Korda
+Head of IT Operations & Infrastructure
+ZFV-Genossenschaft
+
+--- Page 3 ---
+Customer case:
+ZFV-Genossenschaft
+Clear pricing and simplicity Meeting compliance and data residency
+When evaluating data protection solutions, requirements
+the ZFV-Genossenschaft IT team focused on Operating in Switzerland means that data
+functionality, cost transparency, and long-term sovereignty and regulatory compliance play
+scalability. a major role in technology decisions. For ZFV-
+Genossenschaft, it was essential that data could
+Many competing solutions relied on complex
+remain within Switzerland and comply with local
+licensing models or unpredictable storage costs.
+data protection standards.
+Keepit stood out by offering a clear pricing
+structure and unlimited storage, helping the team The organization must also meet PCI
+avoid uncertainty as their data environment grows. requirements, making security, auditability, and
+controlled access to data critical components of
+Equally important was the platform’s simplicity.
+its infrastructure strategy.
+The team needed a solution that would be
+straightforward to deploy, intuitive to operate, and Keepit’s ability to store data in a Zurich-based
+easy for the IT staff to manage overtime. data center gave the team the transparency
+and confidence they needed to meet these
+requirements.
+“Knowing exactly where our data is stored gives
+us greater transparency and confidence from a
+compliance perspective. The ability to keep our
+data in Switzerland was a significant factor in our
+decision.”
+- Gérard Korda
+Head of IT Operations & Infrastructure
+ZFV-Genossenschaft
+
+--- Page 4 ---
+Customer case:
+ZFV-Genossenschaft
+A centralized platform for SaaS data protection
+Another factor in the decision was Keepit’s
+vendor-independent architecture. By backing up
+SaaS data in a neutral environment separate from
+the SaaS vendors themselves, the organization
+reduces the risk of vendor lock-in or service
+disruptions.
+For the IT team, the value isn’t a single feature but
+the overall combination of simplicity, reliability,
+and security the platform delivers. By bringing
+multiple SaaS environments into one unified
+solution, Keepit reduces operational complexity
+and makes it easier to manage data protection
+About ZFV-Genossenschaft
+across the IT environment.
+The ZFV Cooperative (ZFV) is a leading Swiss
+Since deployment, backup processes that once hospitality group with around 220 establishments
+across the country. It operates in various business
+required manual effort are now automated and
+areas, including gastronomy, hospitality, childcare,
+centrally managed, giving the team greater
+and real estate. The group also includes the “Sorell”
+confidence in its data protection strategy. boutique hotels and restaurants, the “KiMi” daycare
+centers, after-school programs, and lunch services, as
+“We sleep better at night knowing our well as the JUNG bakeries, in which ZFV and John Baker
+each hold a 50% stake.
+critical business data is securely backed
+Founded in 1894 by visionary women from Zurich, ZFV
+up and can be restored quickly whenever
+has stood for courage, responsibility, and community
+needed.” for more than 130 years. As a cooperative, it works
+in collaboration with a diverse network of partners,
+- Gérard Korda
+institutions, and dedicated individuals. It promotes
+Head of IT Operations & Infrastructure
+sustainable and healthy nutrition, creates inspiring
+ZFV-Genossenschaft
+places for encounters, and is committed to equal
+opportunities, diversity, and inclusion. Together
+with its more than 2,900 employees, ZFV creates
+experiences every day that connect, bring joy, and
+generate positive social impact. In doing so, ZFV
+pursues its vision: hospitality for a society in which we
+all want to live. zfv.ch
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. www.keepit.com
+© 03/24/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

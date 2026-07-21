@@ -1,0 +1,122 @@
+Source: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Navigating-SEC-FINRA-regulations-factsheet.pdf
+
+--- Page 1 ---
+Navigating SEC and
+FINRA regulations
+How Keepit supports your
+compliance efforts
+Financial institutions operate in a highly regulated environment, with SEC and FINRA rules
+requiring strict data retention, integrity, and accessibility practices. Regulations such as
+SEC Rule 17a-4 and FINRA recordkeeping requirements set the framework for how financial
+institutions manage and store critical records.
+Keepit is designed to help organizations strengthen their data management practices by
+providing secure storage, audit-ready archiving, and streamlined access to records. Our
+solution offers features that support efforts to meet regulatory obligations while maintaining
+operational efficiency. Below, we outline key regulatory considerations and how Keepit can
+assist in addressing them. We will dive into the SEC Rule 17a-4 section first, before turning our
+attention to the FINRA requirements on the following page.
+
+--- Page 2 ---
+SEC Rule
+Requirement How Keepit can help
+17a-4 section
+Record Retention Retain certain records for specific periods, Keepit offers customizable retention periods of up
+Periods (a) ranging from three to six years. to 99 years, allowing firms to set retention policies
+that align with regulatory requirements.
+Media and Format Maintain records in a non-rewritable, non- Keepit provides immutable, air-gapped backups
+Requirements (b) erasable (WORM) format to ensure they designed to protect data integrity and prevent
+remain unaltered. unauthorized alterations, similar to how WORM
+delivers data immutability.
+Accessibility and Ensure records are readily accessible and Keepit's platform offers an intuitive dashboard
+Indexing (c) properly indexed for efficient retrieval. for managing backups across various SaaS
+applications, facilitating efficient data retrieval.
+Verification of Establish systems to verify the accuracy and Keepit’s platform continuously verifies the integrity
+Records (d) completeness of records. of backups and uses cryptographic measures to
+provide tamper proofing.
+Record Preservation Preserve records to ensure their integrity, Keepit’s immutable backups and independent cloud
+(e) durability, and accessibility throughout the storage maintains data integrity and accessibility
+required retention period. over extended periods.
+WORM Storage Store certain records in a non-rewritable, Keepit’s immutable backup design aligns with
+Requirement (f) non-erasable format to prevent alteration or WORM storage requirements by preventing
+deletion. unauthorized alterations or deletions.
+Time for Production of Produce requested records promptly for Keepit’s platform facilitates rapid data retrieval,
+Records (g) audits or investigations. aiding in the prompt production of records during
+audits or investigations.
+Record Location (h) Maintain records at a designated location Keepit allows clients to choose data storage
+within the United States or have them readily regions, including options within the United States,
+accessible from such a location. to comply with location-specific requirements.
+Furnishing Copies of Provide legible, true, and complete copies Keepit’s data management capabilities ensure that
+Records (i) of requested records upon regulatory firms can furnish accurate and complete copies of
+request. records as needed.
+Temporary Ensure temporary substitutes for original Keepit’s backup solutions provide complete data
+Substitutes (j) records accurately reproduce the originals fidelity and allow quick access to accurate copies of
+and are readily retrievable. data, supporting compliance with this requirement.
+Indexing (k) Create and maintain an index of records to Keepit’s platform includes indexing features to
+allow quick identification and retrieval. facilitate efficient data management and retrieval.
+Record Maintenance Establish policies and procedures to ensure Keepit’s compliance features support firms in
+(l) proper maintenance and preservation of establishing and enforcing record maintenance
+records. policies.
+Definitions (m) Provides definitions for terms used in Keepit’s documentation and support resources
+SEC Rule 17a-4 to ensure consistent can assist firms in understanding and applying
+interpretation and application. relevant definitions within the context of their data
+protection strategies.
+
+--- Page 3 ---
+Further, ensuring compliance with the Financial Industry Regulatory Authority (FINRA) regulation
+is crucial for broker-dealers, as these rules govern the maintenance, preservation, and
+accessibility of financial records. Below you can find a table summarizing key FINRA recordkeeping
+requirements alongside how Keepit aligns with these mandates, showing how we can assist firms in
+meeting these regulatory requirements.
+FINRA
+Description How Keepit can help
+Requirement
+Record Creation and Firms must create and maintain books Keepit provides automated and secure
+Preservation and records as required under FINRA backup solutions, ensuring that all
+rules, the Securities Exchange Act, and critical data is captured and preserved in
+(FINRA Rule 4511)
+applicable regulations. compliance with regulatory standards.
+Electronic Storage Electronic records must be stored in a Keepit’s backup solutions utilize
+Requirements non-rewritable, non-erasable format immutable storage, ensuring that once
+to prevent alteration or deletion. data is written, it cannot be modified
+or deleted, thereby maintaining data
+integrity.
+Data Accessibility and Firms are required to maintain records Keepit offers efficient data retrieval
+Retrieval in an easily accessible place and be systems, enabling quick access to
+able to promptly produce them upon archived records to meet regulatory
+regulatory request. inquiries and audits.
+Business Continuity Firms must establish and maintain Keepit’s services include comprehensive
+Planning a written business continuity plan, data backup and disaster recovery
+including data backup and recovery solutions, supporting firms in developing
+(FINRA Rule 4370)
+procedures. and implementing effective business
+continuity plans.
+Third-Party When using third-party services Keepit adheres to various compliance
+Recordkeeping for record storage, firms must standards, including FINRA, providing
+ensure these providers comply firms with confidence that their data is
+(SEC Rule 17a-4(i))
+with applicable recordkeeping stored in accordance with regulatory
+requirements. obligations.
+
+--- Page 4 ---
+Next steps towards compliance
+Choosing a third-party backup provider with a proven track record in financial services can help ensure
+compliance while also mitigating risks in the event of an incident. Keepit has significant experience in
+supporting financial institutions with their data protection and compliance needs. See why customers
+like Saxo Bank choose us for helping them navigate complex compliance requirements:
+“It is very important to back up our Microsoft applications in a sophisticated and
+fulsome manner. We considered Microsoft’s backup and archiving capabilities to be
+insufficient for our purposes and were impressed by the scope of Keepit’s backup
+and archiving capabilities, as well as the granularity of their restore function.”
+Thomas Ulrich, Head of Digital Workplace & Support Services, Saxo Bank
+If you don’t want to take our customers’ word for it, Keepit was recently awarded “Most Innovative,
+Compliance” at the 2024 Global Infosec Awards. The Keepit platform has received multiple industry
+awards, underscoring our commitment to security and compliance.
+If you’d like to receive advice on your compliance
+journey and discuss how Keepit can help your
+compliance efforts, let’s have a conversation.
+Let’s talk
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

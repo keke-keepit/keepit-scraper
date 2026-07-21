@@ -1,0 +1,211 @@
+Source: https://lp.keepit.com/hubfs/Azure%20AD/Keepit%20for%20EntraID%20(AzureAD)%20Risk%20Assessment%20Form.pdf
+
+--- Page 1 ---
+July 2023
+Risk assessment form:
+Assess your need
+for Entra ID backup
+
+--- Page 2 ---
+Assess your need for Entra ID
+backup
+This risk assessment sheet is a risk analysis tool that gives you aquick
+view of Entra ID risks and their consequences’ severity (impact).
+You use it to allocate ratings for each risk based on two intersecting
+factors:
+• The likelihood(or probability) of a risk to occur
+• The impact(or severity) if a risk occurs
+The higher arisk ranks for these two factors, the bigger threat it poses
+to your project.
+2
+
+--- Page 3 ---
+How to use the risk We've compiled a list of security risks (seepages 6-7) that your Entra ID environment may
+face without a backup.
+assessment sheet?
+To assess your risk level, follow these 3 steps for each risk:
+1. Determine likelihood (page 4):
+Identify the chance of each risk occurring using the likelihood scaleon the next page. Write
+your ratingon page 6-7 in the likelihood column.
+2. Define impact scale (page 4):
+Rank risks based on the impact theywouldhave on your company usingthe impact scale on
+the next page.Write your ratings on page 6-7 in theimpact column.
+3. Calculate risk rating (page 5):
+Assess likelihood and impact to calculate a risk rating for each risk using the equation:
+Likelihood x Impact = Risk rating. Ratings rangefrom 1 to 25 (see scale on page 5) and aid in
+determining the need for EntraIDbackup. Write your ratingson page 6-7 in the risk rating
+column.
+A higher number of medium andhigh-level risks indicate a greater necessity
+for EntraIDbackup.
+3
+
+--- Page 4 ---
+Likelihood scale Impact scale
+LIKELIHOOD DEFINITIONS IMPACT DEFINITIONS
+Negligible:
+Very unlikely:
+1 This risk will hardly impact your
+A very slim chance for this risk to occur.
+1
+business.
+Low:
+Not likely:
+You can easily handle the consequences
+2
+Low chances for this risk to occur.
+2 of this risk.
+Moderate:
+Possible:
+It will take some time and effort to
+3 Fifty-fifty chances for this risk to occur. 3
+mitigate the consequences of this risk.
+Probable: Significant:
+4 Good chances for this risk to occur. This risk could cause long-term
+4
+consequences that will be hard to
+recover from.
+Very likely:
+Catastrophic
+You can bet this risk will occur at some
+5
+5 The impact of this risk might wreck your
+point.
+business.
+4
+
+--- Page 5 ---
+Risk rating (= Likelihood x Impact)
+1 – 6 (Low): Low-rating risks most likely will not happen. If they do, they
+will not be a threat to your organization.
+7 – 12 (Medium): Some medium-rating risks might happen at some point.
+You do not need to prioritize them but you should not ignore them
+either.
+13 – 25 (High): High-rating risks are serious and very likely to happen
+threats. They can cause your organization to go off the rails, so you
+should keep them in mind when planning your Entra ID security.
+5
+
+--- Page 6 ---
+Fill in the risk assessment form to assess your need for Entra ID backup
+RISK RISK DESCRIPTION LIKELIHOOD IMPACT RISK RATING RESPONSE
+Entra ID allows administrators to define and
+enforce variousconfigurations, policies, and With a backup of Entra ID organizations have
+accesscontrols. Nothavingabackupmeansthe morecontrol over the restoration process, as
+Loss of security /
+loss ofthese settings,whichcanresult in they can easily recover permanentlydeleted
+configuration
+inconsistencies, misconfigurations, and unauthorized cloud objects like device configurations,
+policies
+access. It may take significant time andeffort to recreate security policies, and accesscontrols in a fast
+and reapply these configurations, leaving the and efficient way.
+environment exposed topotential security risks.
+Entra ID provides native features for data recovery, such
+as recycle bin and soft delete options. However, these A proper backup of Entra ID ensures more
+Limited recovery
+options may have limitations, such as time-bound comprehensive recovery options andgreater
+options
+retention or inability to restore specific attributes or control overthe restoration process.
+configurations.
+Organizations are often subject tovarious regulatory A backupofEntra ID ensures continuous
+requirements, such as GDPR orindustry-specific chain-of-custody and provenance of security
+Failuretomeet
+regulations. Failure to have a backup of Entra ID can lead policies. This allows organizations to prove
+compliance
+to non-compliance with data protection and privacy toregulators exactly what policies were
+requirements
+regulations, resulting in potential legal issues, financial inplace at any time and document
+penalties, and reputational damage. changesand deviations, if any
+6
+
+--- Page 7 ---
+Fill in the risk assessment form to assess your need for Entra ID backup
+RISK RISK DESCRIPTION LIKELIHOOD IMPACT RISK RATING RESPONSE
+Entra ID storessecuritypolicies, application settings,and
+other cloud-only configurations. If you have a backup before the incident,
+Ifthisdataislost due toaccidentaldeletion, you can use it toeasily recover your lost
+Data loss
+malicious activity,or systemfailure,itcanleadto severe data and bring itback into your Entra
+consequences, including user accessissues, operational IDenvironment rightaway.
+disruptions, andcompliance violations.
+Restoring security policies and
+Without abackup, recoveringsecurityanddevice policies
+User configurations manually can result in
+can be a difficult and time-consuming task. This process
+productivity significant downtime and decreased
+may restrict activity or even prevent users from logging in
+impact productivity for users who are unable to
+to apps.
+access the resources they need.
+No backup can prevent Microsoft from
+Microsoft IfEntra ID experiencesaprolongedoutageor
+having a system outage, that’s simply a risk
+system catastrophicfailure, organizations without a backupwill
+all organizations face. However, if you have
+outages havelimitedoptions for recovery, leading to extended
+a backup,you can use itto recover your
+periods of system unavailability, and business disruption.
+dataonce the service outage is resolved.
+7
+
+--- Page 8 ---
+Why Keepit is the best backup &
+recovery for Entra ID
+• Broadest coverage on the market
+• Back up cloud objects not covered by the Recycle Bin
+• Extend the retention and the ability to recover Entra ID objects
+• Ability to selectively roll back changes
+• Preserve important records for compliance purposes
+• Recover lost data in disaster scenarios
+• Increase IT efficiency
+Read more about Keepit's Entra ID backup here
+
+--- Page 9 ---
+Leading protection
+Coverage:
+Users Yes No Yes Yes Yes
+Azure AD (Entra ID)
+Groups Yes Yes Yes Yes Yes
+Standard
+Free Admin Units Yes No No No No
+Roles Yes Yes No No No
+Audit logs Yes No Yes* No Yes
+Azure AD (Entra ID)
+Sign-in logs Yes No No No Yes
+Advanced
+CA policies Yes Yes No No No
+App registrations Yes No Yes Yes Yes
+Service principals/Enterprise
+Yes Yes Yes Yes No
+apps
+Intune device compliance
+Yes No No No No
+policies
+Intune device configuration
+Yes No No No No
+profiles
+BitLocker recovery keys Yes No No No No
+Contacts Coming soon Yes No No No
+MFA settings No Yes No No No
+*Audit logs available with an additional different product
+
+--- Page 10 ---
+CUSTOMER TESTIMONIAL
+Our normal traditional backups for Azure
+Directory aren’t necessarily covered by
+any Azure AD backup...
+Now that we have Keepit, we are covered.
+No data loss, no user downtime. If we
+needed to, we could get back up and
+running at a very short period of time
+Ken Schirrmacher,
+Chief Technology Officer
+
+--- Page 11 ---
+Entra ID (Azure AD) and M365 are better together —
+Get complete protection for your entire Microsoft cloud with Keepit
++
+
+--- Page 12 ---
+Get Entra ID (Azure AD) backup
+for free today.
+Sign up here.

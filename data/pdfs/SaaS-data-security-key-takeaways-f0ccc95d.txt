@@ -1,0 +1,77 @@
+Source: https://lp.keepit.com/hubfs/content-assets/EN/SaaS-data-security-key-takeaways.pdf
+
+--- Page 1 ---
+Key takeaways
+SaaS data security:
+Risks, threats, and resilience
+We’re at a critical juncture for data security; the
+pressure to innovate with AI and manage SaaS
+complexity is redefining what it means to protect
+data. What’s needed now is data security as a
+control — direct, data-centric protections that
+govern access, usage, and lifecycle. Organizations
+need to rethink their approach to data, which
+includes understanding the risks, mitigating the
+threats, and ensuring resilience.
+This was the key focus of a recent Keepit webinar,
+where guest speaker Heidi Shey, Principal Analyst
+at Forrester Research, broke down the key
+components of a data-centric security strategy
+for SaaS environments and discussed practical
+next steps to adopt to both the knowns and the
+unknowns organizations are facing.
+Three important steps to
+strengthen your security posture
+Step 1: Define what to protect Step 2: Identify the risks to mitigate
+Rethink what “sensitive data” really means and Understand the three dimensions of risk when
+classify the full spectrum of data your organization planning for which risks to mitigate. Risk isn’t just to
+relies on. Start with the three Ps (PII, PHI, PCI) your data, it also comes from and in the data:
+and intellectual property — but go further. Every
+• To the data: ransomware, insider threats, SaaS
+organization has corporate data of value (CDV):
+misconfigurations, failed backups
+• Chat and collaboration data
+• From the data: privacy violations, unethical use,
+• IoT and sensor streams non-compliance
+• API keys, credentials, and developer secrets • In the data: stale, duplicated, or incomplete
+information that fuels bad decisions or AI bias
+• AI models
+• SaaS data — and backups
+© 2025 Keepit. All rights reserved.
+
+--- Page 2 ---
+Step 3: Select data security capabilities and controls
+Map controls to the right risks. No tool solves every risk — so you need to align controls purposefully.
+Most importantly, consider how to secure your SaaS environments. SaaS applications have certain controls built in,
+but the shared responsibility model adds further complexity — not all the responsibility is on the SaaS provider, so
+you need to balance native versus third-party controls. You’ll need to enlist the help of specialist vendors to fill the
+gaps of these environments when it comes to data security.
+Resilience requires strategy, not hope:
+Three checkpoints to improve resilience
+1. Align with your vendors on the following 2. Security isn’t a solo act. Expand your stakeholder
+resilience requirements: group to include these stakeholders:
+Improved data classification Data stakeholders
+Integration with data governance Product owners
+Visibility into machine/API data flows Data science and analytics leads
+Controls for AI prompts, outputs, and training AI councils and compliance boards
+Vendor readiness for post-quantum migration and agility
+“We are at this turning point, so use
+3. Ask the question: Does this solution introduce new risk?
+it as an opportunity to take a leap
+Risk is multifold and consists of:
+forward with your data security
+Technology risks program to make bigger, beautiful
+things happen for your organization.”
+Regulatory risks
+Heidi Shey, Principal Analyst, Forrester.
+Operational risks
+Data governance report
+Read our data governance report for more insight into how to
+best classify, protect, and recover your data so you can ensure
+operational continuity.
+Download now
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+© 2024 Keepit. All rights reserved.
+© 2024 Keepit. All rights reserved.
+For more information visit www.keepit.com or follow Keepit on Linkedin © 2025 Keepit. All rights reserved.

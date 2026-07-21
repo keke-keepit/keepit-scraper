@@ -1,0 +1,62 @@
+Source: https://lp.keepit.com/hubfs/product-sheets/Keepit-for-Microsoft-Power-Platform-EN.pdf
+
+--- Page 1 ---
+Backup and recovery for
+Microsoft Power Platform
+Secure what your teams built with Power Platform and recover it when it matters.
+Your teams have invested significant time building low-code apps, automations, and reports
+in Microsoft Power Platform. Under the shared responsibility model, protecting that data and
+those workflows ultimately falls on you while Microsoft’s native Power Platform backups are
+limited, offering only short-term retention and full environment restores instead of granular
+recovery.
+With Keepit, you can safeguard your Power Platform environment with automated, secure
+backups and fast, point-in-time recovery. So even if accidental deletions or malicious activity
+occur, your business-critical workflows stay intact — and your teams stay productive.
+Time-saving usability Confidence in recovery Business continuity
+Keepit makes it easy for anyone, Recover exactly what’s missing, With Keepit, critical workflows,
+from citizen developers to admins, to without restoring the entire apps, and reports stay protected
+recover Power Platform data quickly environment. Also, with always- and recoverable, keeping your
+— no technical skills needed. hot storage, recovery is immediate teams productive and your
+when it matters most. business moving forward even after
+disruptions.
+THE RISK PROVEN BENEFIT
+Users often delete records or transactions [...] Keepit customers realized a 163% return on
+via system processes, single selection, multiple investment over a three-year period.
+selections, and bulk deletion.
+Source: Forrester Total Economic Impact Study 2024
+Source: Microsoft Learn
+“I don't think that you will find a better solution
+than Keepit when it comes to securing your
+SaaS data across multiple applications and
+ensuring robust, independent data security.”
+Leonard Haraslin - Information and Cyber Security Specialist,
+Penta Hospitals
+
+--- Page 2 ---
+Keep your work safe and recover the intelligent way.
+KEY CAPABILITIES
+Automated backups Point-in-time recovery Outstanding ease-of-use
+Set up the connection with Power Restore data to an exact state from any Keepit protects your SaaS
+Platform products and let Keepit run historical point to reverse accidental applications’ data, including many
+automated backups. deletions or app corruption. other Microsoft applications, while
+remaining quick to implement and
+Instant search and preview Highest security intuitive to use.
+Power Platform environments often Keepit’s vendor-independent cloud
+have multiple apps and complex data. and immutable-by-design architecture Compliance and reporting
+It’s easy to find and recover what ensure your backups stay protected. Easily document and prove compliance
+you’ve lost with Keepit’s search and with backup requirements and data
+preview function. protection efforts.
+WHAT WE COVER
+Power Apps Power Automate Power Pages Power BI
+• Canvas apps • Desktop flows • Power Pages • Dataflows
+• Model-driven apps • Cloud flows • Reports
+Find the complete
+coverage here.
+Find out how simple and
+easy Keepit is to use
+Get a demo
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Power Platform are trademarks of the Microsoft group of companies.

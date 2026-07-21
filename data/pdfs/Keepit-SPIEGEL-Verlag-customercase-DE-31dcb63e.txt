@@ -1,0 +1,137 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-SPIEGEL-Verlag-customercase-DE.pdf
+
+--- Page 1 ---
+Zentrale Kontrolle und Schutz
+für SaaS-Anwendungen:
+SPIEGEL-Verlag entscheidet
+sich für Keepit
+Kundenreferenz
+
+--- Page 2 ---
+Zentrale Kontrolle
+und Schutz für SaaS-
+Anwendungen: SPIEGEL-
+Verlag entscheidet sich
+für Keepit
+Für den SPIEGEL-Verlag hat das digitale Wachstum verändert, wie Inhalte im gesamten
+Unternehmen erstellt, geteilt und geschützt werden. Während das Unternehmen weiterhin
+seine bekannten Printmagazine veröffentlicht - darunter DER SPIEGEL, eines der größten
+Nachrichtenmagazine Europas - hat das wachsende Portfolio an Online-Plattformen und
+digitalen Services die Bedeutung sicherer und wiederherstellbarer geschäftskritischer Daten
+erhöht. Der Schutz von SaaS-Anwendungsdaten ist entscheidend, um den täglichen Betrieb
+zu unterstützen und die Kontinuität in Redaktion und Business-Teams sicherzustellen.
+Miroslav Najda, Leiter IT Operations und DevOps, ist für die IT-Architektur und Sicherheit
+des Unternehmens verantwortlich und stellt sicher, dass die Systeme resilient und verfügbar
+bleiben, um die sich weiterentwickelnde digitale Umgebung des SPIEGEL zu unterstützen.
+STANDORT BRANCHE MITARBEITENDE
+Deutschland Verlagswesen 1,400+
+Multi-Application-SaaS-Schutz über Der vertrauenswürdige Technologiepartner
+eine Plattform
+Serviceware stellte Keepit als Plattform vor, die
+Als die SaaS-Umgebung beim SPIEGEL-Verlag eine breite Palette von SaaS-Anwendungen
+weiter wuchs, begann das IT-Team zu prüfen, wie schützen kann. Serviceware unterstützte SPIEGEL-
+Atlassian-Produkte, Microsoft Power Platform und Verlag während des gesamten Prozesses, von
+weitere geschäftskritische SaaS-Anwendungen der Einrichtung und Durchführung des Proof of
+gesichert werden können. Die bestehenden Tools Concept über die Implementierung der Lösung
+boten keine einheitliche Abdeckung über diese bis hin zur Überführung in den Live-Betrieb. Was
+Plattformen hinweg. Das veranlasste das Team als Suche nach einer Lösung für bestimmte Lücken
+dazu, seinen Ansatz für den Schutz von SaaS-Daten begann, entwickelte sich zur Entscheidung, den
+neu zu bewerten. Schutz von Microsoft 365, Atlassian-Produkten,
+Kundenreferenz 2
+
+--- Page 3 ---
+„Die Abdeckung über SaaS-Anwendungen hinweg war für uns der
+wichtigste Faktor. Mit Keepit können wir eine Plattform nutzen, um mehrere
+Services zu schützen.“
+Miroslav Najda
+Leiter IT Operations und DevOps, SPIEGEL-Verlag
+Salesforce, Microsoft Power Platform und Entra „Kostenplanbarkeit war einer der
+ID in einer Lösung zu zentralisieren. Schwachpunkte unserer vorherigen
+Lösung. Wir haben Preiserhöhungen
+Anstatt mehrere Tools für verschiedene
+erlebt, was uns dazu veranlasst hat,
+Plattformen zu verwalten, wollte das IT-Team eine
+zentrale Kontrolle und einen einheitlichen Schutz nach einer anderen Option zu suchen.“
+für seine SaaS-Umgebung.
+Miroslav Najda
+Leiter IT Operations und DevOps,
+Keepit bietet echtes Third-Party Backup und
+SPIEGEL-Verlag
+Recovery, das speziell für Cloud-Anwendungen
+entwickelt wurde. Daten und Metadaten bleiben Granulare Recovery-Optionen ermöglichen es
+unveränderlich, jederzeit zugänglich und durch dem IT-Team, Daten effizient wiederherzustellen
+granulare Wiederherstellungsfunktionen schnell und interne Nutzerinnen und Nutzer ohne
+wiederherstellbar. So können Organisationen komplexe oder zeitaufwendige Prozesse zu
+Risiken reduzieren und ihre Business Continuity unterstützen.
+stärken.
+Datenspeicherung in Deutschland für
+Planbare Kosten für langfristige Stabilität mehr Kontrolle
+Kostentransparenz war ein weiterer wichtiger Die Möglichkeit, Daten in Deutschland zu
+Faktor. Das Team hatte bei seiner vorherigen speichern, war ebenfalls ein wichtiger Aspekt. In
+Lösung Preiserhöhungen erlebt, was die Kombination mit einer herstellerunabhängigen
+Budgetplanung erschwerte und dazu führte, dass Architektur gibt dies dem SPIEGEL-Verlag die
+Alternativen geprüft wurden. Sicherheit, dass geschäftskritische SaaS-Daten
+gemäß den organisatorischen Anforderungen
+Das transparente Preismodell von Keepit schafft
+geschützt bleiben.
+Klarheit und Stabilität und unterstützt die
+langfristige Planung, während SPIEGEL seine Durch die Konsolidierung des Multi-Application-
+SaaS-Umgebung weiter ausbaut. SaaS-Schutzes in einer einzigen Plattform hat
+der SPIEGEL-Verlag den Datenschutz vereinfacht
+Schnelle, zuverlässige
+und zugleich die Resilienz gestärkt. Mit planbaren
+Wiederherstellungen halten Teams
+produktiv Kosten, breiter Abdeckung und zuverlässigen
+Wiederherstellungsfunktionen unterstützt Keepit
+Die IT-Organisation des SPIEGEL-Verlags stellt
+die Kontinuität in der sich weiterentwickelnden
+Backup und Recovery als internen Service für
+digitalen Landschaft des Unternehmens.
+verschiedene Abteilungen bereit und sorgt
+dafür, dass Teams verlorene Dateien oder Vertrauen in die weitere Zusammenarbeit
+Daten bei Bedarf schnell wiederherstellen Da die Einführung von SaaS weiter zunimmt,
+können. Wiederherstellungsfunktionen implementieren Unternehmen kontinuierlich
+sind entscheidend, um Produktivität neue Tools, um Effizienz zu steigern und Prozesse
+aufrechtzuerhalten und Unterbrechungen zu zu optimieren. Für SPIEGEL gab die Gewissheit,
+vermeiden. dass die Keepit-Plattform ihr Portfolio künftig
+Kundenreferenz 3
+
+--- Page 4 ---
+weiter ausbauen wird, zusätzliche Sicherheit für
+eine langfristige Partnerschaft.
+„Dass Keepit künftig weitere Anwendungen
+abdecken möchte, macht es für uns einfacher - wir
+wissen, dass wir eine langfristige Zusammenarbeit
+beginnen und uns keine Sorgen machen müssen,
+wenn unsere SaaS-Suite wächst“, sagt Miroslav
+Najda.
+„Backup ist wichtig, aber der eigen-
+tliche Wert entsteht dadurch, Daten
+schnell und zuverlässig wiederherstellen
+zu können. Sonst ist das Backup selbst
+deutlich weniger nützlich.“
+Miroslav Najda
+Leiter IT Operations und DevOps,
+SPIEGEL-Verlag
+Über die SPIEGEL-Gruppe
+Die SPIEGEL-Gruppe mit Sitz in Hamburg zählt zu den renommiertesten deutschen Medienhäusern. Printmagazine,
+digitale Angebote und TV-Produktionen nehmen in der deutschen Medienlandschaft eine herausragende Position
+ein. Außergewöhnliche journalistische Qualität und unabhängige Berichterstattung bilden den Kern aller journalis-
+tischen Produkte.
+Neben dem SPIEGEL, Deutschlands wichtigstem und Europas größtem Nachrichtenmagazin, gehören auch die
+Wirtschaftsmagazine manager magazin und Harvard Business manager zur SPIEGEL-Gruppe, ebenso wie die Marke
+SPIEGEL TV, die Videoinhalte für alle Vertriebskanäle produziert. 11FREUNDE, das Magazin für Fußballkultur, und Ef-
+filee, das Magazin für Ess- und Lebenskultur, runden das vielfältige Angebot ab.
+Im Jahr 2024 erzielte die SPIEGEL-Gruppe mit rund 1.400 Mitarbeitenden einen Umsatz von 255 Millionen Euro. In
+Deutschland verfügt die Gruppe über neun Redaktionsstandorte. International ist sie an rund 20 Standorten vertreten.
+Über Serviceware
+Serviceware unterstützt Organisationen weltweit dabei, ihre Serviceprozesse neu zu gestalten - intelligent, digital
+und hochautomatisiert. Die KI-native Serviceware Platform bildet gemeinsam mit strategischer Beratung und einem
+starken Partnernetzwerk in den Bereichen IT-Sicherheit, Datenmanagement und Endpoint Management eine leis-
+tungsfähige Grundlage für effiziente Servicebereitstellung und zukunftssichere IT-Transformation.
+Your data. Here today. Here tomorrow.
+Keepit bietet eine hochmoderne SaaS-Datenschutzplattform, die speziell für die Cloud entwickelt wurde, indem sie Daten in einer
+anbieterunabhängigen Cloud sichert, um geschäftskritische Anwendungen zu schützen, die Cyber-Resilienz zu stärken und die
+Datensicherung zukunftssicher zu machen.
+Weitere Informationen finden Sie unter www.keepit.com oder folgen Sie Keepit auf LinkedIn.
+© 06/01/26 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.

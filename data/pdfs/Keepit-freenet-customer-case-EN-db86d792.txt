@@ -1,0 +1,94 @@
+Source: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-freenet-customer-case-EN.pdf
+
+--- Page 1 ---
+Customer case
+Keepit and freenet:
+Resilience in the face
+of cyber threats
+
+--- Page 2 ---
+Customer case:
+freenet
+freenet, the largest network-independent telecommunications provider in Germany,
+required comprehensive data security measures to protect its Microsoft Office 365 and
+Microsoft Entra ID tenants from data loss scenarios. To achieve this, freenet worked with
+trusted partner IT sure to choose Keepit’s backup and recovery solution to secure the data of
+approximately 3,200 employees and ensure uncomplicated restoration.
+Protection against ransomware attacks — safeguarding its IT infrastructure against threats
+When searching for a data protection partner, such as ransomware attacks,” remarks Andre
+freenet’s focus was on reliably preventing data Quandt, Head of Workplace Services at freenet.
+loss or manipulation and ensuring full data
+Ensuring business continuity
+recovery when needed. The Keepit solution
+With ransomware attacks becoming more
+runs on a vendor-independent, tamper-proof,
+prevalent, the Keepit platform limits the impact
+and air-gapped cloud infrastructure, making it
+of data breaches by allowing quick recovery,
+uniquely strong against ransomware and other
+preventing data loss, and reducing downtime
+cyberthreats.
+— and ultimately ensuring business continuity.
+Customers, such as freenet, have ensured access As backups are a prime target for attackers,
+to stored data in the event of a system failure or a with 99% of ransomware incidents attempting
+compromised user account. “We’ve found Keepit to compromise them, implementing security
+to be an effective and reliable tool to secure measures like air-gapping, immutability, and
+Microsoft Office 365 and Microsoft Entra ID data encryption fortifies freenet’s cyber resilience.
+“One of our primary objectives is to prevent
+scenarios in which Microsoft Office 365 user
+data is encrypted and rendered inaccessible due
+to attacks, or where Entra ID accounts and tenant
+configurations are compromised.”
+- Andre Quandt,
+Head of Workplace Services at freenet
+
+--- Page 3 ---
+Customer case:
+freenet
+Versatility and intuitive operation as benefits
+“Keepit stood out to us due to its ease of use and
+the capability to back up not only standard Office
+365 data, but also specific content such as Teams
+tabs, apps, and Entra ID data. This versatility
+and intuitive operation were decisive factors in
+choosing Keepit,” said Andre Quandt, Head of
+Workplace Services at freenet.
+“An outage of Microsoft Office services
+About freenet
+would have significant economic
+freenet sees itself as a digital lifestyle provider. Digital
+implications, as these services are used by
+lifestyle mainly includes telecommunications, TV,
+all employees.” internet and mobile devices as well as all services,
+applications and equipment associated with mobile
+- Andre Quandt,
+devices or that can be controlled or used via an
+Head of Workplace Services at freenet
+intelligent device. With a business model consistently
+geared towards customers and their needs, freenet is
+Keepit’s platform streamlines data protection
+one of Germany’s leading market players with around
+with a single, intuitive dashboard that secures 9,5 million subscribers.
+SaaS applications like Microsoft 365 and
+Salesforce. The platform is seamlessly integrated About IT sure
+with customer systems and requires almost IT sure is an established partner of Microsoft and
+no training, allowing the location, preview, and Keepit and help medium-sized companies to
+maximize their competitive advantage through the
+restoration of data with just a few clicks.
+efficient use of the Microsoft Cloud. As a Keepit Elite
+Partner, IT sure focuses on modern data protection
+“The backup functionality for Microsoft
+in the cloud — GDPR-compliant, transparent and
+Entra ID data was a critical factor in the independent.
+decision to select Keepit.” With IT sure’s services and managed cloud services
+around Microsoft Azure, Microsoft 365 and Microsoft
+- Andre Quandt, Fabric, it increases IT security, communication,
+Head of Workplace Services at freenet
+collaboration and data culture for its customers. IT
+sure can look back on over 20 years of experience in IT
+consulting.
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data
+in a vendor-independent cloud to safeguard essential business applications, boost cyber resilience, and
+future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
+© 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
