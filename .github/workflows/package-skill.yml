@@ -4,7 +4,7 @@ name: Package Keepit KB skill
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 0 * * 0"        # Sunday 00:30 UTC (after the weekly KB build)
+    - cron: "0 2 * * 0"        # Sunday 00:30 UTC (after the weekly KB build)
 
 permissions:
   contents: write               # needed to publish a Release
