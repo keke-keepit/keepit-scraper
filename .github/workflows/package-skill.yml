@@ -1,0 +1,46 @@
+name: Package Keepit KB skill
+
+# Runs after the KB is refreshed, and can be run manually.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * 0"        # Sunday 00:30 UTC (after the weekly KB build)
+
+permissions:
+  contents: write               # needed to publish a Release
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Assemble the skill folder
+        run: |
+          rm -rf build/keepit-kb
+          mkdir -p build/keepit-kb/references
+          # SKILL.md lives at repo root (committed alongside this workflow)
+          cp SKILL.md build/keepit-kb/SKILL.md
+          # The 10 grouped KB files produced by the weekly build
+          cp kb/upload/keepit_*.txt build/keepit-kb/references/
+          echo "Packaged files:"; ls -R build/keepit-kb
+
+      - name: Zip it (folder at the root of the archive)
+        run: |
+          cd build
+          zip -r -X keepit-kb.zip keepit-kb
+          cd ..
+          mv build/keepit-kb.zip keepit-kb.zip
+          unzip -l keepit-kb.zip
+
+      - name: Publish/update the "latest-skill" release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="latest-skill"
+          # Delete old release+asset if present, then recreate so the download
+          # URL is always the same and always current.
+          gh release delete "$TAG" --yes --cleanup-tag || true
+          gh release create "$TAG" keepit-kb.zip \
+            --title "Keepit KB skill (latest)" \
+            --notes "Auto-packaged $(date -u +'%Y-%m-%d %H:%M UTC'). Download keepit-kb.zip and import as a skill."
