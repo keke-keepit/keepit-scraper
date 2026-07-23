@@ -1,111 +1,76 @@
-# Keepit content scraper
+# Keepit KB Skill
 
-Crawls `keepit.com` and `lp.keepit.com`, extracts clean page text and linked
-PDF text, and writes change-aware output for a Claude Skill / RAG knowledge base.
+A knowledge base skill for Cowork that answers questions about Keepit's products, company, and services using content scraped directly from keepit.com and lp.keepit.com.
 
-## Files
+## For Maintainers
 
-| File | Purpose |
-|------|---------|
-| `scraper.py` | The scraper (single-fetch crawl, PDF extraction, change detection) |
-| `requirements.txt` | Python dependencies |
-| `.github/workflows/scrape.yml` | Runs the scraper on a schedule and commits results |
+### What the repo does
 
-## Output
+`build_kb.py` scrapes Keepit's public web content into topic-grouped `.txt` files stored in `kb/upload/`:
 
-```
-data/
-├── scraped_content.json   # [{url, title, content, scraped_at}, ...]
-├── manifest.json          # {url: content_hash} — lightweight state
-├── refresh_log.json       # one record per run (see below)
-└── pdfs/<name>-<hash>.txt # extracted text, one file per PDF
-```
+- `keepit_blog.txt` — Blog articles
+- `keepit_company.txt` — Company information
+- `keepit_customers.txt` — Customer stories and case studies
+- `keepit_documents.txt` — Product documentation
+- `keepit_help.txt` — Help and how-to content
+- `keepit_partners.txt` — Partner information
+- `keepit_press.txt` — Press releases and news
+- `keepit_resources.txt` — Resource library
+- `keepit_security.txt` — Security and compliance information
+- `keepit_services.txt` — Services and offerings
 
-`scraped_content.json` matches the requested schema:
+### Workflows
 
-```json
-[
-  { "url": "https://...", "title": "Page Title",
-    "content": "Clean text ...", "scraped_at": "2025-01-01T00:00:00+00:00" }
-]
-```
+Two GitHub Actions workflows automate the knowledge base and skill packaging:
 
-## How change detection works
+**Weekly KB Build** (`.github/workflows/scrape.yml`)
+- Runs Sundays at 00:00 UTC
+- Executes `python build_kb.py --out kb`
+- Commits changes to `kb/` if content has changed
+- Opens an issue if the build fails
 
-A page's `scraped_at` is only updated when its title or content actually
-changes (compared by SHA-256). Unchanged pages keep their previous entry
-verbatim, so a run with no real changes produces **byte-identical** files and
-therefore no git diff and no commit. PDF `.txt` files are only rewritten when
-the extracted text changes.
+**Skill Packaging** (`.github/workflows/package-skill.yml`)
+- Runs Sundays at 02:00 UTC (after the KB build)
+- Assembles `SKILL.md` and the 10 `kb/upload/keepit_*.txt` files into `keepit-kb/`
+- Zips as `keepit-kb.zip`
+- Publishes to the GitHub `latest-skill` release
+- Users always download the current version from the same release URL
 
-## Run log
+### Important: Public Content Only
 
-Every run appends one record to `data/refresh_log.json` (most recent
-`LOG_KEEP = 200` kept), written on success *and* failure:
+This repo is public. Only include content from public pages on keepit.com and lp.keepit.com. Do not add internal information, customer data, or anything requiring authentication.
 
-```json
-{
-  "run_at": "2026-07-21T00:00:00+00:00",
-  "success": true,
-  "duration_seconds": 12.3,
-  "pages_total": 128,
-  "pdfs_updated": 1,
-  "changes": { "new": 2, "changed": 5, "unchanged": 121, "deleted": 0 },
-  "changed_urls": ["[new] https://...", "[changed] https://...", "... (+N more)"],
-  "error": null
-}
-```
+## For End Users
 
-Because this file changes on every run, the weekly workflow always has
-something to commit — which is also what keeps the scheduled trigger from being
-auto-disabled after 60 days of repository inactivity. The content files
-themselves stay byte-stable when nothing changed, so a no-change run commits
-only this log, not the whole knowledge base.
+### Installation
 
-## Run locally
+1. Go to the **Releases** page and find the `latest-skill` release
+2. Download `keepit-kb.zip`
+3. In Cowork, go to **Settings > Skills** and select **Import skill**
+4. Choose the downloaded file and import
+
+### What it does
+
+Once installed, the skill answers questions about Keepit's products, features, pricing, security, compliance, customers, partners, and company information. Every answer includes a source URL from the knowledge base.
+
+The skill draws only from its bundled knowledge base — it does not have internet access and will not answer questions outside of Keepit's documented public content.
+
+### Keeping it fresh
+
+The knowledge base is updated weekly. To get the latest content, periodically re-download `keepit-kb.zip` from Releases and re-import it in Cowork. You may want to set a calendar reminder every two weeks.
+
+## Development
+
+### Requirements
+
+- Python 3.12+
+- Dependencies: `requests`, `trafilatura`, `pymupdf` (see `requirements.txt`)
+
+### Manual build
 
 ```bash
-python -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
-python scraper.py
+python build_kb.py --out kb
 ```
 
-Tunable via environment variables:
-
-| Variable | Default | Meaning |
-|----------|---------|---------|
-| `SCRAPER_USER_AGENT` | `KeepitKBBot/1.0 (+.../your-repo; ...)` | **Edit this** to point at your repo/contact |
-| `SCRAPER_DELAY` | `0.5` | Seconds between requests (a larger robots.txt `crawl-delay` wins) |
-| `SCRAPER_TIMEOUT` | `15` | Per-request timeout (s) |
-| `SCRAPER_MAX_PAGES` | `0` | Safety cap on pages crawled; `0` = unlimited |
-
-## robots.txt
-
-The crawler reads each domain's `robots.txt`, obeys `Disallow` rules and
-`crawl-delay`, and uses sitemaps listed there as crawl seeds. Set an honest
-`SCRAPER_USER_AGENT` before running so site owners can identify the bot.
-
-## GitHub Actions
-
-The workflow runs on manual dispatch, weekly (`Sun 00:00 UTC`), and on pushes
-that modify the scraper itself. It installs deps, runs the scraper, and commits
-`data/` only if something changed. On failure it opens a labelled issue with the
-tail of the run log. Requires the default `GITHUB_TOKEN` (no secrets needed);
-the job grants itself `contents: write` and `issues: write`.
-
-## Use in a Skill
-
-```python
-import json
-docs = json.load(open("data/scraped_content.json"))
-for d in docs:
-    index(d["url"], d["title"], d["content"])   # your embedding/RAG step
-```
-
-## Known limitations
-
-- JavaScript-rendered content isn't executed (no headless browser); pages that
-  build their body client-side may extract little text.
-- PDFs behind auth or generated via JS redirects aren't followed.
-- Content extraction uses common selectors (`main`, `article`, …) with a body
-  fallback; unusual layouts may include some boilerplate.
+Output is stored in `kb/upload/` by topic.
