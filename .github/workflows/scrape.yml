@@ -28,12 +28,95 @@ jobs:
       - name: Build knowledge base
         run: python build_kb.py --out kb 2>&1 | tee build.log
 
+      - name: Generate changelog
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            // Get old and new manifests
+            let oldManifest = {};
+            try {
+              const oldContent = require('child_process')
+                .execSync('git show HEAD:kb/manifest.json', { encoding: 'utf8' });
+              oldManifest = JSON.parse(oldContent).entries || {};
+            } catch (e) {
+              // First run, no previous manifest
+            }
+
+            const newContent = fs.readFileSync('kb/manifest.json', 'utf8');
+            const newManifest = JSON.parse(newContent).entries || {};
+
+            // Compare: find added, removed, modified
+            const added = [];
+            const removed = [];
+            const modified = [];
+
+            for (const url of Object.keys(newManifest)) {
+              if (!oldManifest[url]) {
+                added.push(url);
+              } else if (oldManifest[url].hash !== newManifest[url].hash) {
+                modified.push(url);
+              }
+            }
+
+            for (const url of Object.keys(oldManifest)) {
+              if (!newManifest[url]) {
+                removed.push(url);
+              }
+            }
+
+            // Format changelog entry
+            const date = new Date().toISOString().split('T')[0];
+            let entry = `## ${date}\n\n`;
+
+            if (added.length > 0) {
+              entry += `Added (${added.length}):\n`;
+              added.forEach(url => entry += `- ${url}\n`);
+              entry += '\n';
+            }
+
+            if (removed.length > 0) {
+              entry += `Removed (${removed.length}):\n`;
+              removed.forEach(url => entry += `- ${url}\n`);
+              entry += '\n';
+            }
+
+            if (modified.length > 0) {
+              entry += `Modified (${modified.length}):\n`;
+              modified.slice(0, 10).forEach(url => entry += `- ${url}\n`);
+              if (modified.length > 10) entry += `- (... and ${modified.length - 10} more)\n`;
+              entry += '\n';
+            }
+
+            // If no changes, note it
+            if (added.length === 0 && removed.length === 0 && modified.length === 0) {
+              entry += 'No changes to knowledge base.\n\n';
+            }
+
+            // Read existing changelog or create header
+            const changelogPath = 'CHANGELOG.md';
+            let changelogContent = '# Keepit KB Changelog\n\n';
+
+            if (fs.existsSync(changelogPath)) {
+              const existing = fs.readFileSync(changelogPath, 'utf8');
+              // Remove header if present, we'll add it back
+              changelogContent = existing.replace(/^# Keepit KB Changelog\n\n/, '');
+            }
+
+            // Prepend new entry
+            changelogContent = '# Keepit KB Changelog\n\n' + entry + changelogContent;
+            fs.writeFileSync(changelogPath, changelogContent);
+
+            console.log(`✓ Changelog updated: ${added.length} added, ${removed.length} removed, ${modified.length} modified`);
+
       - name: Commit changes if any
         if: always()
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add kb/
+          git add kb/ CHANGELOG.md
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
