@@ -1,0 +1,33 @@
+Source URL: https://www.keepit.com/customers/luminus/
+Content type: Web page
+Last modified: 2026-07-22T14:12:52+02:00
+Retrieved: 2026-07-26
+
+============================================================
+
+European data residency and fast restoration drive Luminusâ backup strategy
+As one of Belgium’s largest energy providers, Luminus operates in a highly regulated environment where data availability and reliability are critical. The company provides electricity, gas, and related services to customers across the region, supporting approximately 3,000 users across its digital workplace environment.
+Working in a hybrid environment with complex authentication policies, Filip Van Der Velde, digital workplace architect, and his team needed a reliable way to protect business-critical SaaS data while maintaining operational efficiency.
+Choosing a reliable backup and recovery partner
+Luminus evaluated three vendors through a formal request for proposal process. In addition to product capabilities and pricing, the team prioritized a straightforward working relationship and confidence in the vendor’s approach.
+In addition to having a good product, I also want to feel good about working with the people and know everything is straightforward.
+– Filip Van Der Velde 
+Digital Workplace Architect, Luminus
+Following a workshop and demo, Keepit stood out as an intuitive and reliable solution. Luminus began backing up Microsoft 365 and later expanded protection to include Microsoft Entra ID, recognizing the importance of securing identity configurations and policies that support daily operations within its hybrid IT environment.
+Data sovereignty by design
+Operating in the energy sector requires careful attention to data protection and regulatory requirements, including GDPR. The ability to store backup data in European data centers was an important factor in the selection process.
+Keepit’s independent architecture keeps backup data separate from the production environment, helping Luminus maintain control over its data while supporting compliance requirements.
+Faster recovery for IT teams
+Fast, reliable restore capabilities have reduced the time and effort required to recover data from accidental deletions or configuration changes. In collaborative environments such as SharePoint, restoring large numbers of files using native tools can require significant manual effort
+With Keepit, I click a few times, and minutes later everything is back.
+– Filip Van Der Velde 
+Digital Workplace Architect, Luminus
+The ability to quickly roll back Microsoft Entra ID policies is also important in Luminus’ hybrid environment, where configuration changes can affect large groups of users. Rapid recovery helps minimize disruption and allows the IT team to resolve issues quickly.
+By reducing the time required to restore files and configurations, Luminus has been able to demonstrate measurable operational savings and improved efficiency across the IT team.
+A platform that evolves with customers
+Transparent pricing supported the internal business case for implementing Keepit, allowing the team to compare the cost of the platform with the time previously required for manual recovery work.
+Luminus also values the ability to provide feedback on future product capabilities through Keepit’s roadmap, helping ensure the platform continues to evolve alongside customer needs.
+After successfully protecting Microsoft 365 and Entra ID, Luminus is exploring opportunities to extend protection to additional SaaS applications. 
+It’s valuable to see that customer input is taken seriously and helps influence what comes next.
+– Filip Van Der Velde 
+Digital Workplace Architect, Luminus

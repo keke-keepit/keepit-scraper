@@ -1,0 +1,140 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Luminus-customer-case-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-07-26
+
+============================================================
+
+European data residency 
+and fast restoration 
+drive
+€Luminusˇ ba backup 
+strategy
+Customer success story
+
+European data residency 
+and fast restoration 
+drive
+€Luminusˇ ba backup 
+strategy
+As one of Belgiumˇs largest energy providers,€Luminus€operates in a highly regulated 
+environment where data availability and reliability are critical. The company provides 
+electricity, gas, and related services to customers across the region, supporting 
+approximately€3,000 users across its digital workplace environment.€
+
+Working in a hybrid environment with complex authentication policies,€Filip€Van Der 
+Velde,€digital€workplace architect,€and his team needed a reliable way to protect business-
+critical SaaS data while€maintaining€operational efficiency.€€
+Belgium
+LOCATION
+Energy
+INDUSTRY
+3,000
+EMPLOYEES
+Choosing a reliable backup€and 
+recovery€partner
+Luminus€evaluated three vendors through a formal 
+request for proposal process. In addition to 
+product capabilities and pricing, the team 
+prioritized a straightforward working relationship 
+and confidence in the vendorˇs approach.€
+
+Following a workshop and demo,€Keepit€stood out 
+as an intuitive and€reliable€solution.€L
+uminus€be began 
+backing up Microsoft 365 and later expanded 
+protection to include Microsoft Entra ID, 
+recognizing the importance of securing identity 
+configurations and policies that support daily 
+operations within its hybrid IT environment.
+Customer success story
+˝In addition to having a good 
+product, I also want to feel 
+good€about€working with the 
+people and know everything is 
+straightforward.˛
+Filip Van Der Velde(
+Digital W
+orkplace Architect(
+Luminus
+2
+
+˝With€Keepit, I click a few times, and minutes later everything is back.˛
+Filip Van Der Velde(
+Digital W
+orkplace Architect(
+Luminus
+Data sovereignty by design
+Operating in the energy sector requires careful 
+attention to data protection and regulatory 
+requirements, including GDPR. The ability to store 
+backup data in European data centers was€an 
+important factor€in the selection process.
+
+Keepitˇs independent architecture keeps backup 
+data separate from the production environment, 
+helping€Luminus€maintain control over its data 
+while supporting compliance requirements.
+
+Faster recovery for IT teams
+Fast, reliable restore capabilities have reduced the 
+time and effort€required€to recover data from 
+accidental deletions or configuration changes. In 
+collaborative environments such as SharePoint, 
+restoring large numbers of files using native tools can require significant manual effort.€
+The ability to quickly roll back Microsoft Entra ID 
+policies is also important in€Luminusˇ hybrid 
+environment, where configuration changes can 
+affect large groups of users. Rapid recovery helps 
+minimize disruption and allows the IT team to 
+resolve issues quickly.
+
+By reducing the time required to restore files and 
+configurations,€Luminus€has been able 
+to€demonstrate€measurable operational savings 
+and improved efficiency across the IT team.
+
+A platform that evolves with customers
+Transparent pricing supported the internal 
+business case for implementing€Keepit, allowing 
+the te
+am to compare the cost of the€platform€with the time previously€required€for manu for manual recovery 
+work.
+Customer success story
+3
+
+˝Itˇs valuable to see that customer input 
+is taken seriously and helps influence 
+what comes next.˛
+Filip Van Der Velde(
+Digital W
+orkplace Architect(
+Luminus
+Luminus€also values€the€ability to provide feed-
+back on future product capabilities through(
+Keepitˇs€roadmap, helping ensure the platform 
+continues to evolve alongside customer needs.€
+
+After successfully protecting Microsoft 365 and 
+Entra ID,€Luminus€is exploring opportunities to 
+extend protection to€additional€SaaS applications.€
+About€Luminus
+Luminus€is helping lead the energy transition in Belgium and is active in electricity generation, energy supply, 
+and energy solutions and flexibility services. The company is the number one provider of onshore wind 
+energy and hydropower in Belgium and€operates€diversified and flexible production units, enabling it to play 
+a key role in ensuring the countryˇs security of supply and supporting balance across the electricity grid.
+
+Guided by a shared company purpose, the 3,000 employees of the€Luminus€Group work every day toward a 
+CO‡-neutral energy future through electricity and innovative solutions and services.€Luminus€aims to 
+contribute to protecting the planet, supporting peopleˇs well-being, and driving economic progress. The 
+company combines strong local roots with the€expertise€of the EDF Group, a global leader in low-carbon 
+energy. The future is electric. Learn more at€
+www.luminus.be
+Your data. Here today. Here tomorrow
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+ For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Customer success story
+4

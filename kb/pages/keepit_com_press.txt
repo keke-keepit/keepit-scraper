@@ -1,14 +1,16 @@
 Source URL: https://www.keepit.com/press/
 Content type: Web page
-Last modified: 2026-01-27T12:59:47+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-22T14:00:10+02:00
+Retrieved: 2026-07-26
 
 ============================================================
 
 Filter content:
 Press
 Company
-July 1, 2026
+July 22, 2026
+Keepit brings SaaS data protection to the Pax8 Marketplace
+CompanyJuly 1, 2026
 Keepit upsizes and refinances credit facilities to $90 million USD
 SecurityJune 30, 2026
 Trust, verified: Keepit completes SOC 2 Type II audit, confirming security controls hold up over time

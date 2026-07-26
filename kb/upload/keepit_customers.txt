@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — CUSTOMERS
-Generated: 2026-07-21
-Pages: 62
+Generated: 2026-07-26
+Pages: 64
 ============================================================
 
 Source URL: https://www.keepit.com/customers/
@@ -1103,6 +1103,42 @@ Team Leader, IT Operations & Infrastructure at Ludwig Freytag
 
 ------------------------------------------------------------
 
+Source URL: https://www.keepit.com/customers/luminus/
+Content type: Web page
+Last modified: 2026-07-22T14:12:52+02:00
+Retrieved: 2026-07-26
+
+============================================================
+
+European data residency and fast restoration drive Luminusâ backup strategy
+As one of Belgium’s largest energy providers, Luminus operates in a highly regulated environment where data availability and reliability are critical. The company provides electricity, gas, and related services to customers across the region, supporting approximately 3,000 users across its digital workplace environment.
+Working in a hybrid environment with complex authentication policies, Filip Van Der Velde, digital workplace architect, and his team needed a reliable way to protect business-critical SaaS data while maintaining operational efficiency.
+Choosing a reliable backup and recovery partner
+Luminus evaluated three vendors through a formal request for proposal process. In addition to product capabilities and pricing, the team prioritized a straightforward working relationship and confidence in the vendor’s approach.
+In addition to having a good product, I also want to feel good about working with the people and know everything is straightforward.
+– Filip Van Der Velde 
+Digital Workplace Architect, Luminus
+Following a workshop and demo, Keepit stood out as an intuitive and reliable solution. Luminus began backing up Microsoft 365 and later expanded protection to include Microsoft Entra ID, recognizing the importance of securing identity configurations and policies that support daily operations within its hybrid IT environment.
+Data sovereignty by design
+Operating in the energy sector requires careful attention to data protection and regulatory requirements, including GDPR. The ability to store backup data in European data centers was an important factor in the selection process.
+Keepit’s independent architecture keeps backup data separate from the production environment, helping Luminus maintain control over its data while supporting compliance requirements.
+Faster recovery for IT teams
+Fast, reliable restore capabilities have reduced the time and effort required to recover data from accidental deletions or configuration changes. In collaborative environments such as SharePoint, restoring large numbers of files using native tools can require significant manual effort
+With Keepit, I click a few times, and minutes later everything is back.
+– Filip Van Der Velde 
+Digital Workplace Architect, Luminus
+The ability to quickly roll back Microsoft Entra ID policies is also important in Luminus’ hybrid environment, where configuration changes can affect large groups of users. Rapid recovery helps minimize disruption and allows the IT team to resolve issues quickly.
+By reducing the time required to restore files and configurations, Luminus has been able to demonstrate measurable operational savings and improved efficiency across the IT team.
+A platform that evolves with customers
+Transparent pricing supported the internal business case for implementing Keepit, allowing the team to compare the cost of the platform with the time previously required for manual recovery work.
+Luminus also values the ability to provide feedback on future product capabilities through Keepit’s roadmap, helping ensure the platform continues to evolve alongside customer needs.
+After successfully protecting Microsoft 365 and Entra ID, Luminus is exploring opportunities to extend protection to additional SaaS applications. 
+It’s valuable to see that customer input is taken seriously and helps influence what comes next.
+– Filip Van Der Velde 
+Digital Workplace Architect, Luminus
+
+------------------------------------------------------------
+
 Source URL: https://www.keepit.com/customers/mums-in-need/
 Content type: Web page
 Last modified: 2025-11-28T13:28:38+01:00
@@ -1786,6 +1822,43 @@ Following this success story, Technology Did It recommends Keepit to other compa
 Keepit is a no brainer. It’s secure, cost-effective and easy to maintain.
 Tiffany Carra
 Owner of Technology Did It
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/customers/testcontoso/
+Content type: Web page
+Last modified: 2026-07-23T16:14:02+02:00
+Retrieved: 2026-07-26
+
+============================================================
+
+European data residency strengthen Contoso Energyâs resilience
+As one of Northern Europe’s leading renewable energy providers, Contoso Energy operates in a highly regulated industry where business continuity and data protection are essential. The organization delivers electricity, gas, and sustainable energy solutions to businesses and households while supporting more than 4,500 employees across a modern digital workplace.
+With a growing cloud-first strategy and a hybrid identity environment, Alex Morgan, Head of Digital Workplace, and the IT team required a dependable backup and recovery solution to safeguard mission-critical SaaS data while reducing administrative overhead.
+Selecting a trusted backup partner
+Contoso Energy conducted a comprehensive vendor evaluation, comparing several backup providers based on functionality, security, pricing, and long-term partnership potential. Beyond technical capabilities, the team wanted a vendor that offered transparency, responsive support, and a straightforward customer experience.
+Keepit Elite partner INNOVISION shares how one of their customers bounced back quickly from a cyberattack – all due to Keepit’s seamless recovery process. The case details how the customer avoided potentially disastrous results following a cyberattack - had they not been using Keepit for Entra ID (formerly Azure AD) and Keepit for Microsoft 365.
+Technology is important, but so is working with a partner you can trust. We wanted a solution that was simple, reliable, and backed by a team that unders.
+– Alex Morgan
+Head of Digital Workplace, Contoso Energy
+Built for data sovereignty
+As an energy provider operating under strict regulatory requirements, Contoso Energy places significant importance on data sovereignty and GDPR compliance.
+Keepit's independent cloud architecture stores backup data separately from the production environment, enabling the organization to strengthen cyber resilience while maintaining greater control over where business-critical data resides.
+The availability of European data centers aligned well with the company's governance and compliance objectives.
+Faster recovery with less effort
+The IT team frequently supports users recovering accidentally deleted files, restoring SharePoint content, and rolling back configuration changes. Native recovery tools often required lengthy manual processes, particularly when restoring multiple items.
+The ability to rapidly restore Microsoft Entra ID configurations has also helped reduce operational risk. When identity policies or security settings require rollback, IT administrators can restore previous configurations quickly, minimizing disruption for end users.
+By accelerating recovery workflows, Contoso Energy has improved IT productivity while reducing the operational costs associated with manual restoration tasks.
+Recovery has become dramatically simpler. What previously took hours can now be completed in just a few clicks.
+- Alex Morgan
+Head of Digital Workplace, Contoso Energy
+A platform that grows alongside the business
+Predictable licensing and transparent pricing made it easier to justify the investment internally. The organization was able to compare platform costs against the time previously spent managing recovery requests and manual administrative work.
+The IT team also appreciates Keepit's collaborative product development approach, with opportunities to provide feedback that influences future enhancements.
+After successfully protecting Microsoft 365 and Microsoft Entra ID, Contoso Energy is evaluating additional SaaS workloads for backup as part of its broader cloud resilience strategy.
+It's encouraging to see our feedback reflected in the product roadmap. That gives us confidence we're investing in a platform that will continue to evolve.
+– Alex Morgan
+Head of Digital Workplace, Contoso Energy
 
 ------------------------------------------------------------
 

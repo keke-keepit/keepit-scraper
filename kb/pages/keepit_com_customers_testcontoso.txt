@@ -1,0 +1,34 @@
+Source URL: https://www.keepit.com/customers/testcontoso/
+Content type: Web page
+Last modified: 2026-07-23T16:14:02+02:00
+Retrieved: 2026-07-26
+
+============================================================
+
+European data residency strengthen Contoso Energyâs resilience
+As one of Northern Europe’s leading renewable energy providers, Contoso Energy operates in a highly regulated industry where business continuity and data protection are essential. The organization delivers electricity, gas, and sustainable energy solutions to businesses and households while supporting more than 4,500 employees across a modern digital workplace.
+With a growing cloud-first strategy and a hybrid identity environment, Alex Morgan, Head of Digital Workplace, and the IT team required a dependable backup and recovery solution to safeguard mission-critical SaaS data while reducing administrative overhead.
+Selecting a trusted backup partner
+Contoso Energy conducted a comprehensive vendor evaluation, comparing several backup providers based on functionality, security, pricing, and long-term partnership potential. Beyond technical capabilities, the team wanted a vendor that offered transparency, responsive support, and a straightforward customer experience.
+Keepit Elite partner INNOVISION shares how one of their customers bounced back quickly from a cyberattack – all due to Keepit’s seamless recovery process. The case details how the customer avoided potentially disastrous results following a cyberattack - had they not been using Keepit for Entra ID (formerly Azure AD) and Keepit for Microsoft 365.
+Technology is important, but so is working with a partner you can trust. We wanted a solution that was simple, reliable, and backed by a team that unders.
+– Alex Morgan
+Head of Digital Workplace, Contoso Energy
+Built for data sovereignty
+As an energy provider operating under strict regulatory requirements, Contoso Energy places significant importance on data sovereignty and GDPR compliance.
+Keepit's independent cloud architecture stores backup data separately from the production environment, enabling the organization to strengthen cyber resilience while maintaining greater control over where business-critical data resides.
+The availability of European data centers aligned well with the company's governance and compliance objectives.
+Faster recovery with less effort
+The IT team frequently supports users recovering accidentally deleted files, restoring SharePoint content, and rolling back configuration changes. Native recovery tools often required lengthy manual processes, particularly when restoring multiple items.
+The ability to rapidly restore Microsoft Entra ID configurations has also helped reduce operational risk. When identity policies or security settings require rollback, IT administrators can restore previous configurations quickly, minimizing disruption for end users.
+By accelerating recovery workflows, Contoso Energy has improved IT productivity while reducing the operational costs associated with manual restoration tasks.
+Recovery has become dramatically simpler. What previously took hours can now be completed in just a few clicks.
+- Alex Morgan
+Head of Digital Workplace, Contoso Energy
+A platform that grows alongside the business
+Predictable licensing and transparent pricing made it easier to justify the investment internally. The organization was able to compare platform costs against the time previously spent managing recovery requests and manual administrative work.
+The IT team also appreciates Keepit's collaborative product development approach, with opportunities to provide feedback that influences future enhancements.
+After successfully protecting Microsoft 365 and Microsoft Entra ID, Contoso Energy is evaluating additional SaaS workloads for backup as part of its broader cloud resilience strategy.
+It's encouraging to see our feedback reflected in the product roadmap. That gives us confidence we're investing in a platform that will continue to evolve.
+– Alex Morgan
+Head of Digital Workplace, Contoso Energy
