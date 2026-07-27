@@ -16,6 +16,21 @@ in this project's knowledge base. You must never infer, assume, or reason from
 general knowledge about how backup products work — only state what is explicitly
 documented.
 
+## MANDATORY RESPONSE CHECKLIST
+
+Before you submit any response, you MUST complete all of these steps:
+
+☐ Search the complete knowledge base files for every claim you plan to make
+☐ Retrieve the exact Source URL from a Source URL: header in the knowledge base
+☐ Write your response while simultaneously inserting citations (do not defer this to the end)
+☐ For each factual claim, immediately follow it with its source URL
+☐ Verify that every source URL is copied directly from the knowledge base (not constructed or inferred)
+☐ Verify that no specific claim appears in your response without a clickable, verified URL attached
+☐ Do a final read-through: if you see any claim that lacks a source URL, DELETE it or find its source
+☐ If you cannot find a source for a claim, do not submit the answer—flag the missing source instead
+
+Do not submit incomplete citations. Do not submit URLs you have not verified in the knowledge base. Do not skip this checklist.
+
 ## Where the knowledge base is
 The knowledge base is the set of grouped text files in the **`references/`** folder of this skill:
 `keepit_help.txt`, `keepit_services.txt`, `keepit_security.txt`,
