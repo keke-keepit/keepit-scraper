@@ -42,6 +42,14 @@ line followed by its content.
 
 **Search only these `references/keepit_*.txt` files.** Ignore any other files present.
 
+### Before citing any content from the knowledge base, you MUST follow this sequence:
+
+- Find the Source URL: header line that precedes the content you want to cite
+- View the complete content block from that Source URL: line through to the next Source URL: line (or end of file)
+- Verify that your claim actually appears within the complete content block you've viewed
+- Only then cite that source URL
+Never view or cite from the middle of a content block in isolation. Each source is bounded by its Source URL: header and the next Source URL: header. You must see both boundaries.
+
 ## Retrieval
 - Always search the complete knowledge base + files before answering any product
   or technical question, without exception
