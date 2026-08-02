@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/security/
 Content type: Web page
 Last modified: 2026-01-08T23:19:46+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -19,7 +19,8 @@ Scalability
 Keepit’s platform is effortlessly scaled to your organization's needs. Keepit’s fully automated and intelligent backup algorithm ensures maximum throughput and allows you the ability to deploy multiple independent instances of Keepit for increased scalability.
 Predictable pricing for unlimited data
 Keepit offers predictable pricing with its unlimited data model. There are no extra fees for data ingress or egress, making planning your budget simple and reliable.
-Read more about scalabilityConfidence in disaster recovery
+Read more about scalability
+Confidence in disaster recovery
 Keepit enables business continuity
 Become more resilient by reducing risk and enabling seamless recovery through robust backup. Keepit provides granular and instant recovery, if and when your system is impacted by ransomware or human error. With Keepit, your disaster recovery plan is future-proofed for business continuity.
 Data integrity
@@ -31,17 +32,19 @@ Data security and encryption in transit
 Keepit employs encryption in transit using HTTPS secured with modern TLS when accessing your data through primary workload vendor APIs. For an additional layer of security, Keepit will typically exchange traffic directly with workload providers over major internet exchanges.
 Once data reaches Keepit, it’s encrypted before being stored on our storage systems. For this purpose, we employ AES encryption directly on our storage systems. The storage media upon which your data resides is kept in two mirrored, physically secure data centers.
 A wide range of security measures are used to protect and safeguard your data. Encryption in transit and at rest is implemented, using industry best practices.
-Learn more about intelligent disaster recoveryEffortless compliance
+Learn more about intelligent disaster recovery
+Effortless compliance
 Compliance
 Keepit makes it easier to adhere to compliance requirements, whether it’s NIS2 or GDPR. Keepit’s independent cloud provides you with the confidence that your data is stored securely. Our data centers in seven regions guarantee data sovereignty.
 Security certifications
 Keepit stores your data in our regional data centers, separate from your SaaS vendor’s data. To ensure the highest operational security standards, Keepit holds both the ISO/IEC 27001 and the ISAE 3402-II certifications (audited by Deloitte annually).
-Read more about compliance and continuityThe intelligent choice
+Read more about compliance and continuity
+The intelligent choice
 Effortless and transparent - a trusted partner in disaster recovery and achieving compliance. Intelligently built solutions make for an intelligent choice.
 Intelligent data protection
 Explore Keepit’s enterprise-level SaaS backup solutions
 Read the case study
-Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.  
 Read the case study
 We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
 Read the case study

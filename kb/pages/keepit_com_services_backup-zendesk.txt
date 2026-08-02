@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-zendesk/
 Content type: Web page
 Last modified: 2025-02-23T21:35:08+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -101,7 +101,6 @@ Top three reasons why you should backup your Zendesk data:
 - To protect your Automations, Macros, and Triggers from accidental deletion
 - To gain granular restore capability of your Zendesk data at any time, from anywhere
 - So you can retain deleted data longer than 40 days
- 
 Read more on why you must back up your Zendesk application and how this allows you to avoid 5 costly problems by reading this blog post.
 It depends on the Service Offering you choose. For more details, visit our pricing page
 Keepit provides:

@@ -1,15 +1,16 @@
 Source URL: https://www.keepit.com/help/miro-category/create-a-miro-connector/
 Content type: Web page
-Last modified: 2026-06-22T13:16:24+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-29T15:28:02+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
 Create a Miro connector
-Requirements
-Keepit for Miro only support Miro Enterprise plan customers.
-The user account used to set up the backup must be a company admin who is also a member of the team. Within the team, the user must have editor access for each space that needs to be included in the backup.
-These permissions ensure the user has the necessary access to back up and restore data successfully.
+Prerequisites
+Before you begin, confirm the following:
+- Keepit for Miro supports Miro Enterprise plan customers only.
+- The user account used to set up the backup must be a company admin who is also a member of the team. Within the team, the user must have editor access for each space that needs to be included in the backup.
+These permissions ensure the user account has the necessary access to back up and restore data successfully.
 Create a connector
 Follow these steps to create a Miro connector and set up your backup configuration.
 1. On the Connectors page, selectâ¯Add connectorâ¯>â¯Add Miro Ñonnector.â¯
@@ -23,3 +24,20 @@ Here you can:
 - Limit the retention periodâ¯by selecting theâ¯calendarâ¯icon
 7. Selectâ¯Create. 
 Your connector will be created, and the first backup will be scheduled.â¯
+Grant data access for all teams
+To ensure Keepit backs up your entire Miro organization, you must grant the Keepit application access to every team within the organization. Complete these steps after creating your connector.
+Note: Miro recently updated their data access policies for third-party apps. To ensure uninterrupted backup coverage or fix potential errors, verify that the Keepit application has the correct data access configured in your Miro organization settings. Follow the steps below.
+1. Go to miro.com and sign in as a user with the company admin role.
+2. On the Miro home page, select your user avatar.
+3. Select Admin Console.
+4. In the left navigation, expand Apps and integrations and select Apps.
+5. Select the Data access tab.
+6. Locate Keepit Backup and Recovery for Miro in the list.
+7. Check the Data access scope column.
+- If the scope is already set to All teams, no further action is needed.
+- If it isn't, continue with the steps below.
+8. Select the three-dot menu on the right side of the row, then select Edit.
+9. In the Edit panel, select the Permissions tab.
+10. Under Data scope, expand the dropdown and select Entire organization (all teams).
+11. Select Save.
+Keepit now has access to all teams in your Miro organization and can back up the full scope of your data.

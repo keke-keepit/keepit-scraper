@@ -1,39 +1,38 @@
 Source URL: https://www.keepit.com/help/okta-category/create-an-okta-connector/
 Content type: Web page
-Last modified: 2025-08-06T10:07:54+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-31T13:16:58+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
 Create an Okta connector
-Before creating your connector, you must first add an app integration in Okta. During this process, you will also obtain the organization host, application ID, and application secret—all of which are required to complete the connector setup.
-For details on how to create an app integration, go to: Configure an Okta app integration
+Before creating your connector, you must add an app integration in Okta. During this process, you also obtain the organization host, application ID, and application secret — all required to complete the connector setup.
+For instructions, go to: Configure an Okta app integration
 Preparation
 Obtain your organization host
-Your Okta organization host can be found in one of two ways:
-1. From the URL of your Okta organization
-Use the base domain of your Okta URL — do not include the -admin suffix.
+Your Okta organization host is available in two ways:
+From the URL of your Okta organization
+Use the base domain of your Okta URL. Don't include the -admin suffix.
 - â Example of a valid host: dev-12345678.okta.com
 - â Example of an invalid host (with -admin suffix): dev-12345678-admin.okta.com
-2. From the user context menu
-You can also retrieve the organization host from your app integration by opening the user context menu and copying the host from there.
-Note: In the examples above, the dev prefix indicates a developer account. If you're not using a developer account, your host will not include this prefix.
+From the user context menu
+Open the user context menu in your app integration and copy the host from there.
+Note: The dev prefix in the examples above indicates a developer account. If you're not using a developer account, your host won't include this prefix.
 Obtain your application ID and application secret
-You can obtain the application ID and application secret from your app integration.
+You can find both values in your app integration:
 - For the Application ID:
- In the Client Credentials section, click the copy button next to the Client ID field.
+In the Client Credentials section, click the copy button next to the Client ID field.
 - For the Application Secret:
- Scroll down to the Client Secrets section, and click the copy button next to the secret value.
+In the Client Secrets section, click the copy button next to the secret value.
 Add an Okta connector
 Follow these steps to create an Okta connector and set up your backup configuration.
-1. On the Connectors page, in the upper-right corner, selectâ¯Add connectorâ¯>â¯Add Okta Ñonnector.â¯
+1. On the Connectors page, select Add connector > Add Okta connector.
 2. Enter the your organization host, application ID, and application secret.
 3. Clickâ¯Sign inâ¯to begin the authentication process.
-4. On the Okta sign-in page, enter the credentials of the user who has been assigned both the Super Administrator role and access to the app integration.
-5. After authentication, you’ll be redirected to Keepit where you can configure your connector.
-Here you can:
+4. On the Okta sign-in page, enter the credentials of the user who has the Super Administrator role and access to the app integration.
+5. After authentication, you're redirected to Keepit where you can configure your connector. Here you can:
 - Change the name of the connector
 - Manage user access to the connectorâ¯by selecting theâ¯lockâ¯icon
 - Limit the retention periodâ¯by selecting theâ¯calendarâ¯icon
 6. Selectâ¯Create.
-Your connector will be created, and the first backup will be scheduled.â¯
+Keepit creates your connector and schedules the first backup.

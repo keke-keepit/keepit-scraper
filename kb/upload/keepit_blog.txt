@@ -1,282 +1,29 @@
 KEEPIT KNOWLEDGE BASE — BLOG
-Generated: 2026-07-26
-Pages: 133
+Generated: 2026-08-02
+Pages: 135
 ============================================================
 
 Source URL: https://www.keepit.com/blog/
 Content type: Web page
 Last modified: 2025-02-23T21:47:40+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
-Filter content:
-The Keepit blog
+When the cloud goes dark: Resilience lessons from hybrid threats
+Read customer case
+Read the report
+Watch on-demand
+Watch now
+Download whitepaper
+Read the report
+Register now
+Careers at Keepit
+Find a partner
+Watch now
 Industry experts sharing insights and experiences to help empower intelligent decisions for data resilience
-Inside Keepit
-July 20, 2026 | 5 minutes
-Keepit Hot Archive: Archive your SharePoint data without losing access to it
-Cut SharePoint Online storage costs with Keepit Hot Archive. Move rarely used data out of production and restore it on demand â no cold storage friction.
-Inside KeepitJuly 15, 2026 | 3 minutes
-Keepit Backup and Recovery for Autodesk Forma
-Infrastructure and operationsJuly 1, 2026 | 5 minutes
-When disaster strikes, who controls your SaaS data?
-SecurityJune 15, 2026 | 6 minutes
-The illusion of control: What 300 IT leaders told us about adopting AI
-Inside KeepitJune 3, 2026 | 3 minutes
-Keepit Backup and Recovery for Jira Service Management
-Partner
-May 28, 2026 | 4 minutes
-The sovereignty gap: Why MSPs must rethink recovery in the SaaS era
-ResearchMay 20, 2026
-Backup volumes arenât exploding (yet)
-SecurityMay 8, 2026
-AI is moving cyber risk to machine speed. Your recovery plan isnât.
-SecurityMay 7, 2026
-The identity recovery blind spot: Why identity systems are tested far less, and why thatâs risky
-Inside KeepitMay 5, 2026 | 3 minutes
-When âundoâ isnât enough: Keepit Backup and Recovery for monday.com is here
-Infrastructure and operationsApril 22, 2026
-Introducing the Keepit Annual Data Report 2026: Operational truths (and a few surprises)Â
-ComplianceMarch 12, 2026 | 7 minutes
-What is CCPA? Hereâs what you need to know about Californiaâs privacy lawÂ
-Inside KeepitMarch 2, 2026 | 6 minutes
-AI that you control: Keepitâs approach to responsible AI integration
-SecurityApril 17, 2026 | 3 minutes
-2025 was the test: Why hope is not a cybersecurity strategyÂ
-Inside KeepitMarch 3, 2026 | 4 minutes
-Cross-tenant restore for Entra ID: Test, verify, and rebuild identity with KeepitÂ
-Inside KeepitFebruary 26, 2026 | 3 minutes
-Protect your source code â Keepit Backup and Recovery for GitHubÂ
-Infrastructure and operationsFeb. 16, 2026 | 7 minutes
-Shared responsibility doesnât stop at backup: Data sovereignty is on you, too
-Infrastructure and operationsFeb. 9, 2026 | 5 minutes
-AI of the future: Holding the keys with agentic AI
-Infrastructure and operationsFeb. 9, 2026 | 3 minutes
-The end of EWS and what it means for your Microsoft 365 backupÂ
-SecurityJan. 14, 2026 | 6 minutes
-Proof over promises: Why security certifications matterÂ
-Infrastructure and operationsDec. 18, 2025 | 3 minutes
-From hype-check to hard truths â real protection, real risk, real demandÂ
-Inside KeepitDecember 3, 2025 | 2 minutes
-Think outside the boardÂ â secure your Miro data with KeepitÂ
-Infrastructure and operationsDec. 2, 2025 | 7 minutes
-AI of tomorrow: What MCP enables for SaaS backup and recoveryÂ
-Infrastructure and operationsNov. 25, 2025 | 3 minutes
-When the cloud goes dark: Why data sovereignty mattersÂ
-Inside KeepitNovember 12, 2025 | 2 minutes
-Employee data is priceless â back it up with Keepit
-Infrastructure and operationsNov. 4, 2025 | 4 minutes
-Why the shared responsibility model is still critical today
-ComplianceOctober 29, 2025 | 4 minutes
-Cyber storage and DORA: Why true backup is central to operational resilienceÂ
-Infrastructure and operationsOct. 21, 2025 | 7 minutes
-AI of today: Power, drift, and the discipline to stay in control
-Inside KeepitOct. 13, 2025 | 3 minutes
-Salesforce data anonymization: Keep your sandboxes secure and usefulÂ
-Inside KeepitSept. 24, 2025 | 2 minutes
-Keepit integration with Microsoft Sentinel: Export backup insights to your SIEM
-Inside KeepitSeptember 24, 2025 | 2 minutes
-Signed, sealed, secured â why you should independently back up DocusignÂ
-Inside KeepitSept. 18, 2025 | 5 minutes
-Introducing a DR maturity framework for SaaS (part 1/6)
-SecurityAugust 28, 2025 | 2 minutes
-Inside a real breach: How immutability broke the kill chainÂ
-SecurityAugust 13, 2025 | 3 minutes
-Keepit achieves SOC 2 Type 1 attestationÂ
-Inside KeepitAugust 11, 2025 | 2 minutes
-Enhance your IAM resilience: Keepit Backup and Recovery for Okta Â
-SecurityAugust 1, 2025 | 3 minutes
-Why German CISOs need to rethink their cloud decisions
-SecurityJuly 16, 2025 | 4 minutes
-The anatomy of recovery: Why testing is the heart of business resilience
-SecurityJuly 9, 2025 | 4 minutes
-Restore vs. recover: Are they the same thing in SaaS data protection?
-Infrastructure and operationsJuly 2, 2025 | 4 minutes
-Cyber storage: The new standard for SaaS data protectionÂ
-Inside KeepitJune 27, 2025 | 3 minutes
-Protecting your project execution â Keepit is now backing up Jira and Confluence CloudÂ
-ComplianceJune 13, 2025 | 3 minutes
-Data governance checklist: Turning strategy into actionÂ
-Infrastructure and operationsMay 30, 2025 | 3 minutes
-Data and digital sovereignty: Who is in control of your data
-Infrastructure and operationsMay 30, 2025 | 2 minutes
-Europeâs data sovereignty challenge
-Inside KeepitMay 21, 2025 | 3 minutes
-Intelligent resilience: A strategic imperative
-SecurityMay 14, 2025 | 7 minutes
-The four Ms of data loss â and how to recover with confidence
-SecurityMay 7, 2025 | 4 minutes
-Balancing disaster recovery, backup systems, and security
-Inside KeepitApril 30, 2025 | 4 minutes
-Introducing anomaly detection: Visibility, control, and faster response in your backup data
-Infrastructure and operationsApril 16, 2025 | 4 minutes
-How data governance fuels growth and compliance
-ComplianceApril 9, 2025 | 3 minutes
-What FINRA and SEC compliance requires â and how backup solutions can help
-Infrastructure and operationsApril 2, 2025 | 6 minutes
-How data governance builds resilience against corruption and disruption
-ComplianceMarch 26, 2025 | 6 minutes
-You donât choose resilience â you earn it
-ComplianceMarch 19, 2025 | 5 minutes
-Data governance: Why control across the data lifecycle is essential for resilience
-Infrastructure and operationsMarch 5, 2025 | 3 minutes
-Intelligent data governance: Why IT decision-makers should control their data
-Inside KeepitFeb. 25, 2025
-Intelligent resilience: The future of SaaS data protection
-Infrastructure and operationsFeb. 12, 2025 | 4 minutes
-Scalability: Building for the future by starting right today
-Infrastructure and operationsJan. 22, 2025 | 6 minutes
-Cybersecurity tool sprawl and the cost of complexity
-Infrastructure and operationsJan. 14, 2025 | 3 minutes
-5 predictions for 2025: Data, APIs, and AI, oh my!
-Inside KeepitJan. 8, 2025 | 5 minutes
-Keepitâs Data Protection Dashboard
-Infrastructure and operationsNov. 20, 2024 | 7 minutes
-Are you confident in your SaaS data protection?
-PartnerOct. 22, 2024 | 5 minutes
-Real-world recovery: SaaS data backup as the cornerstone of cyber resilience
-PartnerOct. 22, 2024 | 6 minutes
-Real-world recovery: The role of cyber insurance in ransomware resilience
-ComplianceOct. 14, 2024 | 4 minutes
-DORA: Strengthening financial institutions through effective backup solutions
-SecurityOct. 10, 2024 | 6 minutes
-What is cyber resilience? Insurance, recovery, and layered defenses
-ComplianceSeptember 20, 2024 | 5 minutes
-Why UK IT teams need to prepare for NIS2: Insights from Keepitâs CISO
-SecuritySeptember 18, 2024 | 5 minutes
-3-2-1 backup rule update: Air gap your immutable backups
-Infrastructure and operationsSeptember 4, 2024 | 7 minutes
-The pitfalls of hidden costs in SaaS
-SecurityAugust 28, 2024 | 5 minutes
-Cyber insuranceâs role in ransomware recovery
-SecurityAugust 21, 2024 | 6 minutes
-What is CISO-approved backup?
-SecurityAugust 13, 2024 | 5 minutes
-Top 10 considerations for a recovery solution RFP
-Infrastructure and operationsJul. 31, 2024 | 5 minutes
-Welcome, Microsoft 365 Backup!
-ComplianceJuly 17, 2024 | 6 minutes
-What is the EU Digital Operational Resilience Act (DORA)?
-Infrastructure and operationsJuly 10, 2024 | 5 minutes
-Can your cloud provider accidentally delete your data?
-Inside KeepitJune 27, 2024 | 3 minutes
-Greener backup services with efficient code
-Infrastructure and operationsJune 12, 2024 | 5 minutes
-Whatâs keeping CISOs up at night?
-Infrastructure and operationsJune 3, 2024 | 7 minutes
-Ransomware as a service: A growing cyberthreat for data protection
-SecurityMay 29, 2024 | 7 minutes
-What does ransomware recovery look like?
-ComplianceMay 17, 2024 | 6 minutes
-Essential criteria for a backup vendor in the face of NIS2
-Infrastructure and operationsMay 16, 2024 | 5 minutes
-Why Microsoft's entry into the backup space is good news
-ComplianceApril 22, 2024 | 6 minutes
-What the new SEC cybersecurity rules mean for compliance
-SecurityApril 16, 2024 | 8 minutes
-Why you need immutable data protection in your ransomware strategy
-PartnerApril 8, 2024 | 5 minutes
-Empowering resellers: SaaS data protection with Keepit
-Inside KeepitMarch 5, 2024 | 12 minutes
-Sustainability: More than green energy, tech stacks must be efficient
-PartnerFeb. 28, 2024 | 4 minutes
-Why Keepit for managed service providers (MSPs)
-Infrastructure and operationsFeb. 19, 2024 | 5 minutes
-Microsoft 365 Backup: What it means for SaaS data protection
-ComplianceFeb. 06, 2024 | 5 minutes
-NIS2 Directive: A key to compliance is business continuity
-PartnerJan. 16, 2024 | 4 minutes
-Keepit Partner Network: Growing partnerships to the next level
-SecurityDec. 4, 2023 | 10 minutes
-Ransomware resilience: Why air gapping is your best defense
-Inside KeepitNov. 20, 2023 | 5 minutes
-Monitoring functionality for data management and insights
-SecurityNov. 14, 2023 | 7 minutes
-Why backups are key ransomware targets
-VideoNov. 7, 2023
-Whatâs the business risk of not backing up Entra ID (Azure AD)?
-SecurityAug. 29, 2023
-How the next ransomware attack will hurt you: The numbers are in
-VideoAug. 17, 2023
-Will the recycle bin protect my Entra ID (Azure AD) data?
-Infrastructure and operationsJuly 12, 2023 | 7 minutes
-Azure Active Directory renamed Microsoft Entra ID
-VideoJuly 11, 2023
-Why do I need Azure AD backup? Isnât Microsoft 365 backup enough?
-SecurityMarch 8, 2023 | 5 minutes
-Is a scarcity of security experts a growing global data risk?
-Infrastructure and operationsMarch 8, 2023 | 35 minutes
-Podcast: How important is a backup?
-SecurityFeb. 20, 2023 | 4 minutes
-Cloud data: Shared responsibility and the importance of backup
-Infrastructure and operationsFeb. 15, 2023 | 10 minutes
-Why backing up Azure AD (Entra ID) in the cloud is essential
-Infrastructure and operationsJan. 28, 2023 | 4 minutes
-Protecting your data: Best practices for Data Protection Day
-SecurityJan. 1, 2023 | 9 minutes
-Why cloud data protection is a core business requirement
-ComplianceJan. 18, 2023 | 6 minutes
-What is the NIS2 Directive? Here's what you need to know
-SecurityDec. 21, 2022 | 9 minutes
-Backup strategy for the 3-2-1 principle
-Infrastructure and operationsDec. 20, 2022 | 4 minutes
-Evaluating cloud data protection tools
-SecurityDec. 08, 2022 | 6 minutes
-What is the zero trust principle?
-Inside KeepitNov. 30, 2022 | 5 minutes
-6-step checklist for articulating design decisions
-SecurityNov. 24, 2022 | 10 minutes
-Why healthcare organizations are vulnerable to attacks
-ComplianceOct. 26, 2022 | 9 minutes
-Why Microsoft 365 backup for healthcare organizations
-Infrastructure and operationsOct. 19, 2022 | 6 minutes
-Make the APIs work for you
-Inside KeepitSept. 22, 2022 | 3 minutes
-How Keepit puts user experience first
-Infrastructure and operationsSept. 12, 2022 | 6 minutes
-5 costly problems you can avoid via backup for Zendesk
-Infrastructure and operationsSept. 9, 2022 | 3 minutes
-Why ransomware recovery is hard
-Inside KeepitAug. 31, 2022 | 6 minutes
-Why customers love Keepit's ease of use
-Infrastructure and operationsAug. 24, 2022 | 9 minutes
-Shared responsibility: Why your Microsoft 365 is not backed up, and how to fix it
-SecurityAug. 17, 2022 | 4 minutes
-Security in the cloud: The SaaS backup gap challenge â and solution
-SecurityAug. 3, 2022 | 6 minutes
-Cloud backup ROI and what the cost of data loss is
-SecurityJuly 27, 2022 | 5 minutes
-79% of organizations had a ransomware attack in the past year. Are you prepared?
-Infrastructure and operationsJuly 20, 2022 | 4 minutes
-The Importance of Separate Backup Infrastructure
-SecurityJuly 13, 2022 | 8 minutes
-The truth about BYOK and 3 myths in the security industry
-ComplianceJuly 7, 2022 | 5 minutes
-Data compliance makes third-party security a must
-SecurityJune 30, 2022 | 4 minutes
-âWhen it comes to ransomware attacks, itâs a matter of when, not if.â
-ComplianceJune 22, 2022 | 6 minutes
-Is Litigation Hold a replacement for backup in Microsoft 365?
-ComplianceJune 8, 2022 | 9 minutes
-Top 3 considerations for a cloud exit strategy
-Infrastructure and operationsJune 1, 2022 | 8 minutes
-Why backup for Microsoft 365 â All you need to know
-Infrastructure and operationsJune 1, 2022 | 9 minutes
-Why backup and recovery for Salesforce
-Infrastructure and operationsJune 1, 2022 | 19 minutes
-Surely nobody would write a web service in C++
-Infrastructure and operationsJune 1, 2022 | 7 minutes
-Why you need backup for Google Workspace
-ComplianceJune 1, 2022 | 4 minutes
-Fast and simple eDiscovery with backup and recovery
-SecurityMay 17, 2022 | 4 minutes
-Keepit is now end-to-end ISO/IEC27001 certified
-SecurityMarch 22, 2022 | 9 minutes
-US White House urges businesses to brace for impact as threat from Russian hackers grows
-SecurityMarch 11, 2022 | 9 minutes
-SaaS data backup and disaster recovery planning
-Infrastructure and operationsFeb. 2, 2022 | 6 minutes
+Filter content:
+The Hugging Face incident shows why organizations need an independent, immutable source of truth when production data can no longer be trusted.
 
 ------------------------------------------------------------
 
@@ -724,12 +471,12 @@ Recovery is more than just technology. It’s culture, governance, and foresight
 
 Source URL: https://www.keepit.com/blog/annual-data-report-2026/
 Content type: Web page
-Last modified: 2026-04-22T14:35:40+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-27T16:26:25+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
-Introducing the Keepit Annual Data Report 2026: Operational truths (and a few surprises)Â
+Introducing the Keepit Annual Data Report 2026: Operational truths (and a few surprises)
 If you’ve ever tried to understand “what’s really happening” in IT, you’ve probably noticed an odd phenomenon: the more opinions you collect, the less certain you become.
 Surveys tell you what people remember. Interviews tell you what people believe. Panels tell you what people agree to say out loud. All of that can be valuable—just like weather forecasts are valuable. But neither forecasts nor opinions are the weather.
 This year, we decided to look out the window.
@@ -1208,8 +955,8 @@ Having your Jira, Confluence, and Miro data backed up, you’ll never have to wo
 
 Source URL: https://www.keepit.com/blog/backing-up-monday/
 Content type: Web page
-Last modified: 2026-05-05T10:31:48+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-27T16:37:36+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -1228,7 +975,6 @@ Implementing a backup and recovery strategy is at the center of business continu
 - Security and compliance: immutable backups stored independently from monday.com, meeting regulatory requirements for data retention and business continuity
 - Ransomware defense: air-gapped storage protecting against any malicious threats
 - Operational continuity: ensures business continuity during service downtime 
- 
 Keepit platform secures your collaboration processes
 Product and creative teams across the globe rely on project management and collaboration tools to bring teams together as well as track and execute on cross-functional projects. Losing months of work due to an accidentally deleted board is a hassle nobody wants to face.
  
@@ -4038,6 +3784,43 @@ To guide your company through the complexities of legislative directives such as
 
 ------------------------------------------------------------
 
+Source URL: https://www.keepit.com/blog/openai-hugging-face/
+Content type: Web page
+Last modified: 2026-07-31T16:14:02+02:00
+Retrieved: 2026-08-02
+
+============================================================
+
+When a rogue AI agent reaches production, what can you trust?
+In its July 21 disclosure, OpenAI described what it called an unprecedented security incident.
+During an internal evaluation of advanced cyber capabilities, OpenAI models operating without the usual production cyber safeguards found a way out of a constrained testing environment. According to OpenAI, the models exploited a zero-day vulnerability in a package registry proxy, escalated privileges, obtained internet access, and then chained additional vulnerabilities and stolen credentials to reach Hugging Face's production infrastructure. Their narrow objective was to retrieve answers to a benchmark directly from a Hugging Face production database.
+For its part, Hugging Face said the incident resulted in unauthorized access to a limited set of internal datasets and several service credentials. Its investigation was still assessing whether any partner or customer data had been affected. Importantly, Hugging Face reported no evidence that public models, datasets, or Spaces had been tampered with, and said its published packages and container images had been verified as clean.
+That qualification matters. This shouldn't be turned into a claim that an AI system destroyed or corrupted Hugging Face's public data. It is, however, a striking demonstration of something every organization deploying AI should now consider: What happens when an AI system moves beyond the boundaries designed to contain it?
+Once something gets through, the next hard question is whether you still have a source of truth it couldn’t alter.
+Prevention remains essential — but it can't be the entire strategy
+The immediate lessons here are about prevention and detection: stronger isolation, access controls, monitoring, credential management, safeguards around AI evaluations, and a source of truth. As we wrote recently in AI is moving cyber risk to machine speed, recovery is not a firewall, and backup shouldn't be sold as a magical shield against zero-days, but that article also made a point that matters even more after this incident: Prevention becomes a thinner shield the moment AI compresses the time between finding a weakness and exploiting it.
+Prevention only governs the way in. It says nothing about what you're left with once something gets through. And that's the real lesson of this incident: Organizations need a source of truth outside the production applications they don’t fully control. Keepit preserves that source of truth through an independent, immutable backup of SaaS application data. When production data can no longer be trusted or accessed — because of AI or any other reason — that independent history gives the business a known-good state from which it can recover, move forward, and support its AI deployments with data it can trust.
+Production can't be your only source of truth
+Organizations increasingly depend on production SaaS applications to run communications, identity, customer relationships, finance, development, and other critical operations.
+But they don't fully control the infrastructure behind those applications. Nor can they assume that every user, administrator, integration, automated process, or AI agent interacting with production will always behave as intended. This is the crux of it: organizations need a source of truth outside the production SaaS applications they don't fully control.
+Once a production environment has been compromised, the problem isn't limited to whether data has been deleted. Organizations also have to establish whether data was changed, whether permissions or configurations were altered, whether credentials were exposed, whether the current state of the system can still be trusted, what the last known-good state looked like, and whether potentially compromised data is now being supplied to other applications, automations, or AI systems.
+Answering any of those questions requires something the live environment alone can't always provide after an incident: an independent record of what the data looked like before the event. Keepit provides that through an independent, immutable backup of an organization's SaaS data — and the distinction between those two words matters.
+Independence means the backup copy exists outside the source SaaS environment and its immediate failure domain. It isn't simply another copy controlled through the same production system. Immutability means the protected copy can't be silently changed, overwritten, or deleted — even if production credentials, administrator accounts, or automated processes are compromised. Together, they preserve the reference point that lets an organization recover, move forward, and feed trusted data back into its AI deployments when production can no longer be trusted.
+AI changes the speed and scale — not the need for recovery
+This incident was unusual, but the underlying resilience problem is familiar. A threat actor can compromise credentials. Ransomware can encrypt or delete information. An administrator can make a destructive mistake. A SaaS provider can suffer an outage. An integration can overwrite records. An AI agent can misinterpret its objective or operate beyond its intended permissions.
+The causes differ, but the operational questions are the same: Can the organization identify a known-good state, can it prove that state hasn't been altered, and can it recover without depending entirely on the environment that's just been compromised?
+AI raises the stakes because it can act autonomously, sustain complex activity over longer periods, and perform thousands of actions far faster than a human operator. OpenAI said the models in its evaluation chained several vulnerabilities across separate environments while pursuing a relatively narrow benchmark objective — a reminder that capable systems don't need malicious intent to create serious consequences. An objective, some access, and an unexpected path may be enough.
+Three questions every organization should now ask
+Where does our independent source of truth live? Is there a copy of critical SaaS data outside the production application and separate from the provider's infrastructure and control plane?
+Can the same compromise reach our recovery data? Could a stolen production credential, compromised administrator, or misbehaving automation also change or delete the backup, or is it immutable?
+Can we return to a known-good state — and verify it? Can we identify the correct point in time, recover the affected data precisely, and validate it before returning it to production or supplying it to an AI system?
+These aren't questions for the backup team alone. They concern security, continuity, data governance, and the reliability of enterprise AI.
+An independent truth when production can't be trusted
+The lesson from this incident isn't that every AI agent will become an attacker, nor is it that backup would have prevented what happened. It's that the boundaries around AI systems can fail in ways their designers didn't anticipate — and when they do, production can no longer be treated unquestioningly as the complete and authoritative truth.
+Which brings it back to where we started: Organizations need a source of truth outside the production SaaS applications they don't fully control, and Keepit provides that through an independent, immutable backup of their SaaS data. When production data can no longer be trusted or accessed — because of AI, an attacker, an outage, an error, or any other reason — that independent truth is what lets the business recover, move forward, and build its AI future on data it can trust.
+
+------------------------------------------------------------
+
 Source URL: https://www.keepit.com/blog/predictions-for-data-protection/
 Content type: Web page
 Last modified: 2026-01-23T12:19:07+01:00
@@ -5785,6 +5568,39 @@ Where to start
 Maturity in disaster recovery isn't about achieving perfection. It's about pursuing it and making the next most valuable improvement and building from there. Even small improvements compound to meaningfully reduce risk.
 A good starting point: Identify which SaaS data and identity services have to come back first for your business to keep operating. From there, validate that your backup is genuinely independent and immutable. Extend your testing scope beyond files to include identities, metadata, and object relationships. And take a hard look at your sovereignty situation — who controls the infrastructure your backup depends on, and which jurisdictions can assert authority over it.
 Want to learn more?
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/blog/when-the-cloud-goes-dark/
+Content type: Web page
+Last modified: 2026-07-31T16:12:40+02:00
+Retrieved: 2026-08-02
+
+============================================================
+
+When the cloud goes dark: Why resilience means planning for what you don't control
+Most resilience plans are still built around the systems an organization owns and operates directly: its own servers, applications, and primary cloud environment. That’s no longer where the real risk concentrates. Today, exposure increasingly lives in what an organization doesn’t own and can’t fully control, such as the software as a service (SaaS) applications it subscribes to, the identity providers and control planes those applications depend on, and increasingly, the AI tools layered on top of all of it.
+Resilience has to be designed around the dependencies outside your control, not just the systems inside it.
+Everything is more connected, so failures spread faster
+Organizations now run on a sprawling mix of SaaS applications, identity platforms, control planes, and APIs, all tightly integrated and dependent on each other. That interconnection is efficient, but it also means an outage in one piece can cascade into several more. Recovery isn’t as simple as switching everything back on. It has to be sequenced, often around a base layer of shared services, such as identity, DNS, and directory services, that everything else depends on before any single application comes back.
+The same dynamic plays out in operational technology (OT) environments in manufacturing, chemical, and oil and gas, where a firewall has traditionally kept IT and OT separate. As more organizations connect AI and cloud services into OT for the sake of speed or efficiency, that separation gets thinner and the stakes get higher. A failure here isn’t only a downtime problem; it can become a safety problem.
+AI adoption is outpacing AI governance
+The instinct to move fast is already here. In a February 2025 Cisco study of more than 2,500 CEOs, 97% said they plan to integrate AI into their operations, but only 1.7% said they feel fully prepared to do so. That gap has consequences: Gartner predicts that more than 40% of agentic AI projects will be canceled by the end of 2027, largely because of unclear business value, escalating costs, and inadequate risk controls.
+The same gap shows up in security and IT organizations specifically. The CIO MarketPulse Report, “Peer insights on AI adoption and the disaster recovery gap,” surveyed more than 300 IT and security leaders across the US, Europe, and Asia-Pacific. Of those respondents, 53% said they had fully implemented agentic AI systems and tools across their organization, and 67% said their IT and security teams have full control and clear governance over it. At the same time, 55% reported high concern about a lack of understanding of AI’s risks. Adoption is running ahead of the governance needed to manage it safely.
+Sovereignty is really about control, not self-sufficiency
+Data sovereignty comes up constantly in conversations with customers, and it’s often misread as building and hosting everything yourself. In practice, it’s more useful to separate application sovereignty — owning and running every system independently, which is expensive and impractical for most organizations — from data sovereignty: knowing you have control of your data, local access to it, and the ability to migrate it, regardless of what happens to any single provider. That’s a realistic bar most organizations can clear, and it’s the one that matters most when a hyperscaler or SaaS provider has a bad day.
+A practical framework, not another audit
+Certifications like ISO 27001 and SOC 2 Type 2, and frameworks tied to regulations such as the EU’s NIS2 Directive, the Cybersecurity Maturity Model Certification (CMMC), the Health Insurance Portability and Accountability Act (HIPAA), and the Digital Operational Resilience Act (DORA), are a baseline, not a finish line. None of them, on their own, tell you whether you’d survive a bad day.
+For that, I keep coming back to three pieces of advice:
+Categorize criticality
+- This is a business decision, not an IT one. Categorizing the criticality of a system or process has to happen with the department that depends on it — the operations lead, the plant manager, the head of finance, whoever owns the risk if that system goes down — not just the IT team that keeps it running. IT can tell you what’s technically fragile; only the business can tell you what’s actually critical and sign off on that call before an incident happens, not during one.
+Minimum viable recovery model
+- The recovery order gets set by those same business owners, not improvised by IT mid-incident. Agree in advance, with the department heads who’ll be affected, on what comes back online first, second, and last. Skip this and you get what I’ve seen happen more than once: every department demanding to be first in line, with no pre-agreed order to fall back on.
+Test regularly
+- Test regularly, at every level, including the parts of your environment you don’t fully control. Company-specific tabletop exercises are useful, but the exercises that reveal the most are the ones that test what happens when a SaaS application, an identity provider, or another third-party dependency goes down, run by people other than the ones who built the runbooks.
+One point that I don’t think gets enough attention is this: Recovery isn’t done when the systems are back up. I’ve seen organizations recover fully from a ransomware attack within weeks, technically speaking, only to find that the people who did the recovering needed time to recover, too. Leadership expects a return to business as usual the moment systems are back online. The team, understandably, can’t always deliver that right away. Resilience planning has to account for people, not only infrastructure.
+If there’s one thing to take away
+Design resilience around the dependencies outside your control. Make it part of your overall IT and AI strategy, not an afterthought bolted onto every new SaaS decision. And define criticality, then test it, on a real schedule, against real scenarios, including the ones you don’t own. Different entry points, same conclusion: The organizations that come through a bad day intact are the ones that planned for the parts of the system they don’t own.
 
 ------------------------------------------------------------
 

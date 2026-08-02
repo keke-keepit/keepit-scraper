@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/security/data-centers/
 Content type: Web page
 Last modified: 2026-03-09T23:58:27+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -16,27 +16,31 @@ As Keepit owns its own cloud and stores data in local data centers, customers ca
 Data center locations
 To meet data sovereignty requirements, data is stored in Keepit’s data hosting locations in either Americas, Europe, or Asia-Pacific. Each data center location is completely isolated from each other, offering full data redundancy and sovereignty to our customers.
 With this structure, we keep four copies of data across at least two physical locations in each region. This ensures your data is always secure, accessible and compliant with local regulations. All data centers are ISO 27001 certified.
-Read more about data center certificationsCertified security
+Read more about data center certifications
+Certified security
 Keepit’s security certifications
 To ensure the highest operational security standards, Keepit holds both the ISO/IEC 27001 and the ISAE 3402-II certifications (audited by Deloitte annually).
 Our trusted data center partners
 Keepit’s primary data center partner is Equinix. Equinix data centers are globally recognized for exceptional levels of security. Each data center has full copies of user data, with two mirrored physical locations, our clients can rest assured that their data will always be available to them, regardless of their SaaS vendor’s status.
 Keepit can confidently guarantee that our infrastructure ensures all customers' data will remain in situ, with no middleware transmissions outside regions.
-Read more about Keepit's certificationsGet more visibility on your data
+Read more about Keepit's certifications
+Get more visibility on your data
 Visible data makes a business resilient, and this is exactly why Keepit has security and data insights functionality built into our data protection platform. With the data monitoring dashboard, you can quickly identify outliers and abnormal changes in data growth before it affects your business.
-Read more about data visibilitySustainability
+Read more about data visibility
+Sustainability
 Our data centers run on 100% renewable energy
 Since 2023, all our data centers located in the Americas and EMEA are powered by 100% renewable energy.
 Keepit reached this important green energy milestone ahead of other cloud-based backup vendors who store customer backups with Microsoft, Amazon, and Google. The three tech giants aim to become 100% emission-free between 2025 and 2030.
 Keepit’s primary data center partner Equinix is one of the world’s leading, green-by-design digital infrastructure companies to run data centers.
 More than green energy
 Beyond running data centers with 100% renewable energy, we take pride in having constructed our technology stack from the ground up, specifically designed to efficiently address data storage challenges. This approach reflects a commitment to optimizing resource utilization and delivering a service that is not only effective but also resource efficient.
-Read more about sustainability with KeepitThe intelligent choice
+Read more about sustainability with Keepit
+The intelligent choice
 Guaranteed data sovereignty, certified security, more visibility - all within a sustainable solution. Intelligently built solutions make for an intelligent choice.
 Intelligent data protection
 Explore Keepit’s enterprise-level SaaS backup solutions
 Read the case study
-Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.  
 Read the case study
 We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
 Read the case study

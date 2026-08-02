@@ -1,14 +1,121 @@
 Source URL: https://www.keepit.com/services/backup-google-workspace/
 Content type: Web page
 Last modified: 2025-02-23T21:41:25+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
+Google is not able to identify if data deletion was intentional or not. The data will be deleted and totally unrecoverable once past Google Workspace trash bin’s retention time, a mere 30-days later.
+Vault isn’t enough
+“Google Vault exports aren’t designed for large-scale backups. You can export data for a limited number of accounts and only for one Google service at a time.” Support.google.com
+It’s your responsibility
+ESG states only 13% of the businesses understood that SaaS data protection is their responsibility, not the SaaS vendor’s. Necessary protection of your data lies with you, not Google.
+Restore anything and everything: Emails, single users, or complete user accounts. Browse, search, and recover data across your Google Workspace apps.
+Simplicity first
+Easily delete, apply RTBF label, restore, and transfer data across users. Get facilitated day-to-day user data management in a protected environment.
+Highly secure
+Immediate data immutability to ransomware. Our storage and file system ensures top-tier data security. Robust and resilient against any and all data loss.
 We offer a simple, yet powerful, backup and recovery solution which protects your Google Workspace data from intentional or unintentional deletion by employees or external cyberattacks.
 Keepit for Google Workspace (formerly G suite) covers your favorite applications:
-- Gmail
-- Drive
-- Docs, Sheets, and Slides
-- Calendar and Tasks
-- Forms
+Data availability 24/7Granular and mass restore capabilitiesEasy setup, low maintenanceIntuitive UI and dashboardsFull auditing and traceabilityImmutable and tamper-proof data
+Data availability 24/7
+Get your Google Workspace (GSuite) data back in minutes.
+Specifically designed for admins, Keepit makes manual restore processes a thing of the past.â¯
+â¯â¯
+With ultra-fast smart search and restore features, you can restore multiple terabytes a day and get your Google Workspace data back into its original location along with original file structure and metadata.
+Granular and mass restore capabilities
+Our Restore Capabilities Include:â¯â¯
+In-place restore: Instantly get data back to where it originally resided
+In-place archives: In-place archives of your Public Folder content
+Cross-user restore: Easily migrate content from one user into another
+Download: Examine the data before a restoreâ¯â¯
+Shareable Links: Provide users with a secure link to their data
+Easy setup, low maintenance
+Fast federated search lets you search across all backup data so you can find what you need quickly.â¯â¯â¯
+â¯â¯
+Controllable smart search allows partial or even misspelled search terms to provide results.â¯â¯
+â¯â¯
+If you’re not sure what was lost, activating the Deleted Items View takes the guesswork out of finding lost data. You can view all data that ever existed and was backed up on a tenant.
+Intuitive UI and dashboards
+Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.â¯â¯
+â¯â¯
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.â¯â¯â¯
+â¯â¯
+You can integrate Keepit with your existing systems thanks to our API-only approach.
+Audit Logs: Track any user activity inside the Keepit platform, allowing you to monitor, review, and investigate any potential breaches.
+Job Monitor: Detect abnormalities in the job monitor and discover changes on a snapshot basis as well as the number of changes made.
+Data sovereignty: Keepit operates its own data centers in multiple regions globally, helping you meet sovereignty requirements.â¯
+The Right to be Forgotten: Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.â¯
+Security controls: Manage who has access to data and what permissions they have with granular Role-Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
+Immutable and tamper-proof data
+The application does not expose any APIs or other means that allow data overwrites. Furthermore, the application uses a blockchain algorithm, which makes any low-level tampering impossible and easily evident.â¯
+In addition, Keepit features a deletion retention of all configured backup connections of at least one month thereby completely protecting the customer from data loss due to ransomware attacks.
+Why companies globally trust us
+Business continuity
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+Vendor-independent cloud
+Mirrored infrastructure
+In line with the 3-2-1 backup rule and NIST framework
+Instant recovery
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+Fast, easy, and granular restore
+Rapid search and eDiscovery
+Preview files securely
+Secure file sharing
+Recover data intelligently
+Top-tier coverage
+Leading security
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+Certified, cloud-native design
+Resilient and immutable
+Always-on compliance
+Protect data in transit and at rest
+Configure retention policies
+Control access rights
+Monitor data to detect anomalies
+Cost effectiveness
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+Easy to budget
+Software and admin savings
+Drop unnecessary licensing costs
+Upgrades and maintenance included
+No hidden costs
+Revolutionary storage efficiency
+Scale with ease
+Outstanding simplicity
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+Truly simple and intuitive
+Less effort, more efficiency
+Easy deployment
+Set and forget
+Reduce admin time
+Quick and responsive support
+We needed an easy and cost-efficient set-up that was secure, GDPR-compliant, and which provided 100% uptime. That’s why we chose Keepit.
+Ken Schirrmacher
+Sr. Director of IT/Interim CIO at Park’N Fly
+Frequently asked questions
+Does Google back up data?
+Google Workspace does not include automatic backup and offers only minimal data protection against data deletions, overwrites, and ransomware. As a Google Workspace customer, you are responsible for ensuring the necessary protection of your data, not Google.
+Why do we need to back up Google Workspace data?
+Google Workspace does not include automatic backup and offers only minimal data protection against data deletions, overwrites, and ransomware. As a Google Workspace customer, you are responsible for ensuring the necessary protection of your data, not Google.
+Where does Keepit store Google Workspace backup data?
+Always within the data center region you specify. Currently we have six data center regions, each region operating two active-active mode data centers: EU-DK, EU-DE, UKI, USA, Canada, and APAC.
+How is Keepit different than any other Google Workspace data backup solutions?
+Keepit for Google Workspace (G Suite) is the world’s only independent cloud dedicated to backup and recovery. It's very easy to use and keeps your Google Workspace data highly secure, always available, and instantly restorable as Keepit’s storage is hot storage only.
+What is Keepit for Google Workspace price?
+To learn more and find the Service Offering that fits your need, check out our pricing page. and contact our sales team for pricing.
+Keepit’s pricing is all-inclusive. No hidden costs, no surprises.
+Is relying on Google’s default data protection not enough?
+Google’s default data protection does not protect you against human error, malicious actions, ransomware and hackers, and synchronization errors. So, as much as Google will likely never lose the data you are storing on their platform, they do not cover you if the data loss happens from your side. You are responsible for ensuring the necessary protection of your data.
+Do I need a backup solution if I already have Google Vault?
+Yes, Google Vault is not a backup tool.
+Google Vault is not designed to recover lost or corrupted data and it cannot perform a which is a critical feature of any third-party backup and recovery tool. Google itself explains why you shouldn’t use Google Vault as a backup tool on its support site.
+Are you certified by ISO27001, ISAE3402 PCI, AICPA SOC, HIPPA, or NIST?
+Further, uniquely to Keepit, our staff and software development are also ISO27001 certified – and not just our data centers as most vendors, so there’s no gaps. Read more here.
+Are you GDPR compliant?
+Of course, and we’re headquartered in Denmark, EU. Read more here.
+How often do you backup data?
+Twice daily. We’ve found trying more often doesn’t give our customers more successful and complete backups due to Microsoft throttling limitations.
+Get started today
+Experience the benefits and security of intelligent SaaS data protection.

@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — COMPANY
-Generated: 2026-07-26
+Generated: 2026-08-02
 Pages: 68
 ============================================================
 
@@ -18,13 +18,21 @@ Manage resilience and retain control when faced with emerging technologies and t
 Source URL: https://www.keepit.com/about-keepit/
 Content type: Web page
 Last modified: 2025-02-23T21:46:45+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
+We own and operate a vendor-independent cloud to provide next-level SaaS data protection. We offer all-inclusive, secure, and reliable backup and recovery services for your data.
 We secure your data from your most relied-upon SaaS apps like Microsoft 365 and Entra ID (formerly Azure AD). With the only vendor-independent cloud, we make future proofing all your company’s data not only possible, but extremely fast and easy.
 How? Over 20 years ago, our founders and CTO predicted that all software would be in the cloud as a service, and that this data must be protected. Why does this vision matter? It lead to our solution being completely purpose built for cloud SaaS data.
 And since we built our solution from scratch and own and operate our own data protection cloud, we can do exactly what we need to do — quickly. It doesn’t get more next level than that.
+Keepit today
+We’ve architected our own cloud via self-created and self-managed software and systems across global data centers. So, from a data processing standpoint, we're the only vendor involved. One vendor, one data processing. This level of simplicity is found everywhere across the Keepit solution.
+And we’re purpose built for the cloud — a design decision that’s a major advantage and one that contributes to our software’s leading security, efficiency, ease of use, and reliability.
+Our global network of independent data centers is designed with geographic redundancy and data sovereignty in mind, allowing customers to choose where their data is stored. This supports compliance with local regulations while strengthening resilience and control. No public cloud. No third-party subprocessors. Just complete transparency and independence.
+Secure by design, our role in your future is to stay two steps ahead of whatever comes along that could disrupt your business.
+Altogether, Keepit defends your data against the growing list of threats that can disrupt business continuity, potentially costing you millions in downtime, lost revenue, fines from regulatory non-compliance, and damage to reputations.
+That way, you can relax, be ambitious, and have peace of mind knowing that your data is always safe and always available.
 
 ------------------------------------------------------------
 
@@ -1113,7 +1121,7 @@ Pre-Christmas dinner and drinks
 Source URL: https://www.keepit.com/keepit-platform/
 Content type: Web page
 Last modified: 2026-03-30T22:38:57+02:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -1156,7 +1164,7 @@ Enhance security with Keepit’s Role-Based Access Control (RBAC). Assign roles 
 Proactive data monitoring
 Keepit’s Data Protection and Anomaly Detection Dashboards help maintain backup integrity and health and allow for early identification, investigation, and remediation of risks to data.
 Read the case study
-Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.  
 Read the case study
 We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
 Read the case study
@@ -1202,16 +1210,102 @@ Keepit helps IT and Security leaders mitigate these challenges.
 Source URL: https://www.keepit.com/m365-demo/
 Content type: Web page
 Last modified: 2025-06-06T00:32:40+02:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
-Oops! Mistakes hurt
-Mistakes happen every day. Your users and administrators have access to your most vital data, and one accidental deletion means losing the critical data you rely on the most. A reliable Microsoft 365 backup helps you recover quickly from human error.
+Mistakes happen every day. Your users and administrators have access to your most vital data, and one accidental deletion means losing the critical data you rely on the most. A reliableMicrosoft 365 backup helps you recover quickly from human error.
 Security threats
-Data loss from security breaches, such as ransomware and malicious deletion, will lead you to lose access to your data. Without a Microsoft 365 backup in place, your SaaS data can be lost forever.
+Data loss from security breaches, such as ransomware and malicious deletion, will lead you to lose access to your data. Without a Microsoft 365backup in place, your SaaS data can be lost forever.
 Access is key to compliance
 To comply, you need uninterrupted access to your data, and any data loss or disruption, such as Microsoft service outages, may lead to failures to comply. With Keepit, it’s easy.
+—forming a strong foundation for a trustedMicrosoft 365 cloud backup strategy.
+Recover in minutes
+Fast smart search allows you to easily find any data or user across all your services/apps and quickly recover it e.g., in place, share it, or PST download—making Microsoft 365 backup fast and efficient.
+Full coverage
+Protect all key workloads with the most complete and granular coverage available. Our protection is described as “Top-tier” by Forrester.
+Get your Microsoft 365 data back in minutesDedicated independent cloudÂ Easy and fast searchDedicated storage architectureEasy setup, low maintenanceStreamline data governance
+Get your Microsoft 365 data back in minutes
+Specifically designed for admins, Keepit makes manual restore processes a thing of the past when managing backup Microsoft 365 environments.
+With ultra-fast smart search and restore features, you can restore multiple terabytes a day and get your M365 data back into its original location along with the original file structure and metadata.
+Dedicated independent cloud
+Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
+With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
+Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
+Easy and fast search
+Fast search
+Fast federated search lets you search across all backup data so you can find what you need quickly.
+Smart search
+Controllable smart search allows partial or even misspelled search terms to provide results.
+Deleted items view
+If you’re not sure what was lost, activating the Deleted Items View takes the guesswork out of finding lost data. You can view all data that ever existed and was backed up on a tenant.
+Dedicated storage architecture
+The Keepit infrastructure runs on software that was designed and built from the ground up by our team.
+Blockchain-like Merkle tree structure
+We created a uniquely powerful architecture that employs a blockchain-like Merkle tree structure that allows you to store data in an immutable format to prevent attackers from manipulating your backups so you can recover quickly with uncompromised backups.
+"Incremental forever"
+The architecture also employs an innovative “incremental forever” approach that delivers performance and cost benefits such as unlimited hot storage, no data tiering, unlimited archiving, and no snapshot expiration. These benefits would simply not be possible to provide on general-purpose storage services.
+Easy setup, low maintenance
+Get started in few minutes
+Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.
+Intuitive user interface
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
+API only
+You can integrate Keepit with your existing systems thanks to our API-only approach.
+Streamline data governance
+Audit Logs. Track any user activity inside the Keepit platform, allowing you to monitor, review, and investigate any potential breaches.
+Job Monitor. Detect abnormalities in the job monitor and discover changes on a snapshot basis as well as the number of changes made.
+Data sovereignty. Keepit operates its own data centers in multiple regions globally, helping you meet sovereignty requirements.
+The Right to be Forgotten. Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.
+Security controls. Manage who has access to data and what permissions they have with granular Role Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
+Why companies globally trust us
+Business continuity
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+Vendor-independent cloud
+Mirrored infrastructure
+In line with the 3-2-1 backup rule and NIST framework
+Instant recovery
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+Fast, easy, and granular restore
+Rapid search and eDiscovery
+Preview files securely
+Secure file sharing
+Recover data intelligently
+Top-tier coverage
+Leading security
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+Certified, cloud-native design
+Resilient and immutable
+Always-on compliance
+Protect data in transit and at rest
+Configure retention policies
+Control access rights
+Monitor data to detect anomalies
+Cost effectiveness
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+Easy to budget
+Software and admin savings
+Drop unnecessary licensing costs
+Upgrades and maintenance included
+No hidden costs
+Revolutionary storage efficiency
+Scale with ease
+Outstanding simplicity
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+Truly simple and intuitive
+Less effort, more efficiency
+Easy deployment
+Set and forget
+Reduce admin time
+Quick and responsive support
+“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
+Nenad Ljubetic Head of IT, TALKE Group Germany
+Frequently asked questions
+Where will our data be stored?
+Always within the data center region you specify. Currently we have six data center regions: EU-DK, EU-DE, UKI, US, CA and APAC.
+Why back up Microsoft 365 data?
+As per Microsoft's responsibility model, the customer is responsible for keeping a backup of the data, not the cloud service provider. Read more
 
 ------------------------------------------------------------
 
@@ -3105,7 +3199,7 @@ We needed an easy and cost-efficient setup that is still secure and is compliant
 Source URL: https://www.keepit.com/search/
 Content type: Web page
 Last modified: 2024-04-25T09:26:16+02:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -3115,9 +3209,11 @@ Read the report
 Watch on-demand
 Watch now
 Download whitepaper
+Read the report
 Register now
 Careers at Keepit
 Find a partner
+Watch now
 results for
 
 ------------------------------------------------------------
@@ -3234,12 +3330,46 @@ Future-proof your data protection and ensure compliance with Keepit’s independ
 Source URL: https://www.keepit.com/use-cases/
 Content type: Web page
 Last modified: 2025-07-04T13:55:29+02:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
+We keep your vital SaaS data secure, compliant, and readily restorable, regardless of what comes your way. And we save you on costs while doing it. Here’s how we’ll benefit you:
+Day-to-day
+recovery
+Optimize
+IT efficiency
+Ensure
+compliance
+Disaster
+recovery
+Fast, granular, complete
+Day-to-day recovery
 Instant access, fast recovery. Any data loss can be disruptive, but with our granular data recovery and multiple restore options, you can get data back comprehensively and quickly with hot data storage, reducing negative impact to operations.
 “We are restoring missing data on a daily basis, and Keepit makes it possible for a single admin to manage the data of 1,500 users.”
+81% of Microsoft Office 365 users had to recover data, but only 15% were able to recover 100% of their data.
+Source: ESG, Keepit Technical Validation, 2021
+Saving on costs, increasing output
+Optimize IT efficiency
+SaaS license costs add up, departed user data is valuable, and it takes time to onboard and offboard. Make the most of your IT resources with Keepit to boost your ROI. Here’s how we’ll do it:
+Keep former employee user data active for free. Stop paying for departed users’ SaaS licenses AND keep their data live. It’s the best of both worlds.
+Save hours offboarding and restoring users. Save one hour* per user offboarding and one hour* per restore with Keepit. That’s hundred of hours and thousands of dollars.
+SaaS service for high ROI. 100% built for the cloud which means easy setup, low maintenance, hassle free data management, yet high reward: 163%* 3-year ROI!
+Staying compliant with all the regulations like HIPAA, GDPR, NIS2 (and more are coming) can be daunting. That’s why we help you handle it all, now and in the future, to ensure you stay compliant and avoid fines.
+Retain data for as long as you need to. Stay compliant with each and every regulation. Retain data securely for the time you are legally obligated, or longer if you need.
+Audits made easy. Quickly locate data across applications with enhanced search, extended filtering options, and audit logs.
+Fines prompted by top data breaches and privacy abuses in 2022 amounted to 2.7 billion dollars.
+Source: Forrester, Lessons Learned From The World's Biggest Data Breaches And Privacy Abuses, 2022
+Proactive cyber readiness
+Disaster recovery
+Always have access to your data, no matter what. Vital to disaster recovery readiness and proactive security is having backup data stored separately from the production data. Keepit’s true backup does this via our vendor-independent cloud, which makes it easy to adhere to the 3-2-1 backup rule.
+Disaster recovery and restoration. When a disaster occurs, get peace of mind knowing that your data is immutable, complete, and restorable. Having Keepit as part of your cyber-readiness plan means you can recover all of your data in the event of a disaster.
+Continuous data monitoring: Multi-workload insights and awareness in one platform view. Quickly identify outliers and abnormal changes in data growth in your backup to trigger appropriate investigation. Remain data resilient no matter what.
+75% of businesses have been victim of a successful ransomware attack in the last year.
+Source: ESG, ESG Ransomware Preparedness, 2023
+Services
+True third-party backup and recovery
+Keep your favorite SaaS application data and metadata immutable, always accessible, and quickly recoverable with our granular restore functionalities. With the broadest services coverage range and transparent pricing, you’ll see why Keepit is the best choice for minimizing risk, strengthening cyber resiliency, and ensuring business continuity.
 
 ------------------------------------------------------------
 
@@ -3308,7 +3438,7 @@ Download the RFI template to:
 Source URL: https://www.keepit.com/why-keepit/
 Content type: Web page
 Last modified: 2026-01-08T22:54:01+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -3356,7 +3486,7 @@ Predictable pricing model: Flat, per-user pricing with no hidden fees or added c
 Future-proof data protection: Scales with your needs, ensuring ROI, operational efficiency, and adaptability over time.
 Industry-leading support: Global support ready to assist whenever you need it.
 Read the case study
-Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.  
 Read the case study
 We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
 Read the case study

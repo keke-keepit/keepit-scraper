@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — PRESS
-Generated: 2026-07-26
+Generated: 2026-08-02
 Pages: 122
 ============================================================
 
@@ -80,8 +80,8 @@ For more brand assets, visit the Keepit brand center
 
 Source URL: https://www.keepit.com/press/
 Content type: Web page
-Last modified: 2026-07-22T14:00:10+02:00
-Retrieved: 2026-07-26
+Last modified: 2026-01-27T12:59:47+01:00
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -90,243 +90,362 @@ Press
 Company
 July 22, 2026
 Keepit brings SaaS data protection to the Pax8 Marketplace
-CompanyJuly 1, 2026
+Company
+July 1, 2026
 Keepit upsizes and refinances credit facilities to $90 million USD
-SecurityJune 30, 2026
+Security
+June 30, 2026
 Trust, verified: Keepit completes SOC 2 Type II audit, confirming security controls hold up over time
-AwardsJune 10, 2026
+Awards
+June 10, 2026
 Keepit earns TrustRadius Top Rated Award for the fifth year running
-AwardsJune 2, 2026
+Awards
+June 2, 2026
 Keepit wins 2026 Fortress Cybersecurity Award in Cloud Security
-CompanyMay 21, 2026
+Company
+May 21, 2026
 Keepit appoints James Dwyer as Chief Revenue Officer to accelerate global growth
-CompanyMay 4, 2026
+Company
+May 4, 2026
 Keepit executive Jill Miracle celebrated on the 2026 Women of the Channel List
-EventsApril 27, 2026
+Events
+April 27, 2026
 Keepit to present operational truths from real backup and restore data in webinar
-AwardsApril 23, 2026
+Awards
+April 23, 2026
 Cloud Computing Magazine names Keepit a 2026 Product of the Year Award winner
-ResearchApril 21, 2026
+Research
+April 21, 2026
 New survey highlights gap between perceived AI readiness and tested disaster recovery capability
-AwardsApril 16, 2026
+Awards
+April 16, 2026
 Keepit named âData Security Platform of the Yearâ by Data Breakthrough Awards
-CompanyMarch 27, 2026
+Company
+March 27, 2026
 Two Keepit channel executives recognized as 2026 CRN EMEA Channel Leaders
-CompanyMarch 26, 2026
+Company
+March 26, 2026
 Keepit Annual Data Report 2026 highlights the path from SaaS adoption to proven recovery readinessÂ
-AwardsMarch 23, 2026
+Awards
+March 23, 2026
 Keepit recognized as market leader at the 2026 Global Infosec AwardsÂ Â
-CompanyMarch 11, 2026
+Company
+March 11, 2026
 Keepit signs strategic agreement with Hammer Distribution
-AwardsFebruary 9, 2026
+Awards
+February 9, 2026
 Keepit receives 2025 Backup and Disaster Recovery Award from Cloud Computing Magazine
-CompanyJanuary 15, 2026
+Company
+January 15, 2026
 Keepit strengthens global channel leadership with consolidated, partner-first team
-AwardsDecember 19, 2025
+Awards
+December 19, 2025
 Keepit platform crowned in three categories at Security Todayâs Cybersecured Awards 2025
-CompanyDec 18, 2025
+Company
+Dec 18, 2025
 Keepit and Ingram Micro launch strategic go-to-market relationship in France
-ResearchDecember 16, 2025
+Research
+December 16, 2025
 Keepit named a Leader in IDC MarketScape for Worldwide SaaS Data Protection 2025-2026 Vendor Assessment
-CompanyDecember 10, 2025
+Company
+December 10, 2025
 Keepit and Ingram Micro form strategic relationship in PolandÂ
-CompanyDecember 1, 2025
+Company
+December 1, 2025
 Keepit and TIM AG enters distribution partnership for the DACH regionÂ
-SecurityNovember 26, 2025
+Security
+November 26, 2025
 Keepit successfully completes TISAX audit, demonstrating commitment to trusted information security
-AwardsOctober 28, 2025
+Awards
+October 28, 2025
 Keepit platform recognized for data protection and cyber resilience at 2025 Top InfoSec Innovator Awards
-CompanyOctober 20, 2025
+Company
+October 20, 2025
 Keepit at Gartner 2025: Recovery strategies to tackle hybrid threats, AI, shadow IT and shifting regulations
-AwardsOctober 9, 2025
+Awards
+October 9, 2025
 Keepit platform named âBusiness Continuity Cyber Solution of the Yearâ in 2025 Cybersecurity Breakthrough Awards ProgramÂ
-CompanySeptember 29, 2025
+Company
+September 29, 2025
 Keepit upsizes and refinances credit facilities to $60 million USDÂ
-AwardsSeptember 23, 2025
+Awards
+September 23, 2025
 Keepit recognized as a 2025 Stratus Award winner in Security
-CompanySeptember 18, 2025
+Company
+September 18, 2025
 Keepit appoints Jan Ursi to drive global success in the expanding channel ecosystem
-CompanySeptember 10, 2025
+Company
+September 10, 2025
 Keepit and Ingram Micro launch strategic sales agreement in Germany and Switzerland
-AwardsSeptember 2, 2025
+Awards
+September 2, 2025
 Keepit wins 2025 Cloud Computing Security Excellence Award
-ResearchAugust 20, 2025
+Research
+August 20, 2025
 New Foundry survey highlights need for immutable and segregated data storage Â
-CompanyAugust 18, 2025
+Company
+August 18, 2025
 Keepit and leading B2B platform company Ingram Micro announce strategic go-to-market relationship in Canada
-SecurityAugust 13, 2025
+Security
+August 13, 2025
 Keepit achieves SOC 2 Type 1 in a pivotal move toward full SOC 2 complianceÂ
-ProductJuly 29, 2025
+Product
+July 29, 2025
 Keepit to bring cyber resilience and vendor independence to the forefront at Black Hat USA 2025
-CompanyJune 30, 2025
+Company
+June 30, 2025
 Keepit appoints Thierry Bedos to accelerate growth in Southern Europe
-AwardsJune 10, 2025
+Awards
+June 10, 2025
 Keepit continues momentum with 2025 TrustRadius Top Rated Award
-CompanyJune 10, 2025
+Company
+June 10, 2025
 The French Tennis Federation chooses Keepit for independent backup of Microsoft data
-CompanyJune 2, 2025
+Company
+June 2, 2025
 Keepit continues its commitment to growth in the UK and Ireland with new VP hire
-AwardsMay 8, 2025
+Awards
+May 8, 2025
 Keepit recognized for excellence at the Cloud Security Awards 2025
-CompanyApril 30, 2025
+Company
+April 30, 2025
 Keepit named champion in Canalys Managed BDR Leadership Matrix 2025
-AwardsApril 28, 2025
+Awards
+April 28, 2025
 Keepit named leader in cyber resilience and data protection at Global InfoSec Awards during RSA Conference 2025
-CompanyApril 23, 2025
+Company
+April 23, 2025
 Keepit and leading B2B platform company Ingram Micro announce strategic go-to-market relationship in the UK
-AwardsApril 3, 2025
+Awards
+April 3, 2025
 Keepitâs intelligent platform named âData Security Solution of the Yearâ in 2025 Data Breakthrough Awards Program
-ProductApril 2, 2025
+Product
+April 2, 2025
 Keepit presents roadmap for the future of data protection
-AwardsMarch 13, 2025
+Awards
+March 13, 2025
 Keepit named Best Cybersecurity Backup Service by Business Awards UK for the second year in a row
-CompanyMarch 5, 2025
+Company
+March 5, 2025
 Intelligent data governance: Guiding CISOs and CIOs toward cyber resilience through data governance strategies
-CompanyFebruary 19, 2025
+Company
+February 19, 2025
 Keepit achieves exceptional growth in a tough 2024 market
-CompanyFebruary 14, 2025
+Company
+February 14, 2025
 Keepit webinar series: An intelligent approach to cyber resilience through data governance strategies
-AwardsJanuary 27, 2025
+Awards
+January 27, 2025
 Keepit receives 2024 Backup and Disaster Recovery Award from Cloud Computing Magazine
-AwardsJanuary 15, 2025
+Awards
+January 15, 2025
 Keepit celebrates dual wins at the 2024/25 Cloud Awards for intelligent backup and recovery solutions
-CompanyDecember 16, 2024
+Company
+December 16, 2024
 SaaS data protection and backup leader Keepit secures $50M in funding to accelerate growth and product innovation
-AwardsDecember 13, 2024
+Awards
+December 13, 2024
 Keepit platform triumphs at Security Todayâs CyberSecured Awards 2024
-AwardsNovember 29, 2024
+Awards
+November 29, 2024
 Keepit recognized for its green data centers by Business Awards UK, 2024 Corporate Sustainability Awards
-Inside KeepitNovember 21, 2024
+Inside Keepit
+November 21, 2024
 Keepit welcomes Fahad Qureshi as new VP of Sales for Americas and ANZ regions
-AwardsOctober 31, 2024
+Awards
+October 31, 2024
 Keepit wins big at Top Infosec Innovator 2024 awards, solidifying its role as a select platform for data security and ransomware protection
-AwardsOctober 30, 2024
+Awards
+October 30, 2024
 Keepit receives 2025 Buyerâs Choice Award from TrustRadius
-CompanyOctober 21, 2024
+Company
+October 21, 2024
 Keepit at Gartner 2024: Bridging data governance and disaster recovery
-CompanyOctober 10, 2024
+Company
+October 10, 2024
 Survey highlights growing concerns over SaaS data protection amid regulatory complexities
-CompanyOctober 1, 2024
+Company
+October 1, 2024
 Keepit appoints new Chief Product Officer to lead strategic development of SaaS data protection solutions
-EventsAugust 27, 2024
+Events
+August 27, 2024
 How hard is it to navigate and comply with global cybersecurity regulations?
-CompanyAugust 23, 2024
+Company
+August 23, 2024
 Keepit supports dairy company Emmi with SaaS data backup for Microsoft
-AwardsAugust 13, 2024
+Awards
+August 13, 2024
 Keepit platform named winner at the 2024 SaaS Awards
-ResearchJuly 23, 2024
+Research
+July 23, 2024
 CISOs and CIOs confront growing data protection challenges in the era of AI and cloud
-EventsJune 26, 2024
+Events
+June 26, 2024
 Keepit to present webinar on cyber insurance strategies as ransomware surges
-AwardsMay 10, 2024
+Awards
+May 10, 2024
 Keepit receives third consecutive Customer Top Rated Award from TrustRadius
-AwardsMay 8, 2024
+Awards
+May 8, 2024
 Keepit recognized for cyber resilience, compliance innovation and ransomware recovery in Global Infosec Awards 2024
-AwardsMay 7, 2024
+Awards
+May 7, 2024
 Keepit crowned a winner in 2024 Cloud Security Awardsâ¯â¯
-CompanyApril 16, 2024
+Company
+April 16, 2024
 Kim Larsen new Chief Information Security Officer at leading SaaS data protection vendor Keepit
-AwardsAprill 11, 2024
+Awards
+Aprill 11, 2024
 Keepit named Best Cybersecurity Backup Service by Business Awards UK, 2024 Cybersecurity and Resilience Awards
-CompanyApril 10, 2024
+Company
+April 10, 2024
 Keepit announces the opening of two new data centers in Switzerland
-CompanyApril 4, 2024
+Company
+April 4, 2024
 Keepit announces strategic go-to-market relationship with leading IT distributor Ingram Micro
-ResearchMarch 20, 2024
+Research
+March 20, 2024
 Study reveals Keepit gives customers up to 90% faster targeted restore time following a ransomware attack
-AwardsMarch 12, 2024
+Awards
+March 12, 2024
 Keepit triumphs at the 20th Annual 2024 GlobeeÂ® Awards for Cybersecurity
-StrategyFeb. 27, 2024
+Strategy
+Feb. 27, 2024
 Keepit opens UK headquarters to complete UK market entry
-ResearchFeb. 21, 2024
+Research
+Feb. 21, 2024
 New Total Economic Impact Study finds Keepit customers gained a 163% return on investment
-StrategyJan. 16, 2024
+Strategy
+Jan. 16, 2024
 Keepit unveils the Keepit Partner Network, evolving to a âpartner onlyâ strategy
-StrategyJan. 09, 2024
+Strategy
+Jan. 09, 2024
 Keepit secures $40 million in refinancing from HSBC Innovation Banking to boost growth
-AwardsDec. 19, 2023
+Awards
+Dec. 19, 2023
 Keepit honored with dual wins at Security Todayâs CyberSecured Awards 2023
-EventsDec. 4, 2023
+Events
+Dec. 4, 2023
 Keepit and Baptist Health to speak on SaaS data protection, cyber resilience and compliance
-EventsNov. 16, 2023
+Events
+Nov. 16, 2023
 How AI capabilities take SaaS data protection to the next level
-EventsNov. 2, 2023
+Events
+Nov. 2, 2023
 How to bolster cyber resilience and ignore ransomers.
-EventsOct. 11, 2023
+Events
+Oct. 11, 2023
 How to rapidly recover critical cloud data no matter what
-AwardsOct. 5, 2023
+Awards
+Oct. 5, 2023
 Keepit Recognized for Risk Management Innovation in 2023 CyberSecurity Breakthrough Awards Program
-ResearchAug. 29, 2023
+Research
+Aug. 29, 2023
 New Enterprise Strategy Group Study Shows Cyber Attacks Are Rapidly Increasing Despite Security Perimeter and Mitigation Strategies
-ProductJune 29, 2023
+Product
+June 29, 2023
 Leading SaaS Data Protection Provider Keepit Launches Backup and Recovery for Microsoft Azure DevOps
-CompanyMay 30, 2023
+Company
+May 30, 2023
 SaaS Data Protection Leader Keepit Appoints Craig Bumpus as Chief Revenue Officer
-CompanyMarch 27, 2023
+Company
+March 27, 2023
 Keepit, Global Leader in Cloud Backup and Recovery, Marks World Backup Day
-CompanyMarch 14, 2023
+Company
+March 14, 2023
 Keepit Completes Mission to Power All of its Data Centers in the Americas and EMEA with 100% Renewable Energy
-ProductFeb. 1, 2023
+Product
+Feb. 1, 2023
 SaaS Data Protection Leader Keepit Launches Cutting-Edge Solution: Keepit for Power BIÂ
-ProductNov. 29, 2022
+Product
+Nov. 29, 2022
 Leading SaaS Data Protection Provider Keepit Launches Advanced Protection for Microsoft Azure AD
-EventsNov. 29, 2022
+Events
+Nov. 29, 2022
 Keepit to Present at Gartner IT Infrastructure, Operations & Cloud Strategies Conference 2022
-ProductNov. 9, 2022
+Product
+Nov. 9, 2022
 Porsche Holding Salzburg Selects Keepit for Ransomware Protection
-StrategyJune 9, 2022
+Strategy
+June 9, 2022
 Keepit Secures Debt from Silicon Valley Bank in Partnership with VÃ¦kstfonden to Fuel Growth
-CompanyMay 17, 2022
+Company
+May 17, 2022
 Keepit Achieves Enterprise-Wide ISO/IEC 27001 Security Certification
-AwardsMay 11, 2022
+Awards
+May 11, 2022
 Keepit Receives Customer Top Rated Award from TrustRadius
-ResearchApril 19, 2022
+Research
+April 19, 2022
 ESG Study Reveals Granular and Air-gapped Backup Are Key in Data Recovery After a Ransomware Attack
-CompanyMarch 30, 2022
+Company
+March 30, 2022
 Keepit Announces Opening of Two Canadian Data Centers
-ResearchMarch 10, 2022
+Research
+March 10, 2022
 Independent Study Reveals Significant Operational Savings and Productivity Gains for Keepit Customers
-AwardsFeb. 7, 2022
+Awards
+Feb. 7, 2022
 Keepitâs Chris Braden and Simon Thomas Named as 2022 CRNÂ® Channel Chief
-ProductFeb. 2, 2022
+Product
+Feb. 2, 2022
 Leading SaaS Data Protection Provider Keepit Announces Support for Microsoft Azure Active Directory in Upcoming New Release
-StrategyJan. 26, 2022
+Strategy
+Jan. 26, 2022
 Keepit Establishes US Headquarters in Dallas to Complete US Market Entry
-ResearchDec. 15, 2021
+Research
+Dec. 15, 2021
 Keepit Named a Leader in SaaS Data Protection Report
-StrategyOct. 20, 2021
+Strategy
+Oct. 20, 2021
 Computerworld Denmark Covering Keepitâs Explosive Growth
-StrategyOct. 5, 2021
+Strategy
+Oct. 5, 2021
 Keepit is strengthening its position in the DACH region
-ProductApril 20, 2021
+Product
+April 20, 2021
 Zerto Announces: Zerto Backup for SaaS, powered by Keepit: Industry-Leading Backup and Recovery Solution for Managing and Protecting Cloud SaaS Data
-CompanyApril 8, 2021
+Company
+April 8, 2021
 Computerworld Features Keepit Co-founder
-CompanyMarch 31, 2021
+Company
+March 31, 2021
 Keepit CEO in Finans: A discussion about data responsibility
-CompanyOct. 27, 2020
+Company
+Oct. 27, 2020
 Techradar | Keepit
-CompanyOct. 26, 2020
+Company
+Oct. 26, 2020
 New data centre in the UK | Keepit
-StrategySept. 14, 2020
+Strategy
+Sept. 14, 2020
 Keepit raises $30 million to conquer the global Backup-as-a-Service market in the single largest Series-A SaaS investment in the Nordics
-StrategySept. 14, 2020
+Strategy
+Sept. 14, 2020
 Danish IT company raises DKK 190 million: Aims for wild growth
-CompanySept. 8, 2020
+Company
+Sept. 8, 2020
 You are still responsible for your data
-CompanyJuly 6, 2020
+Company
+July 6, 2020
 ITProPortal
-CompanyJune 4, 2020
+Company
+June 4, 2020
 Keepit CEO in Digitalisation World: An Opinion Piece on security
-CompanyMay 18, 2020
+Company
+May 18, 2020
 Who Is Leading Your Digital Transformation: The CEO, The CTO, or COVID-19?
-CompanyMarch 28, 2020
+Company
+March 28, 2020
 Coronavirus Is Becoming the Crucial Test for All Cloud Platforms, Already Showing Serious Signs of Weakness
-CompanyMarch 28, 2020
+Company
+March 28, 2020
 Keepit CEO talks about the yearly financial report and growth
-CompanyJan. 16, 2020
+Company
+Jan. 16, 2020
 Keepit Column in Finans: The cloud is incredible â but also incredibly dangerous
-CompanyNov. 27, 2019
+Company
+Nov. 27, 2019
 
 ------------------------------------------------------------
 
@@ -1813,7 +1932,7 @@ For more information visit www.keepit.com or follow Keepit on Linkedin.
 Source URL: https://www.keepit.com/press/idcleader/
 Content type: Web page
 Last modified: 2025-12-16T13:10:49+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -1822,20 +1941,20 @@ Copenhagen, Denmark — December 16, 2025 — Keepit, the SaaS data protection c
 “We built Keepit to give organizations control over their data—no matter what happens,” said Frederik Schouboe, Keepit Co-founder and Chief Visionary Officer. “We believe being named a Leader by the IDC MarketScape affirms the strength of our architecture and the impact it has on our customers. Our independent cloud, our immutable storage, and our focus on fast, intuitive recovery all reflect our belief that data protection should be simple, secure, and ready for the future.”
 Keepit platform core capabilities
 - Vendor-independent cloud infrastructure
- Keepit runs its own private cloud data centers across the EU (Denmark and Germany), Switzerland, the United Kingdom, the United States, Canada, and Australia. This dedicated infrastructure gives customers full data sovereignty and eliminates dependencies on public cloud platforms. It supports global compliance, long-term retention needs, and strong security postures.
+Keepit runs its own private cloud data centers across the EU (Denmark and Germany), Switzerland, the United Kingdom, the United States, Canada, and Australia. This dedicated infrastructure gives customers full data sovereignty and eliminates dependencies on public cloud platforms. It supports global compliance, long-term retention needs, and strong security postures.
 - Immutable by design architecture and security
- Keepit’s proprietary object storage uses a blockchain-like Merkle tree structure that ensures immutability by design. Encryption in transit and at rest, logical air-gapping, and anomaly detection further protect data from ransomware and ensure data integrity.
+Keepit’s proprietary object storage uses a blockchain-like Merkle tree structure that ensures immutability by design. Encryption in transit and at rest, logical air-gapping, and anomaly detection further protect data from ransomware and ensure data integrity.
 - Unified multi-SaaS protection
- The platform provides protection for a wide set of cloud applications, including Microsoft 365, Entra ID, Okta, Salesforce, Google Workspace, Atlassian, Dynamics 365, Azure DevOps, and Power Platform. Organizations manage all workloads through a single interface with built-in compliance, reporting, and audit support
+The platform provides protection for a wide set of cloud applications, including Microsoft 365, Entra ID, Okta, Salesforce, Google Workspace, Atlassian, Dynamics 365, Azure DevOps, and Power Platform. Organizations manage all workloads through a single interface with built-in compliance, reporting, and audit support
 - Advanced recovery and search
- Keepit offers point-in-time snapshots, rapid indexing, smart search with preview, cross-user and in-place restore options, and guided disaster recovery workflows. These capabilities are designed to reduce downtime and streamline the recovery process during critical incidents.
+Keepit offers point-in-time snapshots, rapid indexing, smart search with preview, cross-user and in-place restore options, and guided disaster recovery workflows. These capabilities are designed to reduce downtime and streamline the recovery process during critical incidents.
 - Predictable, transparent pricing
- Seat-based pricing with unlimited data retention, no egress or volume-based fees, and free offboarding removes cost uncertainty. This model makes budgeting simpler and eliminates surprise charges that are common in usage-based pricing approaches.
+Seat-based pricing with unlimited data retention, no egress or volume-based fees, and free offboarding removes cost uncertainty. This model makes budgeting simpler and eliminates surprise charges that are common in usage-based pricing approaches.
 Keepit’s innovation focus
 - API-driven, vendor-neutral architecture
- Keepit’s cloud-native platform is built from the ground up for SaaS workloads. Its modular design enables rapid onboarding of new applications as business needs evolve.
+Keepit’s cloud-native platform is built from the ground up for SaaS workloads. Its modular design enables rapid onboarding of new applications as business needs evolve.
 - Multi-tenant, MSP-ready capabilities
- The platform includes white-labeling and advanced tenant management features tailored for managed service providers, helping partners deliver scalable, efficient data protection services.
+The platform includes white-labeling and advanced tenant management features tailored for managed service providers, helping partners deliver scalable, efficient data protection services.
 Keepit’s platform differentiates itself because it owns the entire technology stack and uses no subprocessors or third-party infrastructure. This independence gives the company full freedom to innovate, remove external constraints, and evolve the platform at the pace customers and markets demand. By controlling every layer—from infrastructure to application logic—Keepit can respond quickly to emerging threats, expand protection across new SaaS services, and deliver capabilities shaped directly by customer needs.
 “Organizations rely on SaaS more than ever, and they need protection that is independent, resilient, and easy to use,” Schouboe added. “We believe this recognition from the IDC MarketScape reinforces our commitment to delivering a platform that meets those needs—today and as the ecosystem evolves.”
 About IDC MarketScape:

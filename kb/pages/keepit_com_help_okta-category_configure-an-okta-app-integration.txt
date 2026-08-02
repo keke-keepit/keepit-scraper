@@ -1,12 +1,12 @@
 Source URL: https://www.keepit.com/help/okta-category/configure-an-okta-app-integration/
 Content type: Web page
-Last modified: 2026-01-14T15:34:16+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-31T13:20:36+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
 Configure an Okta app integration
-Before setting up your Okta backup, you must first create an app integration and assign the necessary permissions to allow data access for backup and restore. Additionally, you'll need to prepare a user with the Super Administrator role to create and authenticate the connector.
+Before setting up your Okta backup, you must create an app integration and assign the necessary permissions to allow data access for backup and restore. You also need a user with the Super Administrator role to authenticate the connector.
 I. Assign admin role to user
 Before adding a new app integration, ensure that the user you’ll use to authenticate the connector has the appropriate role assigned. This role grants the necessary permissions for the connector to function correctly.
 1. In the left-hand navigation menu, open Security > Administrators.
@@ -20,8 +20,8 @@ II. Create a new app integration
 2. Click Create App Integration.
 3. Select OIDC - OpenID Connect from the available sign-in methods, then choose Web Application from the available application types.
 4. Click Next.
-5. Provide a meaningful name for your app integration, for example: "Keepit Beta Test Integration Application."
-6. Enable the Refresh Token grant type option.
+5. Enter a name for your app integration, for example: "Keepit Beta Test Integration Application."
+6. Enable the Refresh Token grant type.
 7. Enter the redirect URI that corresponds to your data center:
 Australia AU-SY: https://au-sy.keepit.com/desktop/oauth 
 Canada CA-TR: https://ca-tr.keepit.com/desktop/oauth 
@@ -30,11 +30,11 @@ Denmark DK-CO: https://dk-co.keepit.com/desktop/oauth
 United Kingdom UK-LD: https://uk-ld.keepit.com/desktop/oauth 
 United States US-DC: https://us-dc.keepit.com/desktop/oauth 
 Switzerland CH-ZH: https://ch-zh.keepit.com/desktop/oauth
-8. At the bottom of the page, in section Assignments, select Skip group assignment for now.
+8. In the Assignments section, select Skip group assignment for now.
 9. Click Save.
 III. Grant scopes
 1. In your newly created application, go to the Okta API Scopes tab.
-Note: If the list of scopes doesn't appear on this page, please wait a minute or two, then refresh the page and try again.
+Note: If the list of scopes doesn't appear on this page, wait a minute or two, then refresh the page and try again.
 2. Grant these scopes:
 Backup
 Required to perform the backup of Users, Groups, Apps, Mappings and all Security, Policies and Organization related items.

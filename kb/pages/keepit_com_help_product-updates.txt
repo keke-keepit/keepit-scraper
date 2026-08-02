@@ -1,12 +1,32 @@
 Source URL: https://www.keepit.com/help/product-updates/
 Content type: Web page
-Last modified: 2026-07-08T17:46:36+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-29T15:53:04+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
 Keepit product updates
 ââWhat's new in the Keepit Platform
+10.23.0 - What's New in the Keepit Platform
+Entra ID: easier restore of soft-deleted conditional access policies
+When you restore a deleted Conditional Access policy, Keepit now preserves the original policy ID, keeping your audit logs, sign-in correlation, and external references intact.
+What's new
+The Entra ID Connector now restores deleted Conditional Access (CA) policies through Microsoft's soft-delete path when the policy is available in the tenant's recycle bin. The restored policy retains its original ID, assignments, and configuration.
+Why it matters
+Restoring a CA policy now brings back the same object, not a like-named replacement. This also makes CA policy restore consistent with how Keepit already handles deleted Entra ID users — one predictable restore experience across the connector.
+GitHub: expanded coverage and restore support
+With this release Keepit now backs up and restores significantly more of your GitHub environment, adding recovery for repository configuration, team structure, pull requests, issues, labels, and more.
+What's new
+This new iteration of Keepit for GitHub adds restore support for five previously backup-only entities and introduces backup and restore for six new entity types:
+- Repository settings (visibility, default branch, merge strategy)
+- Repository collaborators with per-collaborator permission levels
+- Pull requests with full metadata
+- Teams including membership and hierarchy
+- Issues with titles, state, labels, assignees, and timestamps
+- Labels with conflict handling on restore
+- Pull request comments with authorship attribution
+Why it matters
+When an incident hits, your team can now recover repository settings, collaborator access, team structure, and the project context around your code - issues, labels, and pull request comments that preserve why decisions were made, not just what was shipped. Data that was only backed up in the previous version is now restorable, and the collaboration layer that carried your project's history is protected end to end.
 10.22.0 - What's New in the Keepit Platform
 Platform: Easier account identification
 We’re making it easier for you to confirm who’s signed in at a glance. Now the Keepit Platform will display a personalized identity block in the bottom-left corner after you log in, replacing generic login labels.
@@ -734,6 +754,13 @@ Ensure your organization has uninterrupted access to business critical Zendesk d
 The connector offers the secure backup of the following Zendesk data types: tickets, users, groups, organizations, views, macros, automations, and triggers.
 Use our platform features to find and recover your data, including the smart search, in-place restore, point-in-time recovery, data download, online preview, and secure link sharing.
 What's new in the Partner Management Console (PMC)
+10.23.0 - What's New in the PMC
+Product reassignment impact warning in the Partner Management Console
+Partners can now review a full impact summary before reassigning a product on a customer account, so configuration changes are always intentional and informed.
+What's new
+The Partner Management Console (PMC) now shows a comparison of the current and new product configuration before any reassignment takes effect. A warning modal surfaces which account properties will change, and partners must actively confirm the change before it applies. The confirmation event is recorded in the audit log, including the acting user, timestamp, and affected properties.
+Why it matters
+Reassigning a product can overwrite backup configuration in ways that are hard to reverse. This change gives partners the visibility and the explicit confirmation step they need to avoid accidental changes — reducing the risk of unintended data loss for end customers.
 10.20.0 - What's New in the PMC
 Keepit MCP toolkit for partners is now available
 Keepit MCP for Partners connects your preferred AI assistant directly to the Partner Management Console, enabling you to manage your entire customer portfolio through natural language — without navigating multiple PMC screens.

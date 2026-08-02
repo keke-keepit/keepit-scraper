@@ -1,0 +1,16 @@
+Source URL: https://www.keepit.com/help/entra-id-category/enable-advanced-backup-features-on-an-existing-entra-id-connector/
+Content type: Web page
+Last modified: 2026-07-30T13:59:25+02:00
+Retrieved: 2026-08-02
+
+============================================================
+
+Enable advanced backup features on an existing Entra ID connector
+Once your account is upgraded to Keepit for Entra ID Advanced, you can configure which data areas are included in your backup from the connector settings. By default, no advanced data areas are enabled — you need to turn them on manually.
+Enable advanced data areas
+1. Go to Connectors in the left navigation.
+2. Next to the Entra ID connector you want to configure, select the gear icon.
+3. Enable the toggle for each data area you want to include: Policies, Devices, App Registrations, Service Principals, and Activity Logs.
+4. Select Save.
+Changes take effect at the next scheduled backup.
+Note: If the advanced data areas aren't available in your connector settings, contact your Keepit contact or Support to confirm your account has been upgraded.

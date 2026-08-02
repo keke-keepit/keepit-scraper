@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — SERVICES
-Generated: 2026-07-26
+Generated: 2026-08-02
 Pages: 34
 ============================================================
 
@@ -1693,14 +1693,135 @@ What is covered?
 Source URL: https://www.keepit.com/services/backup-azure-devops/
 Content type: Web page
 Last modified: 2025-02-23T21:39:31+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
-Pipelines protection
+Protect Boards including work items, boards, backlogs, sprints, queries, delivery plans, and pipelines. Restore items with full metadata, including comments, custom fields, and attachments.
+Protect against day-to-day data loss
+Rapid recovery of “oops” deletions or changes. Instantly reset pipelines to known-good state to recover from mistakes or side effects.
+Strengthen security and compliance
+Long term immutable escrow copy of sensitive Azure DevOps data and compliance with various data protection regulations.
+Top benefits
+Secure your data
+With Keepit’s independent, purpose-built cloud and unique storage architecture and security, your data is immutable.
+Recover in minutes
+Fast smart search allows you to easily find any data or user across all your services/apps and quickly recover it e.g., in place, or share it.
+Comprehensive coverage
+Protect all key workloads with the most complete and granular coverage available. Our protection is described as “Top-tier” by Forrester.
 Azure DevOps Pipelines are the backbone of CI/CD (continuous integration and continuous development/deployment). Keepit protects these critical automations with “last known-good” point-in-time restores and change identification that help you quickly roll back your pipelines to a good state and keep your DevOps on track.
 Boards protection
 Azure DevOps Boards plays a pivotal role in project management and enables teams to drive both effectiveness and efficiency through collaboration, optimization, and visualization. Ensuring Boards data is never lost or inaccessible is key to minimizing risk of disruption. Keepit’s backup includes work items, boards, backlogs, team sprints, queries, and delivery plans.
+The all-inclusive Keepit platform
+What's included:
+User
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+Get your Azure DevOps data back in minutesGranular and fast restoreEasy and fast searchSimple setup, low maintenanceStreamline data governanceDedicated independent cloud
+Get your Azure DevOps data back in minutes
+Keepit’s comprehensive protection and fast recovery for your Azure DevOps Boards and Pipelines data and metadata. Our granular protection delivers fast recovery to minimize disruption to mission-critical activities.
+Granular and fast restore
+Our Restore Capabilities Include:â¯â¯
+In-Place Restore
+Instantly get data back to where it originally residedâ¯â¯
+In-Place Archives
+In-place archives of your Public Folder contentâ¯â¯
+Cross-User Restore
+Easily migrate content from one user into anotherâ¯â¯
+Download
+Examine the data before a restoreâ¯â¯
+Shareable Links
+Provide users with a secure link to their dataâ¯â¯
+Easy and fast search
+Fast search
+Fast federated search lets you search across all backup data so you can find what you need quickly.
+Smart search
+Controllable smart search allows partial or even misspelled search terms to provide results.
+Deleted items view
+If you’re not sure what was lost, activating the Deleted Items View takes the guesswork out of finding lost data. You can view all data that ever existed and was backed up on a tenant.
+Simple setup, low maintenance
+Get started in few minutes
+Get started and configure your first backup in just a few minutes. Once deployed, it's a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.
+Intuitive user interface
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
+API only
+You can integrate Keepit with your existing systems thanks to our API-only approach.
+Streamline data governance
+Audit Logs. Track any user activity inside the Keepit platform, allowing you to monitor, review, and investigate any potential breaches.
+Job Monitor. Detect abnormalities in the job monitor and discover changes on a snapshot basis as well as the number of changes made.
+Data Sovereignty. Keepit operates its own data centers in multiple regions globally, helping you meet sovereignty requirements.
+The Right to be Forgotten. Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.
+Security Controls. Manage who has access to data and what permissions they have with granular Role Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
+Dedicated independent cloud
+Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
+With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
+Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
+Why companies globally trust us
+Business continuity
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+Vendor-independent cloud
+Mirrored infrastructure
+In line with the 3-2-1 backup rule and NIST framework
+Instant recovery
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+Fast, easy, and granular restore
+Rapid search and eDiscovery
+Preview files securely
+Secure file sharing
+Recover data intelligently
+Top-tier coverage
+Leading security
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+Certified, cloud-native design
+Resilient and immutable
+Always-on compliance
+Protect data in transit and at rest
+Configure retention policies
+Control access rights
+Monitor data to detect anomalies
+Cost effectiveness
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+Easy to budget
+Software and admin savings
+Drop unnecessary licensing costs
+Upgrades and maintenance included
+No hidden costs
+Revolutionary storage efficiency
+Scale with ease
+Outstanding simplicity
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+Truly simple and intuitive
+Less effort, more efficiency
+Easy deployment
+Set and forget
+Reduce admin time
+Quick and responsive support
+Frequently asked questions
+Where is Azure DevOps backup data stored?
+Your data will be securely stored in Keepit’s independent cloud. We run our own data center regions, operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have six data center regions in:
+Americas: Washington D.C., USA and Toronto, Canada
+Europe: London, United Kingdom
+EU: Copenhagen, Denmark and Frankfurt, Germany,
+Asia: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always go to that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, then Keepit will negotiate the moves with all affected customers prior to execution.
+What is the price?
+It depends on the Service Offering you choose. See more on our pricing page.
+Are you ISO27001, PCI, AICPA SOC, and ISAE3402 certified?
+Yes, to all the above.
+Further, uniquely to Keepit, our staff and software development are also ISO27001 certified — not just our data centers as most vendors. Read more.
+Are you GDPR compliant?
+We are GDRP compliant, and our HQ is located in Denmark, EU. Read more.
+How often do you back up data?
+Twice daily. We have found trying more often doesn’t give our customers more successful or complete backups due to Microsoft throttling limitations.
+Get started today
+Experience the benefits and security of intelligent SaaS data protection.
 
 ------------------------------------------------------------
 
@@ -2045,17 +2166,124 @@ Once a customer chooses a Keepit region for backup, their data never leaves that
 Source URL: https://www.keepit.com/services/backup-google-workspace/
 Content type: Web page
 Last modified: 2025-02-23T21:41:25+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
+Google is not able to identify if data deletion was intentional or not. The data will be deleted and totally unrecoverable once past Google Workspace trash bin’s retention time, a mere 30-days later.
+Vault isn’t enough
+“Google Vault exports aren’t designed for large-scale backups. You can export data for a limited number of accounts and only for one Google service at a time.” Support.google.com
+It’s your responsibility
+ESG states only 13% of the businesses understood that SaaS data protection is their responsibility, not the SaaS vendor’s. Necessary protection of your data lies with you, not Google.
+Restore anything and everything: Emails, single users, or complete user accounts. Browse, search, and recover data across your Google Workspace apps.
+Simplicity first
+Easily delete, apply RTBF label, restore, and transfer data across users. Get facilitated day-to-day user data management in a protected environment.
+Highly secure
+Immediate data immutability to ransomware. Our storage and file system ensures top-tier data security. Robust and resilient against any and all data loss.
 We offer a simple, yet powerful, backup and recovery solution which protects your Google Workspace data from intentional or unintentional deletion by employees or external cyberattacks.
 Keepit for Google Workspace (formerly G suite) covers your favorite applications:
-- Gmail
-- Drive
-- Docs, Sheets, and Slides
-- Calendar and Tasks
-- Forms
+Data availability 24/7Granular and mass restore capabilitiesEasy setup, low maintenanceIntuitive UI and dashboardsFull auditing and traceabilityImmutable and tamper-proof data
+Data availability 24/7
+Get your Google Workspace (GSuite) data back in minutes.
+Specifically designed for admins, Keepit makes manual restore processes a thing of the past.â¯
+â¯â¯
+With ultra-fast smart search and restore features, you can restore multiple terabytes a day and get your Google Workspace data back into its original location along with original file structure and metadata.
+Granular and mass restore capabilities
+Our Restore Capabilities Include:â¯â¯
+In-place restore: Instantly get data back to where it originally resided
+In-place archives: In-place archives of your Public Folder content
+Cross-user restore: Easily migrate content from one user into another
+Download: Examine the data before a restoreâ¯â¯
+Shareable Links: Provide users with a secure link to their data
+Easy setup, low maintenance
+Fast federated search lets you search across all backup data so you can find what you need quickly.â¯â¯â¯
+â¯â¯
+Controllable smart search allows partial or even misspelled search terms to provide results.â¯â¯
+â¯â¯
+If you’re not sure what was lost, activating the Deleted Items View takes the guesswork out of finding lost data. You can view all data that ever existed and was backed up on a tenant.
+Intuitive UI and dashboards
+Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.â¯â¯
+â¯â¯
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.â¯â¯â¯
+â¯â¯
+You can integrate Keepit with your existing systems thanks to our API-only approach.
+Audit Logs: Track any user activity inside the Keepit platform, allowing you to monitor, review, and investigate any potential breaches.
+Job Monitor: Detect abnormalities in the job monitor and discover changes on a snapshot basis as well as the number of changes made.
+Data sovereignty: Keepit operates its own data centers in multiple regions globally, helping you meet sovereignty requirements.â¯
+The Right to be Forgotten: Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.â¯
+Security controls: Manage who has access to data and what permissions they have with granular Role-Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
+Immutable and tamper-proof data
+The application does not expose any APIs or other means that allow data overwrites. Furthermore, the application uses a blockchain algorithm, which makes any low-level tampering impossible and easily evident.â¯
+In addition, Keepit features a deletion retention of all configured backup connections of at least one month thereby completely protecting the customer from data loss due to ransomware attacks.
+Why companies globally trust us
+Business continuity
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+Vendor-independent cloud
+Mirrored infrastructure
+In line with the 3-2-1 backup rule and NIST framework
+Instant recovery
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+Fast, easy, and granular restore
+Rapid search and eDiscovery
+Preview files securely
+Secure file sharing
+Recover data intelligently
+Top-tier coverage
+Leading security
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+Certified, cloud-native design
+Resilient and immutable
+Always-on compliance
+Protect data in transit and at rest
+Configure retention policies
+Control access rights
+Monitor data to detect anomalies
+Cost effectiveness
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+Easy to budget
+Software and admin savings
+Drop unnecessary licensing costs
+Upgrades and maintenance included
+No hidden costs
+Revolutionary storage efficiency
+Scale with ease
+Outstanding simplicity
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+Truly simple and intuitive
+Less effort, more efficiency
+Easy deployment
+Set and forget
+Reduce admin time
+Quick and responsive support
+We needed an easy and cost-efficient set-up that was secure, GDPR-compliant, and which provided 100% uptime. That’s why we chose Keepit.
+Ken Schirrmacher
+Sr. Director of IT/Interim CIO at Park’N Fly
+Frequently asked questions
+Does Google back up data?
+Google Workspace does not include automatic backup and offers only minimal data protection against data deletions, overwrites, and ransomware. As a Google Workspace customer, you are responsible for ensuring the necessary protection of your data, not Google.
+Why do we need to back up Google Workspace data?
+Google Workspace does not include automatic backup and offers only minimal data protection against data deletions, overwrites, and ransomware. As a Google Workspace customer, you are responsible for ensuring the necessary protection of your data, not Google.
+Where does Keepit store Google Workspace backup data?
+Always within the data center region you specify. Currently we have six data center regions, each region operating two active-active mode data centers: EU-DK, EU-DE, UKI, USA, Canada, and APAC.
+How is Keepit different than any other Google Workspace data backup solutions?
+Keepit for Google Workspace (G Suite) is the world’s only independent cloud dedicated to backup and recovery. It's very easy to use and keeps your Google Workspace data highly secure, always available, and instantly restorable as Keepit’s storage is hot storage only.
+What is Keepit for Google Workspace price?
+To learn more and find the Service Offering that fits your need, check out our pricing page. and contact our sales team for pricing.
+Keepit’s pricing is all-inclusive. No hidden costs, no surprises.
+Is relying on Google’s default data protection not enough?
+Google’s default data protection does not protect you against human error, malicious actions, ransomware and hackers, and synchronization errors. So, as much as Google will likely never lose the data you are storing on their platform, they do not cover you if the data loss happens from your side. You are responsible for ensuring the necessary protection of your data.
+Do I need a backup solution if I already have Google Vault?
+Yes, Google Vault is not a backup tool.
+Google Vault is not designed to recover lost or corrupted data and it cannot perform a which is a critical feature of any third-party backup and recovery tool. Google itself explains why you shouldn’t use Google Vault as a backup tool on its support site.
+Are you certified by ISO27001, ISAE3402 PCI, AICPA SOC, HIPPA, or NIST?
+Further, uniquely to Keepit, our staff and software development are also ISO27001 certified – and not just our data centers as most vendors, so there’s no gaps. Read more here.
+Are you GDPR compliant?
+Of course, and we’re headquartered in Denmark, EU. Read more here.
+How often do you backup data?
+Twice daily. We’ve found trying more often doesn’t give our customers more successful and complete backups due to Microsoft throttling limitations.
+Get started today
+Experience the benefits and security of intelligent SaaS data protection.
 
 ------------------------------------------------------------
 
@@ -2499,26 +2727,64 @@ Twice daily. We have found trying more often doesn’t give our customers more s
 Source URL: https://www.keepit.com/services/backup-microsoft-365/microsoft-teams/
 Content type: Web page
 Last modified: 2025-02-23T21:37:29+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
 Now that you've implemented Microsoft Teams, you need to protect this data, too. Always stay in control of your Teams data with the most complete backup and recovery on the market.Born in the cloud, Keepit protects businesses from damaging data loss with rock-solid security and easy restore into Teams.
 Customers worldwide choose Keepit as their third-party backup provider for safeguarding their data. A proper backup and recover strategy is key to ensuring your business continues during any disruption or data loss, something that Microsoft expects you to do.
+"We recommend that you regularly backup Your Content and Data that you store on the Services or store using Third-Party Apps and Services."
+Microsoft Service Agreement
+Section 6b
+Top three reasons to protect your Teams data with Keepit
+Best-in-class coverage
+Keepit offers the most complete backup and recovery, including private and public channels, channel chat, Tasks by Planner, Wiki, files, and attachments: All covered for in-place restore.
+Remarkably easy recovery
+Simple and intuitive design, intelligent search, and versatile restore options. Created for you to easily manage your data, ensuring business continuity.
+Predictable pricing
+All-inclusive pricing, matched to your user accounts, includes everything: retention, infrastructure, compliance, and certificates. No hidden costs and unlimited storage.
+Introducing Keepit for Microsoft Teams
+Keepit for Teams makes manual, time-consuming backup and recovery processes a thing of the past.
+Built in the cloud, for the cloud, Keepit gives you:
+Smart Search. Find your data at lightning speed with Keepit's Smart Search.
+File Previewer. Previewing the file ensures you restore the right data.
+Restore Options. Perform in-place restores to Teams, download data directly, or create a secure, shareable link.
+And many more features, so that you are always in control of your data.
+"We considered Microsoft's backup and archiving capabilities to be insufficient for our purposes and were impressed by the scope of Keepit's backup and archiving capabilities, as well as the granularity of their restore function."
+Thomas Ulrich
+Head of Digital Workplace & Support Services, Saxo Bank
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/services/backup-microsoft-365/sharepoint-online/
 Content type: Web page
 Last modified: 2025-02-23T21:38:07+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
+Protect business-critical data stored in SharePoint Online
 3 out of 5 information security and SharePoint admin professionals say that their organization doesn’t do a good job in managing how users interact with confidential and sensitive data stored in SharePoint.
-- An ESG report shows that 43% of SaaS data loss is due to human error. What if you lose SharePoint online data as a result of accidental or malicious deletion by employees?
-- Microsoft expects you to back up your SharePoint data. The responsibility is yours when it comes to SaaS data protection (which includes SharePoint online.)
-- Have you considered compliance? Businesses that manage SharePoint online data must comply with worldwide regulations like GDPR, NIS2, SOX, HIPAA, and PCI DSS.
+An ESG report shows that 43% of SaaS data loss is due to human error. What if you lose SharePoint online data as a result of accidental or malicious deletion by employees?
+Have you considered compliance? Businesses that manage SharePoint online data must comply with worldwide regulations like GDPR, NIS2, SOX, HIPAA, and PCI DSS.
+Risk of disrupting business: SharePoint is used to store business-critical information, such as financial records, project plans, contracts, and patients’ medical records. Losing SharePoint data can disrupt your operations, leading to a drop in productivity and missed deadlines.
+Paying penalty fees for non-compliance: Organizations that manage SharePoint online data must meet data protection regulations worldwide. Failure to meet this compliance will lead to penalties and legal consequences.
+Cost of Recovery: Losing SharePoint data can be time-consuming and costly for the organization, potentially leading to lost IT personnel time, downtime, legal and regulatory costs, rebuilding costs, and the cost of permanently lost data.
+Damage to your business reputation: Data loss may lead to reputational damage. This can lead to a loss of trust among customers, as well as a loss of market share and revenue.
+Cut down SharePoint storage costs without losing access
+If you are currently protecting, or looking to protect, your Microsoft 365 data with Keepit, you can now add Hot Archive for SharePoint to move rarely used data out of production, cut storage costs, and keep every file fully accessible on demand.
+Why purchase this add-on?
+SharePoint Online quietly becomes one of the biggest line items in your Microsoft 365 bill. Sites multiply, files pile up, and soon you're paying production prices for data nobody opens. Most can't be deleted, so it stays in production, driving up storage costs. Traditional archiving fixes the cost but buries data in cold storage, adding friction right when you need it back.
+You can now purchase this add-on to Keepit for Microsoft 365 to effectively reduce storage costs while maintaining full access to sites and files.
+Top 5 reasons to choose Keepit for SharePoint Online backup
+Simplicity
+Best
+coverage
+Easy
+recovery
+Unlimited storage
+Security
+We were searching for a SaaS solution, and we didn’t want to back up all the data on-prem. Keepit’s simple, easy-to-use cloud backup delivered what we were looking for.
 
 ------------------------------------------------------------
 
@@ -2979,22 +3245,103 @@ Further, uniquely to Keepit, our staff and software development are also ISO2700
 Source URL: https://www.keepit.com/services/backup-power-platform/
 Content type: Web page
 Last modified: 2026-01-08T21:47:33+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
+In the cloud, it’s also your responsibility to protect your data, according to Microsoft’s shared responsibility model.
+Native backup is limited
+Microsoft’s native Power Platform backups are limited, often requiring full environment restores and offering no easy way to recover individual apps, flows, pages, or reports.
+Regular backups are a must do
+Don’t wait for data loss to happen to act. Regular backups are a must-do to mitigate risk of business disruption, financial loss, damage to a company's reputation, and even legal action.
+Top benefits
+Secure your data
+With Keepit’s independent, purpose-built cloud and unique storage architecture and security, your data are immutable.
+Restore your data in a snap
+Specifically designed for admins, Keepit makes manual restore processes a thing of the past.
+Stay compliant
+Stay compliant with internal and external business continuity, cybersecurity, and compliance controls.
 Your team relies on reports, apps, and automation to drive efficiency and keep the business moving. But what happens if data is lost due to user error, malicious activity, or an unexpected outage? With Keepit, you can safeguard your critical information and ensure your organization can recover quickly — no matter what.
-- Power Apps
-- Power Automate
-- Power Pages
-- Power BI
+Backup for Power Apps, Automate and PagesBackup for Power BIEasy setup, low maintenanceGranular restoreDedicated independent cloudÂ
+Backup for Power Apps, Automate and Pages
+Built by citizen developers, your apps and flows power daily operations.
+With Keepit, accidental deletions or changes aren’t a problem. Smart search and one-click restore let you recover apps and flows quickly, no technical expertise needed.
+Backup for Power BI
+Every day, organizations use Power BI insights to drive business outcomes. Ensure that data is there when you need it with Keepit’s backup and recovery.
+With ultra-fast smart search you can recover your Power BI data. Keep your reports running, uninterrupted, and fully protected.
+Easy setup, low maintenance
+Get started in few minutes
+Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.
+Intuitive user interface
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
+API-first
+You can integrate Keepit with your existing systems thanks to our API-first approach.
+Granular restore
+Recover exactly what you need — no need to restore entire environments, unlike native backup options. With Keepit’s hot storage, there’s no waiting and no wasted time, so your data, apps, and flows are back where they belong — fast and hassle-free.
+Dedicated independent cloud
+Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
+With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
+The all-inclusive Keepit platform
+What's included:
+User
+End-to-end infrastructure management
+Data traffic: No egress, ingress, or transaction fees
+Storage (immutable backup and retention)
+Installation (100% cloud based: no hardware, no upgrades)
+Maintenance, support, and updates
+Automatic backups
+Security: Immutability, ransomware prevention with entire snapshot restore
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+Vendor-independent cloud
+Mirrored infrastructure
+In line with the 3-2-1 backup rule and NIST framework
+Instant recovery
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+Fast, easy, and granular restore
+Rapid search and eDiscovery
+Preview files securely
+Secure file sharing
+Recover data intelligently
+Top-tier coverage
+Leading security
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+Certified, cloud-native design
+Resilient and immutable
+Always-on compliance
+Protect data in transit and at rest
+Configure retention policies
+Control access rights
+Monitor data to detect anomalies
+Cost effectiveness
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+Easy to budget
+Software and admin savings
+Drop unnecessary licensing costs
+Upgrades and maintenance included
+No hidden costs
+Revolutionary storage efficiency
+Scale with ease
+Outstanding simplicity
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+Truly simple and intuitive
+Less effort, more efficiency
+Easy deployment
+Set and forget
+Reduce admin time
+Quick and responsive support
+“If you don't have third-party backup and Microsoft cannot restore your data, you're just out of luck. We went with Keepit to ensure both consistent backup and long-term retention of our data."
+Ken Schirrmacher
+Sr. Director of IT/Interim CIO at Park’N Fly
+Get started today
+Experience the benefits and security of intelligent SaaS data protection.
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/services/backup-salesforce/
 Content type: Web page
 Last modified: 2025-02-23T21:46:11+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -3041,10 +3388,11 @@ Security: Immutability, ransomware prevention with entire snapshot restore
 Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
 Monitoring data to detect anomalies
 Minimal account administration
-“Keepit could become your company’s go-to backup and recovery tool for Salesforce, allowing you to not only safeguard all of your data but also have it readily available to restore, share, or permanently forget. The platform’s simplicity and ease of use alongside the independent cloud are sure to supercharge your backup and recovery strategy long term.”
+“Keepit could become your company’s go-to backup and recovery tool for Salesforce, allowing you to not only safeguard all of your data but also have it readily available to restore, share, or permanently forget. The platform’s simplicity and ease of use alongside the independent cloud are sure to supercharge your backup and recovery strategy long term.” 
 Andreea Doroftei
 Technical Instructor, Salesforce Ben
-Read the full reviewHow Keepit helps you
+Read the full review
+How Keepit helps you
 Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
 With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
 Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
@@ -3136,7 +3484,7 @@ Yes, you can combine Salesforce backup with your other favorite SaaS app backups
 Source URL: https://www.keepit.com/services/backup-zendesk/
 Content type: Web page
 Last modified: 2025-02-23T21:35:08+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -3236,7 +3584,6 @@ Top three reasons why you should backup your Zendesk data:
 - To protect your Automations, Macros, and Triggers from accidental deletion
 - To gain granular restore capability of your Zendesk data at any time, from anywhere
 - So you can retain deleted data longer than 40 days
- 
 Read more on why you must back up your Zendesk application and how this allows you to avoid 5 costly problems by reading this blog post.
 It depends on the Service Offering you choose. For more details, visit our pricing page
 Keepit provides:

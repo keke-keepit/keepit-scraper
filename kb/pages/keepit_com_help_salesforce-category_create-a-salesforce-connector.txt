@@ -1,12 +1,12 @@
 Source URL: https://www.keepit.com/help/salesforce-category/create-a-salesforce-connector/
 Content type: Web page
-Last modified: 2026-07-03T13:19:37+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-30T10:11:12+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
 Create a Salesforce connector
-This article explains how to install the managed package and create a Salesforce connector in Keepit. Before you begin, set up the Salesforce user Keepit authenticates with. For instructions, see Create a Salesforce user for Keepit.
+This article explains how to install the managed package and create a Salesforce connector in Keepit. Before you begin, set up the Salesforce user Keepit authenticates with. For instructions, see Set up a Salesforce user for Keepit.
 About the External Client App
 To connect Keepit to your Salesforce organization, you install a managed package called keepit-sf-managed-package. This package uses an External Client App (ECA) to handle OAuth authentication between Salesforce and Keepit, replacing the older Connected App setup method that Salesforce is phasing out.
 The package contains:

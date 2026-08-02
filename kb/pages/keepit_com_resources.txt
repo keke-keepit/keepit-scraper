@@ -1,72 +1,19 @@
 Source URL: https://www.keepit.com/resources/
 Content type: Web page
 Last modified: 2026-05-11T19:34:40+02:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
+When the cloud goes dark: Resilience lessons from hybrid threats
+Read customer case
+Read the report
+Watch on-demand
+Watch now
+Download whitepaper
+Read the report
+Register now
+Careers at Keepit
+Find a partner
+Watch now
 Filter content:
-Resource library
-Guide
-When disaster strikes: A guide on navigating SaaS data loss and recovery
-GuideChecklist: The hidden risks of unprotected identity systems?
-GuideChecklist: Would your team recover if your development data didnât?
-Product sheetKeepit Backup and Recovery for Jira Service Management
-Key takeawaysReady for tomorrow: Key takeaways on AI adoption and resilience
-ResearchG2 Keepit Compare Report
-ResearchG2 Keepit at-a-glance: Customer ratings and reviews
-Product sheetKeepit Backup and Recovery for monday.com
-ResearchPeer insights on AI adoption and the disaster recovery gap
-ResearchKeepit Annual Data Report 2026
-Key takeawaysReady for 2026: Key takeaways on cybersecurity trends and challengesÂ
-Product sheetKeepit Backup and Recovery for GitHub
-Analyst reportIDC MarketScape: Worldwide SaaS Data Protection 2025â2026 Vendor Evaluation
-Product sheetKeepit Backup and Recovery for Microsoft Power Platform
-GuideRFI template: Vendor evaluation for SaaS backup and recovery
-GuideYour vendor evaluation checklist: SaaS backup and recovery
-Product sheetKeepit Backup and Recovery for Miro
-Key takeawaysAre you breach ready? Key takeaways on how immutability minimizes damage
-White paperData sovereignty: Take control of your data
-Key takeawaysResilience under fire: Key takeaways on safeguarding against hybrid attacksÂ
-Product sheetKeepit Backup and Recovery for BambooHR
-Product sheetKeepit Backup and Recovery for Microsoft Azure DevOps
-GuideCyber storage by Keepit: The future of backupÂ
-Key takeawaysSecure by design: Key takeaways on rethinking data protection in the AI era
-Analyst reportIndependent technical validation of Keepitâs data protection platform
-Product sheetKeepit Backup and Recovery for Docusign
-GuideMastering disaster recovery: A SaaS DR maturity framework to move from reactive to managed
-Product sheetKeepit Backup and Recovery for Microsoft Dynamics 365
-White paperOverlooked and under protected: How the SaaS data gap threatens resilience
-Product sheetKeepit Backup and Recovery for Google Workspace
-Product sheetKeepit Backup and Recovery for Okta
-Key takeawaysThe SaaS data security imperative: Webinar key takeaways on risks, threats and resilienceÂ
-GuideObservability and intelligent insights with Keepit
-Product sheetKeepit Backup and Recovery for Jira and Confluence
-GuideIntelligent recovery with KeepitÂ
-Key takeawaysThe regulators made me do it: Webinar key takeaways on enhancing cyber resilience
-Key takeawaysData governance meets recovery: Webinar key takeaways on intelligent resilience
-GuideNavigating SEC and FINRA regulations
-Key takeawaysThe anatomy of recovery: Webinar key takeaways on intelligent disaster recovery
-ResearchThe SaaS data protection gap: Are organizations leaving critical SaaS applications unprotected?
-Product sheetKeepit Backup and Recovery for Microsoft Applications
-ResearchIntelligent data governance: Why taking control of your data is key for operational continuity and innovation
-GuideKeepit and the U.S. CLOUD Act
-Key takeawaysFrom threat to defense: Webinar key takeaways on ransomware and cyber insurance
-Key takeawaysThe compliance labyrinth: Webinar key takeaways
-GuideDORA compliance factsheet â How Keepit helps you comply
-ResearchProtection pulse: Assess your resilience
-GuideNIS2 and SaaS platforms â Your compliance checklist
-Key takeawaysHow to survive ransomware by mastering disaster recovery â Webinar key takeaways
-White paperNext-level SaaS data protection: Raising the bar for data protection in the cloud era
-GuideNIS2 Guide: What you can do now to prepare for compliance
-White paperSurvey: Can data protection keep pace with the shifting landscape?
-Key takeawaysThe ROI of ransomware recovery: Webinar key takeaways
-ResearchThe great balancing act: Cybersecurity leaders tackle rising pressures
-Key takeawaysPrepare for NIS2: Webinar key takeaways
-Key takeawaysSurviving ransomware: Webinar key takeaways
-GuideSEC guidelines: What you should do now to be compliant
-GuideWhy compliance and continuity is good business for healthcare organizations
-White paperKeepit data protection: GDPR compliance and readiness
-Analyst reportForrester Total Economic Impact of Keepit SaaS Data Protection
-Analyst reportESG Report: 2023 Ransomware Preparedness
-GuideGuide

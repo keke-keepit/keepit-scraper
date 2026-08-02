@@ -1,13 +1,13 @@
 Source URL: https://www.keepit.com/partners/partners-stories/quorum/
 Content type: Web page
 Last modified: 2024-03-27T23:39:39+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
 Why Austrian IT Security Specialist Quorum is Both a Keepit Partner and Customer
 As one of the country’s leading IT security specialists, Quorum ensures businesses throughout Austria meet complex data security and availability requirements. The decision to offer Keepit as part of their portfolio was a given. After all, Quorum themselves use Keepit to protect their business-critical data.
-As both a Keepit customer and partner,
+As both a Keepit customer and partner, 
 we are the ultimate proof of concept.
 Alexander Paral
 Managing Director, Quorum

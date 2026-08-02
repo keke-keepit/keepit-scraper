@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/press/idcleader/
 Content type: Web page
 Last modified: 2025-12-16T13:10:49+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -10,20 +10,20 @@ Copenhagen, Denmark — December 16, 2025 — Keepit, the SaaS data protection c
 “We built Keepit to give organizations control over their data—no matter what happens,” said Frederik Schouboe, Keepit Co-founder and Chief Visionary Officer. “We believe being named a Leader by the IDC MarketScape affirms the strength of our architecture and the impact it has on our customers. Our independent cloud, our immutable storage, and our focus on fast, intuitive recovery all reflect our belief that data protection should be simple, secure, and ready for the future.”
 Keepit platform core capabilities
 - Vendor-independent cloud infrastructure
- Keepit runs its own private cloud data centers across the EU (Denmark and Germany), Switzerland, the United Kingdom, the United States, Canada, and Australia. This dedicated infrastructure gives customers full data sovereignty and eliminates dependencies on public cloud platforms. It supports global compliance, long-term retention needs, and strong security postures.
+Keepit runs its own private cloud data centers across the EU (Denmark and Germany), Switzerland, the United Kingdom, the United States, Canada, and Australia. This dedicated infrastructure gives customers full data sovereignty and eliminates dependencies on public cloud platforms. It supports global compliance, long-term retention needs, and strong security postures.
 - Immutable by design architecture and security
- Keepit’s proprietary object storage uses a blockchain-like Merkle tree structure that ensures immutability by design. Encryption in transit and at rest, logical air-gapping, and anomaly detection further protect data from ransomware and ensure data integrity.
+Keepit’s proprietary object storage uses a blockchain-like Merkle tree structure that ensures immutability by design. Encryption in transit and at rest, logical air-gapping, and anomaly detection further protect data from ransomware and ensure data integrity.
 - Unified multi-SaaS protection
- The platform provides protection for a wide set of cloud applications, including Microsoft 365, Entra ID, Okta, Salesforce, Google Workspace, Atlassian, Dynamics 365, Azure DevOps, and Power Platform. Organizations manage all workloads through a single interface with built-in compliance, reporting, and audit support
+The platform provides protection for a wide set of cloud applications, including Microsoft 365, Entra ID, Okta, Salesforce, Google Workspace, Atlassian, Dynamics 365, Azure DevOps, and Power Platform. Organizations manage all workloads through a single interface with built-in compliance, reporting, and audit support
 - Advanced recovery and search
- Keepit offers point-in-time snapshots, rapid indexing, smart search with preview, cross-user and in-place restore options, and guided disaster recovery workflows. These capabilities are designed to reduce downtime and streamline the recovery process during critical incidents.
+Keepit offers point-in-time snapshots, rapid indexing, smart search with preview, cross-user and in-place restore options, and guided disaster recovery workflows. These capabilities are designed to reduce downtime and streamline the recovery process during critical incidents.
 - Predictable, transparent pricing
- Seat-based pricing with unlimited data retention, no egress or volume-based fees, and free offboarding removes cost uncertainty. This model makes budgeting simpler and eliminates surprise charges that are common in usage-based pricing approaches.
+Seat-based pricing with unlimited data retention, no egress or volume-based fees, and free offboarding removes cost uncertainty. This model makes budgeting simpler and eliminates surprise charges that are common in usage-based pricing approaches.
 Keepit’s innovation focus
 - API-driven, vendor-neutral architecture
- Keepit’s cloud-native platform is built from the ground up for SaaS workloads. Its modular design enables rapid onboarding of new applications as business needs evolve.
+Keepit’s cloud-native platform is built from the ground up for SaaS workloads. Its modular design enables rapid onboarding of new applications as business needs evolve.
 - Multi-tenant, MSP-ready capabilities
- The platform includes white-labeling and advanced tenant management features tailored for managed service providers, helping partners deliver scalable, efficient data protection services.
+The platform includes white-labeling and advanced tenant management features tailored for managed service providers, helping partners deliver scalable, efficient data protection services.
 Keepit’s platform differentiates itself because it owns the entire technology stack and uses no subprocessors or third-party infrastructure. This independence gives the company full freedom to innovate, remove external constraints, and evolve the platform at the pace customers and markets demand. By controlling every layer—from infrastructure to application logic—Keepit can respond quickly to emerging threats, expand protection across new SaaS services, and deliver capabilities shaped directly by customer needs.
 “Organizations rely on SaaS more than ever, and they need protection that is independent, resilient, and easy to use,” Schouboe added. “We believe this recognition from the IDC MarketScape reinforces our commitment to delivering a platform that meets those needs—today and as the ecosystem evolves.”
 About IDC MarketScape:

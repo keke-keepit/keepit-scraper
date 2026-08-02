@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/blog/backing-up-monday/
 Content type: Web page
-Last modified: 2026-05-05T10:31:48+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-27T16:37:36+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -20,7 +20,6 @@ Implementing a backup and recovery strategy is at the center of business continu
 - Security and compliance: immutable backups stored independently from monday.com, meeting regulatory requirements for data retention and business continuity
 - Ransomware defense: air-gapped storage protecting against any malicious threats
 - Operational continuity: ensures business continuity during service downtime 
- 
 Keepit platform secures your collaboration processes
 Product and creative teams across the globe rely on project management and collaboration tools to bring teams together as well as track and execute on cross-functional projects. Losing months of work due to an accidentally deleted board is a hassle nobody wants to face.
  

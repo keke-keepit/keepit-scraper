@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/customers/lasselsberger/
 Content type: Web page
 Last modified: 2024-03-27T23:38:23+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -20,7 +20,7 @@ Mario Hinterndorfer
 Head of Group IT Infrastructure, Lasselsberger
 Fast Recovery Saves Admin Time
 Now, less infrastructure specialists are required to administer all M365 data, as Keepit’s finding and recovery features make restore tasks super easy and fast. Retrieving data from past users was a true administrative nightmare before Keepit cloud backup; sharing data across Lasselsberger’s subsidiaries could take hours due to unstable internet connections. With Keepit’s intuitive UI and granular recovery features, finding and sharing data requires only minimal administrative effort.
-Sharing data only takes around 30 seconds. The backup solution provides great functions and flexibility, making our tasks simple and efficient.
+Sharing data only takes around 30 seconds. The backup solution provides great functions and flexibility, making our tasks simple and efficient. 
 Mario Hinterndorfer
 Head of Group IT Infrastructure, Lasselsberger
 Recovery is easy and agile with Keepit: Users receive a secure link with a custom expiration date, allowing them to choose the exact data they need to restore. Instant recovery is a key value to Lasselsberger’s infrastructure specialists who anticipate a major spike in Microsoft Teams and OneDrive users due to increased remote work during Covid-19.

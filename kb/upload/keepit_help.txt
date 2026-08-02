@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — HELP
-Generated: 2026-07-26
-Pages: 371
+Generated: 2026-08-02
+Pages: 372
 ============================================================
 
 Source URL: https://www.keepit.com/help/
@@ -4814,38 +4814,14 @@ Help center - Salesforce
 
 Source URL: https://www.keepit.com/help/autodesk-forma-category/autodesk-forma-coverage/
 Content type: Web page
-Last modified: 2026-07-09T09:22:21+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-31T13:14:01+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
 Autodesk forma coverage
 The table below shows the detailed backup and restore coverage for Keepit for Autodesk Forma.
-The table below shows the detailed backup and restore coverage for Keepit for Autodesk Forma.
-| Element | Backup Supported | Restore Supported | Comments | 
-| Users | |||
-| User definitions | â | â | |
-| User Projects | â | â | |
-| Project memberships | â | â | Membership across all Forma users in the tenant | 
-| Roles | â | â | |
-| Products | â | â | |
-| Projects | |||
-| Definitions | â | â | |
-| Sheets | â | â | |
-| Sheet collettions | â | â | |
-| Sheet versions | â | â | |
-| Files and folders | â | â | |
-| Packages | â | â | |
-| Issues | â | â | |
-| Issue comments | â | â | |
-| Issue attachments | â | â | |
-| Issue settings | â | â | |
-| Templates | â | â | |
-| Transmittals | â | â | |
-| Companies | |||
-| Definitions | â | â | |
-| User mappings | â | â | |
-| Projects mappings | â | â | |
+Note: Some fields retrieved from the Users endpoint come from the Autodesk Profile rather than the Forma profile. If the two profiles differ, the data may not match.
 
 ------------------------------------------------------------
 
@@ -8916,6 +8892,25 @@ For Entra ID Advanced:
  Important: Limiting the backup's activity log time span may shorten the initial backup duration.
 - Configure the backup of policies by clicking the gear icon
 5. Select Create. Your connector will be created and the first backup will be scheduled.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/help/entra-id-category/enable-advanced-backup-features-on-an-existing-entra-id-connector/
+Content type: Web page
+Last modified: 2026-07-30T13:59:25+02:00
+Retrieved: 2026-08-02
+
+============================================================
+
+Enable advanced backup features on an existing Entra ID connector
+Once your account is upgraded to Keepit for Entra ID Advanced, you can configure which data areas are included in your backup from the connector settings. By default, no advanced data areas are enabled — you need to turn them on manually.
+Enable advanced data areas
+1. Go to Connectors in the left navigation.
+2. Next to the Entra ID connector you want to configure, select the gear icon.
+3. Enable the toggle for each data area you want to include: Policies, Devices, App Registrations, Service Principals, and Activity Logs.
+4. Select Save.
+Changes take effect at the next scheduled backup.
+Note: If the advanced data areas aren't available in your connector settings, contact your Keepit contact or Support to confirm your account has been upgraded.
 
 ------------------------------------------------------------
 
@@ -17847,16 +17842,17 @@ Help center - Salesforce
 
 Source URL: https://www.keepit.com/help/miro-category/create-a-miro-connector/
 Content type: Web page
-Last modified: 2026-06-22T13:16:24+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-29T15:28:02+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
 Create a Miro connector
-Requirements
-Keepit for Miro only support Miro Enterprise plan customers.
-The user account used to set up the backup must be a company admin who is also a member of the team. Within the team, the user must have editor access for each space that needs to be included in the backup.
-These permissions ensure the user has the necessary access to back up and restore data successfully.
+Prerequisites
+Before you begin, confirm the following:
+- Keepit for Miro supports Miro Enterprise plan customers only.
+- The user account used to set up the backup must be a company admin who is also a member of the team. Within the team, the user must have editor access for each space that needs to be included in the backup.
+These permissions ensure the user account has the necessary access to back up and restore data successfully.
 Create a connector
 Follow these steps to create a Miro connector and set up your backup configuration.
 1. On the Connectors page, selectâ¯Add connectorâ¯>â¯Add Miro Ñonnector.â¯
@@ -17870,6 +17866,23 @@ Here you can:
 - Limit the retention periodâ¯by selecting theâ¯calendarâ¯icon
 7. Selectâ¯Create. 
 Your connector will be created, and the first backup will be scheduled.â¯
+Grant data access for all teams
+To ensure Keepit backs up your entire Miro organization, you must grant the Keepit application access to every team within the organization. Complete these steps after creating your connector.
+Note: Miro recently updated their data access policies for third-party apps. To ensure uninterrupted backup coverage or fix potential errors, verify that the Keepit application has the correct data access configured in your Miro organization settings. Follow the steps below.
+1. Go to miro.com and sign in as a user with the company admin role.
+2. On the Miro home page, select your user avatar.
+3. Select Admin Console.
+4. In the left navigation, expand Apps and integrations and select Apps.
+5. Select the Data access tab.
+6. Locate Keepit Backup and Recovery for Miro in the list.
+7. Check the Data access scope column.
+- If the scope is already set to All teams, no further action is needed.
+- If it isn't, continue with the steps below.
+8. Select the three-dot menu on the right side of the row, then select Edit.
+9. In the Edit panel, select the Permissions tab.
+10. Under Data scope, expand the dropdown and select Entire organization (all teams).
+11. Select Save.
+Keepit now has access to all teams in your Miro organization and can back up the full scope of your data.
 
 ------------------------------------------------------------
 
@@ -19357,13 +19370,13 @@ Help center - Salesforce
 
 Source URL: https://www.keepit.com/help/okta-category/configure-an-okta-app-integration/
 Content type: Web page
-Last modified: 2026-01-14T15:34:16+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-31T13:20:36+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
 Configure an Okta app integration
-Before setting up your Okta backup, you must first create an app integration and assign the necessary permissions to allow data access for backup and restore. Additionally, you'll need to prepare a user with the Super Administrator role to create and authenticate the connector.
+Before setting up your Okta backup, you must create an app integration and assign the necessary permissions to allow data access for backup and restore. You also need a user with the Super Administrator role to authenticate the connector.
 I. Assign admin role to user
 Before adding a new app integration, ensure that the user you’ll use to authenticate the connector has the appropriate role assigned. This role grants the necessary permissions for the connector to function correctly.
 1. In the left-hand navigation menu, open Security > Administrators.
@@ -19377,8 +19390,8 @@ II. Create a new app integration
 2. Click Create App Integration.
 3. Select OIDC - OpenID Connect from the available sign-in methods, then choose Web Application from the available application types.
 4. Click Next.
-5. Provide a meaningful name for your app integration, for example: "Keepit Beta Test Integration Application."
-6. Enable the Refresh Token grant type option.
+5. Enter a name for your app integration, for example: "Keepit Beta Test Integration Application."
+6. Enable the Refresh Token grant type.
 7. Enter the redirect URI that corresponds to your data center:
 Australia AU-SY: https://au-sy.keepit.com/desktop/oauth 
 Canada CA-TR: https://ca-tr.keepit.com/desktop/oauth 
@@ -19387,11 +19400,11 @@ Denmark DK-CO: https://dk-co.keepit.com/desktop/oauth
 United Kingdom UK-LD: https://uk-ld.keepit.com/desktop/oauth 
 United States US-DC: https://us-dc.keepit.com/desktop/oauth 
 Switzerland CH-ZH: https://ch-zh.keepit.com/desktop/oauth
-8. At the bottom of the page, in section Assignments, select Skip group assignment for now.
+8. In the Assignments section, select Skip group assignment for now.
 9. Click Save.
 III. Grant scopes
 1. In your newly created application, go to the Okta API Scopes tab.
-Note: If the list of scopes doesn't appear on this page, please wait a minute or two, then refresh the page and try again.
+Note: If the list of scopes doesn't appear on this page, wait a minute or two, then refresh the page and try again.
 2. Grant these scopes:
 Backup
 Required to perform the backup of Users, Groups, Apps, Mappings and all Security, Policies and Organization related items.
@@ -19400,43 +19413,42 @@ Required to perform the backup of Users, Groups, Apps, Mappings and all Security
 
 Source URL: https://www.keepit.com/help/okta-category/create-an-okta-connector/
 Content type: Web page
-Last modified: 2025-08-06T10:07:54+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-31T13:16:58+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
 Create an Okta connector
-Before creating your connector, you must first add an app integration in Okta. During this process, you will also obtain the organization host, application ID, and application secret—all of which are required to complete the connector setup.
-For details on how to create an app integration, go to: Configure an Okta app integration
+Before creating your connector, you must add an app integration in Okta. During this process, you also obtain the organization host, application ID, and application secret — all required to complete the connector setup.
+For instructions, go to: Configure an Okta app integration
 Preparation
 Obtain your organization host
-Your Okta organization host can be found in one of two ways:
-1. From the URL of your Okta organization
-Use the base domain of your Okta URL — do not include the -admin suffix.
+Your Okta organization host is available in two ways:
+From the URL of your Okta organization
+Use the base domain of your Okta URL. Don't include the -admin suffix.
 - â Example of a valid host: dev-12345678.okta.com
 - â Example of an invalid host (with -admin suffix): dev-12345678-admin.okta.com
-2. From the user context menu
-You can also retrieve the organization host from your app integration by opening the user context menu and copying the host from there.
-Note: In the examples above, the dev prefix indicates a developer account. If you're not using a developer account, your host will not include this prefix.
+From the user context menu
+Open the user context menu in your app integration and copy the host from there.
+Note: The dev prefix in the examples above indicates a developer account. If you're not using a developer account, your host won't include this prefix.
 Obtain your application ID and application secret
-You can obtain the application ID and application secret from your app integration.
+You can find both values in your app integration:
 - For the Application ID:
- In the Client Credentials section, click the copy button next to the Client ID field.
+In the Client Credentials section, click the copy button next to the Client ID field.
 - For the Application Secret:
- Scroll down to the Client Secrets section, and click the copy button next to the secret value.
+In the Client Secrets section, click the copy button next to the secret value.
 Add an Okta connector
 Follow these steps to create an Okta connector and set up your backup configuration.
-1. On the Connectors page, in the upper-right corner, selectâ¯Add connectorâ¯>â¯Add Okta Ñonnector.â¯
+1. On the Connectors page, select Add connector > Add Okta connector.
 2. Enter the your organization host, application ID, and application secret.
 3. Clickâ¯Sign inâ¯to begin the authentication process.
-4. On the Okta sign-in page, enter the credentials of the user who has been assigned both the Super Administrator role and access to the app integration.
-5. After authentication, you’ll be redirected to Keepit where you can configure your connector.
-Here you can:
+4. On the Okta sign-in page, enter the credentials of the user who has the Super Administrator role and access to the app integration.
+5. After authentication, you're redirected to Keepit where you can configure your connector. Here you can:
 - Change the name of the connector
 - Manage user access to the connectorâ¯by selecting theâ¯lockâ¯icon
 - Limit the retention periodâ¯by selecting theâ¯calendarâ¯icon
 6. Selectâ¯Create.
-Your connector will be created, and the first backup will be scheduled.â¯
+Keepit creates your connector and schedules the first backup.
 
 ------------------------------------------------------------
 
@@ -26296,13 +26308,33 @@ Note: The "Your connector needs to be reauthenticated" status will disappear onl
 
 Source URL: https://www.keepit.com/help/product-updates/
 Content type: Web page
-Last modified: 2026-07-08T17:46:36+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-29T15:53:04+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
 Keepit product updates
 ââWhat's new in the Keepit Platform
+10.23.0 - What's New in the Keepit Platform
+Entra ID: easier restore of soft-deleted conditional access policies
+When you restore a deleted Conditional Access policy, Keepit now preserves the original policy ID, keeping your audit logs, sign-in correlation, and external references intact.
+What's new
+The Entra ID Connector now restores deleted Conditional Access (CA) policies through Microsoft's soft-delete path when the policy is available in the tenant's recycle bin. The restored policy retains its original ID, assignments, and configuration.
+Why it matters
+Restoring a CA policy now brings back the same object, not a like-named replacement. This also makes CA policy restore consistent with how Keepit already handles deleted Entra ID users — one predictable restore experience across the connector.
+GitHub: expanded coverage and restore support
+With this release Keepit now backs up and restores significantly more of your GitHub environment, adding recovery for repository configuration, team structure, pull requests, issues, labels, and more.
+What's new
+This new iteration of Keepit for GitHub adds restore support for five previously backup-only entities and introduces backup and restore for six new entity types:
+- Repository settings (visibility, default branch, merge strategy)
+- Repository collaborators with per-collaborator permission levels
+- Pull requests with full metadata
+- Teams including membership and hierarchy
+- Issues with titles, state, labels, assignees, and timestamps
+- Labels with conflict handling on restore
+- Pull request comments with authorship attribution
+Why it matters
+When an incident hits, your team can now recover repository settings, collaborator access, team structure, and the project context around your code - issues, labels, and pull request comments that preserve why decisions were made, not just what was shipped. Data that was only backed up in the previous version is now restorable, and the collaboration layer that carried your project's history is protected end to end.
 10.22.0 - What's New in the Keepit Platform
 Platform: Easier account identification
 We’re making it easier for you to confirm who’s signed in at a glance. Now the Keepit Platform will display a personalized identity block in the bottom-left corner after you log in, replacing generic login labels.
@@ -27030,6 +27062,13 @@ Ensure your organization has uninterrupted access to business critical Zendesk d
 The connector offers the secure backup of the following Zendesk data types: tickets, users, groups, organizations, views, macros, automations, and triggers.
 Use our platform features to find and recover your data, including the smart search, in-place restore, point-in-time recovery, data download, online preview, and secure link sharing.
 What's new in the Partner Management Console (PMC)
+10.23.0 - What's New in the PMC
+Product reassignment impact warning in the Partner Management Console
+Partners can now review a full impact summary before reassigning a product on a customer account, so configuration changes are always intentional and informed.
+What's new
+The Partner Management Console (PMC) now shows a comparison of the current and new product configuration before any reassignment takes effect. A warning modal surfaces which account properties will change, and partners must actively confirm the change before it applies. The confirmation event is recorded in the audit log, including the acting user, timestamp, and affected properties.
+Why it matters
+Reassigning a product can overwrite backup configuration in ways that are hard to reverse. This change gives partners the visibility and the explicit confirmation step they need to avoid accidental changes — reducing the risk of unintended data loss for end customers.
 10.20.0 - What's New in the PMC
 Keepit MCP toolkit for partners is now available
 Keepit MCP for Partners connects your preferred AI assistant directly to the Partner Management Console, enabling you to manage your entire customer portfolio through natural language — without navigating multiple PMC screens.
@@ -27929,13 +27968,13 @@ Here you can:
 
 Source URL: https://www.keepit.com/help/salesforce-category/create-a-salesforce-connector/
 Content type: Web page
-Last modified: 2026-07-03T13:19:37+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-30T10:11:12+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
 Create a Salesforce connector
-This article explains how to install the managed package and create a Salesforce connector in Keepit. Before you begin, set up the Salesforce user Keepit authenticates with. For instructions, see Create a Salesforce user for Keepit.
+This article explains how to install the managed package and create a Salesforce connector in Keepit. Before you begin, set up the Salesforce user Keepit authenticates with. For instructions, see Set up a Salesforce user for Keepit.
 About the External Client App
 To connect Keepit to your Salesforce organization, you install a managed package called keepit-sf-managed-package. This package uses an External Client App (ECA) to handle OAuth authentication between Salesforce and Keepit, replacing the older Connected App setup method that Salesforce is phasing out.
 The package contains:

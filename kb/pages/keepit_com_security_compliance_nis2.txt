@@ -1,11 +1,50 @@
 Source URL: https://www.keepit.com/security/compliance/nis2/
 Content type: Web page
 Last modified: 2025-02-23T21:36:55+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
+From October 17, 2024, to protect Europe from cyberthreats, the new NIS2 directive enforces compliance with strict data security standards for organizations that are part of the critical infrastructure. Our cloud data backup and recovery solution is here to help.
 Is your company part of Europe’s critical infrastructure, directly or indirectly? And are you prepared to meet the NIS2 cybersecurity standards? Like GDPR, NIS2 brings a dramatic shift in cybersecurity risk management and reporting standards.
 Article 21 of the directive explicitly mandates the establishment of “robust backup and disaster recovery plans” to ensure business resilience and business continuity.
 Because if water, electricity and transportation is brought to a stop, recovery must be a matter of hours, not weeks.
 What implications does this have on your day-to-day business?
+NIS2 timeline
+Start now to ensure compliance
+Is your company part of Europe's critical infrastructure, directly or indirectly? And are you prepared to meet the NIS2 cybersecurity standards? Like GDPR, NIS2 brings a dramatic shift in cybersecurity risk management and reporting standards.
+Article 21 of the directive explicitly mandates the establishment of "robust backup and disaster recovery plans" to ensure business resilience and business continuity.
+Because if water, electricity and transportation is brought to a stop, recovery must be a matter of hours, not weeks.
+What implications does this have on your day-to-day business?
+0000
+October 17, 2024: The NIS2 implementation deadline has arrived
+Prepare for NIS2: Business continuity is critical. Here's how to get it right.
+What is NIS2 and its purpose?What is the cost of NIS2 non-compliance?When does NIS2 come into effect?
+What is NIS2 and its purpose?
+NIS2 seeks to enhance cybersecurity posture across the European Union. It establishes a comprehensive framework for managing and mitigating cybersecurity risks, particularly in critical sectors. It sets measures to improve the resilience of essential services and digital service providers, emphasizing prevention and response to cybersecurity incidents.
+NIS2 also focuses on harmonizing cybersecurity practices among EU members, fostering collaboration, and ensuring a higher level of cyber readiness.
+This is vital, as 75% of companies have experienced at least one cyberattack in the last 12 months, while only 40% have a well-defined incident response strategy that has been thoroughly tested, according to ESG’s “2023 Ransomware Preparedness: Lighting the Way to Readiness and Mitigation” report.
+Non-compliance with NIS2 carries serious consequences, ranging from non-monetary remedies and administrative fines to criminal sanctions. Essential entities, spanning sectors like finance and energy, face fines up to €10 million or 2% of global annual revenue, while important entities, including digital providers and manufacturing, can incur fines up to €7 million or 1.4% of global annual revenue.
+NIS2 introduces measures holding top management personally liable for gross negligence, promoting accountability in cybersecurity management. Organizations failing to adhere to NIS2 risk public disclosure of compliance violations and temporary bans on management roles for repeated breaches.
+When does NIS2 come into effect?
+NIS2 becomes enforceable on October 17, 2024, marking the crucial deadline for Member States to incorporate the directive into national law. Businesses must ensure full compliance from this date to avoid severe consequences, including financial penalties and reputational damage.
+The imperative is clear: companies need to be fully prepared and aligned with NIS2 requirements well before the October 17 deadline to navigate the evolving cybersecurity landscape successfully.
+NIS2 and your organization
+Who does NIS2 apply to?
+NIS2 casts a wide net, impacting entities vital to the European economy and society. Essential Entities including energy, finance, and health sectors that, generally speaking, have 250 employees or an annual turnover of €50 million. Important Entities, spanning postal services, chemicals, and manufacturing with 50 employees or €10 million annual turnover.
+Digital Providers, like social networks and online marketplaces, also fall under scrutiny.
+To ensure compliance, organizations should delve into sector-specific cybersecurity challenges, embracing a thorough understanding of NIS2 requirements for a resilient and secure digital landscape.
+It’s easy to prepare for NIS2 compliance with Keepit
+At Keepit, we’ve designed a data protection platform to make compliance easy. Born and built in Europe, our infrastructure and your choice of data centers (Denmark, Germany, UK, among others) ensure complete data sovereignty.
+With leading security measures like logical air gapping, immutability, and encryption, we offer next-level cybersecurity. Count on us for full compliance with all current and future EU regulations, including GDPR and NIS2.
+Compliance across all your business SaaS applications
+Get business continuity through uninterrupted data availability with Keepit’s independent European cloud. Benefit from granular, instant, and prioritized disaster recovery of critical data in place. As a European-born company operating our own infrastructure, we have no sub-processors and provide unparalleled data sovereignty with a no-transmission guarantee.
+Which of your SaaS application data is critical to protect? Run a risk analysis to map out all the important data and critical infrastructure you need to protect to ensure business continuity.
+Best practices to get your business ready, an easy framework to follow on your journey towards NIS2 compliance, and what to look for when choosing a business continuity partner.
+How does Keepit help our organization comply with NIS2 regulations?
+Keepit ensures compliance with regulations by providing secure backup and recovery services for SaaS application data. We help your organization establish secure data protection measures that can be easily documented and reported, ensuring business continuity and reducing the risk of cyber attacks.
+As a European-born company with ownership and infrastructure in EU, our leading security measures, including air gapping, immutability, and encryption, align with NIS2 requirements, specifically Article 21, for robust cybersecurity. We offer guaranteed business continuity with uninterrupted data availability.
+Where will our data be stored?
+Always in the data center region you specify. Keepit is an EU company, and we own our own infrastructure. We currently have six data center regions: EU-DK, EU-DE, UKI, US, CA, and APAC. Your data will be stored in the region you choose, and it will never leave that region. This ensures compliance with all key European data protection requirements. Furthermore, a number of best-practice data security measures are employed to protect and safeguard your data, particularly immutability technology and encryption in transit and at rest.
+Which certifications do you have?
+As your trusted cloud backup vendor, we’re serious about the security of your data. Keepit and our data centers are certified by both ISO/IEC 27001:2013 and the ISAE 3402-II (audited by Deloitte annually). Even better, we are also not using any data sub-processors globally which means you can rest easy knowing your data is safe with us.

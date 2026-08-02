@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/why-keepit/
 Content type: Web page
 Last modified: 2026-01-08T22:54:01+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -49,7 +49,7 @@ Predictable pricing model: Flat, per-user pricing with no hidden fees or added c
 Future-proof data protection: Scales with your needs, ensuring ROI, operational efficiency, and adaptability over time.
 Industry-leading support: Global support ready to assist whenever you need it.
 Read the case study
-Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.  
 Read the case study
 We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
 Read the case study

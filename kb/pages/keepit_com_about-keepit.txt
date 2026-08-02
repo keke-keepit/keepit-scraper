@@ -1,10 +1,18 @@
 Source URL: https://www.keepit.com/about-keepit/
 Content type: Web page
 Last modified: 2025-02-23T21:46:45+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
+We own and operate a vendor-independent cloud to provide next-level SaaS data protection. We offer all-inclusive, secure, and reliable backup and recovery services for your data.
 We secure your data from your most relied-upon SaaS apps like Microsoft 365 and Entra ID (formerly Azure AD). With the only vendor-independent cloud, we make future proofing all your company’s data not only possible, but extremely fast and easy.
 How? Over 20 years ago, our founders and CTO predicted that all software would be in the cloud as a service, and that this data must be protected. Why does this vision matter? It lead to our solution being completely purpose built for cloud SaaS data.
 And since we built our solution from scratch and own and operate our own data protection cloud, we can do exactly what we need to do — quickly. It doesn’t get more next level than that.
+Keepit today
+We’ve architected our own cloud via self-created and self-managed software and systems across global data centers. So, from a data processing standpoint, we're the only vendor involved. One vendor, one data processing. This level of simplicity is found everywhere across the Keepit solution.
+And we’re purpose built for the cloud — a design decision that’s a major advantage and one that contributes to our software’s leading security, efficiency, ease of use, and reliability.
+Our global network of independent data centers is designed with geographic redundancy and data sovereignty in mind, allowing customers to choose where their data is stored. This supports compliance with local regulations while strengthening resilience and control. No public cloud. No third-party subprocessors. Just complete transparency and independence.
+Secure by design, our role in your future is to stay two steps ahead of whatever comes along that could disrupt your business.
+Altogether, Keepit defends your data against the growing list of threats that can disrupt business continuity, potentially costing you millions in downtime, lost revenue, fines from regulatory non-compliance, and damage to reputations.
+That way, you can relax, be ambitious, and have peace of mind knowing that your data is always safe and always available.

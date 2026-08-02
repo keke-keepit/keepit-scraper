@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/partners/partners-stories/upheads/
 Content type: Web page
 Last modified: 2024-03-27T23:59:21+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -9,7 +9,7 @@ Upheads Chooses Keepit for Their Partner-Driven Strategy
 World-Class Addition to Upheads’ Portfolio
 Upheads previously relied on an on-premises backup solution, which according to Upheads CTO Henning Malmin, was both cumbersome and expensive – and not scalable in any way.
 The hardware’s limited lifetime meant recurring maintenance and licensing costs; moving data from one storage to another was not flexible. Altogether, this was the reasoning behind why Upheads looked towards Keepit.
-With Keepit, supporting our global clients
+With Keepit, supporting our global clients 
 has become an easy task.
 Henning Malmin
 CTO of Upheads

@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — PARTNERS
-Generated: 2026-07-26
+Generated: 2026-08-02
 Pages: 15
 ============================================================
 
@@ -18,7 +18,7 @@ Therefore, the program benefits increase with greater commitment from you. Each 
 Source URL: https://www.keepit.com/partners/managed-service-providers/
 Content type: Web page
 Last modified: 2025-12-17T00:04:58+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -36,11 +36,11 @@ Predictable profitability for recurring revenue
 Flat pricing. Unlimited storage. Unlimited retention. Unlimited restores. Unlimited profit potential.
 Regional data sovereignty and support for MSPs
 Choose where customer data is stored, with direct access to every version, regional support, and no hyperscaler lock-in.
-Read IF Blueprint partner story
+Read IF Blueprint partner story 
 We don’t see a need to offer our clients any other solution - nothing beats Keepit quite frankly.
-Read IT Relation partner story
+Read IT Relation partner story 
 Keepit’s solution allows us to easily administer many customers, making our job easy all while ensuring a great customer journey.
-Read Quorum partner story
+Read Quorum partner story 
 Keepit's support offering truly exceeds the standard. Their support team really goes the extra miles and genuinely cares for our needs.
 Keepit gives you control
 USA
@@ -73,57 +73,83 @@ Stronger margins, happier clients, and a platform you can trust.
 
 Source URL: https://www.keepit.com/partners/partner-locator/
 Content type: Web page
-Last modified: 2026-07-16T21:38:47+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-28T22:23:32+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
 4infra Consultoria em TI
-Belo Horizonte Minas Gerais BrazilCompany website: https://4infra.com.br/keepit
+Belo Horizonte Minas Gerais Brazil
+Company website: https://4infra.com.br/keepit
 ACP IT Solutions GmbH (Ãsterreich)
-Vienna AustriaCompany website: https://www.acp-gruppe.com/de-at/
+Vienna Austria
+Company website: https://www.acp-gruppe.com/de-at/
 Alchemy Technology Group, LLC
-Houston Texas United StatesCompany website: https://www.alchemytechgroup.com
+Houston Texas United States
+Company website: https://www.alchemytechgroup.com
 Bechtle Suisse SA
-Petit-Lancy SwitzerlandCompany website: https://www.bechtle.com/de-en/about-bechtle/company/locations/bechtle-suisse-petit-lancy
+Petit-Lancy Switzerland
+Company website: https://www.bechtle.com/de-en/about-bechtle/company/locations/bechtle-suisse-petit-lancy
 Bluefield Servicos de Assessoria
-Rio de Janeiro RJ BrazilCompany website: https://www.bluefieldservicos.com.br/governanca-de-dados-backup-saas-com-keepit
+Rio de Janeiro RJ Brazil
+Company website: https://www.bluefieldservicos.com.br/governanca-de-dados-backup-saas-com-keepit
 Centre Technologies
-Houston, Texas United StatesCompany website: https://www.centretechnologies.com/
+Houston, Texas United States
+Company website: https://www.centretechnologies.com/
 Cloud Ready Solutions
-Sydney AustraliaCompany website: https://www.cloudreadysolutions.com.au/about-us
+Sydney Australia
+Company website: https://www.cloudreadysolutions.com.au/about-us
 First Distribution - South Africa (Partner)
-Century City SouthAfricaCompany website: www.firstdistribution.com
+Century City SouthAfrica
+Company website: www.firstdistribution.com
 Half Past Five Computer & Network Solutions
-Glyndon Minnesota United StatesCompany website: www.halfpastfive.com
+Glyndon Minnesota United States
+Company website: www.halfpastfive.com
 Ingram Micro Canada
-Mississauga Ontario CanadaCompany website: https://ca.ingrammicro.com/cep/app/home
+Mississauga Ontario Canada
+Company website: https://ca.ingrammicro.com/cep/app/home
 Intuitive Infrastructure Solutions
-Chesterfield United KingdomCompany website: https://www.intuitiveis.co.uk/partner/keepit/
+Chesterfield United Kingdom
+Company website: https://www.intuitiveis.co.uk/partner/keepit/
 NTC Integration Pte Ltd
-Redhill Industrial Estate SingaporeCompany website: https://www.ntc.com.sg/
+Redhill Industrial Estate Singapore
+Company website: https://www.ntc.com.sg/
 ORBIT Gesellschaft fÃ¼r Applikations und Informationssysteme mbH
-Bonn GermanyCompany website: www.orbit.de
+Bonn Germany
+Company website: www.orbit.de
 P1 Technologies
-Los Angeles California United StatesCompany website: https://www.p1technologies.com/
+Los Angeles California United States
+Company website: https://www.p1technologies.com/
 Shark Serve LTD (Israel) (Distributor)
-Petah Tikva IsraelCompany website: https://www.sharkserve.co.il/
+Petah Tikva Israel
+Company website: https://www.sharkserve.co.il/
 SOFTWARESULTEK TECNOLOGIA DA INFORMACAO LTDA
-Curitiba Parana BrazilCompany website: www.softwaresul.com.br
+Curitiba Parana Brazil
+Company website: www.softwaresul.com.br
 Total-Information-Management TIM AG
-Wiener Neudorf AustriaCompany website: https://www.tim-vad.com/aut/
+Wiener Neudorf Austria
+Company website: https://www.tim-vad.com/aut/
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/partners/partners-stories/
 Content type: Web page
 Last modified: 2025-01-12T21:32:55+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
-Read what our partners have to say
-Validated by partners from around the world, Keepit is your most trusted ally within cloud-to-cloud backup.
+When the cloud goes dark: Resilience lessons from hybrid threats
+Read customer case
+Read the report
+Watch on-demand
+Watch now
+Download whitepaper
+Read the report
+Register now
+Careers at Keepit
+Find a partner
+Watch now
 Validated by partners from around the world, Keepit is your most trusted ally within cloud-to-cloud backup.
 
 ------------------------------------------------------------
@@ -131,7 +157,7 @@ Validated by partners from around the world, Keepit is your most trusted ally wi
 Source URL: https://www.keepit.com/partners/partners-stories/fellowmind/
 Content type: Web page
 Last modified: 2024-03-27T23:46:13+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -156,7 +182,7 @@ He explains that Keepit is quick and easy to set up, with a very clear user inte
 Mr. Johansen emphasizes the importance of the backup solution offering a simple and easy search function, as well as fast data recovery. In his own words, Keepit is a quick and sleek backup solution that can do whatever it takes with regards to data backup, search, and recovery.
 Dynamic Collaborator
 The world is constantly changing, demanding flexibility and tight deadlines. Fellowmind recommends Keepit as an agile and flexible partner who can deliver within a very short deadline. Mr. Johansen tells a story from a situation where Fellowmind had to give a bid for a public framework agreement within hours:
-Keepit immediately set up a task force and a swat team. They just did what it took in a very short time! Providing customers with the best solutions is an important part of Fellowmind's DNA at all times. And that's why I see a close collaboration and important constellation with Keepit, helping us in offering the best solution to our customers.
+Keepit immediately set up a task force and a swat team. They just did what it took in a very short time! Providing customers with the best solutions is an important part of Fellowmind's DNA at all times. And that's why I see a close collaboration and important constellation with Keepit, helping us in offering the best solution to our customers.
 Jesper Johansen
 Director of Cloud,
 Infrastructure & Security at Fellowmind
@@ -275,13 +301,13 @@ IT Relation supports over 75,000+ users across 55 countries, IT Relation is one 
 Source URL: https://www.keepit.com/partners/partners-stories/quorum/
 Content type: Web page
 Last modified: 2024-03-27T23:39:39+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
 Why Austrian IT Security Specialist Quorum is Both a Keepit Partner and Customer
 As one of the country’s leading IT security specialists, Quorum ensures businesses throughout Austria meet complex data security and availability requirements. The decision to offer Keepit as part of their portfolio was a given. After all, Quorum themselves use Keepit to protect their business-critical data.
-As both a Keepit customer and partner,
+As both a Keepit customer and partner, 
 we are the ultimate proof of concept.
 Alexander Paral
 Managing Director, Quorum
@@ -371,7 +397,7 @@ VP Central Europe (DACH) at Keepit
 Source URL: https://www.keepit.com/partners/partners-stories/upheads/
 Content type: Web page
 Last modified: 2024-03-27T23:59:21+01:00
-Retrieved: 2026-07-21
+Retrieved: 2026-08-02
 
 ============================================================
 
@@ -379,7 +405,7 @@ Upheads Chooses Keepit for Their Partner-Driven Strategy
 World-Class Addition to Upheads’ Portfolio
 Upheads previously relied on an on-premises backup solution, which according to Upheads CTO Henning Malmin, was both cumbersome and expensive – and not scalable in any way.
 The hardware’s limited lifetime meant recurring maintenance and licensing costs; moving data from one storage to another was not flexible. Altogether, this was the reasoning behind why Upheads looked towards Keepit.
-With Keepit, supporting our global clients
+With Keepit, supporting our global clients 
 has become an easy task.
 Henning Malmin
 CTO of Upheads

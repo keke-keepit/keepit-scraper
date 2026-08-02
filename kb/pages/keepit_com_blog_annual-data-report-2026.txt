@@ -1,11 +1,11 @@
 Source URL: https://www.keepit.com/blog/annual-data-report-2026/
 Content type: Web page
-Last modified: 2026-04-22T14:35:40+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-07-27T16:26:25+02:00
+Retrieved: 2026-08-02
 
 ============================================================
 
-Introducing the Keepit Annual Data Report 2026: Operational truths (and a few surprises)Â
+Introducing the Keepit Annual Data Report 2026: Operational truths (and a few surprises)
 If you’ve ever tried to understand “what’s really happening” in IT, you’ve probably noticed an odd phenomenon: the more opinions you collect, the less certain you become.
 Surveys tell you what people remember. Interviews tell you what people believe. Panels tell you what people agree to say out loud. All of that can be valuable—just like weather forecasts are valuable. But neither forecasts nor opinions are the weather.
 This year, we decided to look out the window.
