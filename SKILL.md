@@ -31,6 +31,15 @@ Before you submit any response, you MUST complete all of these steps:
 
 Do not submit incomplete citations. Do not submit URLs you have not verified in the knowledge base. Do not skip this checklist.
 
+## BEFORE YOU SUBMIT ANY RESPONSE:
+1. Re-read this entire skill file
+2. Complete the MANDATORY RESPONSE CHECKLIST in full
+3. Do not submit your response until you have verified:
+   - Every factual claim has a source URL attached
+   - Every URL is copied directly from the knowledge base
+   - You have completed the final read-through verification
+4. If you cannot complete the checklist, state explicitly which sources you cannot find and do not submit partial answers
+
 ## Where the knowledge base is
 The knowledge base is the set of grouped text files in the **`references/`** folder of this skill:
 `keepit_help.txt`, `keepit_services.txt`, `keepit_security.txt`,
