@@ -1,0 +1,35 @@
+Source URL: https://www.keepit.com/press/ai-truth-cloud/
+Content type: Web page
+Last modified: 2026-08-06T17:00:42+02:00
+Retrieved: 2026-08-09
+
+============================================================
+
+Keepit launches AI Truth Cloud, solidifying long-term vision of data protection in the AI era
+AI Truth Cloud transforms backup into an organization’s most valuable data asset — establishing the verified, sovereign, and immutable foundation that enterprise AI can safely build on
+COPENHAGEN, DENMARK — August 6, 2026 — Keepit, a leading SaaS data protection provider, today announced AI Truth Cloud, the next evolution of its platform, transforming backup from a compliance requirement into the most trusted, strategically valuable data asset an organization can hold. As AI agents take on business-critical decisions, AI Truth Cloud positions Keepit as the sovereign source of truth that enterprise AI can safely build on: data that is verifiable, governed, immutable, and proven.
+From backup to trusted enterprise operational foundation
+Keepit holds something AI vendors cannot replicate: a complete, sovereign, immutable, and tamper-proof copy of an organization’s data — every version, across the protected application — stored in a vendor-independent cloud that no third party influences. That independence is the foundation of the “truth”: The AI Truth Cloud enables organizations to verify the authenticity, provenance, and integrity of data before it is ingested into any AI system, ensuring that the AI reasoning over their business is reasoning over data they can actually trust.
+Enterprise data protection has evolved steadily from tape-based backup to disaster recovery and cyber resilience. With AI Truth Cloud, Keepit establishes the next step: from passive backup to a proactive trust fabric for verified, governed, and sovereign data.
+“Organizations are making high-stakes decisions based on what their AI tells them. But data that can’t be verified shouldn’t be acted on. AI Truth Cloud gives enterprises an independent, tamper-proof, and provably complete data foundation — one that AI can safely reason from, one that organizations can prove the integrity of and roll back to a known-good state from when a decision goes wrong. Verifying the truth before you act, and recovering it when you didn't. That is what it means to own the truth,” said Frederik Schouboe, Co-founder and Chief Visionary Officer at Keepit.
+A platform built on five pillars
+The AI Truth Cloud platform is organized around five pillars: Protect; Observe; Recover; Prove; and Integrate. These replace the backup and recovery story with a complete framework for data trust.
+Three core capabilities form the immediate roadmap foundation:
+AI Connector Backup extends Keepit’s proven data protection to the AI tools enterprises already depend on — including agent configurations, AI skills, projects, and models — with point-in-time restore for any AI asset. That same immutable foundation becomes the verified recovery point when an AI agent behaves unexpectedly or is compromised.
+Keepit MCP (Model Context Protocol) platform is designed as a headless API layer that connects Keepit to any AI tool or workflow. It enables AI systems to query, audit, and interact with managed data programmatically. It positions Keepit not as a passive repository, but as an active node in the enterprise trust fabric.
+Keepit AI Safe Room addresses one of enterprise AI’s most pressing risks: running AI models directly on live production data. AI Safe Room provides an immutable Keepit copy of data as a pristine, isolated environment for AI training, inference, and testing, without putting production data at risk. If a model, prompt, or agent produces unintended results, it’s possible to do a full rollback: production remains untouched and recovery is immediate.
+Looking ahead, Keepit is developing additional capabilities across all five pillars — including AI agent behavioral monitoring, automated compliance evidence generation, cryptographic data provenance, and AI-powered threat rollback — each extending the platforms role as the trusted data layer for enterprise AI.
+Building on a growing foundation
+AI Truth Cloud is not a change of direction for Keepit, it is the next frontier made possible by Keepit’s growing data foundation. Keepit will continue expanding connector coverage as organizations transition to AI-driven and agentic workflows, with protecting the data AI agents create and consume representing the next wave of protection needs.
+Alongside this, Keepit is introducing an ISV partnership strategy enabling software vendors to embed sovereignty, immutability, governance, and trusted AI capabilities directly into their own products through deep integrations with the Keepit platform — establishing Keepit as the underlying trust layer across the enterprise software ecosystem.
+For Keepit customers already running AI on a verified data foundation, that shift is not theoretical:
+“Knowing that our AI is working from a verified, immutable source changes the conversation from risk management to competitive advantage. Keepit has become a foundational part of how we think about data integrity for AI,” Tom Hicks, Senior Manager, Identity, Quanta Services.
+Keepit's channel partners are seeing the same demand from their own customers:
+"Our customers — especially in the public sector — are asking how they can use AI responsibly and demonstrate that to regulators. AI Truth Cloud changes that conversation from aspiration to practice. With an auditable, protected data layer built in, we can help organizations deploy AI at scale without compromising on governance or recoverability," said Jonny Scott, Head of Cyber Advisory, Phoenix
+More detailed capability announcements, roadmap milestones, and partner program updates will follow in subsequent releases.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no third-party sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 25,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on Linkedin.
+PR contact:
+Katrine Palsby
+kpa@keepit.com

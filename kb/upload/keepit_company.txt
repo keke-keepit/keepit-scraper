@@ -1,17 +1,38 @@
 KEEPIT KNOWLEDGE BASE — COMPANY
-Generated: 2026-08-02
+Generated: 2026-08-09
 Pages: 68
 ============================================================
 
 Source URL: https://www.keepit.com/
 Content type: Web page
-Last modified: 2026-07-14T23:56:19+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-06T17:15:17+02:00
+Retrieved: 2026-08-09
 
 ============================================================
 
 While you may think your SaaS provider offers backup and recovery, that's actually your responsibility.
 Manage resilience and retain control when faced with emerging technologies and the rise of artificial intelligence (AI). Future-proof your data protection and ensure compliance with Keepit’s independent cloud.
+Keepit’s platform streamlines data protection with a single, intuitive dashboard across Microsoft 365, Salesforce, and more.
+Flat-rate pricing and unlimited always-hot data storage eliminates hidden costs, while our immutable backup ensures resilience by keeping data secure, air-gapped, and always accessible.
+Keepit offers unmatched security against data loss or ransomware attacks. By isolating backups, we ensure full data integrity. With immutable backups and rapid recovery to a known-good-state, Keepit enables resilience and gives you peace of mind when exploring advanced technologies, including AI.
+With no third-party sub-processors and a no-transfer guarantee, Keepit’s independent cloud ensures compliance with frameworks like NIS2, DORA, GDPR, HIPAA, and NIST. Support for internal policies, audit-ready documentation, and customizable retention periods up to 99 years give you complete control. Your data remains secure, private, and sovereign in your choice of 7 global regions.
+In this independent technical validation, ESG evaluates Keepit's SaaS data protection platform and confirms that it delivers secure, streamlined, and cost-effective backup and recovery across business-critical SaaS applications.
+A new framework to assess disaster recovery maturity for SaaS applications. As organizations increasingly rely on SaaS platforms to run core business operations, disaster recovery (DR) planning faces a new set of challenges.
+This 7-step guide to data recovery and business continuity offers IT professionals, DR pros, and CIOs insight into the steps of a disaster recovery process for SaaS apps.
+The Digital Operational Resilience Act (DORA) sets new cybersecurity and operational resilience standards for financial institutions. Get a comprehensive look at the regulation’s key requirements for data protection.
+One intelligent SaaS data protection platform securing multiple workloads
+Our end-to-end, vendor-neutral cloud data backup and recovery service for key SaaS apps keeps your business-critical data secure and rapidly recoverable. Be confident in your compliance and cyber resilience with Keepit.
+Read the case studyBased on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.
+Michael Bojkoâ,
+System Engineer, Porsche Informatik
+Read the case studyWe needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
+Nenad Ljubetic,
+Head of IT TALKE Group
+Read the case studyâOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.
+Flemming Selchau, IT Manager, Basisbank
+Transparent, predictable pricing
+All-inclusive, per-seat pricing
+Keepit offers all-inclusive, per-seat pricing with no hidden fees. Zero data transfer fees, rehydration charges, or storage costs. Always-hot storage keeps your data rapidly recoverable, while scalable pricing ensures ROI at every level.
 
 ------------------------------------------------------------
 
@@ -473,18 +494,133 @@ Lorem ipsum text for iframe.
 
 Source URL: https://www.keepit.com/entra-id-demo/
 Content type: Web page
-Last modified: 2025-06-06T00:32:27+02:00
-Retrieved: 2026-07-21
+Last modified: 2025-06-02T21:11:45+02:00
+Retrieved: 2026-08-09
 
 ============================================================
 
-Security Today's 2023 CyberSecured Awards recognize Keepit's Backup and Recovery for Entra ID (formerly Azure AD) as the best product for data loss prevention and disaster recovery/business continuity.
-Continue business as usual
 You’re backing up your Microsoft 365 data because you know it’s vital to your organization. But what about Entra ID? If Entra ID isn’t available, your users can’t work in Microsoft 365.
 Identity systems are #1 for any business
 Microsoft ranks protecting identity systems as more important than protecting human life as it ensures you and your users can maintain access to critical applications such as Entra ID.
 You’re responsible for your data
 Microsoft doesn’t guarantee complete and fast recovery of deleted or corrupted files. It’s up to you to follow recoverability best practices to ensure uninterrupted access to your data.
+Minimize breaches and non-compliance with our simplified compliance features. Custom retention policies mean you never worry about data recovery again.
+Productivity and recovery
+Save time, increase efficiency with quick and granular recovery features. Easy UI means no training: Restore operations to Entra ID faster than ever before.
+Data resiliency
+Back up your data separate from Microsoft’s environment to eliminate single points of failure. Ensure business continuity and store your data securely.
+Security Today's 2023 CyberSecured Awards recognize Keepit's Backup and Recovery for Entra ID (formerly Azure AD) as the best product for data loss prevention and disaster recovery/business continuity.
+A simple, yet powerful service to help you take control and safeguard your Entra ID (formerly Azure AD) infrastructure from accidental deletions, ransomware, and other potentially devastating outages.
+Dedicated independent cloudÂ Fast and granular recoveryEasy setup, low maintenanceStreamline data governanceMonitor backups with dashboardsRestore in bulk
+Dedicated independent cloud
+Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
+With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
+Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
+Fast and granular recovery
+Recover your data from a single item all the way up to the tenant level for precision recovery at scale.
+In-place restore
+Get data back to where it originally resided
+Restore in bulk
+Recover Entra ID metadata in bulk
+Restore subobjects
+Recreate missing subobjects together with the object you are restoring
+Download
+Download individual data objects or complete folders
+Sharable Links
+Provide users with a secure link to their data
+Easy setup, low maintenance
+Get started in few minutes
+Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.
+Intuitive user interface
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
+API-only
+You can integrate Keepit with your existing systems thanks to our API-only approach.
+Streamline data governance
+Audit Logs. Track any user activity inside the Keepit platform, allowing you to monitor, review, and investigate any potential breaches.
+Job Monitor. Detect abnormalities in the job monitor and discover changes on a snapshot basis as well as the number of changes made.
+Data sovereignty. Keepit operates its own data centers in multiple regions globally, helping you meet sovereignty requirements.
+The Right to be Forgotten. Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.
+Security Controls. Manage who has access to data and what permissions they have with granular Role Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
+Monitor backups with dashboards
+Stay in control and monitor your backup and recovery activities on one single page:
+Get detailed status messages of your connector and information to help you informed and react quickly.
+Track backup progress in real time.
+Monitor and understand all recovery jobs, statistics, and analytics in one simple overview.
+Restore in bulk
+Restore anything that has been deleted. Easily recover multiple Entra ID object properties at the same time within the Keepit platform in only a few clicks.
+Preview program
+Keepit Rapid Recovery for Microsoft 365
+Are you curious about the new Microsoft 365 Backup Storage? Do you want early access and a chance to give feedback on Keepit Rapid Recovery for Microsoft 365?
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+Vendor-independent cloud
+Mirrored infrastructure
+In line with the 3-2-1 backup rule and NIST framework
+Instant recovery
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+Fast, easy, and granular restore
+Rapid search and eDiscovery
+Preview files securely
+Secure file sharing
+Recover data intelligently
+Top-tier coverage
+Leading security
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+Certified, cloud-native design
+Resilient and immutable
+Always-on compliance
+Protect data in transit and at rest
+Configure retention policies
+Control access rights
+Monitor data to detect anomalies
+Cost effectiveness
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+Easy to budget
+Software and admin savings
+Drop unnecessary licensing costs
+Upgrades and maintenance included
+No hidden costs
+Revolutionary storage efficiency
+Scale with ease
+Outstanding simplicity
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+Truly simple and intuitive
+Less effort, more efficiency
+Easy deployment
+Set and forget
+Reduce admin time
+Quick and responsive support
+"Keepit has the expertise to support any enterprise with their journey to the cloud, viable, safe storage of essential cloud SaaS data."
+Jeffrey Chen
+Senior Global Microsoft Infrastructure Specialist, SIG
+"If you don't have third-party backup and Microsoft cannot restore your data, you're just out of luck. We went with Keepit to ensure both consistent backup and long-term retention of our data."
+Ken Schirrmacher
+Sr. Director of IT/Interim CIO,
+Park’N Fly
+Frequently asked questions
+How does the Entra ID configuration work?
+Once the connector is set up, you can configure the following items:
+Change the name of the connector
+Configure the backup of activity logs
+Manage user access to the connector
+Configure the retention period
+Where will my data be stored?
+Your data will be securely stored in Keepit’s independent cloud. We run our own data center regions, operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have six data center regions in:
+Americas: Washington D.C., USA & Toronto, Canada
+Europe: London, United Kingdom
+EU: Copenhagen, Denmark & Frankfurt, Germany,
+Asia: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always go to that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the moves with all affected customers prior to execution.
+How long are my backups kept?
+With Keepit for Entra ID Advanced Business Essentials Service Offering, your data is kept for 12 months.
+With Keepit for Entra ID Advanced Enterprise Unlimited Service Offering, you will have unlimited retention.
+With Keepit for Entra ID Advanced Government Plus Service Offering, you will have unlimited retention.
+Yes, and we have our headquarters in Denmark, EU. Read more.
+Can I use Entra ID backup along with my other Keepit services?
+Yes, you can combine Entra ID backup with backup of Microsoft 365, Salesforce, Dynamics, Zendesk, PowerBI, and any other Keepit services for full protection of all your cloud data. Request a demo and our Sales team will get in touch with you.
+Get started
+Take the next step toward protecting your SaaS data
 
 ------------------------------------------------------------
 

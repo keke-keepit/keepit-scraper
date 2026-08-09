@@ -1,16 +1,16 @@
 Source URL: https://www.keepit.com/help/entra-id-category/restore-an-entra-id-objects-licenses/
 Content type: Web page
-Last modified: 2026-07-04T00:08:27+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-05T11:24:33+02:00
+Retrieved: 2026-08-09
 
 ============================================================
 
 Restore an Entra ID object's licenses
 Restoring a user's or group's licenses will assign the licenses to the user or group.
-The entire licenses folder or individual licenses can be restored.
+You can restore an entire licenses folder or individual licenses.
 Restore an object's licenses
 1. Locate the folder inside the object.
-2. Optional: If you want to restore an older version of the item, click the Snapshots Viewer icon, and then select an earlier snapshot. You will now be viewing data from that particular time.
+2. (Optional) To restore an older version, select the Snapshots Viewer icon and select an earlier snapshot. You are now viewing data from that point in time.
 3. Select ••• > Restore.
-4. Select Yes to restore the folder.
-Note: To restore multiple items at a time, select the items. In the toolbar, select Restore.
+4. Select Yes to confirm.
+Note: If the user doesn't have a valid usageLocation value set, Microsoft Graph blocks the license reassignment. The Graph API requires this attribute before licenses can be assigned. For more information, see Microsoft documentation.

@@ -1,0 +1,20 @@
+Source URL: https://www.keepit.com/resources/disaster-recovery-gap-agentic-ai-infographic/
+Content type: Web page
+Last modified: 2026-08-05T20:32:40+02:00
+Retrieved: 2026-08-09
+
+============================================================
+
+Agentic AI is moving fast. Is disaster recovery keeping up?
+Keepit recently partnered on two independent research programs to investigate how rapidly evolving AI environments are impacting disaster recovery (DR) strategies. The results reveal a striking gap: most organizations believe their DR plans cover agentic AI — but confidence and tested readiness are not the same thing. Download the infographic below to see what the data actually shows.
+Who did we survey?
+- "Peer insights on AI adoption and the disaster recovery gap" was developed in partnership with CIO and draws on insights from more than 300 senior IT decision makers across the U.S., Europe, and Asia-Pacific in global organizations with more than 1,000 employees. Respondents were surveyed about how rapidly evolving AI environments are impacting DR strategies. 
+ 
+ Watch our webinar, “Adopting AI: From illusion to intentional control”, to receive all the insights from this survey.
+ 
+- Gatepoint Research was commissioned by Keepit and captured responses from 161 senior IT and business leaders in EMEA and North America. Respondents were asked about SaaS reliance, DR maturity, and the impact of AI adoption on their future plans.
+ 
+What did we find out? 
+The results reveal a troubling gap between perceived and proven readiness. While agentic AI is already being deployed across functions — from finance and cybersecurity to marketing and customer support — DR planning, governance, and testing practices are struggling to keep pace. 
+ 
+Download the infographic now to see where the gaps persist and what's keeping organizations from closing them.

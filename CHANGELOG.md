@@ -1,5 +1,21 @@
 # Keepit KB Changelog
 
+## 2026-08-09
+
+Added (4):
+- https://www.keepit.com/press/ai-truth-cloud/
+- https://www.keepit.com/press/tom-mccrory/
+- https://www.keepit.com/resources/disaster-recovery-gap-agentic-ai-infographic/
+- https://lp.keepit.com/hubfs/content-assets/EN/Disaster-recovery-gap-agentic-AI-infographic-EN.pdf
+
+Modified (6):
+- https://www.keepit.com/
+- https://www.keepit.com/entra-id-demo/
+- https://www.keepit.com/help/entra-id-category/restore-an-entra-id-objects-licenses/
+- https://www.keepit.com/help/entra-id-category/restore-an-entra-id-user/
+- https://www.keepit.com/help/mcp-category/mcp-overview-for-customers/
+- https://www.keepit.com/help/okta-category/create-an-okta-connector/
+
 ## 2026-08-02
 
 Added (4):

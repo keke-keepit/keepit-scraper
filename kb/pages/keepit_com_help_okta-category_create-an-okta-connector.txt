@@ -1,12 +1,12 @@
 Source URL: https://www.keepit.com/help/okta-category/create-an-okta-connector/
 Content type: Web page
-Last modified: 2026-07-31T13:16:58+02:00
-Retrieved: 2026-08-02
+Last modified: 2026-08-03T11:53:23+02:00
+Retrieved: 2026-08-09
 
 ============================================================
 
 Create an Okta connector
-Before creating your connector, you must add an app integration in Okta. During this process, you also obtain the organization host, application ID, and application secret — all required to complete the connector setup.
+Before creating your connector, add an app integration in Okta. During this process, you obtain the organization host, application ID, and application secret — all of which are required to complete the connector setup.
 For instructions, go to: Configure an Okta app integration
 Preparation
 Obtain your organization host

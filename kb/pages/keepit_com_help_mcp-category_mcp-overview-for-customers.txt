@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/mcp-category/mcp-overview-for-customers/
 Content type: Web page
-Last modified: 2026-05-20T13:06:09+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-07T09:10:32+02:00
+Retrieved: 2026-08-09
 
 ============================================================
 
@@ -31,7 +31,8 @@ Windows: %APPDATA%\Claude\claude_desktop_config.json
       }
     }
   }
-}Credentials are passed directly in your MCP client configuration. While not encrypted, this keeps secrets out of your project repository, preventing accidental Git commits.
+}
+Credentials are passed directly in your MCP client configuration. While not encrypted, this keeps secrets out of your project repository, preventing accidental Git commits.
 Using 1Password CLI (Cross-Platform)
 1Password CLI (op) works on macOS, Linux, and Windows. Adjust the node path according to your deployment. In order to use it via CLI, you have to enable 1Password CLI in the 1Password desktop app Settings > Developer and allow biometric unlock.
 Documentation: 1Password CLI: Getting Started | Secret References
@@ -50,7 +51,8 @@ Path examples:
       }
     }
   }
-}Windows user environment variables
+}
+Windows user environment variables
 Note: This option is for Windows users. Credentials are stored in the Windows Registry (unencrypted) but kept separate from the config file, reducing the risk of accidental sharing.
 Set the following as User Environment Variables (see Microsoft's guide on environment variables):
 - KEEPIT_USER : your-username
@@ -65,7 +67,8 @@ Then use this config no env block needed:
       "args": ["C:/Users/YourName/keepit-mcp/build/main.js"]
     }
   }
-}Security note: This approach stores credentials as plaintext in the Windows Registry. Any process running as your user can read them. The benefit over the basic setup is that credentials won't be accidentally shared when copying config files.
+}
+Security note: This approach stores credentials as plaintext in the Windows Registry. Any process running as your user can read them. The benefit over the basic setup is that credentials won't be accidentally shared when copying config files.
 macOS Keychain
 Documentation: Keychain Access User Guide | security command man page
 Option A: Using Keychain Access GUI
@@ -87,7 +90,8 @@ Claude Desktop config (uses security find-generic-password to retrieve at runtim
       ]
     }
   }
-}Linux secret-tool (GNOME Keyring / libsecret)
+}
+Linux secret-tool (GNOME Keyring / libsecret)
 Documentation: libsecret / secret-tool | secret-tool man page
 First, store credentials (one-time):
 secret-tool store --label="Keepit MCP Username" service keepit-mcp field username
@@ -103,7 +107,8 @@ Then in your MCP client config (e.g., Claude Code's ~/.claude.json or similar):
       ]
     }
   }
-}Step 4: Connect to your AI client
+}
+Step 4: Connect to your AI client
 For Claude Desktop using the .mcpb package:
 1. Build the package: npm run generate-mcpb
 2. In Claude Desktop, go to Settings > Extensions > Advanced settings.
@@ -112,4 +117,4 @@ For Claude Desktop using the .mcpb package:
 5. Enable the extension.
 Alternatively, run the server directly with npm start and configure your AI client to connect to the local MCP endpoint.
 Supported tools and capabilities
-Keepit MCP exposes 8 tools via the MCP protocol.
+Keepit MCP exposes 18 tools via the MCP protocol.

@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/press/tom-mccrory/
+Content type: Web page
+Last modified: 2026-08-05T14:00:45+02:00
+Retrieved: 2026-08-09
+
+============================================================
+
+Keepit gears up for growth in the Americas, names Thomas McCrory VP of Sales
+McCrory brings decades of enterprise sales leadership to accelerate Keepit's growth in the Americas as agentic AI reshapes the data protection landscape
+Copenhagen, Denmark — August 5, 2026 — Keepit, the leading dedicated cloud data protection company, today announced the appointment of Thomas McCrory as Vice President of Sales, Americas. In his new role, McCrory will lead growth across the region, helping organizations understand why protected and recoverable data is the foundation of any AI strategy.
+Keepit is gearing up for growth in the Americas at a time when organizations are more dependent than ever on SaaS applications and the rapid adoption of AI is increasing both data volumes and operational risk — focus is moving more towards how companies protect their most valuable asset: data.
+“The rise of agentic AI is fundamentally changing how organizations think about their data — how they use it and how they protect it. What drew me to Keepit was its unique approach: a purpose-built, vendor-independent cloud with the data sovereignty and immutability that AI deployments require. Keepit already has strong footing in the US market, and my focus is on accelerating that — making sure the organizations investing in AI today understand Keepit’s full offering and why clean, protected, recoverable data is the foundation everything else depends on,” says Thomas McCrory.
+McCrory brings over 25 years of experience leading enterprise software sales organizations, most recently as VP, Americas Sales at DataRobot and before that as SVP, Global Sales at Incorta. Earlier in his career he spent several years at Alteryx, where he built and scaled multiple enterprise sales teams from the ground up. Equipped with a service-minded approach and a passion for building high-performance teams, McCrory joins Keepit at a time of significant growth in the US.
+"Data is every company's lifeline. Keepit is working to make sure every organization has a reliable source of truth to depend on as they build AI into their operations," says James Dwyer, Chief Revenue Officer at Keepit. "Tom is exactly the kind of leader we need to accelerate growth in the Americas. He has built enterprise sales teams from the ground up, worked through complex markets, and led with a people first approach that fits how we operate at Keepit."
+Based in California, Thomas McCrory joined Keepit on August 3.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no third-party sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, more than 25,000 companies trust Keepit for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on LinkedIn

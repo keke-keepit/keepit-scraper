@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — HELP
-Generated: 2026-08-02
+Generated: 2026-08-09
 Pages: 372
 ============================================================
 
@@ -9283,20 +9283,20 @@ Restore limitations
 
 Source URL: https://www.keepit.com/help/entra-id-category/restore-an-entra-id-objects-licenses/
 Content type: Web page
-Last modified: 2026-07-04T00:08:27+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-05T11:24:33+02:00
+Retrieved: 2026-08-09
 
 ============================================================
 
 Restore an Entra ID object's licenses
 Restoring a user's or group's licenses will assign the licenses to the user or group.
-The entire licenses folder or individual licenses can be restored.
+You can restore an entire licenses folder or individual licenses.
 Restore an object's licenses
 1. Locate the folder inside the object.
-2. Optional: If you want to restore an older version of the item, click the Snapshots Viewer icon, and then select an earlier snapshot. You will now be viewing data from that particular time.
+2. (Optional) To restore an older version, select the Snapshots Viewer icon and select an earlier snapshot. You are now viewing data from that point in time.
 3. Select ••• > Restore.
-4. Select Yes to restore the folder.
-Note: To restore multiple items at a time, select the items. In the toolbar, select Restore.
+4. Select Yes to confirm.
+Note: If the user doesn't have a valid usageLocation value set, Microsoft Graph blocks the license reassignment. The Graph API requires this attribute before licenses can be assigned. For more information, see Microsoft documentation.
 
 ------------------------------------------------------------
 
@@ -9477,26 +9477,26 @@ In Entra ID, open the service principal, then click Permissions. Click the butto
 
 Source URL: https://www.keepit.com/help/entra-id-category/restore-an-entra-id-user/
 Content type: Web page
-Last modified: 2026-07-03T23:50:27+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-05T10:48:35+02:00
+Retrieved: 2026-08-09
 
 ============================================================
 
 Restore an Entra ID user
-Restoring an Entra ID user will update its attributes, link to manager, role assignments, group ownerships, group and unit memberships, and licenses.
+Restoring an Entra ID user recreates or updates its attributes, manager link, role assignments, group ownerships, group and admin unit memberships, and licenses.
+Prerequisites
+Before you begin, make sure the Entra ID service account used to create the connector has the global admin role assigned.
 Restore an Entra ID user
-Before you begin, ensure the Entra ID service account that was used to create the connector is assigned the global admin role.
-1. Open the Connectors page and select the desired connector.
-2. Locate the user in your connector.
-3. Optional: If you want to restore an older version of the object, click the Snapshots Viewer icon, then select an earlier snapshot. You will now be viewing data from that particular time.
+1. Open the Connectors page and select the connector.
+2. Locate the user in the connector.
+3. (Optional) To restore an older version of the object, select the Snapshots Viewer icon and select an earlier snapshot. You are now viewing data from that point in time.
 4. Select ••• > Restore.
-Tip: To preview the attributes and relationships and to compare them to older versions, select ••• > Object metadata. You can also initiate the restore directly from this previewer.
-5. Click Yes to restore the user.
-Note: To restore multiple users at time, select the items. In the toolbar, select Restore.
+Tip: To preview attributes and relationships or compare versions, select ••• > Object metadata. You can also start the restore directly from this previewer.
+5. Click Yes to confirm.
 Restore all Entra ID users
-In case you need to bring back large amounts of data, you can use the restore wizard from the connector level.
+To recover large amounts of data, restore users from the connector level.
 Before you begin, ensure the Entra ID service account that was used to create the connector is assigned the global admin role.
-Note: We recommend you restore all users and groups together to maintain relationships between them, as linked users and groups (subobjects) are also restored.
+Note: We recommend restoring all users and groups together to maintain their relationships. Linked users and groups (subobjects) are also restored as part of the operation.
 1. Open the Connectors page.
 2. Point to the connector and click the Restore icon.
 3. Click Next.
@@ -9505,25 +9505,26 @@ Note: We recommend you restore all users and groups together to maintain relatio
 6. Review the summary and click Restore.
 What happens when a user is restored
 Attributes restored
-The user's attributes, licenses, and photo are recreated (if missing) or updated (it still existing).
+The user's attributes, licenses, and photo are recreated if missing, or updated if the user still exists.
 Relationships reestablished
+A relationship can only be reestablished if the linked object still exists in Entra ID.
 The following relationships are reestablished:
-- Memberships - links to groups and admin units that the user is a member of
-- Ownerships - links to groups that the user is an owner of
-- Role assignments - links to roles that are assigned to this user
-- Manager - the link to the user's manager
- 
- Note: A relationship can be reestablished only if the linked object still exists in Entra ID.
+- Memberships — links to groups and admin units the user belongs to.
+- Ownerships — links to groups the user owns.
+- Role assignments — links to roles assigned to the user.
+- Manager — the link to the user's manager.
+Note: Group-inherited role assignments aren't visible in the Keepit UI, but they are backed up and restored.
 New ID and creation time
-If the user no longer exists in Entra ID, it will receive a new object ID and creation time. If the user is in the "Deleted users" folder (i.e., it has not yet been permanently deleted), it will be restored with its original ID and creation time.
-Note: Restoring users will recreate them with new IDs, but duplicates will not be created if restored from the same snapshot. Users are recognized by their attributes, and existing users in Entra ID will be overwritten.
+If the user no longer exists in Entra ID, they receive a new object ID and creation time. If the user is in the Deleted users folder and hasn't been permanently deleted, Keepit restores them with the original ID and creation time.
+Note: Restoring users recreates them with new IDs, but restoring from the same snapshot doesn't create duplicates. Keepit identifies users by their attributes and overwrites any existing matching user in Entra ID.
 This diagram shows the relationships that are restored:
  Restore limitations
-- If a user was a member of a distribution group or mail-enabled security group, we can’t restore those group memberships due to an API limitation. In this case, the restore job is marked as incomplete and the memberships are skipped.
-- Users who are permanently deleted and then restored cannot sign in until an admin resets their password in Entra ID.
-- Due to a Microsoft Graph public API limitation, a user with on-premises sync enabled cannot be restored.
+The following limitations apply when restoring Entra ID users:
+- Memberships to distribution groups or mail-enabled security groups can't be restored due to an API limitation. In these cases, the restore job is marked as incomplete and the affected memberships are skipped.
+- Users who are permanently deleted and then restored can't sign in until an admin resets their password in Entra ID.
+- Due to a Microsoft Graph API limitation, users with on-premises sync enabled can't be restored.
 - Authentication methods are not restored.
-Note: A user's group-inherited roles are not displayed in the UI, but they are backed up and restored
+- If the user doesn't have a valid usageLocation value set, Microsoft Graph blocks the license reassignment. The Graph API for license assignment requires that users have a valid usageLocation attribute set before licenses can be assigned. For more information, see Microsoft documentation.
 
 ------------------------------------------------------------
 
@@ -19413,13 +19414,13 @@ Required to perform the backup of Users, Groups, Apps, Mappings and all Security
 
 Source URL: https://www.keepit.com/help/okta-category/create-an-okta-connector/
 Content type: Web page
-Last modified: 2026-07-31T13:16:58+02:00
-Retrieved: 2026-08-02
+Last modified: 2026-08-03T11:53:23+02:00
+Retrieved: 2026-08-09
 
 ============================================================
 
 Create an Okta connector
-Before creating your connector, you must add an app integration in Okta. During this process, you also obtain the organization host, application ID, and application secret — all required to complete the connector setup.
+Before creating your connector, add an app integration in Okta. During this process, you obtain the organization host, application ID, and application secret — all of which are required to complete the connector setup.
 For instructions, go to: Configure an Okta app integration
 Preparation
 Obtain your organization host
