@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-google-workspace/
 Content type: Web page
-Last modified: 2025-02-23T21:41:25+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-08-13T18:23:44+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -50,8 +50,9 @@ Security controls: Manage who has access to data and what permissions they have 
 Immutable and tamper-proof data
 The application does not expose any APIs or other means that allow data overwrites. Furthermore, the application uses a blockchain algorithm, which makes any low-level tampering impossible and easily evident.â¯
 In addition, Keepit features a deletion retention of all configured backup connections of at least one month thereby completely protecting the customer from data loss due to ransomware attacks.
-Why companies globally trust us
-Business continuity
+Krona revolutionizes data protection of their Google Workspace with Keepit
+"The deployment process was very quick; everything happened within the same week. Its usability is truly a differentiator for both the IT team and our colleagues."
+— Gilharde Wasneski, Information Architecture and Security Coordinator, Krona
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 Vendor-independent cloud
 Mirrored infrastructure
@@ -91,9 +92,6 @@ Easy deployment
 Set and forget
 Reduce admin time
 Quick and responsive support
-We needed an easy and cost-efficient set-up that was secure, GDPR-compliant, and which provided 100% uptime. That’s why we chose Keepit.
-Ken Schirrmacher
-Sr. Director of IT/Interim CIO at Park’N Fly
 Frequently asked questions
 Does Google back up data?
 Google Workspace does not include automatic backup and offers only minimal data protection against data deletions, overwrites, and ransomware. As a Google Workspace customer, you are responsible for ensuring the necessary protection of your data, not Google.

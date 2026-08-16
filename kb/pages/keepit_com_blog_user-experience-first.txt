@@ -1,13 +1,13 @@
 Source URL: https://www.keepit.com/blog/user-experience-first/
 Content type: Web page
-Last modified: 2025-08-20T00:30:46+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T18:35:44+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
 How Keepit puts user experience first
 Keepit is known for delivering a certain quality of User Experience (UX), which is reflected in customer feedback examples, such as:
-"Keepit's user-friendliness is a financial win-win" from customer story SIG and another from Park 'N Fly saying, "I like to call Keepit a Steady Eddie. I know it's working; I know it's running, and I don't have to sweat it."
+"Keepit's user-friendliness is a financial win-win" from customer story SIG.
 Behind Keepit's simple design and ease of use lies a deliberate approach, rooted in the idea that our whole system, from the deepest backend layers to the user interface, is built to support a solid User Experience.
 However, in the software field, UX has been interpreted in various ways and caused confusion in how it differs from User Interface Design. So, what is UX to Keepit? And how does Keepit go about all this in practicality?
 Foundation of UX

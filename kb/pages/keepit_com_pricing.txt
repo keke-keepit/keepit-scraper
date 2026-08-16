@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/pricing/
 Content type: Web page
-Last modified: 2025-08-08T22:11:59+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-10T21:44:50+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -106,7 +106,6 @@ Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
 One-to-one session (online)
@@ -194,7 +193,6 @@ Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
 One-to-one session (online)
@@ -276,7 +274,6 @@ Phone
 Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
@@ -362,7 +359,6 @@ Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
 One-to-one session (online)
@@ -447,7 +443,6 @@ Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
 One-to-one session (online)
@@ -529,7 +524,6 @@ Phone
 Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
@@ -615,7 +609,6 @@ Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
 One-to-one session (online)
@@ -698,7 +691,6 @@ Phone
 Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
@@ -788,7 +780,6 @@ Phone
 Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
@@ -881,7 +872,6 @@ Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
 One-to-one session (online)
@@ -966,7 +956,6 @@ Phone
 Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
@@ -1067,7 +1056,6 @@ Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
 One-to-one session (online)
@@ -1157,7 +1145,6 @@ Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
 One-to-one session (online)
@@ -1240,7 +1227,6 @@ Phone
 Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
@@ -1326,7 +1312,6 @@ Phone
 Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
@@ -1414,7 +1399,6 @@ Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
 One-to-one session (online)
@@ -1501,7 +1485,6 @@ Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
 One-to-one session (online)
@@ -1586,7 +1569,6 @@ Email
 Target Response Time
 Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
 24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
 Personalized Onboarding Services
 One-to-one session (online)
 One-to-one session (online)
@@ -1597,6 +1579,6 @@ Quarterly Business Review
 Named Customer Success Manager
 on offboarding and restore efficiencies in one year
 Trusted by 1,000s of customers
-Our everyday is busy enough with keeping everything up and running. Keepit's solution does its job in the background so that we can focus on other tasks.
-Ken Schirrmacher
-Sr. Director of IT/Interim CIO at Park’N Fly
+Porsche Holding Salzburg migrates to the cloud, chooses Keepit for ransomware protection
+"We were searching for a SaaS solution, and we didn't want to back up all the data on-prem. Keepit's simple, easy-to-use cloud backup delivered what we were looking for."
+— Michael Bojko, System Engineer, Porsche Informatik

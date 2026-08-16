@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — SERVICES
-Generated: 2026-08-09
+Generated: 2026-08-16
 Pages: 34
 ============================================================
 
@@ -1299,8 +1299,8 @@ Keepit MCP for Partners exposes 11 tools via the MCP protocol.â¯
 
 Source URL: https://www.keepit.com/help/mcp-category/mcp-prompt-library/
 Content type: Web page
-Last modified: 2026-05-20T10:49:28+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T22:10:36+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -1322,7 +1322,21 @@ Quick failure scan
 Show me failed audit logs from the last 6 hours.
 Morning summary
 Give me a morning health summary: total connectors, how many are healthy vs unhealthy, any snapshots older than 24h, and any currently running jobs that seem stuck.
-2. Incident response
+2. Search and download
+Find specific files, emails, or documents within your snapshots by keyword, type, or metadata, then generate download links for individual items or bulk recovery.
+Find by keyword 
+"Search the latest snapshot for connector [YOUR-GUID] for all files matching the keyword 'invoice'. Show file name, category, and size." 
+Find by type 
+"List all PDF files in the most recent snapshot for my SharePoint connector. Include file name and path." 
+Email metadata 
+"Find all emails with 'Q3 budget' in the subject line in my Exchange connector's latest snapshot." 
+Version history 
+"Show me all versions of 'project-plan.docx' for connector [YOUR-GUID] over the last 30 days. Include snapshot date and file size for each version." 
+Single-item download 
+"I need to recover 'contract-final.docx' from last Tuesday's snapshot for connector [YOUR-GUID]. Find the file and generate a download link." 
+Bulk download 
+"Find all files matching 'contract' in the latest snapshot of connector [YOUR-GUID] and generate a ZIP download link for the full set." 
+3. Incident response
 Use these when investigating an outage, failure, or unexpected behavior. They combine multiple data sources for fast root cause analysis.
 Full outage investigation
 We had an outage yesterday. For all connectors: show health status now, show job history for P2D with any spike in failures, show audit logs for P2D with any config changes or unusual admin activity, and cross-reference which connectors had both failed jobs AND audit events within the same 2-hour window.
@@ -1338,7 +1352,7 @@ Connector deep dive with correlation
 For connector [YOUR-GUID], correlate job history with audit events over the last 3 days. Were there any config changes before or during job failures?
 Activity drop-off detection
 Identify connectors with no jobs in the last 14 days but that had activity in the preceding 14 days. Something may have silently broken.
-3. SLA and RPO monitoring
+4. SLA and RPO monitoring
 Track backup currency against your service level agreements and recovery point objectives.
 SLA breach detection
 Find connectors with latest snapshot older than 12 hours. Split them into Critical vs Non-critical groups. (Provide your own critical connector list or naming convention.)
@@ -1352,7 +1366,7 @@ Snapshot gap analysis
 For connector [YOUR-GUID] over the last 30 days, identify any period where there was a 24-hour gap between snapshots. Also show which single day had the most snapshots.
 Rollout validation
 We deployed changes 6 hours ago. For connectors [GUID-1], [GUID-2], [GUID-3]: confirm a snapshot occurred in the last 6 hours. If not, show the most recent snapshot time.
-4. Audit and compliance
+5. Audit and compliance
 For compliance officers, security reviews, and audit preparation. Pull structured audit data and generate reports through conversation.
 Broad 90-day audit review
 Pull audit logs for the last 90 days. Summarize by action type, actor, and failure count. Highlight any spikes in activity or unusual actors.
@@ -1370,7 +1384,7 @@ Audit anomaly detection
 In the last 7 days of audit logs, flag anything unusual: actions at odd hours, unfamiliar actors, bulk operations, or repeated failures from the same source.
 Permission escalation check
 Review audit logs for the last 30 days. Were there any events involving permission changes, role assignments, or token creation?
-5. Change management
+6. Change management
 Use before and after maintenance windows to validate that backups are unaffected by changes.
 Pre-maintenance baseline
 Capture current health status and latest snapshot timestamp for connectors: [GUID-1], [GUID-2], [GUID-3]. I will use this as a baseline before maintenance.
@@ -1380,7 +1394,7 @@ Post-deployment snapshot confirmation
 We deployed changes 6 hours ago. For connectors [GUID-1], [GUID-2], [GUID-3], confirm that at least one successful snapshot has occurred since then. If not, show the most recent snapshot time.
 Change window audit trail
 Pull audit logs from yesterday between 18:00 and 22:00 UTC. Show all actions taken during that maintenance window, grouped by actor.
-6. Risk and anomaly detection
+7. Risk and anomaly detection
 Proactive monitoring to surface problems before they become incidents.
 Risk ranking
 Find connectors with unhealthy status or snapshots 48 hours or more stale. Rank by risk: health status first, then staleness.
@@ -1392,7 +1406,7 @@ Anomalous activity detection
 In the last 7 days, flag any audit log anomalies: unusual actors, bulk operations, actions outside business hours, or repeated failures.
 Backup drift detection
 Compare snapshot cadence for the last 30 days vs the prior 30 days across all connectors. Which connectors have had the biggest change in backup frequency?
-7. Executive and weekly reports
+8. Executive and weekly reports
 Summary-level views for leadership, weekly stand-ups, and board-level reporting.
 Weekly health digest
 Generate a weekly backup health report: total connectors, count unhealthy, count with snapshots older than 24 hours, top job failure reasons for the last 7 days, and any audit anomalies.
@@ -1404,7 +1418,7 @@ Environment comparison
 Compare connectors with "Prod" in their name vs "Non-Prod" connectors. Show snapshot freshness and job failure rates over the last 14 days for each group.
 Executive risk summary
 Give me a one-paragraph executive summary of our current backup posture: are we healthy overall, what are the top risks, and what needs attention this week?
-8. Microsoft 365 / Lokka integration
+9. Microsoft 365 / Lokka integration
 These prompts use the Lokka integration to query Azure AD / Entra ID data from your tenant. Requires Lokka MCP to be configured.
 Tenant user overview
 Get all users in my tenant. How many total? How many are guests vs members?
@@ -1697,8 +1711,8 @@ What is covered?
 
 Source URL: https://www.keepit.com/services/backup-azure-devops/
 Content type: Web page
-Last modified: 2025-02-23T21:39:31+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-08-12T18:07:58+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -1766,8 +1780,8 @@ Dedicated independent cloud
 Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
 With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
 Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
-Why companies globally trust us
-Business continuity
+Emmi selects Keepit, names the solution a ‘scalable and future-proof’ choice
+"Overall, Keepit contributes significantly to Emmi's risk management goals by providing a reliable and scalable backup solution that secures business operations."
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 Vendor-independent cloud
 Mirrored infrastructure
@@ -1832,8 +1846,8 @@ Experience the benefits and security of intelligent SaaS data protection.
 
 Source URL: https://www.keepit.com/services/backup-bamboohr/
 Content type: Web page
-Last modified: 2026-01-27T14:24:41+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T17:55:29+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -1877,9 +1891,9 @@ Backup coverage for BambooHR
 - Time off types
 - Time off policies
 Find the complete coverage here: BambooHR backup coverage.
-“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
-Nenad Ljubetic
-Head of IT, TALKE Group Germany 
+Blaze Credit Union protects multiple SaaS applications with Keepit
+"We protect all of our business critical SaaS platforms with Keepit. Using one platform to secure all of this data reduces complexity and makes it very easy to manage."
+— Grant Aslakson, Director of Information Security Operations, Blaze Credit Union
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud
@@ -1934,8 +1948,8 @@ Further, uniquely to Keepit, our staff and software development are also ISO2700
 
 Source URL: https://www.keepit.com/services/backup-docusign/
 Content type: Web page
-Last modified: 2026-01-27T14:16:23+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T18:15:43+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -1984,8 +1998,6 @@ Backup coverage for Docusign
 - Tabs
 - User data: Username, name, email
 - Basic info: Address, user settings, custom user settings
-- User data: Username, name, email
-- Basic info: Address, user settings, custom user settings
 - User Groups
 - Membership
 - Signing Groups
@@ -1995,9 +2007,9 @@ Backup coverage for Docusign
 * Backup only
 ** Restore of full template
 Find the complete coverage here: Docusign backup coverage.
-“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
-Nenad Ljubetic
-Head of IT, TALKE Group Germany 
+ZFV-Genossenschaft: Improved resilience and operational efficiency
+"Protecting multiple SaaS applications in one platform allows us to ensure our most important business data is consistently backed up and recoverable without increasing operational complexity."
+— Gérard Korda, Head of IT Operations & Infrastructure, ZFV-Genossenschaft
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud
@@ -2052,26 +2064,139 @@ Further, uniquely to Keepit, our staff and software development are also ISO2700
 
 Source URL: https://www.keepit.com/services/backup-entra-id/
 Content type: Web page
-Last modified: 2026-03-02T22:18:47+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-13T18:25:53+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
+You’re backing up your Microsoft 365 data because you know it’s vital to your organization. But what about Entra ID? If Entra ID isn’t available, your users can’t work in Microsoft 365.
+Identity systems are #1 for any business
+Microsoft ranks protecting identity systems as more important than protecting human life as it ensures you and your users can maintain access to critical applications such as Entra ID.
+You’re responsible for your data
+Microsoft doesn’t guarantee complete and fast recovery of deleted or corrupted files. It’s up to you to follow recoverability best practices to ensure uninterrupted access to your data.
+Minimize breaches and non-compliance with our simplified compliance features. Custom retention policies mean you never worry about data recovery again.
+Business continuity
+Keep your business running by restoring your entire Entra ID to a secondary tenant if your primary tenant is unavailable — ensuring employees retain access to critical apps and minimizing downtime.
+Data resiliency
+Back up your data separate from Microsoft’s environment to eliminate single points of failure. Ensure business continuity and store your data securely.
 A simple, yet powerful service to help you take control and safeguard your Entra ID infrastructure from accidental deletions, ransomware, and other potentially devastating outages.
 What is covered?
-- Users, Groups, Admin Units Roles
-- Enterprise apps, App registrations
-- Conditional Access policies
-- Intune Device Compliance and Device Configuration policies
-- BitLocker recovery keys
-- Activity logs
+Users, Groups, Admin Units Roles
+Enterprise apps, App registrations
+Conditional Access policies
+Intune Device Compliance and Device Configuration policies
+Dedicated independent cloudÂ Fast and granular recoveryEasy setup, low maintenanceStreamline data governanceMonitor backups with dashboardsRestore in bulk
+Dedicated independent cloud
+Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
+With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
+Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
+Fast and granular recovery
+Recover your data from a single item all the way up to the full tenant level — including cross-tenant restore for maximum resilience and flexibility.
+In-place restore
+Get data back to where it originally resided
+Cross-tenant restore
+Restore Entra ID data to a secondary tenant to maintain operations if your primary tenant is unavailable.
+Restore in bulk
+Recover Entra ID metadata in bulk
+Restore subobjects
+Recreate missing subobjects together with the object you are restoring
+Download
+Download individual data objects or complete folders
+Sharable Links
+Provide users with a secure link to their data
+Easy setup, low maintenance
+Get started in few minutes
+Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.
+Intuitive user interface
+The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
+API-only
+You can integrate Keepit with your existing systems thanks to our API-only approach.
+Streamline data governance
+Audit Logs. Track any user activity inside the Keepit platform, allowing you to monitor, review, and investigate any potential breaches.
+Job Monitor. Detect abnormalities in the job monitor and discover changes on a snapshot basis as well as the number of changes made.
+Data sovereignty. Keepit operates its own data centers in multiple regions globally, helping you meet sovereignty requirements.
+The Right to be Forgotten. Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.
+Security Controls. Manage who has access to data and what permissions they have with granular Role Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
+Monitor backups with dashboards
+Stay in control and monitor your backup and recovery activities on one single page:
+Get detailed status messages of your connector and information to help you informed and react quickly.
+Track backup progress in real time.
+Monitor and understand all recovery jobs, statistics, and analytics in one simple overview.
+Restore in bulk
+Restore anything that has been deleted. Easily recover multiple Entra ID object properties at the same time within the Keepit platform in only a few clicks.
+Fullsteam strengthens compliance and business continuity with independent SaaS backup and recovery
+"Encryption combined with immutable backups ensures our data cannot be altered or deleted, which is essential for reliable recovery and the security of our organization."
+— Stephen Johnson, Director of Platform Engineering, Fullsteam
+With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
+Vendor-independent cloud
+Mirrored infrastructure
+In line with the 3-2-1 backup rule and NIST framework
+Instant recovery
+Find what you need quickly and restore individual records or entire application datasets in a few clicks.
+Fast, easy, and granular restore
+Rapid search and eDiscovery
+Preview files securely
+Secure file sharing
+Recover data intelligently
+Top-tier coverage
+Leading security
+Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
+Certified, cloud-native design
+Resilient and immutable
+Always-on compliance
+Protect data in transit and at rest
+Configure retention policies
+Control access rights
+Monitor data to detect anomalies
+Cost effectiveness
+Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
+Easy to budget
+Software and admin savings
+Drop unnecessary licensing costs
+Upgrades and maintenance included
+No hidden costs
+Revolutionary storage efficiency
+Scale with ease
+Outstanding simplicity
+Minimize deployment efforts
+and significantly reduce admin time with a simple platform made to improve efficiencies.
+Truly simple and intuitive
+Less effort, more efficiency
+Easy deployment
+Set and forget
+Reduce admin time
+Quick and responsive support
+Frequently asked questions
+How does the Entra ID configuration work?
+Once the connector is set up, you can configure the following items:
+Change the name of the connector
+Configure the backup of activity logs
+Manage user access to the connector
+Configure the retention period
+Where will my data be stored?
+Your data will be securely stored in Keepit’s independent cloud. We run our own data center regions, operate on our own hardware, and our own people manage the infrastructure.
+To ensure data sovereignty, we have six data center regions in:
+Americas: Washington D.C., USA & Toronto, Canada
+Europe: London, United Kingdom
+EU: Copenhagen, Denmark & Frankfurt, Germany,
+Asia: Sydney, Australia
+Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always go to that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the moves with all affected customers prior to execution.
+How long are my backups kept?
+With Keepit for Entra ID Advanced Business Essentials Service Offering, your data is kept for 12 months.
+With Keepit for Entra ID Advanced Enterprise Unlimited Service Offering, you will have unlimited retention.
+With Keepit for Entra ID Advanced Government Plus Service Offering, you will have unlimited retention.
+Yes, and we have our headquarters in Denmark, EU. Read more.
+Can I use Entra ID backup along with my other Keepit services?
+Yes, you can combine Entra ID backup with backup of Microsoft 365, Salesforce, Dynamics, Zendesk, PowerBI, and any other Keepit services for full protection of all your cloud data. Request a demo and our Sales team will get in touch with you.
+Get started today
+Experience the benefits and security of intelligent SaaS data protection.
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/services/backup-github/
 Content type: Web page
-Last modified: 2026-03-09T17:10:45+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T18:18:57+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -2114,9 +2239,9 @@ What we cover
 - Pull requests
 - User
 We continuously extend our capabilities. Find the complete, current coverage here.
-“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
-Nenad Ljubetic
-Head of IT, TALKE Group Germany 
+Blaze Credit Union protects multiple SaaS applications with Keepit
+"We protect all of our business critical SaaS platforms with Keepit. Using one platform to secure all of this data reduces complexity and makes it very easy to manage."
+— Grant Aslakson, Director of Information Security Operations, Blaze Credit Union
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud
@@ -2170,8 +2295,8 @@ Once a customer chooses a Keepit region for backup, their data never leaves that
 
 Source URL: https://www.keepit.com/services/backup-google-workspace/
 Content type: Web page
-Last modified: 2025-02-23T21:41:25+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-08-13T18:23:44+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -2220,8 +2345,9 @@ Security controls: Manage who has access to data and what permissions they have 
 Immutable and tamper-proof data
 The application does not expose any APIs or other means that allow data overwrites. Furthermore, the application uses a blockchain algorithm, which makes any low-level tampering impossible and easily evident.â¯
 In addition, Keepit features a deletion retention of all configured backup connections of at least one month thereby completely protecting the customer from data loss due to ransomware attacks.
-Why companies globally trust us
-Business continuity
+Krona revolutionizes data protection of their Google Workspace with Keepit
+"The deployment process was very quick; everything happened within the same week. Its usability is truly a differentiator for both the IT team and our colleagues."
+— Gilharde Wasneski, Information Architecture and Security Coordinator, Krona
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 Vendor-independent cloud
 Mirrored infrastructure
@@ -2261,9 +2387,6 @@ Easy deployment
 Set and forget
 Reduce admin time
 Quick and responsive support
-We needed an easy and cost-efficient set-up that was secure, GDPR-compliant, and which provided 100% uptime. That’s why we chose Keepit.
-Ken Schirrmacher
-Sr. Director of IT/Interim CIO at Park’N Fly
 Frequently asked questions
 Does Google back up data?
 Google Workspace does not include automatic backup and offers only minimal data protection against data deletions, overwrites, and ransomware. As a Google Workspace customer, you are responsible for ensuring the necessary protection of your data, not Google.
@@ -2294,8 +2417,8 @@ Experience the benefits and security of intelligent SaaS data protection.
 
 Source URL: https://www.keepit.com/services/backup-jira-confluence/
 Content type: Web page
-Last modified: 2026-05-12T23:12:18+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T17:57:49+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -2362,7 +2485,6 @@ Generalâ
 - Issue votes (backup only)
 - Watchersâ
 - Work logsâ
- 
 - Workflowsâ
 - Workflow schemesâ
 - Workflow schemes drafts (backup only)â
@@ -2394,9 +2516,9 @@ General
 - Inline comments version history
 - Attachmentsâ
 - Attachments version historyâ
-“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
-Nenad Ljubetic
-Head of IT, TALKE Group Germany 
+Centralized control and protection for SaaS applications: SPIEGEL-Verlag chooses Keepit
+"Coverage across SaaS applications was the most important factor for us. With Keepit, we can use one platform to protect multiple services."
+— Miroslav Najda, Head of IT Operations and DevOps, SPIEGEL-Verlag
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud
@@ -2446,8 +2568,8 @@ We are GDPR compliant, and our HQ is located in Denmark, EU. Read more.
 
 Source URL: https://www.keepit.com/services/backup-jira-service-management/
 Content type: Web page
-Last modified: 2026-06-03T06:44:35+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T17:59:13+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -2499,7 +2621,7 @@ Backup coverage for Jira Service Management
 - Object Attributes
 - Objects
 - Schema Statuses
- â
+â
 *Backup onlyâ
 - Request
 - Request Attachments
@@ -2525,9 +2647,9 @@ Backup coverage for Jira Service Management
 - Linked Issues
 *Backup onlyâ
 We continuously extend our capabilities. Find the complete, current coverage here.
-“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
-Nenad Ljubetic
-Head of IT, TALKE Group Germany 
+Centralized control and protection for SaaS applications: SPIEGEL-Verlag chooses Keepit
+"Backup is essential, but the real value comes from being able to restore data quickly and reliably. Otherwise, the backup itself becomes far less useful."
+— Miroslav Najda, Head of IT Operations and DevOps, SPIEGEL-Verlag
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud
@@ -2580,8 +2702,8 @@ Once a customer chooses a Keepit region for backup, their data never leaves that
 
 Source URL: https://www.keepit.com/services/backup-microsoft-365/
 Content type: Web page
-Last modified: 2025-08-21T20:46:46+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-13T18:22:59+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -2649,6 +2771,9 @@ Security: Immutability, ransomware prevention with entire snapshot restore
 Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
 Monitoring data to detect anomalies
 Minimal account administration
+Porsche Holding Salzburg migrates to the cloud, chooses Keepit for ransomware protection
+"We were searching for a SaaS solution, and we didn't want to back up all the data on-prem. Keepit's simple, easy-to-use cloud backup delivered what we were looking for."
+— Michael Bojko, System Engineer, Porsche Informatik
 How Keepit helps you
 Specifically designed for admins, Keepit makes manual restore processes a thing of the past.
 With ultra-fast smart search and restore features, you can restore multiple terabytes a day and get your M365 data back into its original location along with the original file structure and metadata.
@@ -2715,9 +2840,6 @@ and significantly reduce admin time with a simple platform made to improve effic
 - Set and forget
 - Reduce admin time
 - Quick and responsive support
-“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
-Nenad Ljubetic
-Head of IT, TALKE Group Germany 
 Frequently asked questions
 Always within the data center region you specify. Currently we have six data center regions: EU-DK, EU-DE, UKI, US, CA and APAC.
 As per Microsoft's responsibility model, the customer is responsible for keeping a backup of the data, not the cloud service provider. Read more
@@ -2795,8 +2917,8 @@ We were searching for a SaaS solution, and we didn’t want to back up all the d
 
 Source URL: https://www.keepit.com/services/backup-microsoft-dynamics-365/
 Content type: Web page
-Last modified: 2025-08-21T20:48:55+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T18:21:37+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -2814,8 +2936,6 @@ Native Dynamics 365 data is only retained for a maximum of 28 days with no exten
 Recovering a record in Dynamics 365 is time consuming. With Keepit for Dynamics 365, you can restore records in minutes.
 Ensure your mission-critical data has long data retention with up to 99 years of data storage.
 Save valuable time with an intuitive user interface, rapid setup, and minimal maintenance, freeing up your IT staff to get more done.
-With Keepit for Dynamics 365, get a comprehensive coverage of your Dynamics instances and entity metadata covering more than 500 data objects.
-For all workloads we cover the following data:
 End-to-end infrastructure management
 Data traffic: No egress, ingress, or transaction fees
 Storage (immutable backup and retention)
@@ -2853,9 +2973,7 @@ Intuitive user interface
 The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
 API-first
 You can integrate Keepit with your existing systems thanks to our API-first approach.
-"I would definitely recommend Keepit to anyone who is thinking about having a cloud-to-cloud backup of the Office 365 or D365 environment. It is very easy to use, and you don't need a lot of training or specialists."
-Manager in IT Mechanical or Industrial
-Engineering Company, 501-1000 employees
+— Lasse Thomsen, Former Information Systems Manager, Oxford University Innovation
 Yes, yet, the native Dynamics 365 backups are only kept for 28 days with no extension possible. This might put your business-critical data at risk.
 Here are the top reasons why should must back your Microsoft Dynamics 365 data:
 To learn more about why users have selected Keepit to back up their SaaS data, visit our Why Keepit page.
@@ -2872,8 +2990,8 @@ Learn more on our Security pages.
 
 Source URL: https://www.keepit.com/services/backup-miro/
 Content type: Web page
-Last modified: 2026-01-27T14:27:34+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T18:17:44+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -2928,9 +3046,9 @@ Backup coverage for Miro
 - Sticky notes
 - Texts
 Find the complete coverage here: Miro backup coverage.
-“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
-Nenad Ljubetic
-Head of IT, TALKE Group Germany 
+Blaze Credit Union protects multiple SaaS applications with Keepit
+"We protect all of our business critical SaaS platforms with Keepit. Using one platform to secure all of this data reduces complexity and makes it very easy to manage."
+— Grant Aslakson, Director of Information Security Operations, Blaze Credit Union
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud
@@ -2985,8 +3103,8 @@ Further, uniquely to Keepit, our staff and software development are also ISO2700
 
 Source URL: https://www.keepit.com/services/backup-monday/
 Content type: Web page
-Last modified: 2026-05-05T19:08:18+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T18:19:54+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -3037,9 +3155,9 @@ What we cover
 - Boards
 - Photo
 We continuously extend our capabilities. Find the complete, current coverage here.
-“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
-Nenad Ljubetic
-Head of IT, TALKE Group Germany 
+Blaze Credit Union protects multiple SaaS applications with Keepit
+"We protect all of our business critical SaaS platforms with Keepit. Using one platform to secure all of this data reduces complexity and makes it very easy to manage."
+— Grant Aslakson, Director of Information Security Operations, Blaze Credit Union
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud
@@ -3092,8 +3210,8 @@ Once a customer chooses a Keepit region for backup, their data never leaves that
 
 Source URL: https://www.keepit.com/services/backup-okta/
 Content type: Web page
-Last modified: 2026-05-12T23:00:18+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T18:03:44+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -3192,9 +3310,9 @@ Generalâ
 - Authentication settings (IE)ââ
 *Backup onlyâ
 Find the complete coverage details here: Okta Backup Coverage
-“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
-Nenad Ljubetic
-Head of IT, TALKE Group Germany 
+Flow Control Group strengthens identity and multi-application SaaS protection with Keepit
+"Okta is our primary identity provider. If something were to happen to that tenant, we can quickly restore with Keepit — that's not something you leave to chance."
+— Jonathan Carr, Cyber Security and Compliance Manager, Flow Control Group
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud
@@ -3249,8 +3367,8 @@ Further, uniquely to Keepit, our staff and software development are also ISO2700
 
 Source URL: https://www.keepit.com/services/backup-power-platform/
 Content type: Web page
-Last modified: 2026-01-08T21:47:33+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-08-12T18:06:42+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -3286,67 +3404,16 @@ Recover exactly what you need — no need to restore entire environments, unlike
 Dedicated independent cloud
 Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
 With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
-The all-inclusive Keepit platform
-What's included:
-User
-End-to-end infrastructure management
-Data traffic: No egress, ingress, or transaction fees
-Storage (immutable backup and retention)
-Installation (100% cloud based: no hardware, no upgrades)
-Maintenance, support, and updates
-Automatic backups
-Security: Immutability, ransomware prevention with entire snapshot restore
-With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
-Vendor-independent cloud
-Mirrored infrastructure
-In line with the 3-2-1 backup rule and NIST framework
-Instant recovery
-Find what you need quickly and restore individual records or entire application datasets in a few clicks.
-Fast, easy, and granular restore
-Rapid search and eDiscovery
-Preview files securely
-Secure file sharing
-Recover data intelligently
-Top-tier coverage
-Leading security
-Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
-Certified, cloud-native design
-Resilient and immutable
-Always-on compliance
-Protect data in transit and at rest
-Configure retention policies
-Control access rights
-Monitor data to detect anomalies
-Cost effectiveness
-Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
-Easy to budget
-Software and admin savings
-Drop unnecessary licensing costs
-Upgrades and maintenance included
-No hidden costs
-Revolutionary storage efficiency
-Scale with ease
-Outstanding simplicity
-Minimize deployment efforts
-and significantly reduce admin time with a simple platform made to improve efficiencies.
-Truly simple and intuitive
-Less effort, more efficiency
-Easy deployment
-Set and forget
-Reduce admin time
-Quick and responsive support
-“If you don't have third-party backup and Microsoft cannot restore your data, you're just out of luck. We went with Keepit to ensure both consistent backup and long-term retention of our data."
-Ken Schirrmacher
-Sr. Director of IT/Interim CIO at Park’N Fly
-Get started today
-Experience the benefits and security of intelligent SaaS data protection.
+Keepit and the French Tennis Federation: A grand slam for data protection
+"Keepit has brought us what we initially wanted — independent backup. It has also brought us quite specific uses that we hadn't identified at the beginning, such as centralized and traceable archiving, and the ability to integrate everything into the same platform."
+— Frank Labat, IT Technical Director, French Tennis Federation
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/services/backup-salesforce/
 Content type: Web page
-Last modified: 2025-02-23T21:46:11+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-08-12T18:26:06+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -3393,10 +3460,6 @@ Security: Immutability, ransomware prevention with entire snapshot restore
 Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
 Monitoring data to detect anomalies
 Minimal account administration
-“Keepit could become your company’s go-to backup and recovery tool for Salesforce, allowing you to not only safeguard all of your data but also have it readily available to restore, share, or permanently forget. The platform’s simplicity and ease of use alongside the independent cloud are sure to supercharge your backup and recovery strategy long term.” 
-Andreea Doroftei
-Technical Instructor, Salesforce Ben
-Read the full review
 How Keepit helps you
 Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
 With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
@@ -3427,6 +3490,9 @@ The Right to be Forgotten. Stay fully compliant with GDPR by preventing data fro
 Security Controls. Manage who has access to data and what permissions they have with granular Role Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
 Keepit’s pricing is user-based — not tied to data volume. You only pay for active Salesforce users, while we continue to protect data from inactive users at no additional cost.
 There are no data transfer fees, rehydration charges, or storage costs, and retention is unlimited. That means you can back up and restore with complete peace of mind — without worrying about growing data volumes, hidden fees, or long-term limits. As your Salesforce environment evolves, your protection scales with you.
+Salesforce Ben secures its Salesforce data with Keepit
+"We just let it run, and it does exactly what we need it to do. Knowing backups are completing successfully without intervention is a huge time-saver."
+— Andreea Doroftei, Solution Architect, Salesforce Ben
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud
@@ -3463,9 +3529,6 @@ and significantly reduce admin time with a simple platform made to improve effic
 - Set and forget
 - Reduce admin time
 - Quick and responsive support
-“Keepit truly is a simple-to-understand and user-centric solution for any scaling enterprise.”
-Stefan Toefferl
-Senior Data Center Engineer, ALPLA
 Frequently asked questions
 No. Salesforce does not take responsibility and cannot guarantee that you get 100% of your data back in case of data loss. On Salesforce’s own website, they state: “It is recommended that you keep a regular backup of your data and to do a manual point-in-time backup before you proceed with any major data project within your organization.”
 Many organizations use Salesforce to manage their sales cycle and customer relations. Most of the record data is essential for business continuity and would be disastrous to lose. Salesforce does not protect you if you lose data due to human error, ransomware, or other outage scenarios. To avoid data loss, Salesforce recommends investing in a third-party backup and recovery service.
@@ -3488,8 +3551,8 @@ Yes, you can combine Salesforce backup with your other favorite SaaS app backups
 
 Source URL: https://www.keepit.com/services/backup-zendesk/
 Content type: Web page
-Last modified: 2025-02-23T21:35:08+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-08-12T18:16:54+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -3548,6 +3611,9 @@ Get your Zendesk data back instantly with smart search, file preview, and granul
 Save training time for your team with our easy-to-use and easy-to-restore tool.â¯â¯
 With point-in-time restore capability, restore your data from a previous snapshot.
 Access versatile restore options (with download capabilities for data objects and folders) and provide users with relevant and secure shareable links.
+Blaze Credit Union protects multiple SaaS applications with Keepit
+"We protect all of our business critical SaaS platforms with Keepit. Using one platform to secure all of this data reduces complexity and makes it very easy to manage."
+— Grant Aslakson, Director of Information Security Operations, Blaze Credit Union
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud

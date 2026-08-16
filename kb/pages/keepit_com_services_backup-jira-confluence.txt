@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-jira-confluence/
 Content type: Web page
-Last modified: 2026-05-12T23:12:18+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T17:57:49+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -68,7 +68,6 @@ Generalâ
 - Issue votes (backup only)
 - Watchersâ
 - Work logsâ
- 
 - Workflowsâ
 - Workflow schemesâ
 - Workflow schemes drafts (backup only)â
@@ -100,9 +99,9 @@ General
 - Inline comments version history
 - Attachmentsâ
 - Attachments version historyâ
-“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
-Nenad Ljubetic
-Head of IT, TALKE Group Germany 
+Centralized control and protection for SaaS applications: SPIEGEL-Verlag chooses Keepit
+"Coverage across SaaS applications was the most important factor for us. With Keepit, we can use one platform to protect multiple services."
+— Miroslav Najda, Head of IT Operations and DevOps, SPIEGEL-Verlag
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud

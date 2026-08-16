@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — BLOG
-Generated: 2026-08-09
+Generated: 2026-08-16
 Pages: 135
 ============================================================
 
@@ -4335,8 +4335,8 @@ The future of scalability is in our hands: Let’s design it deliberately.
 
 Source URL: https://www.keepit.com/blog/scarcity-of-cybersecurity-experts/
 Content type: Web page
-Last modified: 2025-08-20T00:30:47+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T18:36:59+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -4368,9 +4368,6 @@ Michael Bojko
 System Engineer at Porsche Informatik
 By providing an easy-to-use cloud SaaS data backup and data management solution across a suite of SaaS applications including Microsoft 365, Salesforce, Google Workspace (to name but a few), Keepit enables companies to continue into the future with confidence. Businesses can even get Azure AD data protection for free with the Identity Basic offering from Keepit. Read about backup and recovery for Azure Active Directory.
 Compensate for the shortage of security experts by having an automated data protection and management system in place. This reduces the need for manual intervention, which can be time-consuming and requires specialized skills.
-Our everyday is busy enough with keeping everything up and running. Keepit's solution does its job in the background so that we can focus on other tasks.
-Ken Schirrmacher
-Sr. Director of IT/Interim CIO at Park 'N Fly
 Where should you start? Learn more about data management and protection
 Keepit enables companies to have peace of mind, regardless of any new legislation or cybercrime events. Learn more about our service offerings.
 
@@ -5016,14 +5013,14 @@ Keepit can help you comply with the White House’s new recommendations for your
 
 Source URL: https://www.keepit.com/blog/user-experience-first/
 Content type: Web page
-Last modified: 2025-08-20T00:30:46+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T18:35:44+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
 How Keepit puts user experience first
 Keepit is known for delivering a certain quality of User Experience (UX), which is reflected in customer feedback examples, such as:
-"Keepit's user-friendliness is a financial win-win" from customer story SIG and another from Park 'N Fly saying, "I like to call Keepit a Steady Eddie. I know it's working; I know it's running, and I don't have to sweat it."
+"Keepit's user-friendliness is a financial win-win" from customer story SIG.
 Behind Keepit's simple design and ease of use lies a deliberate approach, rooted in the idea that our whole system, from the deepest backend layers to the user interface, is built to support a solid User Experience.
 However, in the software field, UX has been interpreted in various ways and caused confusion in how it differs from User Interface Design. So, what is UX to Keepit? And how does Keepit go about all this in practicality?
 Foundation of UX

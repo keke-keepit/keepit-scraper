@@ -1,5 +1,29 @@
 # Keepit KB Changelog
 
+## 2026-08-16
+
+Added (1):
+- https://www.keepit.com/ai-truth-cloud-animation-v1/
+
+Removed (4):
+- https://www.keepit.com/customers/gcp/
+- https://www.keepit.com/customers/park-n-fly/
+- https://www.keepit.com/customers/roskilde-technical-college/
+- https://www.keepit.com/customers/the-danish-cancer-society/
+
+Modified (24):
+- https://www.keepit.com/blog/scarcity-of-cybersecurity-experts/
+- https://www.keepit.com/blog/user-experience-first/
+- https://www.keepit.com/help/mcp-category/mcp-prompt-library/
+- https://www.keepit.com/help/microsoft-365-category/recover-teams-chats/
+- https://www.keepit.com/help/product-updates/
+- https://www.keepit.com/press/
+- https://www.keepit.com/pricing/
+- https://www.keepit.com/resources/events/
+- https://www.keepit.com/services/backup-azure-devops/
+- https://www.keepit.com/services/backup-bamboohr/
+- (... and 14 more)
+
 ## 2026-08-09
 
 Added (4):

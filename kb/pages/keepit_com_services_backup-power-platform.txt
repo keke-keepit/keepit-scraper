@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-power-platform/
 Content type: Web page
-Last modified: 2026-01-08T21:47:33+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-08-12T18:06:42+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -37,57 +37,6 @@ Recover exactly what you need — no need to restore entire environments, unlike
 Dedicated independent cloud
 Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
 With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
-The all-inclusive Keepit platform
-What's included:
-User
-End-to-end infrastructure management
-Data traffic: No egress, ingress, or transaction fees
-Storage (immutable backup and retention)
-Installation (100% cloud based: no hardware, no upgrades)
-Maintenance, support, and updates
-Automatic backups
-Security: Immutability, ransomware prevention with entire snapshot restore
-With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
-Vendor-independent cloud
-Mirrored infrastructure
-In line with the 3-2-1 backup rule and NIST framework
-Instant recovery
-Find what you need quickly and restore individual records or entire application datasets in a few clicks.
-Fast, easy, and granular restore
-Rapid search and eDiscovery
-Preview files securely
-Secure file sharing
-Recover data intelligently
-Top-tier coverage
-Leading security
-Prevent attackers from manipulating your backups and minimize the risk of data breach with reliable security.
-Certified, cloud-native design
-Resilient and immutable
-Always-on compliance
-Protect data in transit and at rest
-Configure retention policies
-Control access rights
-Monitor data to detect anomalies
-Cost effectiveness
-Never worry about overage costs or hidden surprises with simple and predictable pricing that saves you money.
-Easy to budget
-Software and admin savings
-Drop unnecessary licensing costs
-Upgrades and maintenance included
-No hidden costs
-Revolutionary storage efficiency
-Scale with ease
-Outstanding simplicity
-Minimize deployment efforts
-and significantly reduce admin time with a simple platform made to improve efficiencies.
-Truly simple and intuitive
-Less effort, more efficiency
-Easy deployment
-Set and forget
-Reduce admin time
-Quick and responsive support
-“If you don't have third-party backup and Microsoft cannot restore your data, you're just out of luck. We went with Keepit to ensure both consistent backup and long-term retention of our data."
-Ken Schirrmacher
-Sr. Director of IT/Interim CIO at Park’N Fly
-Get started today
-Experience the benefits and security of intelligent SaaS data protection.
+Keepit and the French Tennis Federation: A grand slam for data protection
+"Keepit has brought us what we initially wanted — independent backup. It has also brought us quite specific uses that we hadn't identified at the beginning, such as centralized and traceable archiving, and the ability to integrate everything into the same platform."
+— Frank Labat, IT Technical Director, French Tennis Federation

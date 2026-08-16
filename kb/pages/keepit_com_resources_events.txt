@@ -1,20 +1,19 @@
 Source URL: https://www.keepit.com/resources/events/
 Content type: Web page
-Last modified: 2026-07-03T14:08:18+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-14T00:07:48+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
-Keepit events
-Join us at an upcoming event. We are eager to meet you!
-Americas
-September 21-23, 2026 |Â SÃ£o Paulo, BrazilGartner CIO & IT Executive Conference 2026
-Americas
-October 19-22, 2026 | Orlando, FLGartner IT Symposium/Xpoâ¢ 2026 conference
-Europe
-November 9-12, 2026 | Barcelona, SpainGartner IT Symposium/Xpoâ¢ 2026 conference
-Europe
-November 16-17, 2026 | London, UKGartner IT Infrastructure, Operations & Cloud Strategies Conference 2026
-Americas
-December 8-10, 2026 | Las Vegas, NVGartner IT Infrastructure, Operations & Cloud Strategies Conference 2026
-Europe
+October 19-22, 2026
+Walt Disney World Resort, Orlando, FL
+Meet Keepit at Gartner IT Symposium/Xpo 2026 
+AI doesn't create truth. It amplifies whatever it's given. Meet Keepit at Gartner IT Symposium/Xpo 2026 in Orlando, October 19–22, and hear why an independent, always-recoverable single point of truth is the foundation responsible AI adoption depends on.  
+Use SYM36EDC to get $575 discount on your ticket here. 
+Conference URL: https://www.gartner.com/en/conferences/na/symposium-us 
+Keepit: The foundation AI can't build itself — a single point of truth
+AI doesn't create truth. It amplifies whatever it's given. As organizations expand AI across their SaaS applications, one lesson keeps resurfacing: you can't build a recovery strategy on the systems you need to recover from. This session explores why an independent, verified, and always-recoverable single point of truth is the foundation responsible AI adoption depends on — and why trust, recoverability, and AI strategy belong in the same conversation. 
+In this session, you’ll learn: 
+- A clearer understanding of why recovery responsibility has always sat with the organization — not the platform  
+- Practical insight into the SaaS data protection gaps that AI adoption makes more urgent, not less  
+- A framework for building a single point of truth that is independent, verified, and always recoverable

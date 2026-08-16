@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-microsoft-365/
 Content type: Web page
-Last modified: 2025-08-21T20:46:46+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-13T18:22:59+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -69,6 +69,9 @@ Security: Immutability, ransomware prevention with entire snapshot restore
 Compliance: HIPAA/HITRUST, FINRA, FISMA, GDPR, NIS2
 Monitoring data to detect anomalies
 Minimal account administration
+Porsche Holding Salzburg migrates to the cloud, chooses Keepit for ransomware protection
+"We were searching for a SaaS solution, and we didn't want to back up all the data on-prem. Keepit's simple, easy-to-use cloud backup delivered what we were looking for."
+— Michael Bojko, System Engineer, Porsche Informatik
 How Keepit helps you
 Specifically designed for admins, Keepit makes manual restore processes a thing of the past.
 With ultra-fast smart search and restore features, you can restore multiple terabytes a day and get your M365 data back into its original location along with the original file structure and metadata.
@@ -135,9 +138,6 @@ and significantly reduce admin time with a simple platform made to improve effic
 - Set and forget
 - Reduce admin time
 - Quick and responsive support
-“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
-Nenad Ljubetic
-Head of IT, TALKE Group Germany 
 Frequently asked questions
 Always within the data center region you specify. Currently we have six data center regions: EU-DK, EU-DE, UKI, US, CA and APAC.
 As per Microsoft's responsibility model, the customer is responsible for keeping a backup of the data, not the cloud service provider. Read more

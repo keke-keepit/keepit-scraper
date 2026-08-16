@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — CUSTOMERS
-Generated: 2026-08-09
-Pages: 63
+Generated: 2026-08-16
+Pages: 59
 ============================================================
 
 Source URL: https://www.keepit.com/customers/
@@ -600,49 +600,6 @@ Senior Director of Enterprise Services, Fullsteam
 Independent recovery by design
 Keepit provides a vendor-independent SaaS data protection platform purpose-built for cloud environments. By storing backups in an independent cloud and combining encryption with immutability, the platform creates a secure foundation for reliable recovery. Flexible access controls and scalable architecture enable organizations to protect multiple applications while maintaining governance and compliance.
 For Fullsteam, that means stronger operational resilience without added complexity, and confidence that its data is here today and here tomorrow.
-
-------------------------------------------------------------
-
-Source URL: https://www.keepit.com/customers/gcp/
-Content type: Web page
-Last modified: 2026-01-07T13:45:32+01:00
-Retrieved: 2026-07-21
-
-============================================================
-
-10-Year Data Retention Requirement Guaranteed with Keepit
-Having Keepit as our trusted cloud backup provider guarantees that our M365 data continues to be secure and available at all times.
-Eldad Omer
-Deputy CIO & Head of IT
-10-Year Retention Ensures Compliance
-According to Deputy CIO & Head of IT Eldad Omer, the most difficult compliance requirement to fulfill in Germany is the 10-year retention period of all financial data. Add to this, the ability to quickly find data for audits and other legal cases, making high data availability a key requirement for GCP.
-With Keepit’s private, vendor-neutral cloud, GCP’s business-critical data is stored at two separate locations independent of Microsoft’s public cloud, applying the classic 3-2-1 backup strategy to the cloud. GCP’s data has always been protected by the highest level of security, and it continues to be as more data is stored in the cloud.
-Passing a strict due diligence process, Keepit proved to meet the requirements of GCP:
-- 10-year retention period
-- Minimum 2 data centers at separate locations
-- 2 automated backups a day
-- High data availability
-- Multi-factor authentication
-- Single sign on
-Easy to Find and Share Data
-With Keepit, IT admins can process requests from GCP’s legal department within a day. Granular restore features paired with the platform’s intuitive UI allows admins to quickly find Outlook, Calendar, Contacts, and Tasks folders for a particular user, which can then be recovered using the PST Download feature. Admins can easily share entire outlook folders with the GCP legal team, who then identify the requested file in accordance with the strict and binding General Data Protection Regulation (GDPR) requirements.
-Restoring data that was deleted months ago is one of the most common requests we receive. This is not possible with Microsoft’s 93-day retention period.
-Eldad Omer
-Deputy CIO & Head of IT
-Minimize Downtime, Maximize Availability
-With eDiscovery features, Keepit helps GCP ensure business continuity and minimize downtime. One of the most valuable features for GCP is Keepit’s Deleted Items View, that allows admins to search across all historical backup datasets and through time. The Snapshot feature makes it possible to identify the exact file before initiating a restore.
-One of Keepit’s strengths is instant availability: We are restoring missing data on a daily basis, and Keepit makes it possible for a single admin to manage the data of 1,500 users.
-Eldad Omer
-Deputy CIO & Head of IT
-Simple Pricing
-Estimating the cost for 10 year-retention was not a straightforward process with other vendors like Veeam and AvePoint. With Keepit however, there are no hidden costs. GCP licenses active users in M365 - all the rest is included in the pricing: Storage, infrastructure, SLAs, 24/7 support, and more.
-Calculating backup costs over a longer period of time is made simple with Keepit.
-Eldad Omer
-Deputy CIO & Head of IT
-With Keepit, GCP has a guaranteed data management and protection platform that provides high data availability, granular restore functions and a 10-year retention period.
-With Keepit, we are adding an extra layer of security, safeguarding confidential user data.
-Eldad Omer
-Deputy CIO & Head of IT
 
 ------------------------------------------------------------
 
@@ -1257,37 +1214,6 @@ Keepit is a reliable, robust, and a mature backup solution. It allows for granul
 
 ------------------------------------------------------------
 
-Source URL: https://www.keepit.com/customers/park-n-fly/
-Content type: Web page
-Last modified: 2026-01-07T13:35:59+01:00
-Retrieved: 2026-07-21
-
-============================================================
-
-Keepit Provides Park 'N Fly with an Easy-to-Use Solution
-In search of a secure cloud backup solution, Park 'N Fly chose Keepit as their Microsoft 365 backup and recovery solution. An easy-to-use solution, Keepit saves time and gives the IT team at Park 'N Fly peace of mind.
-No More Micromanaging Multiple Backup Applications
-Prior to using Keepit, Senior Director of IT Ken Schirrmacher shares that his daily tasks involved micromanaging multiple backup solutions – a time-drain that stole energy from his day-to-day workload. Keepit’s easy-to-use solution provides the comprehensive backup that Park 'N Fly needs, giving Ken’s IT team the opportunity to focus on other tasks.
-Our everyday is busy enough with keeping everything up and running. Keepit's solution does its job in the background so that we can focus on other tasks.
-Ken Schirrmacher
-Sr. Director of IT/Interim CIO at Park 'N Fly
-Microsoft Backup “Not Enough”
-Aware of Microsoft's own recommendation to use a third-party backup, Park 'N Fly decided that relying on Microsoft for backup wasn’t enough. After all, in the event of data loss, Microsoft may not be able to deliver a data restore. Park 'N Fly chose Keepit as their backup solution to ensure that their data was being backed up twice daily, giving them peace of mind knowing that their data was safe in the event of data loss or data deletion.
-If you don't have third-party backup and Microsoft cannot restore your data, you're just out of luck. We went with Keepit to ensure both consistent backup and long-term retention of our data.
-Ken Schirrmacher
-Sr. Director of IT/Interim CIO at Park 'N Fly
-Unparalleled Ease of Use
-When Park 'N Fly first started using Keepit, they were amazed at how easy it was to setup and use the platform. For the first time in a while, Senior Director of IT Ken Schirrmacher explains that he didn’t have to have “four or five different versions of the software running” to secure the backup.
-I can't speak more highly about the fact that I can have Keepit running in the back end, and I know it's backing everything up.
-Ken Schirrmacher
-Sr. Director of IT/Interim CIO at Park 'N Fly
-Keepit's reliable and easy-to-use backup solutions save the Park 'N Fly IT team time and energy so that they can focus on their daily tasks while Keepit runs quietly in the background. Park 'N Fly's Senior Director of IT Ken Schirrmacher expresses that his day-to-day tasks run much smoother now that Keepit reliably backs up data.
-I like to call Keepit a Steady Eddie. I know it's working; I know it's running, and I don't have to sweat it.
-Ken Schirrmacher
-Sr. Director of IT/Interim CIO at Park 'N Fly
-
-------------------------------------------------------------
-
 Source URL: https://www.keepit.com/customers/parramatta/
 Content type: Web page
 Last modified: 2025-10-03T13:38:36+02:00
@@ -1479,54 +1405,6 @@ Sr. Security Engineer, Riverstone Logistics
 A platform built to grow with the businessâ¯â¯
 As Riverstone Logistics continues to mature its security and business continuity programs, Keepit remains part of the plan. The platform is built to scale, and the relationship between Riverstone, Alchemy, and Keepit is built on the kind of trust that tends to last.â¯
 “The combination of a strong platform, responsive support, and a customer-focused approachâ¯hasâ¯made Keepit a valuable addition to our technology ecosystem,” Graham says.â¯
-
-------------------------------------------------------------
-
-Source URL: https://www.keepit.com/customers/roskilde-technical-college/
-Content type: Web page
-Last modified: 2026-01-08T12:19:36+01:00
-Retrieved: 2026-07-21
-
-============================================================
-
-Why Roskilde Technical College secures their data with Keepit
-Chose to secure their Microsoft 365 data further with the Keepit backup solution for Microsoft 365.
-Roskilde Technical College employs about 400 workers, all using Microsoft 365. The college chose to secure their Microsoft 365 data further with the Keepit backup solution for Microsoft 365.
-Fear of Cyber Attacks
-Before establishing an independent backup of Microsoft 365, IT manager Morten Andersen’s worst nightmare was a cyber attack on Roskilde Technical College.
-Since Microsoft did not give Andersen a full backup and restore option, the college could lose important training materials and sensitive documents from Payroll and Finance.
-"Ultimately, it’s me as IT manager who has the overall responsibility. So if, for example, our data on the Microsoft 365 platform was corrupted, I would be to blame", Andersen explains.
-According to Price Waterhouse Cooper’s Cyber Crime Survey 2016, fear of cyber crime is most common among IT managers, business managers and specialists from Danish companies. 159% of 250 respondents have been exposed to cyber attacks within the past year, and the number of cyber attacks is increasing, and with greater consequences. Cyber crime poses a growing threat to data security among businesses and institutions. And with 400 Microsoft 365 users at Roskilde Technical College, it was critical for Andersen to establish an independent backup of Microsoft 365.
-Understanding Local Legal Requirements
-Besides meeting all the technical requirements, one of Andersen’s main criterion for his solution was the supplier. He wanted a local supplier that was reliable, and who understood the local legal requirements.
-"Call us old-fashioned, but it is important for us that our backup vendor has a physical local presence and is available day to day," Andersen emphasizes.
-This is a criterion that Keepit hears often from customers. Very few people are interested in leaving important and confidential data in the hands of an unknown supplier abroad.
-When Andersen surveyed the market for backup solutions, he experienced a somewhat mixed market, and quickly decided that he did not want to do business with a supplier that nobody knew of or could recommend.
-Easy to Move User Data
-Another decisive factor for choosing Keepit, was the feature to easily and quickly move data from one user to another. As an educational institution, Roskilde Technical College has a natural turnover of teachers, and it is important that it is possible to easily move the data between users.
-One of the problems we experienced with Microsoft 365 was that it was really complicated to move the data from one user to another. With Keepit, we can now move data between users in an easy and quick way - it's just perfect.
-Morten Andersen
-IT Manager, Roskilde Technical College
-Cloud Backup rather than On-Premises
-Roskilde Technical College went through a process where cloud as well as on-premises backup solutions were investigated. Andersen was unsure whether a cloud solution was able to meet the college’s high safety requirements. He chose the Keepit cloud backup as the most competent and trustworthy solution.
-Andersen admits that it was a huge mental leap for him to choose a cloud provider rather than a locally based solution with on-premises backup. That’s because you need to rely on the supplier 100% when you give it access to your secure data via cloud.
-Keepit Secures Sensitive Information in the Cloud
-After the Keepit implementation, Andersen no longer worries about using Microsoft 365 for extra sensitive information.
-We have taken a massive leap because we trust that Keepit keeps our data safe in the best possible way,” says Andersen who now sleeps peacefully at night. Keepit gives him confidence that the college's Microsoft 365 data is safe and secure and can easily be restored in the event of a cyber attack or user errors.to do.
-Morten Andersen
-IT Manager, Roskilde Technical College
-User-Friendly Solution with Local Support
-Andersen and his team find Keepit to be easy to install and praise the simple and user-friendly interface.
-The Keepit backup solution is easy to understand and apply for all kinds of users. Roskilde Technical College is also happy about Keepit’s support team, where they can quickly get help without having to go through a time-consuming support filter.
-Roskilde Technical College has experienced these benefits with Keepit:
-- Microsoft 365 data is safe in case of ransomware and user errors
-- Easy to move data between users
-- Security for easy and fast restoration of data if disaster strikes
-- A safe and secure solution that enables Morten Andersen to allow Microsoft 365 for extra sensitive information
-The Right Solution for Roskilde Technical College
-Roskilde Technical College has chosen to secure their Microsoft 365 data with the Keepit cloud backup solution. During the selection, IT Manager Morten Andersen emphasized that Keepit is a recognized and well-established IT company that offers local support.
-Keepit provides Morten Andersen an easy way to restore data in the event of cyber attacks or user errors. With Keepit, Morten Andersen has raised the college's IT security to the level where he can allow Microsoft 365 for sensitive information.
-The IT team is happy that Keepit can easily move data from one user to another, as is often required at the college. A major benefit is that the solution is easy to use.
 
 ------------------------------------------------------------
 
@@ -1830,35 +1708,6 @@ Following this success story, Technology Did It recommends Keepit to other compa
 Keepit is a no brainer. It’s secure, cost-effective and easy to maintain.
 Tiffany Carra
 Owner of Technology Did It
-
-------------------------------------------------------------
-
-Source URL: https://www.keepit.com/customers/the-danish-cancer-society/
-Content type: Web page
-Last modified: 2026-01-08T12:01:06+01:00
-Retrieved: 2026-07-21
-
-============================================================
-
-Danish Cancer Society chooses Keepit to protect against service outages and external cyberattacks
-The Danish Cancer Society is the largest patient association in Denmark devoted to fighting cancer. The group’s main activities are within research, patient support and prevention. The Danish Cancer Society has around 800 full-time employees, more than 400,000 members, and almost 45,000 volunteers.
-Collaboration is easier in the cloud
-The Danish Cancer Society decided to migrate to the Microsoft 365 cloud infrastructure three years ago, providing increased flexibility, greater capability for mobile working and more secure access to data. IT Systems Manager Jeanne Andersen explains that Microsoft 365 has also made it easier for employees to collaborate on projects; moreover, the cloud infrastructure makes it simpler to share information between colleagues, departments, and external stakeholders.
-The migration is an on-going process, integrating more elements of Microsoft 365 into daily use including SharePoint to collaborate on projects, and OneDrive for storing and sharing files.
-As we continue to migrate more of our data to the cloud, it is critical for us to have a secure backup solution in place. There have been examples of the Microsoft 365 service being offline for a whole day. Should this happen, and we are unable to access our emails and files, it would cause significant problems for the society.
-Jeanne Andersen
-IT Systems Manager, Danish Cancer Society
-Why cloud backup is important
-With the majority of the organization’s workflow and information now in the cloud, secure, third-party data backup became a top priority. The Danish Cancer Society also required a method to ensure constant access to their information during events like an Microsoft 365 service outage, external cyberattack, etc. In order to fulfil these requirements, Keepit was selected as the Microsoft 365 backup and recovery solution.
-It is important that we are prepared for ransomware threats, or other malicious attacks targeting our data. If we did not have a backup solution in place, it would leave us in big trouble!
-Jeanne Andersen
-IT Systems Manager, Danish Cancer Society
-Easy on-boarding with Keepit
-The Danish Cancer Society was fully satisfied with the service provided by Keepit’s staff. Andersen’s IT team enjoyed an effective dialogue with Keepit’s support team during and after the process of connecting their Microsoft 365 service to Keepit.
-I have been in the IT business for more than twenty years, and I’ve never before experienced an on-boarding process that was executed with such speed and efficiency!
-Jeanne Andersen
-IT Systems Manager, Danish Cancer Society
-In addition to being confident that their organization’s data is securely backed up and always available, Anderson notes some additional benefits from using Keepit. “It gives us peace of mind to know that there is full backup of all our cloud data,” Anderson adds. “But Keepit has given us a much clearer overview of our Microsoft 365 data, and provides greater ease of use too.“ Next steps for the Danish Cancer Society include using Teams for Microsoft 365, which will also be automatically and securely backed up as part of the Keepit service.
 
 ------------------------------------------------------------
 

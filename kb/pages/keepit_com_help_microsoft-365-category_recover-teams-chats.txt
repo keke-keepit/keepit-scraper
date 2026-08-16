@@ -1,11 +1,8 @@
 Source URL: https://www.keepit.com/help/microsoft-365-category/recover-teams-chats/
 Content type: Web page
-Last modified: 2026-06-30T00:42:35+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-15T10:21:25+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
-Recover Teams chats
-At this time, Teams chats can only be previewed, downloaded, or shared.
-For details on how to download Teams chats data, go to Download Microsoft 365 data.
-For details on how to create a public link with Teams chats data, go to Share data with a public link.
+At this time, Teams chats can only be previewed, downloaded, or shared. For details on how to download Teams chats data, click here For details on how to create a public link with Teams chats data, click here

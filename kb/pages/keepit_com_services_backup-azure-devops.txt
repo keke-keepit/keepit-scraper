@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-azure-devops/
 Content type: Web page
-Last modified: 2025-02-23T21:39:31+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-08-12T18:07:58+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -69,8 +69,8 @@ Dedicated independent cloud
 Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
 With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
 Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
-Why companies globally trust us
-Business continuity
+Emmi selects Keepit, names the solution a ‘scalable and future-proof’ choice
+"Overall, Keepit contributes significantly to Emmi's risk management goals by providing a reliable and scalable backup solution that secures business operations."
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 Vendor-independent cloud
 Mirrored infrastructure

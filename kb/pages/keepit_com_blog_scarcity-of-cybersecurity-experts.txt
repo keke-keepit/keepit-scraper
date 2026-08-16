@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/blog/scarcity-of-cybersecurity-experts/
 Content type: Web page
-Last modified: 2025-08-20T00:30:47+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T18:36:59+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -33,8 +33,5 @@ Michael Bojko
 System Engineer at Porsche Informatik
 By providing an easy-to-use cloud SaaS data backup and data management solution across a suite of SaaS applications including Microsoft 365, Salesforce, Google Workspace (to name but a few), Keepit enables companies to continue into the future with confidence. Businesses can even get Azure AD data protection for free with the Identity Basic offering from Keepit. Read about backup and recovery for Azure Active Directory.
 Compensate for the shortage of security experts by having an automated data protection and management system in place. This reduces the need for manual intervention, which can be time-consuming and requires specialized skills.
-Our everyday is busy enough with keeping everything up and running. Keepit's solution does its job in the background so that we can focus on other tasks.
-Ken Schirrmacher
-Sr. Director of IT/Interim CIO at Park 'N Fly
 Where should you start? Learn more about data management and protection
 Keepit enables companies to have peace of mind, regardless of any new legislation or cybercrime events. Learn more about our service offerings.

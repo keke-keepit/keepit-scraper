@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-monday/
 Content type: Web page
-Last modified: 2026-05-05T19:08:18+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T18:19:54+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -52,9 +52,9 @@ What we cover
 - Boards
 - Photo
 We continuously extend our capabilities. Find the complete, current coverage here.
-“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
-Nenad Ljubetic
-Head of IT, TALKE Group Germany 
+Blaze Credit Union protects multiple SaaS applications with Keepit
+"We protect all of our business critical SaaS platforms with Keepit. Using one platform to secure all of this data reduces complexity and makes it very easy to manage."
+— Grant Aslakson, Director of Information Security Operations, Blaze Credit Union
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud

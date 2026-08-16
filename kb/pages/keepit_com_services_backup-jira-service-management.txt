@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-jira-service-management/
 Content type: Web page
-Last modified: 2026-06-03T06:44:35+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T17:59:13+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -53,7 +53,7 @@ Backup coverage for Jira Service Management
 - Object Attributes
 - Objects
 - Schema Statuses
- â
+â
 *Backup onlyâ
 - Request
 - Request Attachments
@@ -79,9 +79,9 @@ Backup coverage for Jira Service Management
 - Linked Issues
 *Backup onlyâ
 We continuously extend our capabilities. Find the complete, current coverage here.
-“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
-Nenad Ljubetic
-Head of IT, TALKE Group Germany 
+Centralized control and protection for SaaS applications: SPIEGEL-Verlag chooses Keepit
+"Backup is essential, but the real value comes from being able to restore data quickly and reliably. Otherwise, the backup itself becomes far less useful."
+— Miroslav Najda, Head of IT Operations and DevOps, SPIEGEL-Verlag
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud

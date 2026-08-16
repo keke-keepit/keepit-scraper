@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/product-updates/
 Content type: Web page
-Last modified: 2026-07-29T15:53:04+02:00
-Retrieved: 2026-08-02
+Last modified: 2026-08-15T10:19:28+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -479,7 +479,6 @@ In addition to the recent bulk restore capabilities for users and groups, you ca
 Enforce security policies for public links
 Master Admins can now enforce security policies for all public links created within the account, ensuring sensitive data remains protected.
 Navigate to Account info > Security to activate policies such as requiring password protection and setting a maximum expiration date for public links, providing greater control and reducing the risk of unauthorized access.
-For more details, see Create a public links policy
 9.21.0 - What's New in the Keepit Platform
 Add comment to restore job
 Enhance documentation and auditing by using the new comment field when initiating a restore job. This feature allows you to document the reasons for restore actions and include ticket references. For easy tracking, comments are visible in restore reports and in a new column in the Job Monitor. If the column isn't visible, you may need to add it to your table view.

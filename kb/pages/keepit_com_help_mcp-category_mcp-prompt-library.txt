@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/mcp-category/mcp-prompt-library/
 Content type: Web page
-Last modified: 2026-05-20T10:49:28+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T22:10:36+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -23,7 +23,21 @@ Quick failure scan
 Show me failed audit logs from the last 6 hours.
 Morning summary
 Give me a morning health summary: total connectors, how many are healthy vs unhealthy, any snapshots older than 24h, and any currently running jobs that seem stuck.
-2. Incident response
+2. Search and download
+Find specific files, emails, or documents within your snapshots by keyword, type, or metadata, then generate download links for individual items or bulk recovery.
+Find by keyword 
+"Search the latest snapshot for connector [YOUR-GUID] for all files matching the keyword 'invoice'. Show file name, category, and size." 
+Find by type 
+"List all PDF files in the most recent snapshot for my SharePoint connector. Include file name and path." 
+Email metadata 
+"Find all emails with 'Q3 budget' in the subject line in my Exchange connector's latest snapshot." 
+Version history 
+"Show me all versions of 'project-plan.docx' for connector [YOUR-GUID] over the last 30 days. Include snapshot date and file size for each version." 
+Single-item download 
+"I need to recover 'contract-final.docx' from last Tuesday's snapshot for connector [YOUR-GUID]. Find the file and generate a download link." 
+Bulk download 
+"Find all files matching 'contract' in the latest snapshot of connector [YOUR-GUID] and generate a ZIP download link for the full set." 
+3. Incident response
 Use these when investigating an outage, failure, or unexpected behavior. They combine multiple data sources for fast root cause analysis.
 Full outage investigation
 We had an outage yesterday. For all connectors: show health status now, show job history for P2D with any spike in failures, show audit logs for P2D with any config changes or unusual admin activity, and cross-reference which connectors had both failed jobs AND audit events within the same 2-hour window.
@@ -39,7 +53,7 @@ Connector deep dive with correlation
 For connector [YOUR-GUID], correlate job history with audit events over the last 3 days. Were there any config changes before or during job failures?
 Activity drop-off detection
 Identify connectors with no jobs in the last 14 days but that had activity in the preceding 14 days. Something may have silently broken.
-3. SLA and RPO monitoring
+4. SLA and RPO monitoring
 Track backup currency against your service level agreements and recovery point objectives.
 SLA breach detection
 Find connectors with latest snapshot older than 12 hours. Split them into Critical vs Non-critical groups. (Provide your own critical connector list or naming convention.)
@@ -53,7 +67,7 @@ Snapshot gap analysis
 For connector [YOUR-GUID] over the last 30 days, identify any period where there was a 24-hour gap between snapshots. Also show which single day had the most snapshots.
 Rollout validation
 We deployed changes 6 hours ago. For connectors [GUID-1], [GUID-2], [GUID-3]: confirm a snapshot occurred in the last 6 hours. If not, show the most recent snapshot time.
-4. Audit and compliance
+5. Audit and compliance
 For compliance officers, security reviews, and audit preparation. Pull structured audit data and generate reports through conversation.
 Broad 90-day audit review
 Pull audit logs for the last 90 days. Summarize by action type, actor, and failure count. Highlight any spikes in activity or unusual actors.
@@ -71,7 +85,7 @@ Audit anomaly detection
 In the last 7 days of audit logs, flag anything unusual: actions at odd hours, unfamiliar actors, bulk operations, or repeated failures from the same source.
 Permission escalation check
 Review audit logs for the last 30 days. Were there any events involving permission changes, role assignments, or token creation?
-5. Change management
+6. Change management
 Use before and after maintenance windows to validate that backups are unaffected by changes.
 Pre-maintenance baseline
 Capture current health status and latest snapshot timestamp for connectors: [GUID-1], [GUID-2], [GUID-3]. I will use this as a baseline before maintenance.
@@ -81,7 +95,7 @@ Post-deployment snapshot confirmation
 We deployed changes 6 hours ago. For connectors [GUID-1], [GUID-2], [GUID-3], confirm that at least one successful snapshot has occurred since then. If not, show the most recent snapshot time.
 Change window audit trail
 Pull audit logs from yesterday between 18:00 and 22:00 UTC. Show all actions taken during that maintenance window, grouped by actor.
-6. Risk and anomaly detection
+7. Risk and anomaly detection
 Proactive monitoring to surface problems before they become incidents.
 Risk ranking
 Find connectors with unhealthy status or snapshots 48 hours or more stale. Rank by risk: health status first, then staleness.
@@ -93,7 +107,7 @@ Anomalous activity detection
 In the last 7 days, flag any audit log anomalies: unusual actors, bulk operations, actions outside business hours, or repeated failures.
 Backup drift detection
 Compare snapshot cadence for the last 30 days vs the prior 30 days across all connectors. Which connectors have had the biggest change in backup frequency?
-7. Executive and weekly reports
+8. Executive and weekly reports
 Summary-level views for leadership, weekly stand-ups, and board-level reporting.
 Weekly health digest
 Generate a weekly backup health report: total connectors, count unhealthy, count with snapshots older than 24 hours, top job failure reasons for the last 7 days, and any audit anomalies.
@@ -105,7 +119,7 @@ Environment comparison
 Compare connectors with "Prod" in their name vs "Non-Prod" connectors. Show snapshot freshness and job failure rates over the last 14 days for each group.
 Executive risk summary
 Give me a one-paragraph executive summary of our current backup posture: are we healthy overall, what are the top risks, and what needs attention this week?
-8. Microsoft 365 / Lokka integration
+9. Microsoft 365 / Lokka integration
 These prompts use the Lokka integration to query Azure AD / Entra ID data from your tenant. Requires Lokka MCP to be configured.
 Tenant user overview
 Get all users in my tenant. How many total? How many are guests vs members?

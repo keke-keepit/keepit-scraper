@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-zendesk/
 Content type: Web page
-Last modified: 2025-02-23T21:35:08+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-08-12T18:16:54+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -60,6 +60,9 @@ Get your Zendesk data back instantly with smart search, file preview, and granul
 Save training time for your team with our easy-to-use and easy-to-restore tool.â¯â¯
 With point-in-time restore capability, restore your data from a previous snapshot.
 Access versatile restore options (with download capabilities for data objects and folders) and provide users with relevant and secure shareable links.
+Blaze Credit Union protects multiple SaaS applications with Keepit
+"We protect all of our business critical SaaS platforms with Keepit. Using one platform to secure all of this data reduces complexity and makes it very easy to manage."
+— Grant Aslakson, Director of Information Security Operations, Blaze Credit Union
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud

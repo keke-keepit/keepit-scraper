@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-okta/
 Content type: Web page
-Last modified: 2026-05-12T23:00:18+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T18:03:44+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -100,9 +100,9 @@ Generalâ
 - Authentication settings (IE)ââ
 *Backup onlyâ
 Find the complete coverage details here: Okta Backup Coverage
-“We needed an easy and cost-efficient setup that was secure, GDPR compliant, and which provided 100% uptime. That’s why we chose Keepit.”
-Nenad Ljubetic
-Head of IT, TALKE Group Germany 
+Flow Control Group strengthens identity and multi-application SaaS protection with Keepit
+"Okta is our primary identity provider. If something were to happen to that tenant, we can quickly restore with Keepit — that's not something you leave to chance."
+— Jonathan Carr, Cyber Security and Compliance Manager, Flow Control Group
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud

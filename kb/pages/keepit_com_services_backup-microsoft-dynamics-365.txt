@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-microsoft-dynamics-365/
 Content type: Web page
-Last modified: 2025-08-21T20:48:55+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-12T18:21:37+02:00
+Retrieved: 2026-08-16
 
 ============================================================
 
@@ -19,8 +19,6 @@ Native Dynamics 365 data is only retained for a maximum of 28 days with no exten
 Recovering a record in Dynamics 365 is time consuming. With Keepit for Dynamics 365, you can restore records in minutes.
 Ensure your mission-critical data has long data retention with up to 99 years of data storage.
 Save valuable time with an intuitive user interface, rapid setup, and minimal maintenance, freeing up your IT staff to get more done.
-With Keepit for Dynamics 365, get a comprehensive coverage of your Dynamics instances and entity metadata covering more than 500 data objects.
-For all workloads we cover the following data:
 End-to-end infrastructure management
 Data traffic: No egress, ingress, or transaction fees
 Storage (immutable backup and retention)
@@ -58,9 +56,7 @@ Intuitive user interface
 The user interface is simple, intuitive, and easy to use. No training is needed, saving you time and skilled technical resources.
 API-first
 You can integrate Keepit with your existing systems thanks to our API-first approach.
-"I would definitely recommend Keepit to anyone who is thinking about having a cloud-to-cloud backup of the Office 365 or D365 environment. It is very easy to use, and you don't need a lot of training or specialists."
-Manager in IT Mechanical or Industrial
-Engineering Company, 501-1000 employees
+— Lasse Thomsen, Former Information Systems Manager, Oxford University Innovation
 Yes, yet, the native Dynamics 365 backups are only kept for 28 days with no extension possible. This might put your business-critical data at risk.
 Here are the top reasons why should must back your Microsoft Dynamics 365 data:
 To learn more about why users have selected Keepit to back up their SaaS data, visit our Why Keepit page.
