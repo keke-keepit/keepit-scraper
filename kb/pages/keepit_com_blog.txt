@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/blog/
 Content type: Web page
-Last modified: 2025-02-23T21:47:40+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-08-21T09:34:24+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
@@ -18,4 +18,4 @@ Find a partner
 Watch now
 Industry experts sharing insights and experiences to help empower intelligent decisions for data resilience
 Filter content:
-The Hugging Face incident shows why organizations need an independent, immutable source of truth when production data can no longer be trusted.
+Microsoft's Entra Backup and Recovery is now generally available. Here are four questions to ask before you rely on it as your only identity recovery plan.

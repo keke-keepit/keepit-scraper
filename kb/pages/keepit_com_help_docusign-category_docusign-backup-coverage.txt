@@ -1,12 +1,16 @@
 Source URL: https://www.keepit.com/help/docusign-category/docusign-backup-coverage/
 Content type: Web page
-Last modified: 2026-06-25T12:17:45+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-21T23:02:16+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
-Docusign backup coverage
-The table below shows the detailed backup and restore coverage for Keepit for DocuSign. Note that Keepit only covers the DocuSign eSignature product.
-The table below shows the detailed backup and restore coverage for Keepit for DocuSign. Note that Keepit only covers the DocuSign eSignature product.
-This version does not support custom backup or restore configurations. All data in the Docusign instance will be included in any backup or full restore operation.
+Backup and restore scope
+This version does not support custom backup or restore configurations. All data in the Docusign instance will be included in any backup or full restore operation.
+Restore limitations
+Signing group members
 The restore process for members within Signing Groups is limited to a maximum of 200 members.
+Envelopes
+- Keepit's Docusign backup includes envelopes, documents, metadata, and audit trails. However, it does not offer a "restore" function for envelopes — and this is intentional. This limitation is based on how Docusign's platform and API are designed. Once an envelope is sent, it enters a legally binding signature workflow. Docusign does not permit envelopes to be reinserted into this workflow or reverted to a previous state. Any attempt to "restore" an envelope would effectively require restarting the entire signing process, which undermines the original timeline, sequence, and compliance integrity of the agreement.
+- Completed envelopes include their own audit certificate, ensuring the full history of the agreement is preserved.
+- Metadata is available for reference or archival compliance.

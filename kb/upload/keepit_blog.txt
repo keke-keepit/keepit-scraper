@@ -1,12 +1,12 @@
 KEEPIT KNOWLEDGE BASE — BLOG
-Generated: 2026-08-16
-Pages: 135
+Generated: 2026-08-23
+Pages: 136
 ============================================================
 
 Source URL: https://www.keepit.com/blog/
 Content type: Web page
-Last modified: 2025-02-23T21:47:40+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-08-21T09:34:24+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
@@ -23,7 +23,7 @@ Find a partner
 Watch now
 Industry experts sharing insights and experiences to help empower intelligent decisions for data resilience
 Filter content:
-The Hugging Face incident shows why organizations need an independent, immutable source of truth when production data can no longer be trusted.
+Microsoft's Entra Backup and Recovery is now generally available. Here are four questions to ask before you rely on it as your only identity recovery plan.
 
 ------------------------------------------------------------
 
@@ -3487,6 +3487,39 @@ In cloud computing, a lot of what’s being called backup is actually storing da
 The Keepit promise is to always offer the ultimate in data protection for multi-workload SaaS application data. By building our solution from the ground up for SaaS data protection only, we were able to create an optimized data protection solution in line with best practices like the 321 backup rule. Air gapping, immutability, and a fully redundant independent cloud are all things we’re already offering now in our service. So, it’s more the Keepit reality rather than the promise of adding in things later.
 Protecting SaaS data is the Keepit mission and has always been — it’s not a feature we’re tacking on. As specialists in data protection, we provide confidence to thousands of customers that their data is here today and will be here tomorrow via our vendor-independent cloud. We look forward to working with Microsoft now and into the future to continue to lead the way in protecting SaaS data.
 As we embark on this new chapter in SaaS data backup, I’d like to leave you with a question: What steps are you taking today to protect your control plane (Entra ID and Power Platform)? If you want to learn a bit more about control plane data protection, read my previous article on why you should back up Entra ID (Azure AD) in the cloud.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/blog/microsoft-entra-backup-recovery/
+Content type: Web page
+Last modified: 2026-08-21T09:29:31+02:00
+Retrieved: 2026-08-23
+
+============================================================
+
+Microsoft Entra Backup and Recovery is now generally available. Is it enough?
+Every so often Microsoft ships a thing admins have been asking for since roughly forever. In the last few weeks, we’ve gotten two of them: the ability to change the organizer for a meeting and Entra Backup and Recovery, now generally available. This new backup capability is turning up in every workforce tenant with a Microsoft Entra ID P1 or P2 license. If you've ever been responsible for an identity estate, you've wanted this. Credit where it's due; it’s great to see Microsoft recognizing the need for customer-led data protection around identity.
+What's now included
+Once a day, Microsoft snapshots the most important objects in your directory: users, groups, applications, service principals, managed identities, Conditional Access policies, named locations, and the authentication and authorization policies that tie them together. It keeps seven days of that history.
+You can run a difference report to see what actually changed between a backup and your live tenant before you commit to anything. And, the part I like best, no admin, no matter how many roles they've collected, can switch the backups off or delete them. Anyone who has watched an intruder go looking for the backups first will appreciate that.
+For the everyday case, like unwinding a Conditional Access change somebody made on Tuesday that nobody noticed until Thursday, this is a genuine capability and a long way ahead of leaning on soft delete. Plus, it’s free! (At least for now.)
+It also raises the obvious follow-up, and it's the one I'd want answered before making this my only plan: is seven days, in the same tenant, run by the same operator, enough?
+Four questions before you rely on it alone
+How long is your actual detection window?
+A seven-day retention window assumes you catch the problem within a week. A misconfiguration found during a compliance review, a privilege escalation that unfolds slowly, or an admin account that's been quietly exploited for a month doesn't fit inside that window.
+Keepit for Microsoft Entra ID keeps backup data for up to 99 years, so retention becomes a decision your organization makes, rather than a constraint you inherit.
+Where does the backup actually live?
+Microsoft's backups sit inside Microsoft's own infrastructure, in the same geo-location as your tenant. That's a reasonable design choice, but it also means the backup and the thing it's protecting share an operator. That’s a first-class violation of the time-honored principle that you never keep your backups where you keep your production data.
+Keepit stores backup data on an independent, vendor-neutral cloud, in dedicated infrastructure completely separate from Microsoft's own. If Entra ID itself is unavailable or deeply compromised, your recovery path doesn't depend on the same vendor's uptime.
+Can you restore into a different tenant?
+Entra Backup and Recovery restores in place, back into the tenant it came from. That's the right default for the scenario it's built for, but it doesn't cover the case where the primary tenant itself is the problem. It also doesn’t support cloning a tenant as a sandbox for disaster-recovery practice.
+We added cross-tenant restore to Keepit for Microsoft Entra ID earlier this year for exactly that reason, so teams can rebuild directory objects and configuration in a separate tenant to test, verify, and recover without experimenting on a live environment.
+Does it cover your whole identity surface, and the rest of your SaaS estate?
+Entra Backup and Recovery's scope is core directory objects and policy. It doesn't extend to Intune device configuration profiles, Intune compliance policies, or BitLocker recovery keys, which Keepit backs up alongside the rest of Entra ID. And its scope stops at Entra ID.
+If you're already backing up Microsoft 365, Google Workspace, or Salesforce elsewhere, the native tool adds one more console and one more recovery runbook to manage during an incident, on top of the ones you already have.
+The bigger picture
+Microsoft frames Backup and Recovery as one layer of a broader tenant recoverability strategy, alongside configuration exports and operational readiness. That's the right way to look at it, and it's exactly where a dedicated, independent backup platform earns its place: extending the retention window, keeping a copy outside Microsoft's own infrastructure, giving you a clean tenant to restore into, and putting Entra ID under the same roof as the rest of your SaaS applications.
+If you're already backing up Entra ID with Keepit, none of this changes what you need to do. If you're currently relying on the native tool alone, it's a good moment to check those four questions against what your organization actually needs.
 
 ------------------------------------------------------------
 

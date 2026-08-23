@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — SERVICES
-Generated: 2026-08-16
+Generated: 2026-08-23
 Pages: 34
 ============================================================
 
@@ -1846,8 +1846,8 @@ Experience the benefits and security of intelligent SaaS data protection.
 
 Source URL: https://www.keepit.com/services/backup-bamboohr/
 Content type: Web page
-Last modified: 2026-08-12T17:55:29+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-08-18T12:54:26+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
@@ -1891,9 +1891,6 @@ Backup coverage for BambooHR
 - Time off types
 - Time off policies
 Find the complete coverage here: BambooHR backup coverage.
-Blaze Credit Union protects multiple SaaS applications with Keepit
-"We protect all of our business critical SaaS platforms with Keepit. Using one platform to secure all of this data reduces complexity and makes it very easy to manage."
-— Grant Aslakson, Director of Information Security Operations, Blaze Credit Union
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud
@@ -2195,8 +2192,8 @@ Experience the benefits and security of intelligent SaaS data protection.
 
 Source URL: https://www.keepit.com/services/backup-github/
 Content type: Web page
-Last modified: 2026-08-12T18:18:57+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-08-18T12:46:00+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
@@ -2239,9 +2236,6 @@ What we cover
 - Pull requests
 - User
 We continuously extend our capabilities. Find the complete, current coverage here.
-Blaze Credit Union protects multiple SaaS applications with Keepit
-"We protect all of our business critical SaaS platforms with Keepit. Using one platform to secure all of this data reduces complexity and makes it very easy to manage."
-— Grant Aslakson, Director of Information Security Operations, Blaze Credit Union
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud
@@ -2990,8 +2984,8 @@ Learn more on our Security pages.
 
 Source URL: https://www.keepit.com/services/backup-miro/
 Content type: Web page
-Last modified: 2026-08-12T18:17:44+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-08-18T12:37:47+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
@@ -3046,9 +3040,6 @@ Backup coverage for Miro
 - Sticky notes
 - Texts
 Find the complete coverage here: Miro backup coverage.
-Blaze Credit Union protects multiple SaaS applications with Keepit
-"We protect all of our business critical SaaS platforms with Keepit. Using one platform to secure all of this data reduces complexity and makes it very easy to manage."
-— Grant Aslakson, Director of Information Security Operations, Blaze Credit Union
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud
@@ -3103,8 +3094,8 @@ Further, uniquely to Keepit, our staff and software development are also ISO2700
 
 Source URL: https://www.keepit.com/services/backup-monday/
 Content type: Web page
-Last modified: 2026-08-12T18:19:54+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-08-18T12:50:22+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
@@ -3155,9 +3146,6 @@ What we cover
 - Boards
 - Photo
 We continuously extend our capabilities. Find the complete, current coverage here.
-Blaze Credit Union protects multiple SaaS applications with Keepit
-"We protect all of our business critical SaaS platforms with Keepit. Using one platform to secure all of this data reduces complexity and makes it very easy to manage."
-— Grant Aslakson, Director of Information Security Operations, Blaze Credit Union
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud
@@ -3551,8 +3539,8 @@ Yes, you can combine Salesforce backup with your other favorite SaaS app backups
 
 Source URL: https://www.keepit.com/services/backup-zendesk/
 Content type: Web page
-Last modified: 2026-08-12T18:16:54+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-08-18T12:01:07+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
@@ -3611,9 +3599,6 @@ Get your Zendesk data back instantly with smart search, file preview, and granul
 Save training time for your team with our easy-to-use and easy-to-restore tool.â¯â¯
 With point-in-time restore capability, restore your data from a previous snapshot.
 Access versatile restore options (with download capabilities for data objects and folders) and provide users with relevant and secure shareable links.
-Blaze Credit Union protects multiple SaaS applications with Keepit
-"We protect all of our business critical SaaS platforms with Keepit. Using one platform to secure all of this data reduces complexity and makes it very easy to manage."
-— Grant Aslakson, Director of Information Security Operations, Blaze Credit Union
 Why companies globally trust us
 With Keepit, data is stored in our vendor-neutral cloud instead of public platforms like AWS, making Keepit a true third-party backup.
 - Vendor-independent cloud

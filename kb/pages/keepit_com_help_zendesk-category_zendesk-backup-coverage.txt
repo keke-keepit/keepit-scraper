@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/zendesk-category/zendesk-backup-coverage/
 Content type: Web page
-Last modified: 2025-03-11T20:08:51+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-22T00:03:40+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
@@ -19,9 +19,9 @@ Users
  Organization memberships
  Organization subscriptions
  Personal views
- Personal macros
+Personal macros
 - End users
- Organization memberships
+Organization memberships
 - User fields
 Groups and Organizations
 - Members

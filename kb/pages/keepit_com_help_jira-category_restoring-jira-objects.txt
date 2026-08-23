@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/jira-category/restoring-jira-objects/
 Content type: Web page
-Last modified: 2026-01-27T10:34:38+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-21T23:35:28+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
@@ -41,7 +41,7 @@ Restoring an issue recreates it with new IDs and new issue keys.
 What to expect
 - Linked issues and child issues are restored.
 - However, any workflows, automations, integrations, or other processes that rely on the original issue IDs or keys will not automatically update.
- You must update these references manually after the restore.
+You must update these references manually after the restore.
 - Some fields may not restore exactly due to Jira API limitations.
 Restoring Project-Level Entities
 The following items all follow the same restore logic:

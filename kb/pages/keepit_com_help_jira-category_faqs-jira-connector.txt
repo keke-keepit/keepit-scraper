@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/jira-category/faqs-jira-connector/
 Content type: Web page
-Last modified: 2026-01-30T12:10:15+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-21T23:28:52+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
@@ -10,9 +10,9 @@ Why isn't my backup starting?
 If your connector isn’t starting a backup, check the following:
 - Organization ID
  Make sure you entered only your Atlassian domain during connector creation, for example:
- your_company.atlassian.net
+your_company.atlassian.net
 - User permissions
- Verify that the user who created the connector has all required Jira permissions.
+Verify that the user who created the connector has all required Jira permissions.
 Can I modify or edit a connector after creating it with the wrong Organization ID?
 No, you can’t edit the Organization ID after a connector is created. If an incorrect Organization ID is used, the Jira connector won’t start backing up data. In this case, we strongly recommend creating a new connector with the correct Organization ID.
 Should I use a dedicated user for the connector?
@@ -50,9 +50,9 @@ How to fix this:
 Why is my project failing to restore?
 A project might fail to restore for two main reasons:
 - The project is team managed.
- Due to Jira API limitations, team-managed projects cannot be restored.
+Due to Jira API limitations, team-managed projects cannot be restored.
 - The project is currently in Jira’s “Trash.”
- If the project is in the trash, the restore will fail. Recover it from the trash first.
+If the project is in the trash, the restore will fail. Recover it from the trash first.
 Why are issue IDs/keys different after a restore?
 Jira does not allow issues to be created using the original IDs or keys. When an issue is restored, Jira creates a new issue and assigns it a new ID and key.
 If your workflows depend on old issue keys/IDs, you’ll need to manually update any linked items to point to the newly created issue.

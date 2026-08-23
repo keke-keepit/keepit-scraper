@@ -1,0 +1,172 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Education-Alliance-Case-Study-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-08-23
+
+============================================================
+
+The Education Alliance 
+receives confidence 
+through immutability
+Customer success story
+
+The Education Alliance 
+receives confidence 
+through immutability
+Education isnˇt just a regulated sector  itˇs a high-value target. The Education Alliance 
+(TEAL), a Multi-Academy Trust with 12 schools across East Yorkshire, Hull, and York in the UK, 
+manages the digital lives of roughly 8,500 users across Microsoft 365 and Google 
+Workspace. Those environments hold everything the trust needs to keep running: from day-
+to-day communications to shared files and critical documentation. When the existing 
+backup contract came up for renewal, the 
+IT team didnˇt t want a like-for-like replacement. 
+They wanted something they could trust completely, backed by a provider that understood 
+what was at stake. 
+United Kingdom
+LOCATION
+Education
+INDUSTRY
+1,000+
+EMPLOYEES
+Education comes with unique cyber risks
+Education institutions handle sensitive data, 
+operate across multiple sites, and face a 
+persistent and growing cyberthreat. For Matt 
+Wadsworth, director of IT at The Education 
+Alliance, that threat isnˇt abstract  it shapes every 
+dat
+a protection decision the team makes. 
+
+TEALˇs requirements were driven by long-term retention obligations and the sensitivity of the data it holds. But there was a more specific concern. If the trustˇs s Microsoft 365 tenant were ever 
+compromised, the consequences would go well 
+beyond data loss: communications would go dark, 
+policies would be inaccessible, and the disaster
+Customer success story
+˝One of our biggest threats 
+from cyber risk is the loss of 
+access to our M365 
+tenant.€Keepit€mitigates this 
+threat because it stores our data 
+separate from our production 
+environment.˛
+Matt Wadsworth (
+Director of IT 
+The Education Alliance
+2
+
+˝Working through the DPIA with the Keepit team meant we could establish 
+data residency requirements far more quickly than we expected.˛
+Matt Wadsworth (
+Director of IT 
+The Education Alliance
+recovery procedures needed to respond would be 
+unreachable. The backup had to live somewhere 
+the attacker couldnˇt follow. 
+
+Value won the evaluation
+When their existing contract came up for renewal, 
+TEAL was already looking for a change. The priority 
+was a clean, easy-to-navigate interface with a 
+straightforward onboarding process. The 
+evaluation focused on what would matter most in a 
+real recovery scenario: ease of use, cost 
+predictability, reliability, and the assurance that 
+backed-up data couldnˇt be altered or deleted. 
+ 
+The procurement process stood out, too. The 
+Keepit team took time to understand TEALˇs goals 
+and show how the platform addressed them. Cost 
+matters in education, but value was the real 
+measure, and Keepit delivered on both. 
+
+GDPR made data residency non-
+negotiable
+For a UK education institution handling data about 
+children, knowing exactly where that data lives is a 
+legal requirement. Under Article 35 of UK GDPR, 
+organizations in this position must complete a 
+Data Protection Impact Assessment (DPIA), a 
+process that requires knowing precisely where 
+data is stored and which jurisdiction governs it. 
+ 
+Working through the DPIA with the Keepit team 
+helped TEAL establish data residency 
+requirements more quickly than anticipated. 
+Keeping backups within European data centers,
+independent of the Microsoft and Google tenants 
+but subject to UK and EU data protection law, gave 
+the trust clear, demonstrable control over where 
+its data resides.
+
+Immutability gives the IT team confidence
+When you implement a backup procedure, you're 
+already planning for the worst. For Wadsworth, the 
+question is what happens if that worst case 
+extends to the backup itself. A compromised 
+backup doesn't just fail to help; it makes an already 
+bad situation significantly worse. 
+ 
+Keepit stores backed-up data in an independent, 
+vendor-neutral cloud, logically separated from the 
+Microsoft and Google environments it protects. 
+That data can't be altered or deleted by anyone, 
+including a threat actor who has already breached 
+the production environment. For TEAL, that 
+separation is the foundation of the whole data 
+protection strategy. 
+ 
+"To imagine someone breaching your backup too 
+makes the situation ten times worse," says 
+Wadsworth. "Knowing the data is immutable gives 
+you the confidence to know the data is safe." 
+
+Faster recovery, less friction 
+In day-to-day use, Keepit earns its place well 
+outside a crisis. Recovery is faster and simpler than 
+with previous systems. Tasks like recovering a 
+deleted email folder or reviewing data from a 
+specific point in time can now be completed in a 
+few clicks. 
+Customer success story
+3
+
+˝We primarily chose Keepit as an 
+insurance policy  a get-out-of-jail 
+card should a large-scale disruption 
+occur. But using the solution day to day 
+has allowed us to perform restore 
+procedures far quicker than previous 
+systems and reviewing data from 
+different timestamps at a glance has 
+been a real help.˛
+Matt Wadsworth (
+Director of IT 
+The Education Alliance
+Since deployment, recovery time has improved 
+and administrative complexity has reduced. For a 
+lean IT team supporting 12 schools across multiple 
+sites, that reduction in overhead is meaningful. 
+
+Recovery-ready, whatever the threat 
+With Keepit protecting 82 TB of data across 
+Microsoft 365, Google Workspace, and Entra ID, 
+The Education Alliance has a recovery foundation it 
+can rely on. Whether the threat is ransomware, 
+accidental deletion, or a full tenant outage, a 
+clean, recoverable copy of the trust's data exists in 
+a separate cloud, under a separate login, and 
+always within the right jurisdiction.
+About The Education Alliance 
+The Education Alliance (TEAL) is a Multi-Academy Trust made up of 12 schools in Yorkshire: four secondary 
+schools, seven primary schools, and an alternative provision for key stages 2 to 4. TEAL opened as a trust in 
+2015 with one secondary school and has grown steadily since. It now serves 7,000 young people across 
+East Yorkshire, Hull, and York and employs around 1,000 people. TEAL is deeply committed to delivering 
+inclusive, high-quality education so that all young people feel they belong and can achieve and thrive.
+Your data. Here today. Here tomorrow
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+ For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Customer success story
+4

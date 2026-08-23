@@ -1,0 +1,34 @@
+Source URL: https://www.keepit.com/customers/austrianredcross/
+Content type: Web page
+Last modified: 2026-08-21T11:58:35+02:00
+Retrieved: 2026-08-23
+
+============================================================
+
+Austrian Red Cross keeps humanitarian operations running with managed SaaS backup
+When your organization operates ambulance services, blood donation logistics, and emergency response around the clock, a data outage isn't just an IT problem — it has real consequences for people's lives. That's the reality for the Austrian Red Cross, which chose Keepit to protect its growing Microsoft 365 environment against data loss, regulatory risk, and the dependencies that come with relying on a single cloud vendor. The decision wasn't about fixing something broken. It was about building a foundation that could carry the weight of what the organization actually does.
+Critical infrastructure raises the bar on data protection
+The Austrian Red Cross isn't a typical enterprise. It's classified as critical national infrastructure, operates in the medical and emergency services sector, and handles highly sensitive personal data every day. NIS2 and GDPR compliance are non-negotiable, and the combination of operational criticality and regulatory obligation sets an unusually high bar.
+As the organization's Microsoft 365 footprint grew, it became clear that native cloud retention wasn't enough. The IT team, led by Markus Hnatek, Head of IT, needed a purpose-built SaaS backup solution that could handle the sensitivity and scale of their environment without adding operational burden to an already stretched team.
+Business continuity isn't a nice-to-have for us. It's part of who we are.
+– Markus Hnatek
+Head of IT, Austrian Red Cross
+Data residency and vendor independence were requirements
+For the Austrian Red Cross, knowing where data lives is a compliance mandate, not a preference. GDPR requires precise knowledge of data location, and geopolitical uncertainty around hyperscaler infrastructure added another layer of concern. Keepit stores backups in its own independent cloud infrastructure, with European data centers and no third-party sub-processors, giving the team confidence that their data stays where it should.
+Vendor independence mattered for a different reason too. As Hnatek explains, it matters on multiple levels: "In day-to-day operations it's reassuring, but it also serves as a viable exit scenario in a worst case. Knowing that our backup data is independent of any single cloud vendor means we're not locked in and we have real options if circumstances change."
+Security features like encryption and immutability were expected as baseline capabilities rather than differentiators. What ultimately drove the decision were architecture, manageability, and the quality of the partnership on offer.
+A partner recommendation led to the right fit
+The Austrian Red Cross came to Keepit through a recommendation from its long-standing IT partner, ACP, a relationship built on collaboration and deep familiarity with the organization's specific requirements. That referral led to a direct introduction to the Keepit key account manager, whom the team already knew personally.
+"Trust played a big role," says Hnatek. "On the Keepit side, having a dedicated key account contact who understood our environment made a real difference, as did a thorough product presentation and reference customers who spoke for themselves."
+The evaluation confirmed what the recommendation had promised: a managed partner model that removes operational burden, a connector-based architecture that creates clean boundaries between applications and data access, and a team that engaged with the organization's specific needs rather than offering a one-size-fits-all pitch.
+If you're running Microsoft 365 and you don't have a dedicated SaaS backup in place, you're taking an unnecessary risk.
+– Markus Hnatek
+Head of IT, Austrian Red Cross
+Practical features that hold up in the real world
+Several capabilities stood out once the Austrian Red Cross began working with Keepit. The connector-based separation of multi-application workloads and data access provides clear oversight and clean permission boundaries, important for an organization that manages a wide range of data types with very different sensitivity levels.
+Single item recovery proved immediately valuable. The ability to pull back one email or one file without triggering a full restore is the kind of practical efficiency that makes a real difference to a stretched IT team. The managed partner model, operated through ACP, means the Austrian Red Cross doesn't carry the full operational burden of running backup infrastructure on its own.
+Keepit is easy to use, the managed model removes a lot of the operational overhead, and the peace of mind it provides is well worth it.
+– Markus Hnatek
+Head of IT, Austrian Red Cross
+A foundation built for what comes next
+The Austrian Red Cross is now positioned to extend SaaS data protection beyond Microsoft 365 to additional applications, without adding complexity to an already demanding operational environment. With GDPR and NIS2 compliance built in, data sovereignty maintained in European infrastructure, and the operational safety net of a managed service model, the organization can focus on what it's there to do: respond when people need help most.

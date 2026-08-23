@@ -1,0 +1,181 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Austrian-Red-Cross-Use-Case-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 5
+Retrieved: 2026-08-23
+
+============================================================
+
+Austrian Red Cross 
+keeps humanitarian 
+operations running with 
+managed SaaS backup 
+Customer success story
+
+Austrian Red Cross keeps 
+humanitarian operations 
+running with managed(
+SaaS backup 
+When your organization operates ambulance services, blood donation logistics, and 
+emergency response around the clock, a data outage isn't just an IT problem 
+ it has real 
+consequences for people's lives. That's the reality for the Austrian Red Cross, which chose 
+Keepit to protect its growing Microsoft 365 environment against data loss, regulatory risk, 
+and the dependencies that come with relying on a single cloud vendor. The decision wasn't 
+about fixing something broken. It was about building a foundation that could carry the 
+weight of what the organization actually does.
+Austria
+LOCATION
+Non-profit
+INDUSTRY
+10,000+
+EMPLOYEES
+Critical infrastructure raises the bar on data 
+protection
+The Austrian Red Cross isn't a typical enterprise. 
+It's classified as critical national infrastructure, 
+operates in the medical and emergency services 
+sector, and handles highly sensitive personal data 
+every day. NIS2 and GDPR compliance are non-
+negotiable, and the combination of operational 
+criticality and regulatory obligation sets an 
+unusually high bar. 
+
+As the organization's Microsoft 365 footprint grew, 
+it became clear that native cloud retention wasn't 
+enough. The IT team, led by Markus Hnatek, Head 
+of IT, needed a purpose-built SaaS backup 
+solution that could handle the sensitivity and scale
+Customer success story
+˝Downtime isn't just an 
+inconvenience  it can have real 
+consequences for people's 
+lives.˛
+Markus Hnatek(
+Head of IT 
+Austrian Red Cross
+2
+
+˝Given what our operations depend on, we concluded that native cloud 
+retention alone wasn't enough for us.˛
+Markus Hnatek(
+Head of IT 
+Austrian Red Cross
+of their environment without adding operational 
+burden to an already stretched team.€"Business 
+continuity isn't€a nice-to-have for us.€It's€part of 
+who we are,"€says€Hnatek.
+
+Data residency and vendor independence 
+were requirements€
+For the Austrian Red Cross, knowing where data 
+lives is a compliance mandate, not a 
+preference.€GDPR€requires€precise knowledge of 
+where data is stored, and the ongoing legal 
+uncertainty around transatlantic data transfers 
+made a 
+European storage location a deliberate risk-management choice rather than a preference.€Keepit€stor stores backups in its own 
+independent cloud infrastructure, with European 
+data centers and no third-party sub-processors, 
+giving the team confidence that their data stays 
+where it should.
+
+Vendor independence mattered for a different 
+reason, too. As Hnatek explains, it matters on 
+multiple levels: "In day-to-day operations it's 
+reassuring, but it also serves as a viable exit 
+scenario in a worst case. Knowing that our backup
+data is independent of any single cloud vendor 
+means we're not locked in and we have real 
+options if circumstances change."€
+
+Security features like encryption and immutability 
+were expected as baseline capabilities rather than 
+differentiators. What€ultimately drove€the 
+decision€were€architecture, manageability, and the 
+quality of the partnership on offer.€
+
+A partner refferal led to the right fit 
+The Austrian Red Cross came to Keepit through a 
+recommendation from its long-standing IT 
+partner, ACP, a relationship built on collaboration 
+and deep familiarity with the organization's 
+specific requirements. That referral led to a direct 
+introduction to the Keepit key account manager, 
+whom the team already knew personally.
+
+"Trust played a big role," says
+€Hnatek. "On the€Keepit€side, having a dedicated key account contact who understood our environment made a real difference, as did a€thorough€product presentation and reference customers who spoke for themselves."€  
+Customer success story
+3
+
+The evaluation confirmed what the 
+recommendation had promised: a managed 
+partner model that removes operational burden, a 
+connector-based architecture that creates clean 
+boundaries between applications€and data 
+access, and a team that engaged with the 
+organization's specific needs rather than offering a 
+one-size-fits-
+all pitch.
+
+Practical features that hold up 
+in the 
+real world€
+Several capabilities stood out once t
+he Austrian Red Cross began working with€Ke Keepit. The 
+connector-based separation of multi-application 
+workloads and data access provides clear 
+oversight and clean permission boundaries, 
+important for an organization that manages a wide 
+range of data types with€very different€sensitivity 
+levels.€
+
+Single item recovery proved€immediately€valuable. 
+The ability to pull back one email or one file without 
+triggering a full€restore€is the kind of practical 
+efficiency that makes a real difference to a 
+stretched IT team. The managed partner model,(operated€through ACP, means the Austrian Red Cross€doesn't€carry the full operational burden of running backup infrastructure on its own.€
+˝Keepit is easy to use, the managed model removes a lot of the 
+operational overhead, and the peace of mind it provides is well worth it.˛
+Markus Hnatek(
+Head of IT 
+Austrian Red Cross
+Customer success story
+4
+
+A foundation built for what comes next 
+The Austrian Red Cross is now positioned to 
+extend SaaS data protection beyond Microsoft 
+365 to additional applications, without adding 
+complexity to an already demanding operational 
+environment. With data sovereignty maintained in 
+European infrastructure and the operational safety 
+net of a managed service model, the organization 
+can focus on what it's there to do: respond when 
+people need help most.
+About Austrian Red Cross
+The Austrian Red Cross was founded in 1880 as a national institution for humanitarian aid. Its work spans 
+emergency medical services, blood donation, health and social services, disaster preparedness and 
+response, international development cooperation, dissemination of international humanitarian law, 
+migration and tracing services, training and education, and youth work through the Youth Red Cross. 
+Organized along federalist lines, the Austrian Red Cross comprises a general secretariat, nine regional 
+branches, and 132 district branches, with approximately 10,500 paid staff and more than 81,000 volunteers. 
+The global Red Cross and Red Crescent Movement, of which the Austrian Red Cross is a member, has grown 
+to 191 national Red Cross or Red Crescent societies operating in 191 countries, with millions of volunteers 
+worldwide. 
+About ACP 
+ACP is a leading IT company based in Austria with offices in Germany. ACP specializes in the provision of IT 
+infrastructure, software solutions, and related services and successfully serves companies and public 
+sector organizations in the B2B segment. ACP prides itself on providing its customers with innovative and 
+customized solutions that
+€optimize€thei their business processes and increase their efficiency. With an 
+experienced team of highly skilled IT professionals and a comprehensive range of services, ACP is well 
+positioned to meet the ever-changing needs of its customers.
+Your data. Here today. Here tomorrow
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+ For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Customer success story
+5

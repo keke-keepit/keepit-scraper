@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — HELP
-Generated: 2026-08-16
+Generated: 2026-08-23
 Pages: 372
 ============================================================
 
@@ -6562,13 +6562,12 @@ Help center - Salesforce
 
 Source URL: https://www.keepit.com/help/bamboohr-category/bamboohr-backup-coverage/
 Content type: Web page
-Last modified: 2025-11-06T22:44:46+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-21T22:54:14+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
 BambooHR backup coverage
-The table below shows the detailed backup and restore coverage of the latest version of Keepit for BambooHR.
 The table below shows the detailed backup and restore coverage of the latest version of Keepit for BambooHR.
 * Due to API limitations, some tables and fields are not included in the backup and restore.
 ** Company files must be explicitly shared with the Keepit Admin user within BambooHR to ensure backup and restore. File category is not supported.
@@ -7320,15 +7319,17 @@ Help center - Salesforce
 
 Source URL: https://www.keepit.com/help/confluence-category/confluence-backup-coverage/
 Content type: Web page
-Last modified: 2025-09-25T09:21:14+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-21T23:48:50+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
 Confluence backup coverage
 The table below shows the detailed backup and restore coverage of the latest version of Keepit for Confluence Cloud.
-The table below shows the detailed backup and restore coverage of the latest version of Keepit for Confluence Cloud.
 This version does not support custom backup or restore configurations. All data in the Confluence instance will be included in any backup or full restore operation.
+- Users: The backup includes users from the whole organization, not just users of individual Confluence sites.
+- Groups: The backup includes usersâ¯of the whole organization, not just groups of individual Confluence sites.
+- Filters: Only filters shared with the user who authorized the connector are included in the backup.
 For a list of coverage details, please download this document.
 
 ------------------------------------------------------------
@@ -8126,16 +8127,20 @@ Your connector will be created, and the first backup will be scheduled.â¯
 
 Source URL: https://www.keepit.com/help/docusign-category/docusign-backup-coverage/
 Content type: Web page
-Last modified: 2026-06-25T12:17:45+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-21T23:02:16+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
-Docusign backup coverage
-The table below shows the detailed backup and restore coverage for Keepit for DocuSign. Note that Keepit only covers the DocuSign eSignature product.
-The table below shows the detailed backup and restore coverage for Keepit for DocuSign. Note that Keepit only covers the DocuSign eSignature product.
-This version does not support custom backup or restore configurations. All data in the Docusign instance will be included in any backup or full restore operation.
+Backup and restore scope
+This version does not support custom backup or restore configurations. All data in the Docusign instance will be included in any backup or full restore operation.
+Restore limitations
+Signing group members
 The restore process for members within Signing Groups is limited to a maximum of 200 members.
+Envelopes
+- Keepit's Docusign backup includes envelopes, documents, metadata, and audit trails. However, it does not offer a "restore" function for envelopes — and this is intentional. This limitation is based on how Docusign's platform and API are designed. Once an envelope is sent, it enters a legally binding signature workflow. Docusign does not permit envelopes to be reinserted into this workflow or reverted to a previous state. Any attempt to "restore" an envelope would effectively require restarting the entire signing process, which undermines the original timeline, sequence, and compliance integrity of the agreement.
+- Completed envelopes include their own audit certificate, ensuring the full history of the agreement is preserved.
+- Metadata is available for reference or archival compliance.
 
 ------------------------------------------------------------
 
@@ -12586,8 +12591,8 @@ The first backup will be scheduled.â¯
 
 Source URL: https://www.keepit.com/help/jira-category/faqs-jira-connector/
 Content type: Web page
-Last modified: 2026-01-30T12:10:15+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-21T23:28:52+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
@@ -12596,9 +12601,9 @@ Why isn't my backup starting?
 If your connector isn’t starting a backup, check the following:
 - Organization ID
  Make sure you entered only your Atlassian domain during connector creation, for example:
- your_company.atlassian.net
+your_company.atlassian.net
 - User permissions
- Verify that the user who created the connector has all required Jira permissions.
+Verify that the user who created the connector has all required Jira permissions.
 Can I modify or edit a connector after creating it with the wrong Organization ID?
 No, you can’t edit the Organization ID after a connector is created. If an incorrect Organization ID is used, the Jira connector won’t start backing up data. In this case, we strongly recommend creating a new connector with the correct Organization ID.
 Should I use a dedicated user for the connector?
@@ -12636,9 +12641,9 @@ How to fix this:
 Why is my project failing to restore?
 A project might fail to restore for two main reasons:
 - The project is team managed.
- Due to Jira API limitations, team-managed projects cannot be restored.
+Due to Jira API limitations, team-managed projects cannot be restored.
 - The project is currently in Jira’s “Trash.”
- If the project is in the trash, the restore will fail. Recover it from the trash first.
+If the project is in the trash, the restore will fail. Recover it from the trash first.
 Why are issue IDs/keys different after a restore?
 Jira does not allow issues to be created using the original IDs or keys. When an issue is restored, Jira creates a new issue and assigns it a new ID and key.
 If your workflows depend on old issue keys/IDs, you’ll need to manually update any linked items to point to the newly created issue.
@@ -12653,72 +12658,71 @@ For more details about limitations, see the coverage details document found here
 
 Source URL: https://www.keepit.com/help/jira-category/jira-backup-coverage/
 Content type: Web page
-Last modified: 2026-06-22T16:20:39+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-21T23:31:51+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
 Jira backup coverage
 The table below shows the detailed backup and restore coverage of the latest version of Keepit for Jira Cloud.
-The table below shows the detailed backup and restore coverage of the latest version of Keepit for Jira Cloud.
 | Element | Backup Supported | Restore Supported | Comment | 
 |---|---|---|---|
-| Projects | |||
-| Project | â | â | |
-| Project avatar | â | â | |
-| Project components | â | â | |
-| Project features | â | â | |
-| Project properties | â | â | |
-| Project property keys | â | â | |
-| Project roles | â | â | |
-| Project versions | â | â | |
-| Issues | |||
-| Issue | â | â | |
-| Issue Attachments | â | â | |
-| Issue comments | â | â | |
-| Issue fields | â | â | |
-| Issue field configurations | â | â | |
-| Issue field configuration schemes | â | â | |
-| Issue links | â | â | |
-| Issue link types | â | â | |
-| Issue priorities | â | â | |
+| Projects |  |  |  | 
+| Project | â | â |  | 
+| Project avatar | â | â |  | 
+| Project components | â | â |  | 
+| Project features | â | â |  | 
+| Project properties | â | â |  | 
+| Project property keys | â | â |  | 
+| Project roles | â | â |  | 
+| Project versions | â | â |  | 
+| Issues |  |  |  | 
+| Issue | â | â |  | 
+| Issue Attachments | â | â |  | 
+| Issue comments | â | â |  | 
+| Issue fields | â | â |  | 
+| Issue field configurations | â | â |  | 
+| Issue field configuration schemes | â | â |  | 
+| Issue links | â | â |  | 
+| Issue link types | â | â |  | 
+| Issue priorities | â | â |  | 
 | Issue property keys | â | â | API limitation | 
-| Issue remote links | â | â | |
-| Issue resolutions | â | â | |
-| Issue security schemes | â | â | |
-| Issue types | â | â | |
-| Issue type schemes | â | â | |
-| Issue type screen schemes | â | â | |
+| Issue remote links | â | â |  | 
+| Issue resolutions | â | â |  | 
+| Issue security schemes | â | â |  | 
+| Issue types | â | â |  | 
+| Issue type schemes | â | â |  | 
+| Issue type screen schemes | â | â |  | 
 | Issue votes | â | â | API limitation | 
-| Issue watchers | â | â | |
-| Issue worklogs | â | â | |
-| Workflows | |||
-| Workflow | â | â | |
+| Issue watchers | â | â |  | 
+| Issue worklogs | â | â |  | 
+| Workflows |  |  |  | 
+| Workflow | â | â |  | 
 | Workflow transition rules | â | â | API limitation | 
-| Workflow schemes | â | â | |
-| Workflow scheme project associations | â | â | |
+| Workflow schemes | â | â |  | 
+| Workflow scheme project associations | â | â |  | 
 | Workflow scheme drafts | â | â | API limitation | 
 | Workflow transition properties | â | â | API limitation | 
-| Screens | |||
-| Screen | â | â | |
-| Screen tabs | â | â | |
-| Screen tab field | â | â | |
-| Screen schemes | â | â | |
-| General | |||
-| Sprints | â | â | |
-| Boards | â | â | |
-| Dashboards | â | â | |
-| Plans (Roadmaps) | â | â | |
-| Filters | â | â | |
+| Screens |  |  |  | 
+| Screen | â | â |  | 
+| Screen tabs | â | â |  | 
+| Screen tab field | â | â |  | 
+| Screen schemes | â | â |  | 
+| General |  |  |  | 
+| Sprints | â | â |  | 
+| Boards | â | â |  | 
+| Dashboards | â | â |  | 
+| Plans (Roadmaps) | â | â |  | 
+| Filters | â | â |  | 
 | Automation/Rules | â | â | API limitation | 
-| Permission schemes | â | â | |
-| Notification schemes | â | â | |
-| Priority schemes | â | â | |
-| Statuses | â | â | |
-| Time tracking | â | â | |
-| Service desk organizations | â | â | |
+| Permission schemes | â | â |  | 
+| Notification schemes | â | â |  | 
+| Priority schemes | â | â |  | 
+| Statuses | â | â |  | 
+| Time tracking | â | â |  | 
+| Service desk organizations | â | â |  | 
 | Users | â | â | API limitation | 
-| Groups | â | â | |
+| Groups | â | â |  | 
 | Triggers | â | â | API limitation | 
 | Conditions | â | â | API limitation | 
 | Actions | â | â | API limitation | 
@@ -12731,22 +12735,20 @@ For a list of coverage details, please download this document.
 
 Source URL: https://www.keepit.com/help/jira-category/jsm-backup-coverage/
 Content type: Web page
-Last modified: 2026-06-30T16:32:16+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-21T23:38:06+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
 Jira Service Management backup coverage
 The table below shows the detailed backup and restore coverage for Keepit for Jira Service Management.
-The table below shows the detailed backup and restore coverage for Keepit for Jira Service Management.
 | Element | Backup supported | Restore supported | Comment | 
-| Jira Service Management | |||
+| Jira Service Management |  |  |  | 
 | Projects | â | â | â¯ | 
-| Customers | â | â | 
- | 
+| Customers | â | â |  | 
 | Organizations | â | â | â¯ | 
 | Assets | â | â | â¯ | 
-| Projects | |||
+| Projects |  |  |  | 
 | Components | â | â | â¯ | 
 | Form Templates | â | â | â¯ | 
 | Organizations | â | â | â¯ | 
@@ -12756,103 +12758,61 @@ The table below shows the detailed backup and restore coverage for Keepit for Ji
 | Work Types | â | â | â¯ | 
 | Roles | â | â | â¯ | 
 | Queues | â | â | API limitationâ¯ | 
-| Requests | â | â | 
- | 
+| Requests | â | â |  | 
 | Request Types | â | â | â¯ | 
-| Version | â | â | 
- | 
-| Issues | |||
-| Issue | â | â | 
- | 
-| Issue Attachments | â | â | 
- | 
-| Issue Comments | â | â | 
- | 
-| Issue Remote Links | â | â | 
- | 
+| Version | â | â |  | 
+| Issues |  |  |  | 
+| Issue | â | â |  | 
+| Issue Attachments | â | â |  | 
+| Issue Comments | â | â |  | 
+| Issue Remote Links | â | â |  | 
 | Issue Votes | â | â | API limitation | 
-| Issue Watchers | â | â | 
- | 
-| Issue Worklogs | â | â | 
- | 
-| Child Issues | â | â | 
- | 
-| Linked Issues | â | â | 
- | 
-| â¯Requestsâ¯ | |||
-| Request | â | â | 
- | 
-| Request Attachments | â | â | 
- | 
-| Request Comments | â | â | 
- | 
-| Request Remote Links | â | â | 
- | 
+| Issue Watchers | â | â |  | 
+| Issue Worklogs | â | â |  | 
+| Child Issues | â | â |  | 
+| Linked Issues | â | â |  | 
+| â¯Requestsâ¯ |  |  |  | 
+| Request | â | â |  | 
+| Request Attachments | â | â |  | 
+| Request Comments | â | â |  | 
+| Request Remote Links | â | â |  | 
 | Request Votes | Yes | â | API limitation | 
-| Request Watchers | â | â | 
- | 
-| Request Participants | â | â | 
- | 
-| Request Worklogs | â | â | 
- | 
-| Child Requests | â | â | 
- | 
-| Linked Requests | â | â | 
- | 
+| Request Watchers | â | â |  | 
+| Request Participants | â | â |  | 
+| Request Worklogs | â | â |  | 
+| Child Requests | â | â |  | 
+| Linked Requests | â | â |  | 
 | SLAs | â | â | API limitation | 
-| â¯Assets | |||
-| Global Statuses | â | â | 
- | 
+| â¯Assets |  |  |  | 
+| Global Statuses | â | â |  | 
 | Global Icons | â | â | API limitation | 
-| Object Schema | â | â | 
- | 
-| Object Types | â | â | 
- | 
-| Object Attributes | â | â | 
- | 
-| Objects | â | â | 
- | 
-| Schema Statuses | â | â | 
- | 
-| General | |||
+| Object Schema | â | â |  | 
+| Object Types | â | â |  | 
+| Object Attributes | â | â |  | 
+| Objects | â | â |  | 
+| Schema Statuses | â | â |  | 
+| General |  |  |  | 
 | Compass components | â | â | API limitation | 
-| Filters | â | â | 
- | 
-| Groups | â | â | 
- | 
+| Filters | â | â |  | 
+| Groups | â | â |  | 
 | Users | â | â | API limitation | 
-| Work Items Settings | |||
-| Field Configurations | â | â | 
- | 
-| Fields | â | â | 
- | 
-| Notification Schemes | â | â | 
- | 
-| Permission Schemes | â | â | 
- | 
-| Priority Schemes | â | â | 
- | 
-| Resolutions | â | â | 
- | 
-| Screen Schemes | â | â | 
- | 
-| Screens | â | â | 
- | 
-| Statuses | â | â | 
- | 
-| Work Item Security Schemes | â | â | 
- | 
-| Work Type Screen Scheme | â | â | 
- | 
-| Work Types | â | â | 
- | 
-| Work Types Schemes | â | â | 
- | 
-| Workflow Schemes | â | â | 
- | 
+| Work Items Settings |  |  |  | 
+| Field Configurations | â | â |  | 
+| Fields | â | â |  | 
+| Notification Schemes | â | â |  | 
+| Permission Schemes | â | â |  | 
+| Priority Schemes | â | â |  | 
+| Resolutions | â | â |  | 
+| Screen Schemes | â | â |  | 
+| Screens | â | â |  | 
+| Statuses | â | â |  | 
+| Work Item Security Schemes | â | â |  | 
+| Work Type Screen Scheme | â | â |  | 
+| Work Types | â | â |  | 
+| Work Types Schemes | â | â |  | 
+| Workflow Schemes | â | â |  | 
 | Workflow Scheme Drafts | â | â | API limitation | 
-| Workflows | â | â | 
- | 
+| Workflows | â | â |  | 
 For a list of restore limitations, please download this document.
 
 ------------------------------------------------------------
@@ -12889,8 +12849,8 @@ This process needs to be repeated for each type of entity to ensure full access 
 
 Source URL: https://www.keepit.com/help/jira-category/restoring-jira-objects/
 Content type: Web page
-Last modified: 2026-01-27T10:34:38+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-21T23:35:28+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
@@ -12930,7 +12890,7 @@ Restoring an issue recreates it with new IDs and new issue keys.
 What to expect
 - Linked issues and child issues are restored.
 - However, any workflows, automations, integrations, or other processes that rely on the original issue IDs or keys will not automatically update.
- You must update these references manually after the restore.
+You must update these references manually after the restore.
 - Some fields may not restore exactly due to Jira API limitations.
 Restoring Project-Level Entities
 The following items all follow the same restore logic:
@@ -17886,13 +17846,12 @@ Keepit now has access to all teams in your Miro organization and can back up the
 
 Source URL: https://www.keepit.com/help/miro-category/miro-backup-coverage/
 Content type: Web page
-Last modified: 2025-11-26T20:16:39+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-21T23:07:53+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
 Miro backup coverage
-The table below shows the detailed backup and restore coverage of the latest version of Keepit for Miro.
 The table below shows the detailed backup and restore coverage of the latest version of Keepit for Miro.
 This version does not support custom backup or restore configurations. All data in the Miro instance will be included in any backup or full restore operation.
 For a list of coverage details, please download this document.
@@ -18641,15 +18600,13 @@ Your connector will be created, and the first backup will be scheduled.â¯
 
 Source URL: https://www.keepit.com/help/monday-category/monday-backup-coverage/
 Content type: Web page
-Last modified: 2026-06-02T11:35:27+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-21T22:21:41+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
-Monday backup coverage
-The table below shows the detailed backup and restore coverage of the latest version of Keepit for monday.com.
-The table below shows the detailed backup and restore coverage of the latest version of Keepit for monday.com.
-For a list of coverage details, please download this document.
+HomeHelp centerMondayMonday backup coverageMonday backup coverage Help center - MondayBy The table below shows the detailed backup and restore coverage of the latest version of Keepit for monday.com.Knowledge baseMonday connector
+HomeHelp centerMondayMonday backup coverageMonday backup coverage Help center - MondayBy Coverage detailsFor a list of coverage details, please download this document. Knowledge baseMonday connector
 
 ------------------------------------------------------------
 
@@ -19452,13 +19409,12 @@ Keepit creates your connector and schedules the first backup.
 
 Source URL: https://www.keepit.com/help/okta-category/okta-backup-coverage/
 Content type: Web page
-Last modified: 2026-01-14T15:33:53+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-21T23:16:53+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
 Okta backup coverage
-The table below shows the detailed backup and restore coverage of the latest version of Keepit for Okta.
 The table below shows the detailed backup and restore coverage of the latest version of Keepit for Okta.
 This version does not support custom backup or restore configurations. All data in the Okta instance will be included in any backup or full restore operation.
 For a list of coverage details, please download this document.
@@ -26306,13 +26262,55 @@ Note: The "Your connector needs to be reauthenticated" status will disappear onl
 
 Source URL: https://www.keepit.com/help/product-updates/
 Content type: Web page
-Last modified: 2026-08-15T10:19:28+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-08-19T17:27:29+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
 Keepit product updates
 ââWhat's new in the Keepit Platform
+10.24.0 - What's New in the Keepit Platform
+MCP toolbox: new tooling
+You can now achieve efficiencies by expanding the scope of the use of AI to cover additional monitoring, search and download jobs, and to automate tasks.
+What's new
+You can now use 13 new tools across three areas:
+- Monitoring
+- Search
+- Download
+Why it matters
+You can now eliminate time consuming manual work, freeing up time for other tasks and speeding up processes. These tools make it easier to build monitoring dashboards, automate health checks, and integrate backup data into your own workflows — without manual steps in the Keepit interface. You can track coverage trends, spot issues early, and retrieve protected data on demand.
+Explore the news tools here
+Entra ID: full application and service principal restore
+Keepit now restores App Registrations and Service Principals in Microsoft Entra ID far more completely, including certificates, keys, and passwords — turning a lengthy manual recovery into a mostly automated process.
+What's new
+The Entra ID connector now supports near-complete restore of App Registrations and Service Principals, including sensitive material:
+- Certificates
+- Keys
+These are restored into an Azure Key Vault in your own tenant. Keepit tags each restored object with metadata to guide any remaining steps. The connector also covers a wider set of application and service principal attributes.
+Why it matters
+Recovering a large application estate during a disaster used to mean hours of manual work across hundreds of objects. With this update, that process is mostly hands-off, helping your team get your identity environment back online faster and with greater confidence.
+Entra ID: expanded Microsoft Intune policy coverage
+Keepit now backs up and restores a significantly broader range of Microsoft Intune policies, giving you complete protection for your device and app management configuration.
+What's new
+The Entra ID connector now includes backup and restore for additional Intune policy types, all organized under a dedicated Intune node:
+- Device Scripts (PowerShell)
+- Windows Update profiles
+- Autopilot deployment profiles
+- Assignment filters
+- Managed App Policies (app configuration and app protection)
+Existing Compliance policies, Configuration profiles, and Account Protection policies (including Windows LAPS) are also consolidated here. Each policy is captured with its definition and assignments.
+Why it matters
+Intune controls device posture, app deployment, and compliance for every managed endpoint — and native rollback options are limited. With point-in-time copies of your full Intune configuration, you can restore any policy exactly as it was, including its assignments, without rebuilding it by hand. Restore to a different tenant is also supported.
+Entra ID: tenant configuration backup and restore
+You can now back up and restore your Microsoft Entra ID tenant configuration, including organizational branding and security defaults, as a dedicated component in the Entra ID connector.
+What's new
+The Entra ID connector now includes a Tenant Settings backup category covering:
+- Basic tenant configuration: tenant name, contact information, and privacy statement URL
+- Organizational branding: logos, banners, background images, custom CSS, and localized sign-in text for each language
+- Security defaults state
+Backup runs on the connector's regular schedule. Restore is available through the standard snapshot and restore wizard, with the option to restore individual branding sets selectively.
+Why it matters
+Tenant configuration changes rarely — which means an unintended edit to sign-in branding, contact details, or security defaults can be difficult to reverse with native tools. Keepit gives you a point-in-time copy stored in an independent, vendor-neutral cloud outside the tenant it protects, so you can recover quickly without rebuilding settings by hand.
 10.23.0 - What's New in the Keepit Platform
 Entra ID: easier restore of soft-deleted conditional access policies
 When you restore a deleted Conditional Access policy, Keepit now preserves the original policy ID, keeping your audit logs, sign-in correlation, and external references intact.
@@ -27059,6 +27057,18 @@ Ensure your organization has uninterrupted access to business critical Zendesk d
 The connector offers the secure backup of the following Zendesk data types: tickets, users, groups, organizations, views, macros, automations, and triggers.
 Use our platform features to find and recover your data, including the smart search, in-place restore, point-in-time recovery, data download, online preview, and secure link sharing.
 What's new in the Partner Management Console (PMC)
+10.24.0 - What's New in the PMC
+Easier account identification and clearer labels in the Partner Management Console
+We’re making it easier for you to confirm who’s signed in at a glance. Now the PMC will display a personalized identity block in the bottom-left corner after you log in, replacing generic login labels.
+What’s new
+The new identity block gives you a clearer view of your active account by displaying personalized user information.
+- Your first and last name, and role are now displayed instead of generic labels.
+- Your avatar now shows initials generated from your name.
+- Your role is displayed as the secondary identifier instead of your email address.
+- Field and column labels are more consistent and readable throughout PMC — for example, "Full name," "User email," "User role," and "MFA status."
+- Confirmation prompts, such as sending an activation email or deleting a user, now show both name and email so you always know who you're acting on.
+Why it matters
+Knowing exactly which account you’re using helps you work with greater confidence, especially if you switch between multiple accounts or roles. This reduces the risk of acting on the wrong account and brings the PMC in line with the identity experience already available in the Keepit Platform.
 10.23.0 - What's New in the PMC
 Product reassignment impact warning in the Partner Management Console
 Partners can now review a full impact summary before reassigning a product on a customer account, so configuration changes are always intentional and informed.
@@ -30371,8 +30381,8 @@ We also monitor the time in seconds until the limit is refreshed so that we know
 
 Source URL: https://www.keepit.com/help/zendesk-category/zendesk-backup-coverage/
 Content type: Web page
-Last modified: 2025-03-11T20:08:51+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-22T00:03:40+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
@@ -30390,9 +30400,9 @@ Users
  Organization memberships
  Organization subscriptions
  Personal views
- Personal macros
+Personal macros
 - End users
- Organization memberships
+Organization memberships
 - User fields
 Groups and Organizations
 - Members

@@ -1,5 +1,28 @@
 # Keepit KB Changelog
 
+## 2026-08-23
+
+Added (6):
+- https://www.keepit.com/blog/microsoft-entra-backup-recovery/
+- https://www.keepit.com/customers/austrianredcross/
+- https://www.keepit.com/customers/educationalliance/
+- https://www.keepit.com/why-keepit-demo/
+- https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Austrian-Red-Cross-Use-Case-EN.pdf
+- https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Education-Alliance-Case-Study-EN.pdf
+
+Modified (20):
+- https://www.keepit.com/blog/
+- https://www.keepit.com/help/bamboohr-category/bamboohr-backup-coverage/
+- https://www.keepit.com/help/confluence-category/confluence-backup-coverage/
+- https://www.keepit.com/help/docusign-category/docusign-backup-coverage/
+- https://www.keepit.com/help/jira-category/faqs-jira-connector/
+- https://www.keepit.com/help/jira-category/jira-backup-coverage/
+- https://www.keepit.com/help/jira-category/jsm-backup-coverage/
+- https://www.keepit.com/help/jira-category/restoring-jira-objects/
+- https://www.keepit.com/help/miro-category/miro-backup-coverage/
+- https://www.keepit.com/help/monday-category/monday-backup-coverage/
+- (... and 10 more)
+
 ## 2026-08-16
 
 Added (1):

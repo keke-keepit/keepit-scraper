@@ -1,12 +1,54 @@
 Source URL: https://www.keepit.com/help/product-updates/
 Content type: Web page
-Last modified: 2026-08-15T10:19:28+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-08-19T17:27:29+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
 Keepit product updates
 ââWhat's new in the Keepit Platform
+10.24.0 - What's New in the Keepit Platform
+MCP toolbox: new tooling
+You can now achieve efficiencies by expanding the scope of the use of AI to cover additional monitoring, search and download jobs, and to automate tasks.
+What's new
+You can now use 13 new tools across three areas:
+- Monitoring
+- Search
+- Download
+Why it matters
+You can now eliminate time consuming manual work, freeing up time for other tasks and speeding up processes. These tools make it easier to build monitoring dashboards, automate health checks, and integrate backup data into your own workflows — without manual steps in the Keepit interface. You can track coverage trends, spot issues early, and retrieve protected data on demand.
+Explore the news tools here
+Entra ID: full application and service principal restore
+Keepit now restores App Registrations and Service Principals in Microsoft Entra ID far more completely, including certificates, keys, and passwords — turning a lengthy manual recovery into a mostly automated process.
+What's new
+The Entra ID connector now supports near-complete restore of App Registrations and Service Principals, including sensitive material:
+- Certificates
+- Keys
+These are restored into an Azure Key Vault in your own tenant. Keepit tags each restored object with metadata to guide any remaining steps. The connector also covers a wider set of application and service principal attributes.
+Why it matters
+Recovering a large application estate during a disaster used to mean hours of manual work across hundreds of objects. With this update, that process is mostly hands-off, helping your team get your identity environment back online faster and with greater confidence.
+Entra ID: expanded Microsoft Intune policy coverage
+Keepit now backs up and restores a significantly broader range of Microsoft Intune policies, giving you complete protection for your device and app management configuration.
+What's new
+The Entra ID connector now includes backup and restore for additional Intune policy types, all organized under a dedicated Intune node:
+- Device Scripts (PowerShell)
+- Windows Update profiles
+- Autopilot deployment profiles
+- Assignment filters
+- Managed App Policies (app configuration and app protection)
+Existing Compliance policies, Configuration profiles, and Account Protection policies (including Windows LAPS) are also consolidated here. Each policy is captured with its definition and assignments.
+Why it matters
+Intune controls device posture, app deployment, and compliance for every managed endpoint — and native rollback options are limited. With point-in-time copies of your full Intune configuration, you can restore any policy exactly as it was, including its assignments, without rebuilding it by hand. Restore to a different tenant is also supported.
+Entra ID: tenant configuration backup and restore
+You can now back up and restore your Microsoft Entra ID tenant configuration, including organizational branding and security defaults, as a dedicated component in the Entra ID connector.
+What's new
+The Entra ID connector now includes a Tenant Settings backup category covering:
+- Basic tenant configuration: tenant name, contact information, and privacy statement URL
+- Organizational branding: logos, banners, background images, custom CSS, and localized sign-in text for each language
+- Security defaults state
+Backup runs on the connector's regular schedule. Restore is available through the standard snapshot and restore wizard, with the option to restore individual branding sets selectively.
+Why it matters
+Tenant configuration changes rarely — which means an unintended edit to sign-in branding, contact details, or security defaults can be difficult to reverse with native tools. Keepit gives you a point-in-time copy stored in an independent, vendor-neutral cloud outside the tenant it protects, so you can recover quickly without rebuilding settings by hand.
 10.23.0 - What's New in the Keepit Platform
 Entra ID: easier restore of soft-deleted conditional access policies
 When you restore a deleted Conditional Access policy, Keepit now preserves the original policy ID, keeping your audit logs, sign-in correlation, and external references intact.
@@ -753,6 +795,18 @@ Ensure your organization has uninterrupted access to business critical Zendesk d
 The connector offers the secure backup of the following Zendesk data types: tickets, users, groups, organizations, views, macros, automations, and triggers.
 Use our platform features to find and recover your data, including the smart search, in-place restore, point-in-time recovery, data download, online preview, and secure link sharing.
 What's new in the Partner Management Console (PMC)
+10.24.0 - What's New in the PMC
+Easier account identification and clearer labels in the Partner Management Console
+We’re making it easier for you to confirm who’s signed in at a glance. Now the PMC will display a personalized identity block in the bottom-left corner after you log in, replacing generic login labels.
+What’s new
+The new identity block gives you a clearer view of your active account by displaying personalized user information.
+- Your first and last name, and role are now displayed instead of generic labels.
+- Your avatar now shows initials generated from your name.
+- Your role is displayed as the secondary identifier instead of your email address.
+- Field and column labels are more consistent and readable throughout PMC — for example, "Full name," "User email," "User role," and "MFA status."
+- Confirmation prompts, such as sending an activation email or deleting a user, now show both name and email so you always know who you're acting on.
+Why it matters
+Knowing exactly which account you’re using helps you work with greater confidence, especially if you switch between multiple accounts or roles. This reduces the risk of acting on the wrong account and brings the PMC in line with the identity experience already available in the Keepit Platform.
 10.23.0 - What's New in the PMC
 Product reassignment impact warning in the Partner Management Console
 Partners can now review a full impact summary before reassigning a product on a customer account, so configuration changes are always intentional and informed.

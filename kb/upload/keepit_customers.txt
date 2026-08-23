@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — CUSTOMERS
-Generated: 2026-08-16
-Pages: 59
+Generated: 2026-08-23
+Pages: 61
 ============================================================
 
 Source URL: https://www.keepit.com/customers/
@@ -147,6 +147,43 @@ Since moving to Keepit, ANCA has not had a single backup failure and now meetsâ
 No more sleepless nights worrying about recovery. Keepit gives us reliability, compliance, and peace of mindâ¯—â¯all in one platform.
 - Andrew Zhouâ¯â¯ 
 Group IT Manager at ANCA
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/customers/austrianredcross/
+Content type: Web page
+Last modified: 2026-08-21T11:58:35+02:00
+Retrieved: 2026-08-23
+
+============================================================
+
+Austrian Red Cross keeps humanitarian operations running with managed SaaS backup
+When your organization operates ambulance services, blood donation logistics, and emergency response around the clock, a data outage isn't just an IT problem — it has real consequences for people's lives. That's the reality for the Austrian Red Cross, which chose Keepit to protect its growing Microsoft 365 environment against data loss, regulatory risk, and the dependencies that come with relying on a single cloud vendor. The decision wasn't about fixing something broken. It was about building a foundation that could carry the weight of what the organization actually does.
+Critical infrastructure raises the bar on data protection
+The Austrian Red Cross isn't a typical enterprise. It's classified as critical national infrastructure, operates in the medical and emergency services sector, and handles highly sensitive personal data every day. NIS2 and GDPR compliance are non-negotiable, and the combination of operational criticality and regulatory obligation sets an unusually high bar.
+As the organization's Microsoft 365 footprint grew, it became clear that native cloud retention wasn't enough. The IT team, led by Markus Hnatek, Head of IT, needed a purpose-built SaaS backup solution that could handle the sensitivity and scale of their environment without adding operational burden to an already stretched team.
+Business continuity isn't a nice-to-have for us. It's part of who we are.
+– Markus Hnatek
+Head of IT, Austrian Red Cross
+Data residency and vendor independence were requirements
+For the Austrian Red Cross, knowing where data lives is a compliance mandate, not a preference. GDPR requires precise knowledge of data location, and geopolitical uncertainty around hyperscaler infrastructure added another layer of concern. Keepit stores backups in its own independent cloud infrastructure, with European data centers and no third-party sub-processors, giving the team confidence that their data stays where it should.
+Vendor independence mattered for a different reason too. As Hnatek explains, it matters on multiple levels: "In day-to-day operations it's reassuring, but it also serves as a viable exit scenario in a worst case. Knowing that our backup data is independent of any single cloud vendor means we're not locked in and we have real options if circumstances change."
+Security features like encryption and immutability were expected as baseline capabilities rather than differentiators. What ultimately drove the decision were architecture, manageability, and the quality of the partnership on offer.
+A partner recommendation led to the right fit
+The Austrian Red Cross came to Keepit through a recommendation from its long-standing IT partner, ACP, a relationship built on collaboration and deep familiarity with the organization's specific requirements. That referral led to a direct introduction to the Keepit key account manager, whom the team already knew personally.
+"Trust played a big role," says Hnatek. "On the Keepit side, having a dedicated key account contact who understood our environment made a real difference, as did a thorough product presentation and reference customers who spoke for themselves."
+The evaluation confirmed what the recommendation had promised: a managed partner model that removes operational burden, a connector-based architecture that creates clean boundaries between applications and data access, and a team that engaged with the organization's specific needs rather than offering a one-size-fits-all pitch.
+If you're running Microsoft 365 and you don't have a dedicated SaaS backup in place, you're taking an unnecessary risk.
+– Markus Hnatek
+Head of IT, Austrian Red Cross
+Practical features that hold up in the real world
+Several capabilities stood out once the Austrian Red Cross began working with Keepit. The connector-based separation of multi-application workloads and data access provides clear oversight and clean permission boundaries, important for an organization that manages a wide range of data types with very different sensitivity levels.
+Single item recovery proved immediately valuable. The ability to pull back one email or one file without triggering a full restore is the kind of practical efficiency that makes a real difference to a stretched IT team. The managed partner model, operated through ACP, means the Austrian Red Cross doesn't carry the full operational burden of running backup infrastructure on its own.
+Keepit is easy to use, the managed model removes a lot of the operational overhead, and the peace of mind it provides is well worth it.
+– Markus Hnatek
+Head of IT, Austrian Red Cross
+A foundation built for what comes next
+The Austrian Red Cross is now positioned to extend SaaS data protection beyond Microsoft 365 to additional applications, without adding complexity to an already demanding operational environment. With GDPR and NIS2 compliance built in, data sovereignty maintained in European infrastructure, and the operational safety net of a managed service model, the organization can focus on what it's there to do: respond when people need help most.
 
 ------------------------------------------------------------
 
@@ -402,6 +439,45 @@ Giovanni Pisati
 IT Manager
 Keepit's Backup "A True Lifesaver"
 After working with Keepit for about 6 months, the necessity of Keepit’s simple yet robust backup and recovery solution was revealed as they were quickly able to restore important data. Keepit’s solution saved Digital Bros time and money when they were in dire need of a data restore.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/customers/educationalliance/
+Content type: Web page
+Last modified: 2026-08-19T14:26:02+02:00
+Retrieved: 2026-08-23
+
+============================================================
+
+The Education Alliance receives confidence through immutability
+Education isn’t just a regulated sector — it’s a high-value target. The Education Alliance (TEAL), a Multi-Academy Trust with 12 schools across East Yorkshire, Hull, and York in the UK, manages the digital lives of roughly 8,500 users across Microsoft 365 and Google Workspace. Those environments hold everything the trust needs to keep running: from day-to-day communications to shared files and critical documentation. When the existing backup contract came up for renewal, the IT team didn’t want a like-for-like replacement. They wanted something they could trust completely, backed by a provider that understood what was at stake.
+Education comes with unique cyber risks
+Education institutions handle sensitive data, operate across multiple sites, and face a persistent and growing cyberthreat. For Matt Wadsworth, director of IT at The Education Alliance, that threat isn’t abstract — it shapes every data protection decision the team makes.
+TEAL’s requirements were driven by long-term retention obligations and the sensitivity of the data it holds. But there was a more specific concern. If the trust’s Microsoft 365 tenant were ever compromised, the consequences would go well beyond data loss: communications would go dark, policies would be inaccessible, and the disaster recovery procedures needed to respond would be unreachable. The backup had to live somewhere the attacker couldn’t follow.
+One of our biggest threats from cyber risk is the loss of access to our M365 tenant. Keepit mitigates this threat because it stores our data separate from our production environment.
+– Matt Wadsworth 
+Director of IT, The Education Alliance
+Value won the evaluation
+When their existing contract came up for renewal, TEAL was already looking for a change. The priority was a clean, easy-to-navigate interface with a straightforward onboarding process. The evaluation focused on what would matter most in a real recovery scenario: ease of use, cost predictability, reliability, and the assurance that backed-up data couldn’t be altered or deleted.
+The procurement process stood out, too. The Keepit team took time to understand TEAL’s goals and show how the platform addressed them. Cost matters in education, but value was the real measure, and Keepit delivered on both.
+GDPR made data residency non-negotiable
+For a UK education institution handling data about children, knowing exactly where that data lives is a legal requirement. Under Article 35 of UK GDPR, organizations in this position must complete a Data Protection Impact Assessment (DPIA), a process that requires knowing precisely where data is stored and which jurisdiction governs it.
+Working through the DPIA with the Keepit team helped TEAL establish data residency requirements more quickly than anticipated. Keeping backups within European data centers, independent of the Microsoft and Google tenants but subject to UK and EU data protection law, gave the trust clear, demonstrable control over where its data resides.
+Working through the DPIA with the Keepit team meant we could establish data residency requirements far more quickly than we expected.
+– Matt Wadsworth 
+Director of IT, The Education Alliance
+Immutability gives the IT team confidence
+When you implement a backup procedure, you're already planning for the worst. For Wadsworth, the question is what happens if that worst case extends to the backup itself. A compromised backup doesn't just fail to help; it makes an already bad situation significantly worse.
+Keepit stores backed-up data in an independent, vendor-neutral cloud, logically separated from the Microsoft and Google environments it protects. That data can't be altered or deleted by anyone, including a threat actor who has already breached the production environment. For TEAL, that separation is the foundation of the whole data protection strategy.
+"To imagine someone breaching your backup too makes the situation ten times worse," says Wadsworth. "Knowing the data is immutable gives you the confidence to know the data is safe."
+Faster recovery, less friction
+In day-to-day use, Keepit earns its place well outside a crisis. Recovery is faster and simpler than with previous systems. Tasks like recovering a deleted email folder or reviewing data from a specific point in time can now be completed in a few clicks.
+Since deployment, recovery time has improved and administrative complexity has reduced. For a lean IT team supporting 12 schools across multiple sites, that reduction in overhead is meaningful.
+We primarily chose Keepit as an insurance policy — a get-out-of-jail card should a large-scale disruption occur. But using the solution day to day has allowed us to perform restore procedures far quicker than previous systems and reviewing data from different timestamps at a glance has been a real help.
+– Matt Wadsworth 
+Director of IT, The Education Alliance
+Recovery-ready, whatever the threat
+With Keepit protecting 82 TB of data across Microsoft 365, Google Workspace, and Entra ID, The Education Alliance has a recovery foundation it can rely on. Whether the threat is ransomware, accidental deletion, or a full tenant outage, a clean, recoverable copy of the trust's data exists in a separate cloud, under a separate login, and always within the right jurisdiction.
 
 ------------------------------------------------------------
 

@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — RESOURCES
-Generated: 2026-08-16
+Generated: 2026-08-23
 Pages: 92
 ============================================================
 
@@ -444,23 +444,41 @@ Keepit has the solution. With true third-party cloud backup, Keepit offers you i
 
 Source URL: https://www.keepit.com/resources/events/
 Content type: Web page
-Last modified: 2026-08-14T00:07:48+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-08-17T20:45:29+02:00
+Retrieved: 2026-08-23
 
 ============================================================
 
-October 19-22, 2026
-Walt Disney World Resort, Orlando, FL
-Meet Keepit at Gartner IT Symposium/Xpo 2026 
-AI doesn't create truth. It amplifies whatever it's given. Meet Keepit at Gartner IT Symposium/Xpo 2026 in Orlando, October 19–22, and hear why an independent, always-recoverable single point of truth is the foundation responsible AI adoption depends on.  
-Use SYM36EDC to get $575 discount on your ticket here. 
-Conference URL: https://www.gartner.com/en/conferences/na/symposium-us 
+Conheça a Keepit na Conferência Gartner CIO & IT Executive 2026 em São Paulo, Brasil.
+Conecte-se com nossa equipe para saber como fortalecer a resiliência e a governança de dados em ambientes multicloud e SaaS. Obtenha insights estratégicos sobre como proteger, garantir a conformidade e manter a resiliência operacional, além de como transformar uma governança de dados sólida em uma base para a inovação impulsionada pela IA.
+Use o código CIOSB26EDC para obter um desconto de R$ 475,00 no seu ingresso aqui.
+Keepit: Como a Odebrecht transformou resiliÃªncia de dados em vantagem
+Data e horário: 22 de setembro de 2026, às 15h20 (BRT) Local: Teatro do Exhibit Showcase Código da sessão: TH13
+Modernização tecnológica, ambientes multi-cloud e adoção acelerada de IA exigem uma nova abordagem para governança e resiliência de dados. Nesta sessão, a Odebrecht compartilha sua experiência fortalecendo proteção, compliance e continuidade operacional além dos recursos nativos das plataformas SaaS. Saiba como a organização criou uma base resiliente para auditorias, investigações e inovação orientada por dados.
+Nesta sessão, você aprenderá:
+Como reforçar a proteção de dados e a conformidade além dos recursos nativos do SaaS em ambientes multicloud
+Como a Odebrecht construiu uma base resiliente para auditorias e investigações
+Como uma governança de dados resiliente pode acelerar a adoção da IA e a inovação baseada em dados
+The Cyber Security and Resilience Bill is coming — but how prepared is your organisation? As expectations tighten across cloud, SaaS, and the wider supply chain, what once felt "good enough" may no longer meet the standard.
+Join us for the London stop of the Keepit Live UK Roadshow, an exclusive roundtable lunch at 14 Stories London. Connect with leaders from across the charities and housing sector to discuss what's changing, where organisations feel least prepared, and how to close the gap.
+No presentations. Just focused, peer-led conversation.
+Why Attend
+Pressure-test your preparedness for upcoming regulatory requirements
+Understand where organisations are most exposed — and how to respond
+Exchange perspectives with peers from the charities and housing sector navigating the same challenges
+Limited seats available — reserve your spot early.
+This event is exclusively intended for relevant Keepit customers and prospects from the charities and housing sector.
+Thank you for registering! Stay tuned to your email for confirmation of your seats and exclusive event details.
+Americas
+October 19-22, 2026 | Orlando, FLGartner IT Symposium/Xpoâ¢ 2026 conference
+AI doesn't create truth. It amplifies whatever it's given. Meet Keepit at Gartner IT Symposium/Xpo 2026 in Orlando, October 19–22, and hear why an independent, always-recoverable single point of truth is the foundation responsible AI adoption depends on.
+Use SYM36EDC to get $575 discount on your ticket here.
 Keepit: The foundation AI can't build itself — a single point of truth
-AI doesn't create truth. It amplifies whatever it's given. As organizations expand AI across their SaaS applications, one lesson keeps resurfacing: you can't build a recovery strategy on the systems you need to recover from. This session explores why an independent, verified, and always-recoverable single point of truth is the foundation responsible AI adoption depends on — and why trust, recoverability, and AI strategy belong in the same conversation. 
-In this session, you’ll learn: 
-- A clearer understanding of why recovery responsibility has always sat with the organization — not the platform  
-- Practical insight into the SaaS data protection gaps that AI adoption makes more urgent, not less  
-- A framework for building a single point of truth that is independent, verified, and always recoverable
+AI doesn't create truth. It amplifies whatever it's given. As organizations expand AI across their SaaS applications, one lesson keeps resurfacing: you can't build a recovery strategy on the systems you need to recover from. This session explores why an independent, verified, and always-recoverable single point of truth is the foundation responsible AI adoption depends on — and why trust, recoverability, and AI strategy belong in the same conversation.
+In this session, you’ll learn:
+A clearer understanding of why recovery responsibility has always sat with the organization — not the platform
+Practical insight into the SaaS data protection gaps that AI adoption makes more urgent, not less
+A framework for building a single point of truth that is independent, verified, and always recoverable
 
 ------------------------------------------------------------
 
