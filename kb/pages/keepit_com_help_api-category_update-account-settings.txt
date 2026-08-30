@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/update-account-settings/
 Content type: Web page
-Last modified: 2025-10-16T10:00:45+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:18:36+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -12,15 +12,11 @@ Method PUT
 /users/{account_id}
 Elements table
 Root object element: user_update
-This command updates the settings of an account. It can be executed either directly at the account level or from the parent account.
-Method PUT
-/users/{account_id}
-Root object element: user_update
-Method PUT
 https://dk-co.keepit.com/users/psmqd-3nqijs-9qi26x/
 <user_update>
      <product>a9y02y-qngj1m-yvh5r8</product>
-</user_update>Code: 200 OK
+</user_update>
+Code: 200 OK
 Response body:
 Account updated successfully
 try {

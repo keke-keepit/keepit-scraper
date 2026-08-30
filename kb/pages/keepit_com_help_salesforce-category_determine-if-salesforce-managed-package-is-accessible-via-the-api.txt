@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/salesforce-category/determine-if-salesforce-managed-package-is-accessible-via-the-api/
 Content type: Web page
-Last modified: 2025-03-11T20:14:01+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T20:38:01+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -20,7 +20,7 @@ To determine if records from a Salesforce Managed Package are accessible via the
  Query the object using SOQL:
  Example:\
  SELECT Id, Name FROM Custom_Object__c LIMIT 10 If the query returns records, the object is API accessible.\
- If you receive an error like "Entity is not API accessible," it is restricted.
+If you receive an error like "Entity is not API accessible," it is restricted.
 5. Inspect Package Settings (if available)
 - Some Managed Packages provide specific settings to toggle API access. Check the Managed Package settings under Installed Packages in Setup to see if API access is configurable.
 6. Contact the Package Provider

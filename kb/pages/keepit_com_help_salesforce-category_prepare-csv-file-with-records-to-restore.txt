@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/salesforce-category/prepare-csv-file-with-records-to-restore/
 Content type: Web page
-Last modified: 2025-12-08T15:20:33+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T21:02:09+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -9,7 +9,6 @@ Prepare CSV file with records to restore
 Keepit supports two CSV file formats that can be used to restore Salesforce records:
 - Keepit format
 - Salesforce-generated report
- 
 Keepit Format
 The CSV file must meet the following requirements:
 - No header line

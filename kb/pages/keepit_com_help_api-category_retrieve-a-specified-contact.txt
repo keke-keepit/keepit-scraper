@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-a-specified-contact/
 Content type: Web page
-Last modified: 2025-10-15T13:43:17+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:29:50+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -23,7 +23,8 @@ Response body:
     <fullname>test@keepit.com</fullname>
     <phone>11111111111111</phone>
     <language>en-GB</language>
-</contact>PowerShell script
+</contact>
+PowerShell script
 try {
     $username = '<Token username>'
     $password = '<Token password>'

@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-the-account-id-of-the-currently-authenticated-token/
 Content type: Web page
-Last modified: 2025-10-16T10:00:03+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:09:27+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -18,7 +18,8 @@ Code: 200 OK
 Response body:
 <user>
     <id>nq2v51-5mx23m-qb7sah</id>
-</user>PowerShell script
+</user>
+PowerShell script
 try {
     $username = '<Token username>'
     $password = '<Token password>'

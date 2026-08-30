@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/salesforce-category/solve-salesforce-record-ids-challengeswith-external-id-field/
 Content type: Web page
-Last modified: 2025-12-03T13:09:14+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T21:10:46+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -50,7 +50,8 @@ trigger PopulateCaseIdField on Case (after insert) { 
     if (!casesToUpdate.isEmpty()) { 
         update casesToUpdate; 
     } 
-}6. Select Ctrl+S to save the trigger.
+}
+6. Select Ctrl+S to save the trigger.
 Step 3: Test the trigger
 1. Navigate to the Case Object in Salesforce and create a new case.
 2. After saving, verify that the ID was inserted into the Case ID field.
@@ -86,13 +87,16 @@ global class UpdateExistingCaseIds implements Database.Batchable<SObject>, Datab
     global void finish(Database.BatchableContext bc) { 
         System.debug('Batch job complete: CaseId__c field updated for all records.'); 
     } 
-}3. Save the Class (Name populates to “UpdateExistingCaseIds”
+}
+3. Save the Class (Name populates to “UpdateExistingCaseIds”
 Step 5: Run the Batch Apex class
 To update the CaseId__c field for existing records, run the batch class:
 1. Open the Developer Console.
 2. Click Debug > Open Execute Anonymous Window.
 3. Past the following code to run the batch job:
-// Execute the batch job to update existing records UpdateExistingCaseIds batch = new UpdateExistingCaseIds(); Database.executeBatch(batch, 200); // Adjust batch size if needed
+// Execute the batch job to update existing records 
+UpdateExistingCaseIds batch = new UpdateExistingCaseIds(); 
+Database.executeBatch(batch, 200);  // Adjust batch size if needed 
 4. Click Execute to start the batch job.
 Step 6: Monitor the batch job
 1. In Setup, search for Apex Jobs.
@@ -101,7 +105,7 @@ Step 7: Verify the results
 1. Go to the Cases tab and open some Case records.
 2. Verify that the CaseId__c field has been populated with the 18-character Case ID.
 Note: Alternatively, you can run a SOQL query in the Developer Console to verify the results:
-SELECT Id, CaseId__c FROM Case WHERE CaseId__c = null
+SELECT Id, CaseId__c FROM Case WHERE CaseId__c = null 
 Step 8: Schedule the batch job
 If you’d like to schedule this batch job to run periodically (in case more records with a blank CaseId__c are added later), you can create a Scheduled Apex Class.
 1. Create the Scheduled Apex Class:

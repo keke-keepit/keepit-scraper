@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-list-of-invoices-for-account/
 Content type: Web page
-Last modified: 2026-04-01T10:25:10+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:02:44+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -27,7 +27,8 @@ Response body:
         <issued>2024-07-20</issued>
         <currency>EUR</currency>
         <total>487.08</total>
-    </invoice>PowerShell script
+    </invoice>
+PowerShell script
 try {
   $domain = 'https://dk-co.keepit.com' 
   $username = '<API Token username>'
@@ -53,8 +54,21 @@ catch {
   $line = $_.InvocationInfo.ScriptLineNumber
   Write-Host "Cannot query Keepit API due to: $_"
   Write-Host "at line $line"
-}Script result
-_________________________ reference: agn1sfs6hcemt product-name: Billing_quad issued: 2024-07-20 currency: EUR total: 487.08 ________________________ reference: agn1sfs6hd1ld product-name: Billing_quad issued: 2024-06-20 currency: EUR total: 1002.45 ________________________
+}
+Script result
+_________________________
+reference: agn1sfs6hcemt
+product-name: Billing_quad
+issued: 2024-07-20
+currency: EUR
+total: 487.08
+________________________
+reference: agn1sfs6hd1ld
+product-name: Billing_quad
+issued: 2024-06-20
+currency: EUR
+total: 1002.45
+________________________
 Additional information
 - The response can have the accept header application/vnd.keepit.v0+xml or application/vnd.keepit.v1+xml.
 key – Accept

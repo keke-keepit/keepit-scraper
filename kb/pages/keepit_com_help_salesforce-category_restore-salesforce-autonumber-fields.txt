@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-autonumber-fields/
 Content type: Web page
-Last modified: 2025-12-08T14:23:57+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T21:12:58+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -125,7 +125,8 @@ global class UpdateExistingCaseNumbers implements Database.Batchable<SObject>, D
     global void finish(Database.BatchableContext bc) { 
         System.debug('Batch job complete: Case_Number2__c field updated for all records.'); 
     } 
-} 3. Save the Class.
+} 
+3. Save the Class.
 Name defaults to: UpdateExistingCaseNumbers
 Step 5: Run the Batch Apex Class
 To update the Case_Number2__c field for existing records, run the batch class:
@@ -133,7 +134,8 @@ To update the Case_Number2__c field for existing records, run the batch class:
 2. Click Debug > Open Execute Anonymous Window.
 3. Paste the following code to run the batch job:
 // Execute the batch job to update existing records
-UpdateExistingCaseNumbers batch = new UpdateExistingCaseNumbers(); Database.executeBatch(batch, 200); // You can adjust the batch size
+UpdateExistingCaseNumbers batch = new UpdateExistingCaseNumbers(); 
+Database.executeBatch(batch, 200);  // You can adjust the batch size 
 4. Click Execute to start the batch job.
 Step 6: Monitor the batch job
 1. In Setup, search for Apex Jobs.
@@ -142,7 +144,7 @@ Step 7: Verify the results
 1. Go to the Cases tab and open some Case records.
 2. Verify that the Case_Number2__c field has been populated with the standard Case Number field.
 Note: Alternatively, you can run a SOQL query in the Developer Console to verify the results:
-SELECT Id, Case_Number2__c FROM Case WHERE Case_Number2__c = null
+SELECT Id, Case_Number2__c FROM Case WHERE Case_Number2__c = null 
 Step 8: Schedule the batch job
 If you’d like to schedule this batch job to run periodically (in case more records with a blank Case_Number2__c are added later), you can create a Scheduled Apex Class.
 1. Create the Scheduled Apex Class: Navigate to Setup > Apex Classes > New.Paste the ScheduledUpdateCaseNumber code below and save the class.

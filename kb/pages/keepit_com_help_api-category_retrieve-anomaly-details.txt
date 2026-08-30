@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-anomaly-details/
 Content type: Web page
-Last modified: 2026-03-23T12:59:19+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:51:32+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -33,7 +33,8 @@ Response body:
             <dbscan-eps>0.7d0</dbscan-eps>
         </parameters>
     </description>
-</anomaly>PowerShell script
+</anomaly>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -68,5 +69,20 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
-guid: snq2mb-15zmsc-he4rbs time: 2025-06-14T23:20:54Z detected: 2025-06-14T23:22:03Z kind: imported-files-modified status: new description: snapshot-size: 68295573 change: 43647240 change-percents: 63.91 change-files-count: 606 parameters: analyzed-snapshots: 60 size-threshold: 0.1d0 dbscan-min-samples: 4 dbscan-eps: 0.7d0
+}
+Script result
+guid: snq2mb-15zmsc-he4rbs
+time: 2025-06-14T23:20:54Z
+detected: 2025-06-14T23:22:03Z
+kind: imported-files-modified
+status: new
+description:
+snapshot-size: 68295573
+change: 43647240
+change-percents: 63.91
+change-files-count: 606
+parameters:
+analyzed-snapshots: 60
+size-threshold: 0.1d0
+dbscan-min-samples: 4
+dbscan-eps: 0.7d0

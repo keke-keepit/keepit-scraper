@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-reason-for-unhealthy-or-critical-status/
 Content type: Web page
-Last modified: 2026-04-01T10:29:24+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:25:20+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -19,7 +19,8 @@ Response body:
 <devhealth>
     <health>critical</health>
     <reason>BADLOGIN</reason>
-</devhealth>PowerShell script
+</devhealth>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -44,7 +45,9 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
-Health Status: critical Reason: BADLOGIN
+}
+Script result
+Health Status: critical
+Reason: BADLOGIN
 Additional information
 Possible health reasons:

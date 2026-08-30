@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/pmc/configure-single-sign-on-sso-for-pmc/
 Content type: Web page
-Last modified: 2025-03-11T17:11:29+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T22:52:20+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -15,7 +15,7 @@ In the process of setting up SSO, we recommend you create an SSO Admin. This is 
 Set up your identity provider
 During the configuration process, gather the following information:
 - Identity Provider URL (IDP URL)
- Note: In Microsoft Entra, this is called the Login URL or SAML Single Sign-On Service URL.
+Note: In Microsoft Entra, this is called the Login URL or SAML Single Sign-On Service URL.
 - Certificate (Base64) of your identity provider
 Also be sure to:
 - Assign the SSO app to all users who should have access to sign in via SSO.

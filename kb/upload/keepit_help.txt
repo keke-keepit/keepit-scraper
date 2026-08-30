@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — HELP
-Generated: 2026-08-23
-Pages: 372
+Generated: 2026-08-30
+Pages: 374
 ============================================================
 
 Source URL: https://www.keepit.com/help/
@@ -1439,8 +1439,8 @@ Help center - Salesforce
 
 Source URL: https://www.keepit.com/help/api-category/add-a-contact-to-the-account/
 Content type: Web page
-Last modified: 2025-10-15T23:45:06+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:32:02+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -1451,11 +1451,6 @@ Method POST
 /users/{account_id}/contacts
 Elements table
 Root object element: contact
-This command allows you to add a contact to an account.
-Method POST
-/users/{account_id}/contacts
-Root object element: contact
-Method POST
 https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka/contacts/
 Body
 <contact>
@@ -1465,7 +1460,8 @@ Body
     <fullname>test123456789@keepit.com</fullname>
     <phone>11111111111111</phone>
     <language>en-GB</language>
-</contact>Code: 201 Created
+</contact>
+Code: 201 Created
 try {
     $username = '<Token username>'
     $password = '<Token password>'
@@ -1528,19 +1524,19 @@ Accept: application/vnd.keepit.v1+xml
 
 Source URL: https://www.keepit.com/help/api-category/api-permissions/
 Content type: Web page
-Last modified: 2025-09-30T12:17:47+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:20:30+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
 API permissions
 The examples in the documentation typically use an API token, which has Master Admin, Partner, or MSP Full Admin permissions by default. These token types provide full access to perform all described actions. The appropriate token type depends on the type of account you're working with:
 - Customer accounts (Keepit platform)
- An API token or a Master Admin user token
+An API token or a Master Admin user token
 - Partner accounts (PMC)
- An API token or a Partner token
+An API token or a Partner token
 - MSP accounts (PMC)
- An API token or an MSP Full Admin token
+An API token or an MSP Full Admin token
 However, you may use other types of tokens that have fewer permissions. Tokens with more limited permissions may still execute certain API requests, but some actions might be restricted, depending on the assigned role and permissions.
 If the authenticated token lacks sufficient permissions, a "Forbidden" error will be returned in the body of the API response.
 Refer to our permissions articles:
@@ -1598,8 +1594,8 @@ try {
 
 Source URL: https://www.keepit.com/help/api-category/change-token-permissions-and-other-details/
 Content type: Web page
-Last modified: 2026-03-24T15:05:17+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:00:27+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -1610,15 +1606,11 @@ Method PUT
 /users/{account_id}/tokens/{aname}
 Elements table
 Root object element: token
-This command allows you to change the permissions and details of primary and secondary tokens.
-Method PUT
-/users/{account_id}/tokens/{aname}
-Root object element: token
-Method PUT
 https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/tokens/test@keepit.com
 <token_update>
     <acl>FullSupport</acl>
-</token_update>Code: 200 OK
+</token_update>
+Code: 200 OK
 Response body:
 Successfully updated access token.
 try {
@@ -1648,15 +1640,15 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot update Keepit token due to: $_"
     Write-Host "at line $line"
-}Successfully updated access token.
+}
 The most commonly used ACLs:
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/create-a-secondary-token/
 Content type: Web page
-Last modified: 2026-03-24T15:08:32+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:56:15+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -1681,7 +1673,8 @@ Response body:
 <credentials>
     <aname>%cxZq4L+dyQsns1k6gB5Ia,a</aname>
     <apass>?+gs)---F6n6a4AERi?e1s9n</apass>
-</credentials>PowerShell script
+</credentials>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -1767,7 +1760,8 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
+}
+Script result
 username:    test@keepit.com
 password:    EnterYourPasswordHere!
 Additional information
@@ -1776,15 +1770,15 @@ Additional information
              value - application/vnd.keepit.v1+xml
 - The <primary> element determines whether the token is a Primary or Secondary token.
  For secondary tokens, <primary> must be set to "false".
- For primary tokens, <primary> must be set to "true".
+For primary tokens, <primary> must be set to "true".
 - Email notifications are not sent to secondary tokens. Notifications can be delivered only to primary tokens.
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/create-a-subaccount/
 Content type: Web page
-Last modified: 2026-06-24T11:27:55+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:14:30+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -1801,7 +1795,8 @@ Example of body:
             <value>FirstAccount</value>
         </attribute>
     </attributes>
-</user_create>Create a subaccount with email authentication required for account activation
+</user_create>
+Create a subaccount with email authentication required for account activation
 This command creates a subaccount without a password. If no password is set during account creation, an activation link will be sent to the customer's email for account activation.
 Example
 Method POST
@@ -1813,7 +1808,8 @@ Body
     <acl>MasterAdmin</acl> 
     <language>en-GB</language> 
     <product>a9y02y-qngj1m-yvh5r8</product> 
-</user_create>Response
+</user_create>
+Response
 Code: 201 Created
 PowerShell script
 try { 
@@ -1870,7 +1866,8 @@ Body
     <acl>MasterAdmin</acl> 
     <language>en-GB</language> 
     <product>a9y02y-qngj1m-yvh5r8</product> 
-</user_create>Response
+</user_create>
+Response
 Code: 201 Created
 PowerShell script
 try { 
@@ -1912,27 +1909,65 @@ catch {
 
 Source URL: https://www.keepit.com/help/api-category/create-additional-users-in-a-subaccount/
 Content type: Web page
-Last modified: 2025-10-16T09:59:26+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:53:54+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
-Create additional users (tokens) in a subaccount
 This command allows you to create additional users (access tokens) in a subaccount.
 When you create a subaccount, you also get one access token for one user. You can create additional users (tokens) for a newly created subaccount.
 In other words, when a subaccount is created, one user (access token) is automatically created. However, you can create additional ones via an API call if needed.
-API request
-Method POST
-/users/{subaccount_id}/tokens/
-Elements table
-Root object element: token
+User role. Determines the token access and permissions. The list of user roles can be found below.
+Only one of two is applicable.
+type
+String
+Optional
+LEGACY. ACL element should be used instead.
+descr
+string
+Mandatory
+Short textual description of the token (e.g., name of device).
+aname
+string
+Mandatory
+Token email.
+apass
+string
+Mandatory
+Token password.
+lifetime
+ISO 8601 period
+Optional
+Lifetime of the token.
+If not provided, the token lifetime is unlimited.
+expires
+timestamp
+Optional
+Specific date and time when the token will expire.
+Format: `YYYY-MM-DDTHH:MM:SSZ` (ISO 8601)
+device
+string
+Optional
+An optional ID of the target device (for device tokens).
+primary
+boolean
+Optional
+Indicates if this is a user (primary) token or an API (secondary) token. Possible values: "true" or "false". If the element is not included, the API (secondary) token will be created by default.
+All user tokens should be primary (<primary> element set to "true"), unless you are creating an API (secondary) token. Only API tokens are not primary.
+singleuse
+boolean
+Optional
+Indicates if the token is valid for a single use only. Should be set to "true" if the user should expire after a single use.
+All user tokens should have the <primary> element (set to "true"), unless you are creating an API (secondary) token. Only API tokens are not primary. In case the <primary> element is not indicated in the body, the API (secondary) token will be created by default.
+The user (token) will be created in the account that is indicated in “$userID” in the script.
+The password for the new token (<apass> node in the body) should be isolated in the script in order to support the special symbols. Replace the string “EnterYourPasswordHere!” with the password you wish to set.
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/delete-an-account-via-api/
 Content type: Web page
-Last modified: 2025-10-15T13:42:11+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:20:48+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -1966,7 +2001,8 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Additional information
+}
+Additional information
 - If the delete-retention-period resource is set in the product configuration, the account will be scheduled for deletion instead of being deleted immediately. All associated resources will be retained until the retention period expires.
 - The initiating peer must be authenticated as a parent of that account.
 
@@ -1974,8 +2010,8 @@ catch {
 
 Source URL: https://www.keepit.com/help/api-category/edit-the-details-of-a-specified-contact/
 Content type: Web page
-Last modified: 2025-10-16T10:08:32+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:34:14+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -1992,7 +2028,8 @@ Body
     <street1>TheExampleStreet</street1>
     <city>Copenhagen</city>
     <language>en-GB</language>
-</contact>Response
+</contact>
+Response
 Code: 200 OK
 Response body:
 Successfully updated contact details.
@@ -2027,7 +2064,8 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Additional information
+}
+Additional information
 - Only include the fields that need to be updated. Fields that are not specified will remain unchanged.
 - To remove a parameter (if removable), provide an empty value.
 
@@ -2035,8 +2073,8 @@ catch {
 
 Source URL: https://www.keepit.com/help/api-category/filter-job-information/
 Content type: Web page
-Last modified: 2026-04-01T10:28:25+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:34:05+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -2047,18 +2085,14 @@ Method PUT
 /users/{account_id}/devices/{connector_id}/jobs
 Elements table
 Root object element: filter
-This command filters job information.
-Method PUT
-/users/{account_id}/devices/{connector_id}/jobs
-Root object element: filter
 Filter only active jobs via API:
-Method PUT
 https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/devices/11ptlk-st7sly-ggba4c/jobs
 <filter>
     <from-time>2024-10-14T08:12:14Z</from-time>
     <to-time>2024-10-16T08:12:14Z</to-time>
     <active-only>true</active-only>
-</filter>Code: 200 OK
+</filter>
+Code: 200 OK
 Response body:
  <jobs>
     <job>
@@ -2105,10 +2139,18 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}GUID: va14e0-sa8c7o-giq88n-hsfgdx Type: srestore Active: true Started: 2024-10-15T00:54:29Z --------------------------- GUID: p6eqb9-4t1wwi-2vnnuw-y1oh5c Type: backup Active: true Started: Scheduled ---------------------------
+}
+GUID: va14e0-sa8c7o-giq88n-hsfgdx
+Type: srestore
+Active: true
+Started: 2024-10-15T00:54:29Z
+---------------------------
+GUID: p6eqb9-4t1wwi-2vnnuw-y1oh5c
+Type: backup
+Active: true
+Started: Scheduled
+---------------------------
 Filter by job type and add a fail reason:
-Method PUT
-https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/devices/11ptlk-st7sly-ggba4c/jobs
 <filter>
     <from-time>2024-10-14T08:27:14Z</from-time>
     <to-time>2024-10-16T08:27:14Z</to-time>
@@ -2117,9 +2159,7 @@ https://dk-co.keepit.com/users/5t1sbe-s6zsgx-rtutxq/devices/11ptlk-st7sly-ggba4c
     <stats>
         <name>fail_reason</name>
     </stats>
-</filter>Code: 200 OK
-Response body:
-<jobs>
+</filter><jobs>
     <job>
         <guid>fsglzll-yvsqx2-1shdhk-fuhxgd</guid>
         <description>[srestore] [webui2] [user] [o365-admin] {Microsoft 365 Backup}</description>
@@ -2201,15 +2241,30 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
-Job GUID: va14e0-sa8c7o-giq88n-hsfgdx Type: srestore Active: false Started: 2024-10-15T00:54:29Z Status: Succeeded at 2024-10-15T00:56:21Z Progress: 1.0 --------------------------- Job GUID: fsglzll-yvsqx2-1shdhk-fuhxgd Type: srestore Active: false Started: 2024-10-15T16:45:40Z Status: Failed at 2024-10-15T16:46:12Z Progress: 1.0 Fail Reason: failed_to_restore_some_items ---------------------------
+}
+Script result
+Job GUID: va14e0-sa8c7o-giq88n-hsfgdx
+Type: srestore
+Active: false
+Started: 2024-10-15T00:54:29Z
+Status: Succeeded at 2024-10-15T00:56:21Z
+Progress: 1.0
+---------------------------
+Job GUID: fsglzll-yvsqx2-1shdhk-fuhxgd
+Type: srestore
+Active: false
+Started: 2024-10-15T16:45:40Z
+Status: Failed at 2024-10-15T16:46:12Z
+Progress: 1.0
+Fail Reason: failed_to_restore_some_items
+---------------------------
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/generate-pdf-version-of-the-payment-or-credit/
 Content type: Web page
-Last modified: 2026-03-23T13:21:40+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:07:09+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -2250,7 +2305,8 @@ catch {
   $line = $_.InvocationInfo.ScriptLineNumber
   Write-Host "Cannot query Keepit API due to: $_"
   Write-Host "at line $line"
-}Script result
+}
+Script result
 Invoice saved as PDF at: C:\invoice_agn1sfs6hcemt.pdf
 - The response can use the accept header application/vnd.keepit.v0+xml or application/vnd.keepit.v1+xml:
 key – Accept
@@ -2298,8 +2354,8 @@ Each Keepit data center operates on its own separate infrastructure. All API cal
 
 Source URL: https://www.keepit.com/help/api-category/monitor-timestamps-and-snapshot-sizes/
 Content type: Web page
-Last modified: 2026-04-01T10:29:04+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:29:31+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -2311,7 +2367,8 @@ Body
     <start>2024-11-23T08:12:14Z</start>
     <span>P1M</span>
     <count>99</count>
-</range>Response
+</range>
+Response
 Code: 200 OK
 Response body:
  <backup>
@@ -2328,7 +2385,8 @@ Response body:
         <size>2025304567</size>
         <account>5t1sbe-s6zsgx-rtutxq </account>
     </backup>
-</history>PowerShell script
+</history>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -2363,7 +2421,8 @@ catch {
         $line = $_.InvocationInfo.ScriptLineNumber
         Write-Host "Cannot query Keepit API due to: $_"
         Write-Host "at line $line"
-}Script result
+}
+Script result
 Timestamp: 2024-12-21T21:29:31Z, Type: c, Size: 2023899411
 Timestamp: 2024-12-22T09:29:38Z, Type: c, Size: 2025304567
 Timestamp: 2024-12-22T21:29:44Z, Type: c, Size: 2025304567
@@ -2379,8 +2438,8 @@ In this example, the period is one month – P1M.
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-a-backup-summary-for-a-connector/
 Content type: Web page
-Last modified: 2026-04-01T10:27:05+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:44:54+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -2399,7 +2458,8 @@ Response body:
     <last-snapshot-time>2025-06-04T00:37:04Z</last-snapshot-time>
     <last-snapshot-size>12135</last-snapshot-size>
     <size-change>6950</size-change>
-</backup-summary>PowerShell script
+</backup-summary>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -2422,15 +2482,18 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
-last-snapshot-time: 2025-06-04T00:37:04Z last-snapshot-size: 12135 size-change: 6950
+}
+Script result
+last-snapshot-time: 2025-06-04T00:37:04Z
+last-snapshot-size: 12135
+size-change: 6950
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-a-list-of-subaccount-ids/
 Content type: Web page
-Last modified: 2026-04-22T13:35:17+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:12:12+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -2449,7 +2512,10 @@ https://dk-co.keepit.com/users/nq2v51-5mx23m-qb7sah/users
 Response
 Code: 200 OK
 Response body (Accept: application/vnd.keepit.v0+xml):
-<users> â¯ â¯ <id>psmqd-3nqijs-9qi26x</id> â¯ â¯ <id>r8gxbr-kqw14l-isn2kq</id> </users>
+<users> 
+â¯ â¯ <id>psmqd-3nqijs-9qi26x</id> 
+â¯ â¯ <id>r8gxbr-kqw14l-isn2kq</id> 
+</users> 
 Response body (Accept: application/vnd.keepit.v1+xml):
 <users>
     <user>
@@ -2468,7 +2534,8 @@ Response body (Accept: application/vnd.keepit.v1+xml):
         <full_name>TestAccount2</full_name>
         <company_name>MyCompany</company_name>
     </user>
-</users>PowerShell script
+</users>
+PowerShell script
 try {
     $username = '<Token username>'
     $password = '<Token password>'
@@ -2490,7 +2557,8 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Additional information
+}
+Additional information
 - The response can have the optional accept header:
 - key – Accept
 - value - application/vnd.keepit.v1+xml
@@ -2501,8 +2569,8 @@ catch {
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-a-specified-contact/
 Content type: Web page
-Last modified: 2025-10-15T13:43:17+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:29:50+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -2524,7 +2592,8 @@ Response body:
     <fullname>test@keepit.com</fullname>
     <phone>11111111111111</phone>
     <language>en-GB</language>
-</contact>PowerShell script
+</contact>
+PowerShell script
 try {
     $username = '<Token username>'
     $password = '<Token password>'
@@ -2552,8 +2621,8 @@ catch {
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-account-settings/
 Content type: Web page
-Last modified: 2025-10-15T23:48:29+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:16:31+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -2562,12 +2631,8 @@ This command retrieves account settings. It can be executed either directly at t
 API request
 Method GET
 /users/{account_id}
-This command retrieves account settings. It can be executed either directly at the account level or from the parent account.
-Method GET
-/users/{account_id}
 You can select the desired response schema by setting the "Accept" header. This allows to specify the format of the data you wish to receive.
 If the "Accept" header does not include a version number, the response will default to schema v0.
-Method GET
 https://dk-co.keepit.com/users/nq2v51-5mx23m-qb7sah/
 Code: 200 OK
 Response body:
@@ -2597,14 +2662,15 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}The <product> element reports the product directly assigned to the account. If no product is set on the account, it inherits the product from its parent account (and so on recursively). This API endpoint provides the product directly assigned to the account, not the inherited product. To determine the active product on the account, you must trace back to the parent accounts until a product is found.
+}
+The <product> element reports the product directly assigned to the account. If no product is set on the account, it inherits the product from its parent account (and so on recursively). This API endpoint provides the product directly assigned to the account, not the inherited product. To determine the active product on the account, you must trace back to the parent accounts until a product is found.
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-all-anomalies/
 Content type: Web page
-Last modified: 2026-04-01T10:26:10+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:49:17+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -2638,7 +2704,8 @@ Response body:
                 <dbscan-eps>0.7d0</dbscan-eps>
             </parameters>
         </description>
-    </anomaly>PowerShell script
+    </anomaly>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -2675,15 +2742,48 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
-Anomaly: guid: snq2mb-15zmsc-he4rbs time: 2025-06-14T23:20:54Z detected: 2025-06-14T23:22:03Z kind: imported-files-modified status: new description: snapshot-size: 68295573 change: 43647240 change-percents: 63.91 change-files-count: 606 parameters: analyzed-snapshots: 60 size-threshold: 0.1d0 dbscan-min-samples: 4 dbscan-eps: 0.7d0 Anomaly: guid: mk3vox-0ex7nq-c4g52c time: 2025-06-15T19:09:20Z detected: 2025-06-15T19:22:27Z kind: imported-files-modified status: new description: snapshot-size: 68488815 change: 43644220 change-percents: 63.72 change-files-count: 609 parameters: analyzed-snapshots: 60 size-threshold: 0.1d0 dbscan-min-samples: 4 dbscan-eps: 0.7d0 …
+}
+Script result
+Anomaly:
+guid: snq2mb-15zmsc-he4rbs
+time: 2025-06-14T23:20:54Z
+detected: 2025-06-14T23:22:03Z
+kind: imported-files-modified
+status: new
+description:
+snapshot-size: 68295573
+change: 43647240
+change-percents: 63.91
+change-files-count: 606
+parameters:
+analyzed-snapshots: 60
+size-threshold: 0.1d0
+dbscan-min-samples: 4
+dbscan-eps: 0.7d0
+Anomaly:
+guid: mk3vox-0ex7nq-c4g52c
+time: 2025-06-15T19:09:20Z
+detected: 2025-06-15T19:22:27Z
+kind: imported-files-modified
+status: new
+description:
+snapshot-size: 68488815
+change: 43644220
+change-percents: 63.72
+change-files-count: 609
+parameters:
+analyzed-snapshots: 60
+size-threshold: 0.1d0
+dbscan-min-samples: 4
+dbscan-eps: 0.7d0
+…
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-all-registered-contacts/
 Content type: Web page
-Last modified: 2025-10-16T09:55:32+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:27:37+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -2702,7 +2802,8 @@ Response body:
     <type>f</type>
     <type>e</type>
     <type>p</type>
-</contacts>PowerShell script
+</contacts>
+PowerShell script
 try {
     $username = '<Token username>'
     $password = '<Token password>'
@@ -2723,7 +2824,8 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Additional information
+}
+Additional information
 Only one contact is allowed per contact type. The response will list all contact types—and therefore all registered contacts—for the specified account.
 The supported contact types are:
 - p – Primary contact
@@ -2735,8 +2837,8 @@ The supported contact types are:
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-anomaly-details/
 Content type: Web page
-Last modified: 2026-03-23T12:59:19+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:51:32+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -2768,7 +2870,8 @@ Response body:
             <dbscan-eps>0.7d0</dbscan-eps>
         </parameters>
     </description>
-</anomaly>PowerShell script
+</anomaly>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -2803,15 +2906,30 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
-guid: snq2mb-15zmsc-he4rbs time: 2025-06-14T23:20:54Z detected: 2025-06-14T23:22:03Z kind: imported-files-modified status: new description: snapshot-size: 68295573 change: 43647240 change-percents: 63.91 change-files-count: 606 parameters: analyzed-snapshots: 60 size-threshold: 0.1d0 dbscan-min-samples: 4 dbscan-eps: 0.7d0
+}
+Script result
+guid: snq2mb-15zmsc-he4rbs
+time: 2025-06-14T23:20:54Z
+detected: 2025-06-14T23:22:03Z
+kind: imported-files-modified
+status: new
+description:
+snapshot-size: 68295573
+change: 43647240
+change-percents: 63.91
+change-files-count: 606
+parameters:
+analyzed-snapshots: 60
+size-threshold: 0.1d0
+dbscan-min-samples: 4
+dbscan-eps: 0.7d0
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-backup-summaries-for-all-connectors/
 Content type: Web page
-Last modified: 2026-04-01T10:27:23+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:47:11+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -2839,7 +2957,8 @@ Response body:
         <last-snapshot-size>1615492394</last-snapshot-size>
         <size-change>38713</size-change>
     </device>
-…PowerShell script
+…
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -2867,15 +2986,25 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
-device: guid: 11ptlk-st7sly-ggba4c last-snapshot-time: 2025-06-11T08:07:46Z last-snapshot-size: 234568814 size-change: 0 device: guid: nh5l4z-vc1oqn-j6guqb last-snapshot-time: 2025-05-12T12:17:53Z last-snapshot-size: 1615492394 size-change: 38713
+}
+Script result
+device:
+  guid: 11ptlk-st7sly-ggba4c
+  last-snapshot-time: 2025-06-11T08:07:46Z
+  last-snapshot-size: 234568814
+  size-change: 0
+device:
+  guid: nh5l4z-vc1oqn-j6guqb
+  last-snapshot-time: 2025-05-12T12:17:53Z
+  last-snapshot-size: 1615492394
+  size-change: 38713
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-diagrams-for-selected-category/
 Content type: Web page
-Last modified: 2026-04-01T10:25:28+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:38:20+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -2956,7 +3085,8 @@ Response body (partial):
                         <v>89706340</v>
                     </p>
                 </points>
-            </dataset>- As this is a diagram response, it has axes, axis (x, y1, y2). They indicate the position of the item in the diagram.
+            </dataset>
+- As this is a diagram response, it has axes, axis (x, y1, y2). They indicate the position of the item in the diagram.
 - This first dataset “exchange-users-selected” shows the date of the snapshot and the number of users selected for the backup in the Exchange data area. For example, 5 users were deselected in the latest snapshot.
 - The second dataset “exchange-users-covered” shows the actual number of backed up mailboxes. For example, 1 user was not backed up in the latest snapshot compared to the older ones.
 - The third dataset “exchange-users-size” shows the size of the backed up users’ data (in bytes).
@@ -3028,7 +3158,8 @@ Response body (partial):
                         <v>1328868999</v>
                     </p>
                 </points>
-            </dataset>- This example shows the number of SharePoint sites selected for backup, the number of sites successfully backed up, and the total size of the backed-up sites.
+            </dataset>
+- This example shows the number of SharePoint sites selected for backup, the number of sites successfully backed up, and the total size of the backed-up sites.
 PowerShell script
 try {
     $username = '<API Token username>'
@@ -3062,15 +3193,67 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
------------------------------------------------------------ Dataset: sharepoint-sites-selected Time: Time Value: Value Time: 2025-01-13T21:30:57Z Value: 34 Time: 2025-01-14T09:31:09Z Value: 34 Time: 2025-01-14T21:31:03Z Value: 34 Time: 2025-01-15T21:31:19Z Value: 34 Time: 2025-01-16T21:31:27Z Value: 34 Time: 2025-01-17T21:31:28Z Value: 34 Time: 2025-01-18T21:31:31Z Value: 34 Time: 2025-01-19T09:31:31Z Value: 34 Time: 2025-01-20T21:31:49Z Value: 34 Time: 2025-01-21T09:31:47Z Value: 34 Time: 2025-01-21T16:10:46Z Value: 34 Time: 2025-01-21T16:11:06Z Value: 30 Time: 2025-01-22T16:11:11Z Value: 30 Time: 2025-01-23T04:11:24Z Value: 30 ------------------------------------------------------------ Dataset: sharepoint-sites-covered Time: Time Value: Value Time: 2025-01-13T21:30:57Z Value: 34 Time: 2025-01-14T09:31:09Z Value: 34 Time: 2025-01-14T21:31:03Z Value: 34 Time: 2025-01-15T21:31:19Z Value: 34 Time: 2025-01-16T21:31:27Z Value: 34 Time: 2025-01-17T21:31:28Z Value: 34 Time: 2025-01-18T21:31:31Z Value: 34 Time: 2025-01-19T09:31:31Z Value: 34 Time: 2025-01-20T21:31:49Z Value: 34 Time: 2025-01-21T09:31:47Z Value: 34 Time: 2025-01-21T16:10:46Z Value: 34 Time: 2025-01-21T16:11:06Z Value: 30 Time: 2025-01-22T16:11:11Z Value: 30 Time: 2025-01-23T04:11:24Z Value: 30 ------------------------------------------------------------ Dataset: sharepoint-sites-size Time: Time Value: Value Time: 2025-01-13T21:30:57Z Value: 1501395700 Time: 2025-01-14T09:31:09Z Value: 1501395700 Time: 2025-01-14T21:31:03Z Value: 1501395700 Time: 2025-01-15T21:31:19Z Value: 1501395700 Time: 2025-01-16T21:31:27Z Value: 1501395700 Time: 2025-01-17T21:31:28Z Value: 1501395700 Time: 2025-01-18T21:31:31Z Value: 1501395700 Time: 2025-01-19T09:31:31Z Value: 1501395700 Time: 2025-01-20T21:31:49Z Value: 1501395700 Time: 2025-01-21T09:31:47Z Value: 1501395700 Time: 2025-01-21T16:10:46Z Value: 1501395702 Time: 2025-01-21T16:11:06Z Value: 1328868999 Time: 2025-01-22T16:11:11Z Value: 1328868999 Time: 2025-01-23T04:11:24Z Value: 1328868996 ------------------------------------------------------------
+}
+Script result
+-----------------------------------------------------------
+Dataset: sharepoint-sites-selected
+  Time: Time                 Value: Value              
+  Time: 2025-01-13T21:30:57Z Value: 34                 
+  Time: 2025-01-14T09:31:09Z Value: 34                 
+  Time: 2025-01-14T21:31:03Z Value: 34                 
+  Time: 2025-01-15T21:31:19Z Value: 34                 
+  Time: 2025-01-16T21:31:27Z Value: 34                 
+  Time: 2025-01-17T21:31:28Z Value: 34                 
+  Time: 2025-01-18T21:31:31Z Value: 34                 
+  Time: 2025-01-19T09:31:31Z Value: 34                 
+  Time: 2025-01-20T21:31:49Z Value: 34                 
+  Time: 2025-01-21T09:31:47Z Value: 34                 
+  Time: 2025-01-21T16:10:46Z Value: 34                 
+  Time: 2025-01-21T16:11:06Z Value: 30                 
+  Time: 2025-01-22T16:11:11Z Value: 30                 
+  Time: 2025-01-23T04:11:24Z Value: 30                 
+------------------------------------------------------------
+Dataset: sharepoint-sites-covered
+  Time: Time                 Value: Value              
+  Time: 2025-01-13T21:30:57Z Value: 34                 
+  Time: 2025-01-14T09:31:09Z Value: 34                 
+  Time: 2025-01-14T21:31:03Z Value: 34                 
+  Time: 2025-01-15T21:31:19Z Value: 34                 
+  Time: 2025-01-16T21:31:27Z Value: 34                 
+  Time: 2025-01-17T21:31:28Z Value: 34                 
+  Time: 2025-01-18T21:31:31Z Value: 34                 
+  Time: 2025-01-19T09:31:31Z Value: 34                 
+  Time: 2025-01-20T21:31:49Z Value: 34                 
+  Time: 2025-01-21T09:31:47Z Value: 34                 
+  Time: 2025-01-21T16:10:46Z Value: 34                 
+  Time: 2025-01-21T16:11:06Z Value: 30                 
+  Time: 2025-01-22T16:11:11Z Value: 30                 
+  Time: 2025-01-23T04:11:24Z Value: 30                 
+------------------------------------------------------------
+Dataset: sharepoint-sites-size
+  Time: Time                 Value: Value              
+  Time: 2025-01-13T21:30:57Z Value: 1501395700         
+  Time: 2025-01-14T09:31:09Z Value: 1501395700         
+  Time: 2025-01-14T21:31:03Z Value: 1501395700         
+  Time: 2025-01-15T21:31:19Z Value: 1501395700         
+  Time: 2025-01-16T21:31:27Z Value: 1501395700         
+  Time: 2025-01-17T21:31:28Z Value: 1501395700         
+  Time: 2025-01-18T21:31:31Z Value: 1501395700         
+  Time: 2025-01-19T09:31:31Z Value: 1501395700         
+  Time: 2025-01-20T21:31:49Z Value: 1501395700         
+  Time: 2025-01-21T09:31:47Z Value: 1501395700         
+  Time: 2025-01-21T16:10:46Z Value: 1501395702         
+  Time: 2025-01-21T16:11:06Z Value: 1328868999         
+  Time: 2025-01-22T16:11:11Z Value: 1328868999         
+  Time: 2025-01-23T04:11:24Z Value: 1328868996         
+------------------------------------------------------------
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-document-with-invoice-content/
 Content type: Web page
-Last modified: 2026-03-24T13:48:56+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:04:48+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -3118,7 +3301,8 @@ Response body (partial):
     <vat-percents>23.0</vat-percents>
     <total>487.08</total>
     <total-minor>48708</total-minor>
-</invoice>PowerShell script
+</invoice>
+PowerShell script
 try {
   $domain = 'https://dk-co.keepit.com'
   $username = '<API Token username>'
@@ -3159,7 +3343,8 @@ catch {
   $line = $_.InvocationInfo.ScriptLineNumber
   Write-Host "Error querying Keepit API: $_"
   Write-Host "at line $line"
-}Script result
+}
+Script result
 reference: agn1sfs6hcemt
 product-name: Billing_quad
 contact:
@@ -3196,7 +3381,8 @@ subtotal: 396.00
 vat: 91.08
 vat-percents: 23.0
 total: 487.08
-total-minor: 48708Additional information
+total-minor: 48708
+Additional information
 - The response can use the accept header application/vnd.keepit.v0+xml or application/vnd.keepit.v1+xml.
 - key – Accept
 - value - application/vnd.keepit.v1+xml
@@ -3207,8 +3393,8 @@ total-minor: 48708Additional information
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-information-on-all-tokens/
 Content type: Web page
-Last modified: 2026-03-24T14:51:09+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:58:22+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -3234,7 +3420,8 @@ Response body:
         <primary_aname>test1@keepit.com</primary_aname>
         <lifetime>PT48H</lifetime>
     </token>
-…PowerShell script
+…
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -3262,14 +3449,21 @@ catch {
     Write-Host "at line $line"
 }
 Script result
-descr: Test aname: test@keepit.com created: 2025-07-28T09:27:35Z primary: false acl: MasterAdmin eacl: primary_aname: test1@keepit.com lifetime: PT48H
+descr: Test
+aname: test@keepit.com
+created: 2025-07-28T09:27:35Z
+primary: false
+acl: MasterAdmin
+eacl:
+primary_aname: test1@keepit.com
+lifetime: PT48H
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-job-information/
 Content type: Web page
-Last modified: 2026-04-01T10:28:49+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:31:36+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -3298,7 +3492,8 @@ Response body:
         <started>2024-11-27T21:55:23Z</started>
         <succeeded>2024-11-27T21:56:10Z</succeeded>
         <progress>1.0</progress>
-    </job>PowerShell script
+    </job>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -3340,15 +3535,36 @@ catch {
         $line = $_.InvocationInfo.ScriptLineNumber
         Write-Host "Cannot query Keepit API due to: $_"
         Write-Host "at line $line"
-}Script result
-Job GUID: 76q5c3-qg47t2-53fas1-n5q3gb Type: backup Active: false Started: 2024-11-27T21:55:21Z Status: Succeeded at 2024-11-27T21:56:10Z Progress: 1.0 --------------------------- Job GUID: s0qn1k-1azqjb-46g362-rg5n4r Type: srestore Active: false Started: 2024-11-28T08:21:20Z Status: Succeeded at 2024-11-28T09:23:27Z Progress: 1.0 --------------------------- Job GUID: p6eqb9-4t1wwi-2vnnuw-y1oh5c Type: backup Active: true Started: Scheduled Status: Progress: ---------------------------
+}
+Script result
+Job GUID: 76q5c3-qg47t2-53fas1-n5q3gb
+Type: backup
+Active: false
+Started: 2024-11-27T21:55:21Z
+Status: Succeeded at 2024-11-27T21:56:10Z
+Progress: 1.0
+---------------------------
+Job GUID: s0qn1k-1azqjb-46g362-rg5n4r
+Type: srestore
+Active: false
+Started: 2024-11-28T08:21:20Z
+Status: Succeeded at 2024-11-28T09:23:27Z
+Progress: 1.0
+---------------------------
+Job GUID: p6eqb9-4t1wwi-2vnnuw-y1oh5c
+Type: backup
+Active: true
+Started: Scheduled
+Status:
+Progress:
+---------------------------
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-latest-imported-snapshot-timestamp/
 Content type: Web page
-Last modified: 2026-04-01T10:28:04+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:42:56+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -3365,7 +3581,8 @@ Response body:
 <backup>
     <root>qd77638f69d92e0f0853fgh631363098cdfd2119b2fdb44d6cbe</root>
     <tstamp>2025-05-12T12:17:53Z</tstamp>
-</backup>PowerShell script
+</backup>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -3388,15 +3605,17 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
-root: dd79478f69d92e0f0853f69842cdfd2119b2fdb4447fde98f37ba7be4d1d6cbe tstamp: 2025-05-12T12:17:53Z
+}
+Script result
+root: dd79478f69d92e0f0853f69842cdfd2119b2fdb4447fde98f37ba7be4d1d6cbe
+tstamp: 2025-05-12T12:17:53Z
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-list-of-all-connectors/
 Content type: Web page
-Last modified: 2026-04-01T10:25:45+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:36:16+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -3422,7 +3641,8 @@ Response body (partial):
         <password></password>
         <backup-retention-updated>2022-02-09T10:50:57Z</backup-retention-updated>
     </cloud>
-…PowerShell script
+…
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -3447,15 +3667,24 @@ catch {
         $line = $_.InvocationInfo.ScriptLineNumber
         Write-Host "Cannot query Keepit API due to: $_"
         Write-Host "at line $line"
-}Script result
-Connector: Google Workspace Backup guid: 8opt1k-sz7yls-ghya4c created: 2021-12-02T13:42:32Z name: Google Workspace Backup type: gsuite uri: login: password: backup-retention-updated: 2022-02-09T10:50:57Z
+}
+Script result
+Connector: Google Workspace Backup
+  guid: 8opt1k-sz7yls-ghya4c
+  created: 2021-12-02T13:42:32Z
+  name: Google Workspace Backup
+  type: gsuite
+  uri:
+  login:
+  password:
+  backup-retention-updated: 2022-02-09T10:50:57Z
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-list-of-invoices-for-account/
 Content type: Web page
-Last modified: 2026-04-01T10:25:10+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:02:44+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -3481,7 +3710,8 @@ Response body:
         <issued>2024-07-20</issued>
         <currency>EUR</currency>
         <total>487.08</total>
-    </invoice>PowerShell script
+    </invoice>
+PowerShell script
 try {
   $domain = 'https://dk-co.keepit.com' 
   $username = '<API Token username>'
@@ -3507,8 +3737,21 @@ catch {
   $line = $_.InvocationInfo.ScriptLineNumber
   Write-Host "Cannot query Keepit API due to: $_"
   Write-Host "at line $line"
-}Script result
-_________________________ reference: agn1sfs6hcemt product-name: Billing_quad issued: 2024-07-20 currency: EUR total: 487.08 ________________________ reference: agn1sfs6hd1ld product-name: Billing_quad issued: 2024-06-20 currency: EUR total: 1002.45 ________________________
+}
+Script result
+_________________________
+reference: agn1sfs6hcemt
+product-name: Billing_quad
+issued: 2024-07-20
+currency: EUR
+total: 487.08
+________________________
+reference: agn1sfs6hd1ld
+product-name: Billing_quad
+issued: 2024-06-20
+currency: EUR
+total: 1002.45
+________________________
 Additional information
 - The response can have the accept header application/vnd.keepit.v0+xml or application/vnd.keepit.v1+xml.
 key – Accept
@@ -3520,8 +3763,8 @@ value – application/vnd.keepit.v1+xml
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-monitoring-summary-for-connector/
 Content type: Web page
-Last modified: 2026-04-01T10:27:45+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:40:24+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -3548,7 +3791,8 @@ Response body:
         <removed>63956</removed>
         <modified>80</modified>
     </count>
-</summary>PowerShell script
+</summary>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -3576,15 +3820,23 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
-size: added: 570614 removed: 1480650531 modified: 89830 count: added: 10 removed: 63956 modified: 80
+}
+Script result
+size:
+  added: 570614
+  removed: 1480650531
+  modified: 89830
+count:
+  added: 10
+  removed: 63956
+  modified: 80
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-product-details/
 Content type: Web page
-Last modified: 2025-10-15T13:43:02+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:25:26+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -3603,7 +3855,8 @@ Response body:
     <id>a9y02y-qngj1m-yvh5r8</id>
     <name>Demo1</name>
     <flexquota>false</flexquota>
-</product>PowerShell script
+</product>
+PowerShell script
 try {
     $username = '<Token username>'
     $password = '<Token password>'
@@ -3624,7 +3877,8 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Additional information
+}
+Additional information
 - An account may or may not have a product assigned to it. You can determine this by checking the /users/{account_id} response.
 - If no product is assigned to the current account, it will inherit resources from the product assigned to its parent account, continuing recursively up the hierarchy until a product is found.
 - This request will return a "404 Not Found" if no product is assigned to the account or to any of its ancestor accounts.
@@ -3636,8 +3890,8 @@ catch {
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-reason-for-unhealthy-or-critical-status/
 Content type: Web page
-Last modified: 2026-04-01T10:29:24+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:25:20+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -3655,7 +3909,8 @@ Response body:
 <devhealth>
     <health>critical</health>
     <reason>BADLOGIN</reason>
-</devhealth>PowerShell script
+</devhealth>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -3680,8 +3935,10 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
-Health Status: critical Reason: BADLOGIN
+}
+Script result
+Health Status: critical
+Reason: BADLOGIN
 Additional information
 Possible health reasons:
 
@@ -3689,8 +3946,8 @@ Possible health reasons:
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-resource-consumption/
 Content type: Web page
-Last modified: 2026-02-06T11:17:16+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:36:32+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -3700,12 +3957,7 @@ API request
 Method GET
 /users/{account_id}/resources
 Additional optional header:
-This command retrieves the resource consumption for an account.
-Method GET
-/users/{account_id}/resources
-Additional optional header:
 This header forces the API to return the total usage across all accounts associated with the current product assignment.
-Method GET
 https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka/resources
 Code: 200 OK
 Response body (partial):
@@ -3747,8 +3999,8 @@ catch {
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-the-account-id-of-the-currently-authenticated-token/
 Content type: Web page
-Last modified: 2025-10-16T10:00:03+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:09:27+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -3765,7 +4017,8 @@ Code: 200 OK
 Response body:
 <user>
     <id>nq2v51-5mx23m-qb7sah</id>
-</user>PowerShell script
+</user>
+PowerShell script
 try {
     $username = '<Token username>'
     $password = '<Token password>'
@@ -3791,8 +4044,8 @@ catch {
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-the-health-status-of-a-connector/
 Content type: Web page
-Last modified: 2026-04-01T10:29:44+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:23:14+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -3809,7 +4062,8 @@ Code: 200 OK
 Response body:
 <devhealth>
     <health>healthy</health>
-</devhealth>PowerShell script
+</devhealth>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -3832,8 +4086,10 @@ catch {
         $line = $_.InvocationInfo.ScriptLineNumber
         Write-Host "Cannot query Keepit API due to: $_"
         Write-Host "at line $line"
-}Script result
-Health Status: critical Health Status: healthy
+}
+Script result
+Health Status: critical
+Health Status: healthy
 Additional information
 - Possible health values:
 - Healthy
@@ -3848,8 +4104,8 @@ Additional information
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-the-latest-snapshot-timestamp/
 Content type: Web page
-Last modified: 2026-04-01T10:23:49+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:27:27+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -3872,7 +4128,8 @@ Response body:
         <size>1653770815</size>
         <account>5t1sbe-s6zsgx-rtutxq</account>
     </backup>
-</history>PowerShell script
+</history>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -3899,8 +4156,11 @@ catch {
         $line = $_.InvocationInfo.ScriptLineNumber
         Write-Host "Cannot query Keepit API due to: $_"
         Write-Host "at line $line"
-}Script result
-Timestamp: 2024-12-05T12:54:46Z Type: c Size: 1653770815
+}
+Script result
+Timestamp: 2024-12-05T12:54:46Z
+Type: c
+Size: 1653770815
 Additional information
 - The <tstamp> element shows the timestamp of the latest created snapshot (GMT).
 - The size is displayed in bytes. In this case, the size of the latest snapshot equals to 1.6GB.
@@ -3910,8 +4170,8 @@ Additional information
 
 Source URL: https://www.keepit.com/help/api-category/retrieve-the-list-of-languages-for-an-account/
 Content type: Web page
-Last modified: 2025-10-16T09:56:13+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:38:41+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -3929,7 +4189,8 @@ Response body:
 <languages>
     <language>de-DE</language>
     <language>en-GB</language>
-</languages>PowerShell script
+</languages>
+PowerShell script
 try {
     $username = '<Token username>'
     $password = '<Token password>'
@@ -3998,8 +4259,8 @@ catch {
 
 Source URL: https://www.keepit.com/help/api-category/update-account-settings/
 Content type: Web page
-Last modified: 2025-10-16T10:00:45+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:18:36+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -4010,15 +4271,11 @@ Method PUT
 /users/{account_id}
 Elements table
 Root object element: user_update
-This command updates the settings of an account. It can be executed either directly at the account level or from the parent account.
-Method PUT
-/users/{account_id}
-Root object element: user_update
-Method PUT
 https://dk-co.keepit.com/users/psmqd-3nqijs-9qi26x/
 <user_update>
      <product>a9y02y-qngj1m-yvh5r8</product>
-</user_update>Code: 200 OK
+</user_update>
+Code: 200 OK
 Response body:
 Account updated successfully
 try {
@@ -4051,8 +4308,8 @@ catch {
 
 Source URL: https://www.keepit.com/help/api-category/update-the-list-of-languages-for-an-account/
 Content type: Web page
-Last modified: 2025-10-15T23:45:07+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:41:01+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -4063,16 +4320,12 @@ Method PUT
 /bl/partner/{partner_id}/messages/languages
 Elements table
 Root object element: languages
-This command is used to update the list of languages for the account.
-Method PUT
-/bl/partner/{partner_id}/messages/languages
-Root object element: languages
-Method PUT
 https://dk-co.keepit.com/bl/partner/nq2v51-5mx23m-qb7sah/messages/languages
 Body
 <languages>
     <language>en-GB</language>
-</languages>Code: 200 OK
+</languages>
+Code: 200 OK
 Response body:
 Updated
 try {
@@ -5661,8 +5914,8 @@ Wiki
 
 Source URL: https://www.keepit.com/help/azure-devops-category/azure-devops-organizations-are-missing-from-my-backup-configuration/
 Content type: Web page
-Last modified: 2025-03-11T20:18:58+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T22:09:49+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -5678,9 +5931,9 @@ For the backups to resume successfully, you have the following options:
 If you choose to remove the organizations from the configuration, follow these steps:
 - Open the Azure DevOps connector configuration.
 - Select Remove missing organizations.
- The organizations will no longer be listed in the configuration.
+The organizations will no longer be listed in the configuration.
 - Save the new configuration.
- The next backup will be automatically scheduled.
+The next backup will be automatically scheduled.
 
 ------------------------------------------------------------
 
@@ -5783,8 +6036,8 @@ However, keep in mind that these requirements must be met each time the connecto
 
 Source URL: https://www.keepit.com/help/azure-devops-category/restore-azure-devops-data/
 Content type: Web page
-Last modified: 2025-03-11T20:18:38+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T22:05:20+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -5813,7 +6066,8 @@ Pipelines
 When an agent pool is restored, besides pool settings, only the attributes and capabilities of each agent are restored.
 To bring an agent back Online, it must be reconfigured at the host level.
 To reconfigure the agent, use the following command:
-hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{AGENT} --work _work --pool ${POOL} --replaceWhere:
+hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{AGENT} --work _work --pool ${POOL} --replace
+Where:
 - TOKEN - a valid PAT token
 - ORGANIZATION - the organization to which the agent should be added
 - AGENT - the agent name
@@ -5823,7 +6077,8 @@ For more details, refer to Microsoft's documentation: Remove and re-configure an
 When a deployment pool is restored, besides pool settings, only the attributes and capabilities of each target are restored.
 To bring a target back Online, it must be reconfigured at the host level.
 To reconfigure the target, use the following command:
-hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{TARGET} --work _work --deploymentpool --deploymentpoolname ${POOL} --runasserviceWhere:
+hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{TARGET} --work _work --deploymentpool --deploymentpoolname ${POOL} --runasservice
+Where:
 - TOKEN - a valid PAT token
 - ORGANIZATION - the organization to which the agent should be added
 - AGENT - the agent name
@@ -5833,7 +6088,8 @@ For more details, refer to Microsoft's documentation: Remove and re-configure an
 When an environment is restored, the resources themselves are not restored. Only the environment and its settings are restored.
 To bring a resource back Online, it must be reconfigured at the host level.
 To reconfigure the resource, use the following command:
-hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{RESOURCE}  --work _work --environment --environmentname ${ENVIRONMENT} --projectname ${PROJECT} --runasserviceWhere:
+hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{RESOURCE}  --work _work --environment --environmentname ${ENVIRONMENT} --projectname ${PROJECT} --runasservice
+Where:
 - TOKEN - a valid PAT token
 - ORGANIZATION - the organization to which the agent should be added
 - PROJECT - the project to which a resource should be added
@@ -8857,6 +9113,38 @@ Help center - Salesforce
 
 ------------------------------------------------------------
 
+Source URL: https://www.keepit.com/help/entra-id-category/application-and-service-principal-restores/
+Content type: Web page
+Last modified: 2026-08-25T16:29:13+02:00
+Retrieved: 2026-08-30
+
+============================================================
+
+Application and service principal restores
+This article explains how Keepit handles secrets, certificates, and credentials when restoring application registrations and service principals in Entra ID, and what post-restore steps you may need to complete.
+Restore limitations
+Keepit doesn't support restoring the following:
+- Managed identities and agent identities
+- Publisher domain (Entra ID limitation)
+- Publisher verification status (Entra ID limitation)
+- Certification (Entra ID limitation)
+- Automated manual admin consent. Because Keepit doesn't use delegated permissions for application restores, admin consent can't be automated.
+Secrets and certificates
+When Keepit recreates application registration and service principal objects in Entra ID — rather than restoring them from the trash bin — it skips any certificates and secrets unless the connector is connected to an Azure Key Vault instance.
+For instructions on connecting a Key Vault instance, see Connect Azure Key Vault.
+After a Key Vault-backed restore, Keepit stores recreated password credentials in the Key Vault's secrets and recreated key credentials in the Key Vault's certificates. Each object stored in the Key Vault includes metadata tags to help you identify and filter secrets after the restore.
+Note: If a Key Vault instance is connected but can't be reached, or if the permissions on it are too restrictive, any application registrations and service principals that have password or key credentials fail to restore. Other objects selected for the same restore job proceed normally.
+Secure handling of secrets
+Keepit handles secrets as follows:
+- If no Key Vault instance is connected, Keepit doesn't recreate any secrets.
+- Keepit doesn't generate cryptographic secrets. It uses Entra ID and Azure Key Vault endpoints to do so, applying the same security parameters in all cases.
+- Password credentials are stored briefly in RAM on Keepit servers only and are never written to a snapshot or persisted elsewhere.
+- Key credentials' public keys are stored briefly in RAM on Keepit servers only and are never written to a snapshot or persisted elsewhere. Keepit never fetches private keys from the Key Vault.
+Security parameters of recreated secrets
+Keepit recreates secrets with the following fixed parameters:
+
+------------------------------------------------------------
+
 Source URL: https://www.keepit.com/help/entra-id-category/can-the-service-account-used-for-entra-id-backup-have-mfa-enabled/
 Content type: Web page
 Last modified: 2026-07-03T23:42:12+02:00
@@ -8867,6 +9155,48 @@ Retrieved: 2026-07-21
 Can the service account used for Entra ID backup have MFA enabled?
 Yes, the service account used to set up an Entra ID connector can have MFA enabled.
 If MFA is enabled for the service account after the connector is first created, then you may need to reauthenticate your connector. In this case, you will see a message near your connector. Simply click the message, reauthenticate, and your backup will continue as usual.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/help/entra-id-category/connect-azure-key-vault/
+Content type: Web page
+Last modified: 2026-08-25T16:28:48+02:00
+Retrieved: 2026-08-30
+
+============================================================
+
+Connect Azure Key Vault
+This article explains how to connect an Azure Key Vault instance to a Keepit connector so that application and service principal restores can store newly created certificates and secrets in your own vault.
+Prerequisites
+- You have: a Master Admin or Backup Admin role in Keepit.
+- Your Azure account: has permission to create and configure Key Vault instances in the Azure portal.
+- Your connector: is configured for Keepit for Entra ID.
+Step 1: Create a Key Vault instance in Azure
+Create a Key Vault instance in the Azure portal.
+Note: The Key Vault instance must be placed in the same tenant as the Keepit for Entra ID service principal you use for restores. Enable public network access so that Keepit can connect to the vault using its unique identifier.
+Step 2: Assign permissions
+Assign permissions to the Keepit for Entra ID service principal you use for restores. The method depends on the permission model configured on your Key Vault.
+If you use Azure role-based access control (RBAC)
+Add a role assignment with the following roles:
+- Key Vault Secrets Officer — performs any action on the secrets of a key vault, except manage permissions. Applies only to key vaults that use the Azure role-based access control permission model.
+- Key Vault Certificates Officer — performs any action on the certificates of a key vault, except manage permissions. Applies only to key vaults that use the Azure role-based access control permission model.
+As the member of the assignment, select the Keepit for Entra ID service principal you use for restores.
+If you use vault access policies
+Create an access policy with the following permissions:
+- Secret permissions: Set.
+- Certificate permissions: Get, Update, and Create.
+As the principal, select the Keepit for Entra ID service principal you use for restores.
+Step 3: Enable Key Vault-backed restores
+1. In the Azure portal, open your Key Vault instance and copy the Vault URI from the overview pane. The URI has the format https://your-vault-name.vault.azure.net.
+2. In Keepit, go to your connector configuration and select the gear icon next to App registrations.
+3. Select Connect Azure Key Vault.
+4. Enter the Vault URI you copied in step 1.
+5. Select Save.
+All application and service principal restores on this connector now use the connected Key Vault instance to store newly created certificates and secrets.
+Note: This setting applies to restore jobs only. It has no effect on backup jobs.
+Disconnect Azure Key Vault
+To stop using the Key Vault instance, open the connector configuration, select the gear icon next to Applications, and deselect Connect Azure Key Vault.
+Warning: This setting is read at the start of each restore job. Disconnecting the Key Vault doesn't affect restore jobs that are already running.
 
 ------------------------------------------------------------
 
@@ -11566,13 +11896,12 @@ After the API has been enable you can add new connectors.
 
 Source URL: https://www.keepit.com/help/google-workspace-category/google-workspace-backup-coverage/
 Content type: Web page
-Last modified: 2026-07-09T16:25:13+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T21:42:27+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
 Google Workspace backup coverage
-The table below shows the detailed backup and restore coverage of the latest version of Keepit for Google Workspace connector.
 The table below shows the detailed backup and restore coverage of the latest version of Keepit for Google Workspace connector.
 All items not listed in this table are not supported as of June 2026 (release version 10.21.0).
 
@@ -23643,8 +23972,8 @@ After you enable TOTP and enable MFA, on the next sign in each user will be prom
 
 Source URL: https://www.keepit.com/help/pmc/configure-single-sign-on-sso-for-pmc/
 Content type: Web page
-Last modified: 2025-03-11T17:11:29+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T22:52:20+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -23658,7 +23987,7 @@ In the process of setting up SSO, we recommend you create an SSO Admin. This is 
 Set up your identity provider
 During the configuration process, gather the following information:
 - Identity Provider URL (IDP URL)
- Note: In Microsoft Entra, this is called the Login URL or SAML Single Sign-On Service URL.
+Note: In Microsoft Entra, this is called the Login URL or SAML Single Sign-On Service URL.
 - Certificate (Base64) of your identity provider
 Also be sure to:
 - Assign the SSO app to all users who should have access to sign in via SSO.
@@ -23940,8 +24269,8 @@ Note: Messages will only be sent if a language is specified and the message is e
 
 Source URL: https://www.keepit.com/help/pmc/pmc-connector--account-monitor/
 Content type: Web page
-Last modified: 2026-04-24T14:34:06+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T22:28:37+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -23972,7 +24301,6 @@ What you can do
 - POC accounts: Click on a POC account to open the account info page. Here you can select a paid product.
 - Services: To extend the service, please contact Support.
  If a service expires, the account will be scheduled for deletion.
- 
 Exceeding usage
 This tab shows all accounts exceeding seat usage.
 What information you can find
@@ -23981,9 +24309,9 @@ What information you can find
 - Details – which seat limit properties have exceeded their limits
 - Usage – the number of seats the account has consumed
 - Limit – the limit that is set for the account for the particular property.
- A faded number with a green icon means that the limit has been changed, but has not come into effect yet.
+A faded number with a green icon means that the limit has been changed, but has not come into effect yet.
 - Grace period – the number of days left until the backups start to be unsuccessful.
- A dash means that the grace period has ended.
+A dash means that the grace period has ended.
 Trial (POC)
 This tab shows the details for all Trial (POC) accounts.
 - Name – the name of the account
@@ -24256,8 +24584,8 @@ If a user is currently using a token, the token will no longer be able to send r
 
 Source URL: https://www.keepit.com/help/pmc/working-with-custom-properties/
 Content type: Web page
-Last modified: 2026-02-26T13:57:31+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T22:44:37+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -24294,7 +24622,7 @@ Seat limit value:
 Activation date:
 - If you want to change when a scheduled version comes into affect, first delete it and then add a new one. (See Delete a scheduled version of a custom property) 
  
- Important: Saving a new activation date of a scheduled version will create a new version, not update the current version.
+Important: Saving a new activation date of a scheduled version will create a new version, not update the current version.
 Delete a custom property
 Deleting a custom property will revert the property back to its standard settings. The change will come take effect at midnight.
 Deleting an active or scheduled custom property will delete all past and scheduled versions.
@@ -27915,8 +28243,8 @@ Help center - Salesforce
 
 Source URL: https://www.keepit.com/help/salesforce-category/anonymize-salesforce-data-during-restore/
 Content type: Web page
-Last modified: 2025-12-03T15:43:43+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T21:19:42+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -27930,13 +28258,13 @@ You can choose from the following anonymization methods:
  
  Example: Original: john.doe@example.com → Redacted: null
  
- Supported for all nullable fields
+Supported for all nullable fields
 - Hashing 
  Replaces the field value with a hashed string, making it unreadable and irreversible, while maintaining uniqueness.
  
  Example: Original: John→ Hashed: a93f5be321d9...
  
- Supported Field Types:
+Supported Field Types:
 - Text
 - Text Area
 - Long Text Area
@@ -27944,7 +28272,7 @@ You can choose from the following anonymization methods:
  Randomly replaces each field value with another value from the same field across different records. This keeps data realistic while anonymizing the source.
  
  Example: Record 1: "Alice" and Record 2: "Bob" → Record 1: "Bob" and Record 2: "Alice"
- Supported for all anonymizable fields.
+Supported for all anonymizable fields.
 Note: Shuffling is disabled automatically when over 1,000,000 records are selected to avoid performance issues.
 Field eligibility and behavior
 - Fields that are non-nullable (such as Reference or ID fields) cannot be anonymized. The checkbox will be disabled with a tooltip explaining why.
@@ -28041,8 +28369,8 @@ Connector shows as disconnected after setup
 
 Source URL: https://www.keepit.com/help/salesforce-category/determine-if-salesforce-managed-package-is-accessible-via-the-api/
 Content type: Web page
-Last modified: 2025-03-11T20:14:01+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T20:38:01+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -28061,7 +28389,7 @@ To determine if records from a Salesforce Managed Package are accessible via the
  Query the object using SOQL:
  Example:\
  SELECT Id, Name FROM Custom_Object__c LIMIT 10 If the query returns records, the object is API accessible.\
- If you receive an error like "Entity is not API accessible," it is restricted.
+If you receive an error like "Entity is not API accessible," it is restricted.
 5. Inspect Package Settings (if available)
 - Some Managed Packages provide specific settings to toggle API access. Check the Managed Package settings under Installed Packages in Setup to see if API access is configurable.
 6. Contact the Package Provider
@@ -28222,8 +28550,8 @@ Monitor Salesforce release notes and roadmap updates to ensure future compatibil
 
 Source URL: https://www.keepit.com/help/salesforce-category/prepare-csv-file-with-records-to-restore/
 Content type: Web page
-Last modified: 2025-12-08T15:20:33+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T21:02:09+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -28231,7 +28559,6 @@ Prepare CSV file with records to restore
 Keepit supports two CSV file formats that can be used to restore Salesforce records:
 - Keepit format
 - Salesforce-generated report
- 
 Keepit Format
 The CSV file must meet the following requirements:
 - No header line
@@ -28271,8 +28598,8 @@ Certain records in the uploaded CSV file may be skipped due to the following rea
 
 Source URL: https://www.keepit.com/help/salesforce-category/preserving-audit-fields-during-restore-in-salesforce/
 Content type: Web page
-Last modified: 2026-04-03T11:07:33+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T21:21:54+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -28325,7 +28652,7 @@ Important notes
 - Applies to both Records and Files
 - If the original user does not exist in the target org, Salesforce cannot assign:
 - CreatedById
- OwnerId
+OwnerId
 - Audit fields are not editable in the standard UI and are only supported via API-based operations (e.g., restore, data load)
 - Audit fields can only be set at the time of record creation
 - They cannot be updated afterwards through any operation
@@ -28384,8 +28711,8 @@ Inside the Objects folder, there is also an Attachments folder. The items are th
 
 Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-autonumber-fields/
 Content type: Web page
-Last modified: 2025-12-08T14:23:57+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T21:12:58+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -28509,7 +28836,8 @@ global class UpdateExistingCaseNumbers implements Database.Batchable<SObject>, D
     global void finish(Database.BatchableContext bc) { 
         System.debug('Batch job complete: Case_Number2__c field updated for all records.'); 
     } 
-} 3. Save the Class.
+} 
+3. Save the Class.
 Name defaults to: UpdateExistingCaseNumbers
 Step 5: Run the Batch Apex Class
 To update the Case_Number2__c field for existing records, run the batch class:
@@ -28517,7 +28845,8 @@ To update the Case_Number2__c field for existing records, run the batch class:
 2. Click Debug > Open Execute Anonymous Window.
 3. Paste the following code to run the batch job:
 // Execute the batch job to update existing records
-UpdateExistingCaseNumbers batch = new UpdateExistingCaseNumbers(); Database.executeBatch(batch, 200); // You can adjust the batch size
+UpdateExistingCaseNumbers batch = new UpdateExistingCaseNumbers(); 
+Database.executeBatch(batch, 200);  // You can adjust the batch size 
 4. Click Execute to start the batch job.
 Step 6: Monitor the batch job
 1. In Setup, search for Apex Jobs.
@@ -28526,7 +28855,7 @@ Step 7: Verify the results
 1. Go to the Cases tab and open some Case records.
 2. Verify that the Case_Number2__c field has been populated with the standard Case Number field.
 Note: Alternatively, you can run a SOQL query in the Developer Console to verify the results:
-SELECT Id, Case_Number2__c FROM Case WHERE Case_Number2__c = null
+SELECT Id, Case_Number2__c FROM Case WHERE Case_Number2__c = null 
 Step 8: Schedule the batch job
 If you’d like to schedule this batch job to run periodically (in case more records with a blank Case_Number2__c are added later), you can create a Scheduled Apex Class.
 1. Create the Scheduled Apex Class: Navigate to Setup > Apex Classes > New.Paste the ScheduledUpdateCaseNumber code below and save the class.
@@ -28571,8 +28900,8 @@ Notes:
 
 Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-records-by-manually-selecting-records/
 Content type: Web page
-Last modified: 2025-12-08T13:44:02+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T20:55:34+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -28582,7 +28911,7 @@ Follow these steps to restore Salesforce records by manually selecting records.
 2. Select where to restore:
 - If you select to restore to the same location, click Next. The records will be restored to the same environment.
 - If you select to restore to a different location, choose whether to a sandbox or production, and then click Sign in.
- You will be redirected to the Salesforce sign-in page where you must enter your Salesforce System Admin user account credentials for that environment.
+You will be redirected to the Salesforce sign-in page where you must enter your Salesforce System Admin user account credentials for that environment.
 3. Select a snapshot from the time you want to restore and click Next.
 4. Select Manually select records and click Next.
 5. Select the records you want to restore and click Next.
@@ -28602,8 +28931,8 @@ Note: Certain fields such as ID and Name must be restored.
 
 Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-records-to-a-sandbox-environment/
 Content type: Web page
-Last modified: 2025-12-08T13:48:21+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T20:53:26+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -28617,7 +28946,7 @@ You will be redirected to the Salesforce sign-in page. Enter your Salesforce us
 5. Decide how you want to select records to restore and click Next.
 - If you choose Manually select records, select which records you want to restore.
 - If you have a CSV file with a list of records IDs, you can select Upload CSV of records
- Ensure the CSV file meets the requirements detailed here: Prepare CSV file with records to restore
+Ensure the CSV file meets the requirements detailed here: Prepare CSV file with records to restore
 6. Proceed to select the records you want to restore and click Next.
 7. Choose whether to also restore related records and click Next.
 Enabling this function will restore all related records lower in the hierarchy, including files and attachments.
@@ -28703,8 +29032,8 @@ If you want to restore multiple deleted records at once, you need to restore fro
 
 Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-records/
 Content type: Web page
-Last modified: 2026-07-14T13:56:05+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T20:46:45+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -28730,18 +29059,18 @@ The restore also lets you:
 - to a sandbox environment
 When using the connector-level restore, you have three ways to select records to restore:
 - Restore all records in the entire organization 
- Restores all records in the selected snapshot. This option is only available when restoring to the same environment.
+Restores all records in the selected snapshot. This option is only available when restoring to the same environment.
 - Manually select specific records
- Allows to select one or more records from various object types.
+Allows to select one or more records from various object types.
 - Upload a CSV file
- Allows to select records by specifying the record IDs in a CSV file.
+Allows to select records by specifying the record IDs in a CSV file.
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/help/salesforce-category/restore-your-entire-salesforce-organization/
 Content type: Web page
-Last modified: 2025-12-08T13:28:14+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T20:51:06+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -28766,11 +29095,11 @@ When you restore your entire organization, we restore:
 - Records
 When restoring, you can choose what to do with your objects, fields, and records:
 - Create missing items
- Creates items in Salesforce that exist in the snapshot but are missing from Salesforce.
+Creates items in Salesforce that exist in the snapshot but are missing from Salesforce.
 - Update all existing items
- Updates items in Salesforce to match the versions in the snapshot.
+Updates items in Salesforce to match the versions in the snapshot.
 - Delete new items
- Deletes items that have been added to Salesforce but are not present in the snapshot.
+Deletes items that have been added to Salesforce but are not present in the snapshot.
 What related metadata is restored
 When you restore your entire organization, we also restore certain metadata. What precisely we restore may depend on how you choose to restore your data.
 Global value sets
@@ -29169,8 +29498,8 @@ Step 2: Create a permission set and assign it to the user
 
 Source URL: https://www.keepit.com/help/salesforce-category/solve-salesforce-record-ids-challengeswith-external-id-field/
 Content type: Web page
-Last modified: 2025-12-03T13:09:14+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T21:10:46+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -29219,7 +29548,8 @@ trigger PopulateCaseIdField on Case (after insert) { 
     if (!casesToUpdate.isEmpty()) { 
         update casesToUpdate; 
     } 
-}6. Select Ctrl+S to save the trigger.
+}
+6. Select Ctrl+S to save the trigger.
 Step 3: Test the trigger
 1. Navigate to the Case Object in Salesforce and create a new case.
 2. After saving, verify that the ID was inserted into the Case ID field.
@@ -29255,13 +29585,16 @@ global class UpdateExistingCaseIds implements Database.Batchable<SObject>, Datab
     global void finish(Database.BatchableContext bc) { 
         System.debug('Batch job complete: CaseId__c field updated for all records.'); 
     } 
-}3. Save the Class (Name populates to “UpdateExistingCaseIds”
+}
+3. Save the Class (Name populates to “UpdateExistingCaseIds”
 Step 5: Run the Batch Apex class
 To update the CaseId__c field for existing records, run the batch class:
 1. Open the Developer Console.
 2. Click Debug > Open Execute Anonymous Window.
 3. Past the following code to run the batch job:
-// Execute the batch job to update existing records UpdateExistingCaseIds batch = new UpdateExistingCaseIds(); Database.executeBatch(batch, 200); // Adjust batch size if needed
+// Execute the batch job to update existing records 
+UpdateExistingCaseIds batch = new UpdateExistingCaseIds(); 
+Database.executeBatch(batch, 200);  // Adjust batch size if needed 
 4. Click Execute to start the batch job.
 Step 6: Monitor the batch job
 1. In Setup, search for Apex Jobs.
@@ -29270,7 +29603,7 @@ Step 7: Verify the results
 1. Go to the Cases tab and open some Case records.
 2. Verify that the CaseId__c field has been populated with the 18-character Case ID.
 Note: Alternatively, you can run a SOQL query in the Developer Console to verify the results:
-SELECT Id, CaseId__c FROM Case WHERE CaseId__c = null
+SELECT Id, CaseId__c FROM Case WHERE CaseId__c = null 
 Step 8: Schedule the batch job
 If you’d like to schedule this batch job to run periodically (in case more records with a blank CaseId__c are added later), you can create a Scheduled Apex Class.
 1. Create the Scheduled Apex Class:
@@ -29293,8 +29626,8 @@ The name defaults to: ScheduleUpdateCaseId.
 
 Source URL: https://www.keepit.com/help/salesforce-category/understanding-and-resolving-readmetadata-issues-in-salesforce/
 Content type: Web page
-Last modified: 2025-03-11T20:13:43+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T20:35:51+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -29315,11 +29648,11 @@ Below are some of the most common reasons why the "readMetadata" API may fail to
 Common Error Messages 
 When using the "readMetadata" API, you may encounter the following errors:
 - "Failed to get file: /Metadata/[Component Path]. Cause: readMetadata didn't return component with given fullName": 
- This error occurs when the specified metadata component cannot be found.
+This error occurs when the specified metadata component cannot be found.
 - “UNKNOWN_EXCEPTION (targetObject is invalid)": 
- This indicates that the metadata is referencing an invalid or inaccessible target object.
+This indicates that the metadata is referencing an invalid or inaccessible target object.
 - "INVALID_TYPE_FOR_OPERATION (entity type does not support bulk id query)": 
- This happens when the requested entity type does not support the operation being performed, such as a bulk query. In this case, we will try to download the records again with a different API.
+This happens when the requested entity type does not support the operation being performed, such as a bulk query. In this case, we will try to download the records again with a different API.
 How to Troubleshoot readMetadata Errors 
 Follow these steps to resolve "readMetadata" errors:
 1. Verify metadata existence:
@@ -29328,7 +29661,7 @@ Follow these steps to resolve "readMetadata" errors:
 2. Check fullName format:
 - Ensure the "fullName" in the API call matches the required format for the component type. For example: 
  Custom metadata: "[ObjectAPIName]-[RecordName]"
- Quick action: "[ObjectAPIName].[ActionName]"
+Quick action: "[ObjectAPIName].[ActionName]"
 3. Review permissions:
 - Ensure the API user has the necessary permissions to access the metadata. This includes field-level security, profile permissions, and API access.
 4. Contact managed package provider:
@@ -29337,13 +29670,11 @@ Follow these steps to resolve "readMetadata" errors:
 - Use Salesforce debug logs to capture detailed error information and identify the root cause of the issue.
 6. Redeploy or recreate metadata:
 - If the metadata component is missing or corrupted, redeploy it using a deployment tool or recreate it directly in the Salesforce UI.
- 
 Best Practices for Using readMetadata
 - Use Salesforce CLI or Workbench to validate metadata availability.
 - Maintain up-to-date documentation of metadata components, including "fullName" formats and namespace details.
 - Regularly review and clean up unused or outdated metadata to prevent referencing non-existent components.
 - Work with managed package vendors to understand API limitations and ensure the necessary metadata is exposed for your use cases.
- 
 Additional Resources
 For further information on the "readMetadata" API and troubleshooting metadata issues, refer to:
 
@@ -29375,8 +29706,8 @@ Although Salesforce does not allow restoration of history objects, our platform 
 
 Source URL: https://www.keepit.com/help/salesforce-category/what-happens-to-your-salesforce-records-after-you-restore/
 Content type: Web page
-Last modified: 2025-12-03T15:41:15+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T21:04:16+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -29410,9 +29741,9 @@ In case the restored file still exists in Salesforce:
 - If the restored file has the same modification time, we will skip it.
 If you want to recover a file or attachment, you have three options:
 - Restore the parent record.
- If the file or attachment is linked to a record, restoring that record will automatically restore the associated file or attachment.
+If the file or attachment is linked to a record, restoring that record will automatically restore the associated file or attachment.
 - Restore the file from the Files folder in the connector.
- This option applies only to Salesforce Files. Attachments cannot be restored from the Attachments folder.
+This option applies only to Salesforce Files. Attachments cannot be restored from the Attachments folder.
 - Download and reupload the file or attachment back into Salesforce.
 
 ------------------------------------------------------------
@@ -29432,12 +29763,12 @@ Records of standard and custom objects can be restored. The records of certain t
 
 Source URL: https://www.keepit.com/help/salesforce-category/your-salesforce-api-requests-usage/
 Content type: Web page
-Last modified: 2026-02-25T11:39:58+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T20:27:18+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
-Setting your Salesforce API request thresholdÂ
+Setting your Salesforce API request threshold
 Keepit uses Salesforce APIs to back up and restore your Salesforce data.
 Salesforce provides each organization with a fixed daily allocation of API requests, shared across all connected integrations and applications. The total number of available API requests depends on your Salesforce edition, the number of user licenses, and any additional API capacity you may have purchased. Once this daily limit is reached, further API calls are blocked until the allocation resets.
 To help you manage this limit, Keepit allows you to define a minimum threshold for remaining API requests. Keepit continuously monitors Salesforce’s “API requests remaining” value and, based on the percentage you configure, automatically determines whether backup and restore jobs should continue running or pause to avoid exceeding your limit.
@@ -29461,10 +29792,10 @@ Keepit consumes API requests to run its jobs. When your remaining requests reach
 How the limit works
 - Lower limits allow Keepit to use more API requests.
  A very low threshold gives Keepit access to most of your available requests.
- For example: Setting the limit to 0% allows Keepit to use all available API requests until none remain in Salesforce.
+For example: Setting the limit to 0% allows Keepit to use all available API requests until none remain in Salesforce.
 - Higher limits restrict how many requests Keepit can use.
  If the limit is set too high, Keepit might not have enough API requests to run or complete jobs.
- For example: With a 90% limit, Keepit can use only the remaining 10% of your API requests, which may not be sufficient.
+For example: With a 90% limit, Keepit can use only the remaining 10% of your API requests, which may not be sufficient.
 100% is not allowed
 You cannot set the threshold to 100%, because Keepit requires access to a portion of your available API requests to operate properly.
 To adjust the API request limit:

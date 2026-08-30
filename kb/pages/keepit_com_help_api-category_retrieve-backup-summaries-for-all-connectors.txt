@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-backup-summaries-for-all-connectors/
 Content type: Web page
-Last modified: 2026-04-01T10:27:23+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:47:11+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -29,7 +29,8 @@ Response body:
         <last-snapshot-size>1615492394</last-snapshot-size>
         <size-change>38713</size-change>
     </device>
-…PowerShell script
+…
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -57,5 +58,15 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
-device: guid: 11ptlk-st7sly-ggba4c last-snapshot-time: 2025-06-11T08:07:46Z last-snapshot-size: 234568814 size-change: 0 device: guid: nh5l4z-vc1oqn-j6guqb last-snapshot-time: 2025-05-12T12:17:53Z last-snapshot-size: 1615492394 size-change: 38713
+}
+Script result
+device:
+  guid: 11ptlk-st7sly-ggba4c
+  last-snapshot-time: 2025-06-11T08:07:46Z
+  last-snapshot-size: 234568814
+  size-change: 0
+device:
+  guid: nh5l4z-vc1oqn-j6guqb
+  last-snapshot-time: 2025-05-12T12:17:53Z
+  last-snapshot-size: 1615492394
+  size-change: 38713

@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-the-list-of-languages-for-an-account/
 Content type: Web page
-Last modified: 2025-10-16T09:56:13+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:38:41+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -19,7 +19,8 @@ Response body:
 <languages>
     <language>de-DE</language>
     <language>en-GB</language>
-</languages>PowerShell script
+</languages>
+PowerShell script
 try {
     $username = '<Token username>'
     $password = '<Token password>'

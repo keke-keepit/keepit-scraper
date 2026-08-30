@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/create-a-subaccount/
 Content type: Web page
-Last modified: 2026-06-24T11:27:55+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:14:30+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -18,7 +18,8 @@ Example of body:
             <value>FirstAccount</value>
         </attribute>
     </attributes>
-</user_create>Create a subaccount with email authentication required for account activation
+</user_create>
+Create a subaccount with email authentication required for account activation
 This command creates a subaccount without a password. If no password is set during account creation, an activation link will be sent to the customer's email for account activation.
 Example
 Method POST
@@ -30,7 +31,8 @@ Body
     <acl>MasterAdmin</acl> 
     <language>en-GB</language> 
     <product>a9y02y-qngj1m-yvh5r8</product> 
-</user_create>Response
+</user_create>
+Response
 Code: 201 Created
 PowerShell script
 try { 
@@ -87,7 +89,8 @@ Body
     <acl>MasterAdmin</acl> 
     <language>en-GB</language> 
     <product>a9y02y-qngj1m-yvh5r8</product> 
-</user_create>Response
+</user_create>
+Response
 Code: 201 Created
 PowerShell script
 try { 

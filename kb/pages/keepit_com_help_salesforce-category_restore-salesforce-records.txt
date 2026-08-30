@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-records/
 Content type: Web page
-Last modified: 2026-07-14T13:56:05+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T20:46:45+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -27,8 +27,8 @@ The restore also lets you:
 - to a sandbox environment
 When using the connector-level restore, you have three ways to select records to restore:
 - Restore all records in the entire organization 
- Restores all records in the selected snapshot. This option is only available when restoring to the same environment.
+Restores all records in the selected snapshot. This option is only available when restoring to the same environment.
 - Manually select specific records
- Allows to select one or more records from various object types.
+Allows to select one or more records from various object types.
 - Upload a CSV file
- Allows to select records by specifying the record IDs in a CSV file.
+Allows to select records by specifying the record IDs in a CSV file.

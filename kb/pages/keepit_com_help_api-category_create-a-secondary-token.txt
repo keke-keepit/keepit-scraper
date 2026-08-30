@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/create-a-secondary-token/
 Content type: Web page
-Last modified: 2026-03-24T15:08:32+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:56:15+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -26,7 +26,8 @@ Response body:
 <credentials>
     <aname>%cxZq4L+dyQsns1k6gB5Ia,a</aname>
     <apass>?+gs)---F6n6a4AERi?e1s9n</apass>
-</credentials>PowerShell script
+</credentials>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -112,7 +113,8 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
+}
+Script result
 username:    test@keepit.com
 password:    EnterYourPasswordHere!
 Additional information
@@ -121,5 +123,5 @@ Additional information
              value - application/vnd.keepit.v1+xml
 - The <primary> element determines whether the token is a Primary or Secondary token.
  For secondary tokens, <primary> must be set to "false".
- For primary tokens, <primary> must be set to "true".
+For primary tokens, <primary> must be set to "true".
 - Email notifications are not sent to secondary tokens. Notifications can be delivered only to primary tokens.

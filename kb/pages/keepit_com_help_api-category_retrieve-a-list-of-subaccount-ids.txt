@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-a-list-of-subaccount-ids/
 Content type: Web page
-Last modified: 2026-04-22T13:35:17+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:12:12+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -20,7 +20,10 @@ https://dk-co.keepit.com/users/nq2v51-5mx23m-qb7sah/users
 Response
 Code: 200 OK
 Response body (Accept: application/vnd.keepit.v0+xml):
-<users> â¯ â¯ <id>psmqd-3nqijs-9qi26x</id> â¯ â¯ <id>r8gxbr-kqw14l-isn2kq</id> </users>
+<users> 
+â¯ â¯ <id>psmqd-3nqijs-9qi26x</id> 
+â¯ â¯ <id>r8gxbr-kqw14l-isn2kq</id> 
+</users> 
 Response body (Accept: application/vnd.keepit.v1+xml):
 <users>
     <user>
@@ -39,7 +42,8 @@ Response body (Accept: application/vnd.keepit.v1+xml):
         <full_name>TestAccount2</full_name>
         <company_name>MyCompany</company_name>
     </user>
-</users>PowerShell script
+</users>
+PowerShell script
 try {
     $username = '<Token username>'
     $password = '<Token password>'
@@ -61,7 +65,8 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Additional information
+}
+Additional information
 - The response can have the optional accept header:
 - key – Accept
 - value - application/vnd.keepit.v1+xml

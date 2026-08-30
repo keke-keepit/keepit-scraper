@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-all-registered-contacts/
 Content type: Web page
-Last modified: 2025-10-16T09:55:32+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:27:37+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -20,7 +20,8 @@ Response body:
     <type>f</type>
     <type>e</type>
     <type>p</type>
-</contacts>PowerShell script
+</contacts>
+PowerShell script
 try {
     $username = '<Token username>'
     $password = '<Token password>'
@@ -41,7 +42,8 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Additional information
+}
+Additional information
 Only one contact is allowed per contact type. The response will list all contact types—and therefore all registered contacts—for the specified account.
 The supported contact types are:
 - p – Primary contact

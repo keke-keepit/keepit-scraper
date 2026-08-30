@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/generate-pdf-version-of-the-payment-or-credit/
 Content type: Web page
-Last modified: 2026-03-23T13:21:40+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:07:09+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -42,7 +42,8 @@ catch {
   $line = $_.InvocationInfo.ScriptLineNumber
   Write-Host "Cannot query Keepit API due to: $_"
   Write-Host "at line $line"
-}Script result
+}
+Script result
 Invoice saved as PDF at: C:\invoice_agn1sfs6hcemt.pdf
 - The response can use the accept header application/vnd.keepit.v0+xml or application/vnd.keepit.v1+xml:
 key – Accept

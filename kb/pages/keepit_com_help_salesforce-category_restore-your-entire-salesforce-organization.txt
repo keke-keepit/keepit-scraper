@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/salesforce-category/restore-your-entire-salesforce-organization/
 Content type: Web page
-Last modified: 2025-12-08T13:28:14+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T20:51:06+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -26,11 +26,11 @@ When you restore your entire organization, we restore:
 - Records
 When restoring, you can choose what to do with your objects, fields, and records:
 - Create missing items
- Creates items in Salesforce that exist in the snapshot but are missing from Salesforce.
+Creates items in Salesforce that exist in the snapshot but are missing from Salesforce.
 - Update all existing items
- Updates items in Salesforce to match the versions in the snapshot.
+Updates items in Salesforce to match the versions in the snapshot.
 - Delete new items
- Deletes items that have been added to Salesforce but are not present in the snapshot.
+Deletes items that have been added to Salesforce but are not present in the snapshot.
 What related metadata is restored
 When you restore your entire organization, we also restore certain metadata. What precisely we restore may depend on how you choose to restore your data.
 Global value sets

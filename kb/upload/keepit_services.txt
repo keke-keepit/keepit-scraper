@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — SERVICES
-Generated: 2026-08-23
+Generated: 2026-08-30
 Pages: 34
 ============================================================
 
@@ -813,8 +813,8 @@ Help center - Salesforce
 
 Source URL: https://www.keepit.com/help/mcp-category/ai-client-setup-guide/
 Content type: Web page
-Last modified: 2026-05-25T13:08:26+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T22:15:26+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -861,7 +861,8 @@ Option B — Manual config (claude_desktop_config.json)
 }
 }
 }
-}Verify:
+}
+Verify:
 Ask Claude:
 “Do I have any unhealthy connectors?”
 Cursor
@@ -883,7 +884,8 @@ Setup
 }
 }
 }
-}Restart Cursor.
+}
+Restart Cursor.
 Usage:
 Switch to Agent Mode (Ctrl + .) and ask:
 “Show me unhealthy Keepit connectors.”
@@ -904,7 +906,8 @@ Add .vscode/mcp.json:
 }
 }
 }
-}Open Copilot Chat in Agent mode.
+}
+Open Copilot Chat in Agent mode.
 If MCP tools do not appear, enable:
 chat.mcp.enabled
 ChatGPT Desktop
@@ -950,7 +953,8 @@ Edit anythingllm_mcp_servers.json:
 }
 }
 }
-}Restart AnythingLLM.
+}
+Restart AnythingLLM.
 LM Studio
 Transport: stdio (partial)
 Note: MCP is supported, but stdio behavior varies by version.
@@ -968,7 +972,8 @@ Open Program > Install > Edit mcp.json:
 }
 }
 }
-}Restart LM Studio.
+}
+Restart LM Studio.
 Jan (Full stdio support)
 Jan has integrated MCP as a core feature, with native stdio support.
 Transport: stdio
@@ -993,7 +998,8 @@ Setup via Jan settings (recommended)
 }
 }
 }
-}Manual file location
+}
+Manual file location
 - macOS: ~/Library/Application Support/jan/settings/settings.json
 - Windows: %APPDATA%\jan\settings\settings.json
 Requirements
@@ -1179,8 +1185,8 @@ Keepit MCP exposes 18 tools via the MCP protocol.
 
 Source URL: https://www.keepit.com/help/mcp-category/mcp-overview-for-partners/
 Content type: Web page
-Last modified: 2026-05-25T13:18:09+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T22:21:54+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -1210,7 +1216,8 @@ Windows:â¯%APPDATA%\Claude\claude_desktop_config.json
       }
     }
   }
-}Credentials are passed directly in your MCP client configuration. While not encrypted, this keeps secrets out of your project repository, preventing accidental Git commits.
+}
+Credentials are passed directly in your MCP client configuration. While not encrypted, this keeps secrets out of your project repository, preventing accidental Git commits.
 Using 1Password CLI (Cross-Platform)
 1Password CLI (op) works on macOS, Linux, and Windows. Adjust the node path according to your deployment. In order to use it via CLI, you have to enable 1Password CLI in the 1Password desktop app Settings > Developer and allow biometric unlock.
 Documentation:â¯1Password CLI: Getting Startedâ¯|â¯Secret References
@@ -1229,7 +1236,8 @@ Path examples:
       }
     }
   }
-}Windows user environment variables
+}
+Windows user environment variables
 Note:â¯This option is for Windows users. Credentials are stored in the Windows Registry (unencrypted) but kept separate from the config file, reducing the risk of accidental sharing.
 Set the following as User Environment Variables (seeâ¯Microsoft's guide on environment variables):
 - KEEPIT_USER : your-username
@@ -1244,7 +1252,8 @@ Then use this config no env block needed:
       "args": ["C:/Users/YourName/keepit-mcp/build/main.js"]
     }
   }
-}Security note: This approach stores credentials as plaintext in the Windows Registry. Any process running as your user can read them. The benefit over the basic setup is that credentials won't be accidentally shared when copying config files.
+}
+Security note: This approach stores credentials as plaintext in the Windows Registry. Any process running as your user can read them. The benefit over the basic setup is that credentials won't be accidentally shared when copying config files.
 macOS Keychain
 Documentation:â¯Keychain Access User Guideâ¯|â¯security command man page
 Option A: Using Keychain Access GUI
@@ -1268,7 +1277,8 @@ Claude Desktop configâ¯(uses security find-generic-password to retrieve at run
       ]
     }
   }
-}Linux secret-tool (GNOME Keyring / libsecret)
+}
+Linux secret-tool (GNOME Keyring / libsecret)
 Documentation:â¯libsecret / secret-toolâ¯|â¯secret-tool man page
 First, store credentials (one-time):
 secret-tool store --label="Keepit MCP Username" service keepit-mcp field username
@@ -1284,7 +1294,8 @@ Then in your MCP client config (e.g., Claude Code's ~/.claude.json or similar):
       ]
     }
   }
-}Step 4: Connect to your AI client
+}
+Step 4: Connect to your AI client
 For Claude Desktop using the .mcpb package:
 1. Build the package:npmrun generate-mcpb
 2. In Claude Desktop, go toâ¯Settingsâ¯>â¯Extensionsâ¯>â¯Advanced settings.

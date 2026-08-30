@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-records-to-a-sandbox-environment/
 Content type: Web page
-Last modified: 2025-12-08T13:48:21+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T20:53:26+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -15,7 +15,7 @@ You will be redirected to the Salesforce sign-in page. Enter your Salesforce us
 5. Decide how you want to select records to restore and click Next.
 - If you choose Manually select records, select which records you want to restore.
 - If you have a CSV file with a list of records IDs, you can select Upload CSV of records
- Ensure the CSV file meets the requirements detailed here: Prepare CSV file with records to restore
+Ensure the CSV file meets the requirements detailed here: Prepare CSV file with records to restore
 6. Proceed to select the records you want to restore and click Next.
 7. Choose whether to also restore related records and click Next.
 Enabling this function will restore all related records lower in the hierarchy, including files and attachments.

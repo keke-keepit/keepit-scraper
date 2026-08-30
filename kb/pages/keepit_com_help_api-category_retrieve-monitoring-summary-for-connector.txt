@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-monitoring-summary-for-connector/
 Content type: Web page
-Last modified: 2026-04-01T10:27:45+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:40:24+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -28,7 +28,8 @@ Response body:
         <removed>63956</removed>
         <modified>80</modified>
     </count>
-</summary>PowerShell script
+</summary>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -56,5 +57,13 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
-size: added: 570614 removed: 1480650531 modified: 89830 count: added: 10 removed: 63956 modified: 80
+}
+Script result
+size:
+  added: 570614
+  removed: 1480650531
+  modified: 89830
+count:
+  added: 10
+  removed: 63956
+  modified: 80

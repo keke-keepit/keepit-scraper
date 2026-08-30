@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-the-latest-snapshot-timestamp/
 Content type: Web page
-Last modified: 2026-04-01T10:23:49+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:27:27+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -24,7 +24,8 @@ Response body:
         <size>1653770815</size>
         <account>5t1sbe-s6zsgx-rtutxq</account>
     </backup>
-</history>PowerShell script
+</history>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -51,8 +52,11 @@ catch {
         $line = $_.InvocationInfo.ScriptLineNumber
         Write-Host "Cannot query Keepit API due to: $_"
         Write-Host "at line $line"
-}Script result
-Timestamp: 2024-12-05T12:54:46Z Type: c Size: 1653770815
+}
+Script result
+Timestamp: 2024-12-05T12:54:46Z
+Type: c
+Size: 1653770815
 Additional information
 - The <tstamp> element shows the timestamp of the latest created snapshot (GMT).
 - The size is displayed in bytes. In this case, the size of the latest snapshot equals to 1.6GB.

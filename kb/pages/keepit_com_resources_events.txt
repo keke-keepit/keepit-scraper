@@ -1,10 +1,21 @@
 Source URL: https://www.keepit.com/resources/events/
 Content type: Web page
-Last modified: 2026-08-17T20:45:29+02:00
-Retrieved: 2026-08-23
+Last modified: 2026-08-28T20:30:10+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
+Meet Keepit at Computerworld Cloud & AI Festival 2026 in Ballerup, Denmark.
+Connect with our team to learn how to strengthen resilience and data governance across hybrid and multicloud environments. Get strategic insight into protecting your data, staying compliant, maintaining operational resilience, and turning strong data governance into a foundation for AI-driven innovation.
+Computerworld Cloud & AI Festival 2026 takes place September 16–17, 2026 at Ballerup Super Arena. The event brings together more than 3,000 IT professionals, 70+ vendors, and 120+ speakers, with a focus on AI, infrastructure, data, compliance, and security.
+When the cloud goes dark: Resilience in an age of hybrid threats
+Geopolitical tensions and hybrid threats are placing new demands on companies’ cloud strategies. In this session, Kim Larsen, group chief information security officer at Keepit, shows how data governance and digital sovereignty strengthen both resilience and AI-readiness — and why they are critical to the business of the future.
+This session will be held in English.
+Speakers
+Kim Larsen,
+Group Chief Information Security Officer, Keepit
+Americas
+September 21-23, 2026 |Â SÃ£o Paulo, BrazilGartner CIO & IT Executive Conference 2026
 Conheça a Keepit na Conferência Gartner CIO & IT Executive 2026 em São Paulo, Brasil.
 Conecte-se com nossa equipe para saber como fortalecer a resiliência e a governança de dados em ambientes multicloud e SaaS. Obtenha insights estratégicos sobre como proteger, garantir a conformidade e manter a resiliência operacional, além de como transformar uma governança de dados sólida em uma base para a inovação impulsionada pela IA.
 Use o código CIOSB26EDC para obter um desconto de R$ 475,00 no seu ingresso aqui.
@@ -25,8 +36,6 @@ Exchange perspectives with peers from the charities and housing sector navigatin
 Limited seats available — reserve your spot early.
 This event is exclusively intended for relevant Keepit customers and prospects from the charities and housing sector.
 Thank you for registering! Stay tuned to your email for confirmation of your seats and exclusive event details.
-Americas
-October 19-22, 2026 | Orlando, FLGartner IT Symposium/Xpoâ¢ 2026 conference
 AI doesn't create truth. It amplifies whatever it's given. Meet Keepit at Gartner IT Symposium/Xpo 2026 in Orlando, October 19–22, and hear why an independent, always-recoverable single point of truth is the foundation responsible AI adoption depends on.
 Use SYM36EDC to get $575 discount on your ticket here.
 Keepit: The foundation AI can't build itself — a single point of truth

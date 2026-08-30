@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/salesforce-category/restore-salesforce-records-by-manually-selecting-records/
 Content type: Web page
-Last modified: 2025-12-08T13:44:02+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T20:55:34+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -11,7 +11,7 @@ Follow these steps to restore Salesforce records by manually selecting records.
 2. Select where to restore:
 - If you select to restore to the same location, click Next. The records will be restored to the same environment.
 - If you select to restore to a different location, choose whether to a sandbox or production, and then click Sign in.
- You will be redirected to the Salesforce sign-in page where you must enter your Salesforce System Admin user account credentials for that environment.
+You will be redirected to the Salesforce sign-in page where you must enter your Salesforce System Admin user account credentials for that environment.
 3. Select a snapshot from the time you want to restore and click Next.
 4. Select Manually select records and click Next.
 5. Select the records you want to restore and click Next.

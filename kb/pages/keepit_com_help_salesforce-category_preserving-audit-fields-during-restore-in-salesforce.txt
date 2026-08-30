@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/salesforce-category/preserving-audit-fields-during-restore-in-salesforce/
 Content type: Web page
-Last modified: 2026-04-03T11:07:33+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T21:21:54+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -54,7 +54,7 @@ Important notes
 - Applies to both Records and Files
 - If the original user does not exist in the target org, Salesforce cannot assign:
 - CreatedById
- OwnerId
+OwnerId
 - Audit fields are not editable in the standard UI and are only supported via API-based operations (e.g., restore, data load)
 - Audit fields can only be set at the time of record creation
 - They cannot be updated afterwards through any operation

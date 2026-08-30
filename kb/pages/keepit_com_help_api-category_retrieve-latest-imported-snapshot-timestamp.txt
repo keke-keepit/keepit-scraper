@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-latest-imported-snapshot-timestamp/
 Content type: Web page
-Last modified: 2026-04-01T10:28:04+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:42:56+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -18,7 +18,8 @@ Response body:
 <backup>
     <root>qd77638f69d92e0f0853fgh631363098cdfd2119b2fdb44d6cbe</root>
     <tstamp>2025-05-12T12:17:53Z</tstamp>
-</backup>PowerShell script
+</backup>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -41,5 +42,7 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Script result
-root: dd79478f69d92e0f0853f69842cdfd2119b2fdb4447fde98f37ba7be4d1d6cbe tstamp: 2025-05-12T12:17:53Z
+}
+Script result
+root: dd79478f69d92e0f0853f69842cdfd2119b2fdb4447fde98f37ba7be4d1d6cbe
+tstamp: 2025-05-12T12:17:53Z

@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-product-details/
 Content type: Web page
-Last modified: 2025-10-15T13:43:02+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:25:26+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -20,7 +20,8 @@ Response body:
     <id>a9y02y-qngj1m-yvh5r8</id>
     <name>Demo1</name>
     <flexquota>false</flexquota>
-</product>PowerShell script
+</product>
+PowerShell script
 try {
     $username = '<Token username>'
     $password = '<Token password>'
@@ -41,7 +42,8 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Additional information
+}
+Additional information
 - An account may or may not have a product assigned to it. You can determine this by checking the /users/{account_id} response.
 - If no product is assigned to the current account, it will inherit resources from the product assigned to its parent account, continuing recursively up the hierarchy until a product is found.
 - This request will return a "404 Not Found" if no product is assigned to the account or to any of its ancestor accounts.

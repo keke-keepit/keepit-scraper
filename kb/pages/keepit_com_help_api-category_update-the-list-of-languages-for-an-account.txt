@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/update-the-list-of-languages-for-an-account/
 Content type: Web page
-Last modified: 2025-10-15T23:45:07+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:41:01+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -12,16 +12,12 @@ Method PUT
 /bl/partner/{partner_id}/messages/languages
 Elements table
 Root object element: languages
-This command is used to update the list of languages for the account.
-Method PUT
-/bl/partner/{partner_id}/messages/languages
-Root object element: languages
-Method PUT
 https://dk-co.keepit.com/bl/partner/nq2v51-5mx23m-qb7sah/messages/languages
 Body
 <languages>
     <language>en-GB</language>
-</languages>Code: 200 OK
+</languages>
+Code: 200 OK
 Response body:
 Updated
 try {

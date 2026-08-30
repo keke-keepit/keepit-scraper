@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/azure-devops-category/restore-azure-devops-data/
 Content type: Web page
-Last modified: 2025-03-11T20:18:38+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T22:05:20+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -30,7 +30,8 @@ Pipelines
 When an agent pool is restored, besides pool settings, only the attributes and capabilities of each agent are restored.
 To bring an agent back Online, it must be reconfigured at the host level.
 To reconfigure the agent, use the following command:
-hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{AGENT} --work _work --pool ${POOL} --replaceWhere:
+hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{AGENT} --work _work --pool ${POOL} --replace
+Where:
 - TOKEN - a valid PAT token
 - ORGANIZATION - the organization to which the agent should be added
 - AGENT - the agent name
@@ -40,7 +41,8 @@ For more details, refer to Microsoft's documentation: Remove and re-configure an
 When a deployment pool is restored, besides pool settings, only the attributes and capabilities of each target are restored.
 To bring a target back Online, it must be reconfigured at the host level.
 To reconfigure the target, use the following command:
-hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{TARGET} --work _work --deploymentpool --deploymentpoolname ${POOL} --runasserviceWhere:
+hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{TARGET} --work _work --deploymentpool --deploymentpoolname ${POOL} --runasservice
+Where:
 - TOKEN - a valid PAT token
 - ORGANIZATION - the organization to which the agent should be added
 - AGENT - the agent name
@@ -50,7 +52,8 @@ For more details, refer to Microsoft's documentation: Remove and re-configure an
 When an environment is restored, the resources themselves are not restored. Only the environment and its settings are restored.
 To bring a resource back Online, it must be reconfigured at the host level.
 To reconfigure the resource, use the following command:
-hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{RESOURCE}  --work _work --environment --environmentname ${ENVIRONMENT} --projectname ${PROJECT} --runasserviceWhere:
+hostname:path$ ./config.sh remove --auth pat --token ${TOKEN} && ./config.sh --acceptTeeEula --url https://dev.azure.com/${ORGANIZATION} --auth pat --token ${TOKEN} --agent S{RESOURCE}  --work _work --environment --environmentname ${ENVIRONMENT} --projectname ${PROJECT} --runasservice
+Where:
 - TOKEN - a valid PAT token
 - ORGANIZATION - the organization to which the agent should be added
 - PROJECT - the project to which a resource should be added

@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/edit-the-details-of-a-specified-contact/
 Content type: Web page
-Last modified: 2025-10-16T10:08:32+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:34:14+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -18,7 +18,8 @@ Body
     <street1>TheExampleStreet</street1>
     <city>Copenhagen</city>
     <language>en-GB</language>
-</contact>Response
+</contact>
+Response
 Code: 200 OK
 Response body:
 Successfully updated contact details.
@@ -53,6 +54,7 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}Additional information
+}
+Additional information
 - Only include the fields that need to be updated. Fields that are not specified will remain unchanged.
 - To remove a parameter (if removable), provide an empty value.

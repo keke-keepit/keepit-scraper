@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-account-settings/
 Content type: Web page
-Last modified: 2025-10-15T23:48:29+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:16:31+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -10,12 +10,8 @@ This command retrieves account settings. It can be executed either directly at t
 API request
 Method GET
 /users/{account_id}
-This command retrieves account settings. It can be executed either directly at the account level or from the parent account.
-Method GET
-/users/{account_id}
 You can select the desired response schema by setting the "Accept" header. This allows to specify the format of the data you wish to receive.
 If the "Accept" header does not include a version number, the response will default to schema v0.
-Method GET
 https://dk-co.keepit.com/users/nq2v51-5mx23m-qb7sah/
 Code: 200 OK
 Response body:
@@ -45,4 +41,5 @@ catch {
     $line = $_.InvocationInfo.ScriptLineNumber
     Write-Host "Cannot query Keepit API due to: $_"
     Write-Host "at line $line"
-}The <product> element reports the product directly assigned to the account. If no product is set on the account, it inherits the product from its parent account (and so on recursively). This API endpoint provides the product directly assigned to the account, not the inherited product. To determine the active product on the account, you must trace back to the parent accounts until a product is found.
+}
+The <product> element reports the product directly assigned to the account. If no product is set on the account, it inherits the product from its parent account (and so on recursively). This API endpoint provides the product directly assigned to the account, not the inherited product. To determine the active product on the account, you must trace back to the parent accounts until a product is found.

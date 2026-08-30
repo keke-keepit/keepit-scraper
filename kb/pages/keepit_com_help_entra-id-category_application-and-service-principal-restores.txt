@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/help/entra-id-category/application-and-service-principal-restores/
+Content type: Web page
+Last modified: 2026-08-25T16:29:13+02:00
+Retrieved: 2026-08-30
+
+============================================================
+
+Application and service principal restores
+This article explains how Keepit handles secrets, certificates, and credentials when restoring application registrations and service principals in Entra ID, and what post-restore steps you may need to complete.
+Restore limitations
+Keepit doesn't support restoring the following:
+- Managed identities and agent identities
+- Publisher domain (Entra ID limitation)
+- Publisher verification status (Entra ID limitation)
+- Certification (Entra ID limitation)
+- Automated manual admin consent. Because Keepit doesn't use delegated permissions for application restores, admin consent can't be automated.
+Secrets and certificates
+When Keepit recreates application registration and service principal objects in Entra ID — rather than restoring them from the trash bin — it skips any certificates and secrets unless the connector is connected to an Azure Key Vault instance.
+For instructions on connecting a Key Vault instance, see Connect Azure Key Vault.
+After a Key Vault-backed restore, Keepit stores recreated password credentials in the Key Vault's secrets and recreated key credentials in the Key Vault's certificates. Each object stored in the Key Vault includes metadata tags to help you identify and filter secrets after the restore.
+Note: If a Key Vault instance is connected but can't be reached, or if the permissions on it are too restrictive, any application registrations and service principals that have password or key credentials fail to restore. Other objects selected for the same restore job proceed normally.
+Secure handling of secrets
+Keepit handles secrets as follows:
+- If no Key Vault instance is connected, Keepit doesn't recreate any secrets.
+- Keepit doesn't generate cryptographic secrets. It uses Entra ID and Azure Key Vault endpoints to do so, applying the same security parameters in all cases.
+- Password credentials are stored briefly in RAM on Keepit servers only and are never written to a snapshot or persisted elsewhere.
+- Key credentials' public keys are stored briefly in RAM on Keepit servers only and are never written to a snapshot or persisted elsewhere. Keepit never fetches private keys from the Key Vault.
+Security parameters of recreated secrets
+Keepit recreates secrets with the following fixed parameters:

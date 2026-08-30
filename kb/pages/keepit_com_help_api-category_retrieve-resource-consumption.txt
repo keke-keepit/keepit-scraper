@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-resource-consumption/
 Content type: Web page
-Last modified: 2026-02-06T11:17:16+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:36:32+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -11,12 +11,7 @@ API request
 Method GET
 /users/{account_id}/resources
 Additional optional header:
-This command retrieves the resource consumption for an account.
-Method GET
-/users/{account_id}/resources
-Additional optional header:
 This header forces the API to return the total usage across all accounts associated with the current product assignment.
-Method GET
 https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka/resources
 Code: 200 OK
 Response body (partial):

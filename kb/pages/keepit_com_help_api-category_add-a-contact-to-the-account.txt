@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/add-a-contact-to-the-account/
 Content type: Web page
-Last modified: 2025-10-15T23:45:06+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:32:02+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -12,11 +12,6 @@ Method POST
 /users/{account_id}/contacts
 Elements table
 Root object element: contact
-This command allows you to add a contact to an account.
-Method POST
-/users/{account_id}/contacts
-Root object element: contact
-Method POST
 https://dk-co.keepit.com/users/r4hsnr-ktb74l-bsq8ka/contacts/
 Body
 <contact>
@@ -26,7 +21,8 @@ Body
     <fullname>test123456789@keepit.com</fullname>
     <phone>11111111111111</phone>
     <language>en-GB</language>
-</contact>Code: 201 Created
+</contact>
+Code: 201 Created
 try {
     $username = '<Token username>'
     $password = '<Token password>'

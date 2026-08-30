@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-job-information/
 Content type: Web page
-Last modified: 2026-04-01T10:28:49+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:31:36+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -30,7 +30,8 @@ Response body:
         <started>2024-11-27T21:55:23Z</started>
         <succeeded>2024-11-27T21:56:10Z</succeeded>
         <progress>1.0</progress>
-    </job>PowerShell script
+    </job>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -72,5 +73,26 @@ catch {
         $line = $_.InvocationInfo.ScriptLineNumber
         Write-Host "Cannot query Keepit API due to: $_"
         Write-Host "at line $line"
-}Script result
-Job GUID: 76q5c3-qg47t2-53fas1-n5q3gb Type: backup Active: false Started: 2024-11-27T21:55:21Z Status: Succeeded at 2024-11-27T21:56:10Z Progress: 1.0 --------------------------- Job GUID: s0qn1k-1azqjb-46g362-rg5n4r Type: srestore Active: false Started: 2024-11-28T08:21:20Z Status: Succeeded at 2024-11-28T09:23:27Z Progress: 1.0 --------------------------- Job GUID: p6eqb9-4t1wwi-2vnnuw-y1oh5c Type: backup Active: true Started: Scheduled Status: Progress: ---------------------------
+}
+Script result
+Job GUID: 76q5c3-qg47t2-53fas1-n5q3gb
+Type: backup
+Active: false
+Started: 2024-11-27T21:55:21Z
+Status: Succeeded at 2024-11-27T21:56:10Z
+Progress: 1.0
+---------------------------
+Job GUID: s0qn1k-1azqjb-46g362-rg5n4r
+Type: srestore
+Active: false
+Started: 2024-11-28T08:21:20Z
+Status: Succeeded at 2024-11-28T09:23:27Z
+Progress: 1.0
+---------------------------
+Job GUID: p6eqb9-4t1wwi-2vnnuw-y1oh5c
+Type: backup
+Active: true
+Started: Scheduled
+Status:
+Progress:
+---------------------------

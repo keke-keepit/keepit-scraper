@@ -1,5 +1,24 @@
 # Keepit KB Changelog
 
+## 2026-08-30
+
+Added (2):
+- https://www.keepit.com/help/entra-id-category/application-and-service-principal-restores/
+- https://www.keepit.com/help/entra-id-category/connect-azure-key-vault/
+
+Modified (58):
+- https://www.keepit.com/help/api-category/add-a-contact-to-the-account/
+- https://www.keepit.com/help/api-category/api-permissions/
+- https://www.keepit.com/help/api-category/change-token-permissions-and-other-details/
+- https://www.keepit.com/help/api-category/create-a-secondary-token/
+- https://www.keepit.com/help/api-category/create-a-subaccount/
+- https://www.keepit.com/help/api-category/create-additional-users-in-a-subaccount/
+- https://www.keepit.com/help/api-category/delete-an-account-via-api/
+- https://www.keepit.com/help/api-category/edit-the-details-of-a-specified-contact/
+- https://www.keepit.com/help/api-category/filter-job-information/
+- https://www.keepit.com/help/api-category/generate-pdf-version-of-the-payment-or-credit/
+- (... and 48 more)
+
 ## 2026-08-23
 
 Added (6):

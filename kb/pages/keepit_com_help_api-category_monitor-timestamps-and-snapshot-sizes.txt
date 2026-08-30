@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/monitor-timestamps-and-snapshot-sizes/
 Content type: Web page
-Last modified: 2026-04-01T10:29:04+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:29:31+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -13,7 +13,8 @@ Body
     <start>2024-11-23T08:12:14Z</start>
     <span>P1M</span>
     <count>99</count>
-</range>Response
+</range>
+Response
 Code: 200 OK
 Response body:
  <backup>
@@ -30,7 +31,8 @@ Response body:
         <size>2025304567</size>
         <account>5t1sbe-s6zsgx-rtutxq </account>
     </backup>
-</history>PowerShell script
+</history>
+PowerShell script
 try {
     $username = '<API Token username>'
     $password = '<API Token password>'
@@ -65,7 +67,8 @@ catch {
         $line = $_.InvocationInfo.ScriptLineNumber
         Write-Host "Cannot query Keepit API due to: $_"
         Write-Host "at line $line"
-}Script result
+}
+Script result
 Timestamp: 2024-12-21T21:29:31Z, Type: c, Size: 2023899411
 Timestamp: 2024-12-22T09:29:38Z, Type: c, Size: 2025304567
 Timestamp: 2024-12-22T21:29:44Z, Type: c, Size: 2025304567

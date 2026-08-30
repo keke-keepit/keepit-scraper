@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/pmc/working-with-custom-properties/
 Content type: Web page
-Last modified: 2026-02-26T13:57:31+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T22:44:37+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -38,7 +38,7 @@ Seat limit value:
 Activation date:
 - If you want to change when a scheduled version comes into affect, first delete it and then add a new one. (See Delete a scheduled version of a custom property) 
  
- Important: Saving a new activation date of a scheduled version will create a new version, not update the current version.
+Important: Saving a new activation date of a scheduled version will create a new version, not update the current version.
 Delete a custom property
 Deleting a custom property will revert the property back to its standard settings. The change will come take effect at midnight.
 Deleting an active or scheduled custom property will delete all past and scheduled versions.

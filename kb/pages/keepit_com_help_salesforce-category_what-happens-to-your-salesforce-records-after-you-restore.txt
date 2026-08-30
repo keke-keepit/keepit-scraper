@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/salesforce-category/what-happens-to-your-salesforce-records-after-you-restore/
 Content type: Web page
-Last modified: 2025-12-03T15:41:15+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T21:04:16+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -35,7 +35,7 @@ In case the restored file still exists in Salesforce:
 - If the restored file has the same modification time, we will skip it.
 If you want to recover a file or attachment, you have three options:
 - Restore the parent record.
- If the file or attachment is linked to a record, restoring that record will automatically restore the associated file or attachment.
+If the file or attachment is linked to a record, restoring that record will automatically restore the associated file or attachment.
 - Restore the file from the Files folder in the connector.
- This option applies only to Salesforce Files. Attachments cannot be restored from the Attachments folder.
+This option applies only to Salesforce Files. Attachments cannot be restored from the Attachments folder.
 - Download and reupload the file or attachment back into Salesforce.

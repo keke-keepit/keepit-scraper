@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/pmc/pmc-connector--account-monitor/
 Content type: Web page
-Last modified: 2026-04-24T14:34:06+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T22:28:37+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -32,7 +32,6 @@ What you can do
 - POC accounts: Click on a POC account to open the account info page. Here you can select a paid product.
 - Services: To extend the service, please contact Support.
  If a service expires, the account will be scheduled for deletion.
- 
 Exceeding usage
 This tab shows all accounts exceeding seat usage.
 What information you can find
@@ -41,9 +40,9 @@ What information you can find
 - Details – which seat limit properties have exceeded their limits
 - Usage – the number of seats the account has consumed
 - Limit – the limit that is set for the account for the particular property.
- A faded number with a green icon means that the limit has been changed, but has not come into effect yet.
+A faded number with a green icon means that the limit has been changed, but has not come into effect yet.
 - Grace period – the number of days left until the backups start to be unsuccessful.
- A dash means that the grace period has ended.
+A dash means that the grace period has ended.
 Trial (POC)
 This tab shows the details for all Trial (POC) accounts.
 - Name – the name of the account

@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/api-category/retrieve-document-with-invoice-content/
 Content type: Web page
-Last modified: 2026-03-24T13:48:56+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-27T00:04:48+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -49,7 +49,8 @@ Response body (partial):
     <vat-percents>23.0</vat-percents>
     <total>487.08</total>
     <total-minor>48708</total-minor>
-</invoice>PowerShell script
+</invoice>
+PowerShell script
 try {
   $domain = 'https://dk-co.keepit.com'
   $username = '<API Token username>'
@@ -90,7 +91,8 @@ catch {
   $line = $_.InvocationInfo.ScriptLineNumber
   Write-Host "Error querying Keepit API: $_"
   Write-Host "at line $line"
-}Script result
+}
+Script result
 reference: agn1sfs6hcemt
 product-name: Billing_quad
 contact:
@@ -127,7 +129,8 @@ subtotal: 396.00
 vat: 91.08
 vat-percents: 23.0
 total: 487.08
-total-minor: 48708Additional information
+total-minor: 48708
+Additional information
 - The response can use the accept header application/vnd.keepit.v0+xml or application/vnd.keepit.v1+xml.
 - key – Accept
 - value - application/vnd.keepit.v1+xml

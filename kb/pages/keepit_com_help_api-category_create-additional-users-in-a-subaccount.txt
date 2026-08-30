@@ -1,16 +1,54 @@
 Source URL: https://www.keepit.com/help/api-category/create-additional-users-in-a-subaccount/
 Content type: Web page
-Last modified: 2025-10-16T09:59:26+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T23:53:54+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
-Create additional users (tokens) in a subaccount
 This command allows you to create additional users (access tokens) in a subaccount.
 When you create a subaccount, you also get one access token for one user. You can create additional users (tokens) for a newly created subaccount.
 In other words, when a subaccount is created, one user (access token) is automatically created. However, you can create additional ones via an API call if needed.
-API request
-Method POST
-/users/{subaccount_id}/tokens/
-Elements table
-Root object element: token
+User role. Determines the token access and permissions. The list of user roles can be found below.
+Only one of two is applicable.
+type
+String
+Optional
+LEGACY. ACL element should be used instead.
+descr
+string
+Mandatory
+Short textual description of the token (e.g., name of device).
+aname
+string
+Mandatory
+Token email.
+apass
+string
+Mandatory
+Token password.
+lifetime
+ISO 8601 period
+Optional
+Lifetime of the token.
+If not provided, the token lifetime is unlimited.
+expires
+timestamp
+Optional
+Specific date and time when the token will expire.
+Format: `YYYY-MM-DDTHH:MM:SSZ` (ISO 8601)
+device
+string
+Optional
+An optional ID of the target device (for device tokens).
+primary
+boolean
+Optional
+Indicates if this is a user (primary) token or an API (secondary) token. Possible values: "true" or "false". If the element is not included, the API (secondary) token will be created by default.
+All user tokens should be primary (<primary> element set to "true"), unless you are creating an API (secondary) token. Only API tokens are not primary.
+singleuse
+boolean
+Optional
+Indicates if the token is valid for a single use only. Should be set to "true" if the user should expire after a single use.
+All user tokens should have the <primary> element (set to "true"), unless you are creating an API (secondary) token. Only API tokens are not primary. In case the <primary> element is not indicated in the body, the API (secondary) token will be created by default.
+The user (token) will be created in the account that is indicated in “$userID” in the script.
+The password for the new token (<apass> node in the body) should be isolated in the script in order to support the special symbols. Replace the string “EnterYourPasswordHere!” with the password you wish to set.

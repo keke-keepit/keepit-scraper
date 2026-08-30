@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/mcp-category/ai-client-setup-guide/
 Content type: Web page
-Last modified: 2026-05-25T13:08:26+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T22:15:26+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -48,7 +48,8 @@ Option B — Manual config (claude_desktop_config.json)
 }
 }
 }
-}Verify:
+}
+Verify:
 Ask Claude:
 “Do I have any unhealthy connectors?”
 Cursor
@@ -70,7 +71,8 @@ Setup
 }
 }
 }
-}Restart Cursor.
+}
+Restart Cursor.
 Usage:
 Switch to Agent Mode (Ctrl + .) and ask:
 “Show me unhealthy Keepit connectors.”
@@ -91,7 +93,8 @@ Add .vscode/mcp.json:
 }
 }
 }
-}Open Copilot Chat in Agent mode.
+}
+Open Copilot Chat in Agent mode.
 If MCP tools do not appear, enable:
 chat.mcp.enabled
 ChatGPT Desktop
@@ -137,7 +140,8 @@ Edit anythingllm_mcp_servers.json:
 }
 }
 }
-}Restart AnythingLLM.
+}
+Restart AnythingLLM.
 LM Studio
 Transport: stdio (partial)
 Note: MCP is supported, but stdio behavior varies by version.
@@ -155,7 +159,8 @@ Open Program > Install > Edit mcp.json:
 }
 }
 }
-}Restart LM Studio.
+}
+Restart LM Studio.
 Jan (Full stdio support)
 Jan has integrated MCP as a core feature, with native stdio support.
 Transport: stdio
@@ -180,7 +185,8 @@ Setup via Jan settings (recommended)
 }
 }
 }
-}Manual file location
+}
+Manual file location
 - macOS: ~/Library/Application Support/jan/settings/settings.json
 - Windows: %APPDATA%\jan\settings\settings.json
 Requirements

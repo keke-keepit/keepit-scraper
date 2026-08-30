@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/salesforce-category/anonymize-salesforce-data-during-restore/
 Content type: Web page
-Last modified: 2025-12-03T15:43:43+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-08-26T21:19:42+02:00
+Retrieved: 2026-08-30
 
 ============================================================
 
@@ -15,13 +15,13 @@ You can choose from the following anonymization methods:
  
  Example: Original: john.doe@example.com → Redacted: null
  
- Supported for all nullable fields
+Supported for all nullable fields
 - Hashing 
  Replaces the field value with a hashed string, making it unreadable and irreversible, while maintaining uniqueness.
  
  Example: Original: John→ Hashed: a93f5be321d9...
  
- Supported Field Types:
+Supported Field Types:
 - Text
 - Text Area
 - Long Text Area
@@ -29,7 +29,7 @@ You can choose from the following anonymization methods:
  Randomly replaces each field value with another value from the same field across different records. This keeps data realistic while anonymizing the source.
  
  Example: Record 1: "Alice" and Record 2: "Bob" → Record 1: "Bob" and Record 2: "Alice"
- Supported for all anonymizable fields.
+Supported for all anonymizable fields.
 Note: Shuffling is disabled automatically when over 1,000,000 records are selected to avoid performance issues.
 Field eligibility and behavior
 - Fields that are non-nullable (such as Reference or ID fields) cannot be anonymized. The checkbox will be disabled with a tooltip explaining why.
