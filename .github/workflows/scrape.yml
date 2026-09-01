@@ -85,8 +85,7 @@ jobs:
 
             if (modified.length > 0) {
               entry += `Modified (${modified.length}):\n`;
-              modified.slice(0, 10).forEach(url => entry += `- ${url}\n`);
-              if (modified.length > 10) entry += `- (... and ${modified.length - 10} more)\n`;
+              modified.forEach(url => entry += `- ${url}\n`);
               entry += '\n';
             }
 
