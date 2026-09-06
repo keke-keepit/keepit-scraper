@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/security/data-centers/
 Content type: Web page
-Last modified: 2026-03-09T23:58:27+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-09-03T23:32:37+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
@@ -19,7 +19,7 @@ With this structure, we keep four copies of data across at least two physical lo
 Read more about data center certifications
 Certified security
 Keepit’s security certifications
-To ensure the highest operational security standards, Keepit holds both the ISO/IEC 27001 and the ISAE 3402-II certifications (audited by Deloitte annually).
+Keepit is ISO/IEC 27001 certified, and its operational and security controls are independently audited in a SOC 2 Type II report, available to customers and prospects on request.
 Our trusted data center partners
 Keepit’s primary data center partner is Equinix. Equinix data centers are globally recognized for exceptional levels of security. Each data center has full copies of user data, with two mirrored physical locations, our clients can rest assured that their data will always be available to them, regardless of their SaaS vendor’s status.
 Keepit can confidently guarantee that our infrastructure ensures all customers' data will remain in situ, with no middleware transmissions outside regions.

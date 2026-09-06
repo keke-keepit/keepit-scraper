@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — HELP
-Generated: 2026-08-30
+Generated: 2026-09-06
 Pages: 374
 ============================================================
 
@@ -5080,16 +5080,20 @@ Note: Some fields retrieved from the Users endpoint come from the Autodesk Profi
 
 Source URL: https://www.keepit.com/help/autodesk-forma-category/create-an-autodesk-forma-connector/
 Content type: Web page
-Last modified: 2026-07-09T09:21:45+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-02T16:34:50+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
 Create an Autodesk Forma connector
 Requirements
 Before you begin, make sure you have:
-- Hub Admin access in your Autodesk Forma instance.
 - Autodesk Platform Services (APS) activated on your Autodesk account. To acquire it, see Autodesk Platform Services on the Autodesk website.
+The authorized user must also meet the following conditions:
+- Assigned the Hub Admin role.
+- Assigned to the project.
+- The Build product activated for each project.
+- The Data Management product activated for each project.
 Part 1: Create the integration application in Autodesk Platform Services
 1. Sign in at aps.autodesk.com.
 2. Go to Developer Hubs, then select Applications.

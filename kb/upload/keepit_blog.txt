@@ -1,29 +1,33 @@
 KEEPIT KNOWLEDGE BASE — BLOG
-Generated: 2026-08-30
-Pages: 136
+Generated: 2026-09-06
+Pages: 138
 ============================================================
 
 Source URL: https://www.keepit.com/blog/
 Content type: Web page
-Last modified: 2026-08-21T09:34:24+02:00
-Retrieved: 2026-08-23
+Last modified: 2026-09-04T09:38:27+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
-When the cloud goes dark: Resilience lessons from hybrid threats
-Read customer case
-Read the report
-Watch on-demand
-Watch now
-Download whitepaper
-Read the report
-Register now
-Careers at Keepit
-Find a partner
-Watch now
-Industry experts sharing insights and experiences to help empower intelligent decisions for data resilience
 Filter content:
-Microsoft's Entra Backup and Recovery is now generally available. Here are four questions to ask before you rely on it as your only identity recovery plan.
+The Keepit blog
+Industry experts sharing insights and experiences to help empower intelligent decisions for data resilience
+Inside Keepit
+September 4, 2026 | 5 minutes
+Is your data the raw material that will build your competitive advantage?
+Compliance drove your investment in immutable backup. Data provenance is what turns it into verified raw material for the AI you're building next.
+Inside Keepit
+August 31, 2026 | 4 minutes
+From passive to active: How AI Truth Cloud turns backup into infrastructure
+Infrastructure and operations
+August 21, 2026 | 4 minutes
+Microsoft Entra Backup and Recovery is now generally available. Is it enough?
+Security
+July 27, 2026 | 5 minutes
+When a rogue AI agent reaches production, what can you trust?
+Security
+July 27, 2026 | 5 minutes
 
 ------------------------------------------------------------
 
@@ -350,6 +354,79 @@ What to expect next for Keepit AI integration and MCP
 Our AI integration is a practical way to let AI participate in backup and recovery without moving data or giving up control. We’ll expand the tool coverage and skill library where admins and customer insight see the most value. Any move into actions will retain the same discipline: guardrails, approvals, and easy rollback.
 In the third and final blog of this AI series, we’ll explore what becomes possible next as AI matures in data protection — and how to pursue it without compromising control, independence, or the ability to roll back changes.
 For more information on our AI preview program for existing customers (or to join), visit the Keepit AI preview program.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/blog/ai-truth-cloud-active/
+Content type: Web page
+Last modified: 2026-09-04T09:43:18+02:00
+Retrieved: 2026-09-06
+
+============================================================
+
+From passive to active: How AI Truth Cloud turns backup into infrastructure
+There's a conversation that happens a lot in our industry, and it goes roughly like this: "Tell me about your backup strategy."
+For most of the last two decades, that conversation lived firmly in the IT room: a storage administrator, a disaster recovery plan, an RPO (recovery point objective) and an RTO (recovery time objective) written into a policy document somewhere. Important work, but not a board conversation.
+That's changing, and faster than most people realize.
+At Keepit, we've moved through four distinct stages of what data protection means — each one building on the last (but not replacing) and each one changing who the conversation needed to reach. Data protection started out as passive backup, but a new avenue of value today is tied to backup becoming active. And that shift matters more now than it ever has.
+The evolution of a discipline
+Backup: Protect data from loss
+In the early days, the value proposition was simple: We have a copy of your data. The measure of success was an IT manager taking tapes home every Friday night, literally carrying data out of the building so that something existed somewhere else. Backup as a service (BaaS) was pure insurance — passive, invisible, and never really talked about until something went wrong or was needed.
+Recovery: Fast business recovery
+Having a copy wasn't enough. You needed to know you could actually use it — that the restore worked, that you could restart your business in hours rather than weeks. Recovery time and recovery point targets became real rather than theoretical. Disaster recovery as a service (DRaaS) entered the picture, and Keepit was built on this foundation: Back up your data and be able to bring it all back rapidly so that you get back on track.
+Cyber resilience: Survive active adversaries
+When ransomware attacks reached board agendas and regulators began mandating specific resilience capabilities, the question shifted again. Data protection as a service (DPaaS) arrived. Best practices called for immutability, air-gapped infrastructure, and independence from the original cloud provider. These weren't nice-to-have features anymore — they were the foundation of a credible resilience strategy. Keepit had these all along in our purpose-built platform. We helped organizations maintain access to known-good backup data even when everything around it was compromised.
+Trusted enterprise operations: Run the enterprise on data the AI can trust
+We're now entering the fourth stage, and this one doesn't just change who buys; it adds to the value of data protection and what it's fundamentally for. It's the stage we built AI Truth Cloud for — the layer that lets organizations verify the authenticity, provenance, and integrity of their data before it ever reaches an AI system.
+The AI shift is rewriting the rules
+Here's what I've been watching closely. McKinsey's 2025 State of AI survey found that 88% of organizations are now using AI in at least one business function — up from 78% the year before. Around a third of all new CEO initiatives are now AI-related, and the executives being asked to lead those projects are, in most cases, not the CTO or the CIO. They're the CFO and the COO — business leaders accountable for outcomes, not infrastructure.
+That shift tells you everything about what data protection needs to become. The CFO running an AI initiative doesn't think about recovery time objectives; they're asking one question: Can we trust the data this AI is running on? Because AI systems are probabilistic, not deterministic — NIST's Generative AI Profile identifies this as 'confabulation': AI producing confident, authoritative-sounding outputs that are factually wrong.
+And when an agent acts on enterprise data and writes something back, the next agent reasoning over that same data is working with whatever the first one changed. If the first agent made a mistake, that mistake becomes part of the data landscape, compounding silently. By 2028, 50% of organizations will implement a zero-trust posture for data governance due to the proliferation of unverified AI-generated data — a risk that compounds the longer it goes unaddressed.
+How to shift backup from passive to active
+Here's what I find genuinely exciting about this moment. Everything we've built — the immutability, the independence from the primary cloud provider, the air-gapped copies that exist outside the reach of any hyperscaler — was built for recovery, resilience, and speed. And those same properties are exactly what an AI-enabled enterprise needs as a trusted data foundation.
+Keepit already runs integrity and provenance checks on every piece of data that enters our platform. We know what the data is, when it arrived, which version it represents, where it's been, and whether or not it's been altered. We can append to the record but never overwrite it, which is what makes it the foundation of the data layer that organizations need to run AI responsibly.
+Trusted enterprise operations is the new mandate
+Gartner predicts that 75% of enterprises will prioritize SaaS application backup as a critical requirement by 2028, up from around 15% today. The direction is clear: The organizations that will lead aren't just the ones that have their data backed up, they're the ones treating that backup as the active foundation that everything else runs on.
+At Keepit, it's what's always been at our core. We're not pivoting or moving from selling backup to something else. The AI Truth Cloud builds on that same independence. It's still the verified data fabric enterprises can trust, but what changes now is how data is being used in the AI era and why it matters to them.
+Backup used to answer one question: Can we get the data back? AI is making companies ask something bigger: Can we trust the data our business is running on? It means data protection is no longer a cost of doing business, but rather the foundation of doing business you can trust.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/blog/ai-truth-cloud-competitive-advantage/
+Content type: Web page
+Last modified: 2026-09-04T09:35:31+02:00
+Retrieved: 2026-09-06
+
+============================================================
+
+Is your data the raw material that will build your competitive advantage?
+A few months ago, a customer told me something I've been thinking about ever since.
+They'd deployed immutable, independently stored backup a couple of years earlier, not because they were excited about backup strategy, but because their compliance team said they had to. Regulatory obligations, a board that needed to show auditors a clean record. Defensive spending. Check the box and move on. Now they were in a meeting about their enterprise AI rollout, and someone asked the question that stops every AI project eventually: How do we know we can trust the data this is running on?
+And they realized they already had the answer.
+This is the shift I'm watching across the market: a compliance investment made passively, out of obligation, quietly becoming the raw material for everything an enterprise is now trying to build.
+Why compliance got us here
+The regulatory wave of the last few years — DORA, NIS2, GDPR, and similar frameworks across different jurisdictions — pushed organizations to take SaaS data protection seriously in ways that good judgment alone hadn't always managed to do.
+You could debate the merits of your backup strategy, but you couldn't debate a regulatory obligation. The EU AI Act is raising the bar further still, placing specific obligations on high-risk AI systems around data quality, auditability, logging, and documentation.
+The result of these compliance requirements was widespread investment in immutable, independently stored, air-gapped backup: Data that couldn't be altered, with a complete audit trail, living outside the reach of the primary cloud provider and unreachable by whatever was happening upstream. Most organizations treated this as the cost of compliance — a price worth paying to avoid fines and satisfy auditors. Necessary, but not strategic.
+What they didn't fully realize yet was that they'd invested in something with additional value beyond the compliance record: They created operational memory. And what started as a backup and recovery compliance requirement is beginning to look a lot like AI infrastructure.
+What your peers are only now discovering
+IBM's 2026 Cost of a Data Breach Report found that 68% of breached organizations lacked AI governance policies to manage AI, and that 92% of those that experienced an AI-related security incident lacked proper AI access controls. Most enterprises are only now confronting what our customer confronted in that meeting, and most of them don't have an answer.
+If you've invested in immutable, independent backup for compliance reasons, you're not starting from scratch on that question. The data foundation most organizations are scrambling to build — verifiable, tamper-proof, with a complete audit trail — you already have. The compliance obligation that felt like overhead is looking, in hindsight, like the right call made for a different reason.
+Provenance: An old idea whose time has come
+In the art world, provenance is the documented history of a work, such as where a painting has been, who's owned it, what its full audit trail looks like. A Picasso without clear provenance is worth considerably less than one with an unbroken chain of ownership. That history isn't incidental to the value, it is the value.
+It's the same principle that governs raw materials. A steel fabricator wants the mill certificate. A pharmaceutical manufacturer wants a certificate of analysis on every incoming ingredient. It’s not because the paperwork is interesting, but because unverified input contaminates everything built from it, and by the time anyone finds out, the thing you built is already out in the world. That’s where we are now with AI and data.
+Data provenance isn’t a new idea, but what is new is just how much now rides on it. IBM defines data provenance as the historical record of a dataset's origins, captured as metadata as it moves through processes and transformations, concerned primarily with authenticity: who created the data, what's been modified, and who made those changes.
+Your backup is that provenance record. An immutable, independently stored backup is more than a recovery copy — it's operational memory: a tamper-proof record of what the data looked like at a point in time, unalterable by any agent, any upgrade, or any attack.
+You may have chosen it for compliance reasons, most likely because a regulator told you to, but you have it, which means you're holding more than a clean audit record: You're holding the raw material for whatever you decide to build next.
+The flip: From passive compliance to active advantage
+When your AI is grounded in data with verified provenance, the output inherits that verification. You can trace a decision back to the record it came from, show the record hasn't been altered, and prove it to an auditor, a regulator, a customer, or a board that wants to know why the system did what it did.
+The difference isn't what gets built, it's that you can stand behind what it produces. That advantage compounds. The more AI decisions an organization makes, the more it matters that those decisions are grounded in data you can trust.
+Meanwhile, the organizations that didn't make this investment are writing governance policies, implementing access controls, and trying to establish data lineage from scratch — work you've already done, under a different name, for a different reason. And lineage only gets them part of the way: It tells you the route the data took. Provenance tells you whether to trust what arrived.
+From a line item to a strategy
+The direction of travel is clear. Gartner estimates that 75% of enterprises will prioritize SaaS application backup as a critical requirement by 2028, up from approximately 15% in 2024. But the organizations that'll lead aren't just the ones with their data backed up, they're the ones that recognize what that backup is actually worth and how to use it.
+I'm not suggesting that compliance-driven backup spending was visionary, because most of it wasn't. It was necessary and pragmatic, and compliance will keep driving adoption for years to come. But the capability those investments created has quietly turned into something else: A competitive advantage.
+What's been missing is a way to put it to work, and that's where Keepit’s AI Truth Cloud comes in, verifying the authenticity, provenance, and integrity of your data before it's used to train, ground, or guide an AI system.
+Which brings me back to where I started: Is your data the raw material for what you build next? It can be, but only if you can prove where it came from and that nothing has touched it since. If you invested in immutable, independent backup because a regulator told you to, you might already be able to.
 
 ------------------------------------------------------------
 

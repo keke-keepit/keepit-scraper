@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/security/compliance/nis2/
 Content type: Web page
-Last modified: 2025-02-23T21:36:55+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-09-03T23:28:43+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
@@ -36,7 +36,7 @@ Digital Providers, like social networks and online marketplaces, also fall under
 To ensure compliance, organizations should delve into sector-specific cybersecurity challenges, embracing a thorough understanding of NIS2 requirements for a resilient and secure digital landscape.
 It’s easy to prepare for NIS2 compliance with Keepit
 At Keepit, we’ve designed a data protection platform to make compliance easy. Born and built in Europe, our infrastructure and your choice of data centers (Denmark, Germany, UK, among others) ensure complete data sovereignty.
-With leading security measures like logical air gapping, immutability, and encryption, we offer next-level cybersecurity. Count on us for full compliance with all current and future EU regulations, including GDPR and NIS2.
+With leading security measures like logical air gapping, immutability, and encryption, we offer next-level cybersecurity. Count on us to support full compliance with all current and future EU regulations, including GDPR and NIS2.
 Compliance across all your business SaaS applications
 Get business continuity through uninterrupted data availability with Keepit’s independent European cloud. Benefit from granular, instant, and prioritized disaster recovery of critical data in place. As a European-born company operating our own infrastructure, we have no sub-processors and provide unparalleled data sovereignty with a no-transmission guarantee.
 Which of your SaaS application data is critical to protect? Run a risk analysis to map out all the important data and critical infrastructure you need to protect to ensure business continuity.
@@ -47,4 +47,4 @@ As a European-born company with ownership and infrastructure in EU, our leading 
 Where will our data be stored?
 Always in the data center region you specify. Keepit is an EU company, and we own our own infrastructure. We currently have six data center regions: EU-DK, EU-DE, UKI, US, CA, and APAC. Your data will be stored in the region you choose, and it will never leave that region. This ensures compliance with all key European data protection requirements. Furthermore, a number of best-practice data security measures are employed to protect and safeguard your data, particularly immutability technology and encryption in transit and at rest.
 Which certifications do you have?
-As your trusted cloud backup vendor, we’re serious about the security of your data. Keepit and our data centers are certified by both ISO/IEC 27001:2013 and the ISAE 3402-II (audited by Deloitte annually). Even better, we are also not using any data sub-processors globally which means you can rest easy knowing your data is safe with us.
+As your trusted cloud backup vendor, we’re serious about the security of your data. Keepit is ISO/IEC 27001 certified, and its operational and security controls are independently audited in a SOC 2 Type II report, available to customers and prospects on request. Even better, we are also not using any data sub-processors globally which means you can rest easy knowing your data is safe with us.

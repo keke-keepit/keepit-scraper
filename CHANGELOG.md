@@ -1,5 +1,27 @@
 # Keepit KB Changelog
 
+## 2026-09-06
+
+Added (5):
+- https://www.keepit.com/blog/ai-truth-cloud-active/
+- https://www.keepit.com/blog/ai-truth-cloud-competitive-advantage/
+- https://www.keepit.com/partner-advisory-board-2026-information/
+- https://www.keepit.com/resources/events/partner-update-belgium/
+- https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf
+
+Modified (11):
+- https://www.keepit.com/
+- https://www.keepit.com/blog/
+- https://www.keepit.com/help/autodesk-forma-category/create-an-autodesk-forma-connector/
+- https://www.keepit.com/resources/events/
+- https://www.keepit.com/security/
+- https://www.keepit.com/security/compliance/nis2/
+- https://www.keepit.com/security/data-centers/
+- https://www.keepit.com/services/backup-azure-devops/
+- https://www.keepit.com/services/backup-google-workspace/
+- https://www.keepit.com/trust-center/
+- https://www.keepit.com/why-keepit/
+
 ## 2026-08-30
 
 Added (2):

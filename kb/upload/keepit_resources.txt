@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — RESOURCES
-Generated: 2026-08-30
-Pages: 92
+Generated: 2026-09-06
+Pages: 93
 ============================================================
 
 Source URL: https://www.keepit.com/resources/
@@ -444,8 +444,8 @@ Keepit has the solution. With true third-party cloud backup, Keepit offers you i
 
 Source URL: https://www.keepit.com/resources/events/
 Content type: Web page
-Last modified: 2026-08-28T20:30:10+02:00
-Retrieved: 2026-08-30
+Last modified: 2026-09-03T14:01:26+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
@@ -461,7 +461,7 @@ Group Chief Information Security Officer, Keepit
 Americas
 September 21-23, 2026 |Â SÃ£o Paulo, BrazilGartner CIO & IT Executive Conference 2026
 Conheça a Keepit na Conferência Gartner CIO & IT Executive 2026 em São Paulo, Brasil.
-Conecte-se com nossa equipe para saber como fortalecer a resiliência e a governança de dados em ambientes multicloud e SaaS. Obtenha insights estratégicos sobre como proteger, garantir a conformidade e manter a resiliência operacional, além de como transformar uma governança de dados sólida em uma base para a inovação impulsionada pela IA.
+Conecte-se com nossa equipe no estande #106 para saber como fortalecer a resiliência e a governança de dados em ambientes multicloud e SaaS. Obtenha insights estratégicos sobre como proteger, garantir a conformidade e manter a resiliência operacional, além de como transformar uma governança de dados sólida em uma base para a inovação impulsionada pela IA.
 Use o código CIOSB26EDC para obter um desconto de R$ 475,00 no seu ingresso aqui.
 Keepit: Como a Odebrecht transformou resiliÃªncia de dados em vantagem
 Data e horário: 22 de setembro de 2026, às 15h20 (BRT) Local: Teatro do Exhibit Showcase Código da sessão: TH13
@@ -480,9 +480,10 @@ Exchange perspectives with peers from the charities and housing sector navigatin
 Limited seats available — reserve your spot early.
 This event is exclusively intended for relevant Keepit customers and prospects from the charities and housing sector.
 Thank you for registering! Stay tuned to your email for confirmation of your seats and exclusive event details.
-AI doesn't create truth. It amplifies whatever it's given. Meet Keepit at Gartner IT Symposium/Xpo 2026 in Orlando, October 19–22, and hear why an independent, always-recoverable single point of truth is the foundation responsible AI adoption depends on.
+AI doesn't create truth. It amplifies whatever it's given. Connect with our team at booth #336 to hear why an independent, always-recoverable single point of truth is the foundation responsible AI adoption depends on.
 Use SYM36EDC to get $575 discount on your ticket here.
 Keepit: The foundation AI can't build itself — a single point of truth
+Date and Time: October 20 at 2:20 p.m. (EDT) Room: Future Directions Stage Session code: FD10
 AI doesn't create truth. It amplifies whatever it's given. As organizations expand AI across their SaaS applications, one lesson keeps resurfacing: you can't build a recovery strategy on the systems you need to recover from. This session explores why an independent, verified, and always-recoverable single point of truth is the foundation responsible AI adoption depends on — and why trust, recoverability, and AI strategy belong in the same conversation.
 In this session, you’ll learn:
 A clearer understanding of why recovery responsibility has always sat with the organization — not the platform
@@ -661,6 +662,44 @@ Hotel Ottilia - By Brøchner Hotels
 Enjoy Copenhagen a little longer!
 If desired, you can prolong your stay at the hotel, bearing the additional expense yourself. How? Fill the form with your arrival and departure dates when registering, and we will book the room for you.
 For any questions, please reach out to your Regional Partner Manager or Sophie Deschamps (sod@keepit.com).
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/events/partner-update-belgium/
+Content type: Web page
+Last modified: 2026-09-04T17:07:14+02:00
+Retrieved: 2026-09-06
+
+============================================================
+
+Keepit Partner Update
+Insight, enablement and connection — a stronger partnership
+The Keepit Partner Update is a regional event designed to keep you fully aligned with Keepit — our strategy, priorities, and direction.
+This update is about enablement and insight. You’ll get the knowledge you need to succeed with Keepit, hear what’s ahead, and gain practical takeaways you can apply directly to your business.
+We bring together partners across roles, sizes, and markets to share real experiences, learn from one another, and strengthen how we work together. The focus is simple: connect, learn, and move forward — together.
+Register now
+Event details
+What to expect
+The Keepit Partner Update is part of a new regional event series. Each session delivers strategic updates, practical insights, and opportunities for dialogue — designed to support a strong and aligned partnership. .
+What you’ll gain
+- Real partner stories and customer cases that inspire new businessâ¯
+- Clear insight into why Keepit is a solid, long-term business partnerâ¯
+- Practical enablement to strengthen pipeline, impact, and confidenceâ¯
+- A focused partner experience — facilitated by Keepit
+Parking information: 
+Parking Keerdok — Antonia Wolversstraat 1, 2800 Mechelen
+Location
+Het Anker 
+Mechelen, Belgium
+Agenda
+13:30–14:00 | Walk in and coffee
+14:00–14:05 | Welcome and introduction (Stefaan Leroux)
+14:05–14:35 | Channel strategy and vision: Becoming the most partner friendly vendor in the world (Alex Walsh and Jan Ursi)
+14:35–15:00 | Protect what's yours: The case for truly independent backup
+15:00–15:30 | Product roadmap update (James Clelland)
+15:30–16:00 | Vision of data protection in the AI era
+16:00-18:00 | Q&A, break, and guided tour of Het Anker with a tasting of the best beers in Benelux
+18:00 | Dinner at Het Anker
 
 ------------------------------------------------------------
 

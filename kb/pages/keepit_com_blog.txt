@@ -1,21 +1,25 @@
 Source URL: https://www.keepit.com/blog/
 Content type: Web page
-Last modified: 2026-08-21T09:34:24+02:00
-Retrieved: 2026-08-23
+Last modified: 2026-09-04T09:38:27+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
-When the cloud goes dark: Resilience lessons from hybrid threats
-Read customer case
-Read the report
-Watch on-demand
-Watch now
-Download whitepaper
-Read the report
-Register now
-Careers at Keepit
-Find a partner
-Watch now
-Industry experts sharing insights and experiences to help empower intelligent decisions for data resilience
 Filter content:
-Microsoft's Entra Backup and Recovery is now generally available. Here are four questions to ask before you rely on it as your only identity recovery plan.
+The Keepit blog
+Industry experts sharing insights and experiences to help empower intelligent decisions for data resilience
+Inside Keepit
+September 4, 2026 | 5 minutes
+Is your data the raw material that will build your competitive advantage?
+Compliance drove your investment in immutable backup. Data provenance is what turns it into verified raw material for the AI you're building next.
+Inside Keepit
+August 31, 2026 | 4 minutes
+From passive to active: How AI Truth Cloud turns backup into infrastructure
+Infrastructure and operations
+August 21, 2026 | 4 minutes
+Microsoft Entra Backup and Recovery is now generally available. Is it enough?
+Security
+July 27, 2026 | 5 minutes
+When a rogue AI agent reaches production, what can you trust?
+Security
+July 27, 2026 | 5 minutes

@@ -1,12 +1,12 @@
 KEEPIT KNOWLEDGE BASE — SECURITY
-Generated: 2026-08-30
+Generated: 2026-09-06
 Pages: 8
 ============================================================
 
 Source URL: https://www.keepit.com/security/
 Content type: Web page
-Last modified: 2026-01-08T23:19:46+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-09-03T23:53:05+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
@@ -42,7 +42,7 @@ Effortless compliance
 Compliance
 Keepit makes it easier to adhere to compliance requirements, whether it’s NIS2 or GDPR. Keepit’s independent cloud provides you with the confidence that your data is stored securely. Our data centers in seven regions guarantee data sovereignty.
 Security certifications
-Keepit stores your data in our regional data centers, separate from your SaaS vendor’s data. To ensure the highest operational security standards, Keepit holds both the ISO/IEC 27001 and the ISAE 3402-II certifications (audited by Deloitte annually).
+Keepit stores your data in our regional data centers, separate from your SaaS vendor’s data. Keepit is ISO/IEC 27001 certified, and its operational and security controls are independently audited in a SOC 2 Type II report, available to customers and prospects on request.
 Read more about compliance and continuity
 The intelligent choice
 Effortless and transparent - a trusted partner in disaster recovery and achieving compliance. Intelligently built solutions make for an intelligent choice.
@@ -121,8 +121,8 @@ Read more about DORA
 
 Source URL: https://www.keepit.com/security/compliance/nis2/
 Content type: Web page
-Last modified: 2025-02-23T21:36:55+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-09-03T23:28:43+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
@@ -157,7 +157,7 @@ Digital Providers, like social networks and online marketplaces, also fall under
 To ensure compliance, organizations should delve into sector-specific cybersecurity challenges, embracing a thorough understanding of NIS2 requirements for a resilient and secure digital landscape.
 It’s easy to prepare for NIS2 compliance with Keepit
 At Keepit, we’ve designed a data protection platform to make compliance easy. Born and built in Europe, our infrastructure and your choice of data centers (Denmark, Germany, UK, among others) ensure complete data sovereignty.
-With leading security measures like logical air gapping, immutability, and encryption, we offer next-level cybersecurity. Count on us for full compliance with all current and future EU regulations, including GDPR and NIS2.
+With leading security measures like logical air gapping, immutability, and encryption, we offer next-level cybersecurity. Count on us to support full compliance with all current and future EU regulations, including GDPR and NIS2.
 Compliance across all your business SaaS applications
 Get business continuity through uninterrupted data availability with Keepit’s independent European cloud. Benefit from granular, instant, and prioritized disaster recovery of critical data in place. As a European-born company operating our own infrastructure, we have no sub-processors and provide unparalleled data sovereignty with a no-transmission guarantee.
 Which of your SaaS application data is critical to protect? Run a risk analysis to map out all the important data and critical infrastructure you need to protect to ensure business continuity.
@@ -168,14 +168,14 @@ As a European-born company with ownership and infrastructure in EU, our leading 
 Where will our data be stored?
 Always in the data center region you specify. Keepit is an EU company, and we own our own infrastructure. We currently have six data center regions: EU-DK, EU-DE, UKI, US, CA, and APAC. Your data will be stored in the region you choose, and it will never leave that region. This ensures compliance with all key European data protection requirements. Furthermore, a number of best-practice data security measures are employed to protect and safeguard your data, particularly immutability technology and encryption in transit and at rest.
 Which certifications do you have?
-As your trusted cloud backup vendor, we’re serious about the security of your data. Keepit and our data centers are certified by both ISO/IEC 27001:2013 and the ISAE 3402-II (audited by Deloitte annually). Even better, we are also not using any data sub-processors globally which means you can rest easy knowing your data is safe with us.
+As your trusted cloud backup vendor, we’re serious about the security of your data. Keepit is ISO/IEC 27001 certified, and its operational and security controls are independently audited in a SOC 2 Type II report, available to customers and prospects on request. Even better, we are also not using any data sub-processors globally which means you can rest easy knowing your data is safe with us.
 
 ------------------------------------------------------------
 
 Source URL: https://www.keepit.com/security/data-centers/
 Content type: Web page
-Last modified: 2026-03-09T23:58:27+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-09-03T23:32:37+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
@@ -193,7 +193,7 @@ With this structure, we keep four copies of data across at least two physical lo
 Read more about data center certifications
 Certified security
 Keepit’s security certifications
-To ensure the highest operational security standards, Keepit holds both the ISO/IEC 27001 and the ISAE 3402-II certifications (audited by Deloitte annually).
+Keepit is ISO/IEC 27001 certified, and its operational and security controls are independently audited in a SOC 2 Type II report, available to customers and prospects on request.
 Our trusted data center partners
 Keepit’s primary data center partner is Equinix. Equinix data centers are globally recognized for exceptional levels of security. Each data center has full copies of user data, with two mirrored physical locations, our clients can rest assured that their data will always be available to them, regardless of their SaaS vendor’s status.
 Keepit can confidently guarantee that our infrastructure ensures all customers' data will remain in situ, with no middleware transmissions outside regions.
@@ -297,28 +297,50 @@ Trust in the compliance of your data protection strategy
 
 Source URL: https://www.keepit.com/trust-center/
 Content type: Web page
-Last modified: 2025-12-17T13:46:55+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-02T22:39:41+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
-NIS2 Directive
-Keepit enables compliance with this EU directive by protecting digital infrastructure and sensitive data through independently stored air-gapped backups. Our 24/7 accessibility and robust recovery measures ensure both cyber resilience and business continuity, core elements of NIS2. 
-Read more about NIS2
-GDPR
-Keepit’s platform facilitates GDPR adherence with enhanced data protection, especially against ransomware. We are the only backup provider fully supporting GDPR Articles 17 and 32, helping implement necessary workflows to achieve compliance. 
-Read our GDPR whitepaper
-CER
-With Keepit’s resilient backup solutions, critical entities align with CER (Critical Entities Resilience Directive) requirements, proactively managing risks to safeguard essential services and improve resilience through secure data storage and recovery. 
-Read more about CER
-SEC Guidelines
-Meeting SEC requirements involves strong cybersecurity practices. Keepit assists by protecting vital SaaS applications like Microsoft 365 and Entra ID, offering clear risk assessments, response plans, and business continuity support for essential functions. 
-Read more about SEC guidelines
-HIPAA
-Keepit’s solutions meet HIPAA’s retention requirements by securely storing data for up to 99 years, surpassing standard SaaS capabilities. This helps organizations retain compliance with healthcare regulations and maintain critical records. 
-Get our HIPAA e-book
-DORA
-In alignment with the EU’s DORA requirements, Keepit supports the financial sector with segregated backup systems (air gapped), granular recovery capabilities, and immutable data storage, ensuring business continuity and operational resilience. 
-Read more about DORA
+Keepit holds ISO 27001 certification and an independent SOC 2 Type II audit report, delivering regulatory-ready SaaS backup and recovery to organizations worldwide
+Globally recognized certifications
+ISO 27001 certification demonstrates Keepit’s commitment to robust information security practices. Our certified ISMS safeguards your data with strict access control, risk management, and data integrity standards.
+SOC 2 Type II audit reports verify Keepit’s operational controls, assuring clients of consistent data protection. Our independent audits ensure compliance and security for critical SaaS data.
+TISAX is a European information security standard developed by the German Association of the Automotive Industry (VDA). It evaluates how effectively organizations protect sensitive information, including customer data and intellectual property.
+TX-RAMP is Texas's state-level cloud security framework that standardizes risk assessment, authorization, and continuous monitoring for cloud services used by state agencies.
+EcoVadis certification is a globally recognized sustainability rating that evaluates a company’s environmental, social, and governance (ESG) performance across its supply chain.
+ISO 27001, ISO 9001, ISO 22301, ISO 14001, ISO 45001, ISO 50001, PCI DSS, SOC I type II, SOC II type II, Cyber Essentials, EU Code of Conduct, Climate Neutral Data Centre Pact
+EMEA
+London, United Kingdom
+(Equinix)
+ISO 27001, ISO 9001, ISO 22301, ISO 14001, ISO 45001, ISO 50001, PCI DSS, SOC I type II, SOC II type II, Cyber Essentials, EU Code of Conduct, Climate Neutral Data Centre Pact
+EMEA
+Zurich, Switzerland
+(Equinix)
+ISO 27001, ISO 9001, ISO 22301, ISO 14001, ISO 45001, ISO 50001, PCI DSS, SOC I type II, SOC II type II, Cyber Essentials, EU Code of Conduct, Climate Neutral Data Centre Pact
+Americas
+Washington DC, USA
+(Equinix)
+ISO 27001, ISO 22301, PCI DSS, NIST 800-53, SOC I type II, SOC II type II, HIPAA, HECVAT
+Americas
+Toronto, Canada
+(Equinix)
+ISO 27001, ISO 22301, PCI DSS, SOC I type II, SOC II type II
+APAC
+Sydney, Australia
+(Equinix)
+ISO 27001, ISO 14001, ISO 50001, ISO 9001, ISO 22301, SOC I type II, SOC II type II, PCI DSS
+Keepit supports your compliance efforts by providing independently stored, immutable backups with documented security controls - helping you meet specific requirements under GDPR, NIS2, DORA, and HIPAA
+How can Keepit backup help you meet GDPR compliance?
+Keepit helps ensure GDPR compliance by providing strong data protection against ransomware and supporting the implementation of essential regulatory workflows. Keepit fully implements GDPR's Article 17 and Article 32, making Keepit an essential tool for your GDPR compliance efforts.
+How does Keepit backup help you meet HIPAA compliance?
+The Health Insurance Portability and Accountability Act (HIPAA) mandates that related documents must be retained for a minimum of six years from their creation, or, in the case of policies, from their last effective date. These retention requirements often surpass the default capabilities provided by SaaS applications. Keepit, however, offers up to 99 years of customizable retention options.
+Keepit facilitates compliance with the EU directive on protecting digital infrastructure, sensitive business information, and personal data. Ensuring cyber resiliency requires storing backups separately from primary data in an independent cloud infrastructure. This approach ensures compliance and business continuity, providing 24/7 data accessibility and robust recovery capabilities, which are key features of Keepit's backup and recovery service.
+Keepit holds ISO 27001 certification and an independent SOC 2 Type II audit report. Additionally, Keepit has successfully obtained industry-recognized certifications such as TISAX, TX-RAMP and EcoVadis, with more certifications planned.
+What are Keepit’s data center certifications?
+All of Keepit's data centers conform to a high physical security baseline and hold ISO 27001 certification, supplemented by additional security standards. e.g. SOC-2, PCI/DSS, HIPAA, and NIST.
+Where will my data be stored with Keepit?
+Your backup data will be stored exclusively within the Keepit data center location of your choosing.
+To support data sovereignty requirements, customer data is stored within Keepit’s selected regional data locations in the Americas, Europe, or Asia-Pacific. Each region operates independently and is geographically isolated from the others, while leveraging an active-active architecture across multiple data centres within the region. This provides high availability, resilience, and redundancy, while ensuring that customer data remains within the chosen geographic region.
 
 ------------------------------------------------------------

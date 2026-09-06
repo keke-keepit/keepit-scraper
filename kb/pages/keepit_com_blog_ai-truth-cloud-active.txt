@@ -1,0 +1,32 @@
+Source URL: https://www.keepit.com/blog/ai-truth-cloud-active/
+Content type: Web page
+Last modified: 2026-09-04T09:43:18+02:00
+Retrieved: 2026-09-06
+
+============================================================
+
+From passive to active: How AI Truth Cloud turns backup into infrastructure
+There's a conversation that happens a lot in our industry, and it goes roughly like this: "Tell me about your backup strategy."
+For most of the last two decades, that conversation lived firmly in the IT room: a storage administrator, a disaster recovery plan, an RPO (recovery point objective) and an RTO (recovery time objective) written into a policy document somewhere. Important work, but not a board conversation.
+That's changing, and faster than most people realize.
+At Keepit, we've moved through four distinct stages of what data protection means — each one building on the last (but not replacing) and each one changing who the conversation needed to reach. Data protection started out as passive backup, but a new avenue of value today is tied to backup becoming active. And that shift matters more now than it ever has.
+The evolution of a discipline
+Backup: Protect data from loss
+In the early days, the value proposition was simple: We have a copy of your data. The measure of success was an IT manager taking tapes home every Friday night, literally carrying data out of the building so that something existed somewhere else. Backup as a service (BaaS) was pure insurance — passive, invisible, and never really talked about until something went wrong or was needed.
+Recovery: Fast business recovery
+Having a copy wasn't enough. You needed to know you could actually use it — that the restore worked, that you could restart your business in hours rather than weeks. Recovery time and recovery point targets became real rather than theoretical. Disaster recovery as a service (DRaaS) entered the picture, and Keepit was built on this foundation: Back up your data and be able to bring it all back rapidly so that you get back on track.
+Cyber resilience: Survive active adversaries
+When ransomware attacks reached board agendas and regulators began mandating specific resilience capabilities, the question shifted again. Data protection as a service (DPaaS) arrived. Best practices called for immutability, air-gapped infrastructure, and independence from the original cloud provider. These weren't nice-to-have features anymore — they were the foundation of a credible resilience strategy. Keepit had these all along in our purpose-built platform. We helped organizations maintain access to known-good backup data even when everything around it was compromised.
+Trusted enterprise operations: Run the enterprise on data the AI can trust
+We're now entering the fourth stage, and this one doesn't just change who buys; it adds to the value of data protection and what it's fundamentally for. It's the stage we built AI Truth Cloud for — the layer that lets organizations verify the authenticity, provenance, and integrity of their data before it ever reaches an AI system.
+The AI shift is rewriting the rules
+Here's what I've been watching closely. McKinsey's 2025 State of AI survey found that 88% of organizations are now using AI in at least one business function — up from 78% the year before. Around a third of all new CEO initiatives are now AI-related, and the executives being asked to lead those projects are, in most cases, not the CTO or the CIO. They're the CFO and the COO — business leaders accountable for outcomes, not infrastructure.
+That shift tells you everything about what data protection needs to become. The CFO running an AI initiative doesn't think about recovery time objectives; they're asking one question: Can we trust the data this AI is running on? Because AI systems are probabilistic, not deterministic — NIST's Generative AI Profile identifies this as 'confabulation': AI producing confident, authoritative-sounding outputs that are factually wrong.
+And when an agent acts on enterprise data and writes something back, the next agent reasoning over that same data is working with whatever the first one changed. If the first agent made a mistake, that mistake becomes part of the data landscape, compounding silently. By 2028, 50% of organizations will implement a zero-trust posture for data governance due to the proliferation of unverified AI-generated data — a risk that compounds the longer it goes unaddressed.
+How to shift backup from passive to active
+Here's what I find genuinely exciting about this moment. Everything we've built — the immutability, the independence from the primary cloud provider, the air-gapped copies that exist outside the reach of any hyperscaler — was built for recovery, resilience, and speed. And those same properties are exactly what an AI-enabled enterprise needs as a trusted data foundation.
+Keepit already runs integrity and provenance checks on every piece of data that enters our platform. We know what the data is, when it arrived, which version it represents, where it's been, and whether or not it's been altered. We can append to the record but never overwrite it, which is what makes it the foundation of the data layer that organizations need to run AI responsibly.
+Trusted enterprise operations is the new mandate
+Gartner predicts that 75% of enterprises will prioritize SaaS application backup as a critical requirement by 2028, up from around 15% today. The direction is clear: The organizations that will lead aren't just the ones that have their data backed up, they're the ones treating that backup as the active foundation that everything else runs on.
+At Keepit, it's what's always been at our core. We're not pivoting or moving from selling backup to something else. The AI Truth Cloud builds on that same independence. It's still the verified data fabric enterprises can trust, but what changes now is how data is being used in the AI era and why it matters to them.
+Backup used to answer one question: Can we get the data back? AI is making companies ask something bigger: Can we trust the data our business is running on? It means data protection is no longer a cost of doing business, but rather the foundation of doing business you can trust.

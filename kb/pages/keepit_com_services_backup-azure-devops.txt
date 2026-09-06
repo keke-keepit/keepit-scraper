@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-azure-devops/
 Content type: Web page
-Last modified: 2026-08-12T18:07:58+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-09-04T00:06:58+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
@@ -121,7 +121,7 @@ Asia: Sydney, Australia
 Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always go to that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, then Keepit will negotiate the moves with all affected customers prior to execution.
 What is the price?
 It depends on the Service Offering you choose. See more on our pricing page.
-Are you ISO27001, PCI, AICPA SOC, and ISAE3402 certified?
+Are you ISO27001 certified and SOC 2 Type II attested?
 Yes, to all the above.
 Further, uniquely to Keepit, our staff and software development are also ISO27001 certified — not just our data centers as most vendors. Read more.
 Are you GDPR compliant?

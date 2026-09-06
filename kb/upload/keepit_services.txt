@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — SERVICES
-Generated: 2026-08-30
+Generated: 2026-09-06
 Pages: 34
 ============================================================
 
@@ -1722,8 +1722,8 @@ What is covered?
 
 Source URL: https://www.keepit.com/services/backup-azure-devops/
 Content type: Web page
-Last modified: 2026-08-12T18:07:58+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-09-04T00:06:58+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
@@ -1843,7 +1843,7 @@ Asia: Sydney, Australia
 Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always go to that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, then Keepit will negotiate the moves with all affected customers prior to execution.
 What is the price?
 It depends on the Service Offering you choose. See more on our pricing page.
-Are you ISO27001, PCI, AICPA SOC, and ISAE3402 certified?
+Are you ISO27001 certified and SOC 2 Type II attested?
 Yes, to all the above.
 Further, uniquely to Keepit, our staff and software development are also ISO27001 certified — not just our data centers as most vendors. Read more.
 Are you GDPR compliant?
@@ -2300,8 +2300,8 @@ Once a customer chooses a Keepit region for backup, their data never leaves that
 
 Source URL: https://www.keepit.com/services/backup-google-workspace/
 Content type: Web page
-Last modified: 2026-08-13T18:23:44+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-09-04T00:00:02+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
@@ -2409,7 +2409,7 @@ Google’s default data protection does not protect you against human error, mal
 Do I need a backup solution if I already have Google Vault?
 Yes, Google Vault is not a backup tool.
 Google Vault is not designed to recover lost or corrupted data and it cannot perform a which is a critical feature of any third-party backup and recovery tool. Google itself explains why you shouldn’t use Google Vault as a backup tool on its support site.
-Are you certified by ISO27001, ISAE3402 PCI, AICPA SOC, HIPPA, or NIST?
+Are you ISO27001 certified and SOC 2 Type II attested?
 Further, uniquely to Keepit, our staff and software development are also ISO27001 certified – and not just our data centers as most vendors, so there’s no gaps. Read more here.
 Are you GDPR compliant?
 Of course, and we’re headquartered in Denmark, EU. Read more here.

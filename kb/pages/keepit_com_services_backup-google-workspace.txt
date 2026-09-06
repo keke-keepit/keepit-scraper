@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-google-workspace/
 Content type: Web page
-Last modified: 2026-08-13T18:23:44+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-09-04T00:00:02+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
@@ -109,7 +109,7 @@ Google’s default data protection does not protect you against human error, mal
 Do I need a backup solution if I already have Google Vault?
 Yes, Google Vault is not a backup tool.
 Google Vault is not designed to recover lost or corrupted data and it cannot perform a which is a critical feature of any third-party backup and recovery tool. Google itself explains why you shouldn’t use Google Vault as a backup tool on its support site.
-Are you certified by ISO27001, ISAE3402 PCI, AICPA SOC, HIPPA, or NIST?
+Are you ISO27001 certified and SOC 2 Type II attested?
 Further, uniquely to Keepit, our staff and software development are also ISO27001 certified – and not just our data centers as most vendors, so there’s no gaps. Read more here.
 Are you GDPR compliant?
 Of course, and we’re headquartered in Denmark, EU. Read more here.

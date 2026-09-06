@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/security/
 Content type: Web page
-Last modified: 2026-01-08T23:19:46+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-09-03T23:53:05+02:00
+Retrieved: 2026-09-06
 
 ============================================================
 
@@ -37,7 +37,7 @@ Effortless compliance
 Compliance
 Keepit makes it easier to adhere to compliance requirements, whether it’s NIS2 or GDPR. Keepit’s independent cloud provides you with the confidence that your data is stored securely. Our data centers in seven regions guarantee data sovereignty.
 Security certifications
-Keepit stores your data in our regional data centers, separate from your SaaS vendor’s data. To ensure the highest operational security standards, Keepit holds both the ISO/IEC 27001 and the ISAE 3402-II certifications (audited by Deloitte annually).
+Keepit stores your data in our regional data centers, separate from your SaaS vendor’s data. Keepit is ISO/IEC 27001 certified, and its operational and security controls are independently audited in a SOC 2 Type II report, available to customers and prospects on request.
 Read more about compliance and continuity
 The intelligent choice
 Effortless and transparent - a trusted partner in disaster recovery and achieving compliance. Intelligently built solutions make for an intelligent choice.
