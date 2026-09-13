@@ -1,12 +1,19 @@
 Source URL: https://www.keepit.com/help/product-updates/
 Content type: Web page
-Last modified: 2026-08-19T17:27:29+02:00
-Retrieved: 2026-08-23
+Last modified: 2026-09-09T13:19:06+02:00
+Retrieved: 2026-09-13
 
 ============================================================
 
 Keepit product updates
 ââWhat's new in the Keepit Platform
+10.25.0 - What's New in the Keepit Platform
+Zendesk: connector authorization with scoped admin access
+You can now authorize the Keepit Zendesk connector using scoped admin credentials, so teams with role-based Zendesk environments can set up and maintain backup without needing global admin access.
+What's new
+The Zendesk connector now supports authorization with scoped admin roles within Zendesk Support — you no longer need an account with full, unrestricted admin access. You can create or reauthorize the connector using the permissions your organization has already assigned, and Keepit will back up the Zendesk data those credentials can access.
+Why it matters
+Many organizations manage Zendesk with intentionally limited roles. This update removes a blocker that previously prevented connector setup in those environments, so you can protect your Zendesk data without changing your existing permission structure.
 10.24.0 - What's New in the Keepit Platform
 MCP toolbox: new tooling
 You can now achieve efficiencies by expanding the scope of the use of AI to cover additional monitoring, search and download jobs, and to automate tasks.

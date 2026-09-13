@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — PRESS
-Generated: 2026-09-06
-Pages: 124
+Generated: 2026-09-13
+Pages: 126
 ============================================================
 
 Source URL: https://www.keepit.com/newsroom/
@@ -80,13 +80,19 @@ For more brand assets, visit the Keepit brand center
 
 Source URL: https://www.keepit.com/press/
 Content type: Web page
-Last modified: 2026-08-06T17:09:29+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-09-10T14:10:40+02:00
+Retrieved: 2026-09-13
 
 ============================================================
 
 Filter content:
 Press
+Company
+Sept. 10, 2026
+Keepit surpasses $100 million in annual recurring revenue with the launch of AI Truth Cloud
+Company
+September 8, 2026
+Keepit selects ICOS for its Italian distribution: a strategic partnership for SaaS data protection and cyber resilience
 Strategy
 August 6, 2026
 Keepit launches AI Truth Cloud, solidifying long-term vision of data protection in the AI era
@@ -452,6 +458,33 @@ Jan. 16, 2020
 Keepit Column in Finans: The cloud is incredible â but also incredibly dangerous
 Company
 Nov. 27, 2019
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/press/100-million-in-arr/
+Content type: Web page
+Last modified: 2026-09-10T14:04:48+02:00
+Retrieved: 2026-09-13
+
+============================================================
+
+Keepit surpasses $100 million in annual recurring revenue with the launch of AI Truth Cloud
+Danish cloud data protection company reaches nine-figure milestone through continuous and strong growth, as backup becomes the trusted data foundation the AI era demands
+COPENHAGEN, Denmark — Sept. 10, 2026 — Keepit, the SaaS data protection expert, today announced it has surpassed $100 million in annual recurring revenue (ARR) as its AI Truth Cloud strategy, which reframes data protection as the trusted foundation AI-enabled enterprises run on, rather than simply insurance against loss, is driving customer adoption at scale.
+Since growth equity investor One Peak's initial investment in September 2020, the company has grown more than 13 times —a greater than 55% compound annual growth rate (CAGR) — serving organizations of every size, from single-seat small businesses to global enterprises, across its independent, vendor-neutral cloud infrastructure.
+"Reaching $100 million in ARR validates what we've always believed: that organizations everywhere need data protection that doesn't depend on the same hyperscalers that host their data," said Morten Felsvang, co-founder and CEO. "We've built this company to grow without sacrificing the things that matter: independence, sovereignty, immutable storage, and the trust of our customers. As our AI strategy fully comes to life, that momentum will continue."
+From passive backup to the active foundation AI runs on
+The $100 million milestone arrives as Keepit accelerates the AI Truth Cloud, giving enterprises a verified, independent source of truth for the data their AI systems depend on:
+"Backup used to answer one question: Can we get the data back?" said Frederik Schouboe, Keepit co-founder and chief visionary officer. "AI is making companies ask something bigger: Can we trust the data our business is running on? This means data protection is no longer a cost of doing business, but rather the foundation of doing business you can trust."
+That distinction is consequential. AI systems are probabilistic, not deterministic, and when an AI agent acts on enterprise data and writes something back, subsequent agents inherit whatever the first one changed. The integrity of underlying data is a business risk, not a technical footnote. Because Keepit stores data in an independent, vendor-neutral cloud and keeps the backups immutable, verifiable, and fully separated from primary SaaS providers, organizations have a record of what their data is, when it arrived, which version it represents, and whether it has been altered. And because that data is granularly restorable at any point in time, organizations can act on that record: rolling back to a known-good state, recovering a single item or an entire environment, without depending on the original SaaS provider to do it.
+The same infrastructure that helps mitigate the effects of ransomware and accidental loss now gives enterprises a source of truth they can run AI on with confidence.
+Independence as basis for trust
+Unlike backup solutions that store customer data on Microsoft, Google, or Amazon infrastructure, Keepit operates on independent data centers and an independent, vendor-neutral cloud. Customers retain access to their data even if they lose access to their primary SaaS provider — a capability that has become more critical as organizations deepen their SaaS footprints. That structural independence also addresses data sovereignty requirements that are increasingly material to enterprises in regulated industries and across jurisdictions with conflicting data residency rules.
+Serving a global market
+Keepit protects, manages and orchestrates data from SaaS applications across industries and geographies, spanning Microsoft 365, Google Workspace, Salesforce, and other widely adopted platforms, delivered through a global network of resellers, managed service providers (MSPs), and aggregators. With 700 employees, offices across Europe and the Americas, and data centers operating across seven regions worldwide, Keepit serves organizations of every size — including Luminus, Porsche Holding Salzburg, Carlsberg, HDI, KU Leuven, Oxford University Innovation, Saxo Bank, freenet, and Emmi — on a single platform built for both breadth and durability.
+About Keepit 
+As organizations adopt AI and agentic workflows, trusted and recoverable data becomes a business-critical foundation. Keepit delivers that foundation through a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no third-party sub-processors supports compliance with local regulations and helps mitigate the impact of ransomware while ensuring continuous data access, business continuity, and effective disaster recovery. Headquartered in Copenhagen with offices, data centers, and partners worldwide, Keepit is trusted by thousands of organizations for its ease of use and effortless backup and recovery of cloud data. 
+For more information visitâ¯www.keepit.comâ¯or follow Keepit onâ¯LinkedIn
 
 ------------------------------------------------------------
 
@@ -2438,6 +2471,33 @@ For more information about Keepit or to meet with a member of the US-based team 
 More information about Keepit:
 About Keepit
 Keepit is a Backup-as-a-Service company that provides dedicated data protection for companies with data stored in the cloud. Keepit is the world’s only vendor neutral and independent cloud dedicated to SaaS data protection. Headquartered in Copenhagen with offices and data centers globally, Keepit is trusted by thousands of companies worldwide to protect and manage their cloud data. For more information visit www.keepit.com or follow Keepit | LinkedIn.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/press/keepit-icos/
+Content type: Web page
+Last modified: 2026-09-08T11:55:23+02:00
+Retrieved: 2026-09-13
+
+============================================================
+
+Keepit selects ICOS for its Italian distribution: a strategic partnership for SaaS data protection and cyber resilience
+ICOS becomes the first and only distributor in the country for Keepit's cloud-native backup, disaster recovery, and data sovereignty solutions, with the goal of strengthening the channel ecosystem supporting Italian businesses
+Milan/Bolzano — September 8, 2026 — Keepit, the only vendor-independent, cloud-native SaaS data protection and recovery provider, and ICOS, a value-added distributor (VAD) of IT infrastructure and security solutions, announce they have signed a distribution agreement for Italy.
+Through this agreement, ICOS becomes Keepit's first distributor in the Italian market, taking responsibility for managing relationships with the network of resellers, system integrators, and Managed Service Providers (MSPs), and providing a commercial, technical, training, and marketing support ecosystem essential to effectively address the growing and complex challenges of cyber risk management.
+A fast-evolving market amid sovereignty, compliance, and AI
+The agreement comes at a crucial moment for the Italian digital landscape. The massive adoption of SaaS solutions and enterprise artificial intelligence models has pushed the cloud market past €8 billion in Italy, while also exposing organizations to new risks and regulatory compliance challenges tied to strict frameworks such as DORA, NIS2, and GDPR.
+"After the extraordinary results achieved in our first year of operations in Italy, the agreement with an established and authoritative distributor like ICOS represents a fundamental step for our growth strategy in the country," explains Luca Maiocchi, Keepit Country Manager Italy. "The Italian market is calling loudly for greater control, digital sovereignty, and guarantees of effective data recovery, especially in the face of spreading ransomware and the adoption of enterprise AI. Being able to count on a distributor like ICOS will allow us to expand our presence extensively and to offer partners and resellers the expertise needed to guide businesses toward true cyber resilience."
+"We are extremely proud to welcome Keepit into our portfolio of Data Protection and Cybersecurity solutions," adds Federico Marini, Managing Director of ICOS. "In a context where companies increasingly entrust their data to SaaS applications, the ability to guarantee operational continuity through immutable backup and rapid recovery, independent of the infrastructure vendor, has become an absolute priority. Keepit's cloud-native technology and its genuinely European roots represent a highly valuable differentiator for our partners. With our wealth of technical and commercial expertise, we are ready to support the channel in capitalizing on this extraordinary business opportunity."
+Innovation for the channel: from cyber resilience to the AI Truth Cloud
+With its entry into the ICOS portfolio, Italian partners will gain full access to Keepit's entire technology offering, including its recent evolution into the AI Truth Cloud, designed to transform backups into a verifiable, sovereign, and immutable data resource on which to safely build enterprise AI, as well as innovative solutions such as AI Safe Room and dedicated connectors for AI agents.
+ICOS will provide the reseller network with a streamlined business development path, including pre-sales support, certification programs, joint lead-generation activities, and ongoing support for developing managed services.
+Following the announcement of the partnership between the two companies, Keepit will take part in ICOSXperience on September 23, a conference where vendors and partners meet to share visions, insights, and opportunities in an increasingly complex market landscape. The event will take place in Lazise (VR); this year's theme is Cybersecurity in the Age of AI: Resilience, Automation, and Digital Trust.
+About Keepit
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no third-party sub-processors ensures compliance with local regulations and mitigates the impact of ransomware while guaranteeing continuous data access, business continuity, and fast and effective disaster recovery. Headquartered in Copenhagen with offices and data centers worldwide, thousands companies trust Keepit for its ease of use and effortless backup and recovery of cloud data. â¯â¯
+â¯For more information visitâ¯www.keepit.comâ¯or follow Keepit onâ¯Linkedin.â¯
+About ICOS
+ICOS is the value-added distributor (VAD) that offers channel partners IT solutions and services designed to successfully tackle the most complex business challenges. The company provides a comprehensive range of solutions in cybersecurity, IT infrastructure, and cloud. Thanks to numerous valuable partnerships, ICOS offers a complete set of solutions for organizations ranging from SMEs to large enterprises, complementing them with technical, marketing, and training services. With offices in Bolzano, Ferrara, Verona, and Milan, ICOS operates throughout the country. It has also expanded its commercial activity to include the Mediterranean region (Greece, Malta, Cyprus) and the Balkans (Slovenia, Croatia).
 
 ------------------------------------------------------------
 

@@ -1,5 +1,28 @@
 # Keepit KB Changelog
 
+## 2026-09-13
+
+Added (7):
+- https://www.keepit.com/customers/pharmalogic/
+- https://www.keepit.com/help/zendesk-category/permissions-for-zendesk-backup-and-restore/
+- https://www.keepit.com/press/100-million-in-arr/
+- https://www.keepit.com/press/keepit-icos/
+- https://www.keepit.com/resources/resilience-lessons-from-hybrid-threats-key-takeaways/
+- https://lp.keepit.com/hubfs/content-assets/EN/Resilience-lessons-from-hybrid-threats-key-takeaways.pdf
+- https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-PharmaLogic-Use-Case-EN.pdf
+
+Removed (1):
+- https://www.keepit.com/help/zendesk-category/reauthenticate-your-zendesk-account-in-keepit/
+
+Modified (7):
+- https://www.keepit.com/customers/
+- https://www.keepit.com/help/product-updates/
+- https://www.keepit.com/help/zendesk-category/create-a-zendesk-connector/
+- https://www.keepit.com/press/
+- https://www.keepit.com/resources/
+- https://www.keepit.com/resources/events/
+- https://www.keepit.com/partner-advisory-board-2026-information/
+
 ## 2026-09-06
 
 Added (5):

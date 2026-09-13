@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — HELP
-Generated: 2026-09-06
+Generated: 2026-09-13
 Pages: 374
 ============================================================
 
@@ -26594,13 +26594,20 @@ Note: The "Your connector needs to be reauthenticated" status will disappear onl
 
 Source URL: https://www.keepit.com/help/product-updates/
 Content type: Web page
-Last modified: 2026-08-19T17:27:29+02:00
-Retrieved: 2026-08-23
+Last modified: 2026-09-09T13:19:06+02:00
+Retrieved: 2026-09-13
 
 ============================================================
 
 Keepit product updates
 ââWhat's new in the Keepit Platform
+10.25.0 - What's New in the Keepit Platform
+Zendesk: connector authorization with scoped admin access
+You can now authorize the Keepit Zendesk connector using scoped admin credentials, so teams with role-based Zendesk environments can set up and maintain backup without needing global admin access.
+What's new
+The Zendesk connector now supports authorization with scoped admin roles within Zendesk Support — you no longer need an account with full, unrestricted admin access. You can create or reauthorize the connector using the permissions your organization has already assigned, and Keepit will back up the Zendesk data those credentials can access.
+Why it matters
+Many organizations manage Zendesk with intentionally limited roles. This update removes a blocker that previously prevented connector setup in those environments, so you can protect your Zendesk data without changing your existing permission structure.
 10.24.0 - What's New in the Keepit Platform
 MCP toolbox: new tooling
 You can now achieve efficiencies by expanding the scope of the use of AI to cover additional monitoring, search and download jobs, and to automate tasks.
@@ -30555,8 +30562,8 @@ Important notes
 
 Source URL: https://www.keepit.com/help/zendesk-category/create-a-zendesk-connector/
 Content type: Web page
-Last modified: 2026-06-22T13:16:13+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-11T09:24:19+02:00
+Retrieved: 2026-09-13
 
 ============================================================
 
@@ -30564,43 +30571,36 @@ Create a Zendesk connector
 Follow these steps to create a Zendesk connector and set up your backup configuration.
 1. On the Connectors page, select Add connector > Add Zendesk Ñonnector.
 2. Enter your company domain and then select Sign in.
-3. Sign in to Zendesk with an Admin account.
-4. Read through the permissions and select Allow.
-Note: You will be prompted for permissions only the first time you create a connector. Afterward, Keepit retains the permissions it needs.
+3. Sign in to Zendesk with an account that has admin-level access to the areas you want backed up. For details, see Permissions for Zendesk backup and restore.
+4. Review the permissions and select Allow.
+Note: Keepit only requests permissions the first time you create a connector and retains them for subsequent connectors.
 5. You will be redirected back to Keepit where you can configure your connector.
 Here you can:
 - Change the name of the connector
 - Configure your backup
 - Manage user access to the connector by selecting the lock icon
 - Limit the retention period by selecting the calendar icon
-6. Select Create. Your connector will be created and the first backup will be scheduled.
+6. Select Create.
+Keepit creates the connector and schedules the first backup.
 
 ------------------------------------------------------------
 
-Source URL: https://www.keepit.com/help/zendesk-category/reauthenticate-your-zendesk-account-in-keepit/
+Source URL: https://www.keepit.com/help/zendesk-category/permissions-for-zendesk-backup-and-restore/
 Content type: Web page
-Last modified: 2025-11-13T09:36:50+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-11T09:22:11+02:00
+Retrieved: 2026-09-13
 
 ============================================================
 
-Reauthenticate your Zendesk connector
-Why reauthentication is required
-Zendesk is transitioning to a new OAuth refresh token flow, which introduces short-lived access tokens that expire and must be refreshed using a refresh token. This change affects all integrations, including Keepit. Existing connections using permanent tokens will stop working unless you reauthenticate.
-To ensure uninterrupted backup of your Zendesk data in Keepit, please reauthenticate your Zendesk connector.
-How to reauthenticate your Zendesk connector
-1. Open your backup configuration and select Proceed on the dialog.
-2. Sign in to your dedicated service account. 
-Note: Ensure this account has the appropriate admin role.
-3. Follow the prompts to authorize Keepit to access your Zendesk account using the new OAuth flow.
-4. Once connected, your backups will continue without interruption.
-What happens if I don’t reauthenticate
-If you do not reauthenticate before the deadline:
-- Keepit will lose access to your Zendesk account.
-- Your Zendesk backups will stop.
-- Any new data in Zendesk will not be backed up until you reauthenticate. However, previously backed-up data will remain intact.
-Need Help?
-If you encounter any issues during the reauthentication process, please submit a support ticket through Keepit, and we’ll guide you step by step.
+Permissions for Zendesk backup and restore
+Keepit backs up whatever Zendesk data the connected account has admin-level access to. You can use a custom role scoped to just the areas you want backed up, rather than an account with full access to everything.
+For each area, Keepit checks the account's access level:
+- Admin — all required permissions for the area match the expected value. That area backs up completely.
+- User — at least one required permission is missing or mismatched. Keepit still attempts to back up that area, but you may see a warning, and the resulting snapshot could be incomplete or empty.
+- No access — none of the required permissions match. That area is excluded from backup and its toggle appears grayed out.
+Ticketing (Support)
+Tickets, Users, and Groups and Organizations require Admin-level access for the connector to be created. The remaining categories below (Views, Macros, Automations, and Triggers) aren't required; Keepit backs up whatever access level you grant them.
+To count as Admin-level for a given area, every required permission listed in the table must match its expected value. If none of them match, that area has No access and can't be backed up.
 
 ------------------------------------------------------------
 

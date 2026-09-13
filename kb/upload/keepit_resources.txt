@@ -1,16 +1,16 @@
 KEEPIT KNOWLEDGE BASE — RESOURCES
-Generated: 2026-09-06
-Pages: 93
+Generated: 2026-09-13
+Pages: 94
 ============================================================
 
 Source URL: https://www.keepit.com/resources/
 Content type: Web page
-Last modified: 2026-05-11T19:34:40+02:00
-Retrieved: 2026-08-02
+Last modified: 2026-09-11T14:00:00+02:00
+Retrieved: 2026-09-13
 
 ============================================================
 
-When the cloud goes dark: Resilience lessons from hybrid threats
+From data loss to bad AI decisions: The SaaS protection gap
 Read customer case
 Read the report
 Watch on-demand
@@ -444,8 +444,8 @@ Keepit has the solution. With true third-party cloud backup, Keepit offers you i
 
 Source URL: https://www.keepit.com/resources/events/
 Content type: Web page
-Last modified: 2026-09-03T14:01:26+02:00
-Retrieved: 2026-09-06
+Last modified: 2026-09-10T23:54:11+02:00
+Retrieved: 2026-09-13
 
 ============================================================
 
@@ -480,6 +480,13 @@ Exchange perspectives with peers from the charities and housing sector navigatin
 Limited seats available — reserve your spot early.
 This event is exclusively intended for relevant Keepit customers and prospects from the charities and housing sector.
 Thank you for registering! Stay tuned to your email for confirmation of your seats and exclusive event details.
+NIC is the Nordic Infrastructure Conference, the premier event in Norway for IT professionals and IT decision-makers. Now in its 14th year, NIC brings together practitioners, not vendors, for three days of hands-on technical sessions across four tracks: automation, cloud infrastructure, security, and IT and AI leadership. Less slides, more demos. Keepit is attending, with Chief Information Security Officer (CISO) Kim Larsen speaking.
+When the cloud goes dark: resilience lessons from hybrid threats
+Date and Time: Oct 15, 2026 | 3:40–4:40 p.m. Room: Room 4
+Hybrid threats blend cyberattacks, sabotage, and coercion, and cloud infrastructure is a prime target. Kim Larsen explores real-world scenarios where geopolitical tensions disrupt cloud services, why governance is now the foundation of resilience, and a 90-day framework that turns governance from a compliance exercise into measurable operational strength.
+Kim Larsen, Chief Information Security Officer (CISO), Keepit
+Americas
+October 19-22, 2026 | Orlando, FLGartner IT Symposium/Xpoâ¢ 2026 conference
 AI doesn't create truth. It amplifies whatever it's given. Connect with our team at booth #336 to hear why an independent, always-recoverable single point of truth is the foundation responsible AI adoption depends on.
 Use SYM36EDC to get $575 discount on your ticket here.
 Keepit: The foundation AI can't build itself — a single point of truth
@@ -1658,6 +1665,31 @@ Our webinar handout distills the key takeaways into practical next steps, includ
 - An adaptation of the 3-2-1 backup rule to the cloud world
 - A checklist with key next steps for improving your compliance posture
 Download the handout now to ensure your organization can meet evolving regulatory demands and enhance its level of operational resilience.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/resources/resilience-lessons-from-hybrid-threats-key-takeaways/
+Content type: Web page
+Last modified: 2026-09-11T13:54:55+02:00
+Retrieved: 2026-09-13
+
+============================================================
+
+Resilience lessons from hybrid threats: Key takeaways
+Outages used to last hours. Now they can last for days — and they rarely start where you expect. Power failures, cut subsea cables, cascading SaaS dependencies, and AI acting at scale are all changing what disruption looks like. The question isn't whether something will go wrong. It's how fast you'll know, and how quickly you can recover.
+This was the focus of a recent Keepit webinar, where a panel of experts explored the hybrid threat landscape and what organizations need to do now to survive when critical infrastructure fails.
+Here's what we learned:
+- Resilience has to be designed around what you don't control. 
+The instinct is to build recovery plans around systems you own. The real exposure is the SaaS platforms, cloud services, and third-party components outside your control — and those are often the first to fail.
+- Criticality has to come from the business, not IT. 
+IT can't decide alone which systems matter most. Without alignment with operations, finance, and production, recovery prioritization is guesswork — and people end up knocking on the wrong doors during an incident.
+- Governance frameworks are a starting point, not a finish line. 
+ISO 27001, NIS2, and similar certifications confirm that controls exist. Regular, realistic testing answers whether they actually work when you need them to. A resilience strategy that hasn't been validated isn't a strategy — it's just a plan.
+Our webinar handout captures the key insights and practical next steps from the session, including:
+- A practical three-step framework for building resilience
+- The biggest risks an organization faces when relying on SaaS
+- Why regular testing, immutable backups, and dependency mapping are the difference between hours of disruption and weeks
+Download the handout to explore how your organization can close the gaps before an incident forces the conversation.
 
 ------------------------------------------------------------
 

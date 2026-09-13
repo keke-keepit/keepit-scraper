@@ -1,0 +1,16 @@
+Source URL: https://www.keepit.com/help/zendesk-category/permissions-for-zendesk-backup-and-restore/
+Content type: Web page
+Last modified: 2026-09-11T09:22:11+02:00
+Retrieved: 2026-09-13
+
+============================================================
+
+Permissions for Zendesk backup and restore
+Keepit backs up whatever Zendesk data the connected account has admin-level access to. You can use a custom role scoped to just the areas you want backed up, rather than an account with full access to everything.
+For each area, Keepit checks the account's access level:
+- Admin — all required permissions for the area match the expected value. That area backs up completely.
+- User — at least one required permission is missing or mismatched. Keepit still attempts to back up that area, but you may see a warning, and the resulting snapshot could be incomplete or empty.
+- No access — none of the required permissions match. That area is excluded from backup and its toggle appears grayed out.
+Ticketing (Support)
+Tickets, Users, and Groups and Organizations require Admin-level access for the connector to be created. The remaining categories below (Views, Macros, Automations, and Triggers) aren't required; Keepit backs up whatever access level you grant them.
+To count as Admin-level for a given area, every required permission listed in the table must match its expected value. If none of them match, that area has No access and can't be backed up.

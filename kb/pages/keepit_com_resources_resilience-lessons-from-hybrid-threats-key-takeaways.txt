@@ -1,0 +1,22 @@
+Source URL: https://www.keepit.com/resources/resilience-lessons-from-hybrid-threats-key-takeaways/
+Content type: Web page
+Last modified: 2026-09-11T13:54:55+02:00
+Retrieved: 2026-09-13
+
+============================================================
+
+Resilience lessons from hybrid threats: Key takeaways
+Outages used to last hours. Now they can last for days — and they rarely start where you expect. Power failures, cut subsea cables, cascading SaaS dependencies, and AI acting at scale are all changing what disruption looks like. The question isn't whether something will go wrong. It's how fast you'll know, and how quickly you can recover.
+This was the focus of a recent Keepit webinar, where a panel of experts explored the hybrid threat landscape and what organizations need to do now to survive when critical infrastructure fails.
+Here's what we learned:
+- Resilience has to be designed around what you don't control. 
+The instinct is to build recovery plans around systems you own. The real exposure is the SaaS platforms, cloud services, and third-party components outside your control — and those are often the first to fail.
+- Criticality has to come from the business, not IT. 
+IT can't decide alone which systems matter most. Without alignment with operations, finance, and production, recovery prioritization is guesswork — and people end up knocking on the wrong doors during an incident.
+- Governance frameworks are a starting point, not a finish line. 
+ISO 27001, NIS2, and similar certifications confirm that controls exist. Regular, realistic testing answers whether they actually work when you need them to. A resilience strategy that hasn't been validated isn't a strategy — it's just a plan.
+Our webinar handout captures the key insights and practical next steps from the session, including:
+- A practical three-step framework for building resilience
+- The biggest risks an organization faces when relying on SaaS
+- Why regular testing, immutable backups, and dependency mapping are the difference between hours of disruption and weeks
+Download the handout to explore how your organization can close the gaps before an incident forces the conversation.

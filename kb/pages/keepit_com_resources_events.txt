@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/resources/events/
 Content type: Web page
-Last modified: 2026-09-03T14:01:26+02:00
-Retrieved: 2026-09-06
+Last modified: 2026-09-10T23:54:11+02:00
+Retrieved: 2026-09-13
 
 ============================================================
 
@@ -36,6 +36,13 @@ Exchange perspectives with peers from the charities and housing sector navigatin
 Limited seats available — reserve your spot early.
 This event is exclusively intended for relevant Keepit customers and prospects from the charities and housing sector.
 Thank you for registering! Stay tuned to your email for confirmation of your seats and exclusive event details.
+NIC is the Nordic Infrastructure Conference, the premier event in Norway for IT professionals and IT decision-makers. Now in its 14th year, NIC brings together practitioners, not vendors, for three days of hands-on technical sessions across four tracks: automation, cloud infrastructure, security, and IT and AI leadership. Less slides, more demos. Keepit is attending, with Chief Information Security Officer (CISO) Kim Larsen speaking.
+When the cloud goes dark: resilience lessons from hybrid threats
+Date and Time: Oct 15, 2026 | 3:40–4:40 p.m. Room: Room 4
+Hybrid threats blend cyberattacks, sabotage, and coercion, and cloud infrastructure is a prime target. Kim Larsen explores real-world scenarios where geopolitical tensions disrupt cloud services, why governance is now the foundation of resilience, and a 90-day framework that turns governance from a compliance exercise into measurable operational strength.
+Kim Larsen, Chief Information Security Officer (CISO), Keepit
+Americas
+October 19-22, 2026 | Orlando, FLGartner IT Symposium/Xpoâ¢ 2026 conference
 AI doesn't create truth. It amplifies whatever it's given. Connect with our team at booth #336 to hear why an independent, always-recoverable single point of truth is the foundation responsible AI adoption depends on.
 Use SYM36EDC to get $575 discount on your ticket here.
 Keepit: The foundation AI can't build itself — a single point of truth
