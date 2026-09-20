@@ -1,0 +1,32 @@
+Source URL: https://www.keepit.com/press/also-nordics/
+Content type: Web page
+Last modified: 2026-09-16T14:59:52+02:00
+Retrieved: 2026-09-20
+
+============================================================
+
+Keepit and ALSO enter into a strategic distribution agreement across the Nordics
+The agreement gives Nordic IT partners full access to Keepit's data protection and AI security platform
+Copenhagen, Denmark — September 16, 2026 – Keepit, the European specialist in vendor-independent SaaS data protection, today announced a strategic partnership with ALSO, one of Europe's leading IT distributors. Under the agreement, ALSO becomes Keepit’s distribution partner in Denmark, Sweden, Norway, and Finland, effective October 1, 2026.
+The agreement establishes a scalable, partner-driven model for the Nordics. Through ALSO, IT partners gain a local and efficient path to Keepit's full technology portfolio, while the partnership supports Keepit's continued growth across the region.
+Vendor independence and data sovereignty in a Nordic context
+Keepit is the only SaaS backup and recovery vendor that operates its own independent, sovereign cloud infrastructure with tamper-proof data storage, entirely separate from hyperscalers such as Microsoft, Google, or AWS. As a Danish company with its own data centers in Denmark and beyond, Keepit maintains full control over where data resides, guaranteeing that backup data is never stored in the same infrastructure as the original data. For Nordic organizations operating under increasingly stringent data sovereignty and compliance requirements, the distinction is significant: data stays in Europe, under European law, with a vendor that has no dependency on global hyperscalers.
+Through ALSO, Nordic IT partners gain local access to Keepit's technology combined with local invoicing, credit facilities, and channel expertise. ALSO will also lead partner recruitment and help existing partners build the commercial and technical skills needed to grow their data protection business.
+AI Truth Cloud: a secure data foundation for artificial intelligence
+As part of the agreement, ALSO's partner network gains access to the latest evolution of the Keepit platform: AI Truth Cloud. AI Truth Cloud is designed to turn backup data into a verifiable, sovereign, and tamper-proof data resource — a foundation from which Nordic organizations can develop AI initiatives securely and responsibly. This includes solutions such as AI Safe Room and dedicated connectors for AI agents, enabling organizations to build reliable AI workflows on a data layer they fully control.
+Quotes
+Jan Ursi, VP Global Channels, Keepit:
+ "ALSO is a strong and professional partner, and this is exactly the kind of strategic collaboration that drives real channel growth. We have worked closely with ALSO to ensure that Nordic partners get local, efficient access to Keepit — and that our own team is free to focus on what creates the most value: supporting partners on sales, technical questions, and practice development."
+Lars Christiansen, VP Sales Nordics and CEE, Keepit:
+ "The Nordic market has a distinct focus on data security, sovereignty, and compliance — and Keepit is built for exactly that. With ALSO as our distribution partner in the region, we have a strong local foundation that gives our partners a better position to win and deliver. This is growth done right."
+Espen Zachariassen, Regional Managing Director - North Europe, ALSO Group:
+"Keepit strengthens our portfolio with a vendor-independent platform that addresses partners' growing focus on data sovereignty, cyber resilience, and control over business-critical data. The partnership puts us in an even stronger position to support partners with relevant data protection solutions across the Nordics."
+Jacob Hjenner, Head of Consumptional Business - Danmark, ALSO:
+"Keepit is a Danish company with a platform built for what Nordic organizations are asking for: independence, security, and control over their own data. We look forward to bringing this to our partner network and helping them win new customers on that basis."
+About ALSO
+ALSO is one of the leading technology providers in the ICT industry, with operations in 28 countries and a global reach spanning 143 countries through its Platform-as-a-Service (PaaS) partners. The ALSO ecosystem comprises approximately 120,000 resellers, delivering hardware, software, and IT services from more than 700 vendors across over 1,450 product categories.
+ALSO is committed to enabling sustainable and responsible IT. To support this ambition, the company provides a comprehensive range of services, from distribution and logistics to refurbishment and lifecycle management, all from a single source.
+The business is structured around three core pillars: Supply, Solutions, and Services. Supply encompasses the transactional distribution of hardware and software. Solutions supports customers in the design and implementation of tailored IT solutions. Services focuses on subscription-based cloud offerings, as well as platforms for cybersecurity and AI-powered virtualization.
+ About Keepit  
+As organizations adopt AI and agentic workflows, trusted and recoverable data becomes a business-critical foundation. Keepit delivers that foundation through a next-level SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no third-party sub-processors supports compliance with local regulations and helps mitigate the impact of ransomware while ensuring continuous data access, business continuity, and effective disaster recovery. Headquartered in Copenhagen with offices, data centers, and partners worldwide, Keepit is trusted by thousands of organizations for its ease of use and effortless backup and recovery of cloud data. 
+For more information visit keepit.com or follow Keepit on LinkedIn

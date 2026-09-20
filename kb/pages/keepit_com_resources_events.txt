@@ -1,21 +1,10 @@
 Source URL: https://www.keepit.com/resources/events/
 Content type: Web page
-Last modified: 2026-09-10T23:54:11+02:00
-Retrieved: 2026-09-13
+Last modified: 2026-09-18T21:46:28+02:00
+Retrieved: 2026-09-20
 
 ============================================================
 
-Meet Keepit at Computerworld Cloud & AI Festival 2026 in Ballerup, Denmark.
-Connect with our team to learn how to strengthen resilience and data governance across hybrid and multicloud environments. Get strategic insight into protecting your data, staying compliant, maintaining operational resilience, and turning strong data governance into a foundation for AI-driven innovation.
-Computerworld Cloud & AI Festival 2026 takes place September 16–17, 2026 at Ballerup Super Arena. The event brings together more than 3,000 IT professionals, 70+ vendors, and 120+ speakers, with a focus on AI, infrastructure, data, compliance, and security.
-When the cloud goes dark: Resilience in an age of hybrid threats
-Geopolitical tensions and hybrid threats are placing new demands on companies’ cloud strategies. In this session, Kim Larsen, group chief information security officer at Keepit, shows how data governance and digital sovereignty strengthen both resilience and AI-readiness — and why they are critical to the business of the future.
-This session will be held in English.
-Speakers
-Kim Larsen,
-Group Chief Information Security Officer, Keepit
-Americas
-September 21-23, 2026 |Â SÃ£o Paulo, BrazilGartner CIO & IT Executive Conference 2026
 Conheça a Keepit na Conferência Gartner CIO & IT Executive 2026 em São Paulo, Brasil.
 Conecte-se com nossa equipe no estande #106 para saber como fortalecer a resiliência e a governança de dados em ambientes multicloud e SaaS. Obtenha insights estratégicos sobre como proteger, garantir a conformidade e manter a resiliência operacional, além de como transformar uma governança de dados sólida em uma base para a inovação impulsionada pela IA.
 Use o código CIOSB26EDC para obter um desconto de R$ 475,00 no seu ingresso aqui.
@@ -52,3 +41,20 @@ In this session, you’ll learn:
 A clearer understanding of why recovery responsibility has always sat with the organization — not the platform
 Practical insight into the SaaS data protection gaps that AI adoption makes more urgent, not less
 A framework for building a single point of truth that is independent, verified, and always recoverable
+Cyber Security Nordic 2026 brings together cybersecurity leaders, experts, and decision-makers from across the Nordics, Oct. 28-29 at the Helsinki Expo and Convention Centre, to explore resilience, geopolitical risk, and trust in digital systems.
+Meet Keepit there to talk about strengthening SaaS data protection, resilience, and governance as the foundation for responsible AI adoption. You can also catch Kim Larsen, our group chief information security officer (CISO), on the Gold Stage Oct. 28 at 4:15 p.m., presenting "Sovereignty first: The data foundation AI can't scale without." We look forward to meeting you in Helsinki.
+Sovereignty first: The data foundation AI can't scale without
+Date and Time: Oct 28, 2026 | 4:15–4:35 p.m. Location: Gold stage
+On Oct. 28 at 4:15 p.m. on the Gold Stage, Kim Larsen, group chief information security officer (CISO) at Keepit, presents "Sovereignty first: The data foundation AI can't scale without." He argues that AI readiness starts with data sovereignty and governance, not model selection, unpacking what it takes to know where your data lives, who can access it, and whether you can still reach it when a provider, region, or geopolitical situation changes. For partners advising customers on AI adoption, this session reframes governance as the prerequisite, not the afterthought.
+Every AI strategy runs into the same wall: control over data. In this 20-minute session, Kim Larsen, Group CISO at Keepit, argues that AI-readiness starts with data sovereignty and governance, not model selection. He unpacks the practical difference between application sovereignty and data sovereignty (why the former is out of reach for most organizations in the short term, while the latter is not), and what it takes to know where your data lives, who can access it, and whether you can still reach it when a provider, region, or geopolitical situation changes. For partners advising customers on AI adoption, this session reframes governance as the prerequisite, not the afterthought.
+Kim Larsen, Group Chief Information Security Officer (CISO), Keepit
+AI is only as reliable as the data behind it. It doesn't question what it's given — it just runs with it. Meet our team at booth #504 to find out why responsible AI adoption starts with an independent, always-recoverable single source of truth.
+Use ESC38EDC to get 10% off a full conference pass here.
+Keepit: The amplified case for data sovereignty in the age of AI
+Date and Time: November 11 at 11:30 a.m. (CET) Room: 117 Session code: SPS53
+Data integrity is the precondition for trustworthy AI. When the data feeding your AI is incomplete or detached from its origin, the outputs carry that uncertainty. That integrity depends on sovereignty — the ability to access, recover, and verify your data independently. Leave this session with a practical framework for evaluating true recoverability, and a stronger sense of why sovereignty, governance, and AI strategy are inseparable.
+You will leave this session with:
+A clearer understanding of why data sovereignty is foundational to a trustworthy single point of truth
+A framework for evaluating whether your organization can truly access and recover its data independently of the platforms it runs on
+Practical insight into how SaaS environments quietly erode data control — and what the accountability gap looks like in practice
+Kim Larsen, Group Chief Information Security Officer (CISO), Keepit

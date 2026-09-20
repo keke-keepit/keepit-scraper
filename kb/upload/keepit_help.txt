@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — HELP
-Generated: 2026-09-13
-Pages: 374
+Generated: 2026-09-20
+Pages: 375
 ============================================================
 
 Source URL: https://www.keepit.com/help/
@@ -12180,6 +12180,28 @@ Retrieved: 2026-07-21
 Why are Google Workspace items skipped during the backup?
 The most common reasons items are skipped during a backup are because we could not reach them due to such reasons as throttling, API failures, or inaccessibility from Google's side. The system will tag these items as skipped and try again to reach them during the next backup.
 Keepit also skips items that Google marks as malware or spam and does not allow us to process.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/help/hubspot-category/
+Content type: Web page
+Last modified: 2026-09-14T22:03:53+02:00
+Retrieved: 2026-09-20
+
+============================================================
+
+From data loss to bad AI decisions: The SaaS protection gap
+Read customer case
+Read the report
+Watch on-demand
+Watch now
+Download whitepaper
+Read the report
+Register now
+Careers at Keepit
+Find a partner
+Watch now
+Search
 
 ------------------------------------------------------------
 

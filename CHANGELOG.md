@@ -1,5 +1,20 @@
 # Keepit KB Changelog
 
+## 2026-09-20
+
+Added (4):
+- https://www.keepit.com/help/hubspot-category/
+- https://www.keepit.com/press/also-nordics/
+- https://www.keepit.com/resources/principles-of-true-saas-data-protection/
+- https://lp.keepit.com/hubfs/content-assets/EN/Principles-of-true-SaaS-data-protection-EN.pdf
+
+Modified (5):
+- https://www.keepit.com/press/
+- https://www.keepit.com/resources/events/
+- https://www.keepit.com/resources/webinars/
+- https://www.keepit.com/security/ransomware-recovery/
+- https://www.keepit.com/why-keepit-demo/
+
 ## 2026-09-13
 
 Added (7):

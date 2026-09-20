@@ -1,0 +1,485 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/Principles-of-true-SaaS-data-protection-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 14
+Retrieved: 2026-09-20
+
+============================================================
+
+Principles of 
+true SaaS data
+protection 
+AI adoption emphasizes 
+critical resilience gaps
+
+© 2026 Keepit. All rights reserved
+Principles of true SaaS data protection	
+	
+	
+	
+	
+	
+	
+ 
+Introduction	
+	
+	
+	
+	
+	
+	
+	
+	
+    	
+        2
+From disaster recovery to single source of truth	
+	
+	
+	
+	
+           3
+The history of backup...........................................................................................................................3 
+From passive insurance to active enabler.............................................................................................3
+The new data reality	
+	
+	
+	
+  	
+	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5
+SaaS data are an organization’s backbone...........................................................................................5 
+AI: the current technological disruptor.................................................................................................5
+The SaaS data protection gap	 	
+	
+	
+	
+	
+	
+           6
+Data without context is unusable..........................................................................................................7 
+The shared responsibility model...........................................................................................................8 
+The risk scenarios are not system-dependent......................................................................................8
+Operational truth is exposed................................................................................................................9
+The future of SaaS data protection	
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10
+Mapping data to business criticality....................................................................................................10 
+Assigning  ownership...........................................................................................................................11 
+Meeting the requirements of SaaS.......................................................................................................11 
+Validating the recovery process..........................................................................................................12
+The principles that close the protection gap	
+	
+	
+	
+	
+         13
+Contents
+
+Principles of SaaS data protection |  3
+© 2026 Keepit. All rights reserved
+Introduction
+SaaS has become the operational backbone of most businesses, but most organizations 
+are not protecting the underlying data the way they protect data across the rest of the IT 
+landscape. Customer records, financial transactions, and operational decisions all live 
+in SaaS applications today, and business is disrupted or stops the moment that data are 
+wrong, missing, or unreachable.
+AI further amplifies these points of failure. As agents and automations act directly on SaaS 
+data — reading it, summarizing it, deciding from it — the same data that once just supported 
+daily work now also drives decisions and actions no person may ever check. Where previous 
+data protection focused simply on securing backup as insurance for a worst-case scenario; 
+now the data in that backup must also serve as a source of truth that organizations — and 
+their AI — can trust.
+Today, a substantial gap exists between what SaaS vendors protect and what businesses 
+assume is protected, and it leaves most organizations exposed — not because SaaS data 
+aren’t seen as a key component of business continuity, but because the cost and steps of 
+protecting it haven’t been made clear.
+Marcelo Pereira
+Director of Product Marketing
+at Keepit
+
+Principles of SaaS data protection |  4
+© 2026 Keepit. All rights reserved
+From disaster recovery to 
+single source of truth
+The history of backup
+The practice of creating duplicate copies of important records for 
+verification and protection dates back to ancient civilizations of 
+Mesopotamia and Egypt, where scribes produced parallel copies of 
+administrative and legal documents to prevent loss and tampering. 
+In the Roman Empire, additional redundancy was introduced with 
+centrally stored copies supplementing local city archives, as these 
+were commonly destroyed during uprisings. The process and 
+principles were further refined through centuries: monasteries 
+copying manuscripts, the printing press enabling mass replication, 
+microfilm compacting archives for secure off-site storage, and 
+physical vaults protecting the most sensitive records.
+Duplication, off-site distribution, and physical hardening changed 
+shape with every era, documenting that the approach to backup 
+has gone through massive technological shifts: from handwriting 
+to the printing press to digital, and from paper to tape to cloud 
+storage. Technology changes; the purpose of backup and the logic 
+of resilience do not.
+In the computing era, backup has evolved in parallel with IT 
+architecture. Backups started as complete 1:1 system dumps, but as 
+file systems and databases emerged, the data layer was separated 
+from the system. Backing up data only gave more flexibility and 
+required less storage, but made full system restores cumbersome 
+and slow. Virtualization changed the unit of protection to virtual 
+machines, which maintained file-level flexibility and made full 
+system restores much easier. 
+The introduction of cloud computing, and SaaS in particular, 
+introduced another profound change — the decoupling of data 
+from the organization’s own infrastructure. This shift introduces a 
+fundamentally different challenge: it is not just a new technology, 
+but a new model of control, responsibility, and risk.
+Backup and recovery has always been an essential part of how organizations and 
+institutions safeguard critical assets. Technology may change, but the need for 
+resilience remains constant.
+
+Principles of SaaS data protection |  5
+© 2026 Keepit. All rights reserved
+From passive insurance to active enabler
+Although the primary role has been disaster recovery, backup data are now well-positioned to be the 
+trusted foundation organizations can always recover from, whether it’s a single file today or the whole 
+system tomorrow.
+We already see that recovery needs are not limited to disaster recovery. Keepit Annual Data Report 2026(1)
+shows that single file downloads account for 90% of all restore operations, with the remaining 10% almost 
+evenly split between in-place restores and bulk downloads.
+Keeepit Annual Data Report 2026 (1)
+This tells us that most recovery needs are granular and immediate: a 
+deleted file, a modified document, or a corrupted permission. The 
+business need is not to rebuild systems, but to retrieve a specific 
+item to ensure operational resiliency. Which suggests that recovery 
+has shifted from catastrophic to operational.
+As society, businesses, and technology continuously change, data 
+protection and resilience will play an even more critical role than it 
+does today. Gartner®  predicts that “by 2029, 30% of enterprises 
+will integrate backup copies as a data source for analytics and 
+inference, up from less than 5% in 2025.” 
+(2)
+This would suggest that the purpose of backup doesn’t stop at 
+operational resilience, but includes protecting the data acting as the 
+“single source of truth”. Preserving the trusted data foundation from 
+which AI can safely reason in turn ensures efficiency improvements 
+and business innovation.
+Gartner is a trademark of Gartner, Inc. and/or its affiliates
+
+Principles of SaaS data protection |  6
+© 2026 Keepit. All rights reserved
+SaaS is reshaping how companies adopt and manage technology, and while many organizations are still in 
+the process of shifting to SaaS, AI is now adding another layer of complexity and risk.
+SaaS data are an organization’s backbone
+Virtually every organization uses SaaS today, and not just for individual tasks, but broadly; with hundreds of 
+services being used across the application estate in large enterprises.
+94% 
+of enterprises use SaaS
+118  
+The number of SaaS applications  
+organizations manage on average
+SaaS has become the dominant delivery model for software. Specifically for enterprise applications, SaaS 
+makes up more than 70% of the spending according to IDC
+(5), and the shift towards cloud continues, as new 
+functionality, integrations, AI capabilities, and vendor support are increasingly delivered exclusively through 
+SaaS, and legacy alternatives are disappearing, as documented by CIO
+(6).
+Organizations use SaaS to efficiently run core business functions, and if the SaaS applications are not 
+running, business processes and operations suffer. Consequently, SaaS data are now mission-critical to 
+business continuity. Customer records, financial transactions, intellectual property, operational decisions, 
+and compliance evidence live in these systems.
+AI: the current technological disruptor
+The impact of AI is playing out at multiple levels, with companies feeling pressure to lean on AI for efficiency 
+gains and business innovation.
+Companies are adopting AI at an immense pace. Both CIO Market Pulse: Peer insights on AI adoption and 
+the disaster recovery gap
+(7) and McKinsey, The State of AI in 2025 (8) find that nine out of ten organizations 
+use AI, and according to Gartner® “Worldwide spending on AI is forecast to total $2.59 trillion in 2026,
+a 47% increase year-over-year” (9) 
+The new data reality
+Forrester Research, The State Of Disaster Recovery Preparedness, 2026 (3)
+BetterCloud, State of SaaS 2026 (4)
+88% 
+ 
+of enterprises  
+use SaaS
+79% 
+ 
+of organizations use 
+generative AI
+62% 
+ 
+of organizations use 
+agentic AI
+The state of AI in 2025, McKinsey, November 2025 (8)
+
+Principles of SaaS data protection |  7
+© 2026 Keepit. All rights reserved
+The surveys from CIO and McKinsey also emphasize a critical finding: adoption of AI has outpaced the risk 
+controls needed to manage it safely. Organizations are moving faster on AI adoption than on the governance, 
+testing, and accountability structures needed to manage its risks.
+This mismatch does not only add new complexities and threats, but also makes existing exposures more 
+apparent and imminent in an AI context.
+While it might take hours or days for a person to enter faulty data across a few systems, an AI agent can 
+execute thousands of write operations across multiple systems within minutes, spreading an error before 
+anyone notices. This shrinks the window for detection and correction, turning issues that would normally 
+surface gradually into large-scale problems almost instantly.
+Therefore, data protection again emerges as a critical priority, but the obstacles organizations face are 
+markedly different. This is because the data that fuel both AI initiatives and run the entire organization do not 
+live within an organization’s infrastructure but instead sit inside SaaS applications outside the organization’s 
+direct control. Most data protection strategies have not adapted to this reality.
+The SaaS data protection gap
+Despite the business value of SaaS data, backup and recovery capabilities are often inadequate and a blind 
+spot in companies’ resiliency setups. While organizations increasingly recognize SaaS security as a priority 
+— according to Cloud Security Alliance, 86% rank it as high or highest priority
+(10) — many remain largely 
+unprepared for data loss. 
+Keepit’s own survey adds nuances to this. It confirms that SaaS data protection is a key priority, but it calls 
+out two caveats: While currently a priority, less than a third (29%) of companies actually have a solution in 
+place, and almost one fourth (24%) assume data protection is handled by the SaaS provider. This suggests 
+that the principles of SaaS data protection are not fully understood. 
+Keepit industry survey, February 2026, N=600 (11)
+
+Principles of SaaS data protection |  8
+© 2026 Keepit. All rights reserved
+This is further emphasized by a CIO Market Pulse survey (12)  that finds that 37% of organizations rely on native 
+data protection only, which reveals a genuine gap. Organizations understand that SaaS data matters, but 
+they have not invested in purpose-built data protection solutions and assume native capabilities — designed 
+to support platform uptime and short-term data retention only — will suffice for business continuity and 
+disaster recovery.
+Native SaaS retention isn’t backup. Short-term retention windows and previous-version history exist 
+to support the SaaS application vendor’s own operations, not the range of loss, deletion, or corruption 
+scenarios an organization actually needs to recover from. Treating these features as sufficient for business 
+continuity is one of the most common and costly misreadings of their intended purpose.
+Traditional backup tools, retrofitted onto SaaS, run into a different problem: they were built for infrastructure 
+that organizations controlled directly — servers, virtual machines, on-premises applications — not for a 
+model where the vendor owns the infrastructure and the application, and the customer only owns the data 
+inside. That mismatch tends to surface as feature gaps and architectural workarounds: capabilities added 
+on top of a foundation built for a different model entirely.
+The gap is not caused by deliberate neglect but is a consequence of the unique challenges of protecting SaaS 
+data: The data model, responsibility model, and risk model are all different from that of traditional backup.
+Data without context are unusable
+SaaS separates data from the application and removes user control of the underlying infrastructure. You 
+cannot restore a working system. Instead, you must restore data following the application’s structure. This 
+requires understanding where each element belongs and how it should be reassembled.
+“SaaS data protection remains one of the biggest challenges 
+in the data protection market for vendors and buyers alike.”
+IDC MarketScape: Worldwide SaaS Data Protection 2025–2026 (13)
+
+Principles of SaaS data protection |  9
+© 2026 Keepit. All rights reserved
+This requires backup to capture not just data but also metadata and context: ownership, permissions, 
+sharing settings, folder structures, versions, labels, comments, and relationships. Without this context, 
+restored data may be incomplete or unusable. Traditional backup captured files, systems, and databases. 
+SaaS backup must preserve application-level meaning.
+The shared responsibility model
+SaaS providers secure infrastructure and application availability, while customers are meant to secure their 
+own data and are responsible for data protection, governance, and recovery. This division is fundamental 
+across all major SaaS providers.
+Many organizations continue to misinterpret what shared responsibility means. When data are lost to 
+accidental deletion, unwanted modification, or insider threats, SaaS vendors are not able to assist with 
+restore. Those scenarios fall entirely within the customers’ responsibilities.  SaaS application customers 
+create data, own data, and are responsible for protecting their data. Therefore, the ability to restore is tied 
+directly to the decisions an organization makes on retention policies, backup practices, access controls, 
+and recovery testing.
+The risk scenarios are not system-dependent
+Traditional data protection strategies address infrastructure failure, hardware loss, and ransomware attacks, 
+and focus on full system restore. SaaS risk scenarios include accidental deletion, compromised accounts, 
+misconfiguration, faulty integrations, automation errors, and loss of historical versions or permissions. SaaS 
+vendors can also change application features, deprecate capabilities, or alter recovery options at will.
+According to Cloud Security A lliance
+(14), the most common reasons for SaaS-specific breaches are about 
+governance and configuration, and not related to hardware failures, system-level access etc. The SaaS 
+application itself can be fully operational, while the business cannot recover its data. Moreover, the risks are 
+not application specific. As data flow between SaaS applications, compromised data in a single non-critical 
+platform may have a ripple effect on a broad section of the business-critical SaaS ecosystem.
+“However, the byproduct of these integrations is the development of 
+complex interdependencies where a single service outage at a vendor can 
+have major repercussions in the rest of the business.”
+Forrester Research, “How To Create A SaaS Application Resilience Strategy, 2026” (15)
+Cloud Security Alliance, State of  SaaS Security 2025-2026 (14)
+
+Principles of SaaS data protection |  10
+© 2026 Keepit. All rights reserved
+Operational truth is exposed
+SaaS applications don’t behave like the infrastructure backup was originally built to protect. The SaaS vendor 
+controls the infrastructure and application, so simply running a backup cannot capture the full system that 
+was traditionally possible, which means the risks that cause data loss are different from the failures backing 
+up data has traditionally guarded against.
+The result is that most organizations have no reliable way to know whether the SaaS data they depend on 
+to feed decisions, automations, and AI can be trusted. Having a backup was supposed to be the guarantee 
+that what you recovered was an exact copy. For SaaS data, that guarantee doesn’t currently hold — leaving 
+businesses, and increasingly their AI, without a trusted foundation.
+The future of SaaS data protection
+The rush towards AI has led to a wakeup call for protecting SaaS data. Just a few years ago, most companies 
+did not prioritize backing up SaaS data, and that share increased only incrementally. Now, we’re at an 
+inflection point, as that share has accelerated sharply in the past year, and within just a few years, industry 
+expectations point to the majority of companies treating it as a high priority.
+“By 2028, 75% of enterprises will prioritize backup of SaaS 
+applications as a critical requirement, compared to 15% in 2024.”
+Gartner, Top Trends in Enterprise Backup and Recovery for 2024, April 1, 2024 (16)
+“By 2029, 80% of enterprises will prioritize backup of SaaS 
+applications as a critical requirement, compared with 20% in 2025.”
+Gartner, Critical Capabilities for Backup and Data Protection, July 9, 2025 (17)
+“By 2029, 75% of enterprises will treat SaaS application backup 
+as a critical component of their data protection strategy, up from 
+40% in 2026.”
+Gartner, Market Guide for SaaS Backup, June 1, 2026 (18)
+Awareness and prioritization of SaaS data protection are the critical first steps, but by themselves don’t 
+close the gap. Exposure stems from applying protection models built for infrastructure that organizations 
+controlled directly, to a model that works fundamentally differently. Therefore, losing the gap means 
+adopting a set of principles built for the nuances of SaaS, and taking into consideration how it should be 
+governed.
+Leading industry experts agree on these principles. Across Tier 1 analyst firm research, four things stand out: 
+know what SaaS you need to protect and how critical it is, know who owns that responsibility, understand 
+the SaaS-specific requirements a solution must meet, and validate that the solution works.
+
+Principles of SaaS data protection |  11
+© 2026 Keepit. All rights reserved
+Principles of SaaS data protection
+1. Mapping data to business criticality
+2. Assigning ownership
+3. Meeting the requirements of SaaS
+4. Validating the recovery process
+Mapping data to business criticality
+Customer records, financial transactions, legal documents, 
+operational workflows, regulated data, and AI-relevant data carry 
+different stakes if tampered with or lost. To attempt to protect all of 
+it equally means protecting none of it well.
+This calls for an honest inventory, not assumptions. Most 
+organizations underestimate how much SaaS they actually require 
+for business continuity. Organizations diligent in data governance 
+routinely discover hundreds of applications that were never formally 
+tracked, often brought in by individual teams to solve a specific 
+problem and then left running long after anyone remembered they 
+existed. You can’t protect what you don’t know you have.
+An inventory only tells you what exists, not what matters. Mapping which SaaS applications and data support 
+critical processes and assessing the business impact and dependencies is a critical classification exercise. 
+At its core, it is about grouping data by risk profile so protection can be directed where it matters most. 
+The Intelligent Data Governance
+(19) report covers this in more depth, including a practical framework for 
+classifying data by sensitivity and risk. 
+Assigning ownership
+SaaS data protection fails as often from unclear ownership as from a flawed strategy. Responsibility is easy 
+to assume and easier to leave undocumented. Too often, the moment data are lost, is when IT, security, and 
+the business unit running the application discover they assumed someone else had it covered.
+While leadership is accountable for governance overall, day-to-day classification and prioritization 
+decisions belong to the departments that own and use the data — in close collaboration with the people 
+who consume it. The Intelligent Data Governance
+(19)  report also discusses the need for ownership. 
+Meeting the requirements of SaaS
+Native retention and retrofitted infrastructure tools each fall short for different reasons. A solution built for 
+SaaS specifically starts from how the platform actually works and what true protection looks like.
+Built-for-purpose-tools are designed to capture all the necessary context to make a recovery usable rather 
+than just a pile of data. Capturing the metadata, permissions, and relationships behind SaaS data means 
+recoveries land in a working state, and retention information is kept for compliance and business policy 
+adherence. The same context also makes backup data directly available and searchable, giving access to 
+information without doing a full recovery.
+
+Principles of SaaS data protection |  12
+© 2026 Keepit. All rights reserved
+Finally, SaaS-specific solutions typically support a broader range of applications and are simpler to use, as 
+they have fewer configuration steps and generally require less specialized expertise. This means the tool 
+stays manageable as the SaaS estate continues to grow.
+Where data is stored matters as much as what gets captured. Separating backup data from the production 
+environment reduces risk, as a single compromised account or misconfiguration cannot reach both the 
+original data and its backup at once.
+Real independence extends beyond the SaaS vendor to the hyperscaler hosting the platform and backup 
+storage, as backup and production environments sharing the same cloud infrastructure undermines both 
+independence and data sovereignty. This separation is not only about reducing the risk of data loss, but an 
+unavoidable compliance requirement in regulated industries.
+To read more about separation as well as immutability, encryption, and access controls, see our whitepaper 
+Next-level SaaS data protection: Raising the bar for data protection in the cloud era
+(20).
+Validating the recovery process
+Restore testing, recovery reporting, and audit evidence turn hope into verification and verification into 
+confidence. Tabletop exercises that simulate real scenarios — a platform outage, a large-scale data loss, 
+a compromised account — build that confidence further, surfacing what documentation alone can’t: how 
+recovery workflows actually perform under pressure, and where dependencies between systems only 
+become visible once something is being restored.
+The payoff is preparedness that holds up when it’s tested for real, not just on paper.
+To see what this looks like in a real incident, When Disaster Strikes: Your guide to truth and recovery in the 
+face of SaaS data loss
+(21), walks through four common scenarios of data loss and gives recommendations 
+for how control is regained in each of them.
+
+© 2026 Keepit. All rights reserved
+As organizations adopt AI and agentic workflows, trusted and recoverable data becomes a business-critical 
+foundation. Keepit delivers that foundation through a next-level SaaS data protection platform purpose-
+built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, 
+boosts cyber resilience, and future-proofs data protection. For more information visit keepit.com or follow 
+Keepit on Linkedin.
+Your data. Here today. Here tomorrow.
+Is your SaaS data protection 
+setup truly resilient?
+We offer a no-obligation resilience readiness consultation — a 
+focused conversation about your current setup, your business 
+continuity plan, and any potential gaps.
+We’ll assess how prepared your current approach is for 
+recovery, compliance, and external threats and offer next-step 
+recommendations tailored to your environment.
+The principles that close the 
+protection gap
+Closing this gap is not just a resilience exercise. The old principles of backup — redundancy, durability, 
+independent copies — still hold. What no longer holds is the assumption they were built on: that protecting 
+the whole system was enough. SaaS breaks that assumption, and closing the gap means adding to those 
+principles by preserving context, and keeping backup genuinely independent of both the SaaS vendor and 
+the infrastructure on which it runs.
+This is the latest step in an evolution backup has always followed: from insurance against disaster, to a tool 
+for operational recovery, to a verified source of truth for both human and AI decision-making. 
+The immediate benefit of closing the SaaS data protection gap is straightforward: less exposure to data 
+loss, faster recovery, fewer blind spots in a business that increasingly runs on SaaS. The longer-term value is 
+greater. Organizations that close these gaps are building the one thing the AI era actually runs on: data they 
+can trust. 
+Book a session
+
+© 2026 Keepit. All rights reserved
+Sources:
+1.	
+Keepit Annual Data Report, March 2026 
+2.	
+Gartner, 2026 Strategic Roadmap for Backup and Data Protection, July 6, 2026, Michael Hoeck, Jason Donham 
+3.	
+Forrester Research, The State Of Disaster Recovery Preparedness, March 18, 2026 —Brent Ellis, et.al 
+4.	
+BetterCloud, State of SaaS, July 2026 
+5.	
+IDC, The Future of Enterprise Applications: Transforming Business with Cloud and AI, December 19, 2025 
+6.	
+CIO, Microsoft joins SAP, Oracle in setting sunset date for legacy ERP support, Sep 27, 2024 
+7.	
+CIO Market Pulse, Peer insights on AI adoption and the disaster recovery gap, April 2026 
+8.	
+McKinsey, The State of AI in 2025, November 2025 
+9.	
+Gartner Press Release, Gartner Forecasts Worldwide AI Spending to Grow 47% in 2026, May 19, 2026 
+10.	 Cloud Security Alliance, State of SaaS Security, Trends and Insights for 2025-2026, April 2025 
+11.	
+Keepit Industry survey, February 2026 
+12.	 CIO Market Pulse, Overlooked and underprotected - how the SaaS data gap threatens resilience, August 2025 
+13.	 IDC, IDC MarketScape: Worldwide SaaS Data Protection 2025–2026 , December 16, 2025
+14.	 Cloud Security Alliance, State of SaaS Security, Trends and Insights for 2025-2026, April 2025 
+15.	 Forrester Research, How To Create A SaaS Application Resilience Strategy, January 30, 2026, Brent Ellis et al. 
+16.	 Gartner,  Top  Trends in Enterprise Backup and Recovery for 2024, April 1, 2024, Chandra Mukhyala,  Michael Hoeck,  Jason 
+Donham,  Rene Rodriguez,  Stanton Cole
+17.	
+Gartner, Critical Capabilities for Backup and Data Protection Platforms, June 30, 2026, Jason Donham,  Michael Hoeck,  
+Sankalp Rastogi,  Rizvan Hussain
+18.	 Gartner, Market Guide for SaaS Backup, June 1, 2026, Sankalp Rastogi
+19.	 Keepit, Intelligent data governance, March 2025 
+20.	 Keepit, Next-level SaaS data protection: Raising the bar for data protection in the cloud era, August 2024  
+21.	 Keepit, When disaster strikes: Your guide to truth and recovery in the face of SaaS data loss, July 2026
