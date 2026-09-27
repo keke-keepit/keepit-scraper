@@ -1,9 +1,50 @@
 Source URL: https://www.keepit.com/why-keepit/roi-calculator/
 Content type: Web page
-Last modified: 2024-09-12T15:58:12+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-25T09:06:41+02:00
+Retrieved: 2026-09-27
 
 ============================================================
 
+Return on investment (ROI)iA projectâs expected return in percentage terms. ROI is calculated by dividing net benefits (benefits less costs) by costs.
+Present value benefits (PV)iThe present or current value of (discounted) cost and benefit estimates given at an interest rate.
+Net present value (NPV)iThe present or current value of (discounted) future net cash flows given an interest rate.
+Payback on service feeiThe breakeven point for an investment, at which time net benefits (benefits minus costs) equal initial investment or cost.
+Create your ROI report
+Keepit ROI summary and payback period
+Accumulated net present value (NPV):
+Costs and benefits []
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Months after implementation
+Summary of year one Keepit benefits
+Granular ransomware recovery
+Get in-place recovery with Keepit's granular restore. Prioritize critical data to minimize downtime. Restore data quickly with metadata and hierarchies intact. Your team can resume work with high usability of recovered data.
+Reduced SaaS licensing costs
+Optimize SaaS licensing costs by offboarding departed employees. Keepit provides seamless, hot storage data availability of former users, so IT teams can cancel SaaS subscriptions while keeping long-term data accessible.
+On-premises backup cost avoidance
+Never worry about hardware again. Keepit’s cloud-only infrastructure eliminates the need for managing complex on-prem backup systems. Avoid ongoing hardware costs as everything is included in the seat price with Keepit.
+Boosted IT efficiency and productivity
+Boost your impact with Keepit's streamlined file restoration. IT teams can quickly search and efficiently restore lost files, enabling faster access to essential data for users, thereby ensuring uninterrupted productivity.
+Learn what the research says
 To identify cost savings and business benefits of the Keepit SaaS platform, Keepit has commissioned Forrester Consulting to conduct “The Total Economic Impact™ of Keepit Dedicated SaaS Data Protection” study.
 Disclaimer: The underlying financial model for this ROI calculator has been commissioned by Keepit and delivered by Forrester Consulting based on its Total Economic Impact™ methodology. Keepit has created this tool and Forrester has not verified it for accuracy or certified its results. Although great care has been taken to ensure the accuracy and completeness of the model used in this tool, Keepit and Forrester are unable to accept any legal responsibility for any actions taken on the basis of the information contained herein. The tool is provided ‘AS IS’ and Keepit and Forrester make no warranties of any kind.
+Take the next step toward protecting your SaaS data
+Forrester Total Economic Impact™
+Behind the numbers
+Total Economic Impact™ is a methodology developed by Forrester Consulting that enhances a company’s technology decision-making processes and assists vendors in communicating the value proposition of their products and services to clients. The TEI methodology helps companies demonstrate, justify, and realize the tangible value of IT initiatives to both senior management and other key business stakeholders.
+Key terms
+PRESENT VALUE (PV): The present or current value of (discounted) cost and benefit estimates given at an interest rate (the discount rate). The PV of costs and benefits feed into the total NPV of cash flows.
+NET PRESENT VALUE (NPV): The present or current value of (discounted) future net cash flows given an interest rate (the discount rate). A positive project NPV normally indicates that the investment should be made unless other projects have higher NPVs.
+RETURN ON INVESTMENT (ROI): A project’s expected return in percentage terms. ROI is calculated by dividing net benefits (benefits less costs) by costs.
+DISCOUNT RATE: The interest rate used in cash flow analysis to take into account the time value of money. Organizations typically use discount rates between 8% and 16%.
+PAYBACK PERIOD: The breakeven point for an investment. This is the point in time at which net benefits (benefits minus costs) equal initial investment or cost.

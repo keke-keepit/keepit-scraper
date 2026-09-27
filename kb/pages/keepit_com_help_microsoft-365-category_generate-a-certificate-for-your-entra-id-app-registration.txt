@@ -1,13 +1,13 @@
 Source URL: https://www.keepit.com/help/microsoft-365-category/generate-a-certificate-for-your-entra-id-app-registration/
 Content type: Web page
-Last modified: 2026-06-29T23:24:29+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-22T10:54:38+02:00
+Retrieved: 2026-09-27
 
 ============================================================
 
 Generate a certificate for your Entra ID app registration
 Follow the steps below to create a certificate for your Entra ID app registration, which is required for backing up Teams Chats data.
-- For Windows users: Use our PowerShell script to generate a certificate and key. Download the script here. Follow the instructions below to run the script.
+- For Windows users: Use our PowerShell script to generate a certificate and key. Follow the instructions below to run the script.
 - For Mac users: We recommend using OpenSSL to generate a certificate and key. Detailed instructions are provided below.
 If you are creating your own certificate, ensure the following configuration:
 - Certificate Format: x509
@@ -19,7 +19,7 @@ Before you get started
 Prepare the script
 - Download the latest version of the script here.
 - Save the script locally. For example: C:\Users\YourUserName\Documents\Multiapp).
- Important: Do not save the script to a cloud-synced folder (e.g., OneDrive or Google Drive), as this may cause issues when running it.
+Important: Do not save the script to a cloud-synced folder (e.g., OneDrive or Google Drive), as this may cause issues when running it.
 - Rename the file extension to .ps1 to make it a PowerShell script.
 - Use only the downloaded script file when following the provided steps.
 - Do not copy and paste the script’s text directly into PowerShell.
@@ -27,7 +27,6 @@ Prepare the script
 Run PowerShell properly
 - Open PowerShell as an Administrator.
 - Use the standard PowerShell console — do not use PowerShell ISE.
- 
 Generate a certificate with PowerShell
 Follow these steps to generate a certificate with PowerShell:
 1. Right-click the PowerShell icon and select Run as Administrator.

@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/book-a-meeting-am/
+Content type: Web page
+Last modified: 2026-09-24T22:57:49+02:00
+Retrieved: 2026-09-27
+
+============================================================
+
+Read the case study
+Having everything backed up in one place just makes sense.â¯ As ourâ¯techâ¯stack grows, we know Keepit can grow with us. 
+Connect with your Keepit account manager to see how our independent platform protects your growing SaaS footprint as AI reshapes the way you work.
+What you'll get: Request a meeting with your AM, and we'll send you a free copy of Microsoft 365 for IT Pros (2027 edition), a comprehensive guide to the Microsoft 365 ecosystem covering Exchange Online, SharePoint Online, Teams, OneDrive for Business, Purview, and Power Platform, plus automation with PowerShell and Microsoft Graph. First published in 2015 and now in its 13th annual edition, it's updated monthly, so it's a living reference rather than a static book.
+It's co-authored in part by Keepit's own Paul Robichaux, Senior Director of Product and Microsoft MVP. Your download also includes three companion eBooks covering Purview, Power Platform, and PowerShell.
+Fill out this form to request a meeting with your account manager and build your 2027 data protection strategy. You'll receive your free copy of Microsoft 365 for IT Pros (2027 edition) in your email right after you complete the form.
+Based on official guidance from our security department, it was important to have data centers in the same location as our company. Keepit's European-based data centers were the answer.  
+We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.

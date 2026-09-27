@@ -1,31 +1,31 @@
 KEEPIT KNOWLEDGE BASE — BLOG
-Generated: 2026-09-20
-Pages: 138
+Generated: 2026-09-27
+Pages: 139
 ============================================================
 
 Source URL: https://www.keepit.com/blog/
 Content type: Web page
-Last modified: 2026-09-04T09:38:27+02:00
-Retrieved: 2026-09-06
+Last modified: 2026-09-25T09:56:36+02:00
+Retrieved: 2026-09-27
 
 ============================================================
 
 Filter content:
 The Keepit blog
 Industry experts sharing insights and experiences to help empower intelligent decisions for data resilience
+Infrastructure and operations
+September 25, 2026 | 2 minutes
+LLMs (large language models) are like cats
+You can train an LLM, but it will still do what it wants. Why blocking access (not guardrails) is the only reliable way to prevent AI-driven data loss.
 Inside Keepit
 September 4, 2026 | 5 minutes
 Is your data the raw material that will build your competitive advantage?
-Compliance drove your investment in immutable backup. Data provenance is what turns it into verified raw material for the AI you're building next.
 Inside Keepit
 August 31, 2026 | 4 minutes
 From passive to active: How AI Truth Cloud turns backup into infrastructure
 Infrastructure and operations
 August 21, 2026 | 4 minutes
 Microsoft Entra Backup and Recovery is now generally available. Is it enough?
-Security
-July 27, 2026 | 5 minutes
-When a rogue AI agent reaches production, what can you trust?
 Security
 July 27, 2026 | 5 minutes
 
@@ -3403,6 +3403,31 @@ Here are some of the key benefits to look for in a dedicated third-party backup 
 - Flexible geographic storage options to cover your data sovereignty requirements
 - A predictable and transparent cost model, with no hidden surprise charges for data ingress, egress, or storage
 For more insight into data protection in the cloud era, get an in-depth look via the e-guide on Leading SaaS Data Security. Or, if you’d like to learn more about Keepit backup and recovery services for Microsoft 365, Salesforce, Google Workspace, and others, visit our services overview page.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/blog/llms-are-like-cats/
+Content type: Web page
+Last modified: 2026-09-25T13:16:05+02:00
+Retrieved: 2026-09-27
+
+============================================================
+
+LLMs (large language models) are like cats
+If you've been on a webinar with me since 2014, you probably have seen my longest tenured co-worker: a domestic, short-haired rescue cat that my sons named Pancake when we adopted him that year. Although I can't say that he contributes much to my work, he works for a low salary and is often entertaining when he joins my Teams calls.
+He's been variously described as “majestic” (his vet), “beautiful” (my daughters), “disdainful” (my sons), “entitled” (me), and fuzzy.
+I was recently speaking at a customer dinner about the risks of AI and why Keepit is investing in building our AI Truth Cloud solution. I had just pointed out that one major problem with today's generative AI solutions is that you can give them instructions, and they may or may not follow them. The only guaranteed way to prevent an LLM from doing something that you don’t want it to is to prevent it from being able to take that specific action. Guardrails don't work reliably enough.
+As I was standing there, microphone in hand, it dawned on me: LLMs are like cats.
+How LLMs are similar to cats
+You can train them in various ways and reward them for desirable behavior. And yet, no matter what instructions you give them, there is a non-zero chance at any point in time that they will do just exactly whatever they feel like doing instead of what you told them to.
+As evidence, let me share a cat story. A couple of years after we got him, and for no good reason, Pancake decided that the tub in my bathroom made a great replacement for his litter box. No amount of aversion or positive reinforcement would get him to quit fouling the tub (good thing I prefer showers!).
+The only thing that worked was making sure to keep the bathroom door firmly closed so he couldn't get to it.
+Pancake when he's being good.
+Why blocking access (not guardrails) is the only reliable way to prevent AI-driven data loss
+I think the parallel to the way that we work with LLMs is pretty obvious. Every AI company has invested heavily in trying to improve the alignment of their various models. The only tactic that works reliably well is to block the model's ability to modify or delete data that you don't want it to touch. Blocking doesn't necessarily help with alignment problems related purely to output, such as trying to keep the LLM from telling people how to make methamphetamine or launder the profits thereof, but it can stop the commonplace occurrence that a misbehaving model or poorly chosen or malicious prompt will cause data loss.
+The cat-like nature of LLM-based AI tools is a huge motivation behind our AI Truth Cloud. We recognize the tremendous benefit that adding AI to your organizational playbook can bring. It can help you do more of the right work, faster, and with better quality… as long as it's behaving. When it doesn't behave, the AI Truth Cloud can help you restore your production systems quickly to the correct state to keep your business going.
+Where do we go from here?
+We'll have a lot more to say about the AI Truth Cloud as we continue to refine and develop it. Meanwhile, you might check out our catalog of webinars, because if I'm speaking, there's an excellent chance that you'll get to see Pancake in all his native majesty.
 
 ------------------------------------------------------------
 

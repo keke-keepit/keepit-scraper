@@ -1,25 +1,25 @@
 Source URL: https://www.keepit.com/blog/
 Content type: Web page
-Last modified: 2026-09-04T09:38:27+02:00
-Retrieved: 2026-09-06
+Last modified: 2026-09-25T09:56:36+02:00
+Retrieved: 2026-09-27
 
 ============================================================
 
 Filter content:
 The Keepit blog
 Industry experts sharing insights and experiences to help empower intelligent decisions for data resilience
+Infrastructure and operations
+September 25, 2026 | 2 minutes
+LLMs (large language models) are like cats
+You can train an LLM, but it will still do what it wants. Why blocking access (not guardrails) is the only reliable way to prevent AI-driven data loss.
 Inside Keepit
 September 4, 2026 | 5 minutes
 Is your data the raw material that will build your competitive advantage?
-Compliance drove your investment in immutable backup. Data provenance is what turns it into verified raw material for the AI you're building next.
 Inside Keepit
 August 31, 2026 | 4 minutes
 From passive to active: How AI Truth Cloud turns backup into infrastructure
 Infrastructure and operations
 August 21, 2026 | 4 minutes
 Microsoft Entra Backup and Recovery is now generally available. Is it enough?
-Security
-July 27, 2026 | 5 minutes
-When a rogue AI agent reaches production, what can you trust?
 Security
 July 27, 2026 | 5 minutes

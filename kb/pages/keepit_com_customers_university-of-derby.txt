@@ -1,0 +1,29 @@
+Source URL: https://www.keepit.com/customers/university-of-derby/
+Content type: Web page
+Last modified: 2026-09-22T18:33:35+02:00
+Retrieved: 2026-09-27
+
+============================================================
+
+Keepit helps University of Derby find a simpler path to SaaS protection and regulatory compliance
+The University of Derby needed data protection that could keep pace with a growing SaaS environment. GDPR and Cyber Essentials set the baseline, but the team had additional requirements: longer retention windows and certainty that their data was stored in UK-based data centers. Beyond compliance, they needed a solution that required no hardware or software agents and was straightforward to use and manage. That combination is what led them to Keepit.
+A growing SaaS footprint called for a new approach
+The University of Derby is the only university in Derbyshire, England, serving students across campuses in the UK and internationally. With a large userbase and growing reliance on Microsoft 365, SharePoint, Teams, Entra ID, and Azure DevOps, the university's digital environment had become central to everything from teaching to day-to-day operations.
+As we move to more cloud-based services, having longer retention and knowing our data stays in UK-based data centers was important to us.
+– Ash Smith
+Sr. Engineer – Infrastructure & Identity, University of Derby
+The proof of concept made the decision easy
+After initial conversations with Keepit, the university ran a proof of concept to test the platform firsthand. The criteria were clear: ease of use, reliable performance, good support, and the ability for end users to recover their own data. Keepit met every requirement, and where a feature was still in development, the roadmap was transparent.
+A key factor in the decision was Keepit's independent, vendor-neutral cloud. It stores data in a separate infrastructure, with immutable backups that can't be altered or deleted even in the event of an incident. After careful consideration we found many vendors stored recovery data in the same regions which we wanted to ensure clear separation of live and backup data. Vendor independence, straightforward setup, competitive pricing, and strong support made Keepit the clear choice.
+Keepit's vendor-independent architecture was a major factor in our decision.
+– Ash Smith
+Sr. Engineer – Infrastructure & Identity, University of Derby
+Self-service recovery saves time for everyone
+Since deployment, recovery times have dropped significantly and the complexity of handling data across student, staff, and departmental groups has simplified considerably, with Keepit's connectors keeping each group's data clearly separated and easy to manage.
+One capability that has made a particular difference is the ability to share secure, time-limited links directly with users who need to recover their own data. Previously, a recovery request meant walking through a series of questions before anyone could act. Now, the IT team can point users to their own data via a password-protected link, putting recovery in the hands of the people who need it.
+Keepit also covers Azure DevOps, a capability that has become increasingly important as the university moves away from local code copies on engineer devices toward centralized backup with long retention and straightforward restore options.
+Since moving to Keepit we've reduced our recovery times significantly. And because there's no hardware or software to manage, our team can focus on other areas.
+– Ash Smith
+Sr. Engineer – Infrastructure & Identity, University of Derby
+Built for what comes next
+The University of Derby is continuing to grow its cloud-first infrastructure, and Keepit is part of the foundation that makes that possible. With approximately 360TB of data currently protected across Microsoft 365, Entra ID, SharePoint, Teams, OneDrive, Exchange, and Azure DevOps, all from a single platform, the team has the resilience and visibility they need to keep moving forward. With a platform that scales with them, the university is well positioned for what comes next.

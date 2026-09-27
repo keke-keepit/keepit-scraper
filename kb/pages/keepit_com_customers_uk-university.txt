@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/customers/uk-university/
+Content type: Web page
+Last modified: 2026-09-22T18:40:01+02:00
+Retrieved: 2026-09-27
+
+============================================================
+
+A UK university simplifies Microsoft 365 backup and recovery
+At a leading UK campus university, Microsoft 365 plays an important role in how students and staff collaborate, store information, and get work done. The head of infrastructure and his team manage the platform alongside cloud and on-premises infrastructure, supporting the systems that help keep the university running. As Microsoft 365 usage continued to grow and Microsoft redefined its education storage policies, the university partnered with ET Works to select and deploy a backup and recovery solution that could meet its evolving needs.
+Evaluating SaaS backup providers
+The university needed a more comprehensive backup and recovery approach that could support the growing amount of data in its Microsoft tenant, was practical for IT to manage, and was flexible enough for a higher education environment where student and staff populations change throughout the year. ET Works guided the university through a thorough vendor evaluation process, reviewing the market and comparing multiple backup providers. Keepit stood out for its ease of use, strong engagement, predictable pricing, and ability to support fluctuating user numbers without unnecessary complexity — all important factors for a university environment.
+For an education environment where data location is a key consideration, Keepit's UK data centers were another important factor in the decision, alongside the platform's ability to strengthen recovery capabilities and reduce storage pressure.
+Having our data stored in Keepit's UK data centres is important to us. In education, we need to know where our data is.
+Head of Infrastructure, UK University
+A simple experience for IT
+The IT team needed a platform that didn't require a heavy training effort and could make common recovery tasks straightforward. ET Works helped the team get up and running quickly, ensuring the configuration was well suited to the university's environment.
+That simplicity matters where recovery needs may vary across different user groups. For example, a former student may need access to data after leaving the university. With Keepit, the team doesn't have to restore the full account to provide access. Instead, they can create a public link or share the data by email with a password. An IT person can choose the relevant user group, locate the user, select what needs to be restored, and choose the correct date in just a few minutes.
+The process of restoring is pretty simple.
+Head of Infrastructure, UK University
+Supporting security, flexibility, and data location needs
+The university also valued Keepit's independent architecture. Keepit uses its own data centers rather than relying on third-party hyperscalers cloud infrastructure, helping support the university's data protection priorities alongside the UK data residency option. The team also appreciated that while Keepit needed certain permissions to connect to the Microsoft 365 tenant, these could be removed afterwards, avoiding an over-provisioned service account.
+Customer feedback that helps shape the product
+Beyond backup and recovery, the university has engaged with Keepit's product ideas process, using it to submit feedback and suggest improvements — and seeing that feedback reflected in the product.
+With Keepit, the university now has a dedicated Microsoft 365 backup and recovery solution that delivers tangible results across the IT operation. Storage pressure has been reduced, recovery tasks that once required significant effort can now be completed in minutes, and the team has greater confidence that data can be restored quickly when needed. For a university managing a constantly changing population of students and staff, the flexibility and simplicity of the solution has also reduced the day-to-day administrative burden on IT, leaving the team better placed to focus on supporting the wider institution.
+Keepit actually listens to its customers. We can give feedback, suggest things, and then they get implemented into the product.
+Head of Infrastructure, UK University

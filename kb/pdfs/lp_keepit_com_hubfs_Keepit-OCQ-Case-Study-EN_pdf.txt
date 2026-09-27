@@ -1,0 +1,137 @@
+Source URL: https://lp.keepit.com/hubfs/Keepit-OCQ-Case-Study-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-09-27
+
+============================================================
+
+OCQ Group reduces 
+backup costs by 50% 
+while strengthening 
+recovery confidence
+Customer success story
+
+OCQ Group reduces 
+backup costs by 50% while 
+strengthening recovery 
+confidence
+The/OCQ Group/(OCQ)/ relies on Microsoft 365, SharePoint, and Teams to support 
+approximately 1,200 users across the business. As the companyˇs SaaS environment 
+continued to grow, the IT team needed a backup and recovery solution that could address 
+Microsoftˇs native recovery limitations, support legal compliance and ongoing audits, 
+and€provi
+de€a a simpler way to manage backup across multiple Microsoft tenants.
+Brazil
+LOCATION
+Chemical/
+INDUSTRY
+1,200+/
+EMPLOYEES
+Beyond native Microsoft recovery
+OCQ/began searching for a new backup solution 
+to strengthen Microsoft 365 data protection. 
+While Microsoft 365 is central to the companyˇs 
+operations, the team recognized that relying only 
+on built-in capabilities would not provide the level 
+of protection, retention, and recovery/confidence/ 
+the business required.
+
+The company needed a dedicated SaaS backup 
+and recovery solution to protect against data loss, 
+support versioning, encrypt sensitive data, and 
+meet compliance requirement s 
+ legal 
+obligations and ongoing audits demanded data 
+remain protected, transparent, and recoverable. 
+Movti, a Keepit Value Added Reseller, helped OCQ 
+identify and implement a backup and recovery 
+solution built for where the business was heading.
+Customer success story
+˝We needed a solution that 
+could support legal 
+compliance, ongoing audits, 
+versioning, and encryption while 
+giving us confidence in 
+Microsoft 365 data recovery.˛
+Claudia de Moya Partiti Ferraz
+(CIO/Head of IT/(
+OCQ Group
+2
+
+˝Since implementing€Keepit, weˇve achieved a 50% cost reduction 
+compared with our previous tool, with fast deployment and complete 
+confidence in Microsoft 365 data recovery.˛
+Claudia de Moya Partiti Ferraz
+(CIO/Head of IT/(
+OCQ Group
+A/simpler, more predictable approach
+Cost was/an important factor/in the evaluation, but it/wasnˇt/the only one. The team also looked closely at security, compliance, ease of operation and configuration, and integration across multiple Microsoft tenants. The right solution needed to be efficient to manage without adding unnecessary administrative overhead.
+
+Keepit stood out for its predictable cost model, unlimited backup, and ease of use. Compared with the companyˇs/previous/tool,€Keepit€helped reduce costs while also removing concerns about unexpected storage usage charges. For the IT/team,/predictability was important. As data volumes grow, backup costs should not become harder to forecast or manage./
+
+Keepitˇs intuitive platform also made day-to-day operations simpler. With fast setup, simple navigation, and integration across key applications,€Keepit€helped/OCQ/move quickly from evaluation to implementation, supported by the€Keepit€team.
+
+Compliance with regional data centers
+Regional data centers were another important factor in the decision./For/OCQ, data residency helps support regulatory and compliance requirements./It also contributes to lower latency and better performance during file transfers./
+
+Keepitˇs independent architecture was especially 
+relevant for Microsoft 365 protection. Because 
+backups are kept separate from the Microsoft 
+SaaS environment, the company has confidence 
+that backup€data/remains/intact even if Microsoft 
+policies change. It also supports recovery 
+independent of the purchased Microsoft license 
+subscription./€
+
+Security was central to the decision as 
+well.€Keepit€provides an independent, immutable 
+backup environment with encryption, flexible 
+access control, retention options, and audit-ready 
+logs. For/OCQ, immutability helps protect backup 
+data against ransomware scenarios where files 
+could be encrypted or altered, while encryption 
+helps protect sensitive information and support 
+compliance with legislation./€
+
+Fast deployment and greater(recovery/confidence
+Since implementing€Keepit, the IT team was able to deploy the solution quickly and strengthen Microsoft 365 data protection. With€Keepit, OCQ(gained a more predictable and easier-to-operate approach to SaaS backup and recovery, helping reduce administrative effort while improving confidence that critical Microsoft 365 data can be recovered when needed.
+
+Customer success story
+3
+
+˝Keepit€has become an important pillar 
+for our businessreducing costs, 
+strengthening data governance, and 
+giving us the confidence that our 
+operations can continue without 
+interruption.˛
+Stefano de Moraes(
+Informa
+tion Technology€(OC
+OCQ Group
+For the IT team,€Keepit€has proven to be efficient, 
+secure, and agile, giving the company a stronger 
+foundation for Microsoft 365 recovery and long-
+term SaaS data protection./€Keepit€has also 
+contributed to stronger data governance across 
+the organization, giving the IT team greater control 
+over data retention, auditing, and critical data 
+recovery. Today,€Keepit€is an important pillar for 
+ensuring operational continuity with financial efficiency.€
+About/OCQ Group
+The OCQ Group is one of the largest groups in the chemical sector in Latin America. Composed of 23 
+companies/operating/in various segments of the chemical industry, the group serves different customer profiles and markets, offering/expertise/and technology in the supply of inputs and products worldwide.//€
+About€Movti
+Movti is a Keepit Value Added Reseller and cloud consultancy, helping organizations protect and manage 
+their digital ecosystems. Backed by deep Google Cloud and Microsoft 365 expertise, Movti combines 
+specializations in Security, Infrastructure, Productivity, and AI to help organizations evolve their cloud 
+environments efficiently 
+ simplifying operations and generating lasting business value.
+Your data. Here today. Here tomorrow
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+ For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Customer success story
+4

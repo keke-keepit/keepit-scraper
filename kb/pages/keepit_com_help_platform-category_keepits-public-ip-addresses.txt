@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/platform-category/keepits-public-ip-addresses/
 Content type: Web page
-Last modified: 2026-04-30T15:02:30+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-22T10:11:56+02:00
+Retrieved: 2026-09-27
 
 ============================================================
 
@@ -25,6 +25,8 @@ Germany, Frankfurt (de-fr)
 185.221.245.17
 185.221.245.18
 185.221.245.19
+185.221.245.20
+185.221.245.21
 For SIEM integration
 185.221.245.4
 185.221.245.5

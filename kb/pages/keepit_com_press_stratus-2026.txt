@@ -1,0 +1,34 @@
+Source URL: https://www.keepit.com/press/stratus-2026/
+Content type: Web page
+Last modified: 2026-09-22T15:31:44+02:00
+Retrieved: 2026-09-27
+
+============================================================
+
+Keepit wins 2026 Stratus Award for Cloud Computing, bolstering its status as the trusted foundation for AI-enabled enterprises
+Keepit named winner for the second year in a row, this time in the category Backup/Disaster recovery/Resilience. Recognition honors companies, products, and individuals pushing the boundaries of what cloud technology can do.
+ 
+Copenhagen, Denmark, September 22, 2026 – Keepit, the vendor-independent SaaS data protection company helping organizations strengthen cyber resilience and business continuity, today announced it has been named a winner in the 2026 Stratus Awards for Cloud Computing, in the category of Backup/Disaster recovery/Resilience. Presented by the Business Intelligence Group, the award recognizes companies, products, and individuals delivering cloud offerings that are truly differentiated in the market. With the launch of AI Truth Cloud in August 2026, the next evolution of the Keepit platform, Keepit is becoming the verified, independent source of truth for data AI systems depend on.
+The Stratus Awards celebrate the organizations and individuals defining the next phase of cloud computing, where success is measured by what a system delivers rather than where it happens to run. Winners are selected based on how effectively they are advancing cloud innovation, delivering measurable value, and moving their industries forward. The 2026 Stratus Awards honor achievement across a broad range of industries and use cases, spotlighting the organizations moving the cloud from where work is stored to where work gets done.
+"For a decade, the cloud question was 'where does this run?' This year, every serious submission answered a different one: 'what does it do without us?'" said Russ Fordyce, Chief Recognition Officer, Business Intelligence Group. "Keepit earned this recognition in Backup/Disaster recovery/Resilience because it could say what its technology finished, not just what it promises. That is the standard the cloud is being held to now, and this is a team meeting it."
+Keepit provides the trusted foundation AI runs on
+As AI agents take on business-critical decisions, AI Truth Cloud , positions Keepit as the sovereign source of truth that enterprise AI can safely build on: data that is verifiable, governed, immutable, and proven.
+"We are honored to be recognized in the 2026 Stratus Awards," said Michele Hayes, CMO at Keepit. "This award reflects the dedication of our team and the trust of the customers who depend on Keepit. AI Truth Cloud is something every organization needs to safely deploy AI: a complete, sovereign, immutable, and tamper-proof copy of an organization’s data — every version, across the protected application — stored in a vendor-independent cloud that no third party influences."
+Keepit has received multiple accolades, including a 2026 Product of the Year Award from Cloud Computing Magazine and multiple awards at the 2026 Global Infosec Awards.
+You can view a full list of Keepit’s industry awards on our website.
+To learn more about the 2026 Stratus Awards, visit: www.bintelligence.com/posts/24-stratus-award-winners-show-the-cloud-has-stopped-storing-the-work-and-started-doing-it
+About Keepit 
+As organizations adopt AI and agentic workflows, trusted and recoverable data becomes a business-critical foundation. Keepit delivers that foundation, the AI Truth Cloud, through a SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no third-party sub-processors supports compliance with local regulations and helps mitigate the impact of ransomware while ensuring continuous data access, business continuity, and effective disaster recovery. Headquartered in Copenhagen with offices, data centers, and partners worldwide, Keepit is trusted by thousands of organizations for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on LinkedIn
+About the Stratus Awards
+The Stratus Awards for Cloud Computing honor the companies, products, and individuals innovating in the cloud and delivering offerings that are truly differentiated in the market. Since 2014, the program has recognized organizations that add measurable value through cloud-based solutions, from infrastructure and platform services to security, edge computing, and the AI systems now running on top of them. Every nomination is reviewed against objective scoring benchmarks by a panel of experienced business professionals, identifying the work that is genuinely pushing the boundaries of the cloud.
+About Business Intelligence Group
+Business Intelligence Group (BIG) is an independent awards organization that has been recognizing outstanding achievement in business since 2012. Now in its 14th awards season, BIG operates 12 annual programs spanning innovation, artificial intelligence, cybersecurity, customer service, cloud computing, sustainability, sales and marketing, workplace culture, and women's leadership. Business award programs include the BIG Innovation Awards, AI Excellence Awards, Fortress Cyber Security Awards, Excellence in Customer Service Awards, Stratus Awards for Cloud Computing, Sustainability Awards, SAMMY Awards for Sales and Marketing, Best Places to Work Awards, Herizon Awards, We Love Tech Awards, NAA Top Employers Award, and BIG Awards for Business.
+Unlike popularity contests, BIG programs use professional judging panels and objective scoring benchmarks to identify organizations, products, and individuals making real, measurable impact. Winners receive a complete promotional toolkit, including blockchain-verified credentials, press release support, social media assets, and featured placement across BIG's global community of more than one million business professionals.
+For more information about BIG award programs, nomination deadlines, and judging criteria, visit bintelligence.com.
+Contact
+Eliana Starbird
+Chief Nominations Officer
+Business Intelligence Group
++1 909-529-2737
+eliana@bintelligence.com

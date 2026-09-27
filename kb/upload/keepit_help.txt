@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — HELP
-Generated: 2026-09-20
+Generated: 2026-09-27
 Pages: 375
 ============================================================
 
@@ -15242,14 +15242,14 @@ Deletion behavior: In all cases, items present in Exchange but not in the snapsh
 
 Source URL: https://www.keepit.com/help/microsoft-365-category/generate-a-certificate-for-your-entra-id-app-registration/
 Content type: Web page
-Last modified: 2026-06-29T23:24:29+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-22T10:54:38+02:00
+Retrieved: 2026-09-27
 
 ============================================================
 
 Generate a certificate for your Entra ID app registration
 Follow the steps below to create a certificate for your Entra ID app registration, which is required for backing up Teams Chats data.
-- For Windows users: Use our PowerShell script to generate a certificate and key. Download the script here. Follow the instructions below to run the script.
+- For Windows users: Use our PowerShell script to generate a certificate and key. Follow the instructions below to run the script.
 - For Mac users: We recommend using OpenSSL to generate a certificate and key. Detailed instructions are provided below.
 If you are creating your own certificate, ensure the following configuration:
 - Certificate Format: x509
@@ -15261,7 +15261,7 @@ Before you get started
 Prepare the script
 - Download the latest version of the script here.
 - Save the script locally. For example: C:\Users\YourUserName\Documents\Multiapp).
- Important: Do not save the script to a cloud-synced folder (e.g., OneDrive or Google Drive), as this may cause issues when running it.
+Important: Do not save the script to a cloud-synced folder (e.g., OneDrive or Google Drive), as this may cause issues when running it.
 - Rename the file extension to .ps1 to make it a PowerShell script.
 - Use only the downloaded script file when following the provided steps.
 - Do not copy and paste the script’s text directly into PowerShell.
@@ -15269,7 +15269,6 @@ Prepare the script
 Run PowerShell properly
 - Open PowerShell as an Administrator.
 - Use the standard PowerShell console — do not use PowerShell ISE.
- 
 Generate a certificate with PowerShell
 Follow these steps to generate a certificate with PowerShell:
 1. Right-click the PowerShell icon and select Run as Administrator.
@@ -16014,14 +16013,15 @@ SharePoint Groups & Teams  | Required to list top-level site collections via R
 
 Source URL: https://www.keepit.com/help/microsoft-365-category/powershell-script-for-entra-id-app-registration/
 Content type: Web page
-Last modified: 2026-06-29T23:27:17+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-22T10:56:50+02:00
+Retrieved: 2026-09-27
 
 ============================================================
 
 PowerShell script for Entra ID app registration
 Use this PowerShell script to generate a certificate and private key to use to connect your Entra ID app registration to Keepit.
-After you download the script and before you run it, rename the file extension to .ps1.
+Copy the script into Notepad, rename the file extension to .ps1, and then run it.
+For more information on how to run the script, see: Generate a certificate for your Entra ID app registration
 Supported formats:
 - The certificate can have the following formats: CRT, CER, PEM.
 - The private key must be in the KEY format.
@@ -21692,8 +21692,8 @@ Keepit stores data in one of its seven data centers, which are located in:
 
 Source URL: https://www.keepit.com/help/platform-category/keepits-public-ip-addresses/
 Content type: Web page
-Last modified: 2026-04-30T15:02:30+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-22T10:11:56+02:00
+Retrieved: 2026-09-27
 
 ============================================================
 
@@ -21717,6 +21717,8 @@ Germany, Frankfurt (de-fr)
 185.221.245.17
 185.221.245.18
 185.221.245.19
+185.221.245.20
+185.221.245.21
 For SIEM integration
 185.221.245.4
 185.221.245.5

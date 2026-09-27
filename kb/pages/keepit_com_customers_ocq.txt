@@ -1,0 +1,33 @@
+Source URL: https://www.keepit.com/customers/ocq/
+Content type: Web page
+Last modified: 2026-09-24T21:21:32+02:00
+Retrieved: 2026-09-27
+
+============================================================
+
+OCQ Groupâ¯reduces backup costs by 50% while strengthening recovery confidence
+Theâ¯OCQ Groupâ¯(OCQ)â¯relies on Microsoft 365, SharePoint,â¯andâ¯Teams to support approximately 1,200 users across the business. As the company’s SaaS environment continued to grow, the IT team needed a backup and recovery solution that could address Microsoft’s native recovery limitations, support legal compliance and ongoing audits, and provide a simpler way to manage backup across multiple Microsoft tenants.
+Beyond native Microsoft recovery
+OCQâ¯began searching for a new backup solution to strengthen Microsoft 365 data protection. While Microsoft 365 is central to the company’s operations, the team recognized that relying only on built-in capabilities would not provide the level of protection, retention, and recoveryâ¯confidenceâ¯the businessâ¯required.
+The company needed a dedicated SaaS backup and recovery solution to help protect against data loss, support versioning, and encrypt backup data for sensitive information. Compliance was also a key priority. Legal requirements and ongoing audits meant the IT team needed data to remain protected, transparent, and recoverable. Movti, a Keepit Value Added Reseller, helped OCQ identify and implement a backup and recovery solution built for where the business was heading.
+We needed a solution that could support legal compliance, ongoing audits, versioning, and encryption while giving us confidence in Microsoft 365 data recovery.
+– Claudiaâ¯de Moyaâ¯Partitiâ¯Ferraz
+CIO/Headâ¯of IT, OCQ Group
+Aâ¯simpler, more predictable approach
+Cost wasâ¯an important factorâ¯in the evaluation, but itâ¯wasn’tâ¯the only one. The team also looked closely at security, compliance, ease of operation and configuration, and integration across multiple Microsoft tenants. The right solution needed to be efficient to manage without adding unnecessary administrative overhead.â¯
+Keepit stood out for its predictable cost model, unlimited backup, and ease of use. Compared with the company’sâ¯previousâ¯tool, Keepit helped reduce costs while also removing concerns about unexpected storage usage charges. For the ITâ¯team,â¯predictability was important. As data volumes grow, backup costs should not become harder to forecast or manage.
+Keepit’s intuitive platform also made day-to-day operations simpler. With fast setup, simple navigation, and integration across key applications, Keepit helpedâ¯OCQâ¯move quickly from evaluation to implementation, supported by the Keepit team.â¯
+Since implementing Keepit, we’ve achieved a 50% cost reduction compared with our previous tool, with fast deployment and complete confidence in Microsoft 365 data recovery.
+– Claudiaâ¯de Moyaâ¯Partitiâ¯Ferraz
+CIO/Headâ¯of IT, OCQ Group
+Compliance with regional data centers
+Regional data centers were anotherâ¯important factorâ¯in the decision.â¯Forâ¯OCQ, data residency helps support regulatory and compliance requirements.â¯It also contributes to lower latency and better performance during file transfers.â¯
+Keepit’s independent architecture was especially relevant for Microsoft 365 protection. Because backups are kept separate from the Microsoft SaaS environment, the company has confidence that backup dataâ¯remainsâ¯intact even if Microsoft policies change. It also supports recovery independent of the purchased Microsoft license subscription.â¯
+Security was central to the decision as well. Keepit provides an independent, immutable backup environment with encryption, flexible access control, retention options, and audit-ready logs. Forâ¯OCQ, immutability helps protect backup data against ransomware scenarios where files could be encrypted or altered, while encryption helps protect sensitive information and support compliance with legislation.
+Fast deployment and greaterâ¯recoveryâ¯confidence
+Since implementing Keepit, the IT team was able to deploy the solution quickly and strengthen Microsoft 365 data protection.
+With Keepit,â¯OCQâ¯gained a more predictable and easier-to-operate approach to SaaS backup and recovery, helping reduce administrative effort while improving confidence that critical Microsoft 365 data can be recovered when needed.â¯
+For the IT team, Keepit has proven to be efficient, secure, and agile, giving the company a stronger foundation for Microsoft 365 recovery and long-term SaaS data protection.â¯ Keepit has also contributed to stronger data governance across the organization, giving the IT team greater control over data retention, auditing, and critical data recovery. Today, Keepit is an important pillar for ensuring operational continuity with financial efficiency.
+Keepit has become an important pillar for our business—reducing costs, strengthening data governance, and giving us the confidence that our operations can continue without interruption.
+– Stefano de Moraes
+Information Technology, OCQ Group

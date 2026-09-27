@@ -1,0 +1,30 @@
+Source URL: https://www.keepit.com/customers/uisa/
+Content type: Web page
+Last modified: 2026-09-24T21:17:59+02:00
+Retrieved: 2026-09-27
+
+============================================================
+
+Keepit and Uisa: One backup platform, total confidence
+Managing backups across Microsoft 365, Google Workspace, and Salesforce simultaneously is complex enough. For Uisa, one of Brazil’s largest biorefineries, doing it without a single point of failure while staying in full compliance with Brazil’s General Data Protection Law (LGPD) was a hard requirement from day one. Today, 1,300 users and 120 TB of operational and strategic data are fully protected through a single, independent platform, ready for restoration within minutes if needed.
+Three major cloud platforms, no data silosâ¯
+Uisa operates at a scale where information is inseparable from business performance. Commercial data lives in Salesforce. Corporate documents and collaboration run through Microsoft 365, with a heavy reliance on SharePoint. Day-to-day operations extend across Google Workspace as well.
+Compliance added another layer of urgency. Brazil’s LGPD regulation and the strict rules governing the country’s agribusiness and biofuels sector required long-term data retention and clear evidence of data residency. Both factors would become central to the vendor evaluation.
+Managing backups for Microsoft, Google, and Salesforce individually would create data silos and enormous complexity. We needed a centralized, reliable solution that was fully independent of those providers.
+– Rodrigo Gonçalves
+Vice President of IT, Uisa
+Vendor independence and complianceâ¯
+Most alternatives required complex architectures or proprietary infrastructure that would have driven up cost and implementation complexity. After working through its requirements with Movti, a Keepit Value Added Reseller, Uisa chose Keepit as its SaaS data protection solution. Keepit offered something different: an end-to-end, ready-to-use solution built on a private, independent cloud. The vendor-independent architecture meant that if Microsoft or Google ever experienced an outage or ransomware incident, Uisa’s data would remain completely unaffected.â¯
+Physical immutability was the decisive security factor. Keepit’s architecture ensures that backup copies can’t be encrypted or deleted by a ransomware attack targeting secondary storage. That scenario was one the team considered a real and present risk, and eliminating it was a condition of any viable solution.â¯
+Data residency also played a direct role. With global customers conducting audits of Uisa’s supply chain for its biological and food products, demonstrating LGPD compliance wasn’t theoretical. "The data residency guarantee helps us demonstrate immediate compliance with LGPD requirements and with the audits carried out by global clients," Gonçalves explains.â¯â¯
+One platform and a cost model that scales
+The commercial model was the final piece that made Keepit a clear choice. Unlimited storage with total cost predictability meant no billing surprises as data volumes grow, and that transformed the evaluation from a technical exercise into a strategic decision.
+â¯Implementation delivered on the promise. The centralized dashboard consolidated backup monitoring across Microsoft 365, Google Workspace, and Salesforce into a single view, eliminating the manual overhead of managing three separate environments. Uisa is also in the advanced stages of expanding coverage to Microsoft Entra ID, protecting user identities and configurations alongside its application data.
+The centralized dashboard simplified our backup management, and the anti-ransomware security layers gave us the cyber resilience that today’s threat landscape demands.
+– Rodrigo Gonçalves
+Vice President of IT, Uisa
+Faster recovery, a lighter IT teamâ¯
+The operational impact of Keepit showed up quickly in how the IT team works. Keepit’s universal search and granular recovery capabilities allow the team to locate and restore a file from SharePoint, a document from Google Drive, or a record from Salesforce in minutes, without navigating across separate interfaces or tools. “The combination of intelligent universal search and granular recovery has brought an unprecedented gain in agility to our company, resulting in a more strategically focused IT team,” said Gonçalves. â¯
+The broader impact on business continuity is just as tangible. Historical data essential for commercial and administrative decision-making remains preserved and ready to recover, regardless of what’s happening at the provider level. For Uisa, backup is no longer a vulnerability.â¯
+A foundation for continued innovationâ¯
+For an organization that ranked second among Brazil’s 100 Most Innovative Companies in IT Use in 2025, according to IT Forum, the expectations for its data infrastructure are high. With Keepit in place, Uisa’s IT team is freed from reactive monitoring and positioned to focus on the innovation, automation, and strategic growth that define the company’s competitive edge. As the scope of protection expands to cover Entra ID and beyond, the foundation is built to grow with the business.â¯

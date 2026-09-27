@@ -1,13 +1,14 @@
 Source URL: https://www.keepit.com/help/microsoft-365-category/powershell-script-for-entra-id-app-registration/
 Content type: Web page
-Last modified: 2026-06-29T23:27:17+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-22T10:56:50+02:00
+Retrieved: 2026-09-27
 
 ============================================================
 
 PowerShell script for Entra ID app registration
 Use this PowerShell script to generate a certificate and private key to use to connect your Entra ID app registration to Keepit.
-After you download the script and before you run it, rename the file extension to .ps1.
+Copy the script into Notepad, rename the file extension to .ps1, and then run it.
+For more information on how to run the script, see: Generate a certificate for your Entra ID app registration
 Supported formats:
 - The certificate can have the following formats: CRT, CER, PEM.
 - The private key must be in the KEY format.

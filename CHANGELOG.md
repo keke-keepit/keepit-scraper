@@ -1,5 +1,29 @@
 # Keepit KB Changelog
 
+## 2026-09-27
+
+Added (12):
+- https://www.keepit.com/blog/llms-are-like-cats/
+- https://www.keepit.com/book-a-meeting-am/
+- https://www.keepit.com/customers/ocq/
+- https://www.keepit.com/customers/uisa/
+- https://www.keepit.com/customers/uk-university/
+- https://www.keepit.com/customers/university-of-derby/
+- https://www.keepit.com/press/stratus-2026/
+- https://lp.keepit.com/hubfs/Keepit-OCQ-Case-Study-EN.pdf
+- https://lp.keepit.com/hubfs/content-assets/EN/Identity-protection-with-Keepit.pdf
+- https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-UISA-Case-Study-EN.pdf
+- https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-UK-University-Case-Study-EN.pdf
+- https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-University-of-Derby-Case-Study-EN.pdf
+
+Modified (6):
+- https://www.keepit.com/blog/
+- https://www.keepit.com/help/microsoft-365-category/generate-a-certificate-for-your-entra-id-app-registration/
+- https://www.keepit.com/help/microsoft-365-category/powershell-script-for-entra-id-app-registration/
+- https://www.keepit.com/help/platform-category/keepits-public-ip-addresses/
+- https://www.keepit.com/press/
+- https://www.keepit.com/why-keepit/roi-calculator/
+
 ## 2026-09-20
 
 Added (4):

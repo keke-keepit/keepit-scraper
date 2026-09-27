@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — CUSTOMERS
-Generated: 2026-09-20
-Pages: 62
+Generated: 2026-09-27
+Pages: 66
 ============================================================
 
 Source URL: https://www.keepit.com/customers/
@@ -1209,6 +1209,42 @@ Mums In Need
 
 ------------------------------------------------------------
 
+Source URL: https://www.keepit.com/customers/ocq/
+Content type: Web page
+Last modified: 2026-09-24T21:21:32+02:00
+Retrieved: 2026-09-27
+
+============================================================
+
+OCQ Groupâ¯reduces backup costs by 50% while strengthening recovery confidence
+Theâ¯OCQ Groupâ¯(OCQ)â¯relies on Microsoft 365, SharePoint,â¯andâ¯Teams to support approximately 1,200 users across the business. As the company’s SaaS environment continued to grow, the IT team needed a backup and recovery solution that could address Microsoft’s native recovery limitations, support legal compliance and ongoing audits, and provide a simpler way to manage backup across multiple Microsoft tenants.
+Beyond native Microsoft recovery
+OCQâ¯began searching for a new backup solution to strengthen Microsoft 365 data protection. While Microsoft 365 is central to the company’s operations, the team recognized that relying only on built-in capabilities would not provide the level of protection, retention, and recoveryâ¯confidenceâ¯the businessâ¯required.
+The company needed a dedicated SaaS backup and recovery solution to help protect against data loss, support versioning, and encrypt backup data for sensitive information. Compliance was also a key priority. Legal requirements and ongoing audits meant the IT team needed data to remain protected, transparent, and recoverable. Movti, a Keepit Value Added Reseller, helped OCQ identify and implement a backup and recovery solution built for where the business was heading.
+We needed a solution that could support legal compliance, ongoing audits, versioning, and encryption while giving us confidence in Microsoft 365 data recovery.
+– Claudiaâ¯de Moyaâ¯Partitiâ¯Ferraz
+CIO/Headâ¯of IT, OCQ Group
+Aâ¯simpler, more predictable approach
+Cost wasâ¯an important factorâ¯in the evaluation, but itâ¯wasn’tâ¯the only one. The team also looked closely at security, compliance, ease of operation and configuration, and integration across multiple Microsoft tenants. The right solution needed to be efficient to manage without adding unnecessary administrative overhead.â¯
+Keepit stood out for its predictable cost model, unlimited backup, and ease of use. Compared with the company’sâ¯previousâ¯tool, Keepit helped reduce costs while also removing concerns about unexpected storage usage charges. For the ITâ¯team,â¯predictability was important. As data volumes grow, backup costs should not become harder to forecast or manage.
+Keepit’s intuitive platform also made day-to-day operations simpler. With fast setup, simple navigation, and integration across key applications, Keepit helpedâ¯OCQâ¯move quickly from evaluation to implementation, supported by the Keepit team.â¯
+Since implementing Keepit, we’ve achieved a 50% cost reduction compared with our previous tool, with fast deployment and complete confidence in Microsoft 365 data recovery.
+– Claudiaâ¯de Moyaâ¯Partitiâ¯Ferraz
+CIO/Headâ¯of IT, OCQ Group
+Compliance with regional data centers
+Regional data centers were anotherâ¯important factorâ¯in the decision.â¯Forâ¯OCQ, data residency helps support regulatory and compliance requirements.â¯It also contributes to lower latency and better performance during file transfers.â¯
+Keepit’s independent architecture was especially relevant for Microsoft 365 protection. Because backups are kept separate from the Microsoft SaaS environment, the company has confidence that backup dataâ¯remainsâ¯intact even if Microsoft policies change. It also supports recovery independent of the purchased Microsoft license subscription.â¯
+Security was central to the decision as well. Keepit provides an independent, immutable backup environment with encryption, flexible access control, retention options, and audit-ready logs. Forâ¯OCQ, immutability helps protect backup data against ransomware scenarios where files could be encrypted or altered, while encryption helps protect sensitive information and support compliance with legislation.
+Fast deployment and greaterâ¯recoveryâ¯confidence
+Since implementing Keepit, the IT team was able to deploy the solution quickly and strengthen Microsoft 365 data protection.
+With Keepit,â¯OCQâ¯gained a more predictable and easier-to-operate approach to SaaS backup and recovery, helping reduce administrative effort while improving confidence that critical Microsoft 365 data can be recovered when needed.â¯
+For the IT team, Keepit has proven to be efficient, secure, and agile, giving the company a stronger foundation for Microsoft 365 recovery and long-term SaaS data protection.â¯ Keepit has also contributed to stronger data governance across the organization, giving the IT team greater control over data retention, auditing, and critical data recovery. Today, Keepit is an important pillar for ensuring operational continuity with financial efficiency.
+Keepit has become an important pillar for our business—reducing costs, strengthening data governance, and giving us the confidence that our operations can continue without interruption.
+– Stefano de Moraes
+Information Technology, OCQ Group
+
+------------------------------------------------------------
+
 Source URL: https://www.keepit.com/customers/ornskoldsvik-municipality/
 Content type: Web page
 Last modified: 2025-12-02T13:37:29+01:00
@@ -1881,6 +1917,100 @@ Infrastructure Solutionsâ¯andâ¯Operationsâ¯atâ¯TRUMPFâ¯
 Advice for organizations evaluating SaaS backupâ¯
 Based onâ¯Gaiser’s experience,â¯heâ¯recommends that other organizations define their requirements early, especially when it comes to compliance, data sovereignty, and recovery expectations. He also suggests running a pilot phase toâ¯validateâ¯operational needs andâ¯assessâ¯support options to ensure long-term stability.â¯“Know what you need from the start and make sure the solution can grow with you,” he says.â¯
 With Keepit, TRUMPF has strengthened its global data protection strategy, improved operational efficiency, and gained a reliable foundation for securely managing sensitive information across its business.â¯
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/customers/uisa/
+Content type: Web page
+Last modified: 2026-09-24T21:17:59+02:00
+Retrieved: 2026-09-27
+
+============================================================
+
+Keepit and Uisa: One backup platform, total confidence
+Managing backups across Microsoft 365, Google Workspace, and Salesforce simultaneously is complex enough. For Uisa, one of Brazil’s largest biorefineries, doing it without a single point of failure while staying in full compliance with Brazil’s General Data Protection Law (LGPD) was a hard requirement from day one. Today, 1,300 users and 120 TB of operational and strategic data are fully protected through a single, independent platform, ready for restoration within minutes if needed.
+Three major cloud platforms, no data silosâ¯
+Uisa operates at a scale where information is inseparable from business performance. Commercial data lives in Salesforce. Corporate documents and collaboration run through Microsoft 365, with a heavy reliance on SharePoint. Day-to-day operations extend across Google Workspace as well.
+Compliance added another layer of urgency. Brazil’s LGPD regulation and the strict rules governing the country’s agribusiness and biofuels sector required long-term data retention and clear evidence of data residency. Both factors would become central to the vendor evaluation.
+Managing backups for Microsoft, Google, and Salesforce individually would create data silos and enormous complexity. We needed a centralized, reliable solution that was fully independent of those providers.
+– Rodrigo Gonçalves
+Vice President of IT, Uisa
+Vendor independence and complianceâ¯
+Most alternatives required complex architectures or proprietary infrastructure that would have driven up cost and implementation complexity. After working through its requirements with Movti, a Keepit Value Added Reseller, Uisa chose Keepit as its SaaS data protection solution. Keepit offered something different: an end-to-end, ready-to-use solution built on a private, independent cloud. The vendor-independent architecture meant that if Microsoft or Google ever experienced an outage or ransomware incident, Uisa’s data would remain completely unaffected.â¯
+Physical immutability was the decisive security factor. Keepit’s architecture ensures that backup copies can’t be encrypted or deleted by a ransomware attack targeting secondary storage. That scenario was one the team considered a real and present risk, and eliminating it was a condition of any viable solution.â¯
+Data residency also played a direct role. With global customers conducting audits of Uisa’s supply chain for its biological and food products, demonstrating LGPD compliance wasn’t theoretical. "The data residency guarantee helps us demonstrate immediate compliance with LGPD requirements and with the audits carried out by global clients," Gonçalves explains.â¯â¯
+One platform and a cost model that scales
+The commercial model was the final piece that made Keepit a clear choice. Unlimited storage with total cost predictability meant no billing surprises as data volumes grow, and that transformed the evaluation from a technical exercise into a strategic decision.
+â¯Implementation delivered on the promise. The centralized dashboard consolidated backup monitoring across Microsoft 365, Google Workspace, and Salesforce into a single view, eliminating the manual overhead of managing three separate environments. Uisa is also in the advanced stages of expanding coverage to Microsoft Entra ID, protecting user identities and configurations alongside its application data.
+The centralized dashboard simplified our backup management, and the anti-ransomware security layers gave us the cyber resilience that today’s threat landscape demands.
+– Rodrigo Gonçalves
+Vice President of IT, Uisa
+Faster recovery, a lighter IT teamâ¯
+The operational impact of Keepit showed up quickly in how the IT team works. Keepit’s universal search and granular recovery capabilities allow the team to locate and restore a file from SharePoint, a document from Google Drive, or a record from Salesforce in minutes, without navigating across separate interfaces or tools. “The combination of intelligent universal search and granular recovery has brought an unprecedented gain in agility to our company, resulting in a more strategically focused IT team,” said Gonçalves. â¯
+The broader impact on business continuity is just as tangible. Historical data essential for commercial and administrative decision-making remains preserved and ready to recover, regardless of what’s happening at the provider level. For Uisa, backup is no longer a vulnerability.â¯
+A foundation for continued innovationâ¯
+For an organization that ranked second among Brazil’s 100 Most Innovative Companies in IT Use in 2025, according to IT Forum, the expectations for its data infrastructure are high. With Keepit in place, Uisa’s IT team is freed from reactive monitoring and positioned to focus on the innovation, automation, and strategic growth that define the company’s competitive edge. As the scope of protection expands to cover Entra ID and beyond, the foundation is built to grow with the business.â¯
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/customers/uk-university/
+Content type: Web page
+Last modified: 2026-09-22T18:40:01+02:00
+Retrieved: 2026-09-27
+
+============================================================
+
+A UK university simplifies Microsoft 365 backup and recovery
+At a leading UK campus university, Microsoft 365 plays an important role in how students and staff collaborate, store information, and get work done. The head of infrastructure and his team manage the platform alongside cloud and on-premises infrastructure, supporting the systems that help keep the university running. As Microsoft 365 usage continued to grow and Microsoft redefined its education storage policies, the university partnered with ET Works to select and deploy a backup and recovery solution that could meet its evolving needs.
+Evaluating SaaS backup providers
+The university needed a more comprehensive backup and recovery approach that could support the growing amount of data in its Microsoft tenant, was practical for IT to manage, and was flexible enough for a higher education environment where student and staff populations change throughout the year. ET Works guided the university through a thorough vendor evaluation process, reviewing the market and comparing multiple backup providers. Keepit stood out for its ease of use, strong engagement, predictable pricing, and ability to support fluctuating user numbers without unnecessary complexity — all important factors for a university environment.
+For an education environment where data location is a key consideration, Keepit's UK data centers were another important factor in the decision, alongside the platform's ability to strengthen recovery capabilities and reduce storage pressure.
+Having our data stored in Keepit's UK data centres is important to us. In education, we need to know where our data is.
+Head of Infrastructure, UK University
+A simple experience for IT
+The IT team needed a platform that didn't require a heavy training effort and could make common recovery tasks straightforward. ET Works helped the team get up and running quickly, ensuring the configuration was well suited to the university's environment.
+That simplicity matters where recovery needs may vary across different user groups. For example, a former student may need access to data after leaving the university. With Keepit, the team doesn't have to restore the full account to provide access. Instead, they can create a public link or share the data by email with a password. An IT person can choose the relevant user group, locate the user, select what needs to be restored, and choose the correct date in just a few minutes.
+The process of restoring is pretty simple.
+Head of Infrastructure, UK University
+Supporting security, flexibility, and data location needs
+The university also valued Keepit's independent architecture. Keepit uses its own data centers rather than relying on third-party hyperscalers cloud infrastructure, helping support the university's data protection priorities alongside the UK data residency option. The team also appreciated that while Keepit needed certain permissions to connect to the Microsoft 365 tenant, these could be removed afterwards, avoiding an over-provisioned service account.
+Customer feedback that helps shape the product
+Beyond backup and recovery, the university has engaged with Keepit's product ideas process, using it to submit feedback and suggest improvements — and seeing that feedback reflected in the product.
+With Keepit, the university now has a dedicated Microsoft 365 backup and recovery solution that delivers tangible results across the IT operation. Storage pressure has been reduced, recovery tasks that once required significant effort can now be completed in minutes, and the team has greater confidence that data can be restored quickly when needed. For a university managing a constantly changing population of students and staff, the flexibility and simplicity of the solution has also reduced the day-to-day administrative burden on IT, leaving the team better placed to focus on supporting the wider institution.
+Keepit actually listens to its customers. We can give feedback, suggest things, and then they get implemented into the product.
+Head of Infrastructure, UK University
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/customers/university-of-derby/
+Content type: Web page
+Last modified: 2026-09-22T18:33:35+02:00
+Retrieved: 2026-09-27
+
+============================================================
+
+Keepit helps University of Derby find a simpler path to SaaS protection and regulatory compliance
+The University of Derby needed data protection that could keep pace with a growing SaaS environment. GDPR and Cyber Essentials set the baseline, but the team had additional requirements: longer retention windows and certainty that their data was stored in UK-based data centers. Beyond compliance, they needed a solution that required no hardware or software agents and was straightforward to use and manage. That combination is what led them to Keepit.
+A growing SaaS footprint called for a new approach
+The University of Derby is the only university in Derbyshire, England, serving students across campuses in the UK and internationally. With a large userbase and growing reliance on Microsoft 365, SharePoint, Teams, Entra ID, and Azure DevOps, the university's digital environment had become central to everything from teaching to day-to-day operations.
+As we move to more cloud-based services, having longer retention and knowing our data stays in UK-based data centers was important to us.
+– Ash Smith
+Sr. Engineer – Infrastructure & Identity, University of Derby
+The proof of concept made the decision easy
+After initial conversations with Keepit, the university ran a proof of concept to test the platform firsthand. The criteria were clear: ease of use, reliable performance, good support, and the ability for end users to recover their own data. Keepit met every requirement, and where a feature was still in development, the roadmap was transparent.
+A key factor in the decision was Keepit's independent, vendor-neutral cloud. It stores data in a separate infrastructure, with immutable backups that can't be altered or deleted even in the event of an incident. After careful consideration we found many vendors stored recovery data in the same regions which we wanted to ensure clear separation of live and backup data. Vendor independence, straightforward setup, competitive pricing, and strong support made Keepit the clear choice.
+Keepit's vendor-independent architecture was a major factor in our decision.
+– Ash Smith
+Sr. Engineer – Infrastructure & Identity, University of Derby
+Self-service recovery saves time for everyone
+Since deployment, recovery times have dropped significantly and the complexity of handling data across student, staff, and departmental groups has simplified considerably, with Keepit's connectors keeping each group's data clearly separated and easy to manage.
+One capability that has made a particular difference is the ability to share secure, time-limited links directly with users who need to recover their own data. Previously, a recovery request meant walking through a series of questions before anyone could act. Now, the IT team can point users to their own data via a password-protected link, putting recovery in the hands of the people who need it.
+Keepit also covers Azure DevOps, a capability that has become increasingly important as the university moves away from local code copies on engineer devices toward centralized backup with long retention and straightforward restore options.
+Since moving to Keepit we've reduced our recovery times significantly. And because there's no hardware or software to manage, our team can focus on other areas.
+– Ash Smith
+Sr. Engineer – Infrastructure & Identity, University of Derby
+Built for what comes next
+The University of Derby is continuing to grow its cloud-first infrastructure, and Keepit is part of the foundation that makes that possible. With approximately 360TB of data currently protected across Microsoft 365, Entra ID, SharePoint, Teams, OneDrive, Exchange, and Azure DevOps, all from a single platform, the team has the resilience and visibility they need to keep moving forward. With a platform that scales with them, the university is well positioned for what comes next.
 
 ------------------------------------------------------------
 
