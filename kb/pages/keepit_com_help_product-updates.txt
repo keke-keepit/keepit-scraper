@@ -1,12 +1,22 @@
 Source URL: https://www.keepit.com/help/product-updates/
 Content type: Web page
-Last modified: 2026-09-09T13:19:06+02:00
-Retrieved: 2026-09-13
+Last modified: 2026-09-29T17:36:30+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
 Keepit product updates
 ââWhat's new in the Keepit Platform
+10.26.0 - What's New in the Keepit Platform
+Redesigned Single Sign-On experience
+Logging in with Single Sign-On (SSO) is now clearer and more intuitive. The platform automatically detects your authentication method and routes you to the right login flow.
+What's new
+The sign-in flow now detects your SSO configuration as soon as you enter your email and click Continue:
+- If SSO is optional, you can choose between SSO or password.
+- If SSO is required, you're sent directly to your identity provider — such as Microsoft Entra ID, Okta, or Google Workspace.
+- If no SSO is configured, you're prompted for your password as usual.
+Why it matters
+Users reach the right login path on the first try, reducing failed attempts and frustration. IT admins spend less time fielding authentication support requests, and first-time users get a smoother onboarding experience that matches modern enterprise SaaS standards.
 10.25.0 - What's New in the Keepit Platform
 Zendesk: connector authorization with scoped admin access
 You can now authorize the Keepit Zendesk connector using scoped admin credentials, so teams with role-based Zendesk environments can set up and maintain backup without needing global admin access.
@@ -686,7 +696,6 @@ We have implemented significant backend improvements to enhance platform availab
 8.7.0 - What's New in the Keepit Platform
 Protect Teams chats with our new Microsoft 365 data area
 In addition to backing up channel chats in Teams, we now allow you to back up Teams one-on-one chats, group chats, and meeting chats. Chats can be previewed and downloaded, and a future release will add support for restoring chats in a variety of formats. 
- 
 To back up Teams chats on existing connectors, open the connector configuration and enable the Teams Chats backup. 
 Restore your Salesforce records with more ease
 We have improved our Salesforce restore wizard, giving you a smoother experience in recovering your data.

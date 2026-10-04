@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/security/
 Content type: Web page
-Last modified: 2026-09-03T23:53:05+02:00
-Retrieved: 2026-09-06
+Last modified: 2026-09-28T16:34:27+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
@@ -49,6 +49,9 @@ Read the case study
 We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
 Read the case study
 âOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.
+Blaze Credit Union protects multiple SaaS applications with Keepit
+"We protect all of our business critical SaaS platforms with Keepit. Using one platform to secure all of this data reduces complexity and makes it very easy to manage."
+— Grant Aslakson, Director of Information Security Operations, Blaze Credit Union
 Want to learn more? Get in touch to hear more about the Keepit platform
 Ensure business continuity with Keepit
 Get visibility on your data with intelligent data monitoring

@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-salesforce/
 Content type: Web page
-Last modified: 2026-08-12T18:26:06+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-10-01T21:40:29+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
@@ -20,7 +20,7 @@ Time is a key factor in data recovery. Our search makes it easy to find, preview
 Granular restore
 Recover exactly what you need - specific records, fields and metadata – directly into your production or sandbox environments. With Keepit’s hot storage there is no waiting and no wasted time.
 Predictable costs
-Back up Salesforce with simple per-seat pricing and no hidden fees. Pay only for active users, keep inactive user data at no extra cost, and enjoy unlimited retention and restores.
+Back up Salesforce with simple per-seat pricing and no hidden fees. Pay only for active users, keep inactive user data at no extra cost, and enjoy long-term retention and unlimited restores.
 Your data deserves the best coverage
 Objects
 - Standard objects
@@ -77,7 +77,7 @@ Data Sovereignty. Keepit operates its own data centers in multiple regions globa
 The Right to be Forgotten. Stay fully compliant with GDPR by preventing data from being previewed, downloaded, and restored to your production database.
 Security Controls. Manage who has access to data and what permissions they have with granular Role Based Access Controls (RBAC) and ensure strong authentication with MFA and SSO.
 Keepit’s pricing is user-based — not tied to data volume. You only pay for active Salesforce users, while we continue to protect data from inactive users at no additional cost.
-There are no data transfer fees, rehydration charges, or storage costs, and retention is unlimited. That means you can back up and restore with complete peace of mind — without worrying about growing data volumes, hidden fees, or long-term limits. As your Salesforce environment evolves, your protection scales with you.
+There are no data transfer fees, rehydration charges, or additional storage costs. That means you can back up and restore with complete peace of mind — without worrying about growing data volumes, hidden fees, or long-term limits. As your Salesforce environment evolves, your protection scales with you.
 Salesforce Ben secures its Salesforce data with Keepit
 "We just let it run, and it does exactly what we need it to do. Knowing backups are completing successfully without intervention is a huge time-saver."
 — Andreea Doroftei, Solution Architect, Salesforce Ben
@@ -131,6 +131,6 @@ Once the connector is set up, you can configure the following items:
 - Manage user access to the connector
 - Limit the retention period of the connector
 Always within the data center region you specify. Currently we have seven data center regions: EU-Denmark, EU-Germany, Switzerland, UKI, US, Canada and Australia.
-Depending on the Service Offering you are choosing, Keepit retains your data for 1 year, with the Business Essentials Service Offering, or for an unlimited period, with the Enterprise Unlimited and Governance Plus Service Offerings. Visit our pricing page to learn more.
+Depending on the Service Offering: 5 years with Core Continuity, 10 years with Business and Enterprise Resilience with an add-on for unlimited retention. Visit our pricing page to learn more.
 You can also set a custom retention period for your connector, but it cannot extend beyond the retention period that is assigned to your account. Read more on how it works on our Support site.
 Yes, you can combine Salesforce backup with your other favorite SaaS app backups such as Microsoft 365, Entra ID (formerly Azure AD), Dynamics 365, Zendesk, Google Workspace, and others. Discover all Keepit Services and request a demo from our team of experts.

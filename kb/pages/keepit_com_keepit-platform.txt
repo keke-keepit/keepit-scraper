@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/keepit-platform/
 Content type: Web page
-Last modified: 2026-03-30T22:38:57+02:00
-Retrieved: 2026-08-02
+Last modified: 2026-10-01T21:25:22+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
@@ -21,6 +21,8 @@ The intelligent approach to compliance
 Keepit’s platform prioritizes cloud data integrity and compliance, providing an independent, immutable backup environment with flexible access control and retention options. From secure architecture to audit-ready logs, Keepit ensures your data remains protected, transparent, and aligned with all regulatory requirements. Now that's intelligent.
 Immutable by design
 With a resilient, independent cloud, Keepit secures data via immutability and an air-gapped architecture. Our platform safeguards against threats, ensuring that every backup is unalterable and protected.
+Unlimited hot storage
+Keepit's platform allows instant access to all backups via always-hot storage. Never pay storage overage fees again. Retention options from 5 years to unlimited, according to your requirements.
 Intelligent data security
 Scalable for your evolving needs
 Keepit’s platform is engineered for the cloud, offering scalable, API-driven backup solutions designed to meet the demands of modern businesses. With intelligent recovery and enterprise-level adaptability, we ensure your data protection strategy stays aligned with your evolving SaaS environment.

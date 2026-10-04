@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — HELP
-Generated: 2026-09-27
-Pages: 375
+Generated: 2026-10-04
+Pages: 377
 ============================================================
 
 Source URL: https://www.keepit.com/help/
@@ -9540,8 +9540,8 @@ Note: We cannot reestablish deleted users' memberships to distribution and mail-
 
 Source URL: https://www.keepit.com/help/entra-id-category/restore-an-entra-id-app-registration/
 Content type: Web page
-Last modified: 2026-07-03T23:59:02+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-29T13:49:35+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
@@ -9549,20 +9549,21 @@ Restore an Entra ID app registration
 Restoring an app registration will update basic information about the application and reestablish links to its owners.
 Restore an app registration
 1. In your connector, find the app registration you want to restore.
-2. Optional: If you want to restore an item from an earlier point in time, open the Snapshots Viewer. Then select the appropriate snapshot.
+2. (Optional) To restore an item from an earlier point in time, open the Snapshots Viewer and select the appropriate snapshot.
 3. To the right of the item, click ••• > Restore.
 4. Click Yes to restore the item.
-Note: To restore multiple items at a time, select the items. In the toolbar, click Restore.
 What happens when an app registration is restored
 Attributes and basic information restored
 Attributes, basic information about the application (Essentials in the overview), and the data in the sections Branding & properties, Authentication, and App roles are restored.
 Relationships reestablished
-The following relationships are reestablished:Owners - links to users who are owners of this app registration will be restored.
+The following relationships are reestablished:
+- Owners — links to users who are owners of this app registration will be restored.
 Note: A relationship can be reestablished only if the linked object still exists in Entra ID. 
 New ID and creation time
-If the app registration has been recently deleted (the app remains in a suspended state for 30 days), it will be restored with its original ID and original creation times (but deletion time property will change to null).If the app registration has been permanently deleted, it will be restored with new ID and creation times.
+- If the app registration was recently deleted (it remains in a suspended state for 30 days), Keepit restores it with its original ID and creation time. The deletion time property changes to null.
+- If the app registration was permanently deleted, Keepit restores it with a new ID and creation time.
 Limitations
-Due to an API limitation, we do not back up or restore data in Certificates & secrets. After an app registration is restored, create the certificates and client secrets manually.
+Due to an API limitation, Keepit doesn't back up or restore data in Certificates & secrets unless the connector has an Azure Key Vault instance connected. For details on how Keepit handles secrets and certificates during a restore, see Application and service principal restores.
 
 ------------------------------------------------------------
 
@@ -9774,8 +9775,8 @@ Note: We cannot reestablish deleted users' memberships to distribution and mail-
 
 Source URL: https://www.keepit.com/help/entra-id-category/restore-an-entra-id-service-principal/
 Content type: Web page
-Last modified: 2026-07-03T23:56:40+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-29T13:46:55+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
@@ -9788,7 +9789,7 @@ Restore a service principal
 4. Select whether to restore the related app registration.
 - Restore only service principal - Only the service principal will be restored. Then it will be linked to the existing app registration.
 - Also restore related app registration - The related app registration will also be restored. If the app registration still exists, the app will be updated. If the app registration is missing, we will create it. Then we will restore the service principal and link it to the app registration. 
- Note: Restoring a related app registration from a different tenant is not supported.
+Note: Restoring a related app registration from a different tenant is not supported.
 5. Review the summary and select Restore.
 What happens when a service principal is restored
 Properties updated
@@ -9808,6 +9809,7 @@ Due to API limitations, we do not back up or restore the following:
 - Single sign-on
 - Self-service
 - Permissions
+For how Keepit handles secrets and certificates during a restore, see Application and service principal restores.
 Permissions
 To ensure the application works properly, grant the permissions requested by the application after you restore the service principal.
 In Entra ID, open the service principal, then click Permissions. Click the button Grant admin consent.
@@ -10254,25 +10256,27 @@ Important: If the deleted user was a member of a distribution group or mail-enab
 
 Source URL: https://www.keepit.com/help/entra-id-category/when-is-the-global-admin-role-required-for-entra-id-backup-service-account/
 Content type: Web page
-Last modified: 2026-07-03T23:31:55+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-29T14:42:20+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
-When is the Global Admin role required for Entra ID backup service account?
-A dedicated Microsoft service account with the Global Admin role is required for creating and reauthenticating Entra ID connectors, as well as for certain backup and restore operations.
-When do I need a Global Admin?
+Global Admin role requirements for Entra ID
+A dedicated Microsoft service account with the Global Admin role is required for creating and reauthenticating Entra ID connectors. Other roles are sufficient for backup and restore, depending on your configuration.
 Connector creation
-A Global Admin role is required to create an Entra ID connector and start the initial backup. This ensures Keepit has the necessary permissions to access and back up your data.
+A Global Admin role is required to create an Entra ID connector and start the initial backup. This ensures Keepit has the necessary permissions to access and back up your data.
 Connector reauthentication
-You may need to reauthenticate your connector in the following cases:
+You may need to reauthenticate your connector in these cases:
 - Your Microsoft 365 session expires, making the authentication between Microsoft and Keepit invalid.
-- You used the wrong Global Admin account when authorizing the connector and need to reauthenticate via the Reauthenticate key icon in the configuration window.
-- Keepit updates the product to leverage new Microsoft product capabilities, requiring updated permissions.
-Backup of BitLocker recovery keys
-A Global Admin is required to properly back up BitLocker recovery keys.
-Restore of groups and users
-A Global Admin is required for the proper restoration of Entra ID groups and users.
+- You used the wrong Global Admin account when authorizing the connector. Reauthenticate using the Reauthenticate key icon in the configuration window.
+- Keepit updates the product to use new Microsoft capabilities, requiring updated permissions.
+Backup
+The Global Admin role isn't required for backup.
+- If the Devices entity is enabled in the backup configuration, the service account needs the Global Reader or Security Reader role.
+- If the Devices entity isn't enabled, the service account doesn't need a specific role to run backup jobs.
+Restore
+The Global Admin role isn't required for restore, but it remains fully supported. If your service account already uses Global Admin, no action is needed.
+For customers who prefer a least-privilege approach, the table below lists the minimum roles needed, based on what you're restoring:h
 
 ------------------------------------------------------------
 
@@ -21542,6 +21546,45 @@ Connection management is enabled per account. If you need more granular control 
 
 ------------------------------------------------------------
 
+Source URL: https://www.keepit.com/help/platform-category/how-education-seats-are-counted/
+Content type: Web page
+Last modified: 2026-10-02T10:01:34+02:00
+Retrieved: 2026-10-04
+
+============================================================
+
+How education seats are counted
+This article explains how Keepit counts seats for customers on education licenses across Microsoft 365, Microsoft Entra ID, and Google Workspace.
+How education seat counting works
+Education seat counting follows the same general principles as standard seat counting. Each time Keepit runs a backup job, we count seats based on what's included in your backup coverage.
+For Microsoft 365 and Entra ID, education licenses use two seat types: Faculty and Student. For Google Workspace, education licenses use a single Education seat type with no Faculty/Student distinction.
+Education pricing corresponds to a 50% discount compared to standard licenses.
+Faculty and Student seats
+For Microsoft 365 and Entra ID, each faculty license entitles the customer to one Faculty seat and up to seven Student seats. Student seats are included at no additional cost, but cannot exceed the 1:7 faculty-to-student seat ratio.
+Keepit counts seats based on the licenses assigned to users in the backed-up application.
+Education seats in Google Workspace
+Google Workspace doesn't use the Faculty/Student distinction. All users on education licenses count as Education seats.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/help/platform-category/how-seats-are-counted-in-keepit/
+Content type: Web page
+Last modified: 2026-09-28T17:08:33+02:00
+Retrieved: 2026-10-04
+
+============================================================
+
+How seats are counted in Keepit
+This article explains how Keepit counts seats across all workloads on the Core Continuity, Business Resilience, and Enterprise Resilience packages. For workload-specific details, see the links in the table below.
+What is a seat
+Keepit uses "seat" as the metric to measure your consumption of our services. Each seat you purchase represents a licensed user or item from your organization.
+How seat counting works
+Each time Keepit runs a backup job, we count seats based on what's included in your backup coverage. Because seat counting reflects your live backup coverage, the count can change from one day to the next if your coverage changes. This happens when users are added or removed in the backed-up application, for example.
+Seat counting is designed to follow the license consumption of the backed-up application. If your seat or license count changes in the source application, you can expect a similar change in Keepit.
+Each workload has its own seat counting method based on the type of licenses the application uses. For most workloads, all licensed users included in the backup coverage count as seats. Some workloads use additional seat types (such as Full, Light, Faculty, or Student) based on the license assigned to each user.
+
+------------------------------------------------------------
+
 Source URL: https://www.keepit.com/help/platform-category/i-forgot-my-password/
 Content type: Web page
 Last modified: 2026-06-23T22:57:29+02:00
@@ -26569,8 +26612,8 @@ Note: To back up both Power Pages and Power Automate, you’ll need a Power Page
 
 Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/what-counts-as-a-seat-in-a-power-platform--dynamics-365-backup/
 Content type: Web page
-Last modified: 2026-07-09T09:21:12+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-10-02T10:07:12+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
@@ -26588,7 +26631,9 @@ Requirements for a user to be counted as one seat
 - If the user is in multiple Dynamics 365 applications (modules), we count the user just once
 Power Platform
 Power Apps, Power Automate, and Power Pages are bundled together as a single offering. You don't purchase or license them separately — when you back up Power Platform, all three are included.
-Keepit counts seats based on the number of assigned licenses in your Microsoft 365 tenant. Your M365 seat count determines the seat count for your Power Platform backup.
+Power Platform backup is tenant-scoped. Keepit counts seats as an aggregate of your Microsoft 365 tenant's license count, not by individual Power Platform users, apps, or capacity licenses.
+Power Platform doesn't distinguish between seat types. Your Power Platform seat count equals your total Microsoft 365 seat count — the sum of all Full, Light, Faculty, and Student seats in your tenant. For more information, see What counts as a seat in a Microsoft 365 connector.
+Note: There's no separate seat counting logic for Power Platform on Education licenses. Education tenants follow the same M365 aggregate seat count as standard tenants.
 
 ------------------------------------------------------------
 
@@ -26618,13 +26663,23 @@ Note: The "Your connector needs to be reauthenticated" status will disappear onl
 
 Source URL: https://www.keepit.com/help/product-updates/
 Content type: Web page
-Last modified: 2026-09-09T13:19:06+02:00
-Retrieved: 2026-09-13
+Last modified: 2026-09-29T17:36:30+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
 Keepit product updates
 ââWhat's new in the Keepit Platform
+10.26.0 - What's New in the Keepit Platform
+Redesigned Single Sign-On experience
+Logging in with Single Sign-On (SSO) is now clearer and more intuitive. The platform automatically detects your authentication method and routes you to the right login flow.
+What's new
+The sign-in flow now detects your SSO configuration as soon as you enter your email and click Continue:
+- If SSO is optional, you can choose between SSO or password.
+- If SSO is required, you're sent directly to your identity provider — such as Microsoft Entra ID, Okta, or Google Workspace.
+- If no SSO is configured, you're prompted for your password as usual.
+Why it matters
+Users reach the right login path on the first try, reducing failed attempts and frustration. IT admins spend less time fielding authentication support requests, and first-time users get a smoother onboarding experience that matches modern enterprise SaaS standards.
 10.25.0 - What's New in the Keepit Platform
 Zendesk: connector authorization with scoped admin access
 You can now authorize the Keepit Zendesk connector using scoped admin credentials, so teams with role-based Zendesk environments can set up and maintain backup without needing global admin access.
@@ -27304,7 +27359,6 @@ We have implemented significant backend improvements to enhance platform availab
 8.7.0 - What's New in the Keepit Platform
 Protect Teams chats with our new Microsoft 365 data area
 In addition to backing up channel chats in Teams, we now allow you to back up Teams one-on-one chats, group chats, and meeting chats. Chats can be previewed and downloaded, and a future release will add support for restoring chats in a variety of formats. 
- 
 To back up Teams chats on existing connectors, open the connector configuration and enable the Teams Chats backup. 
 Restore your Salesforce records with more ease
 We have improved our Salesforce restore wizard, giving you a smoother experience in recovering your data.

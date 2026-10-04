@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/what-counts-as-a-seat-in-a-power-platform--dynamics-365-backup/
 Content type: Web page
-Last modified: 2026-07-09T09:21:12+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-10-02T10:07:12+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
@@ -19,4 +19,6 @@ Requirements for a user to be counted as one seat
 - If the user is in multiple Dynamics 365 applications (modules), we count the user just once
 Power Platform
 Power Apps, Power Automate, and Power Pages are bundled together as a single offering. You don't purchase or license them separately — when you back up Power Platform, all three are included.
-Keepit counts seats based on the number of assigned licenses in your Microsoft 365 tenant. Your M365 seat count determines the seat count for your Power Platform backup.
+Power Platform backup is tenant-scoped. Keepit counts seats as an aggregate of your Microsoft 365 tenant's license count, not by individual Power Platform users, apps, or capacity licenses.
+Power Platform doesn't distinguish between seat types. Your Power Platform seat count equals your total Microsoft 365 seat count — the sum of all Full, Light, Faculty, and Student seats in your tenant. For more information, see What counts as a seat in a Microsoft 365 connector.
+Note: There's no separate seat counting logic for Power Platform on Education licenses. Education tenants follow the same M365 aggregate seat count as standard tenants.

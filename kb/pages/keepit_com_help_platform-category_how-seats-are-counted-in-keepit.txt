@@ -1,0 +1,15 @@
+Source URL: https://www.keepit.com/help/platform-category/how-seats-are-counted-in-keepit/
+Content type: Web page
+Last modified: 2026-09-28T17:08:33+02:00
+Retrieved: 2026-10-04
+
+============================================================
+
+How seats are counted in Keepit
+This article explains how Keepit counts seats across all workloads on the Core Continuity, Business Resilience, and Enterprise Resilience packages. For workload-specific details, see the links in the table below.
+What is a seat
+Keepit uses "seat" as the metric to measure your consumption of our services. Each seat you purchase represents a licensed user or item from your organization.
+How seat counting works
+Each time Keepit runs a backup job, we count seats based on what's included in your backup coverage. Because seat counting reflects your live backup coverage, the count can change from one day to the next if your coverage changes. This happens when users are added or removed in the backed-up application, for example.
+Seat counting is designed to follow the license consumption of the backed-up application. If your seat or license count changes in the source application, you can expect a similar change in Keepit.
+Each workload has its own seat counting method based on the type of licenses the application uses. For most workloads, all licensed users included in the backup coverage count as seats. Some workloads use additional seat types (such as Full, Light, Faculty, or Student) based on the license assigned to each user.

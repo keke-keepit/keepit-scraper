@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — RESOURCES
-Generated: 2026-09-27
+Generated: 2026-10-04
 Pages: 95
 ============================================================
 
@@ -444,31 +444,11 @@ Keepit has the solution. With true third-party cloud backup, Keepit offers you i
 
 Source URL: https://www.keepit.com/resources/events/
 Content type: Web page
-Last modified: 2026-09-18T21:46:28+02:00
-Retrieved: 2026-09-20
+Last modified: 2026-10-03T00:21:44+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
-Conheça a Keepit na Conferência Gartner CIO & IT Executive 2026 em São Paulo, Brasil.
-Conecte-se com nossa equipe no estande #106 para saber como fortalecer a resiliência e a governança de dados em ambientes multicloud e SaaS. Obtenha insights estratégicos sobre como proteger, garantir a conformidade e manter a resiliência operacional, além de como transformar uma governança de dados sólida em uma base para a inovação impulsionada pela IA.
-Use o código CIOSB26EDC para obter um desconto de R$ 475,00 no seu ingresso aqui.
-Keepit: Como a Odebrecht transformou resiliÃªncia de dados em vantagem
-Data e horário: 22 de setembro de 2026, às 15h20 (BRT) Local: Teatro do Exhibit Showcase Código da sessão: TH13
-Modernização tecnológica, ambientes multi-cloud e adoção acelerada de IA exigem uma nova abordagem para governança e resiliência de dados. Nesta sessão, a Odebrecht compartilha sua experiência fortalecendo proteção, compliance e continuidade operacional além dos recursos nativos das plataformas SaaS. Saiba como a organização criou uma base resiliente para auditorias, investigações e inovação orientada por dados.
-Nesta sessão, você aprenderá:
-Como reforçar a proteção de dados e a conformidade além dos recursos nativos do SaaS em ambientes multicloud
-Como a Odebrecht construiu uma base resiliente para auditorias e investigações
-Como uma governança de dados resiliente pode acelerar a adoção da IA e a inovação baseada em dados
-The Cyber Security and Resilience Bill is coming — but how prepared is your organisation? As expectations tighten across cloud, SaaS, and the wider supply chain, what once felt "good enough" may no longer meet the standard.
-Join us for the London stop of the Keepit Live UK Roadshow, an exclusive roundtable lunch at 14 Stories London. Connect with leaders from across the charities and housing sector to discuss what's changing, where organisations feel least prepared, and how to close the gap.
-No presentations. Just focused, peer-led conversation.
-Why Attend
-Pressure-test your preparedness for upcoming regulatory requirements
-Understand where organisations are most exposed — and how to respond
-Exchange perspectives with peers from the charities and housing sector navigating the same challenges
-Limited seats available — reserve your spot early.
-This event is exclusively intended for relevant Keepit customers and prospects from the charities and housing sector.
-Thank you for registering! Stay tuned to your email for confirmation of your seats and exclusive event details.
 NIC is the Nordic Infrastructure Conference, the premier event in Norway for IT professionals and IT decision-makers. Now in its 14th year, NIC brings together practitioners, not vendors, for three days of hands-on technical sessions across four tracks: automation, cloud infrastructure, security, and IT and AI leadership. Less slides, more demos. Keepit is attending, with Chief Information Security Officer (CISO) Kim Larsen speaking.
 When the cloud goes dark: resilience lessons from hybrid threats
 Date and Time: Oct 15, 2026 | 3:40–4:40 p.m. Room: Room 4

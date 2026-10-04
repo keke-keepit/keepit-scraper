@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/m365-demo/
 Content type: Web page
-Last modified: 2025-06-06T00:32:40+02:00
-Retrieved: 2026-08-02
+Last modified: 2026-10-01T19:29:12+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
@@ -32,10 +32,8 @@ Deleted items view
 If you’re not sure what was lost, activating the Deleted Items View takes the guesswork out of finding lost data. You can view all data that ever existed and was backed up on a tenant.
 Dedicated storage architecture
 The Keepit infrastructure runs on software that was designed and built from the ground up by our team.
-Blockchain-like Merkle tree structure
-We created a uniquely powerful architecture that employs a blockchain-like Merkle tree structure that allows you to store data in an immutable format to prevent attackers from manipulating your backups so you can recover quickly with uncompromised backups.
-"Incremental forever"
-The architecture also employs an innovative “incremental forever” approach that delivers performance and cost benefits such as unlimited hot storage, no data tiering, unlimited archiving, and no snapshot expiration. These benefits would simply not be possible to provide on general-purpose storage services.
+Blockchain-like Merkle tree structure: We created a uniquely powerful architecture that employs a blockchain-like Merkle tree structure that allows you to store data in an immutable format to prevent attackers from manipulating your backups so you can recover quickly with uncompromised backups.
+"Incremental forever": The architecture also employs an innovative "incremental forever" approach that delivers performance and cost benefits such as unlimited hot storage, and no data tiering.
 Easy setup, low maintenance
 Get started in few minutes
 Get started and configure your first backup in just a few minutes. Once deployed, it is a set-and-forget backup solution that runs reliantly in the background, so you can focus on other tasks.

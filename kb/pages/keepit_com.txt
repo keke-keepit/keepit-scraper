@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/
 Content type: Web page
-Last modified: 2026-09-03T22:13:07+02:00
-Retrieved: 2026-09-06
+Last modified: 2026-10-01T21:46:45+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
@@ -25,6 +25,6 @@ Nenad Ljubetic,
 Head of IT TALKE Group
 Read the case studyâOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.
 Flemming Selchau, IT Manager, Basisbank
-Transparent, predictable pricing
-All-inclusive, per-seat pricing
-Keepit offers all-inclusive, per-seat pricing with no hidden fees. Zero data transfer fees, rehydration charges, or storage costs. Always-hot storage keeps your data rapidly recoverable, while scalable pricing ensures ROI at every level.
+Transparent pricing
+No hidden fees
+Keepit offers transparent pricing, with no hidden fees. Zero data transfer fees, rehydration charges, or storage costs. Always-hot storage keeps your data rapidly recoverable, while scalable pricing ensures ROI at every level.

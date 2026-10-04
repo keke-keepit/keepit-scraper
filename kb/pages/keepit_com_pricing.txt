@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/pricing/
 Content type: Web page
-Last modified: 2026-08-10T21:44:50+02:00
-Retrieved: 2026-08-16
+Last modified: 2026-10-01T21:11:24+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
@@ -11,72 +11,63 @@ No surprises.
 - No hidden costs
 - Scale with ease
 - 163% ROI
-Business Essentials
-Ideal for smaller IT organizations and companies with limited retention requirements.
-Business Essentials includes:
-- Data retention - 1 year
+Core Continuity
+Ideal for organizations with smaller IT teams , looking for a reliable, easy-to-use solution for backing up and recovering data and configurations for critical SaaS applications.
+Core Continuity includes:
+- Recovery for up to 5 years
+- Always hot storage
 - SSO and MFA
-- Audit log
-Enterprise Unlimited
-Ideal for companies with larger IT organizations and extended retention requirements
-Enterprise Unlimited includes everything in Business Essentials, plus:
-- Data retention - unlimited
-- Full API support
-- 24/7 support
-Governance Plus
-Ideal for organizations in highly regulated sectors with stringent compliance needs
-Governance Plus includes everything in Enterprise Unlimited, plus:
-- Regulatory letters and amendments
-- Adjusted Data Processing Agreement (DPA)
+Business Resilience
+Ideal for organizations with a mature, or maturing SaaS data protection foundation, looking for advanced protection, visibility and control over data.
+Business Resilience includes everything in Core Continuity plus:
+- Recovery for up to 10 years
+- Multi-geo backup storage
+- Access to add-ons to expand your data protection strategy
+Enterprise Resilience
+Ideal for larger organizations with a strong SaaS data protection foundation and demanding regulatory requirements, looking for top-class service and support.
+Enterprise Resilience includes everything in Business Resilience plus:
+- Access to a dedicated Customer Experience Manager
+- Regular business reviews
+- Top support priority
 Explore our SaaS apps
 Benefit from bundle discounts.
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Comprehensive coverage: Groups and Teams, OneDrive, SharePoint, and Exchange Online
 Mass Restore - Restore wizard
 PST Download
 Multi-Geo Support
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -87,11 +78,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -99,28 +90,34 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 Entra ID
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Users, Groups, Role Assignments, Admin Units
 Audit logs
 Sign-in logs
@@ -128,42 +125,32 @@ Enterprise apps, App registrations, Conditional access policies
 Intune device compliance policies and device configuration profiles
 BitLocker key protectors
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -174,11 +161,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -186,66 +173,62 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 Power Platform
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Power BI workspaces, capacities, and reports
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -256,11 +239,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -268,68 +251,64 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 Salesforce
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Salesforce Sales Cloud and Commerce Cloud support
 Support for standard and custom object types, files, and attachments
 Sandbox backup and restore with anonymization
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -340,11 +319,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -352,68 +331,64 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 Google Workspace
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Gmail, Google Drive, calendar, and task data for selected users
 Tenant-wide shared Google Drives
 Google Forms data
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -424,11 +399,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -436,66 +411,62 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 Dynamics 365
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Entities and data for Dynamics 365 for Sales, Customer Service, Field Service, Project Service Automation, and Marketing
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -506,11 +477,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -518,68 +489,64 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 Azure DevOps
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Azure Boards
 Azure Pipelines
 Azure Repos
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -590,11 +557,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -602,67 +569,63 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 Zendesk
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Tickets, views, users, groups, and organizations
 Automations, macros, and triggers
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -673,11 +636,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -685,28 +648,34 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 Confluence
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 General
 General: Users (backup only)â, Groups, Group members, Templates, Blueprints
 Pages
@@ -716,42 +685,32 @@ Spaces: Spacesâ, Permissionsâ, Propertiesâ
 Blog Posts
 Blog Posts: âBlog postâ, Version historyâ, Restrictionsâ, Contentâ, Content version historyâ, Custom contentâ, Footer comments and version historyâ, Replies to footer content and version historyâ, Inline comments and replies (backup only), Inline comments version historyâ, Attachmentsâ, Attachments version historyâ
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -762,11 +721,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -774,28 +733,34 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 Jira
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Projects & Configurationâ
 Projectsâ: Avatar, Componentsâ, Categoriesâ, Featuresâ, Rolesâ, Versionsâ
 Requests (backup only)
@@ -807,42 +772,32 @@ General: Sprintsâ, Boardsâ, Dashboardsâ, Plans (roadmaps)â, Filtersâ, Permi
 Workflows
 Workflows: Workflowsâ, Workflow schemesâ, Workflow schemes drafts (backup only)â
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -853,11 +808,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -865,69 +820,65 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 Jira Service Management
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Projects: Components, Form templates, Organizations, Avatar, Properties, Issues, Work types, Roles, Queues*, Requests, Request types, Versions
 Assets: Global Statuses, Global Icons*, Object Schema, Object Types, Object Attributes, Objects, Schema Statuses
 Requests: Request, Request Attachments, Request Comments, Request Remote Links, Request Votes*, Request Watchers, Request Participants, Request Worklogs, Child Requests, Linked Requests, SLAs*
 Issues: Issue, Issue Attachments, Issue Comments, Issue Remote Links, Issue Votes*, Issue Watchers, Issue Worklogs, Child Issues, Linked Issues
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -938,11 +889,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -950,28 +901,34 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 Okta
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Security & Governance
 Securityâ: Enabled Factors*â
 Policiesâ: Definitionâ, Policy Typesâ, Rulesâ, Group Relationsâ, App Relations (IE)â
@@ -991,42 +948,32 @@ Organizationâ: Metadata*â, Settingsâ, Org Contactsâ, Third-party Admin Setti
 Administrationâ: Resourcesâ, Resources setsâ, Custom Role Definitionsâ, Customer Role Permissionâ
 âGeneralâ: Thread Insight Configâ, Related IP Zonesâ, Org-wide CAPTCHA Settings (IE)*â, CAPTCHA Instances (IE)*â, User lockout settingsâ, Authentication settings (IE)ââ
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -1037,11 +984,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -1049,28 +996,34 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 Docusign
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Accounts* (*Backup only)
 Envelopes: Envelope status*, Comments*, Custom fields*, Documents*, Certificates*, Envelope metadata*, Recipients* (*Backup only)
 Templates: Templates**, Comments, Custom fields, Documents, Certificates, Template metadata, Tabs (**Restore of full template)
@@ -1080,42 +1033,32 @@ User groups: User groups, Membership
 Signing groups: Signing groups, Membership
 Permission profiles: Permission profiles, Membership
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -1126,11 +1069,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -1138,67 +1081,63 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 BambooHR
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Employee data: Employee ID, Name, Surname, Email, Address, Employee tables, Employee files, Time off requests and registrations, Time off account balance
 Company data: Company tables, Company fields, Company files, Time off types, Time off policies
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -1209,11 +1148,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -1221,69 +1160,65 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 Miro
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Teams: Boards, Spaces, Members, Settings
 Boards: Members, Connectors, Frames, Groups, Items, Tags
 Spaces: Boards, Members, Settings
 Board items: App cards, Cards, Documents, Embeds, Formats, Images, Shapes, Sticky notes, Texts
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -1294,11 +1229,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -1306,70 +1241,66 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 GitHub
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Git Repository: Blobs and trees, References, Branches, Commits, Tags
 Planning and projects: Teams
 Repositories and configurations: Repository settings, Repository collaborators
 Collaboration and Documents: Pull requests
 Metadata and other: User
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -1380,11 +1311,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -1392,70 +1323,66 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 monday.com
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Account metadata
 Boards: Definition, Groups, Items (text in data cells), Items/files (binary data in cells), Items/files (links in cells), Items/subitems, Members
 Products / Workspaces: Members, Folders, Boards
 Users: Definition, Teams, Photo
 Teams: Members, Workspaces, Boards, Photo
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -1466,11 +1393,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -1478,68 +1405,64 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 Autodesk Forma
+Core
+Continuity
 Business
-Essentials
+Resilience
 Enterprise
-Unlimited
-Governance
-Plus
+Resilience
 Users: User definitions, User Projects, Project memberships, Roles, Products
 Companies: Definitions, User mappings, Projects mappings
 Products / Workspaces: Definitions, Sheets, Sheet collections, Sheet versions, Files and folders, Packages, Issues, Issue comments, Issue attachments, Issue settings, Templates, Transmittals
 Data Retention
-1 Year
-Unlimited
-Unlimited
-Data Storage - Hot storage only
-Unlimited
-Unlimited
-Unlimited
-Data Traffic – No egress, ingress or transaction fees
-Unlimited
-Unlimited
-Unlimited
-Data Storage Regions - Americas, EU, EMEA, APAC
-Any
-Any
-Any
-Automated Daily Backup
-Independent, Off-Site Backup Location
-Data Redundancy - 4 copies in 2 data center locations
-eDiscovery / Search
-Granular Search - Across all snapshots
+5 Years
+10 years
+10 years
+Unlimited data retention
+Add-on
+Add-on
+Always-hot storage
+No egress, ingress or transaction fees
+Storage in vendor-independent data centers
+Select data residency (see locations)
+Multi-geo data residency
+Customizable automated backups
 Immutable Blockchain-Verified Storage Technology
-Instant Restore – In-place, bulk, cross-user, and to-folder restore
-High Degree of Granularity Restore
-Point-in-Time Restore - "Time machine"
-Data Export
-Activity Log - Including deletions
-Secure Preview
-Instant Secure Sharing
-Early Snapshot Expiration Prevention
-Free for Inactive Users - E.g ex-employees
-Integration with Security Information and Event Management (SIEM)
-Secure integrations with AI services
+Backup redundancy - 4 copies in 2 separated data centers in the selected region
+Immutable Blockchain-Verified Storage Technology
+In-backup search and preview
+Data export
+Activity log
+Instant secure share
+Free for inactive users
 Data Protection dashboard
 Data Monitoring dashboard
 Data Monitoring with Anomaly Detection dashboard
-Full API Support for Third-Party Integration
+Secure integrations with AI services (MCP Toolbox)
+Integration with Security Information and Event Management (SIEM)
+Full API Support for third-party integrations
 Data Encryption at Rest and In-Transit
 Regular Penetration Testing
 Single Sign-On (SSO)
@@ -1550,11 +1473,11 @@ Role-Based Access Control
 Audit Log
 Custom Role-Based Access Control
 Standard Terms of Service
-Regulatory Letter and Amendments to Contract (ESMA, EBA, EIOPA, SEC, HIPAA, etc)
-Local Authorities Audit Right
-Adjusted Data Processing Agreement (DPA)
+Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specific contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations)
+Add-on
+Add-on
 Support Tiers
-Essential Support
+Core Continuity
 24/7 Enterprise Support
 24/7 Enterprise Support
 Support Hours
@@ -1562,21 +1485,27 @@ Standard Business Hours
 24/7
 24/7
 Support Channel
+Email
+Self-service portal
+Email
+Self-service portal
 Phone
 Email
-Phone
-Email
+Self-service portal
 Target Response Time
-Essential Target SLA (From 2 business hour to 2 business days depending on severity level)
-24/7 Enterprise Target SLA (From 1 calendar hour to 24 calendar hours depending on severity level)
-Personalized Onboarding Services
-One-to-one session (online)
-One-to-one session (online)
-One-to-one session (online)
-Access to Keepit Support Site
-Access to Advanced Resources
-Quarterly Business Review
-Named Customer Success Manager
+Initial target SLA from 4 business hours to 2 business days depending on the severity level
+Initial target SLA from 4 hours to 2 days depending on severity level
+Initial target SLA from 1 to 8 hours depending on severity level
+Implementation
+Self-guided
+Guided onboarding
+Full onboarding program
+Business reviews
+On request
+On request
+Quarterly
+Customer Experience Manager
+Dedicated CXM
 on offboarding and restore efficiencies in one year
 Trusted by 1,000s of customers
 Porsche Holding Salzburg migrates to the cloud, chooses Keepit for ransomware protection

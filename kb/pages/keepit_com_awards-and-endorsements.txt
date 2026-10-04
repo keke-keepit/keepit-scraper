@@ -1,10 +1,10 @@
 Source URL: https://www.keepit.com/awards-and-endorsements/
 Content type: Web page
-Last modified: 2026-06-16T14:52:00+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-30T13:32:51+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
-June 10, 2026
-Keepit earns TrustRadius Top Rated Award for the fifth year running
-Keepit earns TrustRadius Top Rated Award for the fifth year running. Customers award Keepit top rating as a leader among SaaS Backup, Data Loss Prevention, Disaster Recovery, and Enterprise Backup categories.
+September 22, 2026
+Keepit wins 2026 Stratus Award for Cloud Computing, bolstering its status as the trusted foundation for AI-enabled enterprises
+Keepit named winner for the second year in a row, this time in the category Backup/Disaster recovery/Resilience. Recognition honors companies, products, and individuals pushing the boundaries of what cloud technology can do.

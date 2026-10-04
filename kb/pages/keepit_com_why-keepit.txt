@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/why-keepit/
 Content type: Web page
-Last modified: 2026-09-03T23:45:35+02:00
-Retrieved: 2026-09-06
+Last modified: 2026-10-01T21:50:29+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
@@ -24,7 +24,7 @@ Streamlined regulatory support
 Keepit simplifies compliance for internal policies and global regulations, offering confident SaaS data protection aligned with GDPR, NIS2, NIST, and more. Our platform supports data retention, continuity, and audit readiness across core SaaS apps, helping you meet regulatory demands while safeguarding critical data in one platform.
 Unlimited data, predictable pricing
 Per-seat, transparent cost model
-Keepit’s flat, per-user pricing includes unlimited always-hot data storage, ingress/egress, and retention. With no hidden fees, budget confidently with volume discounts and bundle offers that scale with your needs, delivering strong ROI, SaaS license cost avoidance, and future-proof protection.
+Keepit's transparent pricing includes unlimited always-hot data storage with no ingress, egress or hydration fees. With no hidden fees, budget confidently with volume discounts and bundle offers that scale with your needs, delivering strong ROI, SaaS license cost avoidance, and future-proof protection.
 Certified for total confidence
 Industry-leading security
 Keepit is ISO/IEC 27001 certified, and its operational and security controls are independently audited in a SOC 2 Type II report. Our unique cloud-native design protects your data with immutability and ransomware resilience, ensuring it remains secure, trusted, and accessible whenever you need it.

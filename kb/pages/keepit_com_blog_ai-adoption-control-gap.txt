@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/blog/ai-adoption-control-gap/
 Content type: Web page
-Last modified: 2026-06-30T10:01:07+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-09-29T09:17:42+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
@@ -12,7 +12,7 @@ By agentic AI, I mean systems that do more than generate content. They can take 
 The adoption-control gap
 More than half of respondents (53%) said agentic AI is fully implemented across the organization, with another 40% running limited pilots or departmental rollouts.
 Let's start with fully implemented. It should mean you have mapped and classified your data, know what enters AI tools, understand your AI footprint across connected services, trained the workforce, and built governance that keeps up. If those answers are soft, fully implemented is optimistic.
-The pressure is real. Cisco found that 97% of CEOs plan to integrate AI into their operations, while only 1.7% of CIOs feel fully prepared. That distance between executive expectation and operational readiness is exactly where the illusion lives.
+The pressure is real. Cisco found that 97% of CEOs plan to integrate AI into their operations, while only 1.7% feel fully prepared. That distance between executive expectation and operational readiness is exactly where the illusion lives.
 And it's not only the AI you chose, it's also the shadow AI you didn't. People bring their own tools, often without understanding where data goes. At a recent roundtable, one CISO told us his company may have around a thousand agents running, and they're no longer sure what all of them touch.
 Now looking at control, confidence climbs again: 67% say IT and security have full control and clear governance over agentic AI. The remaining third say governance is still developing.
 That should concern us more than comfort us. It’s also, weirdly, where it becomes more fun to be a CISO again. Policies on data classification, governance, and criticality suddenly matter to everyone, but a policy is worthless if it can't keep pace with change. The faster AI moves, the further static governance drifts from reality.

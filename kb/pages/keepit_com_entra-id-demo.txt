@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/entra-id-demo/
 Content type: Web page
-Last modified: 2025-06-02T21:11:45+02:00
-Retrieved: 2026-08-09
+Last modified: 2026-10-01T19:37:13+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
@@ -20,8 +20,7 @@ A simple, yet powerful service to help you take control and safeguard your Entra
 Dedicated independent cloudÂ Fast and granular recoveryEasy setup, low maintenanceStreamline data governanceMonitor backups with dashboardsRestore in bulk
 Dedicated independent cloud
 Most alternative cloud backup solutions store your backed-up data on the same public cloud infrastructure that hosts your primary data, which potentially exposes your company to several risks.
-With Keepit, your company’s backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty.
-Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable “all-in” pricing.
+With Keepit, your company's backup data is stored on an independent cloud infrastructure in two mirrored data centers in the data center region of your choice, ensuring data availability and sovereignty. Building our own independent cloud allows Keepit to manage supply chain risks and provides tremendous control over costs, which enables us to offer unlimited hot storage and predictable pricing.
 Fast and granular recovery
 Recover your data from a single item all the way up to the tenant level for precision recovery at scale.
 In-place restore
@@ -119,9 +118,7 @@ EU: Copenhagen, Denmark & Frankfurt, Germany,
 Asia: Sydney, Australia
 Once a customer chooses a Keepit region for backup, their data never leaves that region. Not only does Keepit guarantee that backup data will always go to that region, but no processes exist that could even transfer backup data out of that region (aside from customer-initiated restores and downloads, of course). Should systems in a region ever need to be moved out of that jurisdiction, Keepit will negotiate the moves with all affected customers prior to execution.
 How long are my backups kept?
-With Keepit for Entra ID Advanced Business Essentials Service Offering, your data is kept for 12 months.
-With Keepit for Entra ID Advanced Enterprise Unlimited Service Offering, you will have unlimited retention.
-With Keepit for Entra ID Advanced Government Plus Service Offering, you will have unlimited retention.
+Keepit offers data retention options according to your requirements, starting with 5 years up to unlimited.
 Yes, and we have our headquarters in Denmark, EU. Read more.
 Can I use Entra ID backup along with my other Keepit services?
 Yes, you can combine Entra ID backup with backup of Microsoft 365, Salesforce, Dynamics, Zendesk, PowerBI, and any other Keepit services for full protection of all your cloud data. Request a demo and our Sales team will get in touch with you.

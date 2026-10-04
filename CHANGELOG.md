@@ -1,5 +1,38 @@
 # Keepit KB Changelog
 
+## 2026-10-04
+
+Added (4):
+- https://www.keepit.com/customers/odebrecht/
+- https://www.keepit.com/help/platform-category/how-education-seats-are-counted/
+- https://www.keepit.com/help/platform-category/how-seats-are-counted-in-keepit/
+- https://lp.keepit.com/hubfs/content-assets/case-stories/Odebrecht-customer-story-EN.pdf
+
+Modified (23):
+- https://www.keepit.com/
+- https://www.keepit.com/awards-and-endorsements/
+- https://www.keepit.com/blog/ai-adoption-control-gap/
+- https://www.keepit.com/entra-id-demo/
+- https://www.keepit.com/help/entra-id-category/restore-an-entra-id-app-registration/
+- https://www.keepit.com/help/entra-id-category/restore-an-entra-id-service-principal/
+- https://www.keepit.com/help/entra-id-category/when-is-the-global-admin-role-required-for-entra-id-backup-service-account/
+- https://www.keepit.com/help/power-platform-dynamics-365-category/what-counts-as-a-seat-in-a-power-platform--dynamics-365-backup/
+- https://www.keepit.com/help/product-updates/
+- https://www.keepit.com/keepit-platform/
+- https://www.keepit.com/m365-demo/
+- https://www.keepit.com/partners/managed-service-providers/
+- https://www.keepit.com/pricing/
+- https://www.keepit.com/resources/events/
+- https://www.keepit.com/security/
+- https://www.keepit.com/services/backup-azure-ad/
+- https://www.keepit.com/services/backup-entra-id/
+- https://www.keepit.com/services/backup-microsoft-365/
+- https://www.keepit.com/services/backup-microsoft-dynamics-365/
+- https://www.keepit.com/services/backup-salesforce/
+- https://www.keepit.com/services/backup-zendesk/
+- https://www.keepit.com/why-keepit/
+- https://www.keepit.com/why-keepit-demo/
+
 ## 2026-09-27
 
 Added (12):

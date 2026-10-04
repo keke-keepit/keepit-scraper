@@ -1,0 +1,146 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Odebrecht-customer-story-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-10-04
+
+============================================================
+
+How one/deleted 
+folder(
+can change everything: 
+Odebrecht's case for 
+independent SaaS backup 
+Customer success story
+
+How one/deleted 
+folder(
+can change everything: 
+Odebrecht's case for 
+independent SaaS backup 
+Odebrecht is one of the world's largest heavy engineering and construction groups. The 
+group encompasses six companies, including Novonor and Odebrecht Engenharia e 
+Construção, with approximately 4,000 users operating across 14 countries. For a company 
+of that scale and under continuous regulatory scrutiny, data protection has to work when it 
+matters most.
+Brazil
+LOCATION:
+Engineering, 
+construction 
+INDUSTRY:
+4,000+
+EMPLOYEES:
+A real incident revealed the gap
+Odebrecht had solid backup coverage for its on-
+premises systems, but Microsoft 365, which had 
+become the primary environment for collaboration and 
+productivity across the group, was a different story. 
+The team was relying entirely on Microsoft's standard 
+retention, with no independent backup and no 
+contractual guarantee of recovery./ 
+
+The gap became undeniable during a proof of 
+concept. An employee accidentally deleted a shared 
+OneDrive folder containing approximately 32,000 
+documents from an active construction project. Keepit 
+restored everything, complete with a full integrity 
+report, during the evaluation itself. That incident moved 
+the decision from consideration to commitment.
+Customer success story
+˝During the proof of concept,(
+a real incident happened: a 
+folder with thousands of project 
+documents was accidentally 
+deleted. We restored 
+everything with an integrity 
+report before we'd even signed 
+the contract. That was the 
+moment we knew Keepit was 
+the right choice.˛
+Luís Augusto(
+Infrastructure Manager
+Odebrecht
+2
+
+˝We already had strong resilience across our infrastructure. But relying on Microsoft 
+to protect Microsoft data is a structural risk. There's no real separation of custody. 
+We needed an independent layer, and that's exactly what Keepit provides.˛
+Ygor Cezar(
+CIO
+Odebrecht
+A list of demanding requirements
+Odebrecht partnered with Adapta to select and 
+deploy a backup and recovery solution that could 
+meet its evolving needs./ 
+
+Odebrecht evaluated four vendors against 
+detailed technical, contractual, and operational 
+requirements. The priorities were full coverage of 
+Microsoft 365 SaaS applications, predictable costs 
+with unlimited storage, no egress fees, and no 
+contractual lock-in that would complicate a future 
+exit. Keepit was the only vendor to meet all the 
+criteria, making it the clear choice on every 
+dimension./ 
+
+Fast recovery  streamlined compliance/
+Since going into full production, Odebrecht has 
+completed more than 20 recovery processes. The 
+compliance team now runs investigations 
+independently, averaging around six cases per
+month without routing requests through IT. Keepit 
+was also demonstrated live during an external ISO 
+37001 audit and approved./
+
+Today, Odebrecht uses Keepit to protect 
+approximately 794 TB of Microsoft 365 data, 
+alongside Microsoft Entra ID, Power Platform, Azure 
+DevOps, and DocuSign, all stored in Keepit's own 
+independent cloud./ 
+
+A platform ready for the AI era/(
+As Odebrecht expands its use of AI agents across 
+its SaaS environment, those agents operate on the 
+same platforms where critical data lives, at a speed 
+and scale that makes real-time human oversight 
+impossible. Having an immutable, independent 
+copy of that data acts as an anchor of reality. It 
+gives the team confidence to move fast, knowing 
+the record of what's true can't be altered by any 
+automated process./
+Customer success story
+3
+
+˝Our compliance team used to come to 
+IT every time they needed to investigate 
+something. Now they handle it 
+themselves. That change alone was 
+worth the investment.˛
+Luís Augusto(
+Infrastructure Manager
+Odebrecht
+About Odebrecht
+With more than eight decades of history, Odebrecht Engineering & Construction is the heavy construction 
+company of the Novonor Group, providing services in the infrastructure and construction, industrial 
+assembly, and maintenance segments. The company has completed more than 3,000 projects in 37 
+countries around the world, including hydroelectric, thermal, and nuclear power plants, metro systems, 
+railways, bridges, roads, airports, and refineries. Headquartered in Brazil, it primarily operates across three 
+markets: Brazil, Angola, and the United States. Odebrecht's commitment in these regions goes beyond the 
+projects and includes actions aimed at sustainable development and employment and income generation. 
+https://www.odebrecht.com/
+About Adapta
+Adapta is a boutique consultancy and Keepit Value Added Reseller with over 16 years of experience in the 
+technology market, specializing in Data Analytics, Generative Artificial Intelligence (GenAI), AI Governance, 
+Cyber Security, DevOps, and Digital Transformation. Adapta helps companies of all sizes protect, govern, 
+and extract maximum value from their data. Combining strategy and execution, Adapta delivers solutions 
+guided by pragmatism, simplicity, and clarity, transforming innovation, security, and technology into 
+sustainable business results. Whether working with enterprises or growing businesses, Adapta brings deep 
+expertise and a results-oriented approach to every engagement across the Latin American market. 
+www.adaptar.inf.br
+Your data. Here today. Here tomorrow.
+Keepit provides a true SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Customer success story
+4

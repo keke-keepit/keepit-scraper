@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/services/backup-zendesk/
 Content type: Web page
-Last modified: 2026-08-18T12:01:07+02:00
-Retrieved: 2026-08-23
+Last modified: 2026-10-01T14:03:51+02:00
+Retrieved: 2026-10-04
 
 ============================================================
 
@@ -106,7 +106,7 @@ It depends on the Service Offering you choose. For more details, visit our prici
 Keepit provides:
 - Backup for your automation, trigger, and macros
 - Granular data restoration of Zendesk in minutes
-- Unlimited storage and archiving as your data scales up
+- Unlimited storage as your data scales up
 No, Keepit interface is designed to save your admin's time to setup and restore. It's designed to be setup in minutes and allow data restore in a few clicks.
 Your data will be securely stored in Keepit’s independent cloud. We run our own data center regions, operate on our own hardware, and our own people manage the infrastructure.
 To ensure data sovereignty, we have six data center regions in:
