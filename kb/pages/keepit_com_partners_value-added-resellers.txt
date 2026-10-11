@@ -1,10 +1,35 @@
 Source URL: https://www.keepit.com/partners/value-added-resellers/
 Content type: Web page
-Last modified: 2025-08-31T21:58:56+02:00
-Retrieved: 2026-07-21
+Last modified: 2025-08-31T21:33:06+02:00
+Retrieved: 2026-10-11
 
 ============================================================
 
+Expand your solution portfolio with the only vendor-independent cloud data protection, unlock revenue streams, and increase and retain your margins.
+Grow beyond infrastructure and M365 data protection
+Gain an edge by offering true SaaS data backup and recovery to your customers to protect all of their favorite SaaS applications with one platform.
+Easy to use, easy to work with, easy pricing
+Simplicity is at the core of everything we do. Adopt the best-in-business solution that’s easy to use, easy to do business with, and easy to price.
+Expand your portfolio, increase your margins
 Your customers are facing more and more complex security and compliance requirements.
 Expand your software and digital services portfolio to include next-level SaaS data protection and not only increase recurring revenue and margins, but also strengthen your market position as trusted advisor.
 Keepit is not like other SaaS data backup and recovery providers: Our platform is purpose-built to ensure business continuity, instant data recovery, leading security, cost effectiveness, and outstanding simplicity.
+Grow your businessâ¨beyond infrastructure and M365 data protection
+Provide all of your customers with data protection for their key SaaS applications in one single, vendor-independent platform.
+Keepit helps you protect crucial cloud data created in Microsoft 365, Entra ID (Azure AD), Salesforce, Google Workspace, Azure DevOps, Power Platform, Dynamics 365, and Zendesk.
+Easy to use. Our interface requires no training. Your customers can level up their daily SaaS data protection security posture in minutes. It’s that easy to gain 24/7 data availability, ensure regulatory compliance, and be ready in the event of a disaster.
+Easy to work with. With a follow-the-sun support model, we’re always here should you need anything.
+Easy to budget. "Keepit’s price model is crystal clear – there are no hidden costs, which makes it easy for us to offer Keepit to our customers." George Venianakis, Managing Director, GTP Works.
+Read the partner storyPartnering with Keepit means always being at the forefront of cloud SaaS data protection.
+Anders Kaagâ¨
+CTO of IT Relation
+Read the partner storyWith Keepit, supporting our global clients has become an easy task.
+Henning Malmin
+CTO of Upheads
+Read the partner storyKeepit’s price model is crystal clear – there are no hidden costs, which makes it easy for us to offer Keepit to our customers.
+George Venianakis
+Managing Director, GTP Works
+And for my managed services business?
+A solution that adapts to your business model
+Many of the partners we’re working with have a hybrid business model, meaning they act as both a Managed Service Provider and as a Value Added Reseller, which is possible with us.
+If you’re interested in providing SaaS data protection managed services, learn more about the benefits of adding it to your managed services practices.

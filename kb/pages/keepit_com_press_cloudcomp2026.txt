@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/press/cloudcomp2026/
 Content type: Web page
 Last modified: 2026-04-23T13:51:13+02:00
-Retrieved: 2026-07-21
+Retrieved: 2026-10-11
 
 ============================================================
 
@@ -19,4 +19,4 @@ For more information visit www.keepit.com or follow Keepit on LinkedIn
 About Cloud Computing Magazine:
 Cloud Computing magazine is the industry's definitive source for all things cloud - from public, community, hybrid and private cloud to security and business continuity, and everything in between. This quarterly magazine published by TMC assesses the most important developments in cloud computing not only as they relate to IT, but to the business landscape as a whole.
 About TMC
- TMC provides global buyers with valuable insights to make informed tech decisions through our editorial platforms, live events, webinars, and online advertising. Leading vendors trust TMC, thought leadership, and our events for branding, thought leadership, and lead generation. Our live events, like the ITEXPO #TECHSUPERSHOW, deliver unmatched visibility, while our custom lead generation programs and webinars ensure a steady flow of sales opportunities. Display ads on trusted sites generate millions of impressions, boosting brand reputations. TMC offers a complete 360-degree marketing solution, from event management to content creation, driving SEO, branding, and marketing success. Learn more at www.tmcnet.com and follow @tmcnet on Facebook, LinkedIn, and X.
+TMC provides global buyers with valuable insights to make informed tech decisions through our editorial platforms, live events, webinars, and online advertising. Leading vendors trust TMC, thought leadership, and our events for branding, thought leadership, and lead generation. Our live events, like the ITEXPO #TECHSUPERSHOW, deliver unmatched visibility, while our custom lead generation programs and webinars ensure a steady flow of sales opportunities. Display ads on trusted sites generate millions of impressions, boosting brand reputations. TMC offers a complete 360-degree marketing solution, from event management to content creation, driving SEO, branding, and marketing success. Learn more at www.tmcnet.com and follow @tmcnet on Facebook, LinkedIn, and X.

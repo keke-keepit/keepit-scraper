@@ -1,17 +1,44 @@
 KEEPIT KNOWLEDGE BASE — PARTNERS
-Generated: 2026-10-04
+Generated: 2026-10-11
 Pages: 15
 ============================================================
 
 Source URL: https://www.keepit.com/partners/
 Content type: Web page
-Last modified: 2025-08-31T21:42:45+02:00
-Retrieved: 2026-07-21
+Last modified: 2025-08-31T21:33:06+02:00
+Retrieved: 2026-10-11
 
 ============================================================
 
+When you enter the Keepit Partner Network, you join a program made for your business model: Value Added Reseller or Managed Service Provider. Learn about all the benefits of becoming a Keepit partner today.
+Increase and retain â¨your gross profit
+Increase your gross profit, and grow long-term recurring revenue stream without the operational expenses.
+Diversify your offer
+Differentiate yourself from the competitors with the most comprehensive SaaS data backup coverage on the market.
+Adopt Keepit your way
+Manage your customers using our ready-to-use Partner Management Console or integrate the services to your favorite systems with our APIs.
+24/7 partner support
+Partner Management Console
+Sales resources
+and training
+Deal
+registration
+Global co-sell
+support
+Rebates and
+discounts
+Co-marketing
+opportunities
+MDF funds
+Program tiers
+A program that grows with you
 Our focus is on growing our business together, creating joint go-to-market strategies, and guaranteeing competitive margins.
 Therefore, the program benefits increase with greater commitment from you. Each program tier has its own revenue and training requirement, enabling you to keep progressing and growing.
+Looking to resell data security and compliance solutions? Expand your solution portfolio to include next level SaaS data protection with Keepit and unlock new recurring revenue and margins.
+Looking to expand your managed services portfolio with SaaS data protection services ? As a current MSP or an aspiring one, learn how Keepit helps you level up your services.
+"We are very delighted about the new Keepit Partner Program. The fair requirements and multiple benefits strengthen our cooperation and are an excellent basis for further exponential growth in the new SaaS Data Backup as a Service market segment."
+Matthias Schick
+Director Solution & Practice Management Security & Software,
 
 ------------------------------------------------------------
 
@@ -135,11 +162,11 @@ Company website: https://www.tim-vad.com/aut/
 Source URL: https://www.keepit.com/partners/partners-stories/
 Content type: Web page
 Last modified: 2025-01-12T21:32:55+01:00
-Retrieved: 2026-08-02
+Retrieved: 2026-10-11
 
 ============================================================
 
-When the cloud goes dark: Resilience lessons from hybrid threats
+From data loss to bad AI decisions: The SaaS protection gap
 Read customer case
 Read the report
 Watch on-demand
@@ -458,13 +485,38 @@ The partner rep with the most deal registered pipeline by March 31, 2025 will re
 
 Source URL: https://www.keepit.com/partners/value-added-resellers/
 Content type: Web page
-Last modified: 2025-08-31T21:58:56+02:00
-Retrieved: 2026-07-21
+Last modified: 2025-08-31T21:33:06+02:00
+Retrieved: 2026-10-11
 
 ============================================================
 
+Expand your solution portfolio with the only vendor-independent cloud data protection, unlock revenue streams, and increase and retain your margins.
+Grow beyond infrastructure and M365 data protection
+Gain an edge by offering true SaaS data backup and recovery to your customers to protect all of their favorite SaaS applications with one platform.
+Easy to use, easy to work with, easy pricing
+Simplicity is at the core of everything we do. Adopt the best-in-business solution that’s easy to use, easy to do business with, and easy to price.
+Expand your portfolio, increase your margins
 Your customers are facing more and more complex security and compliance requirements.
 Expand your software and digital services portfolio to include next-level SaaS data protection and not only increase recurring revenue and margins, but also strengthen your market position as trusted advisor.
 Keepit is not like other SaaS data backup and recovery providers: Our platform is purpose-built to ensure business continuity, instant data recovery, leading security, cost effectiveness, and outstanding simplicity.
+Grow your businessâ¨beyond infrastructure and M365 data protection
+Provide all of your customers with data protection for their key SaaS applications in one single, vendor-independent platform.
+Keepit helps you protect crucial cloud data created in Microsoft 365, Entra ID (Azure AD), Salesforce, Google Workspace, Azure DevOps, Power Platform, Dynamics 365, and Zendesk.
+Easy to use. Our interface requires no training. Your customers can level up their daily SaaS data protection security posture in minutes. It’s that easy to gain 24/7 data availability, ensure regulatory compliance, and be ready in the event of a disaster.
+Easy to work with. With a follow-the-sun support model, we’re always here should you need anything.
+Easy to budget. "Keepit’s price model is crystal clear – there are no hidden costs, which makes it easy for us to offer Keepit to our customers." George Venianakis, Managing Director, GTP Works.
+Read the partner storyPartnering with Keepit means always being at the forefront of cloud SaaS data protection.
+Anders Kaagâ¨
+CTO of IT Relation
+Read the partner storyWith Keepit, supporting our global clients has become an easy task.
+Henning Malmin
+CTO of Upheads
+Read the partner storyKeepit’s price model is crystal clear – there are no hidden costs, which makes it easy for us to offer Keepit to our customers.
+George Venianakis
+Managing Director, GTP Works
+And for my managed services business?
+A solution that adapts to your business model
+Many of the partners we’re working with have a hybrid business model, meaning they act as both a Managed Service Provider and as a Value Added Reseller, which is possible with us.
+If you’re interested in providing SaaS data protection managed services, learn more about the benefits of adding it to your managed services practices.
 
 ------------------------------------------------------------

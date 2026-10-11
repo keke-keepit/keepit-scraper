@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — CUSTOMERS
-Generated: 2026-10-04
-Pages: 67
+Generated: 2026-10-11
+Pages: 68
 ============================================================
 
 Source URL: https://www.keepit.com/customers/
@@ -184,6 +184,38 @@ Keepit is easy to use, the managed model removes a lot of the operational overhe
 Head of IT, Austrian Red Cross
 A foundation built for what comes next
 The Austrian Red Cross is now positioned to extend SaaS data protection beyond Microsoft 365 to additional applications, without adding complexity to an already demanding operational environment. With GDPR and NIS2 compliance built in, data sovereignty maintained in European infrastructure, and the operational safety net of a managed service model, the organization can focus on what it's there to do: respond when people need help most.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/customers/bancobv/
+Content type: Web page
+Last modified: 2026-10-07T16:21:22+02:00
+Retrieved: 2026-10-11
+
+============================================================
+
+Banco BV levels up data protection in a regulated world
+Operating as one of the largest private banks in Brazil means working under some of the country's most demanding data protection and compliance requirements. For Banco BV, safeguarding the bank's internal data — across email, SharePoint, and Teams — isn't just good IT practice; it's a regulatory necessity. When the infrastructure team set out to find a backup and recovery solution for its Microsoft 365 environment, the bar was high: it had to scale predictably, meet strict financial sector compliance obligations, and guarantee high data availability and rapid recovery when it matters most.
+Business continuity starts with easily recoverable data
+Arethusa Pontes, Infrastructure and Command Center Manager at BV, leads the multidisciplinary teams responsible for sustaining and evolving the IT environment, with an emphasis on automation, resilience, and high data availability. Regulatory requirements specific to Brazil's financial sector shaped the evaluation from the start, alongside the practical need for fast data recovery. For Bueno's team, a backup failure isn't just an IT problem — it's a business continuity event.
+Keepit directly supports our security, compliance, and business continuity goals by maintaining an independent copy of Microsoft 365 data in a separate architecture.
+Arethusa Pontes
+Chief Technology Officer, Banco BV
+Cost predictability and performance drove the decision
+The evaluation process was rigorous. Banco BV worked with Movti, a Keepit Value Added Reseller, to find a data protection solution that could keep pace with its growing environment — and landed on Keepit. BV ran a proof of concept designed to stress-test whether a solution could meet its technical, operational, and regulatory criteria simultaneously. Keepit passed. Three factors stood out: cost predictability, performance, and data security. Unlike models with unpredictable scaling costs, Keepit's transparent pricing made long-term planning easier and more reliable. The absence of additional data transfer costs was a practical differentiator in a high-volume environment like BV's.
+Keepit's vendor-independent architecture also made a strong case. Maintaining a backup copy in a completely separate infrastructure — outside both Microsoft 365 and BV's own on-premises environment — aligned directly with the bank's resilience strategy.
+Independent infrastructure reinforces resilience
+Regional data residency also factored into the decision. Keepit's regional data centers ensure that BV's backed-up data is stored independently. That segregation directly supports the bank's risk mitigation goals and helps meet the data governance requirements of Brazil's financial regulators.
+Security features reinforced that confidence. Immutability and encryption at the backup layer protect data integrity whether BV is dealing with an isolated incident or a larger-scale disruption. For a bank that treats its backup environment as the last line of defense, those protections aren't optional.
+Simpler management, faster recovery, measurable maturity
+Since implementation, the operational picture at BV has improved across several dimensions. Backup management is more efficient, reducing the administrative overhead that previously came with managing data protection at scale.
+Recovery is faster and more granular. The team can restore individual emails or files, giving users options to recover their own information and reducing the time IT spends handling recovery requests.
+We've cut incident response times and given users more autonomy in recovery, ensuring greater productivity and reducing resolution time.
+Arethusa Pontes
+Chief Technology Officer, Banco BV
+More broadly, Bueno's team has seen an increase in what he describes as data protection maturity at BV — greater visibility into protected data, stronger governance, and more predictable costs. The result is a backup environment the team can actually rely on.
+Built for what comes next
+With a scalable, vendor-independent platform in place and a track record of meeting Brazil's demanding financial compliance requirements, Banco BV is well positioned to extend and evolve its data protection strategy as the business grows.
 
 ------------------------------------------------------------
 
@@ -1621,8 +1653,8 @@ With Keepit, Salesforce Ben chose an intelligent approach to SaaS data protectio
 
 Source URL: https://www.keepit.com/customers/saxo-bank/
 Content type: Web page
-Last modified: 2026-01-24T21:29:24+01:00
-Retrieved: 2026-07-21
+Last modified: 2024-03-27T23:38:41+01:00
+Retrieved: 2026-10-11
 
 ============================================================
 
@@ -1630,12 +1662,12 @@ How Keepit helps Saxo Bank to navigate complex compliance
 In 2019, Saxo Bank implemented Keepit as the backup and recovery service for all employees on Microsoft 365. Saxo Bank has recently implemented Microsoft Teams and plans to introduce more features going forward in collaboration with Keepit as the trusted provider, protecting their cloud SaaS data.
 Navigating complex compliance
 A multinational financial services provider, Saxo Bank is subject to stringent compliance and regulatory control across its operations worldwide. This in turn requires an efficient search function that enables Saxo Bank to find and share specific data with its legal team within minutes. Keepit’s unique find and restore features facilitates this.
-An impressive element of Keepit's solution is that it often takes only minutes to find and share the specific item with our Legal team, whilst it often took much longer with our on-prem solution.
+An impressive element of Keepit's solution is that it often takes only minutes to find and share the specific item with our Legal team, whilst it often took much longer with our on-prem solution. 
 Thomas Ulrich
 Head of Digital Workplace & Support Services, Saxo Bank
 Extensive archiving capability
 It was key for Saxo Bank to have backup functionality outside of the Microsoft ecosystem and meet compliance requirements as they do for Cisco phones and Skype for Business today. Keepit’s solution not only safeguards emails and files for Saxo Bank’s 1,600+ global employees worldwide, it also provides the ability to rapidly gain access to any piece of backed-up information.
-It is very important to back up our Microsoft applications in a sophisticated and fulsome manner. We considered Microsoft's backup and archiving capabilities to be insufficient for our purposes and were impressed by the scope of Keepit's backup and archiving capabilities, as well as the granularity of their restore function.
+It is very important to back up our Microsoft applications in a sophisticated and fulsome manner. We considered Microsoft's backup and archiving capabilities to be insufficient for our purposes and were impressed by the scope of Keepit's backup and archiving capabilities, as well as the granularity of their restore function.
 Thomas Ulrich
 Head of Digital Workplace & Support Services, Saxo Bank
 Keepit’s customer-focused services met all of Saxo Bank's needs and process requirements from the very start. As Saxo Bank continues to implement more Microsoft 365 features, Keepit will continue to safeguard their cloud SaaS data.

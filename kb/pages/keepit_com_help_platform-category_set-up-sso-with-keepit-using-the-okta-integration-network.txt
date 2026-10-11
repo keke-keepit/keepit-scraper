@@ -1,0 +1,85 @@
+Source URL: https://www.keepit.com/help/platform-category/set-up-sso-with-keepit-using-the-okta-integration-network/
+Content type: Web page
+Last modified: 2026-10-09T16:37:29+02:00
+Retrieved: 2026-10-11
+
+============================================================
+
+This article explains how to add Keepit to an Okta organization from the Okta Integration Network (OIN) catalog and configure single sign-on (SSO). The integration uses SAML 2.0, with Okta as the identity provider.
+Prerequisites
+Before you configure the integration, make sure that:
+Your Keepit account is hosted in a supported data center: Denmark (Copenhagen), United States (Washington, DC), Canada (Toronto), Australia (Sydney), United Kingdom (London), Germany (Frankfurt), or Switzerland (Zurich).
+You have a Keepit role that can set up SSO (Master Admin, SSO Admin, Partner Parent, or MSP Full Admin role).
+You have the super administrator role in Okta, or both the app administrator and organization administrator roles.
+You created a dedicated SSO Admin user in Keepit. For instructions, see Create an SSO Admin user.
+Users who need SSO access exist in both Okta and Keepit with matching email addresses. Keepit doesn’t auto-provision users from SAML assertions.
+You know your data center identifier. See Part I below for the list.
+Supported features
+The Keepit integration in the OIN catalog supports:
+SP-initiated SSO (recommended)
+IdP-initiated SSO (optional, disabled by default)
+SAML 2.0 with SHA-256 signature and digest algorithms
+Force authentication (ForceAuthn), enabled by default in the OIN wizard
+A dedicated SSO Admin fallback role that signs in with Keepit credentials
+The integration doesn’t support:
+Just-in-time (JIT) provisioning (users must exist in the Keepit account before they sign in with SSO)
+SCIM-based lifecycle management
+SP-initiated single logout (SLO)
+Encrypted SAML assertions
+Group claims or attribute statements beyond the SAML subject (NameID)
+For more information about these terms, see the Okta Glossary.
+Configuration steps
+The configuration has three parts: add Keepit in Okta, get the SAML metadata from Okta, and complete the SSO setup in Keepit.
+Part I: Add Keepit to the Okta organization
+You enter a data center identifier in this phase. Use the identifier that matches your Keepit account.
+1. Sign in to the Okta Admin Console as a super administrator.
+2. Go to Applications > Applications.
+3. Select Browse App Catalog.
+4. Enter Keepit in the search field.
+5. Select the Keepit integration.
+6. Select Add Integration.
+7. On the General Settings page, configure the following fields:
+Application label: Keep the default label (Keepit) or enter a custom label.
+Data center: Enter the identifier for your Keepit data center.
+8. Select Next.
+9. On the Sign-On Options page, keep the default SAML 2.0 settings.
+Okta populates the Single Sign-On URL and Audience URI automatically based on your data center identifier.
+10. Select Done.
+11. On the Assignments tab, assign the Keepit integration to the people or groups that need SSO access.
+Each assigned user must have a matching email address in the Keepit account.
+Part II: Get the SAML metadata from Okta
+1. Open the Keepit integration in the Okta Admin Console.
+2. Select the Sign On tab.
+3. Under Sign on methods, select View SAML setup instructions.
+4. Copy the following values:
+Identity Provider Single Sign-On URL: Keepit calls this value the IDP URL.
+X.509 Certificate: Copy only the text between the begin and end markers.
+Keep these values available for the next part.
+Part II: Configure SSO in Keepit
+1. Sign in to Keepit at the sign-in URL for your data center.
+Use an account with the Master Admin, SSO Admin, Partner Parent, or MSP Full Admin role. For example, customers in the Denmark data center sign in at https://dk-co.keepit.com/desktop/#/signin.
+2. Select your account profile, then select Account info.
+3. On the Security tab, select SSO.
+4. Select + Add configuration.
+5. Make sure Enable configuration is enabled. When this toggle is enabled, SSO activates at the next sign-in for all users in the account.
+6. IDP URL, enter the Identity Provider Single Sign-On URL from Part II.
+7. In Certificate, enter the X.509 Certificate text from Part II.
+8. (Optional) To require SSO for sign-in, enable Make SSO mandatory. When this option is enabled, users can’t sign in with Keepit credentials. The SSO Admin user is the exception.
+9. (Optional) To allow sign-in from Okta, enable Allow IdP-initiated SSO. Keepit recommends leaving this option disabled because of the security risks of IdP-initiated SSO.
+10. Select Save.
+The integration is now active for all assigned users.
+Sign in with SP-initiated SSO
+In the SP-initiated flow, you start sign-in from the Keepit sign-in page. You don’t enter a Keepit password. The integration relies only on the Okta authentication result.
+2. Enter your email address and leave the password field empty.
+3. Select Sign In.
+4. On the Okta sign-in page, enter your Okta credentials and complete any additional authentication factors that your Okta sign-in policy requires.
+Okta redirects your browser back to Keepit, and the Keepit dashboard opens.
+Troubleshooting
+Why can’t I sign in after I authenticate with Okta?
+Make sure the email address in Okta matches an existing Keepit user. Keepit doesn’t auto-provision users from SAML assertions.
+Why do I get certificate validation errors when I sign in?
+Export the X.509 Certificate from the Okta Admin Console again, and enter it in the Keepit SSO configuration. Copy only the text between the begin and end certificate markers. For instructions, see Phase 2.
+Why am I locked out after I enable SSO?
+Sign in as the SSO Admin user with Keepit credentials at your data center URL. Keepit never enforces SSO for the SSO Admin role, so you always have administrative access. From there, you can review, correct, or disable the SSO configuration.
+Why does SSO sign-in fail in my browser?
+Use an incognito or private browser window when you test SSO. This avoids conflicts with cached sessions. For more information, see Why is it best to use an incognito window when using SSO?

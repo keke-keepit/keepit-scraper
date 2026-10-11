@@ -1,12 +1,13 @@
 Source URL: https://www.keepit.com/help/platform-category/how-education-seats-are-counted/
 Content type: Web page
-Last modified: 2026-10-02T10:01:34+02:00
-Retrieved: 2026-10-04
+Last modified: 2026-10-07T10:39:47+02:00
+Retrieved: 2026-10-11
 
 ============================================================
 
 How education seats are counted
-This article explains how Keepit counts seats for customers on education licenses across Microsoft 365, Microsoft Entra ID, and Google Workspace.
+Published October 1, 2026
+This article explains how Keepit counts seats for customers on education licenses across Microsoft 365, Microsoft Entra ID, and Google Workspace. 
 How education seat counting works
 Education seat counting follows the same general principles as standard seat counting. Each time Keepit runs a backup job, we count seats based on what's included in your backup coverage.
 For Microsoft 365 and Entra ID, education licenses use two seat types: Faculty and Student. For Google Workspace, education licenses use a single Education seat type with no Faculty/Student distinction.

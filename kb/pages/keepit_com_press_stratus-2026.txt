@@ -1,13 +1,12 @@
 Source URL: https://www.keepit.com/press/stratus-2026/
 Content type: Web page
-Last modified: 2026-09-22T15:31:44+02:00
-Retrieved: 2026-09-27
+Last modified: 2026-09-22T15:09:57+02:00
+Retrieved: 2026-10-11
 
 ============================================================
 
 Keepit wins 2026 Stratus Award for Cloud Computing, bolstering its status as the trusted foundation for AI-enabled enterprises
 Keepit named winner for the second year in a row, this time in the category Backup/Disaster recovery/Resilience. Recognition honors companies, products, and individuals pushing the boundaries of what cloud technology can do.
- 
 Copenhagen, Denmark, September 22, 2026 – Keepit, the vendor-independent SaaS data protection company helping organizations strengthen cyber resilience and business continuity, today announced it has been named a winner in the 2026 Stratus Awards for Cloud Computing, in the category of Backup/Disaster recovery/Resilience. Presented by the Business Intelligence Group, the award recognizes companies, products, and individuals delivering cloud offerings that are truly differentiated in the market. With the launch of AI Truth Cloud in August 2026, the next evolution of the Keepit platform, Keepit is becoming the verified, independent source of truth for data AI systems depend on.
 The Stratus Awards celebrate the organizations and individuals defining the next phase of cloud computing, where success is measured by what a system delivers rather than where it happens to run. Winners are selected based on how effectively they are advancing cloud innovation, delivering measurable value, and moving their industries forward. The 2026 Stratus Awards honor achievement across a broad range of industries and use cases, spotlighting the organizations moving the cloud from where work is stored to where work gets done.
 "For a decade, the cloud question was 'where does this run?' This year, every serious submission answered a different one: 'what does it do without us?'" said Russ Fordyce, Chief Recognition Officer, Business Intelligence Group. "Keepit earned this recognition in Backup/Disaster recovery/Resilience because it could say what its technology finished, not just what it promises. That is the standard the cloud is being held to now, and this is a team meeting it."

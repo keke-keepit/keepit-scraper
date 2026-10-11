@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/platform-category/keepits-public-ip-addresses/
 Content type: Web page
-Last modified: 2026-09-22T10:11:56+02:00
-Retrieved: 2026-09-27
+Last modified: 2026-10-05T11:01:25+02:00
+Retrieved: 2026-10-11
 
 ============================================================
 
@@ -45,6 +45,8 @@ United States, Washington DC (us-dc)
 216.170.117.19
 216.170.117.20
 216.170.117.21
+216.170.117.22
+216.170.117.23
 For SIEM integration
 216.170.117.4
 216.170.117.5
@@ -57,6 +59,8 @@ For SIEM integration
 Australia, Sydney (au-sy)
 103.153.54.16
 103.153.54.17
+103.153.54.18
+103.153.54.19
 For SIEM integration
 103.153.54.4
 103.153.54.5

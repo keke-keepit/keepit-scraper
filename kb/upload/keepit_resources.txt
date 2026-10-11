@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — RESOURCES
-Generated: 2026-10-04
+Generated: 2026-10-11
 Pages: 95
 ============================================================
 
@@ -444,8 +444,8 @@ Keepit has the solution. With true third-party cloud backup, Keepit offers you i
 
 Source URL: https://www.keepit.com/resources/events/
 Content type: Web page
-Last modified: 2026-10-03T00:21:44+02:00
-Retrieved: 2026-10-04
+Last modified: 2026-10-07T13:22:59+02:00
+Retrieved: 2026-10-11
 
 ============================================================
 
@@ -482,6 +482,13 @@ A clearer understanding of why data sovereignty is foundational to a trustworthy
 A framework for evaluating whether your organization can truly access and recover its data independently of the platforms it runs on
 Practical insight into how SaaS environments quietly erode data control — and what the accountability gap looks like in practice
 Kim Larsen, Group Chief Information Security Officer (CISO), Keepit
+Cyber Security Festival is Denmark's cybersecurity event, hosted by Computerworld and TDC Erhverv. On Nov. 18-19 at TAP1 in Copenhagen, it brings together more than 80 speakers and 1,800-plus IT security professionals from public and private organizations for two days of sessions on threat intelligence, AI-driven attacks, cloud security, compliance (NIS2, the AI Act, CRA), and operational resilience.
+Keepit is there among the leading vendors. Catch Morten Aagaard, information security analyst at Keepit, on stage unpacking what real SaaS outages expose about hyperscaler dependence, and swing by booth 2 to talk SaaS data protection and independent backup.
+When the cloud goes dark — resilience lessons from the field
+Date and Time: November 18 at 10:55–11:15 Location: Blue Stage (Blå Scene)
+Hybrid threats don't announce themselves. They combine cyberattacks, infrastructure sabotage, and geopolitical pressure — and cloud services are a primary target. In this session, Morten Aagaard walks through real-world scenarios where SaaS availability fails and what that exposes for organizations built on hyperscaler infrastructure.
+The session makes the case for keeping backup data outside the platforms it protects, in a location where data residency meets the regulatory requirements that apply to your organization. For European organizations, that means solutions built for European sovereignty requirements — not adapted from global hyperscaler stacks.
+Attendees will leave with a clearer picture of where single-vendor dependencies create blind spots, why data sovereignty is a resilience issue as much as a compliance one, and how independent cloud backup changes the recovery equation when primary access is lost.
 
 ------------------------------------------------------------
 

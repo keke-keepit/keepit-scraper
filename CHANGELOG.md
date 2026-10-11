@@ -1,5 +1,31 @@
 # Keepit KB Changelog
 
+## 2026-10-11
+
+Added (4):
+- https://www.keepit.com/customers/bancobv/
+- https://www.keepit.com/help/platform-category/set-up-sso-with-keepit-using-the-okta-integration-network/
+- https://www.keepit.com/press/cybersecurity-breakthrough-2026/
+- https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Banco-BV-Case-Study-EN.pdf
+
+Modified (16):
+- https://www.keepit.com/blog/
+- https://www.keepit.com/customers/saxo-bank/
+- https://www.keepit.com/help/platform-category/keepits-public-ip-addresses/
+- https://www.keepit.com/idc-marketscape/
+- https://www.keepit.com/partners/
+- https://www.keepit.com/partners/partners-stories/
+- https://www.keepit.com/partners/value-added-resellers/
+- https://www.keepit.com/press/
+- https://www.keepit.com/press/cloudcomp2026/
+- https://www.keepit.com/request-demo/
+- https://www.keepit.com/resources/events/
+- https://www.keepit.com/search/
+- https://www.keepit.com/security/secure-by-design/
+- https://www.keepit.com/services/
+- https://www.keepit.com/press/stratus-2026/
+- https://www.keepit.com/help/platform-category/how-education-seats-are-counted/
+
 ## 2026-10-04
 
 Added (4):

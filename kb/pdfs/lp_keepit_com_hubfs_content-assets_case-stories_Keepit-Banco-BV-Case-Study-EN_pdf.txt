@@ -1,0 +1,155 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Banco-BV-Case-Study-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-10-11
+
+============================================================
+
+Banco BV levels up(
+data protection in a 
+regulated world
+Customer success story
+
+Banco BV levels up(
+data protection in a 
+regulated world
+Operating as one of the largest private banks in Brazil means working under some of the 
+country's most demanding data protection and compliance requirements. For Banco BV, 
+safeguarding the bank's internal data 
+ across email, SharePoint, and Teams 
+ isn't just 
+good IT practice; it's a regulatory necessity. When the infrastructure team set out to find a 
+backup and recovery solution for its Microsoft 365 environment, the bar was high: it had to 
+scale predictably, meet strict financial sector compliance obligations, and guarantee high 
+data availability and rapid recovery when it matters most.
+Brazil
+LOCATION
+Finance
+INDUSTRY
+7,400+
+EMPLOYEES
+Business continuity starts with easily 
+recoverable data
+Arethusa Pontes, Infrastructure and Command 
+Center Manager at BV, leads the multidisciplinary 
+teams responsible for sustaining and evolving the 
+IT environment, with an emphasis on automation, 
+resilience, and high data availability. Regulatory 
+requirements specific to Brazil's financial sector 
+shaped the evaluation from the start, alongside 
+the practical need for fast data recovery. For 
+Bueno's team, a backup failure isn't just an IT 
+problem 
+ it's a business continuity event. 
+˝Keepit directly supports our 
+security, compliance, and 
+business continuity goals by 
+maintaining an independent 
+copy of Microsoft 365 data in a 
+separate architecture.˛
+Arethusa Pontes(
+Chief Technology Officer  
+Banco BV
+Customer success story
+2
+
+˝We've cut incident response times and given users more autonomy in recovery, 
+ensuring greater productivity and reducing resolution time.˛
+Arethusa Pontes(
+Chief Technology Officer 
+Banco BV
+Cost predictability and performance drove 
+the decision
+The evaluation process was rigorous. Banco BV 
+worked with Movti, a Keepit Value Added Reseller, 
+to find a data protection solution that could keep 
+pace with its growing environment  and landed 
+on Keepit. BV ran a proof of concept designed to 
+stress-test whether a solution could meet its 
+technical, operational, and regulatory criteria 
+simultaneously. Keepit passed. Three factors 
+stood out: cost predictability, performance, and 
+data security. Unlike models with unpredictable 
+scaling costs, Keepit's transparent pricing made 
+long-term planning easier and more reliable. The 
+absence of additional data transfer costs was a 
+practical differentiator in a high-volume 
+environment like BV's. 
+
+Keepit's vendor-independent architecture also 
+made a strong case. Maintaining a backup copy in 
+a completely separate infrastructure  outside 
+both Microsoft 365 and BV's own on-premises 
+environment  aligned directly with the bank's 
+resilience strategy.
+
+Independent infrastructure reinforces 
+resilience
+Regional data residency also factored into the 
+decision. Keepit's regional data centers ensure 
+that BV's backed-up data is stored independently. 
+That segregation directly supports the bank's risk 
+mitigation goals and helps meet the data 
+governance requirements of Brazil's financial 
+regulators. 
+
+Security features reinforced that confidence. 
+Immutability and encryption at the backup layer 
+protect data integrity whether BV is dealing with an 
+isolated incident or a larger-scale disruption. For a 
+bank that treats its backup environment as the last 
+line of defense, those protections aren't optional.
+
+Simpler management, faster recovery, 
+measurable maturity 
+Since implementation, the operational picture at 
+BV has improved across several dimensions. 
+Backup management is more efficient, reducing 
+the administrative overhead that previously came 
+with managing data protection at scale.  
+
+Recovery is faster and more granular. The team can 
+restore individual emails or files, giving users 
+options to recover their own information and 
+reducing the time IT spends handling recovery 
+requests. More broadly, Bueno's team has seen an 
+increase in what he describes as data protection 
+maturity at BV 
+ greater visibility into protected 
+data, stronger governance, and more predictable 
+costs. The result is a backup environment the team 
+can actually rely on. 
+Customer success story
+3
+
+Built for what comes next 
+With a scalable, vendor-independent platform in 
+place and a track record of meeting Brazil's 
+demanding financial compliance requirements, 
+Banco BV is well positioned to extend and evolve 
+its data protection strategy as the business grows. 
+About Banco BV
+Banco BV is one of the largest financial institutions in the country, operating in the Retail and Corporate & 
+Investment Banking segments. A credit specialist, its purpose is to make customers' dreams and projects a 
+reality, transforming credit into relationships. BV holds historical and strategic positions across four 
+business categories: it has maintained market leadership for 13 consecutive years in used light vehicle 
+financing, and is a leader in heavy vehicle financing, Vehicle-Secured Loans (EGV), and residential solar 
+panel financing. BV's presence in the automotive sector is further strengthened by NaPista, one of the 
+largest marketplaces in the segment in Brazil 
+ a platform aligned with the bank's commitment to strengthening and modernizing the sector with smart, functional solutions for dealers and end consumers. Committed to sustainability, BV was a pioneer in neutralizing the CO‡ e emissions of the vehicles it finances 
+and consolidates its vision of positive impact through the "Pact for a Lighter Future 2030," its public ESG 
+strategy.
+About€Movti
+Movti is a Keepit Value Added Reseller and cloud consultancy, helping organizations protect and manage 
+their digital ecosystems. Backed by deep Google Cloud and Microsoft 365 expertise, Movti combines 
+specializations in Security, Infrastructure, Productivity, and AI to help organizations evolve their cloud 
+environments efficiently 
+ simplifying operations and generating lasting business value.
+Your data. Here today. Here tomorrow
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+ For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Customer success story
+4

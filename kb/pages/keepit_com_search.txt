@@ -1,11 +1,11 @@
 Source URL: https://www.keepit.com/search/
 Content type: Web page
-Last modified: 2024-04-25T09:26:16+02:00
-Retrieved: 2026-08-02
+Last modified: 2023-09-13T17:33:17+02:00
+Retrieved: 2026-10-11
 
 ============================================================
 
-When the cloud goes dark: Resilience lessons from hybrid threats
+From data loss to bad AI decisions: The SaaS protection gap
 Read customer case
 Read the report
 Watch on-demand
