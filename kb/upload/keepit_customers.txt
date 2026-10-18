@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — CUSTOMERS
-Generated: 2026-10-11
-Pages: 68
+Generated: 2026-10-18
+Pages: 69
 ============================================================
 
 Source URL: https://www.keepit.com/customers/
@@ -900,6 +900,39 @@ Managing backup with Keepit is almost boring — in the best possible way. It si
 – Natascha Markzoll 
 System Engineer, IT Services Zug AG
 Today, ITS Zug benefits from a scalable and dependable backup environment that supports the needs of public sector organizations while reducing operational complexity. With reliable protection in place, the team can focus on delivering secure and efficient IT services that support schools and public administration across the canton.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/customers/j-macedo/
+Content type: Web page
+Last modified: 2026-10-16T20:35:55+02:00
+Retrieved: 2026-10-18
+
+============================================================
+
+Keepit helps J.MacÃªdo stay resilient, compliant, and always ready to recover
+With 89 years of history and brands such as Dona Benta, Sol, Petybon, Brandini, and Boa Sorte on shelves across Brazil, J.Macêdo is one of the country's largest food companies. Its users work entirely through Microsoft 365, relying on SharePoint, Outlook, and Microsoft Entra ID as the backbone of daily collaboration. When the IT team, led by Luciano Bortoluzzi, head of information technology, evaluated how to protect that environment, three priorities shaped the search: ease of use, reliable recovery, and the ability to support the company's compliance and audit programs without adding complexity.
+A lean team requires an autonomous solution
+J.Macêdo required a solution that demanded minimal intervention from the team. There was a need for a solution that wouldn't require constant maintenance, specialized configuration, or manual management to operate. Whatever the choice, the goal was technology that worked autonomously after initial setup. J.Macêdo turned to Movti, a Keepit Value Added Reseller, to evaluate its options for SaaS data protection, ultimately choosing Keepit.
+Keepit for Microsoft 365 meets those requirements. Since going live in 2023, the platform has operated with minimal intervention from the team. Bortoluzzi describes the current routine as periodic spot checks to validate backups and connectors, and those checks consistently come back clean.
+Keepit today operates autonomously, with very little need for our intervention. We do spot checks to validate the backups and connectors, and they're always in order.
+Luciano Bortoluzzi 
+Head of Information Technology, J.Macêdo 
+Fast recovery, flexible options
+For J.Macêdo, data protection isn't just about having a copy of data somewhere. It's about being able to get that data back fast, in the right format, when the business needs it.
+Recovery options make all the difference. Bortoluzzi's team can restore data directly to a SharePoint site or OneDrive, or deliver it via a password-protected link when data sensitivity requires it. That flexibility ensures the recovery path adapts to the situation.
+Whether it's an in-place restore on a SharePoint site or a secure shared link, we know we'll have our data back and intact in a short time.
+Everton Lima 
+IT Operations Coordinator, J.Macêdo 
+Built to meet regulatory requirements
+Keepit's data residency options played a meaningful role in J.Macêdo's decision. As a Brazilian company handling sensitive business data, the team needed storage aligned with both Brazil's General Data Protection Law (Lei Geral de Proteção de Dados, or LGPD) and GDPR requirements. Having data centers closer to Brazil means better latency for data access and restoration, and clearer alignment with local regulations.
+Immutability was equally important. J.Macêdo's audit team needs to access historical data reliably and quickly, whether to investigate potential misconduct, support compliance programs, or review past activity. Keepit's approach, where backed-up data and metadata cannot be altered, addresses that directly. The company also benefits from Keepit's 99-year retention capability, a detail Bortoluzzi highlighted specifically: "You never know when you'll need to restore a specific piece of data."
+Data ownership and infrastructure independence also factored into the decision. Keepit keeps customer data in a separate, dedicated infrastructure, meaning J.Macêdo's data is always accessible to them, even if something changes in their Microsoft environment.
+The immutability of our data is very important. It guarantees that our data is 100% secure, and the audit trail behind every action in the console gives us full visibility.
+Luciano Bortoluzzi 
+Head of Information Technology, J.Macêdo 
+One platform, room to expand
+Bortoluzzi sees J.Macêdo's Keepit footprint expanding as the company introduces new SaaS applications to its environment. The platform is already in place to protect them when that happens. For a company that shows no signs of slowing down, that kind of readiness is part of how J.Macêdo keeps the work going.
 
 ------------------------------------------------------------
 

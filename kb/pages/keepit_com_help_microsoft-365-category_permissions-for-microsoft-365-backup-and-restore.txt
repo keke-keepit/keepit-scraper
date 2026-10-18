@@ -1,30 +1,150 @@
 Source URL: https://www.keepit.com/help/microsoft-365-category/permissions-for-microsoft-365-backup-and-restore/
 Content type: Web page
-Last modified: 2026-06-29T23:15:03+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-10-15T12:28:03+02:00
+Retrieved: 2026-10-18
 
 ============================================================
 
-| API  | Permission  | Permission Type  | Used to protect  | Description  | 
-| EWS  | Full_access_as_app  | Application  | 
-Exchange Online Public Folders  | Required to access user mailbox content for backup and restore. Used during restore to reconstruct mailbox, folder structure, messages, contacts, calendar items, and tasks.  | 
-| MS Graph  | Directory.Read.All  | Application  | 
-Exchange OneDrive Teams Chats Groups&Teams  | Required to discover user-related information, group memberships, and licensing information.  | 
-| MS Graph  | User.Read  | Delegated  | 
-Exchange OneDrive Teams Chats Groups & Teams  | Required to get information about the user who performs the backup / restore.  | 
-| MS Graph  | ChannelMessage.Read.All  | Application  |  | Required to back up and restore Teams channel chat messages, replies, hosted content, and delta token for sync functionality.  | 
-| MS Graph  | Group.ReadWrite.All  | Delegated  |  | Required to backup and restore Teams channels, Team chat messages, replies, attachments, calendar events, posts, conversation threads, group photos, plans, and tasks.  | 
-| MS Graph  | User.ReadWrite.All  | Application  | 
-Exchange OneDrive Teams Chats Groups & Teams  | Used in conjunction with Group.ReadWrite.All to back up and restore the full set of profile properties, reports, and managers.  | 
-| MS Graph  | TeamsTab.ReadWrite.All  | Application  | 
-Teams Chats Groups & Teams  | Required to back up and restore tabs within Teams channels and chats. | 
-| MS Graph  | Group.ReadWrite.All  | Application  |  | Required to back up and restore channel tabs, channel files & folders, conversation threads, posts, group conversations, posts, Teams, Groups, group members, and group owners.  | 
-| MS Graph  | Sites.FullControl.All  | Application  | 
-Groups & Teams SharePoint OneDrive  | Required to back up and restore site collections, sites, doclibs, files & folders, content types, columns, permissions, check in/out properties, versions, and metadata not covered under the SharePoint REST API.  | 
-| MS Graph  | Chat.Read.All  | Application  |  | Required to back up Teams private chat messages, members, and hosted content.  | 
-| MS Graph  | RoleManagement.ReadWrite.Directory  | Application  |  | Required to allow recovery of RBAC settings. For example restoring group memberships for role assignable groups. Learn More  | 
-| MS Graph  | GroupMember.ReadWrite.All  | Application  |  | Required to back up and restore groups, group properties, M365 group membership  | 
-| SharePoint REST API  | User.ReadWrite.All  | Application  |  | Required to back up and restore site members, their group membership, and permissions.  | 
-| SharePoint REST API  | Sites.FullControl.All  | Application  |  | Required to back up and restore metadata for site collections & sites and all metadata for each site. Including but not limited to permissions, settings, layouts, pages, list views, columns, fields.  | 
-| SharePoint REST API  | AllSites.FullControl  | Delegated  | 
-SharePoint Groups & Teams  | Required to list top-level site collections via REST API. (planned for deprecation)  |
+This article details the APIs, actions, and permissions required to back up and restore your Microsoft 365 data.
+Keepit leverages a wide range of available APIs to provide comprehensive backup coverage. To safeguard your confidential data, it is crucial to ensure that enterprise applications have only the permissions they need. When setting up your Microsoft 365 backup account, you may need to create a custom Microsoft RBAC role specifically for backup and restoration purposes. The information provided here is intended to give you transparency into the actions we perform and the permissions required, allowing you to define more restrictive roles as necessary.
+Important: This document is provided for informational purposes only and comes without warranty. Until restricted or custom roles have been fully tested, they are not officially supported. It is important to test any restricted or custom roles. If a backup or restore is attempted without the recommended Privileged Role Admin or Global Admin role and issues arise, you may need to temporarily reassign the admin permissions.
+Microsoft 365 Enterprise App Permissions
+To back up and restore Microsoft 365 data, Keepit uses the following permissions.
+Required to discover user-related information, group memberships, and licensing information.
+MS Graph
+User.Read
+Delegated
+Exchange
+OneDrive
+Teams Chats
+Groups & Teams
+Required to get information about the user who performs the backup / restore.
+MS Graph
+ChannelMessage.Read.All
+Application
+Groups & Teams
+Required to back up and restore Teams channel chat messages, replies, hosted content, and delta token for sync functionality.
+MS Graph
+Group.ReadWrite.All
+Delegated
+Groups & Teams
+Required to backup and restore Teams channels, Team chat messages, replies, attachments, calendar events, posts, conversation threads, group photos, plans, and tasks.
+MS Graph
+User.ReadWrite.All
+Application
+Exchange
+OneDrive
+Teams Chats
+Groups & Teams
+Used in conjunction with Group.ReadWrite.All to back up and restore the full set of profile properties, reports, and managers.
+MS Graph
+TeamsTab.ReadWrite.All
+Application
+Teams Chats
+Groups & Teams
+Required to back up and restore tabs within Teams channels and chats.
+MS Graph
+Group.ReadWrite.All
+Application
+Groups & Teams
+Required to back up and restore channel tabs, channel files & folders, conversation threads, posts, group conversations, posts, Teams, Groups, group members, and group owners.
+MS Graph
+Sites.FullControl.All
+Application
+Groups & Teams
+SharePoint
+OneDrive
+Required to back up and restore site collections, sites, doclibs, files & folders, content types, columns, permissions, check in/out properties, versions, and metadata not covered under the SharePoint REST API.
+MS Graph
+Chat.Read.All
+Application
+Teams Chats
+Required to back up Teams private chat messages, members, and hosted content.
+MS Graph
+RoleManagement.ReadWrite.Directory
+Application
+Groups & Teams
+Required to allow recovery of RBAC settings. For example restoring group memberships for role assignable groups. Learn More
+MS Graph
+GroupMember.ReadWrite.All
+Application
+Groups & Teams
+Required to back up and restore groups, group properties, M365 group membership
+SharePoint REST API
+User.ReadWrite.All
+Application
+SharePoint
+Required to back up and restore site members, their group membership, and permissions.
+SharePoint REST API
+Sites.FullControl.All
+Application
+SharePoint
+Required to back up and restore metadata for site collections & sites and all metadata for each site. Including but not limited to permissions, settings, layouts, pages, list views, columns, fields.
+SharePoint REST API
+AllSites.FullControl
+Delegated
+SharePoint
+Groups & Teams
+Required to list top-level site collections via REST API. (planned for deprecation)
+EWS*
+Full_access_as_app
+Application
+Exchange Online
+Public Folders
+Required to access user mailbox content for backup and restore. Used during restore to reconstruct mailbox, folder structure, messages, contacts, calendar items, and tasks.
+*EWS API will be available until April 2027 for customers who have EWSEnabled property value set to TRUE
+Actions requiring Privileged Role Admin or Global Admin role
+Initial enterprise application installation and consent
+When first creating a Keepit connector, an administrator with the Privileged Role Admin or Global Admin role is required to install the enterprise application and grant consent for the requested permissions. This requirement is imposed by Microsoft in tenants where admin consent for applications is necessary.
+If the requested application permissions change, you may also need to reauthenticate Keepit connectors using an account with the Privileged Role Admin or Global Admin role.
+After the application is installed and consent is granted, you can remove the admin role from the backup account to maintain security.
+Important: Permissions required to fully protect a specified set of data may occasionally change. This can happen due to updates in Microsoft's permission requirements or changes in Keepit's functionality. When such changes occur, you will need to temporarily reassign admin rights to the backup account to reauthorize the enterprise application.
+Actions requiring service account group membership
+Service account group membership is required for all private groups in order to back up Private Group Conversations, Private Group Calendars, and Private Group Plans.
+Actions requiring a supported role
+When delegated permissions are required, the service account must also be assigned a supported role in Entra ID. The guidelines provided below will help you ensure that your role assignments follow the principle of least privilege.
+Note: The requests listed here will use application permissions if the Teams protected API is available. If the API is not available, delegated permissions will be used, which requires the appropriate role.
+API
+Request
+Request type
+Description
+MSGraph v1.0
+Get Team Chat Message Hosted Content
+Variable (See note)
+Back up Team channel message hosted content
+MSGraph v1.0
+Get Team Chat Message
+Variable
+Backup Team channel message
+MSGraph v1.0
+Get Team Chat Delta Link
+Variable
+Back up / restore team channel delta
+MSGraph v1.0
+Get Team Chat Message Change set
+Variable
+Back up Team channel changes
+MSGraph v1.0
+Get Team Chat Message Replies
+Variable
+Back up / restore team channel message replies
+MSGraph v1.0
+Get Team Chat Messages
+Variable
+Back up / restore team channel messages
+MSGraph beta
+List Channel Members
+Variable
+Back up / restore team channel members
+MSGraph v1.0
+List Team Channels
+Variable
+Back up / restore Team channels
+MSGraph v1.0
+List Team Channel Tabs
+Variable
+Back up / restore Team channel tabs
+MSGraph v1.0
+List Team Chat Message hosted content
+Variable
+Back up / restore team channel message hosted content

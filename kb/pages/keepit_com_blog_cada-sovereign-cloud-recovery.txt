@@ -1,0 +1,41 @@
+Source URL: https://www.keepit.com/blog/cada-sovereign-cloud-recovery/
+Content type: Web page
+Last modified: 2026-10-15T09:11:05+02:00
+Retrieved: 2026-10-18
+
+============================================================
+
+Analysis based on the Commission’s summary of the four assurance levels.
+The pattern is consistent. The assurance levels are strongest against the risk they were designed for and have little to say about the everyday causes of outages and data loss. That’s in keeping with what CADA sets out to do. It’s also a reminder that sovereignty and recoverability are separate properties, and a service can have one without the other.
+CADA isn’t the Commission’s only way of grading cloud sovereignty. The EU Cloud Sovereignty Framework, published in October 2025 to evaluate cloud providers in the Commission’s own procurement, assesses providers against eight sovereignty objectives:
+- SOV-1, strategic: ownership, control, and EU anchoring 
+- SOV-2, legal and jurisdictional: exposure to non-EU laws 
+- SOV-3, data and AI: control over data, keys, and processing location 
+- SOV-4, operational: running and supporting the service without non-EU involvement 
+- SOV-5, supply chain: origin of hardware and software 
+- SOV-6, technology: open standards, open source, and interoperability 
+- SOV-7, security and compliance: certifications and EU-controlled security operations 
+- SOV-8, environmental sustainability: energy use and environmental footprint 
+Each objective is rated on a Sovereignty Effectiveness Assurance Level (SEAL), from SEAL-0 to SEAL-4. Like CADA, the framework is thorough about who controls a service. Whether your data can be restored after an outage, a ransomware attack, or a deletion is left for providers to volunteer, or for buyers to ask about. 
+ 
+Taken together, they’re a reminder that sovereignty and recoverability are separate properties, and a service can have one without the other. 
+Sovereignty is about control, and so is recovery 
+I’ve written before that data sovereignty is really about control: knowing you have control of your data, local access to it, and the ability to migrate it, regardless of what happens to any single provider. CADA’s framework does a good job with the first parts of that sentence. The last clause is where recovery lives.
+ 
+For a copy of your data to hold up regardless of what happens to a provider, it has to be independent in four ways:
+- Jurisdiction. Who can compel access to it. This is where CADA is strongest. 
+- Location. Where it physically sits, and on whose infrastructure. CADA covers this for the provider’s own infrastructure. 
+- Administration. Separate credentials, accounts, and control plane. If someone with administrator rights over production can also delete the backup, the backup sits inside the same blast radius as the data it protects. 
+- Integrity. At least one immutable copy, with retention that nobody in the production environment can shorten. This is the logic behind the modern 3-2-1 rule: two distinct security boundaries and one copy that can’t be altered or deleted.
+EU law already recognizes most of this. The NIS2 Directive lists backup management and disaster recovery among the cybersecurity risk-management measures that essential and important entities must take (Article 21). DORA goes further, requiring financial entities to restore using systems that are physically and logically segregated from the source system (Article 12). CADA’s text already connects to both: recital 63 expects sovereignty risk assessments to account for data covered by sector-specific obligations such as DORA, and recital 65 asks buyers to consider whether a multi-vendor or multi-cloud approach is appropriate.
+The natural place to bring these together is the risk assessment under Article 29, where Member States and Union entities would decide which activities need which assurance level, using a common methodology set by the Commission. An assessment that asks where the data is and who controls the provider can ask the same questions about the recovery copy. I’d like to see that addressed explicitly as the proposal moves through Parliament and Council, and in the methodology that follows. 
+Three pieces of advice for sovereignty assessments 
+None of this needs to wait for the final text. For anyone assessing cloud services against sovereignty criteria now, I’d start with three things:
+- Assess dependencies, not only services
+For each critical service, map what it needs to run and to be restored: identity, directory, DNS, and the administrator accounts that manage it. Deciding which services are critical is a business decision, made with the people who own the risk if the service goes down.
+- Assess the recovery copy the way you assess the service 
+When a procurement or risk assessment asks where the data lives and who controls the provider, ask the same of the copy: where it sits, who administers it, and whether an incident in production can reach it.
+- Test the restore from outside 
+Restore from the copy using credentials and infrastructure that don’t depend on the primary service. If recovery requires the failed provider’s console or accounts, the copy isn’t independent, whatever its assurance level.
+If there’s one thing to take away: Control 
+CADA would give Europe a shared way to measure who controls its cloud, and that’s overdue. Use it, then ask the question the assurance levels leave to you: If this service had a bad day tomorrow, where would we recover from? Sovereignty tells you who can reach your data. Recoverability tells you whether you can get it back. The organizations that come through a disruption intact are the ones that have planned for both and have control over both.

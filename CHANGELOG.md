@@ -1,5 +1,20 @@
 # Keepit KB Changelog
 
+## 2026-10-18
+
+Added (3):
+- https://www.keepit.com/blog/cada-sovereign-cloud-recovery/
+- https://www.keepit.com/customers/j-macedo/
+- https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-J-Macedo-customer-story-EN.pdf
+
+Modified (6):
+- https://www.keepit.com/help/entra-id-category/supported-microsoft-intune-device-configuration-profiles/
+- https://www.keepit.com/help/microsoft-365-category/permissions-for-microsoft-365-backup-and-restore/
+- https://www.keepit.com/help/platform-category/keepit-user-roles-and-permissions/
+- https://www.keepit.com/help/platform-category/using-the-anomaly-detection-dashboard/
+- https://www.keepit.com/partners/managed-service-providers/
+- https://www.keepit.com/resources/events/
+
 ## 2026-10-11
 
 Added (4):

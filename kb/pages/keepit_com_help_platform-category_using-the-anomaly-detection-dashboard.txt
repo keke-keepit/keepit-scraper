@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/platform-category/using-the-anomaly-detection-dashboard/
 Content type: Web page
-Last modified: 2026-06-23T22:20:21+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-10-12T14:10:37+02:00
+Retrieved: 2026-10-18
 
 ============================================================
 
@@ -22,10 +22,9 @@ Anomaly detection can be triggered by a range of events — not all of them harm
 Common causes include:
 Changes in backup configuration
 - Additional data enabled 
- Adding significant data to the backup might cause a snapshot to be flagged
+Adding significant data to the backup might cause a snapshot to be flagged
 - Data removed
- Excluding a significant amount of data from the backup might cause a snapshot to be flagged
- 
+Excluding a significant amount of data from the backup might cause a snapshot to be flagged
 Mass file movement
 Moving a large number of files within the tenant may create anomalies for both added and removed files, detected as separate anomalies with the same timestamp.
 Restoring from an older snapshot

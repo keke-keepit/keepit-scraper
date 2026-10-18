@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — PARTNERS
-Generated: 2026-10-11
+Generated: 2026-10-18
 Pages: 15
 ============================================================
 
@@ -44,8 +44,8 @@ Director Solution & Practice Management Security & Software,
 
 Source URL: https://www.keepit.com/partners/managed-service-providers/
 Content type: Web page
-Last modified: 2026-10-01T14:07:26+02:00
-Retrieved: 2026-10-04
+Last modified: 2026-10-12T17:53:28+02:00
+Retrieved: 2026-10-18
 
 ============================================================
 
@@ -89,12 +89,7 @@ Flat per-seat pricing with unlimited storage and no surprise fees.
 Built for compliance 
 ISO-certified with GDPR and NIS2 support and full audit logs. 
 Powerful Architecture 
-Fully automated for modern cloud environments  
-Grow with an award-winning solution
-Grow revenue. Reduce risk.
-Become a Keepit MSP
-Keepit helps MSPs increase recurring revenue, eliminate billing surprises, and deliver best in breed backup without added complexity. Our independent cloud, flat pricing, and automation-first design free your teams to focus on growth — not manual backup tasks.
-Stronger margins, happier clients, and a platform you can trust.
+Fully automated for modern cloud environments
 
 ------------------------------------------------------------
 
