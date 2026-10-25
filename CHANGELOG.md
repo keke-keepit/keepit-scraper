@@ -1,5 +1,32 @@
 # Keepit KB Changelog
 
+## 2026-10-25
+
+Added (10):
+- https://www.keepit.com/customers/fruki-bebidas/
+- https://www.keepit.com/customers/pointlomanazarene/
+- https://www.keepit.com/help/hubspot-category/create-a-hubspot-connector/
+- https://www.keepit.com/help/hubspot-category/hubspot-coverage/
+- https://www.keepit.com/press/gartner-26/
+- https://www.keepit.com/press/top-infosec-award/
+- https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Service-Guide-Termed.pdf
+- https://lp.keepit.com/hubfs/content-assets/Help%20center%20documents/HubSpot-coverage-details.pdf
+- https://lp.keepit.com/hubfs/content-assets/case-stories/Fruki-Bebidas-customer-story-EN.pdf
+- https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Point-Loma-Nazarene%20customer-case-EN.pdf
+
+Modified (11):
+- https://www.keepit.com/blog/annual-data-report-2026/
+- https://www.keepit.com/customers/oxford-university-innovation/
+- https://www.keepit.com/help/github-category/create-a-github-connector/
+- https://www.keepit.com/help/github-category/recover-a-git-repository-from-a-github-backup/
+- https://www.keepit.com/help/microsoft-365-category/how-microsoft-products-are-counted-as-keepit-seats-entra-id-connectors/
+- https://www.keepit.com/help/microsoft-365-category/how-microsoft-products-are-counted-as-keepit-seats/
+- https://www.keepit.com/help/platform-category/find-data-for-recovery/
+- https://www.keepit.com/help/power-bi-category/power-bi-backup-data-coverage/
+- https://www.keepit.com/help/product-updates/
+- https://www.keepit.com/pricing/
+- https://www.keepit.com/service-guide/
+
 ## 2026-10-18
 
 Added (3):

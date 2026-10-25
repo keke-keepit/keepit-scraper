@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — DOCUMENTS (PDFs)
-Generated: 2026-10-18
-Documents: 173
+Generated: 2026-10-25
+Documents: 177
 ============================================================
 
 Source URL: https://cppa.ca.gov/regulations/pdf/ccpa_statute.pdf
@@ -26548,6 +26548,445 @@ For more information visit www.keepit.com or follow Keepit on Linkedin
 
 ------------------------------------------------------------
 
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Service-Guide-Termed.pdf
+Content type: PDF document
+Title: unknown
+Pages: 9
+Retrieved: 2026-10-25
+
+============================================================
+
+Service guide 
+ October 2026
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+1 
+Table of Contents 
+1. 
+Introduction ................................................................................................................................................. 1 
+a. 
+Relationship to the Terms of Service ................................................................................................. 1 
+2. 
+Definitions ................................................................................................................................................... 2 
+a. 
+Use Metric & Usage Metering ............................................................................................................. 2 
+b. 
+Base Subscription Fee ......................................................................................................................... 2 
+3. 
+Services Overview ..................................................................................................................................... 2 
+a. 
+Packages ............................................................................................................................................... 2 
+b. 
+Add-Ons ................................................................................................................................................. 2 
+4. 
+How Keepit Meters Usage ....................................................................................................................... 3 
+a. 
+Microsoft 365 Fair Usage Policy ......................................................................................................... 5 
+5. 
+Commercial and Contractual Terms ....................................................................................................... 5 
+a. 
+Retention ................................................................................................................................................ 5 
+b. 
+Data Processing .................................................................................................................................... 6 
+c. 
+Termination ............................................................................................................................................ 6 
+6. 
+Support And Additional Resources ......................................................................................................... 6 
+a. 
+Target SLA Comparison Matrix .......................................................................................................... 6 
+b. 
+Incident Priority Definitions and Target SLA ..................................................................................... 7 
+c. 
+Additional Resources ........................................................................................................................... 7 
+ 
+1. Introduction 
+This service guide describes how Keepit delivers its SaaS data protection services to customers: the 
+services and packages available, how usage is measured, the support levels for each package, and 
+the commercial terms that apply. It applies to the packages offered to termed customers as described 
+on the Keepit pricing page. 
+This guide is written for Keepit's direct customers. If you purchase Keepit through an Authorized 
+Reseller or Managed Service Provider, your support entitlements and commercial terms are set out in 
+your agreement with that partner and may differ from what is described here. 
+ 
+a. Relationship to the Terms of Service 
+This service guide is the "Keepit Service Guide" referred to in the Keepit Terms of Service and forms 
+part of your Agreement with Keepit. Capitalized terms not defined in this guide have the meaning 
+given in the Terms of Service.
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+2 
+If there is any ambiguity, conflict, or inconsistency between the documents that make up your 
+Agreement, the following order of precedence from the Terms of Service applies: (1) Data Processing 
+Agreement, (2) any Supplementary Terms for an Add-On or Service to which they apply, (3) Terms of 
+Service, (4) Order Form, (5) any other document, including this service guide. 
+ 
+2. Definitions 
+a. Use Metric & Usage Metering 
+Keepit measures usage of each Service and Add-On using a use metric, such as Seats or terabytes. 
+Links to the use metric, unit of measurement, and measurement frequency for each Service and Add-
+On can be found in Section 4 of this guide. Your Entitlement is the volume of Services and Add-Ons 
+stated in your Order Form, measured by the applicable use metric. 
+ 
+b. Base Subscription Fee 
+The total recurring fee for the Services on your Order Form, calculated from each Service’s use metric 
+(for example, Seats or terabytes) and its unit price, before any Add-On fees are applied. Add-Ons 
+priced as a percentage uplift are calculated on this amount. 
+3. Services Overview   
+Keepit provides Services for backup and recovery for Microsoft 365, Entra ID, and a rapidly growing 
+list of popular SaaS applications. A comprehensive list can be found in the table in Section 4, How 
+Keepit Meters Usage, below.  
+Keepit initiates at least one backup per day for each SaaS Workload unless you configure different 
+parameters within the Services, as described in the backup frequency provisions of the Terms of 
+Service. The time a backup takes depends on the volume and nature of your data, and Keepit does 
+not commit to a backup completion time. 
+Visit our website to learn more about our Services. 
+a. 
+Packages 
+Keepit offers three packages for covering the Services: Core Continuity, Business Resilience, and 
+Enterprise Resilience.  
+Visit our pricing page for the full overview of these packages. 
+ 
+b. 
+Add-Ons 
+Keepit offers three purchasable Add-On options for customers in the Business Resilience and 
+Enterprise Resilience package tiers: Hot Archive (SharePoint), Enhanced Compliance, and Unlimited 
+Retention.
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+3 
+Hot Archive (SharePoint) grants customers the ability to move SharePoint data out of their production 
+storage, unlocking substantial cost savings, whilst keeping the content instantly accessible (“Always 
+Hot Storage”). Requires your Microsoft 365 workload backed up with Keepit.   
+Enhanced Compliance allows for the customization of contractual and regulatory terms beyond 
+Keepit’s standard offering: regulatory letters and amendments, local-authority audit rights, and an 
+adjusted data processing agreement (e.g. DORA, custom DPAs, third-party due diligence). Scoped 
+case by case and subject to Keepit legal department approval; the agreed terms are documented in 
+your Order Form or a separate amendment. Enhanced Compliance is a contractual service and does 
+not change how the Services operate. 
+Unlimited Retention enables customers to set a retention length of up to 99 years in the Keepit 
+platform, beyond the retention range included in their package. 
+To learn more, visit our pricing page.  
+Keepit’s availability goal, the Service Credits that apply if it is not met, and the exclusions from it are 
+set out in the service level provisions of the Terms of Service. The Availability Commitment applies to 
+the Keepit platform only. Unless stated otherwise in this guide or in the Supplementary Terms for an 
+Add-On, no separate service level applies to an Add-On; Keepit will use commercially reasonable 
+efforts to maintain the availability and performance of each Add-On. 
+4. How Keepit Meters Usage  
+The table below sets out the use metric and unit of measurement for each Add-On, and links to how 
+Keepit counts Seats for each SaaS Workload.
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+4 
+Name 
+Service Type 
+Usage Metering 
+Autodesk Forma 
+Azure DevOps 
+BambooHR 
+Confluence 
+Docusign 
+Dynamics 365 
+Entra ID 
+GitHub 
+Google Workspace 
+Jira 
+Jira Service Management (JSM) 
+Microsoft 365 
+Miro 
+Okta 
+Power BI 
+Power Platform  
+Salesforce 
+Zendesk 
+SaaS 
+Workload 
+ 
+An overview of how Keepit meters each of our SaaS 
+Workloads can be found here.  
+ 
+ 
+Keepit Hot Archive (SharePoint) 
+Add-On 
+Hot Archive - Storage Measurement  
+Hot Archive is measured by Peak Monthly Storage 
+Consumption: the highest storage volume recorded 
+by Keepit’s platform across all your Hot Archive 
+connectors during a calendar month, measured 
+before compression. For the avoidance of doubt: 
+1. Unit of measurement. Storage is measured 
+in decimal terabytes (TB), where 1 TB = 10¹² 
+bytes, consistent with the International 
+System of Units (SI). All billing line items 
+denominated in TB use this decimal 
+standard. 
+2. Sampling. Keepit samples storage 
+consumption at least once per calendar 
+month. The highest sample recorded in a 
+month is that month’s Peak Monthly Storage 
+Consumption, captured as a raw byte value 
+before conversion and rounding. 
+3. Rounding. The raw byte value is converted to 
+TB and rounded to three decimal places, with 
+values of five or more in the fourth decimal
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+5 
+rounded up (for example, 1.5555 TB 
+becomes 1.556 TB). 
+Keepit’s measurement records are conclusive absent 
+manifest error. 
+ 
+Enhanced Compliance 
+Add-on 
+Use metric: your base subscription fee. Unit: a 
+percentage of that fee. Measurement: Enhanced 
+Compliance is not measured separately. Its fee is 
+calculated as a percentage uplift on your base 
+subscription fee, which in turn follows the metering of 
+each Service in your subscription (for example, Seats 
+and/or terabytes). The resulting fee is stated in your 
+Order Form. 
+Unlimited Retention 
+Add-on 
+Use metric: your base subscription fee. Unit: a 
+percentage of that fee. Measurement: Unlimited 
+Retention is not measured separately. Its fee is 
+calculated as a percentage uplift on your base 
+subscription fee, which in turn follows the metering of 
+each Service in your subscription (for example, Seats 
+and/or terabytes). The resulting fee is stated in your 
+Order Form. 
+ 
+a. Microsoft 365 Fair Usage Policy  
+Keepit's Microsoft 365 backup solution provides comprehensive coverage for SharePoint, Groups, 
+and Teams, even though the Seats count is based solely on users backed up in Exchange and 
+OneDrive. 
+To maintain optimal performance and service quality for all customers, the backup of SharePoint and 
+Groups & Teams is governed by the following fair usage policy, which is a Use Limitation under the 
+Terms of Service. 
+The number of users backed up in SharePoint and Groups & Teams is limited to four times (4x) the 
+number of Seats backed up in Exchange and OneDrive. If your usage exceeds this limit, Keepit will 
+contact you to agree an appropriate adjustment to your subscription. 
+5. Commercial and Contractual Terms 
+a. Retention 
+You can configure retention rules for your data within the Services. Retention is the period a data 
+object remains in your backup after it has been deleted from the SaaS Workload. The retention 
+included in your subscription is stated in your Order Form, as described in the data retention 
+provisions of the Terms of Service. The retention options available depend on your package and any 
+retention add-on you have purchased.
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+6 
+b. Data Processing 
+Keepit shall process personal data on your behalf in accordance with your instructions. For detailed 
+information, please refer to Keepit’s Data Processing Agreement: https://www.keepit.com/data-
+processing-agreement/  
+c. Termination 
+Unless your Order Form states otherwise, your subscription renews automatically for successive 
+terms of the same length as the initial term. Either party may terminate by giving notice at least 90 
+days before the end of the current term, as set out in the term and termination provisions of the Terms 
+of Service. 
+To terminate, send written notice to dk.billing@keepit.com or us.billing@keepit.com, as applicable, or 
+to your Authorized Reseller if you purchased through one. The notice must include your company 
+name, company registration number, contact information, and a statement that you wish to terminate 
+the Agreement. 
+Termination for material breach is governed by termination for cause provisions of the Terms of 
+Service. To expand an existing subscription, contact your Keepit account representative or Authorized 
+Reseller.  
+6. Support And Additional Resources 
+Customer, partner, and end-users have access to useful self-help articles on the Keepit Support Site 
+as well as product updates on the Keepit website.  
+ 
+The full description of support tiers and service level follows below. Terms of Service designates this 
+guide as the document that describes Keepit's support tiers. 
+a. Target SLA Comparison Matrix 
+Metric  
+Core Continuity  
+Business Resilience  
+Enterprise Resilience  
+Fastest response time 
+(depending on incident 
+priority – for details see 
+below) 
+4 business hours  
+4 hours  
+1 hour  
+Support hours  
+Mon – Fri, 09:00 – 17:00 
+CET/CEST and 08:00 – 
+16:00 CST/CDT   
+24 × 7 × 365  
+24 × 7 × 365  
+Support channels  
+Email and self-service 
+portal  
+Email and self-service 
+portal  
+Phone, email, and self-
+service portal 
+Dedicated customer success 
+manager  
+—  
+Shared CSM pool  
+Named CSM  
+Onboarding assistance  
+Self-guided  
+Self-guided 
+Full onboarding program  
+Business reviews  
+On request  
+On request  
+Quarterly
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+7 
+b. Incident Priority Definitions and Target SLA 
+Incident Priority Definitions 
+Priority  
+Definition  
+Business impact  
+Examples  
+P1 – Critical 
+Complete loss of backup 
+or restore capability  
+Potential for significant 
+data loss due to 
+continuous inability to 
+capture new data or 
+regulatory breach  
+All backups failing; the login 
+is not working (not related to 
+wrong credentials); a 
+production server or other 
+mission-critical system is 
+down. 
+P2 – High  
+Significant degradation of 
+backup or restore 
+functionality  
+Partial loss of ability to 
+capture new data or 
+restore the data  
+Intermittent backup failures 
+across connectors; issues 
+with 
+the connector configuration; 
+failed or 
+incomplete restore/import  
+P3 – Medium  
+Non-critical functionality 
+impaired; workaround 
+available  
+Operational 
+inconvenience; no 
+immediate data risk  
+Download and restore jobs 
+are taking long; restore job 
+failed but there is a 
+workaround; questions 
+about connector health 
+status 
+P4 – Low  
+General question, feature 
+request, or UI issue 
+Minimal or no operational 
+impact  
+How-to questions; 
+documentation 
+feedback; questions about 
+user interface functionality 
+or behavior  
+ 
+All support incidents are assigned a priority at the time of ticket creation. Priority is set by the Keepit 
+support system or by the assigned Keepit support engineer. Customer may request re-prioritization; 
+the final determination rests with the Keepit support manager.  
+ 
+ 
+ 
+Target SLA Contingent on Incident Priority 
+Metric  
+Core Continuity  
+Business Resilience  
+Enterprise Resilience  
+P1 – Initial response  
+ 4 business hours  
+ 4 hours  
+1 hour  
+P2 – Initial response  
+ 4 business hours  
+ 4 hours  
+2 hours  
+P3 – Initial response  
+ 8 business hours  
+ 8 hours  
+8 hours  
+P4 – Initial response  
+ 2 business days  
+ 2 days  
+1 day  
+P1 – Subsequent response   8 business hours  
+ 8 hours  
+2 hours  
+P2 – Subsequent response   8 business hours  
+ 8 hours  
+4 hours  
+P3 – Subsequent response   2 business days  
+ 2 days  
+1 day  
+P4 – Subsequent response   3 business days  
+ 3 days  
+2 days  
+ 
+c. Additional Resources 
+For additional information on Keepit’s Services, please refer to the following links: 
+• 
+General information on Keepit’s Services and customers’ stories: https://www.keepit.com/ 
+• 
+Keepit’s Terms of Service: https://www.keepit.com/terms-of-service/
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+8 
+• 
+Keepit’s Data Processing Agreement: https://www.keepit.com/data-processing-agreement/  
+• 
+Support requests can be submitted on Keepit Support Site: 
+https://help.keepit.com/support/tickets/new or via email: business@support.keepit.com  
+• 
+Support requests are subject to Keepit’s Privacy Policy: https://www.keepit.com/privacy-
+policy/  
+We reserve the right to update or modify this service guide at any time, as deemed necessary. 
+However, any change that would increase the Fees payable by you, reduce your Entitlement or 
+change the methodology by which consumption is measured takes effect from the commencement of 
+your next renewal term and does not apply during your then-current Subscription Term, as set out in 
+the Terms of Service. Any changes will take effect upon posting of the revised version on 
+www.keepit.com.
+
+------------------------------------------------------------
+
 Source URL: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Service-Guide.pdf
 Content type: PDF document
 Title: unknown
@@ -29600,6 +30039,184 @@ The entire Teams directory structure is for backup purposes only and is not rest
  
 User's email 
 To ensure a user's email address is backed up, it must be explicitly added to their User Profile.
+
+------------------------------------------------------------
+
+Source URL: https://lp.keepit.com/hubfs/content-assets/Help%20center%20documents/HubSpot-coverage-details.pdf
+Content type: PDF document
+Title: unknown
+Pages: 5
+Retrieved: 2026-10-25
+
+============================================================
+
+© 2026 Keepit. All rights reserved 
+Coverage details
+
+© 2026 Keepit. All rights reserved 
+Contents 
+ 
+Coverage details   ............................................................................................................... 1 
+Contents .............................................................................................................................. 1 
+Files ................................................................................................................................. 2 
+Companies ...................................................................................................................... 2 
+Contacts .......................................................................................................................... 2 
+Notes ............................................................................................................................... 3 
+Properties ........................................................................................................................ 3 
+Associations metadata (Labels) ...................................................................................... 4 
+Associations between objects ......................................................................................... 5 
+ 
+Files 
+Restore 
+ 
+File restore isn’t supported for HubSpot. If a file was referenced as an attachment on a 
+note, or in a custom property on a record, that reference can be restored, provided the 
+file still exists in HubSpot. The file itself isn’t restored. 
+ 
+Companies 
+Backup 
+ 
+• 
+Archived Companies aren't backed up. Only active Company records are 
+included. 
+ 
+• 
+The owner email and owner name are legacy fields in HubSpot and are no longer 
+a reliable indicator of ownership. The owner ID field is used instead, as the 
+authoritative source for who owns a Company record. 
+Restore 
+ 
+If a property's type changes after Keepit ran the backup (for example, from single-line 
+text to email), HubSpot may reject the restored value. When this happens, Keepit retries 
+the restore without that property, rather than failing the entire restore.
+
+© 2026 Keepit. All rights reserved 
+Contacts 
+Backup 
+ 
+• 
+Archived Contacts aren’t backed up. Only active Contact records are included. 
+ 
+• 
+The owner email and owner name are legacy fields in HubSpot and are no longer 
+a reliable indicator of ownership. The owner ID field is used instead, as the 
+authoritative source for who owns a Contact record. 
+ 
+Restore 
+ 
+If a property's type changes after Keepit ran the backup (for example, from single-line 
+text to email), HubSpot may reject the restored value. When this happens, Keepit retries 
+the restore without that property, rather than failing the entire restore. 
+ 
+Notes 
+Backup 
+ 
+• 
+Archived Notes aren’t backed up. Only active Notes are included. 
+ 
+• 
+A Note's display name in Keepit is based on the first 100 characters of its text. If 
+a Note has no text, its unique ID is used as the name instead. 
+ 
+• 
+HubSpot’s API doesn’t support backing up comments and replies on Notes. 
+ 
+• 
+The owner email and owner name are legacy fields in HubSpot and are no longer 
+a reliable indicator of ownership. The owner ID field is used instead, as the 
+authoritative source for who owns a Note. 
+ 
+Restore 
+ 
+If a property's type changes after Keepit ran the backup (for example, from single-line 
+text to email), HubSpot may reject the restored value. When this happens, Keepit retries 
+the restore without that property, rather than failing the entire restore. 
+ 
+Properties 
+ 
+Limitations apply to default and custom properties on all supported objects: Companies, 
+Contacts, and Notes.
+
+© 2026 Keepit. All rights reserved 
+Backup 
+ 
+• 
+Archived properties aren’t backed up. Only active properties are included. 
+ 
+Restore 
+ 
+• 
+For read-only properties, you can restore only their visibility (shown or hidden). 
+Other settings stay as they are in HubSpot. 
+ 
+• 
+For properties with the field type calculation_rollup, the label, description, and 
+visibility can be restored, but not the calculation itself. If one of these properties 
+was deleted, you can’t recreate it, as the HubSpot API doesn’t support creating 
+this property type. 
+ 
+• 
+In rare cases, HubSpot flags a property as editable when it's actually a built-in 
+calculated property. When this happens, restore only updates the property's 
+visibility (shown or hidden). 
+ 
+• 
+A HubSpot-defined property that was permanently deleted (more than 90 days 
+after deletion) can’t be restored, as properties owned by HubSpot can’t be 
+recreated through the API.  
+ 
+• 
+If a property's type changes after Keepit ran the backup (for example, from 
+single-line text to email or URL), it may not revert to its original type during 
+restore. This is a limitation of the HubSpot API. If this happens, you can manually 
+change the type back in HubSpot and run the restore again. 
+ 
+• 
+If a property was moved to a different property group, that change can’t be 
+restored. 
+ 
+• 
+If a permanently deleted property is recreated during restore, its original Created 
+by value can’t be restored. This is a limitation of the HubSpot API. 
+ 
+• 
+Default email values for email properties can’t be restored. This is a limitation of 
+the HubSpot API.
+
+© 2026 Keepit. All rights reserved 
+Associations metadata (labels) 
+ 
+Limitations apply to associations metadata between all supported objects: Companies, Contacts, 
+and Notes. 
+Backup 
+ 
+A label's paired "inverse" label — the label shown from the other side of the relationship 
+— isn’t available through the HubSpot API. 
+ 
+Restore 
+ 
+Labels themselves can’t be restored; they must already exist in HubSpot. The limits 
+configured on labels (for example, the maximum number of records that can be linked 
+under a label) are restored to match the backup:  
+• 
+Limits missing in HubSpot are added. 
+• 
+Limits that still exist are updated. 
+• 
+Limits no longer in the backup are removed. 
+ 
+Associations between objects 
+Limitations apply to associations between all supported objects: Companies, Contacts, and 
+Notes. 
+Restore 
+ 
+• 
+If an association between two records is missing compared to the backup, it’s 
+restored automatically. 
+ 
+• 
+If the association type itself no longer exists in HubSpot (for example, because a 
+custom association type was deleted), the association can’t be restored.
 
 ------------------------------------------------------------
 
@@ -34086,6 +34703,185 @@ in a vendor-independent cloud to safeguard essential business applications, boos
 future-proof data protection. For more information visit www.keepit.com or follow Keepit on Linkedin.
 Your data. Here today. Here tomorrow.
 © 2025 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+
+------------------------------------------------------------
+
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Fruki-Bebidas-customer-story-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-10-25
+
+============================================================
+
+Fruki€Be Bebidas trades 
+unpredictable backup 
+costs for long-term
+data resilience
+Customer success story
+
+Fruki€Bebidas trades 
+unpredictable backup(
+costs for long-term(
+data resilience€
+During routine IT budget discussions, one issue kept coming up for Fruki Bebidas: the cost of 
+protecting their data and getting to it when they needed it. The Brazilian beverage 
+company's Microsoft 365 environment had grown significantly across Exchange Online, 
+SharePoint, OneDrive, and Teams, and the previous backup platform charged for every 
+gigabyte. Costs were unpredictable, data retention was capped at six months, and restoring 
+anything took real time and effort. With compliance requirements demanding data retention 
+of up to 20 years for certain records, the gap between what the team had and what the 
+business actually needed was hard to ignore.
+Brazil
+LOCATION:
+Beverage
+INDUSTRY:
+1,000+
+EMPLOYEES:
+From six months to 99 years
+Fruki's previous platform kept data for just six 
+months. For a company with serious compliance 
+and legal obligations, that gap had real 
+consequences. Restores were slow and uncertain, 
+and a workaround forced the team to keep 
+Microsoft 365 licenses active for departed 
+employees just to hold onto their data in OneDrive 
+and Teams. 
+
+When Rafael Wolkmer, Fruki's CIO, first 
+encountered Keepit's 99-year retention option, it 
+stopped him mid-conversation. Going from six 
+months to 99 years wasn't just a feature upgrade;
+Customer success story
+˝I have 99 years of 
+retention for all company 
+data in SharePoint and 
+Microsoft 365. That gives 
+us real confidence 
+alongside legal and 
+compliance  and it just 
+works.˛
+Rafael Wolkmer(
+CIO 
+Fruki Bebidas
+2
+
+˝It was one of the fastest implementations I've ever done, possibly the 
+fastest. Everything was essentially ready out of the box, and there were 
+no implementation hurdles.˛
+William Leonhardt(
+Cloud infrastructure analyst, Fruki Bebidas
+it resolved a compliance requirement the team 
+had been working around for years.
+
+The first real-world test came quickly. Shortly after 
+go-live, the legal and compliance team needed to 
+audit Microsoft Teams conversations. The data was 
+there within seconds: searchable, ready, and 
+recoverable with a single shared link. Those are the 
+kinds of everyday wins that don't show up in an 
+evaluation but matter every time they happen. 
+With long-term retention now handled natively, the 
+team also closed the book on a long-standing 
+compliance obligation: departed employees' 
+accounts no longer need to stay active in Active 
+Directory just to preserve their data. 
+
+A fast decision, backed by real references
+First contact was made on Dec. 18. The contract 
+was signed on Dec. 24. In those six days, the team 
+ran a benchmark, gathered market intelligence, 
+and reached out to about 15 Keepit references, 
+including one call with a CEO on Christmas Eve. 
+The feedback was consistent: people were 
+genuinely happy with the solution and willing to say 
+so. "In a presentation, anything goes," noted 
+Joesel Decker, IT services supervisor. "The 
+references gave us the real picture." 
+
+From there, Fruki worked with AdapIT, a Keepit 
+partner, to complete the implementation. William 
+Leonhardt, cloud infrastructure analyst, describes 
+it as one of the fastest deployments he's ever 
+completed, with no virtual machines to spin up and 
+no complex internal infrastructure to build. 
+
+Per-user pricing ends the storage snowball 
+One of the most immediate changes was financial 
+clarity. Keepit's per-user pricing replaced a model 
+where storage growth drove unpredictable 
+monthly costs. Microsoft 365 usage only expands 
+over time. That's the nature of how teams use 
+SharePoint, Exchange, OneDrive, and Teams, and 
+the previous platform charged accordingly. With 
+unlimited storage priced per user, budgeting 
+became straightforward. 
+
+Fruki estimates total savings of over BRL 150,000 
+over the contract period, accounting for 
+decommissioned server infrastructure, eliminated 
+Microsoft 365 licenses previously held for 
+departed employees, and the cost of the previous 
+solution. Because that solution would have also 
+required a server size increase that never 
+happened, the actual savings are likely higher. "We 
+saw the opportunity right there," Decker said. 
+"That's why the negotiation window moved so 
+fast." 
+
+Simple enough to use without the manual 
+Security and simplicity both featured in the 
+evaluation. Immutability, meaning backup data 
+that can't be altered or deleted, was a requirement 
+the team flagged explicitly, particularly compared 
+to the previous solution. Single sign-on (SSO) with 
+multi-factor authentication (MFA) and granular 
+permission controls meant different team 
+members could be given appropriate access 
+levels without compromising overall security. 
+
+But simplicity carried equal weight. "I always say it 
+has to be simple and intuitive," Leonhardt said. "I 
+want to do something, I click around, and I figure it 
+out on my own. I shouldn't have to constantly look 
+up documentation or call the vendor for support." 
+For Fruki's team, that combination of depth and 
+usability is what makes the platform sustainable 
+over the long term. 
+Customer success story
+3
+
+Built to outlast the people managing it 
+today 
+Fruki Bebidas is a company that thinks in 
+generations 
+ 102 years old and still looking to the 
+future. With Keepit protecting a large and 
+expanding Microsoft 365 environment across 
+Exchange Online, SharePoint, OneDrive, and 
+Teams, the IT team has built a data protection 
+foundation with predictable costs and retention 
+measured in decades. The compliance team has 
+the certainty it needs, recovery is fast and granular, 
+and the next budget cycle will look very different 
+from the last one. 
+About Fruki Bebidas
+Fruki Bebidas is a Brazilian beverage company operating across the states of Rio Grande do Sul and Santa 
+Catarina, with more than 1,000 employees. Founded in 1924, the company's industrial complex today has a 
+capacity of 1 billion liters per year and serves customers across southern Brazil through multiple distribution 
+and sales centers. https://fruki.com.br/
+About AdapIT
+AdapIT is dedicated to delivering innovative solutions in cloud analytics, security, and data backup 
+technology. With a mission to help organizations achieve their goals through efficient, secure, and tailored 
+technology solutions, AdapIT provides high-quality, reliable, and personalized services focused on the 
+success of each partner it works with. https://adapit.com.br/
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Customer success story
+4
 
 ------------------------------------------------------------
 
@@ -39007,6 +39803,132 @@ Your data. Here today. Here tomorrow
 Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
 independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
  For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Customer success story
+4
+
+------------------------------------------------------------
+
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Point-Loma-Nazarene%20customer-case-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-10-25
+
+============================================================
+
+A Google Workspace 
+data protection platform 
+IT trusts
+Customer success story
+
+A Google Workspace data 
+protection platform IT trusts
+For years, the backup platform protecting Google Workspace at Point Loma Nazarene 
+University sat mostly unused. Joe Alcorn, director of systems and DevOps, says his team 
+restored from it only once, because it was too confusing to trust. Point Loma wanted a 
+backup and recovery platform its team would use, backed by a vendor that stayed engaged 
+long after the deal closed. Ten months into working with Keepit, that trust has helped Alcorn 
+close out a project that sat untouched for a decade.€
+USA
+LOCATION
+Higher education
+INDUSTRY
+1,500+
+EMPLOYEES
+Legacy platform nobody wanted to use
+Before Keepit, Alcorn's team managed backup for 
+around 1,500 staff and faculty accounts on a 
+platform he calls "funky." Finding a file meant 
+knowing its exact original path. There was no way 
+to search by shared drive. It also wasn't clear 
+whether a settings change applied to already-
+backed-up users, or if it required removing and(
+re-adding them. The team restored data from it 
+exactly once in years, and Point Loma's former CIO 
+treated it as a checkbox rather than real 
+protection.
+Customer success story
+˝Being able to send someone a 
+link and say, 'Go search your old 
+folder and find it,' is such a cool 
+feature. We won't have to open 
+15 documents to figure out 
+which version they want.˛
+Joe Alcorn(
+Director of Systems and DevOps 
+Point Loma Nazarene University
+2
+
+˝We've been trying to close out a former-employee account project for a 
+decade. With a backup copy we could count on, we finally did it.˛
+Joe Alcorn(
+Director of Systems and DevOps 
+Point Loma Nazarene University
+A different kind of vendor relationship 
+Alcorn first ran into Keepit at an EDUCAUSE 
+conference, where he talked with the team at the 
+booth and later worked through a proof of 
+concept. What stood out wasn't just the platform. 
+It was the engagement. The previous vendor 
+mostly surfaced at renewal time, but Keepit 
+reached out proactively to keep onboarding and 
+setup on track. 
+
+Anomaly detection, audit logs, and self-
+service links 
+Within the first few months, Alcorn stopped 
+worrying about whether he could find what he
+needed. It was all there, and easy to find quickly. 
+That confidence grew further after Point Loma  
+expanded its Keepit licensing: Keepit's monitoring 
+flagged the resulting data increase as anomalous 
+and checked in. The jump made sense once Alcorn 
+traced it to 2,000 newly added users, but the 
+outreach itself told him something was watching 
+the data closely. Ask Alcorn which features he likes 
+most, and two come up fast: audit logs and the 
+self-service restore link that lets end users search 
+for and recover their own files through a secure 
+link.
+
+Closing a decade-old to-do list 
+That expanded licensing also gave Point Loma a 
+four-year backup copy of former-employee data, 
+the missing piece for a project Alcorn had wanted 
+to finish for a decade. In July, working with a fellow 
+Customer success story
+3
+
+˝We've been trying to close out a 
+former-employee account project for a 
+decade. With a backup copy we could 
+count on, we finally did it.˛
+Joe Alcorn(
+Director of Systems and DevOps 
+Point Loma Nazarene University
+ IT director, his team deprovisioned around 2,000 
+inactive former-employee accounts, recouping 
+storage that Google Workspace for Edu caps at 
+100 terabytes without a costlier license tier. 
+
+Alcorn evaluated other Google Workspace 
+backup vendors first, some charging more than 
+Keepit for a narrower feature set. He isn't tracking 
+hard time or dollar savings, but says Point Loma 
+gets more value for what it spends. That 
+confidence extends to whatever disaster recovery 
+plans its Google Workspace environment needs 
+next. 
+About Point Loma Nazarene University 
+PLNU is a Christian liberal arts institution established by Phineas Bresee, primary founder of the Church of 
+the Nazarene. Accredited by the WASC Senior College and University Commission (WSCUC), PLNU is an 
+NCAA DII school with 11 athletics teams to cheer on and a Christ-centered community committed to whole-
+person education and helping students fully become who they're called to be.
+Your data. Here today. Here tomorrow.
+Keepit provides a true SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+For more information visit keepit.com or follow Keepit on LinkedIn.
 © 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
 Customer success story
 4

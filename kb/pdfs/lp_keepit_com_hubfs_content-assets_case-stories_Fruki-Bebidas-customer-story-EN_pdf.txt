@@ -1,0 +1,176 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Fruki-Bebidas-customer-story-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-10-25
+
+============================================================
+
+Fruki€Be Bebidas trades 
+unpredictable backup 
+costs for long-term
+data resilience
+Customer success story
+
+Fruki€Bebidas trades 
+unpredictable backup(
+costs for long-term(
+data resilience€
+During routine IT budget discussions, one issue kept coming up for Fruki Bebidas: the cost of 
+protecting their data and getting to it when they needed it. The Brazilian beverage 
+company's Microsoft 365 environment had grown significantly across Exchange Online, 
+SharePoint, OneDrive, and Teams, and the previous backup platform charged for every 
+gigabyte. Costs were unpredictable, data retention was capped at six months, and restoring 
+anything took real time and effort. With compliance requirements demanding data retention 
+of up to 20 years for certain records, the gap between what the team had and what the 
+business actually needed was hard to ignore.
+Brazil
+LOCATION:
+Beverage
+INDUSTRY:
+1,000+
+EMPLOYEES:
+From six months to 99 years
+Fruki's previous platform kept data for just six 
+months. For a company with serious compliance 
+and legal obligations, that gap had real 
+consequences. Restores were slow and uncertain, 
+and a workaround forced the team to keep 
+Microsoft 365 licenses active for departed 
+employees just to hold onto their data in OneDrive 
+and Teams. 
+
+When Rafael Wolkmer, Fruki's CIO, first 
+encountered Keepit's 99-year retention option, it 
+stopped him mid-conversation. Going from six 
+months to 99 years wasn't just a feature upgrade;
+Customer success story
+˝I have 99 years of 
+retention for all company 
+data in SharePoint and 
+Microsoft 365. That gives 
+us real confidence 
+alongside legal and 
+compliance  and it just 
+works.˛
+Rafael Wolkmer(
+CIO 
+Fruki Bebidas
+2
+
+˝It was one of the fastest implementations I've ever done, possibly the 
+fastest. Everything was essentially ready out of the box, and there were 
+no implementation hurdles.˛
+William Leonhardt(
+Cloud infrastructure analyst, Fruki Bebidas
+it resolved a compliance requirement the team 
+had been working around for years.
+
+The first real-world test came quickly. Shortly after 
+go-live, the legal and compliance team needed to 
+audit Microsoft Teams conversations. The data was 
+there within seconds: searchable, ready, and 
+recoverable with a single shared link. Those are the 
+kinds of everyday wins that don't show up in an 
+evaluation but matter every time they happen. 
+With long-term retention now handled natively, the 
+team also closed the book on a long-standing 
+compliance obligation: departed employees' 
+accounts no longer need to stay active in Active 
+Directory just to preserve their data. 
+
+A fast decision, backed by real references
+First contact was made on Dec. 18. The contract 
+was signed on Dec. 24. In those six days, the team 
+ran a benchmark, gathered market intelligence, 
+and reached out to about 15 Keepit references, 
+including one call with a CEO on Christmas Eve. 
+The feedback was consistent: people were 
+genuinely happy with the solution and willing to say 
+so. "In a presentation, anything goes," noted 
+Joesel Decker, IT services supervisor. "The 
+references gave us the real picture." 
+
+From there, Fruki worked with AdapIT, a Keepit 
+partner, to complete the implementation. William 
+Leonhardt, cloud infrastructure analyst, describes 
+it as one of the fastest deployments he's ever 
+completed, with no virtual machines to spin up and 
+no complex internal infrastructure to build. 
+
+Per-user pricing ends the storage snowball 
+One of the most immediate changes was financial 
+clarity. Keepit's per-user pricing replaced a model 
+where storage growth drove unpredictable 
+monthly costs. Microsoft 365 usage only expands 
+over time. That's the nature of how teams use 
+SharePoint, Exchange, OneDrive, and Teams, and 
+the previous platform charged accordingly. With 
+unlimited storage priced per user, budgeting 
+became straightforward. 
+
+Fruki estimates total savings of over BRL 150,000 
+over the contract period, accounting for 
+decommissioned server infrastructure, eliminated 
+Microsoft 365 licenses previously held for 
+departed employees, and the cost of the previous 
+solution. Because that solution would have also 
+required a server size increase that never 
+happened, the actual savings are likely higher. "We 
+saw the opportunity right there," Decker said. 
+"That's why the negotiation window moved so 
+fast." 
+
+Simple enough to use without the manual 
+Security and simplicity both featured in the 
+evaluation. Immutability, meaning backup data 
+that can't be altered or deleted, was a requirement 
+the team flagged explicitly, particularly compared 
+to the previous solution. Single sign-on (SSO) with 
+multi-factor authentication (MFA) and granular 
+permission controls meant different team 
+members could be given appropriate access 
+levels without compromising overall security. 
+
+But simplicity carried equal weight. "I always say it 
+has to be simple and intuitive," Leonhardt said. "I 
+want to do something, I click around, and I figure it 
+out on my own. I shouldn't have to constantly look 
+up documentation or call the vendor for support." 
+For Fruki's team, that combination of depth and 
+usability is what makes the platform sustainable 
+over the long term. 
+Customer success story
+3
+
+Built to outlast the people managing it 
+today 
+Fruki Bebidas is a company that thinks in 
+generations 
+ 102 years old and still looking to the 
+future. With Keepit protecting a large and 
+expanding Microsoft 365 environment across 
+Exchange Online, SharePoint, OneDrive, and 
+Teams, the IT team has built a data protection 
+foundation with predictable costs and retention 
+measured in decades. The compliance team has 
+the certainty it needs, recovery is fast and granular, 
+and the next budget cycle will look very different 
+from the last one. 
+About Fruki Bebidas
+Fruki Bebidas is a Brazilian beverage company operating across the states of Rio Grande do Sul and Santa 
+Catarina, with more than 1,000 employees. Founded in 1924, the company's industrial complex today has a 
+capacity of 1 billion liters per year and serves customers across southern Brazil through multiple distribution 
+and sales centers. https://fruki.com.br/
+About AdapIT
+AdapIT is dedicated to delivering innovative solutions in cloud analytics, security, and data backup 
+technology. With a mission to help organizations achieve their goals through efficient, secure, and tailored 
+technology solutions, AdapIT provides high-quality, reliable, and personalized services focused on the 
+success of each partner it works with. https://adapit.com.br/
+Your data. Here today. Here tomorrow.
+Keepit provides a next-level SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Customer success story
+4

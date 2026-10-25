@@ -1,12 +1,23 @@
 Source URL: https://www.keepit.com/help/product-updates/
 Content type: Web page
-Last modified: 2026-09-29T17:36:30+02:00
-Retrieved: 2026-10-04
+Last modified: 2026-10-21T15:55:22+02:00
+Retrieved: 2026-10-25
 
 ============================================================
 
 Keepit product updates
 ââWhat's new in the Keepit Platform
+10.27.0 - What's New in the Keepit Platform
+Salesforce: pre-restore storage impact insights
+You can now preview the storage impact of a Salesforce restore before it runs and choose whether to include or exclude files and attachments — so you stay in control of your storage limits.
+What's new
+Salesforce admins can now review document scope and estimated storage impact before committing to a restore job. You can choose to include or exclude the following document types:
+- Files
+- Attachments
+- Rich text field images
+Storage estimates for both data and file storage are shown upfront, giving you a clear picture of what the restore will consume.
+Why it matters
+Storage surprises after a restore are a thing of the past. You can make informed decisions about restore scope, avoid accidental storage limit breaches, and manage large-scale data recovery with confidence — without manual workarounds or after-the-fact cleanup.
 10.26.0 - What's New in the Keepit Platform
 Redesigned Single Sign-On experience
 Logging in with Single Sign-On (SSO) is now clearer and more intuitive. The platform automatically detects your authentication method and routes you to the right login flow.

@@ -1,0 +1,24 @@
+Source URL: https://www.keepit.com/customers/pointlomanazarene/
+Content type: Web page
+Last modified: 2026-10-23T15:03:26+02:00
+Retrieved: 2026-10-25
+
+============================================================
+
+A Google Workspace data protection platform IT trusts
+For years, the backup platform protecting Google Workspace at Point Loma Nazarene University sat mostly unused. Joe Alcorn, director of systems and DevOps, says his team restored from it only once, because it was too confusing to trust. Point Loma wanted a backup and recovery platform its team would use, backed by a vendor that stayed engaged long after the deal closed. Ten months into working with Keepit, that trust has helped Alcorn close out a project that sat untouched for a decade.
+Legacy platform nobody wanted to use
+Before Keepit, Alcorn's team managed backup for around 1,500 staff and faculty accounts on a platform he calls "funky." Finding a file meant knowing its exact original path. There was no way to search by shared drive. It also wasn't clear whether a settings change applied to already-backed-up users, or if it required removing and re-adding them. The team restored data from it exactly once in years, and Point Loma's former CIO treated it as a checkbox rather than real protection.
+A different kind of vendor relationship
+Alcorn first ran into Keepit at an EDUCAUSE conference, where he talked with the team at the booth and later worked through a proof of concept. What stood out wasn't just the platform. It was the engagement. The previous vendor mostly surfaced at renewal time, but Keepit reached out proactively to keep onboarding and setup on track.
+Anomaly detection, audit logs, and self-service links
+Within the first few months, Alcorn stopped worrying about whether he could find what he needed. It was all there, and easy to find quickly. That confidence grew further after Point Loma expanded its Keepit licensing: Keepit's monitoring flagged the resulting data increase as anomalous and checked in. The jump made sense once Alcorn traced it to 2,000 newly added users, but the outreach itself told him something was watching the data closely. Ask Alcorn which features he likes most, and two come up fast: audit logs and the self-service restore link that lets end users search for and recover their own files through a secure link.
+Being able to send someone a link and say, 'Go search your old folder and find it,' is such a cool feature. We won't have to open 15 documents to figure out which version they want.
+Joe Alcorn
+Director of Systems and DevOps, Point Loma Nazarene University
+Closing a decade-old to-do list
+That expanded licensing also gave Point Loma a four-year backup copy of former-employee data, the missing piece for a project Alcorn had wanted to finish for a decade. In July, working with a fellow IT director, his team deprovisioned around 2,000 inactive former-employee accounts, recouping storage that Google Workspace for Edu caps at 100 terabytes without a costlier license tier.
+Alcorn evaluated other Google Workspace backup vendors first, some charging more than Keepit for a narrower feature set. He isn't tracking hard time or dollar savings, but says Point Loma gets more value for what it spends. That confidence extends to whatever disaster recovery plans its Google Workspace environment needs next.
+We've been trying to close out a former-employee account project for a decade. With a backup copy we could count on, we finally did it.
+Joe Alcorn
+Director of Systems and DevOps, Point Loma Nazarene University

@@ -1,0 +1,175 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/Help%20center%20documents/HubSpot-coverage-details.pdf
+Content type: PDF document
+Title: unknown
+Pages: 5
+Retrieved: 2026-10-25
+
+============================================================
+
+© 2026 Keepit. All rights reserved 
+Coverage details
+
+© 2026 Keepit. All rights reserved 
+Contents 
+ 
+Coverage details   ............................................................................................................... 1 
+Contents .............................................................................................................................. 1 
+Files ................................................................................................................................. 2 
+Companies ...................................................................................................................... 2 
+Contacts .......................................................................................................................... 2 
+Notes ............................................................................................................................... 3 
+Properties ........................................................................................................................ 3 
+Associations metadata (Labels) ...................................................................................... 4 
+Associations between objects ......................................................................................... 5 
+ 
+Files 
+Restore 
+ 
+File restore isn’t supported for HubSpot. If a file was referenced as an attachment on a 
+note, or in a custom property on a record, that reference can be restored, provided the 
+file still exists in HubSpot. The file itself isn’t restored. 
+ 
+Companies 
+Backup 
+ 
+• 
+Archived Companies aren't backed up. Only active Company records are 
+included. 
+ 
+• 
+The owner email and owner name are legacy fields in HubSpot and are no longer 
+a reliable indicator of ownership. The owner ID field is used instead, as the 
+authoritative source for who owns a Company record. 
+Restore 
+ 
+If a property's type changes after Keepit ran the backup (for example, from single-line 
+text to email), HubSpot may reject the restored value. When this happens, Keepit retries 
+the restore without that property, rather than failing the entire restore.
+
+© 2026 Keepit. All rights reserved 
+Contacts 
+Backup 
+ 
+• 
+Archived Contacts aren’t backed up. Only active Contact records are included. 
+ 
+• 
+The owner email and owner name are legacy fields in HubSpot and are no longer 
+a reliable indicator of ownership. The owner ID field is used instead, as the 
+authoritative source for who owns a Contact record. 
+ 
+Restore 
+ 
+If a property's type changes after Keepit ran the backup (for example, from single-line 
+text to email), HubSpot may reject the restored value. When this happens, Keepit retries 
+the restore without that property, rather than failing the entire restore. 
+ 
+Notes 
+Backup 
+ 
+• 
+Archived Notes aren’t backed up. Only active Notes are included. 
+ 
+• 
+A Note's display name in Keepit is based on the first 100 characters of its text. If 
+a Note has no text, its unique ID is used as the name instead. 
+ 
+• 
+HubSpot’s API doesn’t support backing up comments and replies on Notes. 
+ 
+• 
+The owner email and owner name are legacy fields in HubSpot and are no longer 
+a reliable indicator of ownership. The owner ID field is used instead, as the 
+authoritative source for who owns a Note. 
+ 
+Restore 
+ 
+If a property's type changes after Keepit ran the backup (for example, from single-line 
+text to email), HubSpot may reject the restored value. When this happens, Keepit retries 
+the restore without that property, rather than failing the entire restore. 
+ 
+Properties 
+ 
+Limitations apply to default and custom properties on all supported objects: Companies, 
+Contacts, and Notes.
+
+© 2026 Keepit. All rights reserved 
+Backup 
+ 
+• 
+Archived properties aren’t backed up. Only active properties are included. 
+ 
+Restore 
+ 
+• 
+For read-only properties, you can restore only their visibility (shown or hidden). 
+Other settings stay as they are in HubSpot. 
+ 
+• 
+For properties with the field type calculation_rollup, the label, description, and 
+visibility can be restored, but not the calculation itself. If one of these properties 
+was deleted, you can’t recreate it, as the HubSpot API doesn’t support creating 
+this property type. 
+ 
+• 
+In rare cases, HubSpot flags a property as editable when it's actually a built-in 
+calculated property. When this happens, restore only updates the property's 
+visibility (shown or hidden). 
+ 
+• 
+A HubSpot-defined property that was permanently deleted (more than 90 days 
+after deletion) can’t be restored, as properties owned by HubSpot can’t be 
+recreated through the API.  
+ 
+• 
+If a property's type changes after Keepit ran the backup (for example, from 
+single-line text to email or URL), it may not revert to its original type during 
+restore. This is a limitation of the HubSpot API. If this happens, you can manually 
+change the type back in HubSpot and run the restore again. 
+ 
+• 
+If a property was moved to a different property group, that change can’t be 
+restored. 
+ 
+• 
+If a permanently deleted property is recreated during restore, its original Created 
+by value can’t be restored. This is a limitation of the HubSpot API. 
+ 
+• 
+Default email values for email properties can’t be restored. This is a limitation of 
+the HubSpot API.
+
+© 2026 Keepit. All rights reserved 
+Associations metadata (labels) 
+ 
+Limitations apply to associations metadata between all supported objects: Companies, Contacts, 
+and Notes. 
+Backup 
+ 
+A label's paired "inverse" label — the label shown from the other side of the relationship 
+— isn’t available through the HubSpot API. 
+ 
+Restore 
+ 
+Labels themselves can’t be restored; they must already exist in HubSpot. The limits 
+configured on labels (for example, the maximum number of records that can be linked 
+under a label) are restored to match the backup:  
+• 
+Limits missing in HubSpot are added. 
+• 
+Limits that still exist are updated. 
+• 
+Limits no longer in the backup are removed. 
+ 
+Associations between objects 
+Limitations apply to associations between all supported objects: Companies, Contacts, and 
+Notes. 
+Restore 
+ 
+• 
+If an association between two records is missing compared to the backup, it’s 
+restored automatically. 
+ 
+• 
+If the association type itself no longer exists in HubSpot (for example, because a 
+custom association type was deleted), the association can’t be restored.

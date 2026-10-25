@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/help/github-category/recover-a-git-repository-from-a-github-backup/
 Content type: Web page
-Last modified: 2026-03-19T13:01:31+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-10-22T11:21:50+02:00
+Retrieved: 2026-10-25
 
 ============================================================
 
@@ -16,7 +16,7 @@ To access source files:
 - Restore the .git directory into a repository
 - Run a Git checkout (following the instructions provided).
 Requirements for restore
-A Git client must be installed and available in your system’s PATH.
+Git CLI must be installed to run the repository from the terminal, and you must be authenticated as a user with permissions to make changes at the organization level ( via git auth login).
 Manual local restore
 Follow these steps:
 1. Download the Repository Content folder.

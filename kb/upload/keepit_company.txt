@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — COMPANY
-Generated: 2026-10-18
+Generated: 2026-10-25
 Pages: 72
 ============================================================
 
@@ -1709,8 +1709,8 @@ If you want to lean more, please read our brochure "Phishing: What to do?"
 
 Source URL: https://www.keepit.com/pricing/
 Content type: Web page
-Last modified: 2026-10-01T21:11:24+02:00
-Retrieved: 2026-10-04
+Last modified: 2026-10-23T20:11:14+02:00
+Retrieved: 2026-10-25
 
 ============================================================
 
@@ -1724,13 +1724,13 @@ Core Continuity
 Ideal for organizations with smaller IT teams , looking for a reliable, easy-to-use solution for backing up and recovering data and configurations for critical SaaS applications.
 Core Continuity includes:
 - Recovery for up to 5 years
-- Always hot storage
+- Unlimited hot storage
 - SSO and MFA
 Business Resilience
 Ideal for organizations with a mature, or maturing SaaS data protection foundation, looking for advanced protection, visibility and control over data.
 Business Resilience includes everything in Core Continuity plus:
 - Recovery for up to 10 years
-- Multi-geo backup storage
+- Support for Microsoft 365 multi-geo capabilities
 - Access to add-ons to expand your data protection strategy
 Enterprise Resilience
 Ideal for larger organizations with a strong SaaS data protection foundation and demanding regulatory requirements, looking for top-class service and support.
@@ -1749,7 +1749,7 @@ Resilience
 Comprehensive coverage: Groups and Teams, OneDrive, SharePoint, and Exchange Online
 Mass Restore - Restore wizard
 PST Download
-Multi-Geo Support
+Support for Microsoft 365 multi-geo capabilities
 Data Retention
 5 Years
 10 years
@@ -1757,13 +1757,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -1840,13 +1838,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -1918,13 +1914,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -1998,13 +1992,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -2078,13 +2070,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -2156,13 +2146,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -2236,13 +2224,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -2315,13 +2301,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -2400,13 +2384,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -2487,13 +2469,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -2568,13 +2548,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -2663,13 +2641,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -2748,13 +2724,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -2827,13 +2801,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -2908,13 +2880,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -2990,13 +2960,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -3072,13 +3040,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -3152,13 +3118,11 @@ Data Retention
 Unlimited data retention
 Add-on
 Add-on
-Always-hot storage
+Unlimited hot storage
 No egress, ingress or transaction fees
 Storage in vendor-independent data centers
 Select data residency (see locations)
-Multi-geo data residency
 Customizable automated backups
-Immutable Blockchain-Verified Storage Technology
 Backup redundancy - 4 copies in 2 separated data centers in the selected region
 Immutable Blockchain-Verified Storage Technology
 In-backup search and preview
@@ -3220,6 +3184,16 @@ Trusted by 1,000s of customers
 Porsche Holding Salzburg migrates to the cloud, chooses Keepit for ransomware protection
 "We were searching for a SaaS solution, and we didn't want to back up all the data on-prem. Keepit's simple, easy-to-use cloud backup delivered what we were looking for."
 — Michael Bojko, System Engineer, Porsche Informatik
+Frequently asked questions
+The best per-user backup pricing model provides predictable, all-inclusive costs without separate charges for storage, data transfer, restores, or backup activity. Backup providers may otherwise charge based on data volume and add fees for data egress, rehydration, or restoring data.
+Keepit uses an all-inclusive per-seat pricing model designed to provide predictable SaaS backup costs. The price includes unlimited always-hot storage, with no additional fees for data ingress, data egress, restores, or transaction activity.
+Keepit also offers different data retention options to support varying business and compliance requirements. Because the pricing model avoids separate per-gigabyte storage and per-restore charges, the quoted per-seat price provides a clearer view of the total cost of SaaS backup without unexpected usage-based fees.
+Backup providers can charge separate egress or restore fees when their services rely on general-purpose cloud storage such as AWS S3 or Azure Blob Storage, which can charge for data retrieval. These costs can become significant during large-scale recovery, such as after a ransomware attack.
+Keepit uses its own storage infrastructure rather than reselling hyperscaler storage and includes unlimited data traffic with no egress, ingress, or transaction fees. This means customers can recover data without paying additional charges based on the amount of data transferred or restored.
+With Keepit, the cost of a large-scale ransomware recovery is not increased by separate egress or restore fees. Whether recovering a single file or restoring a large volume of data, customers do not incur additional charges for data transfer or restore activity.
+Backup as a Service (BaaS) pricing varies between providers and can depend on factors such as data storage, data transfer, retention periods, and backup or restore activity. Some providers charge based on the amount of data stored and may add separate fees for data egress, rehydration, or restoring data.
+Keepit uses an all-inclusive per-seat pricing model designed to provide predictable costs. It includes unlimited always-hot storage with no additional fees for data ingress, data egress, restores, or transaction activity.
+Keepit also provides different data retention plans to support different business and compliance requirements, while its pricing model avoids separate per-gigabyte storage and per-restore charges. This means the quoted per-seat price is designed to provide a clearer view of the total cost of SaaS backup, without unexpected usage-based fees.
 
 ------------------------------------------------------------
 
@@ -3376,16 +3350,19 @@ results for
 
 Source URL: https://www.keepit.com/service-guide/
 Content type: Web page
-Last modified: 2026-08-20T19:18:28+02:00
-Retrieved: 2026-08-23
+Last modified: 2026-10-19T15:52:57+02:00
+Retrieved: 2026-10-25
 
 ============================================================
 
 Service Guide
 Below, you can find information about Keepit's Service Guide. In our Service Guide, you will find documents that serve as a guide to understanding the delivery of Keepit's dedicated SaaS data protection solutions for customer on a termed and consumption subscription model.
 Termed Service Guide
-Last updated August 2026
+Last updated October 2026
 This link contains the Service Guide for all termed customers for the delivery of Keepit's dedicated SaaS data protection solutions.
+Termed Service Guide (Legacy packaging)
+Last updated August 2026
+This link contains the Service Guide for legacy dedicated SaaS data protection solutions.
 Consumption Service Guide
 Last updated August 2026
 This link contains the Service Guide for all consumption customers for the delivery of Keepit's dedicated SaaS data protection solutions.

@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — CUSTOMERS
-Generated: 2026-10-18
-Pages: 69
+Generated: 2026-10-25
+Pages: 71
 ============================================================
 
 Source URL: https://www.keepit.com/customers/
@@ -665,6 +665,39 @@ Due to the nature of its operations, the French Tennis Federation deals with a l
 Continued partnership  
 A relationship that started with backing up Microsoft 365 has grown into a well-established, developing partnership in which the federation has integrated Power BI and Microsoft Entra ID with the Keepit platform.  
 “There are many new developments in the pipeline for Microsoft. The plan is that every time we add new assets to Microsoft 365, they can be integrated with Keepit,” says Frank Labat.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/customers/fruki-bebidas/
+Content type: Web page
+Last modified: 2026-10-23T13:40:42+02:00
+Retrieved: 2026-10-25
+
+============================================================
+
+Fruki Bebidas trades unpredictable backup costs for long-term data resilience
+During routine IT budget discussions, one issue kept coming up for Fruki Bebidas: the cost of protecting their data and getting to it when they needed it. The Brazilian beverage company's Microsoft 365 environment had grown significantly across Exchange Online, SharePoint, OneDrive, and Teams, and the previous backup platform charged for every gigabyte. Costs were unpredictable, data retention was capped at six months, and restoring anything took real time and effort. With compliance requirements demanding data retention of up to 20 years for certain records, the gap between what the team had and what the business actually needed was hard to ignore.
+From six months to 99 years
+Fruki's previous platform kept data for just six months. For a company with serious compliance and legal obligations, that gap had real consequences. Restores were slow and uncertain, and a workaround forced the team to keep Microsoft 365 licenses active for departed employees just to hold onto their data in OneDrive and Teams.
+When Rafael Wolkmer, Fruki's CIO, first encountered Keepit's 99-year retention option, it stopped him mid-conversation. Going from six months to 99 years wasn't just a feature upgrade; it resolved a compliance requirement the team had been working around for years.
+The first real-world test came quickly. Shortly after go-live, the legal and compliance team needed to audit Microsoft Teams conversations. The data was there within seconds: searchable, ready, and recoverable with a single shared link. Those are the kinds of everyday wins that don't show up in an evaluation but matter every time they happen. With long-term retention now handled natively, the team also closed the book on a long-standing compliance obligation: departed employees' accounts no longer need to stay active in Active Directory just to preserve their data.
+I have 99 years of retention for all company data in SharePoint and Microsoft 365. That gives us real confidence alongside legal and compliance — and it just works.
+Rafael Wolkmer 
+CIO, Fruki Bebidas
+A fast decision, backed by real references
+First contact was made on Dec. 18. The contract was signed on Dec. 24. In those six days, the team ran a benchmark, gathered market intelligence, and reached out to about 15 Keepit references, including one call with a CEO on Christmas Eve. The feedback was consistent: people were genuinely happy with the solution and willing to say so. "In a presentation, anything goes," noted Joesel Decker, IT services supervisor. "The references gave us the real picture."
+From there, Fruki worked with AdapIT, a Keepit partner, to complete the implementation. William Leonhardt, cloud infrastructure analyst, describes it as one of the fastest deployments he's ever completed, with no virtual machines to spin up and no complex internal infrastructure to build.
+It was one of the fastest implementations I've ever done, possibly the fastest. Everything was essentially ready out of the box, and there were no implementation hurdles.
+William Leonhardt 
+Cloud infrastructure analyst, Fruki Bebidas
+Per-user pricing ends the storage snowball
+One of the most immediate changes was financial clarity. Keepit's per-user pricing replaced a model where storage growth drove unpredictable monthly costs. Microsoft 365 usage only expands over time. That's the nature of how teams use SharePoint, Exchange, OneDrive, and Teams, and the previous platform charged accordingly. With unlimited storage priced per user, budgeting became straightforward.
+Fruki estimates total savings of over BRL 150,000 over the contract period, accounting for decommissioned server infrastructure, eliminated Microsoft 365 licenses previously held for departed employees, and the cost of the previous solution. Because that solution would have also required a server size increase that never happened, the actual savings are likely higher. "We saw the opportunity right there," Decker said. "That's why the negotiation window moved so fast."
+Simple enough to use without the manual
+Security and simplicity both featured in the evaluation. Immutability, meaning backup data that can't be altered or deleted, was a requirement the team flagged explicitly, particularly compared to the previous solution. Single sign-on (SSO) with multi-factor authentication (MFA) and granular permission controls meant different team members could be given appropriate access levels without compromising overall security.
+But simplicity carried equal weight. "I always say it has to be simple and intuitive," Leonhardt said. "I want to do something, I click around, and I figure it out on my own. I shouldn't have to constantly look up documentation or call the vendor for support." For Fruki's team, that combination of depth and usability is what makes the platform sustainable over the long term.
+Built to outlast the people managing it today
+Fruki Bebidas is a company that thinks in generations — 102 years old and still looking to the future. With Keepit protecting a large and expanding Microsoft 365 environment across Exchange Online, SharePoint, OneDrive, and Teams, the IT team has built a data protection foundation with predictable costs and retention measured in decades. The compliance team has the certainty it needs, recovery is fast and granular, and the next budget cycle will look very different from the last one.
 
 ------------------------------------------------------------
 
@@ -1371,12 +1404,12 @@ Technical Supervisor of the Microsoft 365 platform at Örnsköldsvik Municipalit
 
 Source URL: https://www.keepit.com/customers/oxford-university-innovation/
 Content type: Web page
-Last modified: 2026-01-08T11:57:36+01:00
-Retrieved: 2026-08-02
+Last modified: 2026-01-24T15:40:48+01:00
+Retrieved: 2026-10-25
 
 ============================================================
 
-Oxford University Innovation Ltd.Â chooses KeepitÂ to protect and handle their intellectual property assets.Â
+Oxford University Innovation Ltd.Â chooses KeepitÂ to protect and handle their intellectual property assets.
 Ever since Oxford University Innovation Limited (OUI) migrated to the cloud using SaaS solutions like Microsoft 365, OUI has been using Keepit’s proprietary cloud-to-cloud SaaS backup technology to protect its intellectual property and restore sensitive data. If breached, the loss of this data has the potential to cost one of the world’s most famous academic institutions hundreds of millions of pounds.
 Company
 Oxford University is one of the world’s leading educational institutions, supporting more than 50,000 jobs and injecting more than £5.8bn annually into the UK economy. OUI is a subsidiary of the University concerned with managing its technology transfer and consulting activities. It is responsible for innovating new ideas and protecting all data associated with the multitude of patents held by the University.
@@ -1385,14 +1418,14 @@ Goals & Objectives
 The core objective of integrating a SaaS data backup solution was to protect the IP of the commercial entities that emerge from the University of Oxford, by providing OUI with an additional 33-year data backup retention period, meeting the requirement for intellectual property protection.
 Keepit’s technology has demonstrated to us that, even if Microsoft offered a similar backup with long-term retention, Oxford University would still opt for an independent backup and restore solution as an indispensable extra layer of data protection, and as a vital component of the University retaining control of its own data.
 Lasse Thomsen
-Information Systems Manager, Oxford University Innovation Ltd.
+Former Information Systems Manager, Oxford University Innovation Ltd.
 Microsoft’s existing backup and recovery systems did not provide the long-term facilities required by OUI. Most data loss is often caused by simple human error and is difficult to identify until it is already unrecoverable; thus, a long-term backup and recovery system was needed to provide comprehensive redundancy, ensuring best possible protection.
 Approach
 After a rigid selection and security process which evaluated Keepit’s long term value as a partner for the University, Keepit was onboarded just prior to its cloud migration from Exchange 2010 to Microsoft 365 to provide additional security during the migration process. The migration was able to happen overnight with no data loss.
 To mitigate the dangers associated with data loss by ensuring that quick data recovery is always possible, OUI worked with Keepit to install its SaaS-based solution to protect data in the cloud by automatically backing up, finding and recovering historic data in a matter of minutes.
 We searched the market extensively for backup and restore products ahead of choosing Keepit as the right solution for the University’s needs for long-term data retention.
 Lasse Thomsen
-Information Systems Manager, Oxford University Innovation Ltd.
+Former Information Systems Manager, Oxford University Innovation Ltd.
 The final stage is Keepit’s ongoing work with OUI as an integral IT partner. Keepit’s support with moving to the cloud ensures that all data is backed up and protected correctly, and that it is not reliant on a single provider for its data backup and recovery systems.
 Results
 Since Keepit’s solution was integrated into Oxford University Innovation’s systems, three critical data restorations have been implemented. The ability to retrieve this information will potentially save the University millions, in mitigating the risk of losing records related to the University’s assets. Keepit continues to be a key partner for OUI thanks to its ability to add new SaaS solutions over time. The next step in the relationship is to provide help onboarding more solutions to the cloud, such as Dynamics 365.
@@ -1549,6 +1582,33 @@ Pilgrim has experienced these benefits using Keepit:
 Keepit’s Support Team Offers Comfort and Safety
 Knudsen finds it reassuring that he knows the company behind Pilgrim’s extra critical-data security.
 As the only IT-operations responsible, it’s a huge benefit for Knudsen that Keepit offers clear, competent support within his working hours. This eliminates stress and makes his workday more manageable.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/customers/pointlomanazarene/
+Content type: Web page
+Last modified: 2026-10-23T15:03:26+02:00
+Retrieved: 2026-10-25
+
+============================================================
+
+A Google Workspace data protection platform IT trusts
+For years, the backup platform protecting Google Workspace at Point Loma Nazarene University sat mostly unused. Joe Alcorn, director of systems and DevOps, says his team restored from it only once, because it was too confusing to trust. Point Loma wanted a backup and recovery platform its team would use, backed by a vendor that stayed engaged long after the deal closed. Ten months into working with Keepit, that trust has helped Alcorn close out a project that sat untouched for a decade.
+Legacy platform nobody wanted to use
+Before Keepit, Alcorn's team managed backup for around 1,500 staff and faculty accounts on a platform he calls "funky." Finding a file meant knowing its exact original path. There was no way to search by shared drive. It also wasn't clear whether a settings change applied to already-backed-up users, or if it required removing and re-adding them. The team restored data from it exactly once in years, and Point Loma's former CIO treated it as a checkbox rather than real protection.
+A different kind of vendor relationship
+Alcorn first ran into Keepit at an EDUCAUSE conference, where he talked with the team at the booth and later worked through a proof of concept. What stood out wasn't just the platform. It was the engagement. The previous vendor mostly surfaced at renewal time, but Keepit reached out proactively to keep onboarding and setup on track.
+Anomaly detection, audit logs, and self-service links
+Within the first few months, Alcorn stopped worrying about whether he could find what he needed. It was all there, and easy to find quickly. That confidence grew further after Point Loma expanded its Keepit licensing: Keepit's monitoring flagged the resulting data increase as anomalous and checked in. The jump made sense once Alcorn traced it to 2,000 newly added users, but the outreach itself told him something was watching the data closely. Ask Alcorn which features he likes most, and two come up fast: audit logs and the self-service restore link that lets end users search for and recover their own files through a secure link.
+Being able to send someone a link and say, 'Go search your old folder and find it,' is such a cool feature. We won't have to open 15 documents to figure out which version they want.
+Joe Alcorn
+Director of Systems and DevOps, Point Loma Nazarene University
+Closing a decade-old to-do list
+That expanded licensing also gave Point Loma a four-year backup copy of former-employee data, the missing piece for a project Alcorn had wanted to finish for a decade. In July, working with a fellow IT director, his team deprovisioned around 2,000 inactive former-employee accounts, recouping storage that Google Workspace for Edu caps at 100 terabytes without a costlier license tier.
+Alcorn evaluated other Google Workspace backup vendors first, some charging more than Keepit for a narrower feature set. He isn't tracking hard time or dollar savings, but says Point Loma gets more value for what it spends. That confidence extends to whatever disaster recovery plans its Google Workspace environment needs next.
+We've been trying to close out a former-employee account project for a decade. With a backup copy we could count on, we finally did it.
+Joe Alcorn
+Director of Systems and DevOps, Point Loma Nazarene University
 
 ------------------------------------------------------------
 

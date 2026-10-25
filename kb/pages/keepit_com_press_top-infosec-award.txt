@@ -1,0 +1,28 @@
+Source URL: https://www.keepit.com/press/top-infosec-award/
+Content type: Web page
+Last modified: 2026-10-20T14:05:11+02:00
+Retrieved: 2026-10-25
+
+============================================================
+
+Keepit's AI security and cyber resilience platform wins four Top Infosec Innovator awards
+The SaaS data protection platform also earned a Cloud Computing Security Excellence Award from TMC and Cloud Computing Magazine this month
+Copenhagen, Denmark— October 20, 2026 — Keepit, a global SaaS data protection provider, today announced it has won four categories at the Top Infosec Innovator 2026 awards, presented by Cyber Defense Magazine. Keepit was named winner in:
+· “Visionary AI Cybersecurity.”
+· “Market Innovator AI Security and Compliance.”
+· “The Most Promising AI Security and Governance.”
+· “Trailblazing Cyber Resilience.”
+The wins follow Keepit’s recognition at the Cloud Computing Security Excellence Awards from TMC and Cloud Computing Magazine earlier this month, cementing Keepit's position as a leading company for SaaS data protection in an era where AI needs a trusted data foundation.
+“Keepit is enabling companies to secure their data through an independent backup and recovery platform,” said Gary S. Miliefsky, publisher of Cyber Defense Magazine. “In the age of AI, having a single point of truth to refer to in cases of data loss or corruption is not only important — it’s fundamental.”
+Giving AI a verified data foundation
+The Keepit platform protects 18 SaaS applications, including Microsoft 365, Microsoft Entra ID, Okta, Google Workspace, and more. Built for the cloud, the platform is designed for usability, security, and scalability as companies move business-critical data into the cloud and deploy AI agents.
+In August, Keepit introduced AI Truth Cloud, the next evolution of its platform: moving from passive backup to a proactive trust fabric for verified, governed, and sovereign data.
+“These awards showcase how Keepit was built for the AI era,” said Michele Hayes, CMO at Keepit. “As companies deploy AI agents, an independent, immutable copy of their data gives them a known-good state to recover to if they notice discrepancies in their data or come under attack.”
+The full list of the Top InfoSec Innovators for 2026 is found here: https://cyberdefenseawards.com/top-infosec-innovators-for-2026/
+About Keepit
+As organizations adopt AI and agentic workflows, trusted and recoverable data becomes a business-critical foundation. Keepit delivers that foundation, the AI Truth Cloud, through a SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no third-party sub-processors supports compliance with local regulations and helps mitigate the impact of ransomware while ensuring continuous data access, business continuity, and effective disaster recovery. Headquartered in Copenhagen with offices, data centers, and partners worldwide, Keepit is trusted by thousands of organizations for its ease of use and effortless backup and recovery of cloud data.
+For more information visit www.keepit.com or follow Keepit on LinkedIn
+About Cyber Defense Awards
+This is Cyber Defense Magazine’s 14th year of honoring cybersecurity innovators, in this case the Top Infosec Innovator 2026, on our Cyber Defense Awards platform. In this competition, judges for these and other prestigious awards includes cybersecurity industry veterans, trailblazers and market makers Ron Gula of Gula Tech Adventures, Gary Miliefsky of CDMG, Dr. Lindsey Polley de Lopez of VentureScope, Katie Gray of In-Q-Tel, Robert R. Ackerman Jr. of DataTribe, Ira Winkler from CruiseCon, Dino Boukouris of AltitudeCyber and with much appreciation to emeritus judges Robert Herjavec of Cyderes, Dr. Peter Stephenson of CDMG and David DeWalt of NightDragon. Top InfoSec Innovators for 2026 is found here: https://cyberdefenseawards.com/top-infosec-innovators-for-2026/ and download The Black Unicorn Report for 2026: https://cyberdefenseawards.com/the-black-unicorn-report-for-2026/ and Top Global CISOs Winners for 2026, here: https://cyberdefenseawards.com/top-global-cisos-winners-for-2026/.
+About Cyber Defense Magazine
+Cyber Defense Magazine was founded in 2012 by Gary S. Miliefsky, globally recognized cyber security thought leader, inventor and entrepreneur and continues to be the premier source of IT Security information. We are managed and published by and for ethical, honest, passionate information security professionals. Our mission is to share cutting-edge knowledge, real-world stories and awards on the best ideas, products and services in the information technology industry. We deliver electronic magazines every month online for free, and limited special editions exclusively for the RSAC, BlackHat and Cyber Defense Conferences. Learn more about us at http://www.cyberdefensemagazine.com. Cyber Defense Magazine is a proud member of the Cyber Defense Media Group.

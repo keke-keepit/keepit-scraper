@@ -1,0 +1,436 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/Keepit-Service-Guide-Termed.pdf
+Content type: PDF document
+Title: unknown
+Pages: 9
+Retrieved: 2026-10-25
+
+============================================================
+
+Service guide 
+ October 2026
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+1 
+Table of Contents 
+1. 
+Introduction ................................................................................................................................................. 1 
+a. 
+Relationship to the Terms of Service ................................................................................................. 1 
+2. 
+Definitions ................................................................................................................................................... 2 
+a. 
+Use Metric & Usage Metering ............................................................................................................. 2 
+b. 
+Base Subscription Fee ......................................................................................................................... 2 
+3. 
+Services Overview ..................................................................................................................................... 2 
+a. 
+Packages ............................................................................................................................................... 2 
+b. 
+Add-Ons ................................................................................................................................................. 2 
+4. 
+How Keepit Meters Usage ....................................................................................................................... 3 
+a. 
+Microsoft 365 Fair Usage Policy ......................................................................................................... 5 
+5. 
+Commercial and Contractual Terms ....................................................................................................... 5 
+a. 
+Retention ................................................................................................................................................ 5 
+b. 
+Data Processing .................................................................................................................................... 6 
+c. 
+Termination ............................................................................................................................................ 6 
+6. 
+Support And Additional Resources ......................................................................................................... 6 
+a. 
+Target SLA Comparison Matrix .......................................................................................................... 6 
+b. 
+Incident Priority Definitions and Target SLA ..................................................................................... 7 
+c. 
+Additional Resources ........................................................................................................................... 7 
+ 
+1. Introduction 
+This service guide describes how Keepit delivers its SaaS data protection services to customers: the 
+services and packages available, how usage is measured, the support levels for each package, and 
+the commercial terms that apply. It applies to the packages offered to termed customers as described 
+on the Keepit pricing page. 
+This guide is written for Keepit's direct customers. If you purchase Keepit through an Authorized 
+Reseller or Managed Service Provider, your support entitlements and commercial terms are set out in 
+your agreement with that partner and may differ from what is described here. 
+ 
+a. Relationship to the Terms of Service 
+This service guide is the "Keepit Service Guide" referred to in the Keepit Terms of Service and forms 
+part of your Agreement with Keepit. Capitalized terms not defined in this guide have the meaning 
+given in the Terms of Service.
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+2 
+If there is any ambiguity, conflict, or inconsistency between the documents that make up your 
+Agreement, the following order of precedence from the Terms of Service applies: (1) Data Processing 
+Agreement, (2) any Supplementary Terms for an Add-On or Service to which they apply, (3) Terms of 
+Service, (4) Order Form, (5) any other document, including this service guide. 
+ 
+2. Definitions 
+a. Use Metric & Usage Metering 
+Keepit measures usage of each Service and Add-On using a use metric, such as Seats or terabytes. 
+Links to the use metric, unit of measurement, and measurement frequency for each Service and Add-
+On can be found in Section 4 of this guide. Your Entitlement is the volume of Services and Add-Ons 
+stated in your Order Form, measured by the applicable use metric. 
+ 
+b. Base Subscription Fee 
+The total recurring fee for the Services on your Order Form, calculated from each Service’s use metric 
+(for example, Seats or terabytes) and its unit price, before any Add-On fees are applied. Add-Ons 
+priced as a percentage uplift are calculated on this amount. 
+3. Services Overview   
+Keepit provides Services for backup and recovery for Microsoft 365, Entra ID, and a rapidly growing 
+list of popular SaaS applications. A comprehensive list can be found in the table in Section 4, How 
+Keepit Meters Usage, below.  
+Keepit initiates at least one backup per day for each SaaS Workload unless you configure different 
+parameters within the Services, as described in the backup frequency provisions of the Terms of 
+Service. The time a backup takes depends on the volume and nature of your data, and Keepit does 
+not commit to a backup completion time. 
+Visit our website to learn more about our Services. 
+a. 
+Packages 
+Keepit offers three packages for covering the Services: Core Continuity, Business Resilience, and 
+Enterprise Resilience.  
+Visit our pricing page for the full overview of these packages. 
+ 
+b. 
+Add-Ons 
+Keepit offers three purchasable Add-On options for customers in the Business Resilience and 
+Enterprise Resilience package tiers: Hot Archive (SharePoint), Enhanced Compliance, and Unlimited 
+Retention.
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+3 
+Hot Archive (SharePoint) grants customers the ability to move SharePoint data out of their production 
+storage, unlocking substantial cost savings, whilst keeping the content instantly accessible (“Always 
+Hot Storage”). Requires your Microsoft 365 workload backed up with Keepit.   
+Enhanced Compliance allows for the customization of contractual and regulatory terms beyond 
+Keepit’s standard offering: regulatory letters and amendments, local-authority audit rights, and an 
+adjusted data processing agreement (e.g. DORA, custom DPAs, third-party due diligence). Scoped 
+case by case and subject to Keepit legal department approval; the agreed terms are documented in 
+your Order Form or a separate amendment. Enhanced Compliance is a contractual service and does 
+not change how the Services operate. 
+Unlimited Retention enables customers to set a retention length of up to 99 years in the Keepit 
+platform, beyond the retention range included in their package. 
+To learn more, visit our pricing page.  
+Keepit’s availability goal, the Service Credits that apply if it is not met, and the exclusions from it are 
+set out in the service level provisions of the Terms of Service. The Availability Commitment applies to 
+the Keepit platform only. Unless stated otherwise in this guide or in the Supplementary Terms for an 
+Add-On, no separate service level applies to an Add-On; Keepit will use commercially reasonable 
+efforts to maintain the availability and performance of each Add-On. 
+4. How Keepit Meters Usage  
+The table below sets out the use metric and unit of measurement for each Add-On, and links to how 
+Keepit counts Seats for each SaaS Workload.
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+4 
+Name 
+Service Type 
+Usage Metering 
+Autodesk Forma 
+Azure DevOps 
+BambooHR 
+Confluence 
+Docusign 
+Dynamics 365 
+Entra ID 
+GitHub 
+Google Workspace 
+Jira 
+Jira Service Management (JSM) 
+Microsoft 365 
+Miro 
+Okta 
+Power BI 
+Power Platform  
+Salesforce 
+Zendesk 
+SaaS 
+Workload 
+ 
+An overview of how Keepit meters each of our SaaS 
+Workloads can be found here.  
+ 
+ 
+Keepit Hot Archive (SharePoint) 
+Add-On 
+Hot Archive - Storage Measurement  
+Hot Archive is measured by Peak Monthly Storage 
+Consumption: the highest storage volume recorded 
+by Keepit’s platform across all your Hot Archive 
+connectors during a calendar month, measured 
+before compression. For the avoidance of doubt: 
+1. Unit of measurement. Storage is measured 
+in decimal terabytes (TB), where 1 TB = 10¹² 
+bytes, consistent with the International 
+System of Units (SI). All billing line items 
+denominated in TB use this decimal 
+standard. 
+2. Sampling. Keepit samples storage 
+consumption at least once per calendar 
+month. The highest sample recorded in a 
+month is that month’s Peak Monthly Storage 
+Consumption, captured as a raw byte value 
+before conversion and rounding. 
+3. Rounding. The raw byte value is converted to 
+TB and rounded to three decimal places, with 
+values of five or more in the fourth decimal
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+5 
+rounded up (for example, 1.5555 TB 
+becomes 1.556 TB). 
+Keepit’s measurement records are conclusive absent 
+manifest error. 
+ 
+Enhanced Compliance 
+Add-on 
+Use metric: your base subscription fee. Unit: a 
+percentage of that fee. Measurement: Enhanced 
+Compliance is not measured separately. Its fee is 
+calculated as a percentage uplift on your base 
+subscription fee, which in turn follows the metering of 
+each Service in your subscription (for example, Seats 
+and/or terabytes). The resulting fee is stated in your 
+Order Form. 
+Unlimited Retention 
+Add-on 
+Use metric: your base subscription fee. Unit: a 
+percentage of that fee. Measurement: Unlimited 
+Retention is not measured separately. Its fee is 
+calculated as a percentage uplift on your base 
+subscription fee, which in turn follows the metering of 
+each Service in your subscription (for example, Seats 
+and/or terabytes). The resulting fee is stated in your 
+Order Form. 
+ 
+a. Microsoft 365 Fair Usage Policy  
+Keepit's Microsoft 365 backup solution provides comprehensive coverage for SharePoint, Groups, 
+and Teams, even though the Seats count is based solely on users backed up in Exchange and 
+OneDrive. 
+To maintain optimal performance and service quality for all customers, the backup of SharePoint and 
+Groups & Teams is governed by the following fair usage policy, which is a Use Limitation under the 
+Terms of Service. 
+The number of users backed up in SharePoint and Groups & Teams is limited to four times (4x) the 
+number of Seats backed up in Exchange and OneDrive. If your usage exceeds this limit, Keepit will 
+contact you to agree an appropriate adjustment to your subscription. 
+5. Commercial and Contractual Terms 
+a. Retention 
+You can configure retention rules for your data within the Services. Retention is the period a data 
+object remains in your backup after it has been deleted from the SaaS Workload. The retention 
+included in your subscription is stated in your Order Form, as described in the data retention 
+provisions of the Terms of Service. The retention options available depend on your package and any 
+retention add-on you have purchased.
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+6 
+b. Data Processing 
+Keepit shall process personal data on your behalf in accordance with your instructions. For detailed 
+information, please refer to Keepit’s Data Processing Agreement: https://www.keepit.com/data-
+processing-agreement/  
+c. Termination 
+Unless your Order Form states otherwise, your subscription renews automatically for successive 
+terms of the same length as the initial term. Either party may terminate by giving notice at least 90 
+days before the end of the current term, as set out in the term and termination provisions of the Terms 
+of Service. 
+To terminate, send written notice to dk.billing@keepit.com or us.billing@keepit.com, as applicable, or 
+to your Authorized Reseller if you purchased through one. The notice must include your company 
+name, company registration number, contact information, and a statement that you wish to terminate 
+the Agreement. 
+Termination for material breach is governed by termination for cause provisions of the Terms of 
+Service. To expand an existing subscription, contact your Keepit account representative or Authorized 
+Reseller.  
+6. Support And Additional Resources 
+Customer, partner, and end-users have access to useful self-help articles on the Keepit Support Site 
+as well as product updates on the Keepit website.  
+ 
+The full description of support tiers and service level follows below. Terms of Service designates this 
+guide as the document that describes Keepit's support tiers. 
+a. Target SLA Comparison Matrix 
+Metric  
+Core Continuity  
+Business Resilience  
+Enterprise Resilience  
+Fastest response time 
+(depending on incident 
+priority – for details see 
+below) 
+4 business hours  
+4 hours  
+1 hour  
+Support hours  
+Mon – Fri, 09:00 – 17:00 
+CET/CEST and 08:00 – 
+16:00 CST/CDT   
+24 × 7 × 365  
+24 × 7 × 365  
+Support channels  
+Email and self-service 
+portal  
+Email and self-service 
+portal  
+Phone, email, and self-
+service portal 
+Dedicated customer success 
+manager  
+—  
+Shared CSM pool  
+Named CSM  
+Onboarding assistance  
+Self-guided  
+Self-guided 
+Full onboarding program  
+Business reviews  
+On request  
+On request  
+Quarterly
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+7 
+b. Incident Priority Definitions and Target SLA 
+Incident Priority Definitions 
+Priority  
+Definition  
+Business impact  
+Examples  
+P1 – Critical 
+Complete loss of backup 
+or restore capability  
+Potential for significant 
+data loss due to 
+continuous inability to 
+capture new data or 
+regulatory breach  
+All backups failing; the login 
+is not working (not related to 
+wrong credentials); a 
+production server or other 
+mission-critical system is 
+down. 
+P2 – High  
+Significant degradation of 
+backup or restore 
+functionality  
+Partial loss of ability to 
+capture new data or 
+restore the data  
+Intermittent backup failures 
+across connectors; issues 
+with 
+the connector configuration; 
+failed or 
+incomplete restore/import  
+P3 – Medium  
+Non-critical functionality 
+impaired; workaround 
+available  
+Operational 
+inconvenience; no 
+immediate data risk  
+Download and restore jobs 
+are taking long; restore job 
+failed but there is a 
+workaround; questions 
+about connector health 
+status 
+P4 – Low  
+General question, feature 
+request, or UI issue 
+Minimal or no operational 
+impact  
+How-to questions; 
+documentation 
+feedback; questions about 
+user interface functionality 
+or behavior  
+ 
+All support incidents are assigned a priority at the time of ticket creation. Priority is set by the Keepit 
+support system or by the assigned Keepit support engineer. Customer may request re-prioritization; 
+the final determination rests with the Keepit support manager.  
+ 
+ 
+ 
+Target SLA Contingent on Incident Priority 
+Metric  
+Core Continuity  
+Business Resilience  
+Enterprise Resilience  
+P1 – Initial response  
+ 4 business hours  
+ 4 hours  
+1 hour  
+P2 – Initial response  
+ 4 business hours  
+ 4 hours  
+2 hours  
+P3 – Initial response  
+ 8 business hours  
+ 8 hours  
+8 hours  
+P4 – Initial response  
+ 2 business days  
+ 2 days  
+1 day  
+P1 – Subsequent response   8 business hours  
+ 8 hours  
+2 hours  
+P2 – Subsequent response   8 business hours  
+ 8 hours  
+4 hours  
+P3 – Subsequent response   2 business days  
+ 2 days  
+1 day  
+P4 – Subsequent response   3 business days  
+ 3 days  
+2 days  
+ 
+c. Additional Resources 
+For additional information on Keepit’s Services, please refer to the following links: 
+• 
+General information on Keepit’s Services and customers’ stories: https://www.keepit.com/ 
+• 
+Keepit’s Terms of Service: https://www.keepit.com/terms-of-service/
+
+About Keepit – The market leader in cloud backup and recovery, Keepit is headquartered in Copenhagen, Denmark, with offices and 
+data centers in the US and globally. 
+Last updated: October 16, 2026 – Version: v27.01 
+ 
+8 
+• 
+Keepit’s Data Processing Agreement: https://www.keepit.com/data-processing-agreement/  
+• 
+Support requests can be submitted on Keepit Support Site: 
+https://help.keepit.com/support/tickets/new or via email: business@support.keepit.com  
+• 
+Support requests are subject to Keepit’s Privacy Policy: https://www.keepit.com/privacy-
+policy/  
+We reserve the right to update or modify this service guide at any time, as deemed necessary. 
+However, any change that would increase the Fees payable by you, reduce your Entitlement or 
+change the methodology by which consumption is measured takes effect from the commencement of 
+your next renewal term and does not apply during your then-current Subscription Term, as set out in 
+the Terms of Service. Any changes will take effect upon posting of the revised version on 
+www.keepit.com.

@@ -1,0 +1,45 @@
+Source URL: https://www.keepit.com/press/gartner-26/
+Content type: Web page
+Last modified: 2026-10-19T14:01:44+02:00
+Retrieved: 2026-10-25
+
+============================================================
+
+Keepit showcases verifiable, sovereign data foundations as adoption of AI accelerates
+At four Gartner events across the Americas and Europe, Keepit experts make the case that trustworthy AI depends on an independent, verified, and always-recoverable single point of truth
+COPENHAGEN, Denmark - October 19, 2026 – Keepit, the vendor-independent SaaS data protection company, today announced its presence at the Gartner IT Symposium/Xpo™ 2026 and Gartner IT Infrastructure, Operations & Cloud Strategies Conference 2026 in the Americas and Europe this fall.
+As organizations extend AI across their SaaS applications, the reliability of that AI is only as strong as the data behind it. Keepit's sessions this fall will explore why recovery responsibility sits with the organization rather than the platform, how data sovereignty is shifting from a question of residency to one of control, and what it takes to build a single point of truth that's independent, verifiable, and recoverable on demand.
+The 2026 Gartner conferences provide opportunities for information technology (IT) and cybersecurity executives to explore technology, insights, and trends shaping the future of IT and business.
+2026 Gartner IT Symposium/Xpo™, Orlando, Florida, October 19 –22, 2026
+WHO: Michael Amsinck, CPTO at Keepit 
+WHAT: Keepit: The foundation AI can't build itself — a single point of truth 
+WHERE: Future Directions Stage, Session code: FD10  
+WHEN: October 20 at 2:20 p.m. (EDT) 
+Meet the Keepit team at booth #336 
+2026 Gartner IT Symposium/Xpo™, Barcelona, November 9–12, 2026
+WHO: Kim Larsen, Group CISO at Keepit 
+WHAT: Keepit: The amplified case for data sovereignty in the age of AI 
+WHERE:  Room: 117, Session code: SPS53 
+WHEN:  November 11 at 11:30 a.m. (CET) 
+Meet the Keepit team at booth #504 
+2026 Gartner IOCS London, November 16–17, 2026
+SESSION 1: 
+WHO: Kim Larsen, Group CISO at Keepit 
+WHAT:  Keepit: How to address data sovereignty and regain control in the age of AI 
+WHERE: Maritime Suite 25, Session Code: SPS1 
+WHEN: November 16 at 12:00 p.m. (GMT) 
+ 
+SESSION 2: 
+WHO: Neil Rawlins Solution Engineer Manager at Keepit and Dan Middleton, Regional VP, UK&I at Keepit 
+WHAT: Keepit: Data sovereignty in practice — SaaS recovery scenarios for the AI era 
+WHERE: Theatre 3  
+WHEN: November 17 at 1:30 p.m. (GMT) 
+Find details for London IOCS here once the agenda is finalized.  
+2026 Gartner IOCS Las Vegas, December 8–10, 2026
+WHO: Michael Amsinck, CPTO at Keepit 
+WHAT:  Keepit: Building a foundation for responsible AI adoption  
+Find details for Las Vegas IOCS here once the agenda is finalized. 
+About Keepit
+ 
+As organizations adopt AI and agentic workflows, trusted and recoverable data becomes a business-critical foundation. Keepit delivers that foundation, the AI Truth Cloud, through a SaaS data protection platform purpose-built for the cloud. Securing data in a vendor-independent cloud safeguards essential business applications, boosts cyber resilience, and future-proofs data protection. Unique, separate, and immutable data storage with no third-party sub-processors supports compliance with local regulations and helps mitigate the impact of ransomware while ensuring continuous data access, business continuity, and effective disaster recovery. Headquartered in Copenhagen with offices, data centers, and partners worldwide, Keepit is trusted by thousands of organizations for its ease of use and effortless backup and recovery of cloud data. 
+For more information visit www.keepit.com or follow Keepit on LinkedIn

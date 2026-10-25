@@ -1,0 +1,25 @@
+Source URL: https://www.keepit.com/help/hubspot-category/create-a-hubspot-connector/
+Content type: Web page
+Last modified: 2026-10-22T14:35:02+02:00
+Retrieved: 2026-10-25
+
+============================================================
+
+Create a HubSpot connector
+The HubSpot workload is currently in Limited Availability. Spots in the early access group are limited. If you’d like to join, please contact your account manager.
+Follow these steps to create a HubSpot connector and set up your backup configuration.
+Before you begin
+Make sure you have:
+- Super Admin access level in your HubSpot account.
+- Master Admin or Backup Admin role in Keepit.
+Create the connector
+1. On the Connectors page, select Add connector > Add HubSpot connector.
+2. Select Sign in to authenticate.
+3. On the HubSpot sign-in page, enter the credentials of an account with Super Admin access.
+4. Review the permissions requested by the Keepit application, then select Allow to grant access.
+5. Keepit redirects you back to the platform, where you can configure your connector:
+- Change the name of the connector
+- Manage user access to the connector by selecting the lock icon
+- Limit the retention period by selecting the calendar icon
+6. Select Start backup.
+Keepit creates your connector and schedules the first backup.
