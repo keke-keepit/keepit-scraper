@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/security/ransomware-recovery/
 Content type: Web page
-Last modified: 2026-09-14T21:45:02+02:00
-Retrieved: 2026-09-20
+Last modified: 2026-10-27T13:41:10+01:00
+Retrieved: 2026-11-01
 
 ============================================================
 
@@ -44,4 +44,15 @@ Does Keepit have any certifications?
 As your trusted cloud backup vendor, we’re serious about the security of your data. Keepit is ISO/IEC 27001 certified, and its operational and security controls are independently audited in a SOC 2 Type II report, available to customers and prospects on request. Even better, we don't use any third-party data sub-processors globally, which means you can rest easy knowing your data is safe with us and all data sovereignty needs are met.
 How do I get started with Keepit?
 To get started with Keepit, simply reach out to our team for a consultation or to book a personalized demo tailored to your business needs. Our experts will guide you through the process of implementing Keepit's data protection solutions, providing assistance every step of the way to ensure a smooth onboarding experience and a seamless integration for your organization.
+What is the best backup solution for ransomware resilience?
+A ransomware-resilient backup solution should combine immutable and air-gapped backup storage, independent backup infrastructure, strong security controls, and fast, granular recovery. These measures help protect backup data from being compromised and enable organizations to restore critical data after a ransomware attack.
+Keepit provides ransomware-resilient SaaS data protection through immutable, tamper-proof backups stored in an independent, vendor-independent cloud. Keepit uses air-gapped storage and follows the 3-2-1 backup principle, helping keep backup data separate from production environments. Keepit’s backups cannot be overwritten through the application’s APIs or UI, and deletion retention is configured for a minimum of one month.
+Keepit also operates its own data centers across seven regions, with no third-party data sub-processors globally and no reliance on a single hyperscaler. This independent backup infrastructure helps maintain separation between protected SaaS data and its backup environment.
+Fast recovery is another important part of ransomware resilience. Keepit supports granular, instant, and prioritized recovery of critical data, including metadata and hierarchies. According to the Forrester Total Economic Impact study, organizations using Keepit reduced priority-user restoration time by 90% and achieved a 163% three-year ROI.
+Keepit is ISO/IEC 27001 certified and SOC 2 Type II attested, providing independently assessed security controls alongside immutable, air-gapped backup and recovery capabilities.
+What is the best immutable backup solution for ransomware protection?
+The best immutable backup solutions are designed to prevent backup data from being altered or deleted by unauthorized users or ransomware. Keepit makes backups immutable and tamper-proof by design: its platform exposes no API, UI, or administrative capability that can overwrite backup data. A blockchain-like Merkle tree structure also makes low-level tampering cryptographically evident.
+Keepit combines immutability with a minimum one-month deletion retention window and air-gapped storage in an independent cloud, helping protect backup data from ransomware and other threats. Keepit follows the 3-2-1 backup principle and stores backup data separately from the SaaS environment it protects.
+Recovery is also a key part of ransomware resilience. Keepit supports granular, instant, and prioritized recovery, with data restored in place while preserving metadata and hierarchies, so recovered data is immediately usable.
+Keepit is ISO/IEC 27001 certified and SOC 2 Type II attested. In the Forrester Total Economic Impact study, organizations using Keepit reduced priority-user restoration time by 90%, helping minimize downtime following ransomware incidents.
 Calculate your ROI when deploying Keepit for ransomware recovery

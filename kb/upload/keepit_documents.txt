@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — DOCUMENTS (PDFs)
-Generated: 2026-10-25
-Documents: 177
+Generated: 2026-11-01
+Documents: 178
 ============================================================
 
 Source URL: https://cppa.ca.gov/regulations/pdf/ccpa_statute.pdf
@@ -39057,6 +39057,140 @@ I highly value as an IT professional.”
 -  James Mitchell 
 Infrastructure Manager 
 The National Gallery
+
+------------------------------------------------------------
+
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-OCC-Assekuradeur-customer-case-EN.pdf
+Content type: PDF document
+Title: Customer Cases
+Pages: 4
+Retrieved: 2026-11-01
+
+============================================================
+
+Keepit gives OCC 
+Assekuradeur simpler 
+and faster data 
+protection
+Customer success story
+
+Keepit gives OCC 
+Assekuradeur simpler and 
+faster data protection
+OCC Assekuradeur GmbH has spent more than 40 years building a reputation as one of 
+Germany and Austria’s leading specialist insurers for collector’s vehicles. Protecting the 
+data that keeps that business running is the responsibility of Jan Ebinger, IT Service 
+Specialist. When the company’s existing backup solution started getting in the way rather 
+than staying out of it, Jan went looking for something better. 
+Germany
+LOCATION
+Insurance
+INDUSTRY
+120+
+EMPLOYEES
+Finding a backup solution built for 
+compliance, not complexity
+OCC’s Microsoft 365 environment spans 
+Exchange Online, SharePoint, OneDrive, Teams, 
+and Entra ID, roughly 10 terabytes of data that 
+employees depend on every day. The company’s 
+data protection requirements are driven by EU 
+data privacy regulations, internal security 
+standards, and the need for flexible retention 
+policies. That’s a serious compliance picture, and 
+Jan needed a solution that could meet it without 
+adding overhead. 
+
+The previous solution had too much maintenance 
+overhead, unpredictable costs, and a user 
+experience that made routine tasks harder than 
+they needed to be. The IT team chose Keepit for its
+Customer success story
+“The Germany data 
+center option was important for 
+our compliance with EU data 
+protection regulations. Vendor 
+independence, immutability, 
+and encryption were also 
+factors in our decision.”
+Jan Ebinger  
+IT Service Specialist 
+OCC Assekuradeur
+2
+
+“Our previous solution had high maintenance effort, high costs, and poor 
+usability. We needed something simpler, more reliable, and easier to justify.”
+Jan Ebinger  
+IT Service Specialist 
+OCC Assekuradeur
+simplicity, reliability, and transparent pricing, and 
+because it could meet OCC’s compliance 
+requirements without adding to the team’s 
+workload. 
+
+Data sovereignty matters
+OCC needed its backup data stored in Germany 
+to meet EU data protection regulations, 
+and Keepit’s Germany data center made that an 
+easy decision. 
+
+Keepit’s vendor-independent architecture stores 
+backups in a dedicated cloud separate from 
+Microsoft’s infrastructure, so the backup stays 
+intact and accessible regardless of what happens 
+in the primary environment. Immutability and 
+encryption met OCC’s internal security standards 
+and rounded out the decision. 
+Granular restore means recovering exactly 
+what is needed 
+Since deploying Keepit, the features Jan relies on 
+most are the ones that make day-to-day 
+operations easier. Easy connectors integrate 
+directly with each Microsoft 365 service. And 
+granular restore capabilities let the team recover 
+exactly what’s needed, whether that’s a single 
+email, a SharePoint file, or an entire Teams channel, 
+without having to restore everything at once. 
+
+Recovery tests have gone well, giving the IT team 
+the confidence that when it matters most, they can 
+get their data back. 
+Customer success story
+3
+
+“Keepit reduced costs, improved 
+recovery times, and simplified our 
+infrastructure. But most importantly, it 
+increased our confidence that our data 
+is protected.”
+Jan Ebinger  
+IT Service Specialist 
+OCC Assekuradeur
+Lower costs, faster recovery, more 
+confidence 
+The results are tangible. Keepit reduced OCC’s 
+backup costs, improved recovery times, and 
+simplified the infrastructure Jan’s team needs to 
+manage. But the outcome that matters most might 
+be harder to put a number on: the team can trust 
+that their data is protected and that they can get it 
+back when they need it. 
+
+For a specialist insurer whose business depends 
+on accuracy, reliability, and trust, that confidence 
+carries real weight. 
+About OCC Assekuradeur GmbH
+OCC Assekuradeur GmbH, founded in 1984, is one of the leading specialist insurers for classic cars, 
+youngtimers, and high-quality sports cars in Germany and Austria. With over 120 employees at its locations 
+in Lübeck and Vienna, OCC provides tailor-made protection for automotive cultural assets. The company is 
+a wholly owned subsidiary of the Provinzial Group. Company website: https://occ.eu 
+Your data. Here today. Here tomorrow.
+Keepit provides a true SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Customer success story
+4
 
 ------------------------------------------------------------
 

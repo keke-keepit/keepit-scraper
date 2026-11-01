@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/pricing/
 Content type: Web page
-Last modified: 2026-10-23T20:11:14+02:00
-Retrieved: 2026-10-25
+Last modified: 2026-10-23T20:23:25+02:00
+Retrieved: 2026-11-01
 
 ============================================================
 
@@ -1477,11 +1477,14 @@ Porsche Holding Salzburg migrates to the cloud, chooses Keepit for ransomware pr
 — Michael Bojko, System Engineer, Porsche Informatik
 Frequently asked questions
 The best per-user backup pricing model provides predictable, all-inclusive costs without separate charges for storage, data transfer, restores, or backup activity. Backup providers may otherwise charge based on data volume and add fees for data egress, rehydration, or restoring data.
-Keepit uses an all-inclusive per-seat pricing model designed to provide predictable SaaS backup costs. The price includes unlimited always-hot storage, with no additional fees for data ingress, data egress, restores, or transaction activity.
+Keepit uses seat pricing model designed to provide predictable SaaS backup costs. The price includes unlimited always-hot storage, with no additional fees for data ingress, data egress, restores, or transaction activity.
 Keepit also offers different data retention options to support varying business and compliance requirements. Because the pricing model avoids separate per-gigabyte storage and per-restore charges, the quoted per-seat price provides a clearer view of the total cost of SaaS backup without unexpected usage-based fees.
 Backup providers can charge separate egress or restore fees when their services rely on general-purpose cloud storage such as AWS S3 or Azure Blob Storage, which can charge for data retrieval. These costs can become significant during large-scale recovery, such as after a ransomware attack.
 Keepit uses its own storage infrastructure rather than reselling hyperscaler storage and includes unlimited data traffic with no egress, ingress, or transaction fees. This means customers can recover data without paying additional charges based on the amount of data transferred or restored.
 With Keepit, the cost of a large-scale ransomware recovery is not increased by separate egress or restore fees. Whether recovering a single file or restoring a large volume of data, customers do not incur additional charges for data transfer or restore activity.
 Backup as a Service (BaaS) pricing varies between providers and can depend on factors such as data storage, data transfer, retention periods, and backup or restore activity. Some providers charge based on the amount of data stored and may add separate fees for data egress, rehydration, or restoring data.
-Keepit uses an all-inclusive per-seat pricing model designed to provide predictable costs. It includes unlimited always-hot storage with no additional fees for data ingress, data egress, restores, or transaction activity.
+Keepit uses seat pricing model designed to provide predictable costs. It includes unlimited always-hot storage with no additional fees for data ingress, data egress, restores, or transaction activity.
 Keepit also provides different data retention plans to support different business and compliance requirements, while its pricing model avoids separate per-gigabyte storage and per-restore charges. This means the quoted per-seat price is designed to provide a clearer view of the total cost of SaaS backup, without unexpected usage-based fees.
+Cloud backup pricing models vary, so the most useful comparison looks at what the price includes, not only the headline rate. Some providers charge by the amount of data stored and add separate fees for data transfer, restores, or long-term retention, which can make total cost harder to predict as data grows.
+Keepit uses seat pricing model. The price includes unlimited always-hot storage, with no separate fees for data ingress, data egress, restores, or transaction activity. Keepit offers flexible retention plans to support different business and compliance needs, and the price per seat decreases as the number of protected seats increases.
+When comparing providers, ask whether storage is unlimited or metered, whether egress, restore, or transaction fees apply, whether backup data is kept hot or tiered into archive storage, and how the price changes as retention periods and seat counts grow. Keepit also keeps data from departed users active at no extra cost, which can reduce the licensing spend tied to former employees.

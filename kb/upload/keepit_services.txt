@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — SERVICES
-Generated: 2026-10-25
+Generated: 2026-11-01
 Pages: 34
 ============================================================
 
@@ -2427,7 +2427,7 @@ Once a customer chooses a Keepit region for backup, their data never leaves that
 Source URL: https://www.keepit.com/services/backup-google-workspace/
 Content type: Web page
 Last modified: 2026-09-04T00:00:02+02:00
-Retrieved: 2026-09-06
+Retrieved: 2026-11-01
 
 ============================================================
 
@@ -2541,6 +2541,10 @@ Are you GDPR compliant?
 Of course, and we’re headquartered in Denmark, EU. Read more here.
 How often do you backup data?
 Twice daily. We’ve found trying more often doesn’t give our customers more successful and complete backups due to Microsoft throttling limitations.
+What are the best tools to back up Gmail emails easily?
+The best tool depends on whether you need a one-off copy or ongoing protection. Manual exports, such as Google Takeout, can create a copy of a mailbox but don't run automatically. For Google Workspace administrators, Google's own guidance notes that exports cover a limited number of accounts and only one Google service at a time. Google Vault is not a backup tool and isn't designed to recover lost or corrupted data.
+For automatic, organization-wide protection, look for a service that backs up Gmail on a schedule, stores the data separately from Google, and supports fast, granular restore. Keepit for Google Workspace backs up Gmail, Google Drive, and other Google Workspace data to its independent, vendor-neutral cloud, in the data center region you choose. You can configure your first backup in a few minutes.
+Keepit backups are immutable, and deletion retention for configured backup connections is at least one month. Admins can search for and restore individual emails or recover data to a point in time.
 Get started today
 Experience the benefits and security of intelligent SaaS data protection.
 
@@ -2833,8 +2837,8 @@ Once a customer chooses a Keepit region for backup, their data never leaves that
 
 Source URL: https://www.keepit.com/services/backup-microsoft-365/
 Content type: Web page
-Last modified: 2026-10-01T21:28:52+02:00
-Retrieved: 2026-10-04
+Last modified: 2026-10-01T18:07:12+02:00
+Retrieved: 2026-11-01
 
 ============================================================
 
@@ -2981,6 +2985,12 @@ The best way to protect Microsoft 365 data from ransomware is to maintain an ind
 Keepit backs up Exchange Online, OneDrive, SharePoint, and Teams/Groups twice daily to its own independent, air-gapped cloud rather than Microsoft’s infrastructure. Backups are immutable, and retention can be configured for up to 99 years, providing long-term protection beyond native Microsoft retention limits.
 Keepit’s independent cloud architecture helps keep backup data separate from the SaaS environment it protects. The platform provides granular recovery, fast federated search, and in-place restore while preserving folder structures and metadata, enabling organizations to recover specific data or larger datasets without manually rebuilding them.
 Keepit also supports Microsoft 365 data protection for regulatory requirements including HIPAA/HITRUST, FINRA, FISMA, GDPR, and NIS2. Its ransomware-resilient platform combines immutable and air-gapped backup with recovery capabilities designed to help organizations maintain business continuity after a ransomware incident.
+Yes. Keepit is designed for granular restore, so IT admins can recover specific files, emails, or records without restoring an entire account or environment.
+Fast search helps you find the right item across users, SaaS applications, and backup snapshots. You can then restore it to its original location with the original folder structure and metadata intact, so recovered data is ready to use. Depending on the SaaS application, other options include sharing the data or downloading it, such as a PST download for Microsoft 365 mailboxes.
+Keepit also supports larger recoveries, including prioritized restore of business-critical data and restores of multiple terabytes per day, and its point-in-time restore lets you recover data as it existed before a deletion or change. Because all backup data is kept always-hot, there is no rehydration delay and no extra fee for restores.
+Yes. Options include manually exporting mailboxes to PST files, relying on Microsoft's built-in retention features, and using a dedicated third-party backup service. Manual exports only protect you when someone remembers to run them. Under Microsoft's shared responsibility model, the customer, not the cloud service provider, is responsible for keeping a backup of the data.
+For Outlook email in Microsoft 365, look for a service that backs up Exchange Online automatically and stores the data outside Microsoft's infrastructure. Keepit backs up Exchange Online, including Outlook mail, along with OneDrive, SharePoint, and Teams/Groups, twice daily to its own independent, air-gapped cloud. Backups are immutable, and retention can be configured for up to 99 years.
+If an email or mailbox is lost, admins can search across backups and restore it in place with its original structure, share it, or download it as a PST file.
 
 ------------------------------------------------------------
 

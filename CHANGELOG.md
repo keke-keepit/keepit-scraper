@@ -1,5 +1,22 @@
 # Keepit KB Changelog
 
+## 2026-11-01
+
+Added (4):
+- https://www.keepit.com/customers/occ-assekuradeur/
+- https://www.keepit.com/partner-boost/
+- https://www.keepit.com/pricing2026/
+- https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-OCC-Assekuradeur-customer-case-EN.pdf
+
+Modified (7):
+- https://www.keepit.com/keepit-platform/
+- https://www.keepit.com/press/datareport2026/
+- https://www.keepit.com/pricing/
+- https://www.keepit.com/security/ransomware-recovery/
+- https://www.keepit.com/services/backup-google-workspace/
+- https://www.keepit.com/services/backup-microsoft-365/
+- https://www.keepit.com/why-keepit/
+
 ## 2026-10-25
 
 Added (10):

@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/keepit-platform/
 Content type: Web page
-Last modified: 2026-10-01T21:25:22+02:00
-Retrieved: 2026-10-04
+Last modified: 2026-10-01T18:02:32+02:00
+Retrieved: 2026-11-01
 
 ============================================================
 
@@ -54,3 +54,19 @@ Read the case study
 Intelligent SaaS data protection
 Ready to learn more about the Keepit platform?
 Our vendor independence, broad coverage of services, fast recovery times, and dedication to security make us #1 in SaaS data backup. Built for the cloud, with simplicity and data security at the core of our identity.
+Frequently asked questions
+Hybrid cloud environments often combine on-premises infrastructure with cloud-based SaaS applications, particularly while organizations are migrating workloads to the cloud. This creates a need for consistent data protection across both environments and can leave SaaS data exposed if organizations rely only on their SaaS providers or legacy on-premises backup tools.
+Keepit is purpose-built as an independent, vendor-neutral cloud dedicated to SaaS data protection. It protects data in cloud applications such as Microsoft 365, Google Workspace, and Salesforce, providing a separate backup environment outside the SaaS vendor's production environment.
+This vendor-independent cloud is particularly relevant during cloud migration. Organizations can protect their SaaS data independently while continuing to use separate backup tools for infrastructure that remains fully on-premises. This helps avoid relying on the SaaS provider alone for data protection and provides a dedicated third-party backup environment for cloud data.
+Keepit's approach also supports the principle of keeping backup data separate from production data. This can strengthen cloud data protection and help organizations apply the 3-2-1 backup rule as they transition from on-premises systems to cloud-based applications.
+Cloud backup deduplication reduces storage requirements by avoiding the need to store multiple copies of identical data. Instead of repeatedly backing up unchanged data, an efficient backup architecture stores the initial dataset and then captures changes over time.
+Keepit uses an incremental-forever approach. After the initial backup, subsequent backups capture only new or changed data rather than creating another full copy. According to Keepit’s 2026 Annual Data Report, daily backup growth averages around 2% of the original dataset, helping keep storage usage more predictable.
+This approach is part of how Keepit provides unlimited, always-hot storage at a predictable per-seat price, without storage tiering, snapshot expiration, or separate archiving fees.
+Restore speed depends heavily on whether backup data is kept "hot" (instantly accessible) or tiered into cold/archive storage, which can add hours of rehydration delay exactly when speed matters most. It also depends on search granularity and whether restores preserve original folder structure and metadata, avoiding manual rebuild work. Keepit keeps all backup data always-hot with no tiering, offers fast federated and smart search across every snapshot, and restores in-place with metadata and hierarchy intact, enabling recovery of multiple terabytes per day. In the independent Forrester Total Economic Impact study, this combination helped customers reduce priority-user restoration time by 90% following a ransomware incident. When comparing vendors, ask specifically whether their standard storage tier is hot by default, since several competitors use cold storage in entry tiers to lower headline pricing.
+Keepit is a SaaS data protection service that backs up and recovers data from SaaS applications, including Microsoft 365, Google Workspace, and Salesforce, from a single platform. Its main features include:
+Independent cloud: Keepit stores backup data in its own independent, vendor-neutral cloud, separate from the SaaS provider, with two mirrored data centers in each of its seven regions and no third-party sub-processors.
+Immutable, air-gapped backups: Backup data can't be overwritten through the application's APIs or interface, and deletion retention is configured for a minimum of one month.
+Granular recovery: Fast search across backups helps admins find the data they need and restore it in place, with metadata and folder hierarchy intact.
+Predictable pricing: One per-seat price includes unlimited always-hot storage, with no fees for data ingress, egress, or restores. Retention can be configured for up to 99 years.
+Security and compliance support: Keepit is ISO/IEC 27001 certified and has an independent SOC 2 Type II report, and its capabilities can support compliance efforts such as GDPR, HIPAA, and NIS2.
+Easy administration: Admins can configure a first backup in a few minutes, and MSPs can manage multiple customers from the Partner Management Console (PMC).

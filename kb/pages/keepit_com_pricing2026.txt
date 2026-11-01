@@ -1,0 +1,76 @@
+Source URL: https://www.keepit.com/pricing2026/
+Content type: Web page
+Last modified: 2026-10-26T22:25:01+01:00
+Retrieved: 2026-11-01
+
+============================================================
+
+"We were searching for a SaaS solution, and we didn't want to back up all the data on-prem. Keepit's simple, easy-to-use cloud backup delivered what we were looking for."
+— Michael Bojko, System Engineer, Porsche Informatik
+See how Core Continuity, Business Resilience, and Enterprise Resilience compare across platform capabilities, security, compliance, and support.
+Get started today. to receive a quote.
+|  | Core Continuity | Business Resilience | Enterprise Resilience | 
+|---|---|---|---|
+| Data Retention | 5 Years | 10 Years | 10 Years | 
+| Unlimited data retention |  | Add-on | Add-on | 
+| Unlimited hot storage |  |  |  | 
+| No egress, ingress or transaction fees |  |  |  | 
+| Storage in vendor-independent data centers |  |  |  | 
+| Select data residency |  |  |  | 
+| Customizable automated backups |  |  |  | 
+| Backup redundancy - 4 copies in 2 separated data centers in the selected region |  |  |  | 
+| Immutable Blockchain-Verified Storage Technology |  |  |  | 
+| In-backup search and preview |  |  |  | 
+| Data export |  |  |  | 
+| Activity log |  |  |  | 
+| Instant secure share |  |  |  | 
+| Free for inactive users |  |  |  | 
+| Data Protection dashboard |  |  |  | 
+| Data Monitoring dashboard |  |  |  | 
+| Data Monitoring with Anomaly Detection dashboard |  |  |  | 
+| Secure integrations with AI services (MCP Toolbox) |  |  |  | 
+| Integration with Security Information and Event Management (SIEM) |  |  |  | 
+| Full API Support for third-party integrations |  |  |  | 
+| Data Encryption at Rest and In-Transit |  |  |  | 
+| Regular Penetration Testing |  |  |  | 
+| Single Sign-On (SSO) |  |  |  | 
+| Multifactor Authentication (MFA) |  |  |  | 
+| Right-to-be-Forgotten (RTBF) |  |  |  | 
+| Detailed Job Monitor and Notifications |  |  |  | 
+| Role-Based Access Control |  |  |  | 
+| Audit Log |  |  |  | 
+| Custom Role-Based Access Control |  |  |  | 
+| Standard Terms of Service |  |  |  | 
+| Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specificÂ contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations) |  | Add-on | Add-on | 
+| Support Tiers | Core Continuity | 24/7 Enterprise Support | 24/7 Enterprise Support | 
+| Support Hours | Standard Business Hours | 24/7 | 24/7 | 
+| Support Channel | Self-service portal | Self-service portal | Phone Self-service portal | 
+| Target Response Time | Initial target SLA from 4 business hours to 2 business days depending on the severity level | Initial target SLA from 4 hours to 2 days depending on severity level | Initial target SLA from 1 to 8 hours depending on severity level | 
+| Implementation | Self-guided | Guided onboarding | Full onboarding program | 
+| Business reviews | On request | On request | Quarterly | 
+| Customer Experience Manager |  |  | Dedicated CXM | 
+Included
+Not Included
+Choose your platform tier and select your SaaS applications.
+1
+Platform tier
+2
+Select your SaaS applications
+3
+Additional offerings
+Your package
+Plan
+Not selected
+Applications
+None selected
+Add-ons
+Plan defaults only
+The best per-user backup pricing model provides predictable, all-inclusive costs without separate charges for storage, data transfer, restores, or backup activity. Backup providers may otherwise charge based on data volume and add fees for data egress, rehydration, or restoring data.
+Keepit uses an all-inclusive per-seat pricing model designed to provide predictable SaaS backup costs. The price includes unlimited always-hot storage, with no additional fees for data ingress, data egress, restores, or transaction activity.
+Keepit also offers different data retention options to support varying business and compliance requirements. Because the pricing model avoids separate per-gigabyte storage and per-restore charges, the quoted per-seat price provides a clearer view of the total cost of SaaS backup without unexpected usage-based fees.
+Backup providers can charge separate egress or restore fees when their services rely on general-purpose cloud storage such as AWS S3 or Azure Blob Storage, which can charge for data retrieval. These costs can become significant during large-scale recovery, such as after a ransomware attack.
+Keepit uses its own storage infrastructure rather than reselling hyperscaler storage and includes unlimited data traffic with no egress, ingress, or transaction fees. This means customers can recover data without paying additional charges based on the amount of data transferred or restored.
+With Keepit, the cost of a large-scale ransomware recovery is not increased by separate egress or restore fees. Whether recovering a single file or restoring a large volume of data, customers do not incur additional charges for data transfer or restore activity.
+Backup as a Service (BaaS) pricing varies between providers and can depend on factors such as data storage, data transfer, retention periods, and backup or restore activity. Some providers charge based on the amount of data stored and may add separate fees for data egress, rehydration, or restoring data.
+Keepit uses an all-inclusive per-seat pricing model designed to provide predictable costs. It includes unlimited always-hot storage with no additional fees for data ingress, data egress, restores, or transaction activity.
+Keepit also provides different data retention plans to support different business and compliance requirements, while its pricing model avoids separate per-gigabyte storage and per-restore charges. This means the quoted per-seat price is designed to provide a clearer view of the total cost of SaaS backup, without unexpected usage-based fees.

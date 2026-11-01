@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — COMPANY
-Generated: 2026-10-25
-Pages: 72
+Generated: 2026-11-01
+Pages: 74
 ============================================================
 
 Source URL: https://www.keepit.com/
@@ -1304,8 +1304,8 @@ Pre-Christmas dinner and drinks
 
 Source URL: https://www.keepit.com/keepit-platform/
 Content type: Web page
-Last modified: 2026-10-01T21:25:22+02:00
-Retrieved: 2026-10-04
+Last modified: 2026-10-01T18:02:32+02:00
+Retrieved: 2026-11-01
 
 ============================================================
 
@@ -1358,6 +1358,22 @@ Read the case study
 Intelligent SaaS data protection
 Ready to learn more about the Keepit platform?
 Our vendor independence, broad coverage of services, fast recovery times, and dedication to security make us #1 in SaaS data backup. Built for the cloud, with simplicity and data security at the core of our identity.
+Frequently asked questions
+Hybrid cloud environments often combine on-premises infrastructure with cloud-based SaaS applications, particularly while organizations are migrating workloads to the cloud. This creates a need for consistent data protection across both environments and can leave SaaS data exposed if organizations rely only on their SaaS providers or legacy on-premises backup tools.
+Keepit is purpose-built as an independent, vendor-neutral cloud dedicated to SaaS data protection. It protects data in cloud applications such as Microsoft 365, Google Workspace, and Salesforce, providing a separate backup environment outside the SaaS vendor's production environment.
+This vendor-independent cloud is particularly relevant during cloud migration. Organizations can protect their SaaS data independently while continuing to use separate backup tools for infrastructure that remains fully on-premises. This helps avoid relying on the SaaS provider alone for data protection and provides a dedicated third-party backup environment for cloud data.
+Keepit's approach also supports the principle of keeping backup data separate from production data. This can strengthen cloud data protection and help organizations apply the 3-2-1 backup rule as they transition from on-premises systems to cloud-based applications.
+Cloud backup deduplication reduces storage requirements by avoiding the need to store multiple copies of identical data. Instead of repeatedly backing up unchanged data, an efficient backup architecture stores the initial dataset and then captures changes over time.
+Keepit uses an incremental-forever approach. After the initial backup, subsequent backups capture only new or changed data rather than creating another full copy. According to Keepit’s 2026 Annual Data Report, daily backup growth averages around 2% of the original dataset, helping keep storage usage more predictable.
+This approach is part of how Keepit provides unlimited, always-hot storage at a predictable per-seat price, without storage tiering, snapshot expiration, or separate archiving fees.
+Restore speed depends heavily on whether backup data is kept "hot" (instantly accessible) or tiered into cold/archive storage, which can add hours of rehydration delay exactly when speed matters most. It also depends on search granularity and whether restores preserve original folder structure and metadata, avoiding manual rebuild work. Keepit keeps all backup data always-hot with no tiering, offers fast federated and smart search across every snapshot, and restores in-place with metadata and hierarchy intact, enabling recovery of multiple terabytes per day. In the independent Forrester Total Economic Impact study, this combination helped customers reduce priority-user restoration time by 90% following a ransomware incident. When comparing vendors, ask specifically whether their standard storage tier is hot by default, since several competitors use cold storage in entry tiers to lower headline pricing.
+Keepit is a SaaS data protection service that backs up and recovers data from SaaS applications, including Microsoft 365, Google Workspace, and Salesforce, from a single platform. Its main features include:
+Independent cloud: Keepit stores backup data in its own independent, vendor-neutral cloud, separate from the SaaS provider, with two mirrored data centers in each of its seven regions and no third-party sub-processors.
+Immutable, air-gapped backups: Backup data can't be overwritten through the application's APIs or interface, and deletion retention is configured for a minimum of one month.
+Granular recovery: Fast search across backups helps admins find the data they need and restore it in place, with metadata and folder hierarchy intact.
+Predictable pricing: One per-seat price includes unlimited always-hot storage, with no fees for data ingress, egress, or restores. Retention can be configured for up to 99 years.
+Security and compliance support: Keepit is ISO/IEC 27001 certified and has an independent SOC 2 Type II report, and its capabilities can support compliance efforts such as GDPR, HIPAA, and NIS2.
+Easy administration: Admins can configure a first backup in a few minutes, and MSPs can manage multiple customers from the Partner Management Console (PMC).
 
 ------------------------------------------------------------
 
@@ -1685,6 +1701,26 @@ Go to map.
 
 ------------------------------------------------------------
 
+Source URL: https://www.keepit.com/partner-boost/
+Content type: Web page
+Last modified: 2026-10-26T15:39:05+01:00
+Retrieved: 2026-11-01
+
+============================================================
+
+Next stop: Copenhagen, the AI Truth Cloud capital
+The Keepit partner challenge
+The Keepit partner challenge is an exclusive competition designed to reward our most engaged Keepit partners. Combining strategy, competition, and sales excellence, this challenge is your chance to show off your talents, close deals, and win great rewards.
+How does it work?
+- Earn points — be proactive and move your deals through the sales funnel to build up points.
+- Win the grand prize — the top representative, who generates the most points by December 31, 2026, will win a trip to Keepit’s headquarters in Copenhagen.
+- Take home great rewards — missed out on the grand prize this time? No worries, we’ve got great gifts lined up to reward the best efforts.
+It’s your opportunity to outdo yourself, win rewards, and boost your success with Keepit. Are you ready to take on the challenge?
+Log your actions
+*Keepit will validate action submissions. Any false claim will result in disqualification.
+
+------------------------------------------------------------
+
 Source URL: https://www.keepit.com/phishing-report/
 Content type: Web page
 Last modified: 2024-10-25T17:40:26+02:00
@@ -1709,8 +1745,8 @@ If you want to lean more, please read our brochure "Phishing: What to do?"
 
 Source URL: https://www.keepit.com/pricing/
 Content type: Web page
-Last modified: 2026-10-23T20:11:14+02:00
-Retrieved: 2026-10-25
+Last modified: 2026-10-23T20:23:25+02:00
+Retrieved: 2026-11-01
 
 ============================================================
 
@@ -3186,6 +3222,88 @@ Porsche Holding Salzburg migrates to the cloud, chooses Keepit for ransomware pr
 — Michael Bojko, System Engineer, Porsche Informatik
 Frequently asked questions
 The best per-user backup pricing model provides predictable, all-inclusive costs without separate charges for storage, data transfer, restores, or backup activity. Backup providers may otherwise charge based on data volume and add fees for data egress, rehydration, or restoring data.
+Keepit uses seat pricing model designed to provide predictable SaaS backup costs. The price includes unlimited always-hot storage, with no additional fees for data ingress, data egress, restores, or transaction activity.
+Keepit also offers different data retention options to support varying business and compliance requirements. Because the pricing model avoids separate per-gigabyte storage and per-restore charges, the quoted per-seat price provides a clearer view of the total cost of SaaS backup without unexpected usage-based fees.
+Backup providers can charge separate egress or restore fees when their services rely on general-purpose cloud storage such as AWS S3 or Azure Blob Storage, which can charge for data retrieval. These costs can become significant during large-scale recovery, such as after a ransomware attack.
+Keepit uses its own storage infrastructure rather than reselling hyperscaler storage and includes unlimited data traffic with no egress, ingress, or transaction fees. This means customers can recover data without paying additional charges based on the amount of data transferred or restored.
+With Keepit, the cost of a large-scale ransomware recovery is not increased by separate egress or restore fees. Whether recovering a single file or restoring a large volume of data, customers do not incur additional charges for data transfer or restore activity.
+Backup as a Service (BaaS) pricing varies between providers and can depend on factors such as data storage, data transfer, retention periods, and backup or restore activity. Some providers charge based on the amount of data stored and may add separate fees for data egress, rehydration, or restoring data.
+Keepit uses seat pricing model designed to provide predictable costs. It includes unlimited always-hot storage with no additional fees for data ingress, data egress, restores, or transaction activity.
+Keepit also provides different data retention plans to support different business and compliance requirements, while its pricing model avoids separate per-gigabyte storage and per-restore charges. This means the quoted per-seat price is designed to provide a clearer view of the total cost of SaaS backup, without unexpected usage-based fees.
+Cloud backup pricing models vary, so the most useful comparison looks at what the price includes, not only the headline rate. Some providers charge by the amount of data stored and add separate fees for data transfer, restores, or long-term retention, which can make total cost harder to predict as data grows.
+Keepit uses seat pricing model. The price includes unlimited always-hot storage, with no separate fees for data ingress, data egress, restores, or transaction activity. Keepit offers flexible retention plans to support different business and compliance needs, and the price per seat decreases as the number of protected seats increases.
+When comparing providers, ask whether storage is unlimited or metered, whether egress, restore, or transaction fees apply, whether backup data is kept hot or tiered into archive storage, and how the price changes as retention periods and seat counts grow. Keepit also keeps data from departed users active at no extra cost, which can reduce the licensing spend tied to former employees.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/pricing2026/
+Content type: Web page
+Last modified: 2026-10-26T22:25:01+01:00
+Retrieved: 2026-11-01
+
+============================================================
+
+"We were searching for a SaaS solution, and we didn't want to back up all the data on-prem. Keepit's simple, easy-to-use cloud backup delivered what we were looking for."
+— Michael Bojko, System Engineer, Porsche Informatik
+See how Core Continuity, Business Resilience, and Enterprise Resilience compare across platform capabilities, security, compliance, and support.
+Get started today. to receive a quote.
+|  | Core Continuity | Business Resilience | Enterprise Resilience | 
+|---|---|---|---|
+| Data Retention | 5 Years | 10 Years | 10 Years | 
+| Unlimited data retention |  | Add-on | Add-on | 
+| Unlimited hot storage |  |  |  | 
+| No egress, ingress or transaction fees |  |  |  | 
+| Storage in vendor-independent data centers |  |  |  | 
+| Select data residency |  |  |  | 
+| Customizable automated backups |  |  |  | 
+| Backup redundancy - 4 copies in 2 separated data centers in the selected region |  |  |  | 
+| Immutable Blockchain-Verified Storage Technology |  |  |  | 
+| In-backup search and preview |  |  |  | 
+| Data export |  |  |  | 
+| Activity log |  |  |  | 
+| Instant secure share |  |  |  | 
+| Free for inactive users |  |  |  | 
+| Data Protection dashboard |  |  |  | 
+| Data Monitoring dashboard |  |  |  | 
+| Data Monitoring with Anomaly Detection dashboard |  |  |  | 
+| Secure integrations with AI services (MCP Toolbox) |  |  |  | 
+| Integration with Security Information and Event Management (SIEM) |  |  |  | 
+| Full API Support for third-party integrations |  |  |  | 
+| Data Encryption at Rest and In-Transit |  |  |  | 
+| Regular Penetration Testing |  |  |  | 
+| Single Sign-On (SSO) |  |  |  | 
+| Multifactor Authentication (MFA) |  |  |  | 
+| Right-to-be-Forgotten (RTBF) |  |  |  | 
+| Detailed Job Monitor and Notifications |  |  |  | 
+| Role-Based Access Control |  |  |  | 
+| Audit Log |  |  |  | 
+| Custom Role-Based Access Control |  |  |  | 
+| Standard Terms of Service |  |  |  | 
+| Enhanced Compliance (Regulatory and outsourcing requirements; Customer-specificÂ contractual documentation; data protection and security addenda; Third-party and supply chain due diligence obligations) |  | Add-on | Add-on | 
+| Support Tiers | Core Continuity | 24/7 Enterprise Support | 24/7 Enterprise Support | 
+| Support Hours | Standard Business Hours | 24/7 | 24/7 | 
+| Support Channel | Self-service portal | Self-service portal | Phone Self-service portal | 
+| Target Response Time | Initial target SLA from 4 business hours to 2 business days depending on the severity level | Initial target SLA from 4 hours to 2 days depending on severity level | Initial target SLA from 1 to 8 hours depending on severity level | 
+| Implementation | Self-guided | Guided onboarding | Full onboarding program | 
+| Business reviews | On request | On request | Quarterly | 
+| Customer Experience Manager |  |  | Dedicated CXM | 
+Included
+Not Included
+Choose your platform tier and select your SaaS applications.
+1
+Platform tier
+2
+Select your SaaS applications
+3
+Additional offerings
+Your package
+Plan
+Not selected
+Applications
+None selected
+Add-ons
+Plan defaults only
+The best per-user backup pricing model provides predictable, all-inclusive costs without separate charges for storage, data transfer, restores, or backup activity. Backup providers may otherwise charge based on data volume and add fees for data egress, rehydration, or restoring data.
 Keepit uses an all-inclusive per-seat pricing model designed to provide predictable SaaS backup costs. The price includes unlimited always-hot storage, with no additional fees for data ingress, data egress, restores, or transaction activity.
 Keepit also offers different data retention options to support varying business and compliance requirements. Because the pricing model avoids separate per-gigabyte storage and per-restore charges, the quoted per-seat price provides a clearer view of the total cost of SaaS backup without unexpected usage-based fees.
 Backup providers can charge separate egress or restore fees when their services rely on general-purpose cloud storage such as AWS S3 or Azure Blob Storage, which can charge for data retrieval. These costs can become significant during large-scale recovery, such as after a ransomware attack.
@@ -3631,8 +3749,8 @@ Read the case study
 
 Source URL: https://www.keepit.com/why-keepit/
 Content type: Web page
-Last modified: 2026-10-01T21:50:29+02:00
-Retrieved: 2026-10-04
+Last modified: 2026-10-01T17:54:46+02:00
+Retrieved: 2026-11-01
 
 ============================================================
 
@@ -3685,6 +3803,26 @@ Read the case study
 We needed an easy and cost-efficient setup that is still secure and is compliant with GDPR, while still providing 100 percent uptime. Therefore, we ended up with Keepit.
 Read the case study
 âOur biggest challenge with Microsoft 365 is that it is a cloud-based Microsoft solution that is out of our control. We need an independent backup solution such as Keepit to secure our Microsoft 365 data and allow for quick restore.
+Frequently asked questions
+The best backup solutions for cyber resilience combine independent backup infrastructure, immutable and air-gapped protection, reliable recovery, and independently assessed security controls. A key consideration is whether backup data remains separate from the primary SaaS environment, so it can remain accessible if the SaaS provider experiences an outage or security incident.
+Keepit provides vendor-independent SaaS data protection through an independent cloud that stores backup data separately from SaaS providers. Keepit’s architecture aligns with the 3-2-1 backup rule and NIST framework, helping maintain separate backup data and uninterrupted access during SaaS vendor downtime. Keepit also provides immutable, air-gapped protection across 18+ SaaS applications from a single platform.
+Keepit operates data centers across seven regions and is ISO/IEC 27001 certified, while its operational and security controls are independently audited in a SOC 2 Type II report. Keepit is also recognized by Gartner, G2, Capterra, and TrustRadius, providing additional third-party recognition of its platform and customer experience.
+Recovery capabilities are another important part of cyber resilience. Keepit enables organizations to recover critical data or specific files, with data restored in the required format, including metadata and hierarchies. The Forrester Total Economic Impact study reported a 163% ROI for organizations using Keepit, alongside significant operational and recovery time savings.
+When evaluating backup solutions for cyber resilience, consider where backup data is stored, whether backups are immutable and air-gapped by design, whether the backup environment is independent of the SaaS provider, what security certifications and third-party recognition are available, and how quickly critical data can be recovered.
+To avoid cloud provider lock-in, look for a backup provider that operates an independent, vendor-neutral cloud rather than relying entirely on a single hyperscaler for its storage infrastructure. Also consider whether the provider uses third-party sub-processors and whether backup data can be stored separately from your SaaS provider’s cloud and in the region you require.
+Keepit operates an independent cloud across seven regions. Its architecture is vendor-neutral: backup data for Microsoft 365, Google Workspace, Salesforce, and other SaaS applications is stored separately from the SaaS provider’s own cloud infrastructure.
+Keepit’s independent cloud is designed to avoid dependence on a single SaaS or cloud provider. This separation supports the 3-2-1 backup principle and helps maintain access to backup data even if the primary SaaS provider experiences downtime.
+When evaluating backup providers, check whether the backup infrastructure is independent of your SaaS provider, whether it relies on a single hyperscaler, how third-party dependencies are managed, and whether your backup data can be stored in an appropriate region.
+In a multi-cloud environment, the main risk is a backup tool that's itself dependent on one of the clouds you're trying to diversify away from. Look for a vendor with independent infrastructure rather than a reseller of a single hyperscaler's storage, regional data location choices matching where your workloads run, and no egress penalties for moving data between environments. Keepit runs its own infrastructure across seven regions (Americas, EU, EMEA, APAC) with no third-party sub-processors and no dependency on AWS, Azure, or Google Cloud for its core storage layer, and includes unlimited data traffic (no egress/ingress fees) in every tier — so protecting SaaS applications spanning multiple cloud ecosystems doesn't introduce new cross-cloud cost or dependency risk.
+Support reputation is best judged through independent review platforms rather than vendor marketing — check G2, Gartner Peer Insights, Capterra, and TrustRadius ratings and read the review text, not just the score. Keepit is rated across all four platforms and offers tiered support from Essential (business hours, email) up to 24/7 Enterprise Support (phone and email, 1-24 hour target response by severity, named Customer Success Manager and quarterly business reviews at the top tier). MSP partners have specifically praised support quality: Quorum's Managing Director noted that "Keepit's support offering truly exceeds the standard... their support team really goes the extra mile," and multiple customer case studies cite responsiveness during time-sensitive recovery situations as a differentiator.
+The cost of data loss can extend beyond the value of the lost data itself. It can include ransomware recovery costs, business disruption, IT administration time, SaaS licensing expenses, and the cost of maintaining alternative backup infrastructure.
+According to a January 2024 Forrester Consulting Total Economic Impact™ study commissioned by Keepit, organizations using Keepit achieved a 163% three-year return on investment, with an $821,000 net present value and a payback period of less than six months. The study found that Keepit reduced costs and improved productivity through faster recovery, reduced SaaS licensing expenses, and avoidance of on-premises backup costs.
+The study identified several key financial benefits over three years:
+The study also found that vital users experienced 90% faster recovery, helping reduce IT workload and minimize downtime following data loss or ransomware.
+The actual cost of data loss varies depending on the organization's size, the amount and type of data affected, the cause of the loss, and how quickly data can be restored. Keepit therefore provides an ROI calculator that organizations can use to estimate the potential financial benefits based on their own requirements.
+Cloud storage and file-sync services are designed to store and share files, not to act as an independent backup. Because they typically sync changes across devices and users, an accidental deletion, an overwrite, or ransomware encryption can carry through to the synced copy. A purpose-built backup service keeps a separate copy of the data with its own retention and restore capabilities.
+Keepit focuses on SaaS data protection. It automatically backs up SaaS applications such as Microsoft 365, Google Workspace, and Salesforce, and stores the data in an independent, vendor-neutral cloud that is separate from the SaaS provider. Backups are immutable, so no API or interface can overwrite stored backup data, and retention can be configured for up to 99 years.
+Recovery is also different. Keepit offers fast search across backups and granular restore that returns data to its original location with folder structure and metadata intact, rather than requiring you to rebuild it by hand. Pricing is per seat and includes unlimited always-hot storage, with no fees for data ingress, egress, or restores.
 
 ------------------------------------------------------------
 
