@@ -1,0 +1,278 @@
+Source URL: https://lp.keepit.com/hubfs/Administration/Certificado%20ENS-2026_0145_ES_IN_2026-10-14.pdf
+Content type: PDF document
+Title: unknown
+Pages: 6
+Retrieved: 2026-11-08
+
+============================================================
+
+Certificado de Conformidad  
+con el Esquema Nacional de Seguridad 
+  
+ 
+ 
+Fecha inicial de certificación (MEDIA):  2026-10-14 
+Fecha de expiración: 2028-10-14 
+  
+  
+ Emitido en Madrid a, 14 de octubre de 2026  
+   Rafael GARCÍA MEIRO 
+CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+AENOR CONFIA S.A.U.
+Génova, 6. 28004 Madrid. España
+Tel. +34 91 432 60 00.- www.aenor.com
+ 
+ 
+  ENS-2026/0145  
+  
+  
+AENOR, certifica que los sistemas de información evaluados 
+todos ellos de categoría MEDIA y los servicios que se relacionan, de: 
+  
+KEEPIT 
+  
+han sido auditados y encontrados conforme con las exigencias del Real Decreto 311/2022, de 3 de 
+mayo, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración 
+electrónica, según se indica en el correspondiente Informe de Auditoría de 2026-09-16 
+ 
+ 
+ 
+para las actividades:
+Los sistemas de información que dan soporte a los servicios de 
+copia de seguridad y recuperación segura en la nube para 
+aplicaciones SaaS, incluyendo la protección, el almacenamiento y 
+la restauración de datos para los clientes, garantizando el 
+cumplimiento de las normas reglamentarias y de seguridad, según 
+la categorización actual del sistema. 
+ 
+ 
+que se realizan en: 
+Direcciones indicadas en el Anexo
+
+Certificado de Conformidad  
+con el Esquema Nacional de Seguridad 
+ 
+ 
+ 
+ 
+ 
+ENS-2026/0145 
+ 
+ 
+ 
+Anexo al Certificado 
+ 
+   
+Fecha inicial de certificación (MEDIA):  2026-10-14 
+Fecha de expiración: 2028-10-14 
+  
+  
+ Emitido en Madrid a, 14 de octubre de 2026  
+ Rafael GARCÍA MEIRO 
+CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+AENOR CONFIA S.A.U.
+Génova, 6. 28004 Madrid. España
+Tel. +34 91 432 60 00.- www.aenor.com
+ 
+ 
+Establecimientos: 
+PER HENRIK LINGS ALLÉ, 4 7TH. 2100 - KØBENHAVN (DENMARK - 
+Dinamarca) 
+DC: FR4 (FRANKFURT GRIESHEIM) LÄRCHENSTRASSE, 110. 65933 
+- FRANKFURT GRIESHEIM (DARMSTADT - Alemania) 
+DC: FR5 (FRANKFURT) KLEYERSTRASSE, 90. 60326 - FRANKFURT 
+(DARMSTADT - Alemania) 
+DC: FR7 (FRANKFURT) GUTLEUTSTRASSE, 310. 60327 - 
+FRANKFURT (DARMSTADT - Alemania) 
+DC. SITE A INDUSTRIPARKEN, 35. 2750 - BALLERUP (Dinamarca) 
+DC: SITE B OVERDREVSVEJ, 12. 2765 - SMØRUM (Dinamarca)
+
+Certificado de Conformidad  
+con el Esquema Nacional de Seguridad 
+  
+ 
+ 
+Fecha inicial de certificación (MEDIA):  2026-10-14 
+Fecha de expiración: 2028-10-14 
+  
+  
+ Emitido en Madrid a, 14 de octubre de 2026  
+   Rafael GARCÍA MEIRO 
+CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+AENOR CONFIA S.A.U.
+Génova, 6. 28004 Madrid. España
+Tel. +34 91 432 60 00.- www.aenor.com
+ 
+ 
+  ENS-2026/0145  
+  
+  
+ 
+Anexo al Certificado 
+  
+ 
+CATEGORÍA
+ 
+MEDIA 
+C 
+I 
+T 
+A 
+D 
+Total de Medidas
+Medio
+Medio
+Medio
+Medio
+Medio
+68
+
+Certificate of conformity 
+with the National Security Framework 
+  
+ 
+ 
+Initial certification date (MEDIUM):  2026-10-14 
+Validity date: 2028-10-14 
+  
+  
+ Issued in Madrid on 14 October 2026 
+ Rafael GARCÍA MEIRO  
+CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+AENOR CONFIA S.A.U.
+Génova, 6. 28004 Madrid. España
+Tel. +34 91 432 60 00.- www.aenor.com
+ 
+ 
+  ENS-2026/0145  
+  
+  
+AENOR certifies that the information systems assessed 
+all of them of MEDUM category, and the services that are related, of: 
+  
+KEEPIT 
+  
+have been audited and found to comply with the requirements of of the Royal Decree 311/2022, of 
+May 3rd, which regulates the National Security Framework, as indicated in the corresponding  2026-
+09-16 Audit Report 
+ 
+ 
+ 
+Scope:
+The information systems that support the services of secure 
+cloud-based backup and recovery services for SaaS applications 
+including data protection, storage, and restoration for the clients, 
+ensuring compliance with regulatory and security standards, 
+according to the current system categorization. 
+ 
+ 
+that are carried out in: 
+SEE ADDRESSES SPECIFIED IN ANNEX
+
+Certificate of conformity 
+with the National Security Framework 
+ 
+ 
+ 
+ 
+ 
+ENS-2026/0145 
+ 
+ 
+ 
+Annex to Certificate 
+ 
+Initial certification date (MEDIUM):  2026-10-14 
+Validity date: 2028-10-14 
+  
+  
+ Issued in Madrid on 14 October 2026 
+ Rafael GARCÍA MEIRO  
+CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+AENOR CONFIA S.A.U.
+Génova, 6. 28004 Madrid. España
+Tel. +34 91 432 60 00.- www.aenor.com
+ 
+ 
+establishments: 
+PER HENRIK LINGS ALLÉ, 4 7TH. 2100 - KØBENHAVN (DENMARK - 
+Dinamarca) 
+DC: FR4 (FRANKFURT GRIESHEIM) LÄRCHENSTRASSE, 110. 65933 
+- FRANKFURT GRIESHEIM (DARMSTADT - Alemania) 
+DC: FR5 (FRANKFURT) KLEYERSTRASSE, 90. 60326 - FRANKFURT 
+(DARMSTADT - Alemania) 
+DC: FR7 (FRANKFURT) GUTLEUTSTRASSE, 310. 60327 - 
+FRANKFURT (DARMSTADT - Alemania) 
+DC. SITE A INDUSTRIPARKEN, 35. 2750 - BALLERUP (Dinamarca) 
+DC: SITE B OVERDREVSVEJ, 12. 2765 - SMØRUM (Dinamarca)
+
+Certificate of conformity 
+with the National Security Framework 
+  
+ 
+ 
+Initial certification date (MEDIUM):  2026-10-14 
+Validity date: 2028-10-14 
+  
+  
+ Issued in Madrid on 14 October 2026 
+ Rafael GARCÍA MEIRO  
+CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+AENOR CONFIA S.A.U.
+Génova, 6. 28004 Madrid. España
+Tel. +34 91 432 60 00.- www.aenor.com
+ 
+ 
+  ENS-2026/0145  
+  
+  
+Annex to Certificate 
+ 
+CATEGORY
+ 
+MEDIUM 
+C 
+I 
+T 
+A 
+A 
+Total 
+Measurements
+Medium Medium Medium Medium Medium
+68

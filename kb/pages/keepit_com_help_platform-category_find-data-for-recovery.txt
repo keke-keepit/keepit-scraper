@@ -1,23 +1,21 @@
 Source URL: https://www.keepit.com/help/platform-category/find-data-for-recovery/
 Content type: Web page
-Last modified: 2026-10-21T10:35:57+02:00
-Retrieved: 2026-10-25
+Last modified: 2026-11-05T11:09:26+01:00
+Retrieved: 2026-11-08
 
 ============================================================
 
 Find data for recovery
-To find data to restore or to locate something you would like to download or share as a public link, use one of Keepit's many features to help you establish the location of this data.
-Begin by selecting the connector where the data you want is located.
+Use this article to find data you want to restore, download, or share as a secure share. Start by selecting the connector that contains the data.
 Search connector
-Use the search box to find specific files in your connector.
-You can search by filename or metadata (email subject, sender email, data type, etc.).
+Use the search box to find specific files in your connector. You can search by file name or metadata, such as email subject, sender email, and data type.
 Keepit identifies exact or nearly-exact matches of search terms.
 If your initial search returns no results or too few results, look for the Expand search option in your results panel. Select it to re-run your query using a broader, more approximate matching algorithm. This is useful when searching for names that might be spelled multiple ways, looking for items with partial information, or when you know an item exists but the streamlined search didn't find it.
 Filter items in a folder
-Browse to the folder where your item is and then enter a term in the filter field to narrow down the items.
-You can filter by name, size, date, label, or any of the other data types shown in the table you are viewing.
+Go to the folder that contains the item, and then enter a term in the filter field to narrow down the items.
+You can filter by name, size, date, label, or any other data type shown in the table.
 User filters
-You can use one of the available filters to narrow your results according to file type.
+You can use one of the available filter categories to narrow your results according to file type.
 Click the filter icon in the upper-right corner. Then select which search filters you want to apply.
 If you select the Emails filter, you will be offered additional options for filtering by email subject, sender, receiver, or date range. Enter the terms and then click Apply email filters.
 Add or remove columns
@@ -25,24 +23,31 @@ Click the gear icon in the upper-right corner of the table. Select or unselect t
 In addition to the "Display name" column, only up to 5 more columns can be shown at one time.
 Note: The Object ID column displays raw system identifiers (e.g., Salesforce Record ID, Microsoft Object ID).
 Sort data by column
-Click the down arrows near the column names to sort the column alphabetically, by size, date, etc. Click again to reverse.
-Deleted Items View
-Enable the Deleted Items View to see all data that has ever existed in your tenant and has been backed up by our solution.
-To activate this feature, click Deleted items in the toolbar. This will display deleted users, files, folders, and objects in the current view.
-Deleted items will be clearly labeled as "Deleted," allowing you to easily differentiate them from the files currently in your tenant.
-Once you find your lost items, you can restore, download, or share them directly from this view.
-Snapshot Viewer
-You can use the Snapshot Viewer if you want to step back in time.
-Click Snapshot viewer, and then select a snapshot. You can use the slider to limit the list of snapshots shown below.
-Once you have selected a snapshot, you will now be browsing this particular backup. The day and time of the snapshot will be shown above.
-Versions Viewer
-You can find different versions of a folder or file by selecting ••• > Versions to the right of the item. Only snapshots where the folder or file is present will be listed.
-Select a snapshot to then browse items inside that folder from that point in time.
-File Previewer
-The File Previewer allows you to preview any data object before initiating a restore, helping to guarantee that the correct data is recovered.â¯â¯
-To open the File Previewer, simply click on the file name. From the preview window, you can:
+Select the arrow next to a column name to sort the column alphabetically, by size, by date, and so on. Select the arrow again to reverse the order.
+Deleted items
+Use Deleted items to find items that aren’t in the latest snapshot but are still available in earlier snapshots.
+Keepit labels an item Deleted whenever it’s in an earlier snapshot but not in the latest one. This can mean either of the following:
+- Deleted from the tenant: Someone deleted the item in the source application.
+- Deleted from the backup: Someone deselected the item in the backup configuration. The item may still exist in your tenant, but Keepit no longer backs it up.
+To find a deleted item:
+1. Select the connector that contains the data.
+2. Go to the folder where the item was located before it was deleted.
+3. In the toolbar, turn on Deleted items. When the setting is on, the trash can icon has no line through it.
+4. Find the item. Keepit labels it Deleted.
+5. To see which snapshots contain the item, select ••• > Versions next to it.
+To hide deleted items again, turn off Deleted items. The icon then has a line through it.
+From this view, you can restore, download, or share the item.
+Snapshot viewer
+Use the Snapshot viewer to browse your data as it was at a specific point in time. In the toolbar, select Snapshot viewer, and then select a snapshot. To limit the list of snapshots, use the slider.
+Keepit shows the day and time of the snapshot above the list. To compare two snapshots, see Compare snapshots.
+Versions viewer
+To find different versions of a folder or file, select ••• > Versions. Keepit lists only the snapshots where the folder or file is present.
+Select a snapshot to browse the items in that folder as they were at that point in time.
+File previewer
+Use the File previewer to preview any data object before you restore it, so you can confirm you’re recovering the correct data.
+To open the File previewer, select the file name. From the preview window, you can:
 - View previous versions
 - Restore the file
-- Download, share, or print it
-An extensive range of file types are supported, including PDF, DOCX, XLSX, CSV, TXT, PPTX, PNG, and JPG, along with many others.
-The File Previewer is not available for the Entra ID connector.
+- Download, share, or print the file
+The File previewer supports many file types, including PDF, DOCX, XLSX, CSV, TXT, PPTX, PNG, and JPG.
+Note: The File previewer isn’t available for the Entra ID connector.

@@ -1,100 +1,49 @@
 Source URL: https://www.keepit.com/resources/events/
 Content type: Web page
-Last modified: 2026-10-15T22:06:27+02:00
-Retrieved: 2026-10-18
+Last modified: 2026-11-03T20:39:55+01:00
+Retrieved: 2026-11-08
 
 ============================================================
 
-Keepit events
-Join us at an upcoming event. We are eager to meet you!
-October 19-22, 2026 | Orlando, FLGartner IT Symposium/Xpoâ¢ 2026 conference
-Walt Disney World Resort, Orlando, FL
-Meet Keepit at Gartner IT Symposium/Xpo 2026
-AI doesn't create truth. It amplifies whatever it's given. Connect with our team at booth #336 to hear why an independent, always-recoverable single point of truth is the foundation responsible AI adoption depends on.
-Use SYM36EDC to get $575 discount on your ticket here. 
-Conference URL: https://www.gartner.com/en/conferences/na/symposium-us 
-Keepit: The foundation AI can't build itself — a single point of truth
-Date and Time: October 20 at 2:20 p.m. (EDT) 
-Room: Future Directions Stage
-Session code: FD10
-AI doesn't create truth. It amplifies whatever it's given. As organizations expand AI across their SaaS applications, one lesson keeps resurfacing: you can't build a recovery strategy on the systems you need to recover from. This session explores why an independent, verified, and always-recoverable single point of truth is the foundation responsible AI adoption depends on — and why trust, recoverability, and AI strategy belong in the same conversation.
-What you’ll take away:
-- A clearer understanding of why recovery responsibility has always sat with the organization — not the platform
-- Practical insight into the SaaS data protection gaps that AI adoption makes more urgent, not less
-- A framework for building a single point of truth that is independent, verified, and always recoverable
-Michael Amsinck, CPTO at Keepit
-October 27, 2026 | Copenhagen, DenmarkDell Technologies Forum
-Clarion Hotel & Congress, Copenhagen, Denmark
-Meet Keepit at Dell Technologies Forum Denmark
-Join us at Dell Technologies Forum Denmark on Oct. 27 at The Hangar, Clarion Hotel & Congress, where Jakob Østergaard, Chief Technology Officer at Keepit, takes the stage.
-Keep calm and back up: What AI actually changes (and what it doesn’t) 
-11:45 a.m.–12:15 p.m. | Sal 5 | Session LSP06-P 
-AI is on nearly every agenda slide today. Jakob cuts through the hype and shows what’s new about AI risk and what’s the same set of questions that have always mattered. You’ll leave with a clearer view of the technology foundation behind AI, so you can focus on what counts when you turn opportunity into real improvements and keep risk in check.
-Find the session in the event program here.
-Sal 5
-Session code: [LSP06-P]
-AI is on every other agenda slide today. Jakob Østergaard, CTO at Keepit, strips away the hype and shows what's genuinely new about AI risk, and what's simply the same questions that have always mattered. You'll leave with a better understanding of the AI technology foundation, letting you see through the noise and focus on what actually matters when turning opportunity into real improvements while keeping risk in check.
-Jakob Østergaard, Chief Technology Officer, Keepit
-October 27-29, 2026 | Nuremburg, Germanyit-sa Expo & Congress
-October 28-29, 2026 | Helsinki, FinlandCyber Security Nordic 2026
-Helsinki Expo and Convention Centre, Helsinki, Finland
-Cyber Security Nordic 2026 brings together cybersecurity leaders, experts, and decision-makers from across the Nordics, Oct. 28-29 at the Helsinki Expo and Convention Centre, to explore resilience, geopolitical risk, and trust in digital systems.
-Meet Keepit there to talk about strengthening SaaS data protection, resilience, and governance as the foundation for responsible AI adoption. You can also catch Kim Larsen, our group chief information security officer (CISO), on the Gold Stage Oct. 28 at 4:15 p.m., presenting "Sovereignty first: The data foundation AI can't scale without." We look forward to meeting you in Helsinki.
-Conference URL: https://cybersecuritynordic.messukeskus.com/  
-Sovereignty first: The data foundation AI can't scale without
-Date and Time: Oct 28, 2026 | 4:15–4:35 p.m.
-Location: Gold stage
-On Oct. 28 at 4:15 p.m. on the Gold Stage, Kim Larsen, group chief information security officer (CISO) at Keepit, presents "Sovereignty first: The data foundation AI can't scale without." He argues that AI readiness starts with data sovereignty and governance, not model selection, unpacking what it takes to know where your data lives, who can access it, and whether you can still reach it when a provider, region, or geopolitical situation changes. For partners advising customers on AI adoption, this session reframes governance as the prerequisite, not the afterthought.
-Every AI strategy runs into the same wall: control over data. In this 20-minute session, Kim Larsen, Group CISO at Keepit, argues that AI-readiness starts with data sovereignty and governance, not model selection. He unpacks the practical difference between application sovereignty and data sovereignty (why the former is out of reach for most organizations in the short term, while the latter is not), and what it takes to know where your data lives, who can access it, and whether you can still reach it when a provider, region, or geopolitical situation changes. For partners advising customers on AI adoption, this session reframes governance as the prerequisite, not the afterthought.
-Kim Larsen, Group Chief Information Security Officer (CISO), Keepit
-November 4-5, 2026 | Madrid, SpainTech Show Madrid
-November 9-12, 2026 | Barcelona, SpainGartner IT Symposium/Xpoâ¢ 2026 conference
 AI is only as reliable as the data behind it. It doesn't question what it's given — it just runs with it. Meet our team at booth #504 to find out why responsible AI adoption starts with an independent, always-recoverable single source of truth.
 Use ESC38EDC to get 10% off a full conference pass here.
-Conference URL: Gartner IT Symposium/Xpo™ 2026 Conference in Barcelona, Spain
 Keepit: The amplified case for data sovereignty in the age of AI
-Date and Time: November 11 at 11:30 a.m. (CET)
-Room: 117 
-Session code: SPS53
+Date and Time: November 11 at 11:30 a.m. (CET) Room: 117 Session code: SPS53
 Data integrity is the precondition for trustworthy AI. When the data feeding your AI is incomplete or detached from its origin, the outputs carry that uncertainty. That integrity depends on sovereignty — the ability to access, recover, and verify your data independently. Leave this session with a practical framework for evaluating true recoverability, and a stronger sense of why sovereignty, governance, and AI strategy are inseparable.
 You will leave this session with:
-- A clearer understanding of why data sovereignty is foundational to a trustworthy single point of truth
-- A framework for evaluating whether your organization can truly access and recover its data independently of the platforms it runs on
-- Practical insight into how SaaS environments quietly erode data control — and what the accountability gap looks like in practice
+A clearer understanding of why data sovereignty is foundational to a trustworthy single point of truth
+A framework for evaluating whether your organization can truly access and recover its data independently of the platforms it runs on
+Practical insight into how SaaS environments quietly erode data control — and what the accountability gap looks like in practice
 Kim Larsen, Group Chief Information Security Officer (CISO), Keepit
+Europe
 November 16-17, 2026 | London, UKGartner IT Infrastructure, Operations & Cloud Strategies Conference 2026
 Meet Keepit at Gartner IT Infrastructure, Operations & Cloud Strategies Conference 2026
-With data you can trust, AI becomes something you can rely on, not something you hope is right. Visit our booth to find out why responsible AI adoption starts with an independent source of known-good data you can recover.
-Use LSCE22EDC to save €450 off a full conference pass here.
-Conference URL: Gartner IT IOCS London
-Room: Maritime Suite 25 
-Session code: SPS1 
+With data you can trust, AI becomes something you can rely on, not something you hope is right. Visit booth #412 to find out why responsible AI adoption starts with an independent source of known-good data you can recover.
+Use LSCE22EDC to save €450 on a full conference pass here.
+Keepit: How to Address Data Sovereignty and Regain Control in the Age of AI
+Date and Time: November 16 at 12:00 p.m. (GMT)
+Room: Maritime Suite 25 Session code: SPS1
 As organizations depend more on SaaS and AI, data sovereignty is no longer just about where data resides, but who controls it. I&O leaders will learn how to assess their ability to access, verify, and recover critical data independently. Drawing on real-world resilience experience, this session explores how independent recoverability can reduce cloud dependency, strengthen operational resilience, and support an AI-driven future.
 You will leave this session with:
-- Why data sovereignty increasingly means control and recoverability, not just residency.
-- How SaaS and AI dependencies are changing the operational risk landscape.
-- How to test whether your organization can independently access and recover critical data.
+Why data sovereignty increasingly means control and recoverability, not just residency.
+How SaaS and AI dependencies are changing the operational risk landscape.
+How to test whether your organization can independently access and recover critical data.
 Kim Larsen, Group CISO at Keepit
-Room: Theatre 3 
-Session code: TH30  
+Keepit: Data Sovereignty in Practice â SaaS Recovery Scenarios for the AI Era
+Date and Time: November 17 at 1:30 p.m. (GMT)
+Room: Theatre 3 Session code: TH30
 As AI increases our reliance on SaaS data, what happens when that data is deleted, compromised, or unavailable? This session walks through practical SaaS recovery scenarios and the operational decisions behind them. See how independent access, verified recovery, and a trusted copy of critical data can help I&O teams protect the data AI depends on, reduce recovery risk, and strengthen operational resilience.
 Takeaways
-- See three SaaS recovery scenarios where AI and growing SaaS dependency challenge common recovery assumptions.
-- Understand what independent recovery requires when critical data is deleted, compromised, or unavailable.
-- Learn how to test recoverability and identify gaps before they impact SaaS operations and AI initiatives.
-Neil Rawlins, Solution Engineer Manager, UK&I
-Dan Middleton, Regional VP, UK&I
-November 17-19, 2026 | Marbella, SpainIT & Cybersecurity Meetings
-November 18-19, 2026 | Copenhagen, DenmarkCyber Securityâ¨Festival
-TAP1, Raffinaderivej 10, 2300 KÃ¸benhavn
+See three SaaS recovery scenarios where AI and growing SaaS dependency challenge common recovery assumptions.
+Understand what independent recovery requires when critical data is deleted, compromised, or unavailable.
+Learn how to test recoverability and identify gaps before they impact SaaS operations and AI initiatives.
 Cyber Security Festival is Denmark's cybersecurity event, hosted by Computerworld and TDC Erhverv. On Nov. 18-19 at TAP1 in Copenhagen, it brings together more than 80 speakers and 1,800-plus IT security professionals from public and private organizations for two days of sessions on threat intelligence, AI-driven attacks, cloud security, compliance (NIS2, the AI Act, CRA), and operational resilience.
 Keepit is there among the leading vendors. Catch Morten Aagaard, information security analyst at Keepit, on stage unpacking what real SaaS outages expose about hyperscaler dependence, and swing by booth 2 to talk SaaS data protection and independent backup.
-Conference URL: Cyber Security Festival
 When the cloud goes dark — resilience lessons from the field
-Date and Time: November 18 at 10:55–11:15
-Location: Blue Stage (Blå Scene) 
+Date and Time: November 18 at 10:55–11:15 Location: Blue Stage (Blå Scene)
 Hybrid threats don't announce themselves. They combine cyberattacks, infrastructure sabotage, and geopolitical pressure — and cloud services are a primary target. In this session, Morten Aagaard walks through real-world scenarios where SaaS availability fails and what that exposes for organizations built on hyperscaler infrastructure.
 The session makes the case for keeping backup data outside the platforms it protects, in a location where data residency meets the regulatory requirements that apply to your organization. For European organizations, that means solutions built for European sovereignty requirements — not adapted from global hyperscaler stacks.
-Attendees will leave with a clearer picture of where single-vendor dependencies create blind spots, why data sovereignty is a resilience issue as much as a compliance one, and how independent cloud backup changes the recovery equation when primary access is lost. 
-The session will be held in Danish.
-Morten Aagaard, Information Security Analyst
+Attendees will leave with a clearer picture of where single-vendor dependencies create blind spots, why data sovereignty is a resilience issue as much as a compliance one, and how independent cloud backup changes the recovery equation when primary access is lost.
+AI is a high-stakes game. You can’t control every risk it brings, but you can make sure you always have the power to undo it. Meet our team at the Keepit booth to see how an independent, always-recoverable source of known-good data turns AI from a gamble into a confident move.
+Use LSC45EDC to save $450 on a full conference pass here.
+Join our customer session with Quanta Services! Hear from Michael Amsinck, Chief Product and Technology Officer at Keepit, and Jon Shale, Director of Infrastructure at Quanta Services, on December 9 at 2:45 p.m. (PST).

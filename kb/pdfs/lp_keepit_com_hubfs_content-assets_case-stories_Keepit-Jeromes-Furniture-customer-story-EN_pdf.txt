@@ -1,0 +1,116 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Jeromes-Furniture-customer-story-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-11-08
+
+============================================================
+
+Family-owned business 
+protects business 
+continuity with data 
+protection platform that 
+works
+Customer success story
+
+Family-owned business 
+protects business continuity 
+with data protection 
+platform that works
+Jerome’s Furniture kept running into the same problem: restores from its old backup service 
+failed, in tests and in live recoveries. For a family-owned retailer that’s been in business since 
+1954, that wasn’t a risk worth carrying. Adam Warren, senior director of information 
+technology, and his team searched until they found Keepit to solve their challenges. Now 
+Keepit protects Microsoft 365 and Microsoft Entra ID from a single platform.
+USA
+LOCATION
+Retail
+INDUSTRY
+500
+EMPLOYEES
+Reliable restores, immutability, and 
+compliance drove the decision
+Jerome’s previous backup service covered 
+Google Workspace and Microsoft 365. The team 
+struggled to get reliable backups and hit errors 
+during both test and live restores. “We desperately 
+needed a solid, reliable solution,” Warren says.  
+
+The team evaluated quite a few options before 
+landing on Keepit. They worked with Vp16, a Keepit 
+technology partner, to demo the platform and 
+make the final call.  “The backups and restores 
+must work! Keepit totally fulfills this promise,” he 
+says.  
+
+Jerome’s is based in Southern California and needs 
+its data to stay in the United States for legal and 
+practical reasons. As a retailer, it’s subject to PCI
+Customer success story
+“Cloud platforms have great 
+resiliency, but they aren’t 
+inherently backed up. If a valid 
+but errant or malicious API call 
+says delete something, it’s gone 
+for good. Always have an 
+immutable plan B.”
+Adam Warren  
+Sr. Director of Information Technology  
+Jerome’s Furniture
+2
+
+“When a former employee’s mailbox was lost, Keepit made recovering the 
+archived email a trivial process. Our old solution would have been iffy at best.”
+Adam Warren  
+Sr. Director of Information Technology  
+Jerome’s Furniture
+compliance, CCPA/CPRA, and must maintain strict 
+data protection standards. Encrypted, immutable 
+backups matter too, especially with modern 
+threats like ransomware.
+
+One platform now protects Microsoft 365 
+and Entra ID  
+Keepit replaced the previous service and now 
+covers Jerome’s Microsoft 365 tenant and Entra ID. 
+The team chose to continue protecting Entra ID 
+because it expects its use of Entra and Intune to 
+grow. Keepit stores backup data in dedicated 
+infrastructure, independent of Microsoft.  
+A real-world recovery proved the switch  
+A few years ago, IT needed an email from a former 
+employee’s mailbox. The mailbox had been lost 
+during the account-disabling process, so the 
+archived email had to come from backup.  
+
+Email and Microsoft 365 data support day-to-day 
+business, and slow recovery can get costly. As 
+Warren puts it, reliable backups and restores used 
+to be a constant concern. Now Keepit is “a reliable 
+part of our IT stack.”  
+Customer success story
+3
+
+A plan B is ready for today and tomorrow  
+A family-owned retailer doesn’t have the deep 
+pockets to weather a long outage. With Keepit, 
+Jerome’s has an immutable plan B for its core 
+cloud data, proven in a real recovery. As its use of 
+Entra and Intune grows, that protection is ready to 
+grow with it.  
+About Jerome’s Furniture
+Jerome’s Furniture is a family-owned Southern California furniture retailer in business since 1954. Still owned 
+and operated by the Navarra family, the 500-employee company includes six family members, three of 
+them third-generation retailers. 
+About Vp16 Technologies 
+Vp16 Technologies is a disabled veteran-owned, full-service information management and technology 
+company. It helps organizations in the U.S. lower the costs, risks, and inefficiencies of managing digital data, 
+including backup and archival data. The company also specializes in cybersecurity, data loss protection, and 
+awareness training. 
+Your data. Here today. Here tomorrow.
+Keepit provides a true SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Customer success story
+4

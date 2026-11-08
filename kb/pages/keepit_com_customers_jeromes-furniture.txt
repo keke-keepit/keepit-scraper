@@ -1,0 +1,26 @@
+Source URL: https://www.keepit.com/customers/jeromes-furniture/
+Content type: Web page
+Last modified: 2026-11-05T13:34:38+01:00
+Retrieved: 2026-11-08
+
+============================================================
+
+Family-owned business protects business continuity with data protection platform that works
+Jerome’s Furniture kept running into the same problem: restores from its old backup service failed, in tests and in live recoveries. For a family-owned retailer that’s been in business since 1954, that wasn’t a risk worth carrying. Adam Warren, sr. director of information technology, and his team searched until they found Keepit to solve their challenges. Now Keepit protects Microsoft 365 and Microsoft Entra ID from a single platform.â¯
+Reliable restores, immutability, and compliance drove the decision
+Jerome’s previous backup service covered Google Workspace and Microsoft 365. The team struggled to get reliable backups and hit errors during both test and live restores. “We desperately needed a solid, reliable solution,” Warren says.
+The team evaluated quite a few options before landing on Keepit. They worked with Vp16, a Keepit technology partner, to demo the platform and make the final call.â¯ “The backups and restores must work! Keepit totally fulfills this promise,” he says.â¯
+Jerome’s is based in Southern California and needs its data to stay in the United States for legal and practical reasons. As a retailer, it’s subject to PCI compliance, CCPA/CPRA, and must maintain strict data protection standards. Encrypted, immutable backups matter too, especially with modern threats like ransomware.â¯â¯
+Cloud platforms have great resiliency, but they aren’t inherently backed up. If a valid but errant or malicious API call says delete something, it’s gone for good. Always have an immutable plan B.
+- Adam Warren
+Sr. Director of Information Technology, Jerome’s Furniture
+One platform now protects Microsoft 365 and Entra ID
+Keepit replaced the previous service and now covers Jerome’s Microsoft 365 tenant and Entra ID. The team chose to continue protecting Entra ID because it expects its use of Entra and Intune to grow. Keepit stores backup data in separate, dedicated infrastructure, independent of Microsoft.â¯
+A real-world recovery proved the switch
+A few years ago, IT needed an email from a former employee’s mailbox. The mailbox had been lost during the account-disabling process, so the archived email had to come from backup.â¯
+Email and Microsoft 365 data support day-to-day business, and slow recovery can get costly. As Warren puts it, reliable backups and restores used to be a constant concern. Now Keepit is “a reliable part of our IT stack.”â¯ â¯
+A plan B is ready for today and tomorrow
+A family-owned retailer doesn’t have the deep pockets to weather a long outage. With Keepit, Jerome’s has an immutable plan B for its core cloud data, proven in a real recovery. As its use of Entra and Intune grows, that protection is ready to grow with it.â¯
+When a former employee’s mailbox was lost, Keepit made recovering the archived email a trivial process. Our old solution would have been iffy at best.
+- Adam Warren
+Sr. Director of Information Technology, Jerome’s Furniture

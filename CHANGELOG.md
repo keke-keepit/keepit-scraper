@@ -1,5 +1,24 @@
 # Keepit KB Changelog
 
+## 2026-11-08
+
+Added (8):
+- https://www.keepit.com/customers/jeromes-furniture/
+- https://www.keepit.com/resources/the-path-to-cloud-sovereignty/
+- https://lp.keepit.com/hubfs/Administration/Certificado%20ENS-2026_0145_ES_IN_2026-10-14.pdf
+- https://lp.keepit.com/hubfs/content-assets/EN/TermsOfService-KeepitAS.pdf
+- https://lp.keepit.com/hubfs/content-assets/EN/TermsOfService-KeepitSwedenAB.pdf
+- https://lp.keepit.com/hubfs/content-assets/EN/TermsOfService-KeepitUSAInc.pdf
+- https://lp.keepit.com/hubfs/content-assets/EN/The-path-to-cloud-sovereignty-EN.pdf
+- https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Jeromes-Furniture-customer-story-EN.pdf
+
+Modified (5):
+- https://www.keepit.com/help/microsoft-365-category/exchange-data-restore-behavior/
+- https://www.keepit.com/help/platform-category/find-data-for-recovery/
+- https://www.keepit.com/resources/events/
+- https://www.keepit.com/terms-of-service/
+- https://www.keepit.com/trust-center/
+
 ## 2026-11-01
 
 Added (4):

@@ -1,0 +1,17 @@
+Source URL: https://www.keepit.com/resources/the-path-to-cloud-sovereignty/
+Content type: Web page
+Last modified: 2026-11-02T19:40:39+01:00
+Retrieved: 2026-11-08
+
+============================================================
+
+The path to cloud sovereignty: A guide to the EU Cloud Sovereignty Framework
+Regulations like the NIS2 Directive, the Digital Operational Resilience Act (DORA), and the General Data Protection Regulation (GDPR) already make you accountable for where your data resides, who can access it, and which third parties you depend on. What’s less clear is how to evaluate whether a cloud provider actually meets those expectations.
+That’s the gap the European Commission’s Cloud Sovereignty Framework is designed to close. It isn’t a regulation, and it doesn’t add new legal obligations. It gives you a structured way to assess providers across eight objectives, from legal exposure and data handling to operational independence and supply chain risk. Each objective asks a different question about who is in control. This way, the abstract concept of sovereignty becomes something you can evaluate, compare, and document.
+Our guide walks you through all eight objectives, their contributing factors, and how Keepit approaches each of these.
+Here’s what you’ll learn:
+- How the framework turns sovereignty into a repeatable evaluation through clearly defined objectives and contributing factors
+- What each objective asks about who is in control, from ownership and legal exposure to supply chain, security, and environmental sustainability
+- How Keepit, an EU-based company that owns and operates its own infrastructure, addresses each objective
+- Which questions to ask your provider, such as which country’s law governs your contract and who else touches your data
+Download the guide to evaluate providers with confidence, and see how an independent, vendor-neutral cloud supports your sovereignty requirements.

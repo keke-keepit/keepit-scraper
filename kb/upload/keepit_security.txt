@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — SECURITY
-Generated: 2026-11-01
+Generated: 2026-11-08
 Pages: 8
 ============================================================
 
@@ -351,8 +351,8 @@ Trust in the compliance of your data protection strategy
 
 Source URL: https://www.keepit.com/trust-center/
 Content type: Web page
-Last modified: 2026-09-02T22:39:41+02:00
-Retrieved: 2026-09-06
+Last modified: 2026-11-04T23:25:23+01:00
+Retrieved: 2026-11-08
 
 ============================================================
 
@@ -363,6 +363,7 @@ SOC 2 Type II audit reports verify Keepit’s operational controls, assuring cli
 TISAX is a European information security standard developed by the German Association of the Automotive Industry (VDA). It evaluates how effectively organizations protect sensitive information, including customer data and intellectual property.
 TX-RAMP is Texas's state-level cloud security framework that standardizes risk assessment, authorization, and continuous monitoring for cloud services used by state agencies.
 EcoVadis certification is a globally recognized sustainability rating that evaluates a company’s environmental, social, and governance (ESG) performance across its supply chain.
+Spain’s National Security Scheme (Esquema Nacional de Seguridad) sets security requirements for public sector organizations and their suppliers. Our ENS certification demonstrates that the information systems behind our SaaS backup and recovery services meet those requirements.
 ISO 27001, ISO 9001, ISO 22301, ISO 14001, ISO 45001, ISO 50001, PCI DSS, SOC I type II, SOC II type II, Cyber Essentials, EU Code of Conduct, Climate Neutral Data Centre Pact
 EMEA
 London, United Kingdom

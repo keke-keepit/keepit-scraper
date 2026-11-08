@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — DOCUMENTS (PDFs)
-Generated: 2026-11-01
-Documents: 178
+Generated: 2026-11-08
+Documents: 184
 ============================================================
 
 Source URL: https://cppa.ca.gov/regulations/pdf/ccpa_statute.pdf
@@ -8722,6 +8722,287 @@ and we can say, ‘We’ll have it this afternoon.’”
 – Tim Forshaw, Data Centre Manager, Deakin University
 Customer case:
 Deakin University
+
+------------------------------------------------------------
+
+Source URL: https://lp.keepit.com/hubfs/Administration/Certificado%20ENS-2026_0145_ES_IN_2026-10-14.pdf
+Content type: PDF document
+Title: unknown
+Pages: 6
+Retrieved: 2026-11-08
+
+============================================================
+
+Certificado de Conformidad  
+con el Esquema Nacional de Seguridad 
+  
+ 
+ 
+Fecha inicial de certificación (MEDIA):  2026-10-14 
+Fecha de expiración: 2028-10-14 
+  
+  
+ Emitido en Madrid a, 14 de octubre de 2026  
+   Rafael GARCÍA MEIRO 
+CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+AENOR CONFIA S.A.U.
+Génova, 6. 28004 Madrid. España
+Tel. +34 91 432 60 00.- www.aenor.com
+ 
+ 
+  ENS-2026/0145  
+  
+  
+AENOR, certifica que los sistemas de información evaluados 
+todos ellos de categoría MEDIA y los servicios que se relacionan, de: 
+  
+KEEPIT 
+  
+han sido auditados y encontrados conforme con las exigencias del Real Decreto 311/2022, de 3 de 
+mayo, por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración 
+electrónica, según se indica en el correspondiente Informe de Auditoría de 2026-09-16 
+ 
+ 
+ 
+para las actividades:
+Los sistemas de información que dan soporte a los servicios de 
+copia de seguridad y recuperación segura en la nube para 
+aplicaciones SaaS, incluyendo la protección, el almacenamiento y 
+la restauración de datos para los clientes, garantizando el 
+cumplimiento de las normas reglamentarias y de seguridad, según 
+la categorización actual del sistema. 
+ 
+ 
+que se realizan en: 
+Direcciones indicadas en el Anexo
+
+Certificado de Conformidad  
+con el Esquema Nacional de Seguridad 
+ 
+ 
+ 
+ 
+ 
+ENS-2026/0145 
+ 
+ 
+ 
+Anexo al Certificado 
+ 
+   
+Fecha inicial de certificación (MEDIA):  2026-10-14 
+Fecha de expiración: 2028-10-14 
+  
+  
+ Emitido en Madrid a, 14 de octubre de 2026  
+ Rafael GARCÍA MEIRO 
+CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+AENOR CONFIA S.A.U.
+Génova, 6. 28004 Madrid. España
+Tel. +34 91 432 60 00.- www.aenor.com
+ 
+ 
+Establecimientos: 
+PER HENRIK LINGS ALLÉ, 4 7TH. 2100 - KØBENHAVN (DENMARK - 
+Dinamarca) 
+DC: FR4 (FRANKFURT GRIESHEIM) LÄRCHENSTRASSE, 110. 65933 
+- FRANKFURT GRIESHEIM (DARMSTADT - Alemania) 
+DC: FR5 (FRANKFURT) KLEYERSTRASSE, 90. 60326 - FRANKFURT 
+(DARMSTADT - Alemania) 
+DC: FR7 (FRANKFURT) GUTLEUTSTRASSE, 310. 60327 - 
+FRANKFURT (DARMSTADT - Alemania) 
+DC. SITE A INDUSTRIPARKEN, 35. 2750 - BALLERUP (Dinamarca) 
+DC: SITE B OVERDREVSVEJ, 12. 2765 - SMØRUM (Dinamarca)
+
+Certificado de Conformidad  
+con el Esquema Nacional de Seguridad 
+  
+ 
+ 
+Fecha inicial de certificación (MEDIA):  2026-10-14 
+Fecha de expiración: 2028-10-14 
+  
+  
+ Emitido en Madrid a, 14 de octubre de 2026  
+   Rafael GARCÍA MEIRO 
+CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+AENOR CONFIA S.A.U.
+Génova, 6. 28004 Madrid. España
+Tel. +34 91 432 60 00.- www.aenor.com
+ 
+ 
+  ENS-2026/0145  
+  
+  
+ 
+Anexo al Certificado 
+  
+ 
+CATEGORÍA
+ 
+MEDIA 
+C 
+I 
+T 
+A 
+D 
+Total de Medidas
+Medio
+Medio
+Medio
+Medio
+Medio
+68
+
+Certificate of conformity 
+with the National Security Framework 
+  
+ 
+ 
+Initial certification date (MEDIUM):  2026-10-14 
+Validity date: 2028-10-14 
+  
+  
+ Issued in Madrid on 14 October 2026 
+ Rafael GARCÍA MEIRO  
+CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+AENOR CONFIA S.A.U.
+Génova, 6. 28004 Madrid. España
+Tel. +34 91 432 60 00.- www.aenor.com
+ 
+ 
+  ENS-2026/0145  
+  
+  
+AENOR certifies that the information systems assessed 
+all of them of MEDUM category, and the services that are related, of: 
+  
+KEEPIT 
+  
+have been audited and found to comply with the requirements of of the Royal Decree 311/2022, of 
+May 3rd, which regulates the National Security Framework, as indicated in the corresponding  2026-
+09-16 Audit Report 
+ 
+ 
+ 
+Scope:
+The information systems that support the services of secure 
+cloud-based backup and recovery services for SaaS applications 
+including data protection, storage, and restoration for the clients, 
+ensuring compliance with regulatory and security standards, 
+according to the current system categorization. 
+ 
+ 
+that are carried out in: 
+SEE ADDRESSES SPECIFIED IN ANNEX
+
+Certificate of conformity 
+with the National Security Framework 
+ 
+ 
+ 
+ 
+ 
+ENS-2026/0145 
+ 
+ 
+ 
+Annex to Certificate 
+ 
+Initial certification date (MEDIUM):  2026-10-14 
+Validity date: 2028-10-14 
+  
+  
+ Issued in Madrid on 14 October 2026 
+ Rafael GARCÍA MEIRO  
+CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+AENOR CONFIA S.A.U.
+Génova, 6. 28004 Madrid. España
+Tel. +34 91 432 60 00.- www.aenor.com
+ 
+ 
+establishments: 
+PER HENRIK LINGS ALLÉ, 4 7TH. 2100 - KØBENHAVN (DENMARK - 
+Dinamarca) 
+DC: FR4 (FRANKFURT GRIESHEIM) LÄRCHENSTRASSE, 110. 65933 
+- FRANKFURT GRIESHEIM (DARMSTADT - Alemania) 
+DC: FR5 (FRANKFURT) KLEYERSTRASSE, 90. 60326 - FRANKFURT 
+(DARMSTADT - Alemania) 
+DC: FR7 (FRANKFURT) GUTLEUTSTRASSE, 310. 60327 - 
+FRANKFURT (DARMSTADT - Alemania) 
+DC. SITE A INDUSTRIPARKEN, 35. 2750 - BALLERUP (Dinamarca) 
+DC: SITE B OVERDREVSVEJ, 12. 2765 - SMØRUM (Dinamarca)
+
+Certificate of conformity 
+with the National Security Framework 
+  
+ 
+ 
+Initial certification date (MEDIUM):  2026-10-14 
+Validity date: 2028-10-14 
+  
+  
+ Issued in Madrid on 14 October 2026 
+ Rafael GARCÍA MEIRO  
+CEO 
+ 
+ 
+ 
+ 
+ 
+ 
+AENOR CONFIA S.A.U.
+Génova, 6. 28004 Madrid. España
+Tel. +34 91 432 60 00.- www.aenor.com
+ 
+ 
+  ENS-2026/0145  
+  
+  
+Annex to Certificate 
+ 
+CATEGORY
+ 
+MEDIUM 
+C 
+I 
+T 
+A 
+A 
+Total 
+Measurements
+Medium Medium Medium Medium Medium
+68
 
 ------------------------------------------------------------
 
@@ -29025,6 +29306,2048 @@ Hold relevant security certifications
 
 ------------------------------------------------------------
 
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/TermsOfService-KeepitAS.pdf
+Content type: PDF document
+Title: unknown
+Pages: 9
+Retrieved: 2026-11-08
+
+============================================================
+
+1 
+TERMS OF SERVICE (KEEPIT A/S) 
+1. 
+BACKGROUND AND PURPOSE 
+1.1. 
+Keepit provides a data protection platform for cloud-to-cloud backup and recovery services.  
+1.2. 
+The Agreement sets forth the legally binding terms and conditions governing the Customer’s right to use the 
+Services.  
+2. 
+DEFINITIONS 
+2.1. 
+In these Terms all capitalized terms used shall have the meanings given to them below: 
+2.2. 
+Agreement means the Order Form and all annexes and schedules thereto, including these Terms.  
+2.3. 
+Account means the unique user credentials, including a user identification name and password issued to an 
+authorized user to access and use the Services.  
+2.4. 
+Affiliate means, with respect to a Party, any corporation or other business entity controlled by, controlling or 
+under common control with that Party whereby control means (i) the direct or indirect ownership of more than 
+50 % (fifty percent) of the equity interest in such cooperation or business entity, or (ii) the ability in fact to control 
+the management decisions of such corporation or business entity. 
+2.5. 
+Add-On means an additional or optional service, feature, functionality or software component that Keepit makes 
+available in addition to the standard Services, as identified in the Order Form. An Add-On may be subject to 
+Supplementary Terms. 
+2.6. 
+Authorized Reseller means an entity appointed by Keepit to resell the Services to the Customer.  
+2.7. 
+Confidential Information means any information of a confidential or non-public nature disclosed by one Party 
+as a disclosing Party to the other Party as a receiving Party that is either designated as confidential or proprietary 
+at the time of disclosure or should be reasonably understood to be confidential in light of the nature of the 
+information and the circumstances surrounding disclosure.  
+2.8. 
+Customer means the Customer identified in the Order Form.   
+2.9. 
+Customer Content means all data, including text, sound, video or image files, and software that the Customer 
+stores, generates, accesses, imports, exports, receives or sends through the Customer’s use of the SaaS 
+Workload(s). For example, Customer Content will include emails and attachments, SharePoint Online site 
+content, or instant messaging conversations. 
+2.10. 
+Entitlement means the volume of the Services and any Add-On the Customer is entitled to use, measured by 
+the use metric specified in the applicable Order Form. The applicable use metrics, and the methodology by which 
+Keepit measures and counts consumption, are described in the Keepit Service Guide. 
+2.11. 
+Fees means all amounts payable by the Customer for the Services, as specified in the applicable Order Form. 
+2.12. 
+Keepit means Keepit A/S, Per Henrik Lings Allé 4, 7th floor, 2100 Copenhagen OE, Denmark. 
+2.13. 
+Keepit Service Guide means the document published by Keepit describing the features, functionalities, service 
+tiers, support levels, and applicable terms of use of the Services, as updated by Keepit from time to time. Keepit 
+Service Guide is available at the Keepit legal page or as otherwise notified to the Customer. The current version 
+is available at: https://www.keepit.com/service-guide/. 
+2.14. 
+Managed Service Provider means an Authorized Reseller that in addition to reselling the Services remotely 
+manages the Customer’s IT infrastructure, and through access to the Customer’s SaaS Workload(s) and the 
+Services provides ongoing and regular support and active administration of the aforementioned.  
+2.15. 
+Order Form means an ordering document specifying the Services to be provided to the Customer, issued by 
+either  Keepit or an Authorized Reseller. By accepting such ordering document, the Customer agrees to be bound 
+by the Agreement. 
+2.16. 
+Party means either the Customer or Keepit individually;  
+2.17. 
+Parties means the Customer and Keepit jointly. 
+2.18. 
+Representatives means employees, agents, suppliers and other third parties collectively.  
+2.19. 
+SaaS Workload(s) means the third-party cloud solution(s) mentioned in the Order Form for which the Customer 
+can use the Services to provide backup and recovery, such as Microsoft 365. 
+2.20. 
+Service Credits means additional days of service which are added to the term of the relevant Order Form.  
+2.21. 
+Services means the Keepit cloud backup and recovery services, including any feature or functionality add-ons 
+(each an Add-On), and any modified versions of, and upgrades, updates and additions to such services supplied 
+by Keepit to the Customer, as identified in the Order Form.
+
+2 
+2.22. 
+Subscription Term means the period during which the Customer is entitled to use the Services, as specified in 
+the Order Form, including any renewal term. 
+2.23. 
+Supplementary Terms means any additional terms provided or published by Keepit that apply to a specific Add-
+On, Service tier or SaaS Workload, as identified in or attached to the Order Form.   
+2.24. 
+Terms mean these Terms of Service. 
+2.25. 
+Use Limitations means any use limitations or restrictions with respect to the Customer’s use of the Services, 
+as set forth in the applicable Order Form, Keepit Service Guide, any Supplementary Terms or these Terms. 
+2.26. 
+User(s) means user accounts with different privileges of access and usage to the Services under the Account. 
+2.27. 
+UserID means a unique user identification name and password which each User will receive in order to access 
+the Services.  
+3. 
+SERVICES 
+3.1. 
+The Services provide cloud-to-cloud backup and recovery for the SaaS Workload(s) stated in the Order Form. 
+In accordance with the Agreement, the Customer will have access to the specified Services for the duration of 
+the term set out in the Order Form and any renewals thereof.  
+3.2. 
+The Services, generally stated, enable the Customer through the Services to extract Customer Content from the 
+SaaS Workload(s) and create immutable copies thereof on the Keepit platform, recover Customer Content and 
+restore Customer Content back to where the Customer Content originally resided and download Customer 
+Content using the export/restore tools offered.  
+3.3. 
+Keepit will make the Services available to the Customer in accordance with the Service Level Agreement set out 
+in Section 10, subject to the terms of the Agreement. The Customer must maintain valid and active access to 
+the SaaS Workload(s) and pay all costs associated therewith. 
+3.4. 
+Keepit may make Add-Ons available to the Customer. An Add-On ordered by the Customer forms part of the 
+Services and is provided subject to the Agreement, save that where Supplementary Terms apply to an Add-On, 
+those Supplementary Terms govern that Add-On to the extent of any conflict with these Terms, including as 
+regards use metrics, measurement, pricing and any software licensed to the Customer as part of the Add-On. 
+The features, functionalities, service levels and measurement methodology applicable to each Add-On are 
+described in the Keepit Service Guide and the applicable Order Form.  
+4. 
+PROOF OF CONCEPT AND FREE SERVICES 
+4.1. 
+Services provided for proof of concept (for trials or evaluations) are provided at no charge, and their use will be 
+for a limited duration solely determined by Keepit. 
+4.2. 
+From time to time, Keepit may make certain Services available for full use, i.e., not subject to limited proof of 
+concept purposes at no charge. These free Services may have limited features, functions, and other technical 
+limitations compared to paid versions. 
+4.3. 
+Notwithstanding anything to the contrary in these Terms, Keepit does not provide maintenance and support, 
+warranties, or indemnification for Services provided as part of a proof of concept or as free Services, except for 
+free Services delivered in conjunction with paid Services.  
+4.4. 
+Upon expiration or termination of a proof of concept or free Services period, Keepit shall delete all Customer 
+Content associated with such proof of concept or free Services no later than thirty (30) days, unless the Customer 
+converts to a paid subscription for the Services. 
+5. 
+USE OF SERVICES  
+5.1. 
+Keepit grants to the Customer, in accordance with the Agreement and subject to the Use Limitations, a limited, 
+non-exclusive, revocable, non-sublicensable, non-transferable right to use and access the Services solely for 
+the Customer's internal business purposes. The Customer will not be provided with and shall have no right to 
+any software code. The foregoing is subject to any license to install and use software expressly granted to the 
+Customer under applicable Supplementary Terms. The Customer may permit its Affiliates to use and access the 
+Services for their respective internal business purposes. In addition, the Customer may, subject to these Terms, 
+permit third-party contractors, Managed Service Providers, agents and outsourcers to use and access the 
+Services solely on behalf of and for the benefit of the Customer or its Affiliates. The Customer shall be fully 
+responsible and liable for all use of and access to the Services by its Affiliates and any third parties it permits to 
+use or access the Services, including but not limited to third-party contractors, Managed Service Providers, 
+agents and outsourcers, to the same extent and subject to the same limitation as the Customer is responsible 
+and liable under this Agreement. The Customer shall ensure that all such Affiliates and third parties comply with 
+the terms and conditions of this Agreement, and any breach or violation by such Affiliates or third parties shall 
+be deemed a breach by the Customer.
+
+3 
+5.2. 
+The Customer will be assigned an Account in connection with the provision of the Services. Within the Account, 
+the Customer may create and authorize additional Users, each with a UserID.  
+5.3. 
+The Customer is responsible for all activities that occur under the Account and any use of any UserID. Keepit 
+reserves the right to suspend and, subject to prior notification, terminate the Account or any UserID that Keepit 
+reasonably determines may have been used by an unauthorized third party or otherwise used improperly. The 
+Customer agrees to immediately notify Keepit of any unauthorized use of an UserID or the Account or any other 
+breach of security.  
+5.4. 
+The Customer is responsible for maintaining security around credentials for accessing the Services and, when 
+applicable, security around the Customer identity provider which may be used to authenticate against the 
+Services. 
+5.5. 
+The Customer agrees to: (i) provide and maintain true, accurate, current, and complete information when the 
+Customer registers for the Services; (ii) update such information to keep it true, accurate, current and complete; 
+and (iii) only open up an Account for the Customer. If the Customer provides any information that is untrue, 
+inaccurate, not current or incomplete, or Keepit has reasonable grounds to suspect that such information is 
+untrue, inaccurate, not current or incomplete, and such information materially affects Keepit's ability to provide 
+the Services or fulfil its obligations (including invoicing and account management), Keepit has the right to 
+suspend and, subject to prior notification and possibility to rectify such information, terminate the Account and to 
+refuse to provide the Customer any current or future use of the Services (or any portion thereof). 
+5.6. 
+The Customer is (i) responsible for any necessary hardware, software and connectivity required to access the 
+World Wide Web and to use the Services, including without limitation, any fees associated with establishing and 
+maintaining such access; (ii) responsible for Users' compliance with the Agreement, (iii) solely responsible for 
+the accuracy, quality, integrity and legality in all applicable jurisdictions of any Customer Content, the means by 
+which the Customer acquired the Customer Content, and for securing Keepit’s right to retrieve and store the 
+Customer Content in connection with the Services, (iv) responsible for preventing unauthorized access to or use 
+of the Services through the Customer’s Account or Users, including implementing reasonable security measures 
+within the Customer’s systems and networks, and (v) permitted to use the Services only in accordance with the 
+online materials furnished by Keepit that describe the features, functionality or operation of the Services and in 
+a manner consistent with all applicable laws and regulations. 
+5.7. 
+The Customer will not make the Services available to any third party for the purpose of selling, reselling, renting 
+or leasing the Services. 
+5.8. 
+Keepit may collect and process Account information, general SaaS Workload tenant information, and technical 
+and operational data relating to the Customer’s use of the Services (such as consumption of the Services against 
+the Customer's Entitlement, configuration settings, and consumption patterns) solely for the following purposes: 
+(i) verifying compliance with the Use Limitations set forth in the Agreement; (ii) provisioning, maintaining, 
+improving, and developing Keepit's services; (iii) issuing service notifications, operational alerts, and 
+communications reasonably necessary for the Customer's use of the Services; and (iv) preparing and providing 
+the Customer with reports, observations, and recommendations regarding the Customer’s use of the Services, 
+including suggested improvements. Keepit may also aggregate and anonymise such data for service analytics 
+provided that the aggregated data does not identify the Customer. 
+5.9. 
+Where a Service or Add-On includes a software component that Keepit makes available for the Customer to 
+install and operate in the Customer's own environment (the "Software"), Keepit grants the Customer a non-
+exclusive, non-transferable, non-sublicensable license to install, configure and use that Software solely for the 
+Customer's internal business purposes and solely in connection with the Services, for the Subscription Term 
+applicable to the Service or Add-On. Keepit will make the Software available by a method selected by Keepit, as 
+described in the Keepit Service Guide or the applicable Order Form. 
+5.10. 
+The Customer shall not, and shall not permit any third party to: (i) translate, adapt, modify or create derivative 
+works based on the Software; (ii) sell, distribute, rent, lease, lend, sublicense, transfer or otherwise make the 
+Software available to any third party; (iii) reproduce the Software other than as necessary for its permitted use; 
+(iv) decompile, disassemble or reverse engineer the Software, or otherwise attempt to derive its source code, 
+algorithms or structures, except to the extent such restriction is prohibited by applicable law; (v) use the Software 
+to develop, distribute or make available products or services to third parties; or (vi) use the Software other than 
+as expressly permitted under the Agreement. 
+5.11. 
+The Software may include components licensed from third parties. Those components are licensed under the 
+terms accompanying them and not under these Terms. Keepit will make a list of such components available to 
+the Customer on request. 
+5.12. 
+Keepit has no responsibility for any claim arising from a modification of the Software made by anyone other than 
+Keepit, unless Keepit has approved the modification in writing. Support for the Software is provided as described 
+in the Keepit Service Guide.
+
+4 
+5.13. 
+On expiry or termination of the Subscription Term for the Service or Add-On, the license granted in Section 5.9 
+terminates and the Customer shall cease all use of the Software, uninstall and delete all copies in its possession 
+or control and, on Keepit's request, certify its compliance with this Section in writing. This Section survives 
+termination or expiration of the Agreement. 
+6. 
+ACCEPTABLE USE POLICY 
+6.1. 
+Customer agrees not to use the Services knowingly to collect, upload, transmit, display, or distribute any 
+Customer Content (i) that violates third-party rights; or (ii) that is in violation of any law, regulation, obligations or 
+restrictions imposed by any third party.  
+6.2. 
+In addition, the Customer agrees to take reasonable precautions to avoid and not knowingly to: (i) upload, 
+transmit, or distribute to or through the Services any computer viruses, worms, time bombs, Trojan horses or any 
+software intended to damage or alter a computer system or data; (ii) interfere with, disrupt, or create an undue 
+burden on servers or networks connected to the Services, or violate the regulations, policies or procedures of 
+such networks; (iii) attempt to gain unauthorized access to the Services (or to other computer systems or 
+networks connected to or used together with the Services), whether through password mining or any other 
+means; (iv) harass or interfere with any other User’s use of the Services; or (v) use software or automated agents 
+or scripts to produce multiple Accounts on the Services (except for Users allowed hereunder or otherwise agreed 
+by the Parties). Keepit may, at its discretion, apply automatic monitoring, filtering, and deny performance of 
+activities that do not comply with the Agreement. 
+6.3. 
+Subject to the following, Keepit reserves the right to modify or discontinue any features, functionality, and other 
+attributes of the Services at any time in its sole discretion. Keepit will provide written notice to the Customer prior 
+to any discontinuation or any material changes to the Services. Keepit will not be obliged to provide such notice, 
+if the discontinuation is necessary to address an emergency or threat to the security or integrity of the Services, 
+respond to claims or litigation, or comply with any appliable law or regulatory requirements or requests of a 
+government entity. Notwithstanding the foregoing, Keepit will not exercise its rights under this Section in a 
+manner that prevents the Customer from performing data protection of, or recovering, Customer Content from 
+the SaaS Workload(s) specified in the applicable Order Form. 
+7. 
+FEES, PAYMENT AND VERIFICATION  
+7.1. 
+As consideration for Keepit’s provision of the Services under the Agreement, the Customer will pay the Fees as 
+specified in the Order Form. Keepit reserves the right (in addition to any other rights or remedies Keepit may 
+have) to discontinue the Services and suspend all UserID’s and the Customer’s access to the Services upon 
+prior written notice if any Fees owed are overdue. Before exercising this right, Keepit or the Authorized Reseller 
+will provide the Customer with prior written notice and send two payment reminders. If the Customer fails to pay 
+the outstanding amount within ten (10) days of the second written reminder, Keepit may suspend the Services 
+until such amounts are paid in full. 
+7.2. 
+Each Party shall individually bear the bank charges levied by their own bank in connection with the transfer, 
+payment of or receipt of any Fees.  
+7.3. 
+Where the Order Form specifies a minimum commitment for the Services or for an Add-On, Keepit and/or the 
+Authorized Reseller is entitled to invoice the Customer for that minimum commitment for each billing period 
+during the Subscription Term, regardless of the Customer's actual consumption. Consumption in excess of the 
+minimum commitment is subject to true-up in accordance with Section 7.4 or, where applicable, the 
+Supplementary Terms. 
+7.4. 
+Keepit and/or the Authorized Reseller is entitled to conduct periodic true-up adjustments based on the 
+Customer's actual consumption of the Services compared to its Entitlement as specified in the Order Form. 
+Where the Customer's measured consumption in any measurement period exceeds its Entitlement or any 
+minimum commitment, Keepit and/or the Authorized Reseller can require the Customer to increase its 
+Entitlement by purchasing additional whole units sufficient to cover the Customer's latest measured consumption 
+plus a headroom of ten percent (10%), or such other percentage as is stated in the applicable Order Form. The 
+increased Entitlement takes effect for the remainder of the Subscription Term and is coterminous with it, is 
+charged at the prices set out in the applicable Order Form, and is invoiced in the period following the period in 
+which the excess consumption was measured. 
+7.5. 
+Prices, use metrics and units of measurement not stated in these Terms are set out in the applicable Order Form 
+and the Keepit Service Guide. 
+8. 
+DATA RETENTION  
+8.1. 
+The Customer can configure data retention rules for the Customer Content within the Services. Data retention 
+refers to the amount of time a data object remains in the backup after being deleted from the Customer’s SaaS
+
+5 
+Workload(s) backed up by the Services. The Order Form will describe the data retention included in the 
+Agreement. 
+8.2. 
+Notwithstanding Section 8.1 above, Keepit will retain all Customer Content processed under the Agreement for 
+30 days after the deletion of the Customer's account or termination thereof. This ’deletion retention period’ will 
+ensure that the Customer's access to its Customer Content can be re-established after any conceivable targeted 
+attack against the Customer's primary data and backup data. After expiration of the ‘deletion retention’ period, 
+Keepit will delete all records of the Customer Content without undue delay. 
+9. 
+DATA CENTER LOCATION 
+9.1. 
+The Customer determines on the Order Form from which Keepit data center location the Services shall be 
+provided by Keepit. 
+9.2. 
+The Customer appoints Keepit to transfer Customer Content to the Services which will be stored exclusively in 
+the location chosen by the Customer.  
+9.3. 
+It is the responsibility of the Customer to choose a data center location suitable for the storage of Customer 
+Content. For example, if Customer Content may not be exported out of the EU, then the Customer must choose 
+a data center location within the EU for the Services. 
+9.4. 
+Keepit does not control or limit the locations from which the Services can be accessed by the Customer, and to 
+or from which location transfers can be made by the Customer. 
+10. 
+SERVICE LEVEL AGREEMENT (SLA) 
+10.1. 
+Access to the Services relies on the Keepit web application and the API front-end servers providing data thereto, 
+in the data center location where the Customer has chosen to have the Services delivered. 
+10.2. 
+Keepit will monitor the availability of the API front-end servers. In the event that all front-end servers for the 
+location chosen by the Customer are unavailable for HTTPS services for more than one full minute, this will count 
+as “downtime”. Scheduled maintenance windows are excluded from this downtime. Keepit will notify any 
+significant outage in availability known to Keepit, including scheduled maintenance, on its website, at 
+https://status.keepit.com/. The Customer must subscribe there to receive direct notifications regarding 
+availability. In case product functionality is unavailable and this is not covered by the aforementioned monitoring, 
+this must be raised as a support issue instead and will not count as "downtime". Keepit will upon request provide 
+access to an automated availability report. See Section 20 for details on support. 
+10.3. 
+Keepit will make the Keepit platform available to the Customer with 99.9% uptime in any calendar quarter, 
+measured as total minutes in the quarter minus Downtime, divided by total minutes in the quarter (the "Availability 
+Commitment"). The Availability Commitment applies solely to the Keepit platform. Keepit will use commercially 
+reasonable efforts to maintain the availability and performance of any Add-On or other component of the Services 
+not expressly covered by the Availability Commitment. Service levels applicable to a specific Add-On, if any, are 
+as set out in the Keepit Service Guide or the applicable Supplementary Terms. No Availability Commitment or 
+Service Credit applies to software installed or operated in the Customer's own environment. 
+If Keepit fails to meet the Availability Commitment in any calendar quarter falling within the term of an Order 
+Form, the Customer will be eligible to receive Service Credits as set out in Table 1 below. To claim Service 
+Credits, the Customer must submit a written claim by email to support@keepit.com within thirty (30) days of the 
+end of the relevant calendar quarter, providing details of the dates and duration of the Downtime claimed. Keepit 
+may require the Customer to provide further information in support of a claim and may reject claims that are not 
+submitted in accordance with this Section. Service Credits may only be applied against the Order Form in respect 
+of which the Availability Commitment was not met, have no cash value, are non-transferable, and constitute the 
+Customer's sole and exclusive remedy for any failure by Keepit to meet the Availability Commitment.Table 1: 
+Service Credits 
+Availability  
+Service Credits 
+100 % - 99,90 % 
+N/A 
+99,89 % - 99,8 % 
+1 day added to the Customer’s current Order Form term (1 free day) 
+99,79 % - 99,0 % 
+5 days added to the Customer’s current Order Form term (5 free days) 
+98,99 % - 95,0% 
+10 days added to the Customer’s current Order Form term (10 free days) 
+Lower than 95,0% 
+20 days added to the Customer’s current Order Form term (20 free days) 
+10.4. 
+Keepit will initiate at least one (1) backup per day per SaaS Workload, unless the Customer configures different 
+parameters within the Services (including scope and timing). Where a backup is already in progress, a new 
+backup will not commence until the running backup is complete. The time required to complete a backup depends
+
+6 
+on factors outside Keepit's control, including the volume and nature of the Customer Content to be backed up, 
+and Keepit makes no commitment as to backup completion time. Initial uploads, large dataset changes, 
+significant backup reconfigurations, and similar events may cause a backup to run for longer than usual.The 
+operational status of the data centers and incident reports are available at https://status.keepit.com/. 
+11. 
+SLA EXCLUSIONS 
+11.1. 
+The SLA does not apply to any performance or availability issues due to: 
+a) 
+factors outside Keepit’s reasonable control (for example outage by a SaaS Workload(s), or a force majeure 
+event); 
+b) 
+the Customer's, end-user's, or any third-party's equipment, services, actions or lack thereof; and/or 
+c) 
+Keepit’s scheduled maintenance or version upgrades; and/or 
+d) 
+any software installed, configured or operated by the Customer in the Customer's own environment, 
+including software licensed to the Customer as part of an Add-On. 
+12. 
+INDEMNIFICATION 
+12.1. 
+Keepit will defend, indemnify, and hold the Customer harmless from any claim asserting that the Services infringe 
+any intellectual property right of a third party. In such an event Keepit will pay any and all damages awarded by 
+a court and actually paid by the Customer or agreed to in settlement by Keepit and attributable to such claim. 
+Customer shall promptly notify Keepit of any such claims. Keepit shall, in any event, have an irrevocable right to 
+take over the handling of the claim or join any ongoing court proceedings relating to such claim, both at its own 
+expense and thus institute proceedings or enter into settlements concerning the alleged infringements. 
+12.2. 
+If the Services are found to infringe, or if Keepit determines in its sole opinion that the Services are likely to be 
+found to infringe the intellectual property right of a third party, then Keepit will either; a) obtain the right for the 
+Customer to use the Services; b) bring the infringement to an end by modifying or replacing the Services with 
+another service which possesses substantially the same functions as the Services, or c) if a or b are not 
+commercially reasonable Keepit may terminate the Agreement with immediate effect against repayment of the 
+remaining unused portion of the Fees prepaid by the Customer from the date of termination. 
+12.3. 
+The Customer agrees to defend or settle, at the Customer's expense, any third-party claim against Keepit 
+alleging that the Customer's provision or use of Customer Content violates or infringed a third party's rights, and 
+to pay damages finally awarded by a court or agreed in settlement. 
+13. 
+LIMITATION OF LIABILITY 
+13.1. 
+No limitation on liability shall apply to Keepit’s liability to pay damages finally awarded pursuant to Section 12 
+(Indemnification). 
+13.2. 
+THE AGGREGATED LIABILITY OF EACH PARTY FOR ANY NON-PERFORMANCE OF ITS OBLIGATIONS 
+UNDER THE AGREEMENT SHALL IN NO EVENT EXCEED AN AMOUNT EQUAL TO THE FEES PAID 
+DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING FORMAL WRITTEN NOTICE OF THE 
+CLAIM FOR LIABILITY. UNDER NO CIRCUMSTANCES, INCLUDING ANY INFRINGEMENT CLAIMS, SHALL 
+THE PARTIES BE LIABLE FOR ANY LOSS OF PROFIT OR INDIRECT OR CONSEQUENTIAL LOSSES, 
+INCLUDING BUT NOT LIMITED TO: RE-PROCUREMENT COSTS, INTERRUPTED COMMUNICATIONS, 
+LOSS OF GOODWILL, LOSS OF REVENUE, OR FOR ANY OTHER SPECIAL, INCIDENTAL, PUNITIVE OR 
+CONSEQUENTIAL DAMAGES, EVEN IF A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH 
+DAMAGES.  
+13.3. 
+Nothing in this Section shall limit the Customer's payment obligations under the Agreement. 
+14. 
+DISCLAIMER  
+14.1. 
+KEEPIT MAKES NO WARRANTY CONCERNING THE SERVICES, AND THE SERVICES AND ALL DATA, 
+MATERIALS, AND DOCUMENTATION PROVIDED IN CONNECTION WITH THIS AGREEMENT ARE 
+PROVIDED “AS IS” AND “AS AVAILABLE”. KEEPIT DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS, 
+IMPLIED, STATUTORY, BY OPERATION OF LAW OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, 
+ANY IMPLIED WARRANTIES OF NONINFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A 
+PARTICULAR PURPOSE OR ANY IMPLIED WARRANTIES ARISING OUT OF COURSE OF PERFORMANCE, 
+COURSE OF DEALING OR USAGE OF TRADE. KEEPIT DOES NOT WARRANT THAT THE SERVICES WILL 
+BE PROVIDED ERROR-FREE, UNINTERRUPTED, COMPLETELY SECURE, OR VIRUS-FREE. KEEPIT IS 
+NOT RESPONSIBLE FOR ANY LOSS OF DATA OR HARM DONE TO CUSTOMER COMPUTER, SYSTEMS 
+OR OTHER EQUIPMENT ARISING OUT OF OR RELATING TO CUSTOMER’S USE OF THE SERVICES. 
+CUSTOMER UNDERSTAND AND AGREE THAT USE OF THE SERVICES IS AT CUSTOMER’S OWN RISK 
+AND DISCRETION.
+
+7 
+15. 
+FORCE MAJEURE 
+15.1. 
+Neither Party shall be in breach of the Agreement nor be considered liable towards the other Party for delay in 
+performing, or failure to perform, any of its obligations under the Agreement if such delay or failure results from 
+events, circumstances or causes beyond the reasonable control of the relevant Party which could not have been 
+taken into account at signing and could not reasonably have been avoided nor surmounted by the relevant Party. 
+15.2. 
+The following circumstances are considered force majeure: war, civil war, natural disasters, or other 
+extraordinary events outside of the Party’s reasonable control. 
+15.3. 
+If either Party is prevented from or delayed in performing any of its obligations under the Agreement by reason 
+of a force majeure, such Party shall notify the other Party in writing as soon as practicable after the onset of such 
+force majeure. The Party’s obligations will be suspended until the time when the Party is again able to meet its 
+obligations. If the obstacle lasts more than sixty (60) days, the other Party will be entitled to terminate the 
+Agreement with immediate effect by providing written notice.  
+16. 
+CONFIDENTIAL INFORMATION 
+16.1. 
+Each Party shall comply with these legal requirements pertaining to Confidential Information and treat Customer 
+Content as such.  
+16.2. 
+Each Party undertakes to not disclose Confidential Information to any third party at any time without the other 
+Party's prior written consent, except as otherwise permitted hereunder.  
+16.3. 
+Each Party undertakes to implement the necessary measures in order to prevent unauthorized third-party access 
+to such Confidential Information and to only use Confidential Information for the performance of these Terms.  
+16.4. 
+Each Party shall ensure that access to Confidential Information is limited to authorized Representatives on a 
+need-to-know basis and that such Representatives are subject to confidentiality obligations at least as restrictive 
+as the terms of the Agreement (provided that the Party disclosing the Confidential Information to its 
+Representatives shall be responsible for any actions of its Representatives).  
+16.5. 
+Either Party may disclose certain Confidential Information of the disclosing Party, without violating the obligations 
+of the Agreement, to the extent such disclosure is required by a valid and effective subpoena, order or other 
+document issued by a court, governmental body or competent jurisdiction or stock exchange, provided that the 
+receiving Party provides the disclosing Party with a prompt and practicable written notice of the existence, terms 
+and circumstances of such a disclosure and makes a reasonable effort to obtain, or to assist the disclosing Party 
+in obtaining, a protective order preventing or limiting the disclosure and/or waiving the receiving Party’s 
+compliance with the provisions of the Agreement. In the event that such protective order or other protection is 
+denied and that the receiving Party or any of its Representatives are nonetheless legally compelled or requested 
+to disclose such information, it or its Representatives, as the case may be, will furnish only that portion of the 
+Confidential Information that its legal counsel advises it as being required and will exercise all commercially 
+reasonable efforts to preserve the confidentiality of the remainder of the Confidential Information. 
+16.6. 
+The confidentiality obligations in this Section do not apply with respect to information that:  
+a) 
+is already lawfully known to the receiving Party as of the date of disclosure hereunder; or 
+b) 
+is documented to have been disclosed to the other Party by a third party that has not been subject to a 
+confidentiality obligation; or  
+c) 
+is already in the public domain or public knowledge at the time of receipt by the receiving Party or comes 
+into the public domain other than through a breach of the terms of the Agreement by the receiving Party or 
+by any recipient to whom disclosure of Confidential Information by the receiving Party is permitted; or 
+d) 
+is independently developed by the receiving Party without the use of the Confidential Information received 
+from the disclosing Party. 
+16.7. 
+The confidentiality obligations in this Section shall survive the termination of the Agreement.  
+17. 
+INTELLECTUAL PROPERTY RIGHTS 
+17.1. 
+The Customer acknowledges that Keepit and its Affiliates retains all rights, title and interest in and to the Services, 
+as well as to all proprietary software, materials, formats, interfaces, information, data and content used by Keepit 
+or provided to the Customer in connection with the Services, and that these are protected by intellectual property 
+rights owned by or licensed to Keepit. Other than as expressly set forth in the Agreement, no license or other 
+rights in the Services are granted to the Customer, and all such rights are hereby expressly reserved by Keepit 
+and Keepit's Affiliates. 
+17.2. 
+The Customer retains all rights, title, and interest in and to the Customer Content. The Customer grants Keepit 
+a fully paid-up, non-exclusive, royalty-free, non-transferable license to use the Customer Content for the term of 
+the Agreement for the sole purpose of providing the Services to the Customer.
+
+8 
+17.3. 
+The Customer agrees that Keepit will have the unrestricted right to use any feedback and related information the 
+Customer provides regarding the Services, including without limitation, any flaws, errors, bugs, anomalies, 
+comments on the community forum, and problems with and/or suggestions for the Services. 
+18. 
+PROCESSING OF AND DELETION OF CUSTOMER CONTENT 
+18.1. 
+The Parties shall comply with their data protection obligations set out in the Data Processing Agreement. 
+19. 
+COMPLIANCE WITH LAWS AND REGULATIONS 
+19.1. 
+Keepit will comply with all relevant laws and regulations applicable to the Services. However, Keepit is not 
+responsible for compliance with laws or regulations that apply to the Customer or to the Customer's use of the 
+Services that are not generally applicable to online services or service providers. Keepit cannot and shall not 
+attempt to determine if the Customer Content may be subject to any additional laws or regulations. 
+19.2. 
+The Customer must comply with all applicable laws and regulations surrounding its use of the Services. The 
+Customer is responsible for determining if the use of the Services is appropriate for storage and processing of 
+the Customer Content. 
+20. 
+SUPPORT  
+20.1. 
+Keepit provides different tiers of support depending on the Services purchased by the Customer. The support 
+tiers are further described in the Keepit Service Guide.  
+21. 
+ASSIGNMENT 
+21.1. 
+Neither Party may assign any of its rights or responsibilities under the Agreement without the prior written consent 
+of the other Party, which shall not be unreasonably withheld. Notwithstanding the foregoing, either Party and its 
+permitted successors and assignees may assign the Agreement in whole or in part without the other Party’s 
+consent:  
+a) 
+to a successor in interest in connection with a merger, acquisition, or sale of all or substantially all assets 
+to which the agreement relates;  
+b) 
+to an Affiliate; and  
+c) 
+in connection with a corporate reorganization or divestiture to separate any business unit, product(s) or 
+assets to which the Agreement relates.  
+22. 
+TERM AND TERMINATION FOR CONVENIENCE 
+22.1. 
+Unless otherwise set forth in the applicable Order Form, the term will automatically renew for successive terms 
+of equal length to the initial term set forth in the Order Form. 
+22.2. 
+Either Party may terminate the Agreement by providing notice of termination, cancellation, or nonrenewal at least 
+90 days prior to the end of the then-current term. 
+22.3. 
+Either Party may terminate the Agreement by notice in writing to the other Party in the event of the other Party’s 
+voluntary or compulsory liquidation, dissolution, insolvency, suspension of its payments, bankruptcy or any 
+statutory or private composition or agreement with its creditors in order to escape a bankruptcy, or if the other 
+Party is placed in the hands of a receiver, assignee or trustee in bankruptcy, whether voluntarily or otherwise.  
+22.4. 
+For the Customer’s termination to be valid, the Customer must send a notice in writing to: 
+DK.BILLING@KEEPIT.COM or the Authorized Reseller. The email must contain company name, company 
+registration number, contact information, and a statement that the Customer wishes to terminate the Agreement. 
+22.5. 
+The rights and duties of the Parties under Sections 7, 12, 13, 16, 17, 18, 22.5, 24, 25, 28 and 30 will survive the 
+termination or expiration of the Agreement, together with any provision of applicable Supplementary Terms that 
+expressly survives.  
+23. 
+TERMINATION FOR CAUSE 
+23.1. 
+Unless otherwise agreed and/or specifically stated in the Agreement, where either Party materially breaches any 
+of its obligations under the Agreement and the breach cannot reasonably be remedied within thirty (30) days 
+after being notified of the breach in writing, the Parties shall, in good faith, discuss the possibilities and the time 
+frame for when such remedy can be completed. However, if the Parties cannot agree, the Party not in breach 
+shall be entitled to terminate the Agreement with immediate effect upon written notice to the other Party, if the 
+Party in breach has not rectified the breach within thirty (30) days after being notified of the breach. The notice 
+shall state the nature of the breach and any claim for compensation.  
+23.2. 
+Sections 22 and 23 of these Terms shall not affect the right to use other remedies applicable in case of breach.
+
+9 
+24. 
+WAIVER  
+24.1. 
+A waiver of any right or remedy under the Agreement or by law is only effective if given in writing.  Any waiver or 
+failure or delay enforcing any provision of the Agreement on one occasion will not be deemed a waiver of any 
+other provision or of such provision on any other occasion. 
+25. 
+ENTIRE AGREEMENT  
+25.1. 
+The Agreement constitutes the entire understanding and agreement between the Parties and supersedes and 
+extinguishes all previous and contemporaneous understandings, agreements, proposals or representations, 
+written or oral, between the Parties, as to the subject matter hereof.  
+25.2. 
+For the avoidance of doubt, this Agreement supersedes and replaces in its entirety any non-disclosure 
+agreement or confidentiality agreement previously entered into between the Parties, and all confidentiality 
+obligations between the Parties shall be governed exclusively by the terms of this Agreement. 
+25.3. 
+If any provision of the Agreement is held to be invalid or unenforceable, the valid or enforceable portion thereof 
+and the remaining provisions of the Agreement will remain in full force and effect. The Parties to the Agreement 
+are independent contractors, and no agency, partnership, franchise, joint venture or employee-employer 
+relationship is intended or created by the Agreement.  
+26. 
+CHANGES TO THE AGREEMENT 
+26.1. 
+If the Parties agree on changes to the Agreement, the amendments are only valid if in writing signed by both 
+Parties. Notwithstanding the foregoing, Keepit reserves the right to update the Keepit Service Guide at any time. 
+Any such update that would increase the Fees payable by the Customer, reduce the Customer's Entitlement or 
+change the methodology by which consumption is measured takes effect from the commencement of the next 
+renewal term and does not apply during the then-current Subscription Term. 
+27. 
+ORDER OF PRECEDENCE 
+27.1. 
+Any ambiguity, conflict or inconsistency between the documents comprising this Agreement shall be resolved 
+according to the following order of precedence: 
+1. 
+Data Processing Agreement 
+2. 
+Any Supplementary Terms, in respect of an Add-On or Services to which they apply 
+3. 
+Terms of Service  
+4. 
+Order Form  
+5. 
+Any other document (if applicable to the Agreement) 
+28. 
+NOTICES 
+28.1. 
+Any notice or other communication required or permitted under the Agreement and intended to have legal effect 
+must be given in writing to the other Party at the email address set forth in the Order Form. Each Party may 
+change its email address from time to time upon written notice to the other Party of the new email address. 
+29. 
+CODE OF CONDUCT  
+29.1. 
+Each Party is committed to implementing a Code of Conduct, in which the Party, as a minimum, observes the 
+OECD Guidelines for Multinational Enterprises on Responsible Business Conduct regarding acting in a manner 
+that is ethical, transparent, and sustainable, respecting human rights, the environment, and fair business 
+practices.  
+30. 
+GOVERNING LAW AND JURISDICTION 
+30.1. 
+Any dispute arising in connection with the Agreement shall be settled by arbitration arranged by the Danish 
+Institute of Arbitration in accordance with the rules and procedures of arbitration exerted by the Danish Institute 
+of Arbitration and in force at the time the dispute commenced. Proceedings will be carried out in the English 
+language. The Agreement is governed by the substantive law of Denmark. For UK based Customers the 
+Agreement is governed by the substantive laws of England and Wales.
+
+------------------------------------------------------------
+
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/TermsOfService-KeepitSwedenAB.pdf
+Content type: PDF document
+Title: unknown
+Pages: 9
+Retrieved: 2026-11-08
+
+============================================================
+
+1
+TERMS OF SERVICE (KEEPIT SWEDEN AB) 
+1. 
+BACKGROUND AND PURPOSE 
+1.1. 
+Keepit provides a data protection platform for cloud-to-cloud backup and recovery services.  
+1.2. 
+The Agreement sets forth the legally binding terms and conditions governing the Customer’s right to use the 
+Services.  
+2. 
+DEFINITIONS 
+2.1. 
+In these Terms all capitalized terms used shall have the meanings given to them below: 
+2.2. 
+Agreement means the Order Form and all annexes and schedules thereto, including these Terms.  
+2.3. 
+Account means the unique user credentials, including a user identification name and password issued to an 
+authorized user to access and use the Services.  
+2.4. 
+Affiliate means, with respect to a Party, any corporation or other business entity controlled by, controlling or 
+under common control with that Party whereby control means (i) the direct or indirect ownership of more than 
+50 % (fifty percent) of the equity interest in such cooperation or business entity, or (ii) the ability in fact to control 
+the management decisions of such corporation or business entity. 
+2.5. 
+Add-On means an additional or optional service, feature, functionality or software component that Keepit makes 
+available in addition to the standard Services, as identified in the Order Form. An Add-On may be subject to 
+Supplementary Terms. 
+2.6. 
+Authorized Reseller means an entity appointed by Keepit to resell the Services to the Customer.  
+2.7. 
+Confidential Information means any information of a confidential or non-public nature disclosed by one Party 
+as a disclosing Party to the other Party as a receiving Party that is either designated as confidential or proprietary 
+at the time of disclosure or should be reasonably understood to be confidential in light of the nature of the 
+information and the circumstances surrounding disclosure.  
+2.8. 
+Customer means the Customer identified in the Order Form.   
+2.9. 
+Customer Content means all data, including text, sound, video or image files, and software that the Customer 
+stores, generates, accesses, imports, exports, receives or sends through the Customer’s use of the SaaS 
+Workload(s). For example, Customer Content will include emails and attachments, SharePoint Online site 
+content, or instant messaging conversations. 
+2.10. 
+Entitlement means the volume of the Services and any Add-On the Customer is entitled to use, measured by 
+the use metric specified in the applicable Order Form. The applicable use metrics, and the methodology by which 
+Keepit measures and counts consumption, are described in the Keepit Service Guide. 
+2.11. 
+Fees means all amounts payable by the Customer for the Services, as specified in the applicable Order Form. 
+2.12. 
+Keepit means Keepit Sweden AB, company registration number 559502-1659. 
+2.13. 
+Keepit Service Guide means the document published by Keepit describing the features, functionalities, service 
+tiers, support levels, and applicable terms of use of the Services, as updated by Keepit from time to time. Keepit 
+Service Guide is available at the Keepit legal page or as otherwise notified to the Customer. The current version 
+is available at: https://www.keepit.com/service-guide/. 
+2.14. 
+Managed Service Provider means an Authorized Reseller that in addition to reselling the Services remotely 
+manages the Customer’s IT infrastructure, and through access to the Customer’s SaaS Workload(s) and the 
+Services provides ongoing and regular support and active administration of the aforementioned.  
+2.15. 
+Order Form means an ordering document specifying the Services to be provided to the Customer, issued by 
+either  Keepit or an Authorized Reseller. By accepting such ordering document, the Customer agrees to be bound 
+by the Agreement. 
+2.16. 
+Party means either the Customer or Keepit individually;  
+2.17. 
+Parties means the Customer and Keepit jointly. 
+2.18. 
+Representatives means employees, agents, suppliers and other third parties collectively.  
+2.19. 
+SaaS Workload(s) means the third-party cloud solution(s) mentioned in the Order Form for which the Customer 
+can use the Services to provide backup and recovery, such as Microsoft 365. 
+2.20. 
+Service Credits means additional days of service which are added to the term of the relevant Order Form.  
+2.21. 
+Services means the Keepit cloud backup and recovery services, including any feature or functionality add-ons 
+(each an Add-On), and any modified versions of, and upgrades, updates and additions to such services supplied 
+by Keepit to the Customer, as identified in the Order Form.
+
+2
+2.22. 
+Subscription Term means the period during which the Customer is entitled to use the Services, as specified in 
+the Order Form, including any renewal term. 
+2.23. 
+Supplementary Terms means any additional terms provided or published by Keepit that apply to a specific Add-
+On, Service tier or SaaS Workload, as identified in or attached to the Order Form.   
+2.24. 
+Terms mean these Terms of Service. 
+2.25. 
+Use Limitations means any use limitations or restrictions with respect to the Customer’s use of the Services, 
+as set forth in the applicable Order Form, Keepit Service Guide, any Supplementary Terms or these Terms. 
+2.26. 
+User(s) means user accounts with different privileges of access and usage to the Services under the Account. 
+2.27. 
+UserID means a unique user identification name and password which each User will receive in order to access 
+the Services.  
+3. 
+SERVICES 
+3.1. 
+The Services provide cloud-to-cloud backup and recovery for the SaaS Workload(s) stated in the Order Form. 
+In accordance with the Agreement, the Customer will have access to the specified Services for the duration of 
+the term set out in the Order Form and any renewals thereof.  
+3.2. 
+The Services, generally stated, enable the Customer through the Services to extract Customer Content from the 
+SaaS Workload(s) and create immutable copies thereof on the Keepit platform, recover Customer Content and 
+restore Customer Content back to where the Customer Content originally resided and download Customer 
+Content using the export/restore tools offered.  
+3.3. 
+Keepit will make the Services available to the Customer in accordance with the Service Level Agreement set out 
+in Section 10, subject to the terms of the Agreement. The Customer must maintain valid and active access to 
+the SaaS Workload(s) and pay all costs associated therewith. 
+3.4. 
+Keepit may make Add-Ons available to the Customer. An Add-On ordered by the Customer forms part of the 
+Services and is provided subject to the Agreement, save that where Supplementary Terms apply to an Add-On, 
+those Supplementary Terms govern that Add-On to the extent of any conflict with these Terms, including as 
+regards use metrics, measurement, pricing and any software licensed to the Customer as part of the Add-On. 
+The features, functionalities, service levels and measurement methodology applicable to each Add-On are 
+described in the Keepit Service Guide and the applicable Order Form.  
+4. 
+PROOF OF CONCEPT AND FREE SERVICES 
+4.1. 
+Services provided for proof of concept (for trials or evaluations) are provided at no charge, and their use will be 
+for a limited duration solely determined by Keepit. 
+4.2. 
+From time to time, Keepit may make certain Services available for full use, i.e., not subject to limited proof of 
+concept purposes at no charge. These free Services may have limited features, functions, and other technical 
+limitations compared to paid versions. 
+4.3. 
+Notwithstanding anything to the contrary in these Terms, Keepit does not provide maintenance and support, 
+warranties, or indemnification for Services provided as part of a proof of concept or as free Services, except for 
+free Services delivered in conjunction with paid Services.  
+4.4. 
+Upon expiration or termination of a proof of concept or free Services period, Keepit shall delete all Customer 
+Content associated with such proof of concept or free Services no later than thirty (30) days, unless the Customer 
+converts to a paid subscription for the Services. 
+5. 
+USE OF SERVICES  
+5.1. 
+Keepit grants to the Customer, in accordance with the Agreement and subject to the Use Limitations, a limited, 
+non-exclusive, revocable, non-sublicensable, non-transferable right to use and access the Services solely for 
+the Customer's internal business purposes. The Customer will not be provided with and shall have no right to 
+any software code. The foregoing is subject to any license to install and use software expressly granted to the 
+Customer under applicable Supplementary Terms. The Customer may permit its Affiliates to use and access the 
+Services for their respective internal business purposes. In addition, the Customer may, subject to these Terms, 
+permit third-party contractors, Managed Service Providers, agents and outsourcers to use and access the 
+Services solely on behalf of and for the benefit of the Customer or its Affiliates. The Customer shall be fully 
+responsible and liable for all use of and access to the Services by its Affiliates and any third parties it permits to 
+use or access the Services, including but not limited to third-party contractors, Managed Service Providers, 
+agents and outsourcers, to the same extent and subject to the same limitation as the Customer is responsible 
+and liable under this Agreement. The Customer shall ensure that all such Affiliates and third parties comply with 
+the terms and conditions of this Agreement, and any breach or violation by such Affiliates or third parties shall 
+be deemed a breach by the Customer.
+
+3
+5.2. 
+The Customer will be assigned an Account in connection with the provision of the Services. Within the Account, 
+the Customer may create and authorize additional Users, each with a UserID.  
+5.3. 
+The Customer is responsible for all activities that occur under the Account and any use of any UserID. Keepit 
+reserves the right to suspend and, subject to prior notification, terminate the Account or any UserID that Keepit 
+reasonably determines may have been used by an unauthorized third party or otherwise used improperly. The 
+Customer agrees to immediately notify Keepit of any unauthorized use of an UserID or the Account or any other 
+breach of security.  
+5.4. 
+The Customer is responsible for maintaining security around credentials for accessing the Services and, when 
+applicable, security around the Customer identity provider which may be used to authenticate against the 
+Services. 
+5.5. 
+The Customer agrees to: (i) provide and maintain true, accurate, current, and complete information when the 
+Customer registers for the Services; (ii) update such information to keep it true, accurate, current and complete; 
+and (iii) only open up an Account for the Customer. If the Customer provides any information that is untrue, 
+inaccurate, not current or incomplete, or Keepit has reasonable grounds to suspect that such information is 
+untrue, inaccurate, not current or incomplete, and such information materially affects Keepit's ability to provide 
+the Services or fulfil its obligations (including invoicing and account management), Keepit has the right to 
+suspend and, subject to prior notification and possibility to rectify such information, terminate the Account and to 
+refuse to provide the Customer any current or future use of the Services (or any portion thereof). 
+5.6. 
+The Customer is (i) responsible for any necessary hardware, software and connectivity required to access the 
+World Wide Web and to use the Services, including without limitation, any fees associated with establishing and 
+maintaining such access; (ii) responsible for Users' compliance with the Agreement, (iii) solely responsible for 
+the accuracy, quality, integrity and legality in all applicable jurisdictions of any Customer Content, the means by 
+which the Customer acquired the Customer Content, and for securing Keepit’s right to retrieve and store the 
+Customer Content in connection with the Services, (iv) responsible for preventing unauthorized access to or use 
+of the Services through the Customer’s Account or Users, including implementing reasonable security measures 
+within the Customer’s systems and networks, and (v) permitted to use the Services only in accordance with the 
+online materials furnished by Keepit that describe the features, functionality or operation of the Services and in 
+a manner consistent with all applicable laws and regulations. 
+5.7. 
+The Customer will not make the Services available to any third party for the purpose of selling, reselling, renting 
+or leasing the Services. 
+5.8. 
+Keepit may collect and process Account information, general SaaS Workload tenant information, and technical 
+and operational data relating to the Customer’s use of the Services (such as consumption of the Services against 
+the Customer's Entitlement, configuration settings, and consumption patterns) solely for the following purposes: 
+(i) verifying compliance with the Use Limitations set forth in the Agreement; (ii) provisioning, maintaining, 
+improving, and developing Keepit's services; (iii) issuing service notifications, operational alerts, and 
+communications reasonably necessary for the Customer's use of the Services; and (iv) preparing and providing 
+the Customer with reports, observations, and recommendations regarding the Customer’s use of the Services, 
+including suggested improvements. Keepit may also aggregate and anonymise such data for service analytics 
+provided that the aggregated data does not identify the Customer. 
+5.9. 
+Where a Service or Add-On includes a software component that Keepit makes available for the Customer to 
+install and operate in the Customer's own environment (the "Software"), Keepit grants the Customer a non-
+exclusive, non-transferable, non-sublicensable license to install, configure and use that Software solely for the 
+Customer's internal business purposes and solely in connection with the Services, for the Subscription Term 
+applicable to the Service or Add-On. Keepit will make the Software available by a method selected by Keepit, as 
+described in the Keepit Service Guide or the applicable Order Form. 
+5.10. 
+The Customer shall not, and shall not permit any third party to: (i) translate, adapt, modify or create derivative 
+works based on the Software; (ii) sell, distribute, rent, lease, lend, sublicense, transfer or otherwise make the 
+Software available to any third party; (iii) reproduce the Software other than as necessary for its permitted use; 
+(iv) decompile, disassemble or reverse engineer the Software, or otherwise attempt to derive its source code, 
+algorithms or structures, except to the extent such restriction is prohibited by applicable law; (v) use the Software 
+to develop, distribute or make available products or services to third parties; or (vi) use the Software other than 
+as expressly permitted under the Agreement.  
+5.11. 
+The Software may include components licensed from third parties. Those components are licensed under the 
+terms accompanying them and not under these Terms. Keepit will make a list of such components available to 
+the Customer on request. 
+5.12. 
+Keepit has no responsibility for any claim arising from a modification of the Software made by anyone other than 
+Keepit, unless Keepit has approved the modification in writing. Support for the Software is provided as described 
+in the Keepit Service Guide.
+
+4
+5.13. 
+On expiry or termination of the Subscription Term for the Service or Add-On, the license granted in Section 5.9 
+terminates and the Customer shall cease all use of the Software, uninstall and delete all copies in its possession 
+or control and, on Keepit's request, certify its compliance with this Section in writing. This Section survives 
+termination or expiration of the Agreement. 
+6. 
+ACCEPTABLE USE POLICY 
+6.1. 
+Customer agrees not to use the Services knowingly to collect, upload, transmit, display, or distribute any 
+Customer Content (i) that violates third-party rights; or (ii) that is in violation of any law, regulation, obligations or 
+restrictions imposed by any third party.  
+6.2. 
+In addition, the Customer agrees to take reasonable precautions to avoid and not knowingly to: (i) upload, 
+transmit, or distribute to or through the Services any computer viruses, worms, time bombs, Trojan horses or any 
+software intended to damage or alter a computer system or data; (ii) interfere with, disrupt, or create an undue 
+burden on servers or networks connected to the Services, or violate the regulations, policies or procedures of 
+such networks; (iii) attempt to gain unauthorized access to the Services (or to other computer systems or 
+networks connected to or used together with the Services), whether through password mining or any other 
+means; (iv) harass or interfere with any other User’s use of the Services; or (v) use software or automated agents 
+or scripts to produce multiple Accounts on the Services (except for Users allowed hereunder or otherwise agreed 
+by the Parties). Keepit may, at its discretion, apply automatic monitoring, filtering, and deny performance of 
+activities that do not comply with the Agreement. 
+6.3. 
+Subject to the following, Keepit reserves the right to modify or discontinue any features, functionality, and other 
+attributes of the Services at any time in its sole discretion. Keepit will provide written notice to the Customer prior 
+to any discontinuation or any material changes to the Services. Keepit will not be obliged to provide such notice, 
+if the discontinuation is necessary to address an emergency or threat to the security or integrity of the Services, 
+respond to claims or litigation, or comply with any appliable law or regulatory requirements or requests of a 
+government entity. Notwithstanding the foregoing, Keepit will not exercise its rights under this Section in a 
+manner that prevents the Customer from performing data protection of, or recovering, Customer Content from 
+the SaaS Workload(s) specified in the applicable Order Form. 
+7. 
+FEES, PAYMENT AND VERIFICATION  
+7.1. 
+As consideration for Keepit’s provision of the Services under the Agreement, the Customer will pay the Fees as 
+specified in the Order Form. Keepit reserves the right (in addition to any other rights or remedies Keepit may 
+have) to discontinue the Services and suspend all UserID’s and the Customer’s access to the Services upon 
+prior written notice if any Fees owed are overdue. Before exercising this right, Keepit or the Authorized Reseller 
+will provide the Customer with prior written notice and send two payment reminders. If the Customer fails to pay 
+the outstanding amount within ten (10) days of the second written reminder, Keepit may suspend the Services 
+until such amounts are paid in full. 
+7.2. 
+Each Party shall individually bear the bank charges levied by their own bank in connection with the transfer, 
+payment of or receipt of any Fees.  
+7.3. 
+Where the Order Form specifies a minimum commitment for the Services or for an Add-On, Keepit and/or the 
+Authorized Reseller is entitled to invoice the Customer for that minimum commitment for each billing period 
+during the Subscription Term, regardless of the Customer's actual consumption. Consumption in excess of the 
+minimum commitment is subject to true-up in accordance with Section 7.4 or, where applicable, the 
+Supplementary Terms. 
+7.4. 
+Keepit and/or the Authorized Reseller is entitled to conduct periodic true-up adjustments based on the 
+Customer's actual consumption of the Services compared to its Entitlement as specified in the Order Form. 
+Where the Customer's measured consumption in any measurement period exceeds its Entitlement or any 
+minimum commitment, Keepit and/or the Authorized Reseller can require the Customer to increase its 
+Entitlement by purchasing additional whole units sufficient to cover the Customer's latest measured consumption 
+plus a headroom of ten percent (10%), or such other percentage as is stated in the applicable Order Form. The 
+increased Entitlement takes effect for the remainder of the Subscription Term and is coterminous with it, is 
+charged at the prices set out in the applicable Order Form, and is invoiced in the period following the period in 
+which the excess consumption was measured. 
+7.5. 
+Prices, use metrics and units of measurement not stated in these Terms are set out in the applicable Order Form 
+and the Keepit Service Guide. 
+8. 
+DATA RETENTION  
+8.1. 
+The Customer can configure data retention rules for the Customer Content within the Services. Data retention 
+refers to the amount of time a data object remains in the backup after being deleted from the Customer’s SaaS
+
+5
+Workload(s) backed up by the Services. The Order Form will describe the data retention included in the 
+Agreement. 
+8.2. 
+Notwithstanding Section 8.1 above, Keepit will retain all Customer Content processed under the Agreement for 
+30 days after the deletion of the Customer's account or termination thereof. This ’deletion retention period’ will 
+ensure that the Customer's access to its Customer Content can be re-established after any conceivable targeted 
+attack against the Customer's primary data and backup data. After expiration of the ‘deletion retention’ period, 
+Keepit will delete all records of the Customer Content without undue delay. 
+9. 
+DATA CENTER LOCATION 
+9.1. 
+The Customer determines on the Order Form from which Keepit data center location the Services shall be 
+provided by Keepit. 
+9.2. 
+The Customer appoints Keepit to transfer Customer Content to the Services which will be stored exclusively in 
+the location chosen by the Customer.  
+9.3. 
+It is the responsibility of the Customer to choose a data center location suitable for the storage of Customer 
+Content. For example, if Customer Content may not be exported out of the EU, then the Customer must choose 
+a data center location within the EU for the Services. 
+9.4. 
+Keepit does not control or limit the locations from which the Services can be accessed by the Customer, and to 
+or from which location transfers can be made by the Customer. 
+10. 
+SERVICE LEVEL AGREEMENT (SLA) 
+10.1. 
+Access to the Services relies on the Keepit web application and the API front-end servers providing data thereto, 
+in the data center location where the Customer has chosen to have the Services delivered. 
+10.2. 
+Keepit will monitor the availability of the API front-end servers. In the event that all front-end servers for the 
+location chosen by the Customer are unavailable for HTTPS services for more than one full minute, this will count 
+as “downtime”. Scheduled maintenance windows are excluded from this downtime. Keepit will notify any 
+significant outage in availability known to Keepit, including scheduled maintenance, on its website, at 
+https://status.keepit.com/. The Customer must subscribe there to receive direct notifications regarding 
+availability. In case product functionality is unavailable and this is not covered by the aforementioned monitoring, 
+this must be raised as a support issue instead and will not count as "downtime". Keepit will upon request provide 
+access to an automated availability report. See Section 20 for details on support. 
+10.3. 
+Keepit will make the Keepit platform available to the Customer with 99.9% uptime in any calendar quarter, 
+measured as total minutes in the quarter minus Downtime, divided by total minutes in the quarter (the "Availability 
+Commitment"). The Availability Commitment applies solely to the Keepit platform. Keepit will use commercially 
+reasonable efforts to maintain the availability and performance of any Add-On or other component of the Services 
+not expressly covered by the Availability Commitment. Service levels applicable to a specific Add-On, if any, are 
+as set out in the Keepit Service Guide or the applicable Supplementary Terms. No Availability Commitment or 
+Service Credit applies to software installed or operated in the Customer's own environment. 
+If Keepit fails to meet the Availability Commitment in any calendar quarter falling within the term of an Order 
+Form, the Customer will be eligible to receive Service Credits as set out in Table 1 below. To claim Service 
+Credits, the Customer must submit a written claim by email to BUSINESS@SUPPORT.KEEPIT.COM within thirty (30) 
+days of the end of the relevant calendar quarter, providing details of the dates and duration of the Downtime 
+claimed. Keepit may require the Customer to provide further information in support of a claim and may reject 
+claims that are not submitted in accordance with this Section. Service Credits may only be applied against the 
+Order Form in respect of which the Availability Commitment was not met, have no cash value, are non-
+transferable, and constitute the Customer's sole and exclusive remedy for any failure by Keepit to meet the 
+Availability Commitment.Table 1: Service Credits 
+Availability  
+Service Credits 
+100 % - 99,90 % 
+N/A 
+99,89 % - 99,8 % 
+1 day added to the Customer’s current Order Form term (1 free day) 
+99,79 % - 99,0 % 
+5 days added to the Customer’s current Order Form term (5 free days) 
+98,99 % - 95,0% 
+10 days added to the Customer’s current Order Form term (10 free days) 
+Lower than 95,0% 
+20 days added to the Customer’s current Order Form term (20 free days) 
+10.4. 
+Keepit will initiate at least one (1) backup per day per SaaS Workload, unless the Customer configures different 
+parameters within the Services (including scope and timing). Where a backup is already in progress, a new 
+backup will not commence until the running backup is complete. The time required to complete a backup depends
+
+6
+on factors outside Keepit's control, including the volume and nature of the Customer Content to be backed up, 
+and Keepit makes no commitment as to backup completion time. Initial uploads, large dataset changes, 
+significant backup reconfigurations, and similar events may cause a backup to run for longer than usual. The 
+operational status of the data centers and incident reports are available at https://status.keepit.com/. 
+11. 
+SLA EXCLUSIONS 
+11.1. 
+The SLA does not apply to any performance or availability issues due to: 
+a) 
+factors outside Keepit’s reasonable control (for example outage by a SaaS Workload(s), or a force majeure 
+event); 
+b) 
+the Customer's, end-user's, or any third-party's equipment, services, actions or lack thereof; and/or 
+c) 
+Keepit’s scheduled maintenance or version upgrades; and/or 
+d) 
+any software installed, configured or operated by the Customer in the Customer's own environment, 
+including software licensed to the Customer as part of an Add-On. 
+12. 
+INDEMNIFICATION 
+12.1. 
+Keepit will defend, indemnify, and hold the Customer harmless from any claim asserting that the Services infringe 
+any intellectual property right of a third party. In such an event Keepit will pay any and all damages awarded by 
+a court and actually paid by the Customer or agreed to in settlement by Keepit and attributable to such claim. 
+Customer shall promptly notify Keepit of any such claims. Keepit shall, in any event, have an irrevocable right to 
+take over the handling of the claim or join any ongoing court proceedings relating to such claim, both at its own 
+expense and thus institute proceedings or enter into settlements concerning the alleged infringements. 
+12.2. 
+If the Services are found to infringe, or if Keepit determines in its sole opinion that the Services are likely to be 
+found to infringe the intellectual property right of a third party, then Keepit will either; a) obtain the right for the 
+Customer to use the Services; b) bring the infringement to an end by modifying or replacing the Services with 
+another service which possesses substantially the same functions as the Services, or c) if a or b are not 
+commercially reasonable Keepit may terminate the Agreement with immediate effect against repayment of the 
+remaining unused portion of the Fees prepaid by the Customer from the date of termination. 
+12.3. 
+The Customer agrees to defend or settle, at the Customer's expense, any third-party claim against Keepit 
+alleging that the Customer's provision or use of Customer Content violates or infringed a third party's rights, and 
+to pay damages finally awarded by a court or agreed in settlement. 
+13. 
+LIMITATION OF LIABILITY 
+13.1. 
+No limitation on liability shall apply to Keepit’s liability to pay damages finally awarded pursuant to Section 12 
+(Indemnification). 
+13.2. 
+THE AGGREGATED LIABILITY OF EACH PARTY FOR ANY NON-PERFORMANCE OF ITS OBLIGATIONS 
+UNDER THE AGREEMENT SHALL IN NO EVENT EXCEED AN AMOUNT EQUAL TO THE FEES PAID 
+DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING FORMAL WRITTEN NOTICE OF THE 
+CLAIM FOR LIABILITY. UNDER NO CIRCUMSTANCES, INCLUDING ANY INFRINGEMENT CLAIMS, SHALL 
+THE PARTIES BE LIABLE FOR ANY LOSS OF PROFIT OR INDIRECT OR CONSEQUENTIAL LOSSES, 
+INCLUDING BUT NOT LIMITED TO: RE-PROCUREMENT COSTS, INTERRUPTED COMMUNICATIONS, 
+LOSS OF GOODWILL, LOSS OF REVENUE, OR FOR ANY OTHER SPECIAL, INCIDENTAL, PUNITIVE OR 
+CONSEQUENTIAL DAMAGES, EVEN IF A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH 
+DAMAGES.  
+13.3. 
+Nothing in this Section shall limit the Customer's payment obligations under the Agreement. 
+14. 
+DISCLAIMER  
+14.1. 
+KEEPIT MAKES NO WARRANTY CONCERNING THE SERVICES, AND THE SERVICES AND ALL DATA, 
+MATERIALS, AND DOCUMENTATION PROVIDED IN CONNECTION WITH THIS AGREEMENT ARE 
+PROVIDED “AS IS” AND “AS AVAILABLE”. KEEPIT DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS, 
+IMPLIED, STATUTORY, BY OPERATION OF LAW OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, 
+ANY IMPLIED WARRANTIES OF NONINFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A 
+PARTICULAR PURPOSE OR ANY IMPLIED WARRANTIES ARISING OUT OF COURSE OF PERFORMANCE, 
+COURSE OF DEALING OR USAGE OF TRADE. KEEPIT DOES NOT WARRANT THAT THE SERVICES WILL 
+BE PROVIDED ERROR-FREE, UNINTERRUPTED, COMPLETELY SECURE, OR VIRUS-FREE. KEEPIT IS 
+NOT RESPONSIBLE FOR ANY LOSS OF DATA OR HARM DONE TO CUSTOMER COMPUTER, SYSTEMS 
+OR OTHER EQUIPMENT ARISING OUT OF OR RELATING TO CUSTOMER’S USE OF THE SERVICES. 
+CUSTOMER UNDERSTAND AND AGREE THAT USE OF THE SERVICES IS AT CUSTOMER’S OWN RISK 
+AND DISCRETION.
+
+7
+15. 
+FORCE MAJEURE 
+15.1. 
+Neither Party shall be in breach of the Agreement nor be considered liable towards the other Party for delay in 
+performing, or failure to perform, any of its obligations under the Agreement if such delay or failure results from 
+events, circumstances or causes beyond the reasonable control of the relevant Party which could not have been 
+taken into account at signing and could not reasonably have been avoided nor surmounted by the relevant Party. 
+15.2. 
+The following circumstances are considered force majeure: war, civil war, natural disasters, or other 
+extraordinary events outside of the Party’s reasonable control. 
+15.3. 
+If either Party is prevented from or delayed in performing any of its obligations under the Agreement by reason 
+of a force majeure, such Party shall notify the other Party in writing as soon as practicable after the onset of such 
+force majeure. The Party’s obligations will be suspended until the time when the Party is again able to meet its 
+obligations. If the obstacle lasts more than sixty (60) days, the other Party will be entitled to terminate the 
+Agreement with immediate effect by providing written notice.  
+16. 
+CONFIDENTIAL INFORMATION 
+16.1. 
+Each Party shall comply with these legal requirements pertaining to Confidential Information and treat Customer 
+Content as such.  
+16.2. 
+Each Party undertakes to not disclose Confidential Information to any third party at any time without the other 
+Party's prior written consent, except as otherwise permitted hereunder.  
+16.3. 
+Each Party undertakes to implement the necessary measures in order to prevent unauthorized third-party access 
+to such Confidential Information and to only use Confidential Information for the performance of these Terms.  
+16.4. 
+Each Party shall ensure that access to Confidential Information is limited to authorized Representatives on a 
+need-to-know basis and that such Representatives are subject to confidentiality obligations at least as restrictive 
+as the terms of the Agreement (provided that the Party disclosing the Confidential Information to its 
+Representatives shall be responsible for any actions of its Representatives).  
+16.5. 
+Either Party may disclose certain Confidential Information of the disclosing Party, without violating the obligations 
+of the Agreement, to the extent such disclosure is required by a valid and effective subpoena, order or other 
+document issued by a court, governmental body or competent jurisdiction or stock exchange, provided that the 
+receiving Party provides the disclosing Party with a prompt and practicable written notice of the existence, terms 
+and circumstances of such a disclosure and makes a reasonable effort to obtain, or to assist the disclosing Party 
+in obtaining, a protective order preventing or limiting the disclosure and/or waiving the receiving Party’s 
+compliance with the provisions of the Agreement. In the event that such protective order or other protection is 
+denied and that the receiving Party or any of its Representatives are nonetheless legally compelled or requested 
+to disclose such information, it or its Representatives, as the case may be, will furnish only that portion of the 
+Confidential Information that its legal counsel advises it as being required and will exercise all commercially 
+reasonable efforts to preserve the confidentiality of the remainder of the Confidential Information. 
+16.6. 
+The confidentiality obligations in this Section do not apply with respect to information that:  
+a) 
+is already lawfully known to the receiving Party as of the date of disclosure hereunder; or 
+b) 
+is documented to have been disclosed to the other Party by a third party that has not been subject to a 
+confidentiality obligation; or  
+c) 
+is already in the public domain or public knowledge at the time of receipt by the receiving Party or comes 
+into the public domain other than through a breach of the terms of the Agreement by the receiving Party or 
+by any recipient to whom disclosure of Confidential Information by the receiving Party is permitted; or 
+d) 
+is independently developed by the receiving Party without the use of the Confidential Information received 
+from the disclosing Party. 
+16.7. 
+The confidentiality obligations in this Section shall survive the termination of the Agreement.  
+17. 
+INTELLECTUAL PROPERTY RIGHTS 
+17.1. 
+The Customer acknowledges that Keepit and its Affiliates retains all rights, title and interest in and to the Services, 
+as well as to all proprietary software, materials, formats, interfaces, information, data and content used by Keepit 
+or provided to the Customer in connection with the Services, and that these are protected by intellectual property 
+rights owned by or licensed to Keepit. Other than as expressly set forth in the Agreement, no license or other 
+rights in the Services are granted to the Customer, and all such rights are hereby expressly reserved by Keepit 
+and Keepit's Affiliates. 
+17.2. 
+The Customer retains all rights, title, and interest in and to the Customer Content. The Customer grants Keepit 
+a fully paid-up, non-exclusive, royalty-free, non-transferable license to use the Customer Content for the term of 
+the Agreement for the sole purpose of providing the Services to the Customer.
+
+8
+17.3. 
+The Customer agrees that Keepit will have the unrestricted right to use any feedback and related information the 
+Customer provides regarding the Services, including without limitation, any flaws, errors, bugs, anomalies, 
+comments on the community forum, and problems with and/or suggestions for the Services. 
+18. 
+PROCESSING OF AND DELETION OF CUSTOMER CONTENT 
+18.1. 
+The Parties shall comply with their data protection obligations set out in the Data Processing Agreement. 
+19. 
+COMPLIANCE WITH LAWS AND REGULATIONS 
+19.1. 
+Keepit will comply with all relevant laws and regulations applicable to the Services. However, Keepit is not 
+responsible for compliance with laws or regulations that apply to the Customer or to the Customer's use of the 
+Services that are not generally applicable to online services or service providers. Keepit cannot and shall not 
+attempt to determine if the Customer Content may be subject to any additional laws or regulations. 
+19.2. 
+The Customer must comply with all applicable laws and regulations surrounding its use of the Services. The 
+Customer is responsible for determining if the use of the Services is appropriate for storage and processing of 
+the Customer Content. 
+20. 
+SUPPORT  
+20.1. 
+Keepit provides different tiers of support depending on the Services purchased by the Customer. The support 
+tiers are further described in the Keepit Service Guide.  
+21. 
+ASSIGNMENT 
+21.1. 
+Neither Party may assign any of its rights or responsibilities under the Agreement without the prior written consent 
+of the other Party, which shall not be unreasonably withheld. Notwithstanding the foregoing, either Party and its 
+permitted successors and assignees may assign the Agreement in whole or in part without the other Party’s 
+consent:  
+a) 
+to a successor in interest in connection with a merger, acquisition, or sale of all or substantially all assets 
+to which the agreement relates;  
+b) 
+to an Affiliate; and  
+c) 
+in connection with a corporate reorganization or divestiture to separate any business unit, product(s) or 
+assets to which the Agreement relates.  
+22. 
+TERM AND TERMINATION FOR CONVENIENCE 
+22.1. 
+Unless otherwise set forth in the applicable Order Form, the term will automatically renew for successive terms 
+of equal length to the initial term set forth in the Order Form. 
+22.2. 
+Either Party may terminate the Agreement by providing notice of termination, cancellation, or nonrenewal at least 
+90 days prior to the end of the then-current term. 
+22.3. 
+Either Party may terminate the Agreement by notice in writing to the other Party in the event of the other Party’s 
+voluntary or compulsory liquidation, dissolution, insolvency, suspension of its payments, bankruptcy or any 
+statutory or private composition or agreement with its creditors in order to escape a bankruptcy, or if the other 
+Party is placed in the hands of a receiver, assignee or trustee in bankruptcy, whether voluntarily or otherwise.  
+22.4. 
+For the Customer’s termination to be valid, the Customer must send a notice in writing to: 
+DK.BILLING@KEEPIT.COM or the Authorized Reseller. The email must contain company name, company 
+registration number, contact information, and a statement that the Customer wishes to terminate the Agreement. 
+22.5. 
+The rights and duties of the Parties under Sections 7, 12, 13, 16, 17, 18, 22.5, 24, 25, 28 and 30 will survive the 
+termination or expiration of the Agreement, together with any provision of applicable Supplementary Terms that 
+expressly survives.  
+23. 
+TERMINATION FOR CAUSE 
+23.1. 
+Unless otherwise agreed and/or specifically stated in the Agreement, where either Party materially breaches any 
+of its obligations under the Agreement and the breach cannot reasonably be remedied within thirty (30) days 
+after being notified of the breach in writing, the Parties shall, in good faith, discuss the possibilities and the time 
+frame for when such remedy can be completed. However, if the Parties cannot agree, the Party not in breach 
+shall be entitled to terminate the Agreement with immediate effect upon written notice to the other Party, if the 
+Party in breach has not rectified the breach within thirty (30) days after being notified of the breach. The notice 
+shall state the nature of the breach and any claim for compensation.  
+23.2. 
+Sections 22 and 23 of these Terms shall not affect the right to use other remedies applicable in case of breach.
+
+9
+24. 
+WAIVER  
+24.1. 
+A waiver of any right or remedy under the Agreement or by law is only effective if given in writing.  Any waiver or 
+failure or delay enforcing any provision of the Agreement on one occasion will not be deemed a waiver of any 
+other provision or of such provision on any other occasion. 
+25. 
+ENTIRE AGREEMENT  
+25.1. 
+The Agreement constitutes the entire understanding and agreement between the Parties and supersedes and 
+extinguishes all previous and contemporaneous understandings, agreements, proposals or representations, 
+written or oral, between the Parties, as to the subject matter hereof.  
+25.2. 
+For the avoidance of doubt, this Agreement supersedes and replaces in its entirety any non-disclosure 
+agreement or confidentiality agreement previously entered into between the Parties, and all confidentiality 
+obligations between the Parties shall be governed exclusively by the terms of this Agreement. 
+25.3. 
+If any provision of the Agreement is held to be invalid or unenforceable, the valid or enforceable portion thereof 
+and the remaining provisions of the Agreement will remain in full force and effect. The Parties to the Agreement 
+are independent contractors, and no agency, partnership, franchise, joint venture or employee-employer 
+relationship is intended or created by the Agreement.  
+26. 
+CHANGES TO THE AGREEMENT 
+26.1. 
+If the Parties agree on changes to the Agreement, the amendments are only valid if in writing signed by both 
+Parties. Notwithstanding the foregoing, Keepit reserves the right to update the Keepit Service Guide at any time. 
+Any such update that would increase the Fees payable by the Customer, reduce the Customer's Entitlement or 
+change the methodology by which consumption is measured takes effect from the commencement of the next 
+renewal term and does not apply during the then-current Subscription Term. 
+27. 
+ORDER OF PRECEDENCE 
+27.1. 
+Any ambiguity, conflict or inconsistency between the documents comprising this Agreement shall be resolved 
+according to the following order of precedence: 
+1. 
+Data Processing Agreement 
+2. 
+Any Supplementary Terms, in respect of an Add-On or Services to which they apply 
+3. 
+Terms of Service  
+4. 
+Order Form  
+5. 
+Any other document (if applicable to the Agreement) 
+28. 
+NOTICES 
+28.1. 
+Any notice or other communication required or permitted under the Agreement and intended to have legal effect 
+must be given in writing to the other Party at the email address set forth in the Order Form. Each Party may 
+change its email address from time to time upon written notice to the other Party of the new email address. 
+29. 
+CODE OF CONDUCT  
+29.1. 
+Each Party is committed to implementing a Code of Conduct, in which the Party, as a minimum, observes the 
+OECD Guidelines for Multinational Enterprises on Responsible Business Conduct regarding acting in a manner 
+that is ethical, transparent, and sustainable, respecting human rights, the environment, and fair business 
+practices.  
+30. 
+GOVERNING LAW AND JURISDICTION 
+30.1. 
+The Agreement is governed by the substantive laws of Sweden. Any dispute, controversy or claim arising out of 
+or in connection with the Agreement, or the breach, termination or invalidity thereof, shall be finally settled by 
+arbitration in accordance with the Arbitration Rules of the SCC Arbitration Institute. The seat of arbitration shall 
+be Stockholm, Sweden. The language of the arbitration shall be English.
+
+------------------------------------------------------------
+
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/TermsOfService-KeepitUSAInc.pdf
+Content type: PDF document
+Title: unknown
+Pages: 10
+Retrieved: 2026-11-08
+
+============================================================
+
+Americas 
+ 
+ 
+ 
+ 
+ 
+1 
+TERMS OF SERVICE (KEEPIT USA INC.) 
+1. 
+BACKGROUND AND PURPOSE 
+1.1. 
+Keepit provides a data protection platform for cloud-to-cloud backup and recovery services.  
+1.2. 
+The Agreement sets forth the legally binding terms and conditions governing the Customer’s right to use the Services.  
+2. 
+DEFINITIONS 
+2.1. 
+In these Terms all capitalized terms used shall have the meanings given to them below: 
+2.2. 
+Agreement means the Order Form and all annexes and schedules thereto, including these Terms.  
+2.3. 
+Account means the unique user credentials, including a user identification name and password issued to an authorized user 
+to access and use the Services.  
+2.4. 
+Affiliate means, with respect to a Party, any corporation or other business entity controlled by, controlling or under common 
+control with that Party whereby control means (i) the direct or indirect ownership of more than 50 % (fifty percent) of the 
+equity interest in such cooperation or business entity, or (ii) the ability in fact to control the management decisions of such 
+corporation or business entity. 
+2.5. 
+Add-On means an additional or optional service, feature, functionality or software component that Keepit makes available in 
+addition to the standard Services, as identified in the Order Form. An Add-On may be subject to Supplementary Terms. 
+2.6. 
+Authorized Reseller means an entity appointed by Keepit to resell the Services to the Customer.  
+2.7. 
+Confidential Information means any information of a confidential or non-public nature disclosed by one Party as a disclosing 
+Party to the other Party as a receiving Party that is either designated as confidential or proprietary at the time of disclosure 
+or should be reasonably understood to be confidential in light of the nature of the information and the circumstances 
+surrounding disclosure.  
+2.8. 
+Customer means the Customer identified in the Order Form.   
+2.9. 
+Customer Content means all data, including text, sound, video or image files, and software that the Customer stores, 
+generates, accesses, imports, exports, receives or sends through the Customer’s use of the SaaS Workload(s). For example, 
+Customer Content will include emails and attachments, SharePoint Online site content, or instant messaging conversations. 
+2.10. 
+Entitlement means the volume of the Services and any Add-On the Customer is entitled to use, measured by the use metric 
+specified in the applicable Order Form. The applicable use metrics, and the methodology by which Keepit measures and 
+counts consumption, are described in the Keepit Service Guide. 
+2.11. 
+Fees means all amounts payable by the Customer for the Services, as specified in the applicable Order Form. 
+2.12. 
+Keepit means Keepit USA Inc., 3232 McKinney Ave. Suite 820 Dallas, TX 75204. 
+2.13. 
+Keepit Service Guide means the document published by Keepit describing the features, functionalities, service tiers, support 
+levels, and applicable terms of use of the Services, as updated by Keepit from time to time. Keepit Service Guide is available 
+at the Keepit legal page or as otherwise notified to the Customer. The current version is available at: 
+HTTPS://WWW.KEEPIT.COM/SERVICE-GUIDE/. 
+2.14. 
+Managed Service Provider means an Authorized Reseller that in addition to reselling the Services remotely manages the 
+Customer’s IT infrastructure, and through access to the Customer’s SaaS Workload(s) and the Services provides ongoing 
+and regular support and active administration of the aforementioned.  
+2.15. 
+Order Form means an ordering document specifying the Services to be provided to the Customer, issued by either  Keepit 
+or an Authorized Reseller. By accepting such ordering document, the Customer agrees to be bound by the Agreement. 
+2.16. 
+Party means either the Customer or Keepit individually;  
+2.17. 
+Parties means the Customer and Keepit jointly. 
+2.18. 
+Representatives means employees, agents, suppliers and other third parties collectively.  
+2.19. 
+SaaS Workload(s) means the third-party cloud solution(s) mentioned in the Order Form for which the Customer can use the 
+Services to provide backup and recovery, such as Microsoft 365. 
+2.20. 
+Service Credits means additional days of service which are added to the term of the relevant Order Form.  
+2.21. 
+Services means the Keepit cloud backup and recovery services, including any feature or functionality add-ons (each an Add-
+On), and any modified versions of, and upgrades, updates and additions to such services supplied by Keepit to the Customer, 
+as identified in the Order Form. 
+2.22. 
+Subscription Term means the period during which the Customer is entitled to use the Services, as specified in the Order 
+Form, including any renewal term.
+
+Americas 
+ 
+ 
+ 
+ 
+ 
+2 
+2.23. 
+Supplementary Terms means any additional terms provided or published by Keepit that apply to a specific Add-On, Service 
+tier or SaaS Workload, as identified in or attached to the Order Form.   
+2.24. 
+Terms mean these Terms of Service. 
+2.25. 
+Use Limitations means any use limitations or restrictions with respect to the Customer’s use of the Services, as set forth in 
+the applicable Order Form, Keepit Service Guide, any Supplementary Terms or these Terms. 
+2.26. 
+User(s) means user accounts with different privileges of access and usage to the Services under the Account. 
+2.27. 
+UserID means a unique user identification name and password which each User will receive in order to access the Services.  
+3. 
+SERVICES 
+3.1. 
+The Services provide cloud-to-cloud backup and recovery for the SaaS Workload(s) stated in the Order Form. In accordance 
+with the Agreement, the Customer will have access to the specified Services for the duration of the term set out in the Order 
+Form and any renewals thereof.  
+3.2. 
+The Services, generally stated, enable the Customer through the Services to extract Customer Content from the SaaS 
+Workload(s) and create immutable copies thereof on the Keepit platform, recover Customer Content  and restore Customer 
+Content back to where the Customer Content originally resided and download Customer Content using the export/restore 
+tools offered.  
+3.3. 
+Keepit will make the Services available to the Customer in accordance with the Service Level Agreement set out in Section 
+10, subject to the terms of the Agreement. The Customer must maintain valid and active access to the SaaS Workload(s) 
+and pay all costs associated therewith. 
+3.4. 
+Keepit may make Add-Ons available to the Customer. An Add-On ordered by the Customer forms part of the Services and 
+is provided subject to the Agreement, save that where Supplementary Terms apply to an Add-On, those Supplementary 
+Terms govern that Add-On to the extent of any conflict with these Terms, including as regards use metrics, measurement, 
+pricing and any software licensed to the Customer as part of the Add-On. The features, functionalities, service levels and 
+measurement methodology applicable to each Add-On are described in the Keepit Service Guide and the applicable Order 
+Form.  
+4. 
+PROOF OF CONCEPT AND FREE SERVICES 
+4.1. 
+Services provided for proof of concept (for trials or evaluations) are provided at no charge, and their use will be for a limited 
+duration solely determined by Keepit. 
+4.2. 
+From time to time, Keepit may make certain Services available for full use, i.e., not subject to limited proof of concept purposes 
+at no charge. These free Services may have limited features, functions, and other technical limitations compared to paid 
+versions. 
+4.3. 
+Notwithstanding anything to the contrary in these Terms, Keepit does not provide maintenance and support, warranties, or 
+indemnification for Services provided as part of a proof of concept or as free Services, except for free Services delivered in 
+conjunction with paid Services.  
+4.4. 
+Upon expiration or termination of a proof of concept or free Services period, Keepit shall delete all Customer Content 
+associated with such proof of concept or free Services no later than thirty (30) days, unless the Customer converts to a paid 
+subscription for the Services. 
+5. 
+USE OF SERVICES  
+5.1. 
+Keepit grants to the Customer, in accordance with the Agreement and subject to the Use Limitations, a limited, non-exclusive, 
+revocable, non-sublicensable, non-transferable right to use and access the Services solely for the Customer's internal 
+business purposes. The Customer will not be provided with and shall have no right to any software code. The foregoing is 
+subject to any license to install and use software expressly granted to the Customer under applicable Supplementary Terms. 
+The Customer may permit its Affiliates to use and access the Services for their respective internal business purposes. In 
+addition, the Customer may, subject to these Terms, permit third-party contractors, Managed Service Providers, agents and 
+outsourcers to use and access the Services solely on behalf of and for the benefit of the Customer or its Affiliates. The 
+Customer shall be fully responsible and liable for all use of and access to the Services by its Affiliates and any third parties it 
+permits to use or access the Services, including but not limited to third-party contractors, Managed Service Providers, agents 
+and outsourcers, to the same extent and subject to the same limitation as the Customer is responsible and liable under this 
+Agreement. The Customer shall ensure that all such Affiliates and third parties comply with the terms and conditions of this 
+Agreement, and any breach or violation by such Affiliates or third parties shall be deemed a breach by the Customer. 
+5.2. 
+The Customer will be assigned an Account in connection with the provision of the Services. Within the Account, the Customer 
+may create and authorize additional Users, each with a UserID.
+
+Americas 
+ 
+ 
+ 
+ 
+ 
+3 
+5.3. 
+The Customer is responsible for all activities that occur under the Account and any use of any UserID. Keepit reserves the 
+right to suspend and, subject to prior notification, terminate the Account or any UserID that Keepit reasonably determines 
+may have been used by an unauthorized third party or otherwise used improperly. The Customer agrees to immediately 
+notify Keepit of any unauthorized use of an UserID or the Account or any other breach of security.  
+5.4. 
+The Customer is responsible for maintaining security around credentials for accessing the Services and, when applicable, 
+security around the Customer identity provider which may be used to authenticate against the Services. 
+5.5. 
+The Customer agrees to: (i) provide and maintain true, accurate, current, and complete information when the Customer 
+registers for the Services; (ii) update such information to keep it true, accurate, current and complete; and (iii) only open up 
+an Account for the Customer. If the Customer provides any information that is untrue, inaccurate, not current or incomplete, 
+or Keepit has reasonable grounds to suspect that such information is untrue, inaccurate, not current or incomplete, and such 
+information materially affects Keepit's ability to provide the Services or fulfil its obligations (including invoicing and account 
+management), Keepit has the right to suspend and, subject to prior notification and possibility to rectify such information, 
+terminate the Account and to refuse to provide the Customer any current or future use of the Services (or any portion thereof). 
+5.6. 
+The Customer is (i) responsible for any necessary hardware, software and connectivity required to access the World Wide 
+Web and to use the Services, including without limitation, any fees associated with establishing and maintaining such access; 
+(ii) responsible for Users' compliance with the Agreement, (iii) solely responsible for the accuracy, quality, integrity and legality 
+in all applicable jurisdictions of any Customer Content, the means by which the Customer acquired the Customer Content, 
+and for securing Keepit’s right to retrieve and store the Customer Content in connection with the Services, (iv) responsible 
+for preventing unauthorized access to or use of the Services through the Customer’s Account or Users, including 
+implementing reasonable security measures within the Customer’s systems and networks, and (v) permitted to use the 
+Services only in accordance with the online materials furnished by Keepit that describe the features, functionality or operation 
+of the Services and in a manner consistent with all applicable laws and regulations. 
+5.7. 
+The Customer will not make the Services available to any third party for the purpose of selling, reselling, renting or leasing 
+the Services. 
+5.8. 
+Keepit may collect and process Account information, general SaaS Workload tenant information, and technical and 
+operational data relating to the Customer’s use of the Services (such as consumption of the Services against the Customer's 
+Entitlement, configuration settings, and consumption patterns) solely for the following purposes: (i) verifying compliance with 
+the Use Limitations set forth in the Agreement; (ii) provisioning, maintaining, improving, and developing Keepit's services; (iii) 
+issuing service notifications, operational alerts, and communications reasonably necessary for the Customer's use of the 
+Services; and (iv) preparing and providing the Customer with reports, observations, and recommendations regarding the 
+Customer’s use of the Services, including suggested improvements. Keepit may also aggregate and anonymise such data 
+for service analytics provided that the aggregated data does not identify the Customer. 
+5.9. 
+Where a Service or Add-On includes a software component that Keepit makes available for the Customer to install and 
+operate in the Customer's own environment (the "Software"), Keepit grants the Customer a non-exclusive, non-transferable, 
+non-sublicensable license to install, configure and use that Software solely for the Customer's internal business purposes 
+and solely in connection with the Services, for the Subscription Term applicable to the Service or Add-On. Keepit will make 
+the Software available by a method selected by Keepit, as described in the Keepit Service Guide or the applicable Order 
+Form. 
+5.10. 
+The Customer shall not, and shall not permit any third party to: (i) translate, adapt, modify or create derivative works based 
+on the Software; (ii) sell, distribute, rent, lease, lend, sublicense, transfer or otherwise make the Software available to any 
+third party; (iii) reproduce the Software other than as necessary for its permitted use; (iv) decompile, disassemble or reverse 
+engineer the Software, or otherwise attempt to derive its source code, algorithms or structures, except to the extent such 
+restriction is prohibited by applicable law; (v) use the Software to develop, distribute or make available products or services 
+to third parties; or (vi) use the Software other than as expressly permitted under the Agreement. 
+5.11. 
+The Software may include components licensed from third parties. Those components are licensed under the terms 
+accompanying them and not under these Terms. Keepit will make a list of such components available to the Customer on 
+request. 
+5.12. 
+Keepit has no responsibility for any claim arising from a modification of the Software made by anyone other than Keepit, 
+unless Keepit has approved the modification in writing. Support for the Software is provided as described in the Keepit Service 
+Guide. 
+5.13. 
+On expiry or termination of the Subscription Term for the Service or Add-On, the license granted in Section 5.9 terminates 
+and the Customer shall cease all use of the Software, uninstall and delete all copies in its possession or control and, on 
+Keepit's request, certify its compliance with this Section in writing. This Section survives termination or expiration of the 
+Agreement.
+
+Americas 
+ 
+ 
+ 
+ 
+ 
+4 
+6. 
+ACCEPTABLE USE POLICY 
+6.1. 
+Customer agrees not to use the Services knowingly to collect, upload, transmit, display, or distribute any Customer Content 
+(i) that violates third-party rights; or (ii) that is in violation of any law, regulation, obligations or restrictions imposed by any 
+third party.  
+6.2. 
+In addition, the Customer agrees to take reasonable precautions to avoid and not knowingly to: (i) upload, transmit, or 
+distribute to or through the Services any computer viruses, worms, time bombs, Trojan horses or any software intended to 
+damage or alter a computer system or data; (ii) interfere with, disrupt, or create an undue burden on servers or networks 
+connected to the Services, or violate the regulations, policies or procedures of such networks; (iii) attempt to gain 
+unauthorized access to the Services (or to other computer systems or networks connected to or used together with the 
+Services), whether through password mining or any other means; (iv) harass or interfere with any other User’s use of the 
+Services; or (v) use software or automated agents or scripts to produce multiple Accounts on the Services (except for Users 
+allowed hereunder or otherwise agreed by the Parties). Keepit may, at its discretion, apply automatic monitoring, filtering, 
+and deny performance of activities that do not comply with the Agreement. 
+6.3. 
+Subject to the following, Keepit reserves the right to modify or discontinue any features, functionality, and other attributes of 
+the Services at any time in its sole discretion. Keepit will provide written notice to the Customer prior to any discontinuation 
+or any material changes to the Services. Keepit will not be obliged to provide such notice, if the discontinuation is necessary 
+to address an emergency or threat to the security or integrity of the Services, respond to claims or litigation, or comply with 
+any appliable law or regulatory requirements or requests of a government entity. Notwithstanding the foregoing, Keepit will 
+not exercise its rights under this Section in a manner that prevents the Customer from performing data protection of, or 
+recovering, Customer Content from the SaaS Workload(s) specified in the applicable Order Form. 
+7. 
+FEES, PAYMENT AND VERIFICATION  
+7.1. 
+As consideration for Keepit’s provision of the Services under the Agreement, the Customer will pay the Fees as specified in 
+the Order Form. Keepit reserves the right (in addition to any other rights or remedies Keepit may have) to discontinue the 
+Services and suspend all UserID’s and the Customer’s access to the Services upon prior written notice if any Fees owed are 
+overdue. Before exercising this right, Keepit or the Authorized Reseller will provide the Customer with prior written notice and 
+send two payment reminders. If the Customer fails to pay the outstanding amount within ten (10) days of the second written 
+reminder, Keepit may suspend the Services until such amounts are paid in full. 
+7.2. 
+Each Party shall individually bear the bank charges levied by their own bank in connection with the transfer, payment of or 
+receipt of any Fees.  
+7.3. 
+Where the Order Form specifies a minimum commitment for the Services or for an Add-On, Keepit and/or the Authorized 
+Reseller is entitled to invoice the Customer for that minimum commitment for each billing period during the Subscription 
+Term, regardless of the Customer's actual consumption. Consumption in excess of the minimum commitment is subject to 
+true-up in accordance with Section 7.4 or, where applicable, the Supplementary Terms. 
+7.4. 
+Keepit and/or the Authorized Reseller is entitled to conduct periodic true-up adjustments based on the Customer's actual 
+consumption of the Services compared to its Entitlement as specified in the Order Form. Where the Customer's measured 
+consumption in any measurement period exceeds its Entitlement or any minimum commitment, Keepit and/or the Authorized 
+Reseller can require the Customer to increase its Entitlement by purchasing additional whole units sufficient to cover the 
+Customer's latest measured consumption plus a headroom of ten percent (10%), or such other percentage as is stated in 
+the applicable Order Form. The increased Entitlement takes effect for the remainder of the Subscription Term and is 
+coterminous with it, is charged at the prices set out in the applicable Order Form, and is invoiced in the period following the 
+period in which the excess consumption was measured. 
+7.5. 
+Prices, use metrics and units of measurement not stated in these Terms are set out in the applicable Order Form and the 
+Keepit Service Guide. 
+8. 
+DATA RETENTION  
+8.1. 
+The Customer can configure data retention rules for the Customer Content within the Services. Data retention refers to the 
+amount of time a data object remains in the backup after being deleted from the Customer’s SaaS Workload(s) backed up 
+by the Services. The Order Form will describe the data retention included in the Agreement. 
+8.2. 
+Notwithstanding Section 8.1 above, Keepit will retain all Customer Content processed under the Agreement for 30 days after 
+the deletion of the Customer's account or termination thereof. This ’deletion retention period’ will ensure that the Customer's 
+access to its Customer Content can be re-established after any conceivable targeted attack against the Customer's primary 
+data and backup data. After expiration of the ‘deletion retention’ period, Keepit will delete all records of the Customer Content 
+without undue delay. 
+9. 
+DATA CENTER LOCATION
+
+Americas 
+ 
+ 
+ 
+ 
+ 
+5 
+9.1. 
+The Customer determines on the Order Form from which Keepit data center location the Services shall be provided by Keepit. 
+9.2. 
+The Customer appoints Keepit to transfer Customer Content to the Services which will be stored exclusively in the location 
+chosen by the Customer.  
+9.3. 
+It is the responsibility of the Customer to choose a data center location suitable for the storage of Customer Content. For 
+example, if Customer Content may not be exported out of the USA, then the Customer must choose a data center location 
+within the US for the Services. 
+9.4. 
+Keepit does not control or limit the locations from which the Services can be accessed by the Customer, and to or from which 
+location transfers can be made by the Customer. 
+10. 
+SERVICE LEVEL AGREEMENT (SLA) 
+10.1. 
+Access to the Services relies on the Keepit web application and the API front-end servers providing data thereto, in the data 
+center location where the Customer has chosen to have the Services delivered. 
+10.2. 
+Keepit will monitor the availability of the API front-end servers. In the event that all front-end servers for the location chosen 
+by the Customer are unavailable for HTTPS services for more than one full minute, this will count as “downtime”. Scheduled 
+maintenance windows are excluded from this downtime. Keepit will notify any significant outage in availability known to 
+Keepit, including scheduled maintenance, on its website, at https://status.keepit.com/. The Customer must subscribe there 
+to receive direct notifications regarding availability. In case product functionality is unavailable and this is not covered by the 
+aforementioned monitoring, this must be raised as a support issue instead and will not count as "downtime". Keepit will upon 
+request provide access to an automated availability report. See Section 20 for details on support. 
+10.3. 
+Keepit will make the Keepit platform available to the Customer with 99.9% uptime in any calendar quarter, measured as total 
+minutes in the quarter minus Downtime, divided by total minutes in the quarter (the "Availability Commitment"). The 
+Availability Commitment applies solely to the Keepit platform. Keepit will use commercially reasonable efforts to maintain the 
+availability and performance of any Add-On or other component of the Services not expressly covered by the Availability 
+Commitment. Service levels applicable to a specific Add-On, if any, are as set out in the Keepit Service Guide or the 
+applicable Supplementary Terms. No Availability Commitment or Service Credit applies to software installed or operated in 
+the Customer's own environment. 
+If Keepit fails to meet the Availability Commitment in any calendar quarter falling within the term of an Order Form, the 
+Customer will be eligible to receive Service Credits as set out in Table 1 below. To claim Service Credits, the Customer must 
+submit a written claim by email to support@keepit.com within thirty (30) days of the end of the relevant calendar quarter, 
+providing details of the dates and duration of the Downtime claimed. Keepit may require the Customer to provide further 
+information in support of a claim and may reject claims that are not submitted in accordance with this Section. Service Credits 
+may only be applied against the Order Form in respect of which the Availability Commitment was not met, have no cash 
+value, are non-transferable, and constitute the Customer's sole and exclusive remedy for any failure by Keepit to meet the 
+Availability Commitment.Table 1: Service Credits 
+Availability  
+Service Credits 
+100 % - 99,90 % 
+N/A 
+99,89 % - 99,8 % 
+1 day added to the Customer’s current Order Form term (1 free day) 
+99,79 % - 99,0 % 
+5 days added to the Customer’s current Order Form term (5 free days) 
+98,99 % - 95,0% 
+10 days added to the Customer’s current Order Form term (10 free days) 
+Lower than 95,0% 
+20 days added to the Customer’s current Order Form term (20 free days) 
+10.4. 
+Keepit will initiate at least one (1) backup per day per SaaS Workload, unless the Customer configures different parameters 
+within the Services (including scope and timing). Where a backup is already in progress, a new backup will not commence 
+until the running backup is complete. The time required to complete a backup depends on factors outside Keepit's control, 
+including the volume and nature of the Customer Content to be backed up, and Keepit makes no commitment as to backup 
+completion time. Initial uploads, large dataset changes, significant backup reconfigurations, and similar events may cause a 
+backup to run for longer than usual.The operational status of the data centers and incident reports are available at 
+https://status.keepit.com/. 
+11. 
+SLA EXCLUSIONS 
+11.1. 
+The SLA does not apply to any performance or availability issues due to: 
+a) 
+factors outside Keepit’s reasonable control (for example outage by a SaaS Workload(s), or a force majeure event); 
+b) 
+the Customer's, end-user's, or any third-party's equipment, services, actions or lack thereof; and/or
+
+Americas 
+ 
+ 
+ 
+ 
+ 
+6 
+c) 
+Keepit’s scheduled maintenance or version upgrades; and/or 
+d) 
+any software installed, configured or operated by the Customer in the Customer's own environment, including software 
+licensed to the Customer as part of an Add-On. 
+12. 
+INDEMNIFICATION 
+12.1. 
+Keepit will defend, indemnify, and hold the Customer harmless from any claim asserting that the Services infringe any 
+intellectual property right of a third party. In such an event Keepit will pay any and all damages awarded by a court and 
+actually paid by the Customer or agreed to in settlement by Keepit and attributable to such claim. Customer shall promptly 
+notify Keepit of any such claims. Keepit shall, in any event, have an irrevocable right to take over the handling of the claim 
+or join any ongoing court proceedings relating to such claim, both at its own expense and thus institute proceedings or enter 
+into settlements concerning the alleged infringements. 
+12.2. 
+If the Services are found to infringe, or if Keepit determines in its sole opinion that the Services are likely to be found to 
+infringe the intellectual property right of a third party, then Keepit will either; a) obtain the right for the Customer to use the 
+Services; b) bring the infringement to an end by modifying or replacing the Services with another service which possesses 
+substantially the same functions as the Services, or c) if a or b are not commercially reasonable Keepit may terminate the 
+Agreement with immediate effect against repayment of the remaining unused portion of the Fees prepaid by the Customer 
+from the date of termination. 
+12.3. 
+The Customer agrees to defend or settle, at the Customer's expense, any third-party claim against Keepit alleging that the 
+Customer's provision or use of Customer Content violates or infringed a third party's rights, and to pay damages finally 
+awarded by a court or agreed in settlement. 
+13. 
+LIMITATION OF LIABILITY 
+13.1. 
+No limitation on liability shall apply to Keepit’s liability to pay damages finally awarded pursuant to Section 12 
+(Indemnification). 
+13.2. 
+THE AGGREGATED LIABILITY OF EACH PARTY FOR ANY NON-PERFORMANCE OF ITS OBLIGATIONS UNDER THE 
+AGREEMENT SHALL IN NO EVENT EXCEED AN AMOUNT EQUAL TO THE FEES PAID DURING THE TWELVE (12) 
+MONTHS IMMEDIATELY PRECEDING FORMAL WRITTEN NOTICE OF THE CLAIM FOR LIABILITY. UNDER NO 
+CIRCUMSTANCES, INCLUDING ANY INFRINGEMENT CLAIMS, SHALL THE PARTIES BE LIABLE FOR ANY LOSS OF 
+PROFIT OR INDIRECT OR CONSEQUENTIAL LOSSES, INCLUDING BUT NOT LIMITED TO: RE-PROCUREMENT 
+COSTS, INTERRUPTED COMMUNICATIONS, LOSS OF GOODWILL, LOSS OF REVENUE, OR FOR ANY OTHER 
+SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES, EVEN IF A PARTY HAS BEEN ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGES.  
+13.3. 
+Nothing in this Section shall limit the Customer's payment obligations under the Agreement. 
+14. 
+DISCLAIMER  
+14.1. 
+KEEPIT MAKES NO WARRANTY CONCERNING THE SERVICES, AND THE SERVICES AND ALL DATA, MATERIALS, 
+AND DOCUMENTATION PROVIDED IN CONNECTION WITH THIS AGREEMENT ARE PROVIDED “AS IS” AND “AS 
+AVAILABLE”. KEEPIT DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS, IMPLIED, STATUTORY, BY OPERATION 
+OF LAW OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF NONINFRINGEMENT, 
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR ANY IMPLIED WARRANTIES ARISING OUT OF 
+COURSE OF PERFORMANCE, COURSE OF DEALING OR USAGE OF TRADE. KEEPIT DOES NOT WARRANT THAT 
+THE SERVICES WILL BE PROVIDED ERROR-FREE, UNINTERRUPTED, COMPLETELY SECURE, OR VIRUS-FREE. 
+KEEPIT IS NOT RESPONSIBLE FOR ANY LOSS OF DATA OR HARM DONE TO CUSTOMER COMPUTER, SYSTEMS 
+OR OTHER EQUIPMENT ARISING OUT OF OR RELATING TO CUSTOMER’S USE OF THE SERVICES. CUSTOMER 
+UNDERSTAND AND AGREE THAT USE OF THE SERVICES IS AT CUSTOMER’S OWN RISK AND DISCRETION. 
+15. 
+FORCE MAJEURE 
+15.1. 
+Neither Party shall be in breach of the Agreement nor be considered liable towards the other Party for delay in performing, 
+or failure to perform, any of its obligations under the Agreement if such delay or failure results from events, circumstances or 
+causes beyond the reasonable control of the relevant Party which could not have been taken into account at signing and 
+could not reasonably have been avoided nor surmounted by the relevant Party. 
+15.2. 
+The following circumstances are considered force majeure: war, civil war, natural disasters, or other extraordinary events 
+outside of the Party’s reasonable control. 
+15.3. 
+If either Party is prevented from or delayed in performing any of its obligations under the Agreement by reason of a force 
+majeure, such Party shall notify the other Party in writing as soon as practicable after the onset of such force majeure. The 
+Party’s obligations will be suspended until the time when the Party is again able to meet its obligations. If the obstacle lasts
+
+Americas 
+ 
+ 
+ 
+ 
+ 
+7 
+more than sixty (60) days, the other Party will be entitled to terminate the Agreement with immediate effect by providing 
+written notice.  
+16. 
+CONFIDENTIAL INFORMATION 
+16.1. 
+Each Party shall comply with these legal requirements pertaining to Confidential Information and treat Customer Content as 
+such.  
+16.2. 
+Each Party undertakes to not disclose Confidential Information to any third party at any time without the other Party's prior 
+written consent, except as otherwise permitted hereunder.  
+16.3. 
+Each Party undertakes to implement the necessary measures in order to prevent unauthorized third-party access to such 
+Confidential Information and to only use Confidential Information for the performance of these Terms.  
+16.4. 
+Each Party shall ensure that access to Confidential Information is limited to authorized Representatives on a need-to-know 
+basis and that such Representatives are subject to confidentiality obligations at least as restrictive as the terms of the 
+Agreement (provided that the Party disclosing the Confidential Information to its Representatives shall be responsible for any 
+actions of its Representatives).  
+16.5. 
+Either Party may disclose certain Confidential Information of the disclosing Party, without violating the obligations of the 
+Agreement, to the extent such disclosure is required by a valid and effective subpoena, order or other document issued by a 
+court, governmental body or competent jurisdiction or stock exchange, provided that the receiving Party provides the 
+disclosing Party with a prompt and practicable written notice of the existence, terms and circumstances of such a disclosure 
+and makes a reasonable effort to obtain, or to assist the disclosing Party in obtaining, a protective order preventing or limiting 
+the disclosure and/or waiving the receiving Party’s compliance with the provisions of the Agreement. In the event that such 
+protective order or other protection is denied and that the receiving Party or any of its Representatives are nonetheless legally 
+compelled or requested to disclose such information, it or its Representatives, as the case may be, will furnish only that 
+portion of the Confidential Information that its legal counsel advises it as being required and will exercise all commercially 
+reasonable efforts to preserve the confidentiality of the remainder of the Confidential Information. 
+16.6. 
+The confidentiality obligations in this Section do not apply with respect to information that:  
+a) 
+is already lawfully known to the receiving Party as of the date of disclosure hereunder; or 
+b) 
+is documented to have been disclosed to the other Party by a third party that has not been subject to a confidentiality 
+obligation; or  
+c) 
+is already in the public domain or public knowledge at the time of receipt by the receiving Party or comes into the public 
+domain other than through a breach of the terms of the Agreement by the receiving Party or by any recipient to whom 
+disclosure of Confidential Information by the receiving Party is permitted; or 
+d) 
+is independently developed by the receiving Party without the use of the Confidential Information received from the 
+disclosing Party. 
+16.7. 
+The confidentiality obligations in this Section shall survive the termination of the Agreement.  
+17. 
+INTELLECTUAL PROPERTY RIGHTS 
+17.1. 
+The Customer acknowledges that Keepit and its Affiliates retains all rights, title and interest in and to the Services, as well 
+as to all proprietary software, materials, formats, interfaces, information, data and content used by Keepit or provided to the 
+Customer in connection with the Services, and that these are protected by intellectual property rights owned by or licensed 
+to Keepit. Other than as expressly set forth in the Agreement, no license or other rights in the Services are granted to the 
+Customer, and all such rights are hereby expressly reserved by Keepit and Keepit's Affiliates. 
+17.2. 
+The Customer retains all rights, title, and interest in and to the Customer Content. The Customer grants Keepit a fully paid-
+up, non-exclusive, royalty-free, non-transferable license to use the Customer Content for the term of the Agreement for the 
+sole purpose of providing the Services to the Customer.  
+17.3. 
+The Customer agrees that Keepit will have the unrestricted right to use any feedback and related information the Customer 
+provides regarding the Services, including without limitation, any flaws, errors, bugs, anomalies, comments on the community 
+forum, and problems with and/or suggestions for the Services. 
+18. 
+PROCESSING OF AND DELETION OF CUSTOMER CONTENT 
+18.1. 
+The Parties agree that Keepit shall not retain, use, or disclose any Customer Content for any purpose other than for the 
+specific purpose of providing the Services specified in this Agreement. 
+18.2. 
+The Parties shall comply with their data protection obligations set out in the Data Processing Agreement.  
+To the extent that the Customer is subject to the Health Insurance Portability and Accountability Act ("HIPAA"),  the Parties shall enter 
+into the Business Associate Agreement ("BAA") available at HTTPS://WWW.KEEPIT.COM/DATA-PROCESSING-AGREEMENT/ .
+
+Americas 
+ 
+ 
+ 
+ 
+ 
+8 
+18.3. 
+To the extent that the Customer is subject to other specific industry regulation that requires the Parties to enter into a separate 
+agreement or addendum governing the Parties' respective obligations in relation to collecting, storing, or transmitting sensitive 
+personal information, the Parties agree to discuss such requirements and negotiate in good faith an agreement acceptable 
+to both Parties to comply with such industry regulation. 
+19. 
+COMPLIANCE WITH LAWS AND REGULATIONS 
+19.1. 
+Keepit will comply with all relevant laws and regulations applicable to the Services. However, Keepit is not responsible for 
+compliance with laws or regulations that apply to the Customer or to the Customer's use of the Services that are not generally 
+applicable to online services or service providers. Keepit cannot and shall not attempt to determine if the Customer Content 
+may be subject to any additional laws or regulations. 
+19.2. 
+The Customer must comply with all applicable laws and regulations surrounding its use of the Services. The Customer is 
+responsible for determining if the use of the Services is appropriate for storage and processing of the Customer Content. 
+19.3. 
+Customer may not use or otherwise export or re-export the Services except as authorized by United States law and the laws 
+of the jurisdiction in which the Services are obtained. In particular, but without limitation, the Services may not be exported 
+or re- exported (a) into any U.S. embargoed countries, (b) to person or entity on the U.S. Treasury Department's list of 
+Specially Designated Nationals or the U.S. Department of Commerce Denied Person’s List or Entity List, (c) Cuba, Iran, 
+North Korea or Syria. By using the Services, the Customer represent and warrant that it is not located in any such country or 
+on any such list. The Customer also agrees that it will not use the Services for any purposes prohibited by United States law, 
+including, without limitation, the development, design, manufacture or production of nuclear, missiles, or chemical or 
+biological weapons. 
+19.4. 
+Both Parties covenant and agree that they are and will strictly adhere to all applicable anti-corruption laws, including but not 
+limited to the U.S. Foreign Corrupt Practices Act and the U.K. Bribery Act, in connection with fulfilling their obligations under 
+this Agreement. 
+20. 
+SUPPORT  
+20.1. 
+Keepit provides different tiers of support depending on the Services purchased by the Customer. The support tiers are further 
+described in the Keepit Service Guide.  
+21. 
+ASSIGNMENT 
+21.1. 
+Neither Party may assign any of its rights or responsibilities under the Agreement without the prior written consent of the 
+other Party, which shall not be unreasonably withheld. Notwithstanding the foregoing, either Party and its permitted 
+successors and assignees may assign the Agreement in whole or in part without the other Party’s consent:  
+a) 
+to a successor in interest in connection with a merger, acquisition, or sale of all or substantially all assets to which the 
+agreement relates;  
+b) 
+to an Affiliate; and  
+c) 
+in connection with a corporate reorganization or divestiture to separate any business unit, product(s) or assets to which 
+the Agreement relates.  
+22. 
+TERM AND TERMINATION FOR CONVENIENCE 
+22.1. 
+Unless otherwise set forth in the applicable Order Form, the term will automatically renew for successive terms of equal 
+length to the initial term set forth in the Order Form. 
+22.2. 
+Either Party may terminate the Agreement by providing notice of termination, cancellation, or nonrenewal at least 90 days 
+prior to the end of the then-current term. 
+22.3. 
+Either Party may terminate the Agreement by notice in writing to the other Party in the event of the other Party’s voluntary or 
+compulsory liquidation, dissolution, insolvency, suspension of its payments, bankruptcy or any statutory or private 
+composition or agreement with its creditors in order to escape a bankruptcy, or if the other Party is placed in the hands of a 
+receiver, assignee or trustee in bankruptcy, whether voluntarily or otherwise.  
+22.4. 
+For the Customer’s termination to be valid, the Customer must send a notice in writing to: US.BILLING@KEEPIT.COM or the 
+Authorized Reseller. The email must contain company name, company registration number, contact information, and a 
+statement that the Customer wishes to terminate the Agreement. 
+22.5. 
+The rights and duties of the Parties under Sections 7, 12, 13, 16, 17, 18, 22.5, 24, 25, 28 and 30 will survive the termination 
+or expiration of the Agreement, together with any provision of applicable Supplementary Terms that expressly survives.  
+23. 
+TERMINATION FOR CAUSE
+
+Americas 
+ 
+ 
+ 
+ 
+ 
+9 
+23.1. 
+Unless otherwise agreed and/or specifically stated in the Agreement, where either Party materially breaches any of its 
+obligations under the Agreement and the breach cannot reasonably be remedied within thirty (30) days after being notified 
+of the breach in writing, the Parties shall, in good faith, discuss the possibilities and the time frame for when such remedy 
+can be completed. However, if the Parties cannot agree, the Party not in breach shall be entitled to terminate the Agreement 
+with immediate effect upon written notice to the other Party, if the Party in breach has not rectified the breach within thirty 
+(30) days after being notified of the breach. The notice shall state the nature of the breach and any claim for compensation.  
+23.2. 
+Sections 22 and 23 of these Terms shall not affect the right to use other remedies applicable in case of breach. 
+24. 
+WAIVER  
+24.1. 
+A waiver of any right or remedy under the Agreement or by law is only effective if given in writing.  Any waiver or failure or 
+delay enforcing any provision of the Agreement on one occasion will not be deemed a waiver of any other provision or of 
+such provision on any other occasion. 
+25. 
+ENTIRE AGREEMENT  
+25.1. 
+The Agreement constitutes the entire understanding and agreement between the Parties and supersedes and extinguishes 
+all previous and contemporaneous understandings, agreements, proposals or representations, written or oral, between the 
+Parties, as to the subject matter hereof.  
+25.2. 
+For the avoidance of doubt, this Agreement supersedes and replaces in its entirety any non-disclosure agreement or 
+confidentiality agreement previously entered into between the Parties, and all confidentiality obligations between the Parties 
+shall be governed exclusively by the terms of this Agreement. 
+25.3. 
+If any provision of the Agreement is held to be invalid or unenforceable, the valid or enforceable portion thereof and the 
+remaining provisions of the Agreement will remain in full force and effect. The Parties to the Agreement are independent 
+contractors, and no agency, partnership, franchise, joint venture or employee-employer relationship is intended or created 
+by the Agreement.  
+26. 
+CHANGES TO THE AGREEMENT 
+26.1. 
+If the Parties agree on changes to the Agreement, the amendments are only valid if in writing signed by both Parties. 
+Notwithstanding the foregoing, Keepit reserves the right to update the Keepit Service Guide at any time . Any such update 
+that would increase the Fees payable by the Customer, reduce the Customer's Entitlement or change the methodology by 
+which consumption is measured takes effect from the commencement of the next renewal term and does not apply during 
+the then-current Subscription Term. 
+27. 
+ORDER OF PRECEDENCE 
+27.1. 
+Any ambiguity, conflict or inconsistency between the documents comprising this Agreement shall be resolved according to 
+the following order of precedence: 
+1. 
+Data Processing Agreement (including any applicable addenda such as the BAA, CCPA Addendum etc.) 
+2. 
+Any Supplementary Terms, in respect of an Add-On or Services to which they apply 
+3. 
+Terms of Service  
+4. 
+Order Form  
+5. 
+Any other document (if applicable to the Agreement) 
+28. 
+NOTICES 
+28.1. 
+Any notice or other communication required or permitted under the Agreement and intended to have legal effect must be 
+given in writing to the other Party at the email address set forth in the Order Form. Each Party may change its email address 
+from time to time upon written notice to the other Party of the new email address. 
+29. 
+CODE OF CONDUCT  
+29.1. 
+Each Party is committed to implementing a Code of Conduct, in which the Party, as a minimum, observes the OECD 
+Guidelines for Multinational Enterprises on Responsible Business Conduct regarding acting in a manner that is ethical, 
+transparent, and sustainable, respecting human rights, the environment, and fair business practices.  
+30. 
+GOVERNING LAW AND JURISDICTION 
+30.1. 
+This Agreement shall be governed by and construed in accordance with the laws of the State of New York without giving 
+effect to principles of conflict of laws that would require the application of the laws of a different jurisdiction. All disputes 
+arising out of or in connection with this Agreement must be settled under the rules of the American Arbitration Association 
+(AAA), in accordance with the rules of arbitration arranged by the American Arbitration Association. The arbitration shall take
+
+Americas 
+ 
+ 
+ 
+ 
+ 
+10 
+place in New York City, New York, and shall be conducted in the English language. The arbitration award shall be final and 
+binding on both Parties, and the Parties bind themselves to carry out the award of the arbitrator. The United Nations 
+Convention on Contracts for the International Sale of Goods will not apply to this Agreement.
+
+------------------------------------------------------------
+
 Source URL: https://lp.keepit.com/hubfs/content-assets/EN/The%20compliance%20labyrinth%20webinar%20key%20takeaways%20-%20EN.pdf
 Content type: PDF document
 Title: unknown
@@ -29177,6 +31500,644 @@ air gapped, logically segregated
 environment with immutability by 
 default and encryption both in transfer 
 and at rest.
+
+------------------------------------------------------------
+
+Source URL: https://lp.keepit.com/hubfs/content-assets/EN/The-path-to-cloud-sovereignty-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 15
+Retrieved: 2026-11-08
+
+============================================================
+
+The path to cloud sovereignty  |  1
+© 2026 Keepit. All rights reserved
+The path to 
+cloud sovereignty
+A guide to understanding the 
+EU Cloud Sovereignty Framework — 
+and how Keepit helps
+
+The path to cloud sovereignty  |  2
+© 2026 Keepit. All rights reserved
+Table of contents
+INTRODUCTION 
+The European Commission’s Cloud Sovereignty Framework��� 3
+From principles to practical evaluation�����������������������������������4
+Keepit’s interpretation of EU cloud sovereignty����������������������4
+The sovereignty objectives����������������������������������������������������5
+SOVEREIGNTY OBJECTIVES
+Objective 1: Strategic Sovereignty�����������������������������������������6
+Objective 2: Legal & Jurisdictional Sovereignty�����������������������7
+Objective 3: Data & AI Sovereignty�����������������������������������������9
+Objective 4: Operational Sovereignty�����������������������������������10
+Objective 5: Supply Chain Sovereignty����������������������������������11
+Objective 6: Technology Sovereignty �����������������������������������12
+Objective 7: Security & Compliance Sovereignty ������������������13
+Objective 8: Environmental Sustainability �����������������������������14
+CONCLUSION
+From framework to decision �������������������������������������������������15
+Learn more ������������������������������������������������������������������������� 15
+
+The path to cloud sovereignty  |  3
+© 2026 Keepit. All rights reserved
+The European Commission’s Cloud 
+Sovereignty Framework 
+If you are responsible for IT, security, or digital infrastructure in Europe, the concept of data sovereignty is 
+not new. Regulations like NIS2, DORA, and GDPR already make it clear that you are accountable for:
+INTRODUCTION
+Where your 
+data resides 
+Who can 
+access it 
+Third-party 
+dependencies
+What is often less clear is something more 
+practical: How do you consistently evaluate 
+whether a cloud provider meets those 
+expectations? This is exactly the problem 
+the EU Cloud Sovereignty Framework is 
+designed to address.  
+The framework is not a regulation, and it 
+does not introduce new legal obligations. 
+Instead, it provides a structured model for 
+assessing cloud providers across the areas 
+that matter most for sovereignty and control 
+— from legal exposure and data handling to 
+operational independence and supply chain 
+risk. In simple terms: 
+It turns the abstract idea of “sovereignty” 
+into something you can evaluate, compare, 
+and document. 
+The framework outlines eight objectives, 
+from strategic to environmental. This guide 
+will walk you through all eight objectives, 
+their contributing factors, and how Keepit 
+approaches each area of sovereignty. 
+Read more in our research report: 
+Data sovereignty: Take control of your data 
+
+The path to cloud sovereignty  |  4
+© 2026 Keepit. All rights reserved
+From principles to practical evaluation
+Most regulatory frameworks define what risks you need to manage, but not how to assess them consis-
+tently. The Cloud Sovereignty Framework bridges that gap by helping you to answer, in practice, a simple 
+question: “Can we rely on this provider from a sovereignty and control perspective?” The framework helps 
+you answer that question in a structured, defensible way by guiding you through three key steps, which 
+together turn what could be a subjective assessment into a consistent, repeatable evaluation process:
+INTRODUCTION
+Keepit’s interpretation of EU cloud sovereignty
+In line with the European Commission’s Cloud Sovereignty Framework, Keepit understands cloud sovereignty 
+not as technical isolation, but as the practical ability for EU customers to retain control over their data, 
+operations, and legal position when using cloud services. This includes: 
+•	
+Control over jurisdiction, governance, and access to data 
+•	
+Protection against unintended extraterritorial access 
+•	
+Operational resilience and independence 
+•	
+Transparency of technology and supply chain dependencies
+In this guide, we will present the eight sovereignty objectives (SOV-1 to SOV-8) and summarize how Keepit 
+addresses each of these objectives. By doing so, we want to describe how we ensure that customer data 
+remains under effective European control, protected from undue external influence, and managed in 
+accordance with EU law and values.
+Kim Larsen 
+Group Chief Information Security Officer, Keepit
+1. Breaking down sovereignty into concrete areas of evaluation
+Instead of treating sovereignty as a single concept, you assess it across distinct dimensions such 
+as legal exposure, operational control, and data handling, called “sovereignty objectives” in the 
+framework.
+2. Examining the contributing factors within each area
+Each dimension is supported by specific factors that help you evaluate real-world risks — for 
+example, exposure to foreign jurisdictions, level of operational independence, or dependency on 
+external supply chains. These are called “contributing factors” in the EU framework.
+3. Assessing both minimum acceptability and overall strength
+You determine whether a provider meets the minimum required level in each area (“sovereignty 
+effectiveness”) and then evaluate how strong they are overall to support comparison between 
+vendors (“sovereignty score”).
+
+The path to cloud sovereignty  |  5
+© 2026 Keepit. All rights reserved
+INTRODUCTION
+The sovereignty objectives of the EU 
+Cloud Sovereignty Framework 
+Source: European Commission, Cloud Sovereignty Framework
+SOV-1
+Strategic Sovereignty
+SOV-3
+Data & AI Sovereignty
+SOV-5
+Supply Chain Sovereignty
+SOV-7
+Security & Compliance Sovereignty
+SOV-2
+Legal & Jurisdictional Sovereignty
+SOV-4
+Operational Sovereignty
+SOV-6
+Technology Sovereignty
+SOV-8
+Environmental Sustainability
+Who owns and governs the provider, and 
+could that change under pressure? Strategic 
+Sovereignty assesses ownership stability, 
+governance influence, and EU priority alignment.
+How is data secured, where is it processed, and 
+who controls it? This objective focuses on the 
+protection, control, and independence of data 
+assets and AI services. 
+Where do critical components come from, and 
+who can interrupt them? This objective evaluates 
+the geographic origin, transparency, and 
+resilience of the supply chain. 
+Are security operations and compliance 
+controlled within the EU? This objective assesses 
+the extent to which security, compliance, and 
+resilience measures are controlled within the EU. 
+Which laws apply to the provider, and how 
+exposed is it to foreign authority? This objective 
+evaluates the legal environment, exposure to 
+foreign authority, and enforceability of rights. 
+Can EU actors run, support, and evolve the 
+service independently? This objective measures 
+the practical ability for EU actors to run the 
+technology independently of foreign control.
+Is the technology stack open enough to audit, 
+interoperate with, and leave? This objective 
+evaluates the degree of openness, transparency, 
+and independence of the tech stack. 
+How resilient is the provider in terms of energy 
+use and raw materials? This objective evaluates 
+autonomy and resilience in relation to energy 
+usage and raw material dependency. 
+The framework assesses providers against eight objectives, which clearly define what sovereignty means. 
+Each objective asks a different question about who is in control.
+
+The path to cloud sovereignty  |  6
+© 2026 Keepit. All rights reserved
+OBJECTIVE 1:
+Ownership, control, and alignment with the EU ecosystem 
+Strategic Sovereignty asks a more fundamental question than where your data is stored: Who actually 
+controls the company running your cloud service, and could that change under pressure? It looks at 
+where decision-making authority sits, how exposed the provider is to a change of ownership or control, 
+how much of its funding and economic footprint is EU-based, and whether it could keep operating under 
+external pressure. 
+SOVEREIGNTY OBJECTIVES
+CONTRIBUTING FACTORS
+HOW KEEPIT HELPS
+Location of decision-making 
+authority (EU jurisdiction)
+Safeguards against change of 
+ownership or control
+Reliance on EU-based funding 
+and financial structures
+Contribution to EU economy 
+(investment, jobs, value creation)
+Alignment with EU strategic
+initiatives and policy objectives
+Ability to maintain service 
+continuity under external pressure 
+(e.g., legal or vendor disruption)
+Keepit is an EU-based company headquartered in Denmark, with strategic 
+decision-making, security governance, and product development anchored 
+in the European Union.
+Keepit operates independently with full control over its infrastructure and 
+technology stack, reducing reliance on external providers (e.g., hyperscalers) 
+based abroad. Keepit uses colocation providers for housing hardware, 
+while the infrastructure — computers, storage, network — is fully owned and 
+managed by Keepit and not shared with the colocation infrastructure. Read 
+more about this in our cybersecurity factsheet.
+Keepit is backed by European investors, such as the Export and Investment 
+Fund of Denmark (EIFO), as well as One Peak, reflecting alignment with EU 
+financial priorities.
+Keepit has major operational hubs in Denmark and Poland, with additional 
+offices across key European markets, including Germany, France, and the 
+Netherlands.
+Keepit enables customers to store and manage data within the EU, 
+supporting data sovereignty and control, and aligns with EU priorities for 
+secure and energy-efficient digital infrastructure. Keepit aligns with EU 
+regulations such as GDPR, NIS2, and DORA, and helps its customers comply 
+with these initiatives.
+Keepit’s independent infrastructure reduces exposure to third-party 
+disruption, supporting continued service availability. Keepit’s operations, 
+management, and long-term service continuity are governed under EU law 
+and not subject to direction from non-EU authorities.
+Strategic Sovereignty
+
+The path to cloud sovereignty  |  7
+© 2026 Keepit. All rights reserved
+OBJECTIVE 2:
+Exposure to legal systems and data access risks
+Every cloud contract sits inside a legal system, and that system determines who can be compelled to 
+hand over your data and under what circumstances. This objective evaluates which country’s law actually 
+governs your provider’s operations and contracts, how exposed that provider is to foreign laws with 
+extraterritorial reach (such as the U.S. CLOUD Act), and whether legal, contractual, or technical channels 
+exist that could let a non-EU authority access your data or systems.
+SOVEREIGNTY OBJECTIVES
+CONTRIBUTING FACTORS
+HOW KEEPIT HELPS
+Governing law of the provider’s 
+operations and contracts
+Exposure to non-EU laws with 
+extraterritorial reach (e.g., U.S. 
+CLOUD Act) 
+Keepit A/S is a Danish company, and its operations are subject to Danish law 
+and applicable EU law. This includes directly applicable EU regulations such 
+as GDPR. 
+ 
+Agreements for European customers are governed by the law of an EU/
+EEA member state — by default Danish law, or another member state’s 
+law when agreed with the customer — and are subject to the jurisdiction 
+of that member state. Mandatory provisions of EU and national law apply 
+irrespective of the chosen governing law. 
+Keepit A/S is established in Denmark and subject exclusively to Danish and 
+EU law. Customer data of European customers is stored exclusively in data 
+centers within the EEA.  
+ 
+Keepit has a subsidiary in the United States. This subsidiary is a separate 
+legal entity and does not have possession, custody, or control of customer 
+data held by Keepit A/S, and no technical or operational access to that data. 
+Consequently, Keepit’s assessment is that the U.S. CLOUD Act does not 
+provide a basis for U.S. authorities to compel disclosure of customer data 
+from the subsidiary. In the event of any foreign authority request, Keepit will 
+assess its legality, challenge it where appropriate, and notify the customer to 
+the extent legally permitted. For more information on the implications of the 
+U.S. CLOUD Act for our operations, read our statement here. 
+Legal & Jurisdictional Sovereignty
+
+The path to cloud sovereignty  |  8
+© 2026 Keepit. All rights reserved
+OBJECTIVE 2:
+SOVEREIGNTY OBJECTIVES
+CONTRIBUTING FACTORS
+HOW KEEPIT HELPS
+Applicability of international legal 
+regimes affecting data use or 
+transfer 
+Potential for non-EU authorities 
+to access data or systems (legal, 
+contractual, or technical channels) 
+Location and jurisdiction of 
+intellectual property creation and 
+ownership
+Keepit enables data to be stored and managed within the EU, reducing 
+reliance on international data transfer frameworks and associated legal 
+complexities.
+Since Keepit A/S is established in Denmark and subject only to Danish and 
+EU law, Keepit has no legal obligation under non-EU law to disclose customer 
+data. The U.S. subsidiary does not have possession, custody, or control 
+of that data. Any request from a non-EU authority would need to proceed 
+through recognized legal channels, such as mutual legal assistance or 
+applicable international agreements. Keepit will assess any such request for 
+legality, challenge it where appropriate, and notify the customer to the extent 
+legally permitted.
+Additionally, Keepit does not use external, third-party sub-processors 
+to handle customer data, which minimizes exposure to non-EU legal 
+frameworks through external providers. A list of all sub-processors, including 
+those supporting non-content functions, is available. 
+From a technical perspective, EU customer data resides only in the 
+customer-selected region on Keepit-owned infrastructure. Data is 
+encrypted both in transit and at rest, using keys managed by Keepit within 
+the EEA. Access to production systems and customer data is restricted to 
+authorized personnel located in the EEA, with access logged and reviewed. 
+Keepit’s platform is developed and operated by teams based within the EU, 
+supporting alignment with EU legal jurisdiction over its technology.
+Legal & Jurisdictional Sovereignty
+In short: 
+Keepit A/S is a Danish company, headquartered in Denmark, and governed by EU law. Customer data resides 
+only on Keepit-owned infrastructure in the customer-selected region and will never leave that region. 
+Ask your provider:
+           Which country’s law governs my contract? 
+           Which of your entities could a non-EU authority compel? 
+           Who else touches my data?
+
+The path to cloud sovereignty  |  9
+© 2026 Keepit. All rights reserved
+OBJECTIVE 3:
+Control over data, how it is used, and how it contributes to AI systems
+Data sovereignty isn’t just about geography — it’s about who can act on your data and how verifiable that 
+control is. This objective looks at whether the customer, not the provider, holds effective cryptographic 
+control over their own data, and whether data access and AI model usage are auditable and deletion is 
+verifiable. It also details whether storage and processing are strictly confined to EU jurisdictions with no 
+silent fallback elsewhere, and how independent any AI capabilities are from non-EU technology stacks. 
+In short:
+At Keepit, we are committed to providing our customers with an independent, vendor-neutral cloud that 
+keeps a trusted copy of their data separate from production environments. As AI agents take on business-
+critical decisions, they need data they can trust. Keepit’s AI Truth Cloud gives organizations a complete, 
+immutable copy of their data that no third party can influence. It’s designed to help you verify data before AI 
+uses it and to recover to a known-good state when something goes wrong. 
+SOVEREIGNTY OBJECTIVES
+CONTRIBUTING FACTORS
+HOW KEEPIT HELPS
+Customer control over 
+cryptographic access to their data
+Visibility and auditability of data 
+access and AI usage, including 
+verifiable data deletion 
+Confinement of data storage 
+and processing to European 
+jurisdictions 
+EU control over AI models, 
+data pipelines, and underlying 
+technology 
+Keepit applies strong encryption to customer data in transit and at rest, 
+with strict access controls governing how data can be accessed within the 
+platform. Customers retain control over who can access their data and how it 
+is used within the platform. 
+Keepit ensures controlled and logged administrative access and visibility 
+into data access through audit logs and controlled interfaces. Upon contract 
+termination, Keepit ensures data is deleted in line with its data retention 
+policies and GDPR obligations. 
+Keepit operates data centers in EU regions — including Germany and 
+Denmark — enabling customers to store and manage data within the EU. Data 
+never leaves the selected region, and Keepit does not process customer 
+data using external third-party sub-processors.
+By not relying on external third-party sub-processors for processing 
+customer data, Keepit retains full control over data pipelines and avoids 
+dependency on external technology ecosystems.
+Data & AI Sovereignty
+Read more in our white paper: 
+The principles of true SaaS data protection  
+
+The path to cloud sovereignty  |  10
+© 2026 Keepit. All rights reserved
+OBJECTIVE 4:
+Ability to operate, support, and sustain the service independently within the EU
+A provider can check every legal and data-residency box and still leave you exposed. Operational 
+Sovereignty assesses how easily you could migrate away without lock-in, whether EU-based staff can 
+manage and support the technology without needing non-EU vendor involvement, whether there’s a real 
+EU talent pool behind it, and whether full technical documentation and operational know-how exist to 
+sustain the service long-term.
+SOVEREIGNTY OBJECTIVES
+CONTRIBUTING FACTORS
+HOW KEEPIT HELPS
+Ease of migrating workloads 
+or integrating with alternative 
+EU-controlled solutions (avoiding 
+vendor lock-in) 
+Capacity for EU-based operators 
+to manage, maintain, and support 
+the service without non-EU vendor 
+involvement 
+Availability of EU-based expertise 
+and talent to operate and sustain 
+the service
+Delivery of operational support 
+from within the EU under EU legal 
+jurisdiction
+Availability of technical 
+documentation and operational 
+know-how enabling long-term 
+autonomy 
+Location and legal control of 
+critical suppliers or subcontractors 
+involved in service delivery
+The primary form of vendor lock-in for SaaS data is dependence on the 
+SaaS provider. Keepit addresses this by storing data in its own vendor-
+independent cloud, fully isolated from hyperscalers, so customers 
+retain access to their data even if the SaaS provider is unavailable. Keepit 
+provides integrations and APIs that enable interoperability with broader IT 
+environments, supporting flexibility and reducing dependency. 
+Keepit’s core product development and engineering are anchored in the EU, 
+with primary teams based in Denmark and Poland. Keepit owns and operates 
+its platform without reliance on non-EU technology providers.
+Keepit has established operational and engineering teams across Europe, 
+supporting access to EU-based expertise required to operate and sustain 
+the platform. Operational sovereignty is also supported by documented 
+service continuity and disaster recovery processes. 
+Keepit’s primary operational support is based in the EU, with teams in 
+Denmark and Poland operating under EU legal frameworks. Global support 
+teams outside of the EU are available for customers upon request.
+Keepit develops and operates its platform in-house, maintaining full 
+ownership of operational knowledge and documentation required to 
+manage and sustain the service. 
+Keepit does not rely on external third-party sub-processors, reducing 
+dependency on external suppliers and maintaining control over service 
+delivery. 
+Operational Sovereignty
+
+The path to cloud sovereignty  |  11
+© 2026 Keepit. All rights reserved
+OBJECTIVE 5:
+Control of and dependency on the supply chain needed to deliver the service
+Sovereignty claims tend to focus on the provider’s headquarters, but risk often lives further down the 
+chain — in hardware manufacturing, firmware, and software components sourced from elsewhere. This 
+objective traces the geographic origin of physical components and manufacturing, how reliant the 
+provider is on non-EU vendors or proprietary technologies, and how much visibility and how many audit 
+rights exist across the supply chain.
+SOVEREIGNTY OBJECTIVES
+CONTRIBUTING FACTORS
+HOW KEEPIT HELPS
+Dependence on external suppliers 
+for critical components (hardware, 
+software, infrastructure) 
+Geographic origin of key suppliers 
+(EU vs non-EU)
+Transparency and control over the 
+supply chain
+Risk of disruption from third-party 
+vendors
+Ability to substitute or mitigate 
+supplier dependencies
+Keepit maintains transparency over its critical suppliers. Keepit owns its own 
+hardware and software stack and operates its platform within data center 
+facilities provided by Equinix and Cibicom. Keepit maintains full control 
+over its data, software, and operational processes within those facilities, 
+minimizing reliance on external providers. 
+Keepit’s core engineering and operations are EU-based. Keepit uses two 
+colocation data center providers: Cibicom, a Danish (EU) provider, and 
+Equinix. In both cases, the partner provides facilities (physical space and 
+power) only, while Keepit retains full control of its own hardware, software 
+stack, and customer data within those facilities.
+EU-based customers can select an EU data center region (Copenhagen 
+or Frankfurt), and Keepit guarantees that data never leaves the selected 
+region. Equinix is U.S.-headquartered, but the facilities Keepit uses for these 
+customers are physically located within the EU, so customer data does not 
+reside in the US.  
+By owning and operating its hardware and software platform, Keepit 
+maintains direct visibility and control over its technology stack and data 
+pipelines.
+Keepit manages third-party risk through contractual controls, hardware 
+ownership, and a mirrored dual-data-center architecture that ensures 
+continuity if a single facility is affected. Keepit also engages in an ongoing 
+review of supplier jurisdictional and operational risks. 
+Keepit’s independent architecture reduces critical dependencies, improving 
+its ability to manage or mitigate supplier-related risks.
+Supply Chain Sovereignty
+
+The path to cloud sovereignty  |  12
+© 2026 Keepit. All rights reserved
+OBJECTIVE 6:
+Control of core technologies, architecture, and reliance on external tech ecosystems
+This objective is about whether you’re locked into one vendor’s technology stack or free to move. It 
+evaluates whether the platform integrates through open, well-documented APIs and widely adopted 
+standards rather than proprietary protocols; whether the underlying software is open enough to audit, 
+modify, or redistribute; how much visibility you have into the system’s architecture, data flows, and 
+dependencies; and how independent the provider is from non-EU high-performance computing 
+infrastructure. 
+In short:  
+Sovereignty is a cornerstone of Keepit’s architecture. Unlike traditional SaaS data protection vendors, we 
+built our platform from the ground up and control our own infrastructure, independent of the public cloud. 
+This removes hidden dependencies and indirect access paths. We built our platform this way because true 
+data protection requires separate physical and logical infrastructure. If you want to know more about our 
+architecture, read our white paper on how we raise the bar for data protection in the cloud.
+SOVEREIGNTY OBJECTIVES
+CONTRIBUTING FACTORS
+HOW KEEPIT HELPS
+Ability to integrate with other 
+technologies through open and 
+well-documented APIs and 
+standards 
+Use of open or auditable software, 
+enabling transparency and 
+adaptability 
+Visibility into system design, 
+architecture, and data flows
+Degree of independence from non-
+EU high-performance computing 
+and advanced infrastructure
+Keepit is committed to avoiding vendor lock-in and technology 
+dependencies. Keepit provides integrations and APIs that connect 
+the platform with customers’ broader IT environment, including SaaS 
+applications. This supports interoperability and reduces dependency on a 
+single vendor ecosystem.
+Keepit’s platform is proprietary, fully developed and operated in-house, 
+giving Keepit full control over its technology and enabling transparency into 
+how the service is built and managed. Architectural documentation and APIs 
+are published. 
+Keepit provides transparency into where data is stored and processed 
+through its regionally isolated data centers and no-transfer guarantee, giving 
+customers clear visibility into data residency and data flow. 
+Keepit owns its own hardware and software stack and does not rely on 
+hyperscalers such as AWS or Azure, reducing dependency on major non-EU 
+cloud ecosystems.
+Technology Sovereignty
+Read more in our white paper: 
+Leading SaaS data security 
+
+The path to cloud sovereignty  |  13
+© 2026 Keepit. All rights reserved
+OBJECTIVE 7:
+Ability to ensure security, show compliance, and align with EU regulatory requirements
+Security certifications tell you a provider takes security seriously. This objective covers recognized 
+certifications (e.g., ISO schemes), alignment with GDPR, NIS2, and DORA regulations, whether security 
+operations and monitoring run exclusively under EU jurisdiction, how transparent and timely breach 
+reporting is, and whether EU entities can independently audit security and compliance controls.
+SOVEREIGNTY OBJECTIVES
+CONTRIBUTING FACTORS
+HOW KEEPIT HELPS
+Attainment of EU and internationally 
+recognized security certifications 
+(e.g., ISO, ENISA schemes)
+Adherence to EU regulatory 
+frameworks (e.g., GDPR, NIS2, 
+DORA)
+Operation of security monitoring 
+and response (SOC) under EU 
+jurisdiction, with visibility into logs 
+and alerts 
+Transparent and EU-compliant 
+incident reporting, and autonomy 
+in applying security updates and 
+patches
+Ability for EU entities to audit and 
+verify security and compliance 
+controls
+Keepit operates a mature security and compliance program aligned with 
+EU and international standards. Keepit holds ISO 27001 certification and an 
+independent SOC 2 Type II audit report, delivering regulatory-ready SaaS 
+data protection to organizations worldwide.
+Keepit is designed to support its customers’ compliance efforts under EU 
+regulations such as NIS2 and DORA, most importantly helping its customers 
+separate backup data logically and physically from production data, thus 
+reducing the risk surface. Keepit also supports GDPR compliance by design 
+and default through its unique architecture, helping organizations maintain 
+control over data protection, access, and residency. 
+Keepit operates its platform within the EU, and its security operations center 
+is operating exclusively under EU jurisdiction. This means that security 
+monitoring, incident response, and compliance oversight are all performed 
+under EU jurisdiction. 
+Keepit manages incident response and applies security updates within its 
+own platform, enabling timely response and reducing reliance on external 
+vendors. This includes the ability to develop, test, and apply security patches 
+independently of non-EU vendors. Keepit follows EU-compliant incident 
+notification timelines according to NIS2. 
+Keepit provides documentation and audit capabilities that support 
+verification of security controls by relevant authorities. Multiple sovereign 
+external auditors regularly check Keepit’s security posture. 
+Security & Compliance Sovereignty
+
+The path to cloud sovereignty  |  14
+© 2026 Keepit. All rights reserved
+OBJECTIVE 8:
+Environmental impact of infrastructure and alignment with EU sustainability objectives
+This objective looks at how energy-efficient a provider’s infrastructure is, how transparently carbon 
+emissions and resource use are measured and disclosed, and how much of the provider’s energy comes 
+from renewable or low-carbon sources.
+SOVEREIGNTY OBJECTIVES
+CONTRIBUTING FACTORS
+HOW KEEPIT HELPS
+Energy efficiency of infrastructure 
+and data center operations 
+Use of renewable or low-carbon 
+energy sources
+Transparency in environmental 
+impact and sustainability practices 
+Alignment with EU environmental 
+and sustainability objectives
+Keepit has built its platform from the ground up as a purpose-built 
+architecture for data protection, optimizing performance while minimizing 
+energy consumption and infrastructure overhead.
+Keepit’s EU-based data centers are powered by renewable energy, 
+supporting reduced carbon impact of cloud operations. Data centers are 
+supplied by energy sources that fall under local renewable energy guarantee 
+schemes, such as the GoOs (guarantees of origin) in the EU.
+Keepit’s efficient technology stack reduces storage, processing power, and 
+operational resource needs through design choices such as streamlined 
+architecture and optimized data handling.
+Keepit’s approach focuses on responsible resource consumption and 
+efficient infrastructure, aligning with EU priorities around sustainable and 
+energy-efficient digital services. Keepit’s sustainability practices are 
+independently assessed through an annual EcoVadis sustainability rating, 
+providing third-party validation of its environmental and operational efforts. 
+Environmental Sustainability
+
+The path to cloud sovereignty  |  15
+© 2026 Keepit. All rights reserved
+From framework to decision
+As European organizations place increasing emphasis on sovereignty, many are reassessing their reliance 
+on global cloud ecosystems. Moving toward a more EU-anchored technology stack can help reduce legal 
+and operational exposure — but it also introduces trade-offs. Shifting to regional providers may require 
+upfront investment and careful consideration of resilience, innovation, and long-term flexibility.
+This is where the EU Cloud Sovereignty Framework becomes valuable. It provides a structured way to 
+evaluate providers across legal, operational, and technical dimensions — helping organizations not only 
+meet regulatory expectations, but also demonstrate control over data, infrastructure, and third-party risk. 
+The challenge, however, remains identifying providers that strengthen sovereignty without compromising 
+performance or scalability. 
+CONCLUSION
+Keepit addresses this challenge by combining:
+A fully independent and EU-controlled platform  
+Across the sovereignty objectives outlined in this guide, Keepit consistently aligns with key criteria, enabling 
+organizations to reduce risk while maintaining resilience and operational continuity.  
+In an era where sovereignty risks are growing, Keepit stands as a beacon of control and reliability. 
+By partnering with us, your organization can confidently navigate the complexities of today’s evolving 
+challenges and regulatory requirements with a modern solution that ensures data is secure, compliant, and 
+ready to support innovative business initiatives. 
+Strong legal and jurisdictional positioning  
+Architecture that minimizes external dependencies
+Learn more
+Our report on data sovereignty offers guidance for IT and 
+business leaders on navigating compliance, risk, and control. 
+Learn how to build resilience, strengthen governance, and take 
+control of your data across international operations. 
+Download the report 
+Your data. Here today. Here tomorrow.
+Keepit provides a true SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved.
 
 ------------------------------------------------------------
 
@@ -38187,6 +41148,125 @@ For JACOPS, backup is no longer a reactive
 safeguard. It’s a strategic layer of protection — 
 built to support critical infrastructure projects 
 today and safeguard the company’s digital future.
+
+------------------------------------------------------------
+
+Source URL: https://lp.keepit.com/hubfs/content-assets/case-stories/Keepit-Jeromes-Furniture-customer-story-EN.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-11-08
+
+============================================================
+
+Family-owned business 
+protects business 
+continuity with data 
+protection platform that 
+works
+Customer success story
+
+Family-owned business 
+protects business continuity 
+with data protection 
+platform that works
+Jerome’s Furniture kept running into the same problem: restores from its old backup service 
+failed, in tests and in live recoveries. For a family-owned retailer that’s been in business since 
+1954, that wasn’t a risk worth carrying. Adam Warren, senior director of information 
+technology, and his team searched until they found Keepit to solve their challenges. Now 
+Keepit protects Microsoft 365 and Microsoft Entra ID from a single platform.
+USA
+LOCATION
+Retail
+INDUSTRY
+500
+EMPLOYEES
+Reliable restores, immutability, and 
+compliance drove the decision
+Jerome’s previous backup service covered 
+Google Workspace and Microsoft 365. The team 
+struggled to get reliable backups and hit errors 
+during both test and live restores. “We desperately 
+needed a solid, reliable solution,” Warren says.  
+
+The team evaluated quite a few options before 
+landing on Keepit. They worked with Vp16, a Keepit 
+technology partner, to demo the platform and 
+make the final call.  “The backups and restores 
+must work! Keepit totally fulfills this promise,” he 
+says.  
+
+Jerome’s is based in Southern California and needs 
+its data to stay in the United States for legal and 
+practical reasons. As a retailer, it’s subject to PCI
+Customer success story
+“Cloud platforms have great 
+resiliency, but they aren’t 
+inherently backed up. If a valid 
+but errant or malicious API call 
+says delete something, it’s gone 
+for good. Always have an 
+immutable plan B.”
+Adam Warren  
+Sr. Director of Information Technology  
+Jerome’s Furniture
+2
+
+“When a former employee’s mailbox was lost, Keepit made recovering the 
+archived email a trivial process. Our old solution would have been iffy at best.”
+Adam Warren  
+Sr. Director of Information Technology  
+Jerome’s Furniture
+compliance, CCPA/CPRA, and must maintain strict 
+data protection standards. Encrypted, immutable 
+backups matter too, especially with modern 
+threats like ransomware.
+
+One platform now protects Microsoft 365 
+and Entra ID  
+Keepit replaced the previous service and now 
+covers Jerome’s Microsoft 365 tenant and Entra ID. 
+The team chose to continue protecting Entra ID 
+because it expects its use of Entra and Intune to 
+grow. Keepit stores backup data in dedicated 
+infrastructure, independent of Microsoft.  
+A real-world recovery proved the switch  
+A few years ago, IT needed an email from a former 
+employee’s mailbox. The mailbox had been lost 
+during the account-disabling process, so the 
+archived email had to come from backup.  
+
+Email and Microsoft 365 data support day-to-day 
+business, and slow recovery can get costly. As 
+Warren puts it, reliable backups and restores used 
+to be a constant concern. Now Keepit is “a reliable 
+part of our IT stack.”  
+Customer success story
+3
+
+A plan B is ready for today and tomorrow  
+A family-owned retailer doesn’t have the deep 
+pockets to weather a long outage. With Keepit, 
+Jerome’s has an immutable plan B for its core 
+cloud data, proven in a real recovery. As its use of 
+Entra and Intune grows, that protection is ready to 
+grow with it.  
+About Jerome’s Furniture
+Jerome’s Furniture is a family-owned Southern California furniture retailer in business since 1954. Still owned 
+and operated by the Navarra family, the 500-employee company includes six family members, three of 
+them third-generation retailers. 
+About Vp16 Technologies 
+Vp16 Technologies is a disabled veteran-owned, full-service information management and technology 
+company. It helps organizations in the U.S. lower the costs, risks, and inefficiencies of managing digital data, 
+including backup and archival data. The company also specializes in cybersecurity, data loss protection, and 
+awareness training. 
+Your data. Here today. Here tomorrow.
+Keepit provides a true SaaS data protection platform purpose-built for the cloud by securing data in a vendor-
+independent cloud to safeguard essential business applications, boost cyber resilience, and future-proof data protection.
+For more information visit keepit.com or follow Keepit on LinkedIn.
+© 2026 Keepit. All rights reserved. Microsoft and Microsoft Entra ID are trademarks of the Microsoft group of companies.
+Customer success story
+4
 
 ------------------------------------------------------------
 
