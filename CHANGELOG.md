@@ -1,5 +1,17 @@
 # Keepit KB Changelog
 
+## 2026-11-15
+
+Added (1):
+- https://www.keepit.com/help/power-platform-dynamics-365-category/permissions-for-dynamics-365-and-power-platform-backup-and-restore/
+
+Removed (1):
+- https://www.keepit.com/help/microsoft-365-category/powershell-script-for-entra-id-app-registration/
+
+Modified (2):
+- https://www.keepit.com/awards-and-endorsements/
+- https://www.keepit.com/resources/events/
+
 ## 2026-11-08
 
 Added (8):

@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — RESOURCES
-Generated: 2026-11-08
+Generated: 2026-11-15
 Pages: 96
 ============================================================
 
@@ -444,8 +444,8 @@ Keepit has the solution. With true third-party cloud backup, Keepit offers you i
 
 Source URL: https://www.keepit.com/resources/events/
 Content type: Web page
-Last modified: 2026-11-03T20:39:55+01:00
-Retrieved: 2026-11-08
+Last modified: 2026-11-10T21:08:59+01:00
+Retrieved: 2026-11-15
 
 ============================================================
 
@@ -490,7 +490,16 @@ The session makes the case for keeping backup data outside the platforms it prot
 Attendees will leave with a clearer picture of where single-vendor dependencies create blind spots, why data sovereignty is a resilience issue as much as a compliance one, and how independent cloud backup changes the recovery equation when primary access is lost.
 AI is a high-stakes game. You can’t control every risk it brings, but you can make sure you always have the power to undo it. Meet our team at the Keepit booth to see how an independent, always-recoverable source of known-good data turns AI from a gamble into a confident move.
 Use LSC45EDC to save $450 on a full conference pass here.
-Join our customer session with Quanta Services! Hear from Michael Amsinck, Chief Product and Technology Officer at Keepit, and Jon Shale, Director of Infrastructure at Quanta Services, on December 9 at 2:45 p.m. (PST).
+Keepit: Beyond SaaS Backup â Building Recovery Readiness with Quanta Services
+December 9 | 2:45 - 3:15 p.m. (PST)
+Room: Murano 3301A
+Session Code: SPS39
+When identity is compromised, how do you recover the SaaS environment it controls? Jon Shale, Director, Infrastructure & Operations at Quanta Services, and Michael Amsinck, CPTO at Keepit, discuss how Quanta approaches SaaS resilience across Entra ID, Microsoft 365, Salesforce, and code repositories. Learn how independent backup and restore testing protect critical operations against ransomware and how AI will shape the future of SaaS recovery.
+Takeaways
+Understand why identity recovery is critical to SaaS resilience.
+Learn how to prioritize protection across identity, collaboration, CRM, and code repositories.
+Explore how independent backups and restore testing strengthen operational recovery.
+Jon Shale, Director, Infrastructure & Operations, Quanta Services
 
 ------------------------------------------------------------
 

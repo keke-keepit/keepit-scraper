@@ -1,10 +1,63 @@
 Source URL: https://www.keepit.com/awards-and-endorsements/
 Content type: Web page
-Last modified: 2026-09-30T13:32:51+02:00
-Retrieved: 2026-10-04
+Last modified: 2026-11-11T11:18:28+01:00
+Retrieved: 2026-11-15
 
 ============================================================
 
+October 20, 2026
+Keepit's AI security and cyber resilience platform wins four Top Infosec Innovator awards
+The SaaS data protection platform also earned a Cloud Computing Security Excellence Award from TMC and Cloud Computing Magazine this month
+Trusted by customers and awarded by the industry
+October 9, 2026
+Keepit's AI Truth Cloud provides the trusted data foundation powering the next generation of enterprise AI.
 September 22, 2026
-Keepit wins 2026 Stratus Award for Cloud Computing, bolstering its status as the trusted foundation for AI-enabled enterprises
 Keepit named winner for the second year in a row, this time in the category Backup/Disaster recovery/Resilience. Recognition honors companies, products, and individuals pushing the boundaries of what cloud technology can do.
+June 10, 2026
+Keepit earns TrustRadius Top Rated Award for the fifth year running. Customers award Keepit top rating as a leader among SaaS Backup, Data Loss Prevention, Disaster Recovery, and Enterprise Backup categories.
+June 2, 2026
+Keepit, the only independent, cloud-native data protection and recovery provider, today announced it has been named a winner in the 2026 Fortress Cybersecurity Awards, in the category of Cloud Security.
+April 23, 2026
+The Keepit platform recognized as an exceptional product as SaaS and AI adoption increase, demonstrating leadership in backup and recovery solutions
+March 23, 2026
+Keepit triumphs in cyber resilience and data recovery in 14th Annual Global InfoSec Awards at #RSAC 2026Â
+February 9, 2026
+Keepit, the only independent, cloud-native data protection and recovery provider, today announced that TMC, a global, integrated media company, has named Keepit platform as a 2025 Cloud Computing Backup and Disaster Recovery Award winner, presented by TMCâs Cloud Computing Magazine.
+December 19, 2025
+Keepit, a global provider of a comprehensive cloud backup and recovery platform, is proud to announce it has been recognized at the prestigious 2025 Security Today CyberSecured Awards. The company secured top honors in three categories: Cloud Security, Data Loss Prevention, and Disaster Recovery/Business Continuity.
+October 28, 2025
+Keepit wins at Cyber Defense Magazineâs 13th annual InfoSec awards during CyberDefenseCon 2025 Â
+October 9, 2025
+Prestigious annual awards program recognizes outstanding information security products and companies around the worldÂ Â Â
+September 23, 2025
+2025 Stratus Awards honored visionary companies that are reshaping the digital frontier
+September 2, 2025
+Keepit , the only vendor-independent cloud dedicated to SaaS data protection, today announced that TMC, a global, integrated media company, has named the Keepit platform as a 2025 Cloud Computing Security Excellence Award winner. The Keepit platform backs up business critical SaaS data, ensuring data resilience and business continuity.
+June 10, 2025
+Keepit has been recognized as TrustRadius Top Rated in four categories: SaaS Backup, Data Loss Prevention, Disaster Recovery, and Enterprise Backup. This recognition comes directly from customers, underscoring Keepitâs commitment to providing an intelligent and secure backup and recovery platform.
+May 8, 2025
+Keepit named âBest Security Solution for Data Management/Data Protectionâ for the second year in a row
+April 28, 2025
+Keepit named winner in three categories at the 13th Annual Global InfoSec Awards at #RSAC 2025
+April 3, 2025
+Keepit, a global provider of a comprehensive cloud backup and recovery platform, today announced that it has been selected as winner of the âData Security Solution of the Yearâ award in the 6th annual Data Breakthrough Awards program.
+March 13, 2025
+Keepit, a global provider of a comprehensive cloud backup and recovery platform, announced today its success at the Business Awards UK, 2025 Cybersecurity and Resilience Awards by being named âBest Cybersecurity Backup Serviceâ for the second year in a row.
+January 27, 2025
+Keepit platform honored at the 2024 Backup and Disaster Recovery Awards, underscoring the companyâs commitment to intelligent recovery.
+January 15, 2025
+Keepit, a global provider of a comprehensive cloud backup and recovery platform, announced today its success in the 2024/25 Cloud Awards program by being named winner in the âBest Cloud-Native Project / Solutionâ and âBest Cloud DR / Business Continuity Solutionâ categories.â¯
+December 13, 2024
+Keepit, a global provider of a comprehensive cloud backup and recovery platform, is proud to announce it has been recognized at the prestigious 2024 Security Today CyberSecured Awards. The company secured top honors in three categories: Cloud Security, Data Loss Prevention and Disaster Recovery/Business Continuity.
+November 29, 2024
+Keepit, a global provider of a comprehensive cloud backup and recovery platform, today announced it has been awarded âBest Green Initiativeâ by the Business Awards UK, 2024 Corporate Sustainability Awards. Keepitâs data centers in the Americas and EMEA have been powered by 100% renewable energy since 2023.
+October 31, 2024
+Keepit, a global provider of a comprehensive cloud backup and recovery platform, today announced it has won in four categories at the Top Infosec Innovator 2024 awards.
+October 30, 2024
+Keepit, a global provider of a comprehensive cloud backup and recovery platform, today announced that TrustRadius has recognized the company with an inaugural 2025 Buyer's Choice Award, formerly known as Best of Awards, highlighting Keepitâs commitment to its customers.
+August 13, 2024
+Keepit, announced today its success in the 2024 Cloud SaaS Awards program by being named a winner in the âBest Use of SaaS in a Cloud Ecosystemâ category.
+"Setup is easy, by the end of the demo our environment was almost fully configured."
+We use Keepit to back up everything from Office 365. Whether it is Exchange, OneDrive, SharePoint, or Azure AD, Keepit has us covered. 
+It helps us address the risk of data loss, therefore making us compliant to GDPR. Gives IT managers a goodnight sleep knowing any lost data can be easily retrieved.  
+Excellent All Round Backup, Easy To Setup And Administer - Well Priced

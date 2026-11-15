@@ -1,0 +1,41 @@
+Source URL: https://www.keepit.com/help/power-platform-dynamics-365-category/permissions-for-dynamics-365-and-power-platform-backup-and-restore/
+Content type: Web page
+Last modified: 2026-11-11T14:39:44+01:00
+Retrieved: 2026-11-15
+
+============================================================
+
+The Keepit Power Platform and Dynamics 365 connector requests four permissions across three Microsoft APIs: Microsoft Graph, Dataverse, and the Power Apps service. This article lists each permission, its type, and its purpose.
+How the permissions work
+The connector does most of its work with delegated permissions, acting as the service account that created it. The roles assigned to that account, not the application permissions alone, determine what the connector can read and write in each environment.
+Power Platform and Dynamics 365 enterprise application permissions
+The connector requests the following permissions when you create it and grant consent.
+Required to read users, assigned licenses, and subscribed SKUs in the directory, and to check the directory roles held by the service account. Used for seat counting and connector validation.
+Microsoft Graph
+User.Read
+Delegated
+Dynamics 365, Power Platform
+Required to sign in and read the profile of the service account that runs the backup or restore.
+Dataverse
+user_impersonation
+Delegated
+Dynamics 365 environments, Dataverse tables, Power Platform solutions
+Required to discover environments, and to back up and restore Dataverse data and metadata as the service account.
+Power Apps service
+User
+Delegated
+Canvas apps
+Required to export canvas app packages for backup.
+The sign-in also requests the standard OpenID Connect scopes openid, profile, and email. These scopes identify the signed-in account and grant no access to tenant data.
+We group these permissions into three capabilities:
+Because three of the four permissions are delegated, the service account needs its own roles in Microsoft Entra ID and in each environment.
+Global Administrator role
+You need the Global Administrator role to install the Keepit enterprise application and grant admin consent when you create the first connector. You’re prompted for permissions only the first time you create a connector.
+You can remove the Global Administrator role after you create the connector. You must reassign it to reauthenticate the connector. For instructions, see Remove the Global Administrator role from a Power Platform and Dynamics 365 backup service account.
+For the licenses the service account needs, see Requirements for a Power Platform and Dynamics 365 backup.
+Important: The required permissions can change as Microsoft changes its APIs and as we add coverage. We don’t officially support restricted or custom roles until we’ve fully tested them.
+Backup and restore permissions
+Backup and restore use the same permissions. Restore doesn’t use a separate or wider set. Each permission works as follows:
+Microsoft Graph provides read-only access for the directory lookups described earlier. The connector doesn’t write to the directory.
+Dataverse user_impersonation covers both reading data for backup and writing data back for restore. Write access comes from the service account’s System Administrator security role in the environment.
+The Power Apps service User permission lets the connector export canvas app packages for backup.
