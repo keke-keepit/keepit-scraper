@@ -1,14 +1,14 @@
 Source URL: https://www.keepit.com/customers/penta/
 Content type: Web page
-Last modified: 2025-11-28T14:11:32+01:00
-Retrieved: 2026-07-21
+Last modified: 2026-11-20T14:24:31+01:00
+Retrieved: 2026-11-22
 
 ============================================================
 
 Penta Hospitals recognizes Keepitâs unparalleled business continuity and data compliance benefits
 As a healthcare organization, consistent access to data is essential. Penta Hospitals shines light on Keepit’s ability to prevent data loss and quickly recover data in the event of a ransomware attack. The solution also ensures that the key to their Microsoft data, Entra ID, is consistently backed up. Finally, Keepit makes data compliance easy to achieve with its flexible retention policies and detailed audit trails.
 The search for streamlined data loss prevention
-Aware that their organization faces risks of data loss from accidental deletion, system errors, and cyberattacks, Penta Hospitals was looking for a backup solution with robust data security and data retention. Their research showed that Keepit offers a reliable backup and recovery solution which provides the guarantee that any accidentally or maliciously deleted data can be recovered. Keepit’s independent cloud backup was also a selling point; with their data stored separately with a third party, they can be sure that any Microsoft service disruptions do not affect their data backups. Additionally, Penta Hospitals wanted to make use of Keepit’s 3-2-1 backup rule which ensures 3 copies of data, across two types of storage media, with one off-site copy. Such measures ensure that all hospital data is truly, securely, independently backed up.
+Aware that their organization faces risks of data loss from accidental deletion, system errors, and cyberattacks, Penta Hospitals was looking for a backup solution with robust data security and data retention. Their research showed that Keepit offers a reliable backup and recovery solution which provides the guarantee that any accidentally or maliciously deleted data can be recovered. Keepit’s independent cloud backup was also a selling point; with their data stored separately with a third party, they can be sure that any Microsoft service disruptions do not affect their data backups. Additionally, Penta Hospitals wanted to make use of Keepit's unique approach to backup integrity which ensures 4 copies of data, 2 in each of 2 data centers in 1 off-site location. Such measures ensure that all hospital data is truly, securely, independently backed up.
 I don't think that you will find a better solution than Keepit when it comes to securing your SaaS data across multiple applications and ensuring robust, independent data security.
 Leonard Haraslin
 Penta Hospitals, Information and Cyber Security Specialist

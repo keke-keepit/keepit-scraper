@@ -1,5 +1,5 @@
 KEEPIT KNOWLEDGE BASE — HELP
-Generated: 2026-11-15
+Generated: 2026-11-22
 Pages: 380
 ============================================================
 
@@ -8387,20 +8387,15 @@ Your connector will be created, and the first backup will be scheduled.â¯
 
 Source URL: https://www.keepit.com/help/docusign-category/docusign-backup-coverage/
 Content type: Web page
-Last modified: 2026-08-21T23:02:16+02:00
-Retrieved: 2026-08-23
+Last modified: 2026-11-19T14:10:14+01:00
+Retrieved: 2026-11-22
 
 ============================================================
 
-Backup and restore scope
-This version does not support custom backup or restore configurations. All data in the Docusign instance will be included in any backup or full restore operation.
-Restore limitations
-Signing group members
-The restore process for members within Signing Groups is limited to a maximum of 200 members.
-Envelopes
-- Keepit's Docusign backup includes envelopes, documents, metadata, and audit trails. However, it does not offer a "restore" function for envelopes — and this is intentional. This limitation is based on how Docusign's platform and API are designed. Once an envelope is sent, it enters a legally binding signature workflow. Docusign does not permit envelopes to be reinserted into this workflow or reverted to a previous state. Any attempt to "restore" an envelope would effectively require restarting the entire signing process, which undermines the original timeline, sequence, and compliance integrity of the agreement.
-- Completed envelopes include their own audit certificate, ensuring the full history of the agreement is preserved.
-- Metadata is available for reference or archival compliance.
+Docusign backup coverage
+The table below shows the detailed backup and restore coverage for Keepit for DocuSign. Note that Keepit only covers the DocuSign eSignature product.
+This version does not support custom backup or restore configurations. All data in the Docusign instance will be included in any backup or full restore operation.
+For a list of coverage details, please download this document.
 
 ------------------------------------------------------------
 
@@ -21241,8 +21236,8 @@ Your connector will be scheduled for deletion. You will see a message near your 
 
 Source URL: https://www.keepit.com/help/platform-category/deploy-the-keepit-arm-template-to-microsoft-sentinel/
 Content type: Web page
-Last modified: 2026-07-07T13:57:19+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-11-17T15:31:50+01:00
+Retrieved: 2026-11-22
 
 ============================================================
 
@@ -21255,6 +21250,7 @@ Launch the custom deployment template using this link.
 Several fields will be pre-filled with default values, which you can modify if needed.
 II. Select subscription and resource group
 Select the appropriate subscription and resource group. The Location field defaults to the location of the selected resource group.
+Note: The resource group and the Log Analytics workspace must be in the same Azure region, for example Sweden Central. Your Azure region doesn’t need to match your Keepit region.
 III. Enter your Keepit Account ID
 To find your Keepit Account ID:
 1. Sign in to the Keepit platform.
@@ -21265,7 +21261,7 @@ IV. Enter your Keepit API token credentials
 Provide your Keepit API token login and password.
 For instructions on how to create an API token, click here.
 V. Enter the Keepit host
-Specify the Keepit URL that corresponds you your region.
+Enter the Keepit URL for your region:
 - Denmark (Copenhagen): dk-co.keepit.com
 - United States (Washington, DC): us-dc.keepit.com
 - Australia (Sydney): au-sy.keepit.com
@@ -21273,14 +21269,11 @@ Specify the Keepit URL that corresponds you your region.
 - Germany (Frankfurt): de-fr.keepit.com
 - Canada (Toronto): ca-tr.keepit.com
 - Switzerland (Zurich): ch-zh.keepit.com
-VI. Enter your Log Analytics workspace ID and client authentication key
-To retrieve this information:
+VI. Enter your Log Analytics resource ID
+To find this ID:
 1. In the Azure portal, go to your Resource Group.
-2. Open a Log Analytics workspace.
-This should be the workspace where you want the audit logs to be sent.
-3. Navigate to Settings > Agents.
-4. Under Log Analytics agent instructions, you’ll find the Workspace ID.
-Copy the Workspace ID and either of the keys — both will work.
+2. Open the Log Analytics resource for the workspace where you want to send the audit logs.
+3. Select JSON View, and then copy the Resource ID.
 VII. Deploy the integration
 Click Review + create to deploy the integration to Azure.
 

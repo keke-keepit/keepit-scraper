@@ -1,0 +1,18 @@
+Source URL: https://www.keepit.com/press/global-thought-leaders/
+Content type: Web page
+Last modified: 2026-11-18T14:11:41+01:00
+Retrieved: 2026-11-22
+
+============================================================
+
+From âcan we get it back?â to âcan we trust it?â: Keepit sets out what enterprise AI will demand of data
+New Global Thought Leaders film and “Mastering disaster recovery in the AI era” report argue that verifiable, immutable data is becoming the foundation AI must run on
+COPENHAGEN, Denmark — November 18, 2026 — Keepit, the SaaS data protection expert, today published a new film as part of the Global Thought Leaders series, hosted on CNBC, together with an updated report, “Mastering disaster recovery in the AI era.” Both address challenges faced by CIOs and CISOs at a time of rapid AI adoption, moving the conversation from: “can we get our data back?” to “can we trust it?”
+An AI agent working in a SaaS application can make thousands of changes in the time it takes a person to read a single alert. Whether the cause is an attacker, a faulty automation, or an agent doing exactly what it was told, damage can spread faster than anyone can see it. It can go unnoticed for months, and by the time it surfaces, recent backups may already contain it.
+“Protection alone isn’t enough,” says Frederik Schouboe, Keepit co-founder and chief visionary officer. “You also need to be able to verify the integrity of your data, so you know the data you’re running on is actually true.”
+Isolate data from AI agent access
+The report’s maturity framework, a vendor-neutral model for assessing SaaS disaster recovery readiness across five stages, reflects that shift. It adds automation and AI-readiness maturity as a new category, with measures such as backup isolation from AI agent access, enabled anomaly detection, and recovery testing that separates access to data during a disruption from full restore afterward. The framework treats AI-readiness as a marker of maturity from stage 3 onward rather than as a distant aspiration, and at the leading edge, verified backup data becomes a trusted foundation for AI systems. The framework also addresses agentic AI as an emerging source of data loss.
+“Most organizations have already given AI access to their SaaS data, but only a few have really asked what happens when it does something nobody asked for,” says Paul Robichaux, Microsoft Most Valuable Professional (MVP) and senior director of product management at Keepit. “You can give an AI agent instructions, but you can’t count on it to follow those instructions, so the safe assumption is that it will eventually surprise you. The framework gives IT leaders a practical way to see where they stand: Is your backup out of the agent’s reach? Can you show the data is good? Have you ever actually tried a restore?”
+Immutable backup data held outside production also gives organizations a reliable way back when an AI agent gets it wrong. “Because the data we hold is immutable — it can’t be corrupted, deleted, or altered — you always have a known good state to return to. If an agent makes changes it shouldn’t have, you can roll back to exactly where you were before it touched anything,” says Michael Amsinck, Keepit chief product and technology officer.
+“For us, it seems like we’re built for this moment in time,” says Morten Felsvang, Keepit co-founder and CEO. “Data protection has always been about getting back to normal. Increasingly, it’s about knowing what normal was.”
+Watch the Global Thought Leaders film here, and read the report: “Mastering disaster recovery in the AI era— From reactive to managed: A five-stage SaaS maturity framework” here.

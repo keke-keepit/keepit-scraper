@@ -1,0 +1,114 @@
+Source URL: https://lp.keepit.com/hubfs/content-assets/Help%20center%20documents/Docusign-coverage-details.pdf
+Content type: PDF document
+Title: unknown
+Pages: 4
+Retrieved: 2026-11-22
+
+============================================================
+
+© 2026 Keepit. All rights reserved 
+Coverage details
+
+© 2026 Keepit. All rights reserved 
+Contents 
+ 
+Coverage details ................................................................................................................. 1 
+Contents .............................................................................................................................. 1 
+Envelopes ........................................................................................................................ 2 
+Templates ........................................................................................................................ 2 
+Permission profiles .......................................................................................................... 2 
+Users ............................................................................................................................... 3 
+User groups ..................................................................................................................... 3 
+Signing groups ................................................................................................................ 3 
+ 
+ 
+Envelopes 
+Backup 
+ 
+• 
+Received envelopes aren’t backed up. 
+ 
+• 
+Only envelopes available to the user who authorized the connector are included. 
+This covers envelopes that user sent and envelopes available through Shared 
+Access in Docusign. 
+ 
+• 
+Completed envelopes include their own audit certificate, ensuring the full history 
+of the agreement is preserved. 
+ 
+• 
+Metadata is available for reference or archival compliance. 
+ 
+ 
+Restore 
+ 
+• 
+Envelopes can’t be restored. This limitation comes from the design of the 
+Docusign platform and API. Once an envelope is sent, it enters a legally binding 
+signature workflow. Docusign doesn’t allow envelopes to be reinserted into this 
+workflow or reverted to a previous state. Restoring an envelope would require 
+restarting the entire signing process, which would undermine the original 
+timeline, sequence, and compliance integrity of the agreement.
+
+© 2026 Keepit. All rights reserved 
+Templates 
+Backup 
+ 
+• 
+Password-protected templates aren’t backed up. 
+ 
+Restore 
+• 
+Only whole templates can be restored, not parts of a template. 
+• 
+A workflow or document that exists only in Docusign isn’t removed during 
+restore. 
+ 
+ 
+Permission profiles 
+Restore 
+ 
+• 
+If a permission profile with the same name already exists in Docusign, the 
+restored profile is created with “(Restored)” added to its name. 
+ 
+• 
+If you restore the same profile several times, the suffix can be repeated. 
+ 
+ 
+Users 
+Restore 
+ 
+• 
+If a user’s permission profile was deleted from Docusign, the user is restored 
+without it. To keep this connection, restore the permission profile as well. 
+ 
+• 
+If a user’s group was deleted from Docusign, the user is restored without that 
+group membership. Missing memberships are reported after the restore. 
+ 
+ 
+User groups 
+Backup 
+ 
+• 
+The “Everyone” group isn’t backed up.
+
+© 2026 Keepit. All rights reserved 
+Restore 
+ 
+• 
+The “Administrators” group is backed up but can’t be restored. 
+ 
+• 
+Single group members can’t be restored on their own. Selecting a member opens 
+the user’s folder, so restore the user instead. 
+ 
+ 
+Signing groups 
+Restore 
+ 
+• 
+A signing group can have up to 200 members. If a restore reaches this limit, the 
+remaining members aren’t added. The logs list the missing members.

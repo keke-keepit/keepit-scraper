@@ -1,6 +1,6 @@
 KEEPIT KNOWLEDGE BASE — BLOG
-Generated: 2026-11-15
-Pages: 140
+Generated: 2026-11-22
+Pages: 141
 ============================================================
 
 Source URL: https://www.keepit.com/blog/
@@ -211,6 +211,40 @@ Welcome the genius, keep the keys.
 Agentic AI doesn’t have to be chaotic, but it does have to be contained. When you have a trustworthy, immutable source of truth and rollback, you can take bigger swings and learn faster without losing control. And if it goes wrong, it’s not a catastrophe; it’s a reversal.
 Rollback turns risky autonomy into an advantage.
 Rollback isn’t just protection, it’s what makes experimentation responsible. Agentic AI will be a force multiplier if every action can be explained, bounded, and rolled back. That’s how you get speed and safety at once.
+
+------------------------------------------------------------
+
+Source URL: https://www.keepit.com/blog/ai-security-fundamentals/
+Content type: Web page
+Last modified: 2026-11-17T08:01:25+01:00
+Retrieved: 2026-11-22
+
+============================================================
+
+Does AI change the fundamentals of security?
+At a high level, AI does not change the fundamentals of security. Flawed systems and processes were always flawed, and any security problem identified by AI was there all along.
+The risks we see with users deploying agents, we used to see with users deploying unwanted software (this gave rise to the whole concept of mobile device management). While agents may initiate unwanted actions “by design,” classical software had bugs ultimately leading to some of the same outcomes (data loss and need for recovery).
+It should be clear to everyone in 2026 that backup is not something you can just ignore. From that point of view, nothing changed. But in reality, AI deployment adds such a significant and multifaceted layer of risk to operations that any technology team now should have to demonstrate a path to recovery.
+A new class of mistakes
+While we are used to humans making honest mistakes, we generally assume that people produce work with intent and care. AI agents are by nature very different: When working within their training set, they can be effective productivity tools, but once they are challenged outside of their “comfort zone,” so to speak, there is no logic, intent, or care in their actions.
+Understanding exactly where this limit is, and operating agents in a manner such that this line is never crossed, is basically impossible. We should therefore expect to see a new class of mistakes that were almost unheard of with humans at the helm: everything from mass deletions or mass edits to document or data updates that, to a human, would be unthinkable.
+Agents are either generally deployed with their own identity in the corporate identity management system, which makes it possible to track (and restrict) the actions of the agent, or as desktop-based AI assistants. Desktop-based AI assistants very often simply act on behalf of the end user operating the computer, which means the agent assumes the person’s identity and has all of the access rights and privileges of the person it is acting on behalf of. This latter scenario seems to have the most potential to cause real trouble, both because it is so common and because there is no way to distinguish the actions of the person from the actions of the agent.
+The corporate agents with their own identity are not safe either; not only can they still act outside of their “comfort zone” as previously mentioned, but simple security flaws like prompt injection are still generally unsolved in the world of generative AI.
+The nightmare scenario
+In a scenario where agents acting on behalf of their human users (using their identity) cause a widespread loss, corruption, or otherwise unwanted change to a very large dataset across an organization, it can be very difficult and time-consuming to determine exactly which changes were caused by the rogue agents and which were caused by the legitimate human users the agents were acting on behalf of. This is a nightmare scenario that, first and foremost, we should seek to avoid.
+There is very clearly the prospect of business value to be had from deploying agentic workflows. And there is also very clearly the prospect of significant risk and misfortune. There is no risk of us “running out of AI,” and therefore thoughtful and measured rollout of the technology would be prudent.
+Let the security team spend a little time with the solution before it is deployed to the entire company. Take the time to answer those “annoying questions” that come up. Remember, it’s not just you becoming more efficient with your new workflow; organized crime already implemented those efficiency measures, and if you deploy a flawed solution, chances are they will be quick to profit.
+Demonstrate your path to recovery
+Unleashing AI on a SaaS application that does not have backup introduces major risk with no plausible means of recovery when an accident does occur. Backup has long been mandated by regulation for many businesses in many regions of the world, but backup is rarely a central focus area for the average technology team. For new technology projects, sometimes it is “that annoying request from compliance” or maybe even an afterthought following an audit. For anyone wanting to invest in AI, that approach is unacceptable. Accidents will happen. It’s not a maybe, and technology teams must demonstrate a plausible path to recovery.
+If your backup relies on the same infrastructure as your primary data, then it is, by definition, not a backup. It’s just another copy that you cannot reach when the primary infrastructure becomes unreachable.
+Could your company survive?
+For the sake of argument, let us think through a worst-case scenario where no “quick fixes” are possible because there is no automatic mechanism by which to distinguish between good and bad changes to data.
+If this scenario does happen, a company will need to understand what data it needs to survive. Understand what is critical to your company for the next two weeks. Can you operate two weeks without SharePoint? Can you operate two weeks without Salesforce? What about Jira? The question is not “would it be convenient to …,” the question is “could your company survive ....”
+Once you understand what data is critical short term, you can focus your effort on recovering just that data. This requires a backup infrastructure that is accessible not just at the technical level, but an infrastructure that your backup administrators are comfortable using for both small and large restore jobs across SaaS applications. It will likely be necessary to look at contents of backup datasets before restoring, simply to validate that assumptions about when actions took place actually match with the contents of the backup data to be restored. This can be a work-intensive operation, and really the usability and responsiveness of the tools will determine how quickly this can be accomplished.
+With the short term recovered, you now have two weeks to recover the next tier of data. And so on, until you are all the way back.
+Understand that this prioritization of which data is critical and which is not critical is not something that can be undertaken once disaster has struck. Every team in your business will have data they believe is critical. It takes time for a company to realize that maybe payroll isn’t critical (could your business survive for two weeks without paying out salaries?). Maybe sales isn’t critical (could your business survive for two weeks without closing a new sale?). Maybe engineering isn’t critical (could your company survive for two weeks without anyone building new product?). There is no single mold for all companies; every business will have to have this conversation internally and find out what is truly critical and what is just convenient.
+This conversation must be had before the answers are needed. It is not a conversation that anyone can have in a hastily called meeting at 6:00 in the morning on a Saturday.
+Is your SaaS recovery resilient? Learn more from Keepit's disaster recovery maturity framework and read how to move from reactive to managed with our five-stage SaaS maturity framework.
 
 ------------------------------------------------------------
 

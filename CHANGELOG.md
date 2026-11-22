@@ -1,5 +1,19 @@
 # Keepit KB Changelog
 
+## 2026-11-22
+
+Added (4):
+- https://www.keepit.com/blog/ai-security-fundamentals/
+- https://www.keepit.com/press/global-thought-leaders/
+- https://www.keepit.com/resources/events/keepit-partner-update-festive-edition/
+- https://lp.keepit.com/hubfs/content-assets/Help%20center%20documents/Docusign-coverage-details.pdf
+
+Modified (4):
+- https://www.keepit.com/contact/
+- https://www.keepit.com/customers/penta/
+- https://www.keepit.com/help/docusign-category/docusign-backup-coverage/
+- https://www.keepit.com/help/platform-category/deploy-the-keepit-arm-template-to-microsoft-sentinel/
+
 ## 2026-11-15
 
 Added (1):

@@ -1,7 +1,7 @@
 Source URL: https://www.keepit.com/contact/
 Content type: Web page
-Last modified: 2026-06-29T21:59:28+02:00
-Retrieved: 2026-07-21
+Last modified: 2026-11-18T18:19:08+01:00
+Retrieved: 2026-11-22
 
 ============================================================
 
@@ -34,8 +34,8 @@ sales@keepit.com
 Munich,
 Germany
 Keepit Germany GmbH
-Theresienhöhe 12
-D-80339 München
+Elsenheimerstraße 31
+D-80687 München
 Amtsgericht München, HRB 270094
 Geschäftsführer: Morten Felsvang
 dach.sales@keepit.com
@@ -59,7 +59,7 @@ sales@keepit.com
 São Paulo, 
 Brazil
 Keepit Brazil LTDA.
-Avenida Engenheiro Luís Carlos Berrini,
+Avenida Engenheiro Luís Carlos Berrini, 
 No. 1748, room 1710
 Cidade Monções
 CEP 04.571-000, São Paulo, SP
@@ -72,6 +72,27 @@ Netherlands
 Keepit Netherlands B.V.
 Herikerbergweg 88
 1101 CM, Amsterdam
-the Netherlands
+The Netherlands
 KVK: 97908606
 sales@keepit.com
+Zug, 
+Switzerland
+Keepit Switzerland GmbH
+Bahnhofstrasse 21
+6300 Zug
+Switzerland
+UID: CHE-294.211.309
+Milan, 
+Italy
+Keepit Italy S.r.l.
+Via Porlezza 12
+20123 Milano (MI)
+Italy
+Codice Fiscale: 14938800969
+Stockholm,
+Sweden
+Keepit Sweden AB
+c/o Bird & Bird Advokat KB, Box 7714
+103 95 Stockholm
+Sweden
+Company No.: 559502-1659
